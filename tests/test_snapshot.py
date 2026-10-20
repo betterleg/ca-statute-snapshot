@@ -46,7 +46,7 @@ def row(i, code, sec, lob, hist="(Added by Stats. 2020, Ch. 1.)", active="Y"):
     return "\t".join(f"`{x}`" if " " in x or "(" in x else x for x in f)
 
 def make_zip(path, variant):
-    secs = [("GOV", "65915", ["(a) A city shall grant a density bonus.", "(b) Definitions apply."], [["Percent", "Bonus"], ["10", "20"]]),
+    secs = [("GOV", "65915", ["(a)A city shall grant a density bonus.", "(b) (1)Definitions apply."], [["Percent", "Bonus"], ["10", "20"]]),
             ("GOV", "65589.5", ["(a) The Legislature finds housing is critical.", "(b) More text."] + (["(c) New subdivision."] if variant == 2 else []), None),
             ("GOV", "12345", ["Outside the configured ranges."], None),
             ("PRC", "21080", ["(a) This division applies to discretionary projects."], None),
@@ -74,7 +74,7 @@ def main():
     gov = [json.loads(l) for l in (s / "sections" / "GOV.jsonl").read_text().splitlines()]
     assert [x["sec"] for x in gov] == ["65589.5", "65915"], [x["sec"] for x in gov]      # 12345 out of range, 65000 inactive
     g = next(x for x in gov if x["sec"] == "65915")
-    assert g["paras"][:2] == ["(a) A city shall grant a density bonus.", "(b) Definitions apply."], g["paras"]
+    assert g["paras"][:2] == ["(a) A city shall grant a density bonus.", "(b) (1) Definitions apply."], g["paras"]
     assert g["paras"][2] == "PercentBonus" and g["paras"][3] == "1020", g["paras"]
     assert g["history"] == "(Added by Stats. 2020, Ch. 1.)" and g["heads"]["title"] == "7.", g
     assert not (s / "sections" / "CIV.jsonl").exists()
