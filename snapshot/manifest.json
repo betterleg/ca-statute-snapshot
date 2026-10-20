@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "generated": "2026-10-20T15:37:56+00:00",
+ "codes": {
+  "GOV": {
+   "sections": 1073,
+   "versions": 1083,
+   "hash": "655b07cf61ea358f"
+  },
+  "HSC": {
+   "sections": 150,
+   "versions": 152,
+   "hash": "d0e4269943715781"
+  },
+  "PRC": {
+   "sections": 307,
+   "versions": 307,
+   "hash": "156a3338fa711fbf"
+  }
+ },
+ "config": {
+  "GOV": {
+   "sections": [
+    "8899.50"
+   ],
+   "ranges": [
+    [
+     "65000",
+     "66500"
+    ]
+   ]
+  },
+  "HSC": {
+   "ranges": [
+    [
+     "17000",
+     "17063"
+    ],
+    [
+     "50050",
+     "50107"
+    ]
+   ],
+   "sections": [
+    "17958.1",
+    "18007",
+    "50675.2",
+    "50801"
+   ]
+  },
+  "PRC": {
+   "ranges": [
+    [
+     "21000",
+     "21190"
+    ]
+   ]
+  }
+ },
+ "problems": [],
+ "problem_count": 0,
+ "note": "Convenience copy of California Code text from the Legislature's pubinfo download. The official text is on leginfo.legislature.ca.gov.",
+ "source": {
+  "file": "pubinfo_2025.zip",
+  "last_modified": "Mon, 19 Oct 2026 04:26:10 GMT",
+  "url": "https://downloads.leginfo.legislature.ca.gov/pubinfo_2025.zip"
+ }
+}
