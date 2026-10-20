@@ -173,12 +173,21 @@ class _Paras(html.parser.HTMLParser):
         elif self.depth_p: self.buf.append(d)
 
 
+LABELS = re.compile(r"^((?:\([0-9A-Za-z.]{1,8}\)\s*)+)(?=\S)")
+
+
+def space_labels(s):
+    """leginfo XML separates a subdivision label from its text with an empty spacing element, which leaves
+    "(a)For" in plain text; restore "(a) For" and "(b) (1) Except" (only at the start of a paragraph)."""
+    return LABELS.sub(lambda m: " ".join(re.findall(r"\([0-9A-Za-z.]{1,8}\)", m.group(1))) + " ", s, count=1)
+
+
 def xml_paras(xml):
     p = _Paras(); p.feed(xml); p.close()
     if not p.out:                                   # no <p> markup: fall back to the whole text
         s = norm(re.sub(r"<[^>]+>", " ", xml))
         return [s] if s else []
-    return p.out
+    return [space_labels(x) if CELL not in x else x for x in p.out]
 
 
 # ---------------------------------------------------------------- selection
@@ -231,7 +240,7 @@ def build(zpath, cfg, out, inspect=False, load_zip=None):
         elif r.get("content_xml"): xml = r["content_xml"]
         paras = xml_paras(xml) if xml else []
         if not paras: problems.append(f"{code} {sec}: no text")
-        heads = {k: norm(r.get(k) or "") for k in ("division", "title", "part", "chapter", "article") if norm(r.get(k) or "")}
+        heads = {k: norm(r.get(k) or "") for k in ("division", "title", "part", "chapter", "article") if norm(r.get(k) or "") not in ("", "NULL")}
         sections[code].append({"code": code, "sec": sec, "version": (r.get("law_section_version_id") or r.get("id") or "").strip(),
                                "effective": (r.get("effective_date") or "")[:10], "op": {k: (r.get(k) or "").strip() for k in ("op_statues", "op_chapter", "op_section")},
                                "heads": heads, "history": norm(r.get("history") or ""), "paras": paras, "hash": sha("\n".join(paras))})
@@ -239,7 +248,7 @@ def build(zpath, cfg, out, inspect=False, load_zip=None):
     for r in read_dat(z, "LAW_TOC_TBL", layouts["LAW_TOC_TBL"]):
         c = (r.get("law_code") or "").strip()
         if c in codes and (r.get("active_flg") or "Y").strip().upper() in ("Y", ""):
-            toc[c].append({k: norm(v) for k, v in r.items() if k not in ("trans_uid", "trans_update") and norm(v or "")})
+            toc[c].append({k: norm(v) for k, v in r.items() if k not in ("trans_uid", "trans_update") and norm(v or "") not in ("", "NULL")})
     write_snapshot(out, cfg, sections, toc, problems)
     return sections
 
