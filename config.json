@@ -1,0 +1,42 @@
+{
+  "about": "Codes and section ranges to keep. Codes use the Legislature's abbreviations (GOV, HSC, PRC, CIV, ...). Each code takes \"all\": true, or \"sections\" (exact numbers) and \"ranges\" ([from, to) with to excluded). This configuration is the Housing Laws Navigator's: Government Code Title 7 planning and land use plus § 8899.50, the Employee Housing Act, income definitions and four housing-type definitions (§§ 17958.1, 18007, 50675.2, 50801) in the Health and Safety Code, and CEQA in the Public Resources Code.",
+  "codes": {
+    "GOV": {
+      "sections": [
+        "8899.50"
+      ],
+      "ranges": [
+        [
+          "65000",
+          "66500"
+        ]
+      ]
+    },
+    "HSC": {
+      "ranges": [
+        [
+          "17000",
+          "17063"
+        ],
+        [
+          "50050",
+          "50107"
+        ]
+      ],
+      "sections": [
+        "17958.1",
+        "18007",
+        "50675.2",
+        "50801"
+      ]
+    },
+    "PRC": {
+      "ranges": [
+        [
+          "21000",
+          "21190"
+        ]
+      ]
+    }
+  }
+}
