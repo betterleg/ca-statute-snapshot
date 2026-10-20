@@ -1,0 +1,54 @@
+name: Weekly statute snapshot
+
+on:
+  schedule:
+    # Mondays 13:15 UTC (6:15 a.m. Pacific in summer, 5:15 a.m. in winter), after the Legislature's Sunday-night reload
+    - cron: "15 13 * * 1"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if the Legislature's file has not changed"
+        type: boolean
+        default: false
+      inspect:
+        description: "Only print table layouts and sample rows (writes nothing)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: statute-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build snapshot
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ "${{ github.event.inputs.inspect }}" = "true" ]; then ARGS="$ARGS --inspect"; fi
+          python scripts/pubinfo_snapshot.py --config config.json --out snapshot $ARGS
+
+      - name: Commit snapshot
+        if: always() && github.event.inputs.inspect != 'true'
+        run: |
+          git config user.name "statute-snapshot-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snapshot
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "Statute snapshot $(date -u +%Y-%m-%d)"
+            git push
+          fi
