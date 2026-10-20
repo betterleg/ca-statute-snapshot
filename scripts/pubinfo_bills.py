@@ -48,7 +48,11 @@ SECNUM = re.compile(r"\b\d{1,6}(?:\.\d+)*\b")
 
 
 def sha(s): return hashlib.sha256(s.encode("utf-8")).hexdigest()[:16]
-def strip_tags(s): return norm(re.sub(r"<[^>]+>", " ", s))
+def strip_tags(s): return re.sub(r"\s+([,.;:)])", r"\1", norm(re.sub(r"<[^>]+>", " ", s)))
+def nn(v):
+    """Field value with the database's NULL marker removed."""
+    v = (v or "").strip()
+    return "" if v.upper() == "NULL" else v
 
 
 def newest_daily():
@@ -103,7 +107,7 @@ def bill_sections(xml, codes, cfg_codes):
                 cur = strip_tags(nm.group(1)).rstrip("."); continue
             if cur: buf.setdefault(cur, []).append(p)
         for c, s in named:
-            paras = xml_paras("".join(buf[s])) if s in buf else []
+            paras = xml_paras("".join(buf[s])) if s in buf else (xml_paras(frag) if len(named) == 1 and verb != "repealed" else [])
             x = {"code": c, "sec": s, "action": action, "verb": verb, "paras": paras}
             if not paras and verb != "repealed": x["note"] = "section text not found in this bill section"
             out.append(x)
@@ -133,8 +137,8 @@ def build(zpath, cfg, out, inspect=False, load_zip=None):
     for r in read_dat(z, "BILL_VERSION_TBL", lay["BILL_VERSION_TBL"]):
         if (r.get("active_flg") or "Y").strip().upper() not in ("Y", ""): continue
         bid = r["bill_id"].strip()
-        x = {"id": r["bill_version_id"].strip(), "num": r.get("version_num", "").strip(), "date": (r.get("bill_version_action_date") or "")[:10],
-             "action": norm(r.get("bill_version_action") or ""), "subject": norm(r.get("subject") or ""), "urgency": norm(r.get("urgency") or "")}
+        x = {"id": r["bill_version_id"].strip(), "num": nn(r.get("version_num")), "date": nn(r.get("bill_version_action_date"))[:10],
+             "action": norm(nn(r.get("bill_version_action"))), "subject": norm(nn(r.get("subject"))), "urgency": norm(nn(r.get("urgency")))}
         xml = lob_text(next((v for k, v in r.items() if k == "bill_xml" or (v or "").lower().endswith(".lob")), ""))
         secs = bill_sections(xml, set(codes), codes) if xml else []
         if secs:
@@ -153,7 +157,7 @@ def build(zpath, cfg, out, inspect=False, load_zip=None):
     vids = {v["id"]: bid for bid in hits for v in versions[bid]}
     for r in read_dat(z, "BILL_VERSION_AUTHORS_TBL", lay["BILL_VERSION_AUTHORS_TBL"]):
         vid = r["bill_version_id"].strip()
-        if vid in vids: authors.setdefault(vid, []).append({"name": norm(r.get("name") or ""), "house": r.get("house", ""), "contribution": norm(r.get("contribution") or ""),
+        if vid in vids: authors.setdefault(vid, []).append({"name": norm(nn(r.get("name"))), "house": nn(r.get("house")), "contribution": norm(nn(r.get("contribution"))),
                                                              "primary": (r.get("primary_author_flg") or "").upper() == "Y"})
     # 2. one record per bill
     recs = {}
@@ -165,9 +169,9 @@ def build(zpath, cfg, out, inspect=False, load_zip=None):
         session = (b.get("session_year") or bid[:8]).strip()
         num = f'{(b.get("measure_type") or "").strip()}{(b.get("measure_num") or "").strip()}' or bid[8:]
         hs = sorted(hist.get(bid, []), key=lambda x: (x["date"], int(x["seq"] or 0) if str(x["seq"]).isdigit() else 0))
-        chapter = {"year": (b.get("chapter_year") or "").strip(), "num": (b.get("chapter_num") or "").strip()} if (b.get("chapter_num") or "").strip() else None
-        rec = {"bill_id": bid, "session": session, "bill": num, "status": norm(b.get("current_status") or b.get("measure_state") or ""),
-               "location": norm(b.get("current_location") or ""), "house": (b.get("current_house") or "").strip(), "chapter": chapter,
+        chapter = {"year": nn(b.get("chapter_year")), "num": nn(b.get("chapter_num"))} if nn(b.get("chapter_num")) else None
+        rec = {"bill_id": bid, "session": session, "bill": num, "status": norm(nn(b.get("current_status")) or nn(b.get("measure_state"))),
+               "location": norm(nn(b.get("current_location"))), "house": nn(b.get("current_house")), "chapter": chapter,
                "title": h["title"], "subject": lv["subject"], "urgency": lv["urgency"], "latest_version": {k: lv[k] for k in ("id", "num", "date", "action")},
                "authors": authors.get(lv["id"], []), "history": [{"date": x["date"], "action": x["action"]} for x in hs],
                "versions": [{k: v[k] for k in ("id", "num", "date", "action")} for v in vs], "digest": h["digest"], "sections": h["sections"]}
