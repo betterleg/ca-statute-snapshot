@@ -37,35 +37,35 @@
 "GOV 65007": [
 {
 "effective": "2013-01-01",
-"hash": "100a59caa14ff30e",
+"hash": "3d39c308d4b2f350",
 "version": "id_9f55c3c6-4e0f-11e2-bece-f6c402701ba4"
 }
 ],
 "GOV 65008": [
 {
 "effective": "2020-01-01",
-"hash": "2ecc2e231d940039",
+"hash": "00fad273c4b2c365",
 "version": "id_3f1abb90-1c71-11ea-b366-4d5a39f643ad"
 }
 ],
 "GOV 65009": [
 {
 "effective": "2025-01-01",
-"hash": "e8a39aee4f507fd5",
+"hash": "f757c164e61f2541",
 "version": "id_a4507992-b8c5-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65009.1": [
 {
 "effective": "2025-01-01",
-"hash": "62b2900bd26d6213",
+"hash": "ae8ebd89b06ca471",
 "version": "id_c421254c-b8c1-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65010": [
 {
 "effective": "1985-06-28",
-"hash": "16ccf81685c6093c",
+"hash": "5371f6d3d45f4487",
 "version": "id_c6d2d093-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -205,14 +205,14 @@
 "GOV 65039.5": [
 {
 "effective": "2024-06-29",
-"hash": "769331897547d314",
+"hash": "2cc73c4e9274c35e",
 "version": "id_7bf25469-38a6-11ef-be28-412c69cfabca"
 }
 ],
 "GOV 65040": [
 {
 "effective": "2022-06-30",
-"hash": "c8ff762e73b642cd",
+"hash": "bd08633373f7304e",
 "version": "id_ecabc70a-fe1d-11ec-9d26-ab80667b1746"
 }
 ],
@@ -240,26 +240,26 @@
 "GOV 65040.11.5": [
 {
 "effective": "2017-01-01",
-"hash": "5f8cfb66869e5df8",
+"hash": "27f22395d8a6e822",
 "version": "id_92014404-bbe5-11e6-bdd8-d5db002bdb48"
 }
 ],
 "GOV 65040.12": [
 {
 "effective": "2026-06-29",
-"hash": "f7c7d86bca3f6dfe",
+"hash": "0f96680fefc1a3c2",
 "version": "id_4ed4d29a-7a18-11f1-a786-cd68c45e0f7d"
 },
 {
 "effective": "2026-06-29",
-"hash": "0912a8f5c9608ece",
+"hash": "9d8e998b817ee039",
 "version": "id_f00b451c-7a18-11f1-a786-cd68c45e0f7d"
 }
 ],
 "GOV 65040.14": [
 {
 "effective": "2013-01-01",
-"hash": "f3f32ebfe2cd3032",
+"hash": "65cbf2974f85a219",
 "version": "id_80371914-4e0a-11e2-bece-f6c402701ba4"
 }
 ],
@@ -273,14 +273,14 @@
 "GOV 65040.17": [
 {
 "effective": "2019-10-08",
-"hash": "874606e4851bbd15",
+"hash": "681e0fa03d8f278d",
 "version": "id_2639dbab-eb69-11e9-8e5a-4bf335f9e292"
 }
 ],
 "GOV 65040.2": [
 {
 "effective": "2009-01-01",
-"hash": "f071588dc4c4974b",
+"hash": "dfe812ff81debfba",
 "version": "id_35ba88de-ce9c-11dd-898a-f4578c730531"
 }
 ],
@@ -313,28 +313,28 @@
 "GOV 65040.4": [
 {
 "effective": "NULL",
-"hash": "7074224d712f716d",
+"hash": "2779008cdb00824d",
 "version": "id_c6dbf88d-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65040.5": [
 {
 "effective": "1993-09-24",
-"hash": "cca0b8f2ed15be4f",
+"hash": "7927ef85db67293a",
 "version": "id_c6dbf88f-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65040.6": [
 {
 "effective": "1998-01-01",
-"hash": "b159e6245ae0dfe9",
+"hash": "3eed0cec1250ff70",
 "version": "id_c6dbf891-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65040.7": [
 {
 "effective": "2014-01-01",
-"hash": "48221f36835d8f6d",
+"hash": "9800a1a4d8efb430",
 "version": "id_979b70e7-644e-11e3-a7a3-bf206d1f6db2"
 }
 ],
@@ -348,28 +348,28 @@
 "GOV 65040.9": [
 {
 "effective": "2015-01-01",
-"hash": "1ac3fc2f7d6793b1",
+"hash": "3513ce6ba097f3ce",
 "version": "id_cb0b740c-8b99-11e4-9442-99a54858655f"
 }
 ],
 "GOV 65041": [
 {
 "effective": "2003-01-01",
-"hash": "e9f2b448eb7d5dd4",
+"hash": "688bd094d4c62b7f",
 "version": "id_c6df05df-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65041.1": [
 {
 "effective": "2003-01-01",
-"hash": "118c1ef8fec131e0",
+"hash": "de713b9fbb82bc45",
 "version": "id_c6df05e1-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65042": [
 {
 "effective": "2013-01-01",
-"hash": "7cdf6cefef27445f",
+"hash": "e60beabb2aa59012",
 "version": "id_a3c15b4a-4e0f-11e2-bece-f6c402701ba4"
 }
 ],
@@ -404,14 +404,14 @@
 "GOV 65047": [
 {
 "effective": "NULL",
-"hash": "a0788393e07abd76",
+"hash": "557bbb34f1e44cf7",
 "version": "id_c6e08c8d-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65048": [
 {
 "effective": "2004-01-01",
-"hash": "6a7ea1b8afb41875",
+"hash": "1583cfc15c22b380",
 "version": "id_c6e08c8f-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -425,21 +425,21 @@
 "GOV 65050": [
 {
 "effective": "2015-06-24",
-"hash": "9adfa9266f804770",
+"hash": "b367d37188176ded",
 "version": "id_a89d4ba6-1f55-11e5-82bb-d8493aae43af"
 }
 ],
 "GOV 65051": [
 {
 "effective": "2015-06-24",
-"hash": "1a27c3f680aeb1f9",
+"hash": "76ab1c5ba84d8cfa",
 "version": "id_b722a448-1f55-11e5-82bb-d8493aae43af"
 }
 ],
 "GOV 65054": [
 {
 "effective": "2025-01-01",
-"hash": "8478e7018f0b6032",
+"hash": "7097e4d4eca0fe63",
 "version": "id_213d1ede-b8c0-11ef-87f5-6bbf55a2195e"
 }
 ],
@@ -453,7 +453,7 @@
 "GOV 65054.2": [
 {
 "effective": "2025-01-01",
-"hash": "dc1178799523e61c",
+"hash": "b5c267f22a21e71d",
 "version": "id_213d6d02-b8c0-11ef-87f5-6bbf55a2195e"
 }
 ],
@@ -481,7 +481,7 @@
 "GOV 65060.2": [
 {
 "effective": "NULL",
-"hash": "9b29a686a71a5abb",
+"hash": "374a9483567fb295",
 "version": "id_c6ecc1bc-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -572,7 +572,7 @@
 "GOV 65063.1": [
 {
 "effective": "NULL",
-"hash": "10c5229dcd08c6e0",
+"hash": "2085e930344837e9",
 "version": "id_c6f462fc-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -691,7 +691,7 @@
 "GOV 65065.1": [
 {
 "effective": "NULL",
-"hash": "30e3fdada334fd5b",
+"hash": "6cb34d65b01847f3",
 "version": "id_c6ff3890-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -726,7 +726,7 @@
 "GOV 65066.1": [
 {
 "effective": "NULL",
-"hash": "635c8ec66dee39a2",
+"hash": "c67db468c2663862",
 "version": "id_c73dc83c-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -803,7 +803,7 @@
 "GOV 65070": [
 {
 "effective": "1992-09-30",
-"hash": "0c8240517e8c427a",
+"hash": "2d3f51889fcd77a7",
 "version": "id_c7425c38-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -824,21 +824,21 @@
 "GOV 65072": [
 {
 "effective": "2025-01-01",
-"hash": "dc9d94e138c91e78",
+"hash": "5729861329c1d9f6",
 "version": "id_a82cf074-b8c5-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65072.1": [
 {
 "effective": "2020-01-01",
-"hash": "54aad7d3da82bba1",
+"hash": "c69cb5668bed0d0f",
 "version": "id_6414d3e6-1c71-11ea-b366-4d5a39f643ad"
 }
 ],
 "GOV 65072.2": [
 {
 "effective": "2020-01-01",
-"hash": "efd9b42c7ac56b80",
+"hash": "34cda0e85f55a188",
 "version": "id_6e26a5c8-1c71-11ea-b366-4d5a39f643ad"
 }
 ],
@@ -866,35 +866,35 @@
 "GOV 65074": [
 {
 "effective": "2020-09-18",
-"hash": "cb28b7ee07f81b10",
+"hash": "6af2ce027364ed08",
 "version": "id_ec45aaf7-fcff-11ea-a2e1-016904eacc22"
 }
 ],
 "GOV 65075": [
 {
 "effective": "2025-01-01",
-"hash": "d239b06acab6c131",
+"hash": "7fa09455ad693799",
 "version": "id_c8a303ee-b8c1-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65080": [
 {
 "effective": "2026-01-01",
-"hash": "41a65c552e05a3c8",
+"hash": "8dcdcb7b7ea0b9e4",
 "version": "id_31083b3b-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65080.01": [
 {
 "effective": "2009-01-01",
-"hash": "f26ff3fee516bd05",
+"hash": "40a1e83e3011f176",
 "version": "id_38120d74-ce9c-11dd-898a-f4578c730531"
 }
 ],
 "GOV 65080.02": [
 {
 "effective": "2020-01-01",
-"hash": "42277f6c00dcd919",
+"hash": "5ac7782e62658274",
 "version": "id_a6ccd0c0-1c60-11ea-b366-4d5a39f643ad"
 }
 ],
@@ -915,14 +915,14 @@
 "GOV 65080.3": [
 {
 "effective": "2001-01-01",
-"hash": "6061fc5d47162e60",
+"hash": "3d8bcdc101895ffd",
 "version": "id_c746ef28-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65080.5": [
 {
 "effective": "NULL",
-"hash": "be12a6a3748977da",
+"hash": "49798561fc214336",
 "version": "id_c746ef2a-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -936,35 +936,35 @@
 "GOV 65080.9": [
 {
 "effective": "2019-01-01",
-"hash": "47d6e4191d5d736e",
+"hash": "b2eb979f6753be0c",
 "version": "id_7bf592d2-fe45-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65081": [
 {
 "effective": "2017-01-01",
-"hash": "2114815f799d461d",
+"hash": "bcae42c569542a7e",
 "version": "id_2116b7c2-bbf4-11e6-bdd8-d5db002bdb48"
 }
 ],
 "GOV 65081.1": [
 {
 "effective": "1998-01-01",
-"hash": "dee39dda89ca562c",
+"hash": "b70722ab70d2a475",
 "version": "id_c746ef2c-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65081.3": [
 {
 "effective": "1993-01-01",
-"hash": "581fc9450de98e8b",
+"hash": "df852b819f83be85",
 "version": "id_c746ef2e-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65082": [
 {
 "effective": "2004-01-01",
-"hash": "90341b5583c0e0d6",
+"hash": "49b4d5eb6fc3c726",
 "version": "id_c74875d0-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -999,21 +999,21 @@
 "GOV 65086.5": [
 {
 "effective": "1998-09-21",
-"hash": "f21c4f3a16236ad3",
+"hash": "af88c0d2285f4a01",
 "version": "id_c749fc7a-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65088": [
 {
 "effective": "2003-01-01",
-"hash": "f3175ad5cb4160e0",
+"hash": "8015d7f59201c9c7",
 "version": "id_c749fc7e-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65088.1": [
 {
 "effective": "2014-01-01",
-"hash": "a3a4b435708c49e7",
+"hash": "b4b21d71de72b09c",
 "version": "id_a12fd569-644e-11e3-a7a3-bf206d1f6db2"
 }
 ],
@@ -1027,7 +1027,7 @@
 "GOV 65088.4": [
 {
 "effective": "2014-01-01",
-"hash": "6045395b4d95df4b",
+"hash": "67d4c23bb4237509",
 "version": "id_a780809b-644e-11e3-a7a3-bf206d1f6db2"
 }
 ],
@@ -1041,14 +1041,14 @@
 "GOV 65089": [
 {
 "effective": "2003-01-01",
-"hash": "bedf2b779f6b3c6d",
+"hash": "98c955a6d153afea",
 "version": "id_c74d09c8-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65089.1": [
 {
 "effective": "1995-01-01",
-"hash": "e384b400a8ecea2e",
+"hash": "00b126109839417e",
 "version": "id_c74d09ca-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1062,14 +1062,14 @@
 "GOV 65089.11": [
 {
 "effective": "2009-01-01",
-"hash": "9ce78afb3c17f308",
+"hash": "20a7673819975cfe",
 "version": "id_390dab86-ce9c-11dd-898a-f4578c730531"
 }
 ],
 "GOV 65089.12": [
 {
 "effective": "2005-01-01",
-"hash": "1cdad797f019a172",
+"hash": "d49c6123999b69c7",
 "version": "id_23c64368-6513-11d9-bd15-b3cbb5da6f1d"
 }
 ],
@@ -1097,35 +1097,35 @@
 "GOV 65089.2": [
 {
 "effective": "2015-01-01",
-"hash": "d68973417070cc5a",
+"hash": "da06e3e790c887c7",
 "version": "id_cd31885e-8b99-11e4-9442-99a54858655f"
 }
 ],
 "GOV 65089.20": [
 {
 "effective": "2010-01-01",
-"hash": "781d4cd69ee2fb3b",
+"hash": "d26d3f7917b21927",
 "version": "id_bdeb50af-f69c-11de-b0ec-bb14591ec966"
 }
 ],
 "GOV 65089.3": [
 {
 "effective": "1997-01-01",
-"hash": "0e1a0261eae496dc",
+"hash": "7226554ebdccbdd9",
 "version": "id_c74e906e-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65089.4": [
 {
 "effective": "1995-01-01",
-"hash": "c100f5f53a7639ce",
+"hash": "cd86e845cad03d68",
 "version": "id_c74e9070-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65089.5": [
 {
 "effective": "1995-01-01",
-"hash": "ef2355de0be94076",
+"hash": "facc11a34f749994",
 "version": "id_c7501712-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1153,21 +1153,21 @@
 "GOV 65090": [
 {
 "effective": "2001-01-01",
-"hash": "02c0c24faa128874",
+"hash": "e88c90e9174fee10",
 "version": "id_c7519dbe-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65091": [
 {
 "effective": "2017-01-01",
-"hash": "f01e05ebe3b3ca54",
+"hash": "9458a7489f2f928f",
 "version": "id_26ea91d4-bbf4-11e6-bdd8-d5db002bdb48"
 }
 ],
 "GOV 65092": [
 {
 "effective": "2005-01-01",
-"hash": "227082bb05ed4891",
+"hash": "0881511dc235c34f",
 "version": "id_f554f5d5-6513-11d9-bd15-b3cbb5da6f1d"
 }
 ],
@@ -1195,42 +1195,42 @@
 "GOV 65096": [
 {
 "effective": "NULL",
-"hash": "5274404f88a4a684",
+"hash": "314735e8daddddf1",
 "version": "id_c753246a-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65098": [
 {
 "effective": "2026-01-01",
-"hash": "d2a04df894be68c4",
+"hash": "63fc795c9f224c2c",
 "version": "id_35ba519d-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65098.1": [
 {
 "effective": "2026-01-01",
-"hash": "23a92ef60e3b0fdb",
+"hash": "c71b2840f28086e8",
 "version": "id_3964e30f-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65098.1.5": [
 {
 "effective": "2026-01-01",
-"hash": "985ce22729e6db01",
+"hash": "ff03c5e617cf2db8",
 "version": "id_3bd40d51-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65098.1.6": [
 {
 "effective": "2026-01-01",
-"hash": "b9bb9c5dd2aab5bc",
+"hash": "8eae9016e163e25a",
 "version": "id_1ffb50ff-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65098.2": [
 {
 "effective": "2026-01-01",
-"hash": "baf7da67b4f52fc5",
+"hash": "0f7bcfe180fafdb9",
 "version": "id_3e3d4523-cfad-11f0-bfde-adfc216d767c"
 }
 ],
@@ -1244,42 +1244,42 @@
 "GOV 65098.2.7": [
 {
 "effective": "2026-01-01",
-"hash": "a3e749e473952a19",
+"hash": "f037a8cea037cd35",
 "version": "id_43072947-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65098.2.8": [
 {
 "effective": "2026-01-01",
-"hash": "6f2e90b6b73fa130",
+"hash": "3c19a4e31e281b8d",
 "version": "id_2334f831-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65098.3": [
 {
 "effective": "2026-01-01",
-"hash": "7b52033d548139d4",
+"hash": "66f2439feecd8450",
 "version": "id_4576a2a9-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65098.4": [
 {
 "effective": "2026-01-01",
-"hash": "eb85c670a5a96993",
+"hash": "629827230f5e805f",
 "version": "id_47e72d7b-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65098.5": [
 {
 "effective": "2026-01-01",
-"hash": "dc2e6162d5956615",
+"hash": "d5014eb749b7c1c0",
 "version": "id_4a52882d-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65098.6": [
 {
 "effective": "2026-01-01",
-"hash": "86e6e99ac63dd395",
+"hash": "60b2584bc354779d",
 "version": "id_4cb6ddff-cfad-11f0-bfde-adfc216d767c"
 }
 ],
@@ -1300,7 +1300,7 @@
 "GOV 65098.9": [
 {
 "effective": "2025-01-01",
-"hash": "b99c8c76016667c5",
+"hash": "35615906285d1de4",
 "version": "id_2895c450-b8c0-11ef-87f5-6bbf55a2195e"
 }
 ],
@@ -1314,7 +1314,7 @@
 "GOV 65101": [
 {
 "effective": "NULL",
-"hash": "99462e8c4897e540",
+"hash": "7e5db660e077bdbe",
 "version": "id_c754ab12-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1335,14 +1335,14 @@
 "GOV 65103": [
 {
 "effective": "NULL",
-"hash": "2ab7fca27013ad05",
+"hash": "db4f9bd4c23a9e93",
 "version": "id_c75631b8-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65103.5": [
 {
 "effective": "2025-01-01",
-"hash": "4ac2298bb94d2208",
+"hash": "efb7eb502c5c97d9",
 "version": "id_abea94b6-b8c5-11ef-87f5-6bbf55a2195e"
 }
 ],
@@ -1377,7 +1377,7 @@
 "GOV 65250": [
 {
 "effective": "1994-01-01",
-"hash": "f8ecfba778beaf40",
+"hash": "d7c1a4c99aee5b9d",
 "version": "id_c75631c2-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1391,14 +1391,14 @@
 "GOV 65300.2": [
 {
 "effective": "2008-01-01",
-"hash": "a5b02e04de532017",
+"hash": "96ae7c0e63261da6",
 "version": "id_37784c4c-a4c7-11dc-bd1e-8ef80c9262aa"
 }
 ],
 "GOV 65300.5": [
 {
 "effective": "2023-01-01",
-"hash": "f7d4d330332f5ba7",
+"hash": "1117c8833ac20250",
 "version": "id_f7733278-7cb5-11ed-acb9-a59a0646e1a6"
 }
 ],
@@ -1419,7 +1419,7 @@
 "GOV 65301": [
 {
 "effective": "2007-01-01",
-"hash": "14a144997bfac975",
+"hash": "8785040d9a42d951",
 "version": "id_e25a7072-8f68-11db-9801-f57d41d6b535"
 }
 ],
@@ -1433,49 +1433,49 @@
 "GOV 65302": [
 {
 "effective": "2026-01-01",
-"hash": "8f0d93525c80d933",
+"hash": "e622b4ce581d234e",
 "version": "id_4f87b141-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65302.01": [
 {
 "effective": "2025-01-01",
-"hash": "28de83f5de83605c",
+"hash": "7121686be34b71c6",
 "version": "id_cd29eba0-b8c1-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65302.02": [
 {
 "effective": "2026-01-01",
-"hash": "306198046dc670d8",
+"hash": "156513c0db8db3fa",
 "version": "id_598cb1e3-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65302.1": [
 {
 "effective": "2004-01-01",
-"hash": "5e03f98461dcdebb",
+"hash": "09014869677cd177",
 "version": "id_c75ac5b4-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65302.10": [
 {
 "effective": "2013-01-01",
-"hash": "abba2a36a536022f",
+"hash": "02f8c4d804d270a9",
 "version": "id_a883502e-4e0f-11e2-bece-f6c402701ba4"
 }
 ],
 "GOV 65302.13": [
 {
 "effective": "2026-01-01",
-"hash": "723751a10c4c6337",
+"hash": "068ca20306f042de",
 "version": "id_2632f5f3-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65302.15": [
 {
 "effective": "2022-01-01",
-"hash": "7a386e1301cfb2de",
+"hash": "f48de3034997e144",
 "version": "id_6e0bdf86-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
@@ -1489,7 +1489,7 @@
 "GOV 65302.3": [
 {
 "effective": "2003-01-01",
-"hash": "4ff91fbd5bbe76cd",
+"hash": "0fa549e561895090",
 "version": "id_c75ac5b8-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1503,35 +1503,35 @@
 "GOV 65302.5": [
 {
 "effective": "2019-01-01",
-"hash": "d1600be82350241d",
+"hash": "6a1babf63fb1fdf2",
 "version": "id_2fe208e0-fe88-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65302.6": [
 {
 "effective": "2013-09-26",
-"hash": "5b316f1eab1cff68",
+"hash": "f58bac9253a74030",
 "version": "id_35ab6a8d-2bb8-11e3-986d-eec746dc55f1"
 }
 ],
 "GOV 65302.7": [
 {
 "effective": "2008-01-01",
-"hash": "a62cae15df9f2e64",
+"hash": "6e32d726b719173b",
 "version": "id_38172460-a4c7-11dc-bd1e-8ef80c9262aa"
 }
 ],
 "GOV 65302.8": [
 {
 "effective": "NULL",
-"hash": "7fa262c9dfaf60a3",
+"hash": "a5885a09ffdf2101",
 "version": "id_c75c4c5c-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65302.9": [
 {
 "effective": "2013-01-01",
-"hash": "5a8c30e8b5e33434",
+"hash": "9155c1335b9013a8",
 "version": "id_ac8f89a2-4e0f-11e2-bece-f6c402701ba4"
 }
 ],
@@ -1559,7 +1559,7 @@
 "GOV 65350.5": [
 {
 "effective": "2015-01-01",
-"hash": "b5f8eba651c4cd27",
+"hash": "248445c2ba07a067",
 "version": "id_7ecacd9c-8b97-11e4-9442-99a54858655f"
 }
 ],
@@ -1573,21 +1573,21 @@
 "GOV 65352": [
 {
 "effective": "2020-01-01",
-"hash": "24f18802b7a2b560",
+"hash": "5f1fdeadd9a47ed5",
 "version": "id_9409be8e-1c71-11ea-b366-4d5a39f643ad"
 }
 ],
 "GOV 65352.2": [
 {
 "effective": "2004-01-01",
-"hash": "15e91648a0be7716",
+"hash": "910b7c3586d6fb8b",
 "version": "id_c75f59ac-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65352.3": [
 {
 "effective": "2005-10-07",
-"hash": "c605e9d911a99a60",
+"hash": "7ba81890bda16376",
 "version": "id_dc414abe-42ae-11da-82ff-c0b2e756c8ca"
 }
 ],
@@ -1601,14 +1601,14 @@
 "GOV 65352.5": [
 {
 "effective": "2016-01-01",
-"hash": "04bfc8b562fe3ba3",
+"hash": "0ba710b9c0bdceba",
 "version": "id_c0d58a53-9f9d-11e5-bacb-c9b7c1eb246b"
 }
 ],
 "GOV 65353": [
 {
 "effective": "2012-01-01",
-"hash": "3d999f9a0b46308e",
+"hash": "b062b9f9897d4f63",
 "version": "id_4f263881-22e7-11e1-b409-d59fe8a0aa9b"
 }
 ],
@@ -1622,7 +1622,7 @@
 "GOV 65354.5": [
 {
 "effective": "NULL",
-"hash": "2f8118014b6c67b8",
+"hash": "27fb031ba44d7444",
 "version": "id_c7610764-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1636,21 +1636,21 @@
 "GOV 65356": [
 {
 "effective": "2019-01-01",
-"hash": "96c1837c706e007a",
+"hash": "73ab77e326f0f312",
 "version": "id_c0c42f04-fe88-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65357": [
 {
 "effective": "NULL",
-"hash": "639488d846f4440b",
+"hash": "e3e0d5d3b3cfbc51",
 "version": "id_c761076a-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65358": [
 {
 "effective": "2008-01-01",
-"hash": "12181ea353e28b36",
+"hash": "2eee04a6514403c2",
 "version": "id_39417398-a4c7-11dc-bd1e-8ef80c9262aa"
 }
 ],
@@ -1664,14 +1664,14 @@
 "GOV 65360": [
 {
 "effective": "NULL",
-"hash": "659fc7807d0d45c9",
+"hash": "1966463f3b89e685",
 "version": "id_c7628e10-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65361": [
 {
 "effective": "1997-01-01",
-"hash": "9f3eec01771813af",
+"hash": "c95b34ab1a594fb7",
 "version": "id_c7628e12-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1685,21 +1685,21 @@
 "GOV 65400": [
 {
 "effective": "2026-07-13",
-"hash": "5cf4a5a61b0b20a7",
+"hash": "f32ecdd71adceff6",
 "version": "id_ee75fe14-7fc9-11f1-bb32-59ebc77cabfb"
 }
 ],
 "GOV 65400.2": [
 {
 "effective": "2022-01-01",
-"hash": "28650f6db58a84fd",
+"hash": "85bdc1618b96a92e",
 "version": "id_3312d3aa-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 65400.3": [
 {
 "effective": "2026-01-01",
-"hash": "ca80ac4c13046e7d",
+"hash": "002402af735396d9",
 "version": "id_3118e0b5-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
@@ -1713,21 +1713,21 @@
 "GOV 65402": [
 {
 "effective": "NULL",
-"hash": "4cfc8f0b3916a8af",
+"hash": "b156108714659d5e",
 "version": "id_c7659b5c-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65403": [
 {
 "effective": "NULL",
-"hash": "c5137567835fff23",
+"hash": "7ea2995660bbd376",
 "version": "id_c7659b5e-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65404": [
 {
 "effective": "2005-01-01",
-"hash": "11bc466367aeed25",
+"hash": "3ca37976db4c0e33",
 "version": "id_faca0e27-6513-11d9-bd15-b3cbb5da6f1d"
 }
 ],
@@ -1741,7 +1741,7 @@
 "GOV 65451": [
 {
 "effective": "NULL",
-"hash": "2c65c42a28caca06",
+"hash": "082736bf8b049584",
 "version": "id_c7672206-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1755,7 +1755,7 @@
 "GOV 65453": [
 {
 "effective": "NULL",
-"hash": "0d52f6369df2cb2c",
+"hash": "cbfa3a0c7e97ed29",
 "version": "id_c767220a-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1776,35 +1776,35 @@
 "GOV 65456": [
 {
 "effective": "NULL",
-"hash": "2ef302279fd3b4fd",
+"hash": "636423dda7a810fc",
 "version": "id_c7672210-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65457": [
 {
 "effective": "2007-01-01",
-"hash": "71248c3908e952fa",
+"hash": "0f2c043fc4ec88c8",
 "version": "id_e3fcfcec-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 65458": [
 {
 "effective": "2025-10-01",
-"hash": "639300ed82446664",
+"hash": "3aece25370d7a8af",
 "version": "id_9d113ead-a0ab-11f0-9052-b7a92a296773"
 }
 ],
 "GOV 65458.1": [
 {
 "effective": "2025-10-01",
-"hash": "356ed4a6bf35d1c7",
+"hash": "939806b2b20137fb",
 "version": "id_9d113eaf-a0ab-11f0-9052-b7a92a296773"
 }
 ],
 "GOV 65458.2": [
 {
 "effective": "2025-10-01",
-"hash": "5c5b051a9c605b93",
+"hash": "a73d0948da6d45b1",
 "version": "id_9d113eb1-a0ab-11f0-9052-b7a92a296773"
 }
 ],
@@ -1832,7 +1832,7 @@
 "GOV 65460.1": [
 {
 "effective": "2011-01-01",
-"hash": "1d07bc2dea22faba",
+"hash": "1a519b7e722d3f69",
 "version": "id_3dd7efd9-1447-11e0-85fe-826b00c4d02a"
 }
 ],
@@ -1846,14 +1846,14 @@
 "GOV 65460.11": [
 {
 "effective": "2006-01-01",
-"hash": "5dfb0a717d22d3c1",
+"hash": "14a6291237a76c3c",
 "version": "id_dcf98d80-678e-11da-ba5f-82a1c23fd291"
 }
 ],
 "GOV 65460.2": [
 {
 "effective": "2015-01-01",
-"hash": "4a0b118ec7b58cf1",
+"hash": "c533777045271873",
 "version": "id_d56ec156-8b99-11e4-9442-99a54858655f"
 }
 ],
@@ -1888,7 +1888,7 @@
 "GOV 65460.7": [
 {
 "effective": "2006-01-01",
-"hash": "2bd2525d3ddd3b91",
+"hash": "2c86045ecff272f4",
 "version": "id_dd419302-678e-11da-ba5f-82a1c23fd291"
 }
 ],
@@ -1909,28 +1909,28 @@
 "GOV 65470": [
 {
 "effective": "2012-01-01",
-"hash": "0cac54df756ef09c",
+"hash": "c825c09c91633b47",
 "version": "id_15d8ac1f-22bd-11e1-b409-d59fe8a0aa9b"
 }
 ],
 "GOV 65560": [
 {
 "effective": "2018-01-01",
-"hash": "f80f155179283ff3",
+"hash": "85a20558d1e96cf1",
 "version": "id_7deef531-e531-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65561": [
 {
 "effective": "NULL",
-"hash": "8f45c170523a7395",
+"hash": "43bff7bae6ae8e7a",
 "version": "id_c76d3cb2-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65562": [
 {
 "effective": "NULL",
-"hash": "78ff3e18d85fd439",
+"hash": "62dbd144abf7b9c7",
 "version": "id_c76ec354-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1944,7 +1944,7 @@
 "GOV 65563": [
 {
 "effective": "NULL",
-"hash": "42eb3a5d62d262fa",
+"hash": "dbfee8d75853bb39",
 "version": "id_c76ec356-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -1958,21 +1958,21 @@
 "GOV 65565": [
 {
 "effective": "2018-01-01",
-"hash": "242fe71da35bd022",
+"hash": "001feefdb4c49efb",
 "version": "id_50739873-e51b-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65565.1": [
 {
 "effective": "2018-01-01",
-"hash": "fd08808af1ae60e6",
+"hash": "3630c6c50eaf973d",
 "version": "id_6c7bcdd5-e51b-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65565.5": [
 {
 "effective": "2023-01-01",
-"hash": "56f1be31317d1198",
+"hash": "428a375b8625c174",
 "version": "id_4cedcc70-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
@@ -2000,110 +2000,110 @@
 "GOV 65570": [
 {
 "effective": "2018-01-01",
-"hash": "bce0d133ae9d4fa0",
+"hash": "a417747217747a01",
 "version": "id_9491a2b3-e531-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65580": [
 {
 "effective": "2018-01-01",
-"hash": "07b6fa17b18622c7",
+"hash": "1b5e3e7573b34a65",
 "version": "id_ab761425-e531-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65581": [
 {
 "effective": "NULL",
-"hash": "52140f38c13221c9",
+"hash": "254e6d5830a3d385",
 "version": "id_c7704a06-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65582": [
 {
 "effective": "2025-01-01",
-"hash": "007d5b6a279edec1",
+"hash": "4c261cafb36f1d28",
 "version": "id_c2f097ec-b8c5-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65582.1": [
 {
 "effective": "2024-03-25",
-"hash": "906f7a3e1458787c",
+"hash": "eee3fd688254f436",
 "version": "id_b1a5528a-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 65583": [
 {
 "effective": "2026-01-01",
-"hash": "604ad3771c701f5e",
+"hash": "ba5ed00250b6f923",
 "version": "id_6d6dce67-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65583.05": [
 {
 "effective": "2025-01-01",
-"hash": "111db27104588252",
+"hash": "c854af10ebb2195f",
 "version": "id_ddca8324-b8c1-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65583.1": [
 {
 "effective": "2026-06-30",
-"hash": "cfe0b19ffbb8493b",
+"hash": "67d8678f3cabd89c",
 "version": "id_ac049a56-762b-11f1-add4-ed9e66f640c7"
 }
 ],
 "GOV 65583.2": [
 {
 "effective": "2025-01-01",
-"hash": "335bb08fadce1286",
+"hash": "46ce5d5062ca22c2",
 "version": "id_d9ad3512-b8c5-11ef-87f5-6bbf55a2195e"
 },
 {
 "effective": "2025-01-01",
-"hash": "ff5dcf26ce17c363",
+"hash": "420daa58a00235fb",
 "version": "id_e1ccacd4-b8c5-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65583.3": [
 {
 "effective": "2020-01-01",
-"hash": "cc31c8257096d075",
+"hash": "a8140a68f51d5098",
 "version": "id_c9568556-1c60-11ea-b366-4d5a39f643ad"
 }
 ],
 "GOV 65583.4": [
 {
 "effective": "2022-06-30",
-"hash": "a6f705bffa28ef75",
+"hash": "d8677c3475183abe",
 "version": "id_fd558425-0207-11ed-b7fa-978722836f6d"
 }
 ],
 "GOV 65584": [
 {
 "effective": "2026-01-01",
-"hash": "4d2c4f4922bbb1da",
+"hash": "6bebc9b5e532eb38",
 "version": "id_77843429-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65584.01": [
 {
 "effective": "2026-01-01",
-"hash": "cdb92bb551b0cab1",
+"hash": "42acc643a08ff10f",
 "version": "id_81c4901b-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65584.03": [
 {
 "effective": "2026-01-01",
-"hash": "016b81e0cb4e550f",
+"hash": "3fbc281c4cb36bf8",
 "version": "id_8bb3499d-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65584.04": [
 {
 "effective": "2026-01-01",
-"hash": "fd40f6630205a00a",
+"hash": "9d29a91e3c20d70b",
 "version": "id_95a4741f-cfad-11f0-bfde-adfc216d767c"
 }
 ],
@@ -2117,35 +2117,35 @@
 "GOV 65584.05": [
 {
 "effective": "2025-01-01",
-"hash": "b28264fe779feee5",
+"hash": "73999e5fc47a629e",
 "version": "id_00adcbcc-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65584.06": [
 {
 "effective": "2025-01-01",
-"hash": "b9eb6b023e5b24ef",
+"hash": "7cae6d6d9d333f0d",
 "version": "id_0814f00e-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65584.07": [
 {
 "effective": "2025-01-01",
-"hash": "58b3e40618bfb06a",
+"hash": "13480a35f5eb4c2c",
 "version": "id_102c9fa0-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65584.08": [
 {
 "effective": "2021-01-01",
-"hash": "8981c11b52cc1193",
+"hash": "3619a4210239d40e",
 "version": "id_c2f8c959-39aa-11eb-923f-f1b2d79fc0b2"
 }
 ],
 "GOV 65584.09": [
 {
 "effective": "2006-01-01",
-"hash": "8e4ecd8184ab613e",
+"hash": "98a1be7465980a95",
 "version": "id_dde218c6-678e-11da-ba5f-82a1c23fd291"
 }
 ],
@@ -2166,28 +2166,28 @@
 "GOV 65584.2.2": [
 {
 "effective": "2026-01-01",
-"hash": "9afbda8aa369077f",
+"hash": "68cca3b5f457449c",
 "version": "id_3bd06877-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65584.3": [
 {
 "effective": "1999-01-01",
-"hash": "e5f79ab127bbe177",
+"hash": "b532efcd5578d68b",
 "version": "id_c774ddf4-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65584.6": [
 {
 "effective": "2001-01-01",
-"hash": "c045842c8b38690b",
+"hash": "40f76149a777a7a5",
 "version": "id_c777ea38-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65585": [
 {
 "effective": "2026-01-01",
-"hash": "d5c094380bd1be32",
+"hash": "9e55bb9a2e961239",
 "version": "id_9fa6b5a1-cfad-11f0-bfde-adfc216d767c"
 }
 ],
@@ -2201,98 +2201,98 @@
 "GOV 65585.02": [
 {
 "effective": "2026-01-01",
-"hash": "e728a0af3c60bf33",
+"hash": "c13abf5181d93abb",
 "version": "id_475e04e9-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65585.03": [
 {
 "effective": "2025-01-01",
-"hash": "84270e209d63bd03",
+"hash": "65c40c2a75bca400",
 "version": "id_e6eaf026-b8c1-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65585.1": [
 {
 "effective": "2020-01-01",
-"hash": "b4fe6849477fd98a",
+"hash": "7a09f8ea5c47e510",
 "version": "id_f3759a1c-1c60-11ea-b366-4d5a39f643ad"
 }
 ],
 "GOV 65585.3": [
 {
 "effective": "2020-01-01",
-"hash": "fb5780fb6c3fed37",
+"hash": "871120ec695e6435",
 "version": "id_00e4a0be-1c61-11ea-b366-4d5a39f643ad"
 }
 ],
 "GOV 65587": [
 {
 "effective": "2026-01-01",
-"hash": "9ad47cd276876e53",
+"hash": "577c9f007db8f899",
 "version": "id_a9b5ef73-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65588": [
 {
 "effective": "2026-01-01",
-"hash": "25af844d63062bd5",
+"hash": "ba67e634b6993f05",
 "version": "id_b44f67e5-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65589": [
 {
 "effective": "NULL",
-"hash": "9bb3aa09563c348b",
+"hash": "29c47b6595069d26",
 "version": "id_c77af788-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65589.11": [
 {
 "effective": "2023-07-10",
-"hash": "d01e599844c13a66",
+"hash": "d37bc58e80329b16",
 "version": "id_137c24ff-201c-11ee-9817-910718e6f9c7"
 }
 ],
 "GOV 65589.3": [
 {
 "effective": "2025-01-01",
-"hash": "03a17dc48b412a25",
+"hash": "bde570c66f6586f6",
 "version": "id_26e40da6-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65589.4": [
 {
 "effective": "2024-03-25",
-"hash": "a0875ec1cc593714",
+"hash": "b2de21bf6ce7aa35",
 "version": "id_d66a0304-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 65589.5": [
 {
 "effective": "2026-01-01",
-"hash": "8dbac91afe16d74d",
+"hash": "df69a47f13c73212",
 "version": "id_becc7eb7-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65589.5.1": [
 {
 "effective": "2025-01-01",
-"hash": "f93de15924543c9f",
+"hash": "a8587cb8fc23c456",
 "version": "id_efba7e08-b8c1-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65589.5.2": [
 {
 "effective": "2025-01-01",
-"hash": "16937604c2e0ab24",
+"hash": "71c5bcdb1585cb7a",
 "version": "id_f86d351a-b8c1-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65589.55": [
 {
 "effective": "2025-01-01",
-"hash": "22725ef6973c7ac8",
+"hash": "75a95d1e0c4ab5ef",
 "version": "id_0141a4fc-b8c2-11ef-87f5-6bbf55a2195e"
 }
 ],
@@ -2306,7 +2306,7 @@
 "GOV 65589.7": [
 {
 "effective": "2006-01-01",
-"hash": "857a6d334fdf28f6",
+"hash": "b849c097e3d50888",
 "version": "id_df2c4c0e-678e-11da-ba5f-82a1c23fd291"
 }
 ],
@@ -2320,14 +2320,14 @@
 "GOV 65589.9": [
 {
 "effective": "2026-01-01",
-"hash": "d423f8dd61545567",
+"hash": "dc97568f7fe1a487",
 "version": "id_c8ddb459-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65590": [
 {
 "effective": "NULL",
-"hash": "2308f503bc045185",
+"hash": "40a4252355d426fc",
 "version": "id_c77f8b78-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -2348,49 +2348,49 @@
 "GOV 65592": [
 {
 "effective": "2019-01-01",
-"hash": "913c452a1e0c7f0c",
+"hash": "3b80aa174d1baadc",
 "version": "id_e3b1590a-fe8b-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65593": [
 {
 "effective": "2007-01-01",
-"hash": "1930904156dc6c68",
+"hash": "26e9aa9f1218a7ae",
 "version": "id_5a07e916-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 65594": [
 {
 "effective": "2007-01-01",
-"hash": "c3623c831a058364",
+"hash": "a031b3f713c9d9cd",
 "version": "id_5a56f378-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 65595": [
 {
 "effective": "2007-01-01",
-"hash": "94b4364ea5ae56e3",
+"hash": "a8ef7037bbd014be",
 "version": "id_5aa847ca-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 65596": [
 {
 "effective": "2019-01-01",
-"hash": "bfdc2579899f9850",
+"hash": "efbd3bcb4a6804a5",
 "version": "id_2b38f67c-fe8c-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65596.5": [
 {
 "effective": "2019-01-01",
-"hash": "64eb9f78c86a7e24",
+"hash": "3b1925d7946fc0a3",
 "version": "id_72864a0e-fe8c-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65596.7": [
 {
 "effective": "2019-01-01",
-"hash": "9019fc725e4366b9",
+"hash": "8505a3877066ffb4",
 "version": "id_a4671ea4-fe45-11e8-86f2-131a21bfb69b"
 }
 ],
@@ -2425,14 +2425,14 @@
 "GOV 65602": [
 {
 "effective": "2001-01-01",
-"hash": "c0efec9a68122393",
+"hash": "890d907b47ac2f87",
 "version": "id_c78ecdda-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65603": [
 {
 "effective": "2001-01-01",
-"hash": "661d262f0c8b7eb5",
+"hash": "1f51275d117a3484",
 "version": "id_c78ecddc-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -2446,105 +2446,105 @@
 "GOV 65605": [
 {
 "effective": "2001-01-01",
-"hash": "37e1051226c60adc",
+"hash": "0bcc46d5788bfb5e",
 "version": "id_c78ecde0-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65606": [
 {
 "effective": "2001-01-01",
-"hash": "d61077b7380e8d8b",
+"hash": "5cde945b80718bca",
 "version": "id_c78ecde2-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65607": [
 {
 "effective": "2001-01-01",
-"hash": "19cdd5ef8e6ab981",
+"hash": "de86bee6c61a8cc6",
 "version": "id_c78ecde4-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65620": [
 {
 "effective": "2018-01-01",
-"hash": "b312fa2a4fc21cc9",
+"hash": "b872b35a9c9f10a9",
 "version": "id_6ac94b1b-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65621": [
 {
 "effective": "2019-01-01",
-"hash": "bc537a9d023139d2",
+"hash": "35d51bb643adac05",
 "version": "id_9a903a70-fe8c-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65622": [
 {
 "effective": "2018-01-01",
-"hash": "2eccee1bba74bd5e",
+"hash": "48a628a79786b323",
 "version": "id_6ac94b1f-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65623": [
 {
 "effective": "2019-01-01",
-"hash": "a5124523ad235bc3",
+"hash": "4d97acbd380e071c",
 "version": "id_b0234cb2-fe8c-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65624": [
 {
 "effective": "2019-01-01",
-"hash": "b6559dab07e3c186",
+"hash": "1aeaa64be72a847d",
 "version": "id_c5dc3674-fe8c-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65630": [
 {
 "effective": "2025-01-01",
-"hash": "5923fa7afac82b01",
+"hash": "4a13c4f4b8bf14f1",
 "version": "id_33f43a74-b8c0-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65631": [
 {
 "effective": "2025-01-01",
-"hash": "6bc1d00a4bebd16b",
+"hash": "eed7359370a2b7b4",
 "version": "id_33f43a76-b8c0-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65632": [
 {
 "effective": "2025-01-01",
-"hash": "87cedcbbcca0b3ff",
+"hash": "b2e20a347bdbeff3",
 "version": "id_33f43a78-b8c0-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65650": [
 {
 "effective": "2025-01-01",
-"hash": "a92642cc928493b6",
+"hash": "5cf810b8b427a51c",
 "version": "id_35f85fda-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65651": [
 {
 "effective": "2025-01-01",
-"hash": "4fcce1d2ff1f612d",
+"hash": "63e08db3b68ebee7",
 "version": "id_3c17e8ec-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65652": [
 {
 "effective": "2019-01-01",
-"hash": "ed2c4ca7ea4d3cbb",
+"hash": "0849ec171f3f1b55",
 "version": "id_37038a7c-fe39-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65653": [
 {
 "effective": "2019-01-01",
-"hash": "afc23111cd1ef854",
+"hash": "860a3394e564a2ee",
 "version": "id_37038a7e-fe39-11e8-86f2-131a21bfb69b"
 }
 ],
@@ -2558,7 +2558,7 @@
 "GOV 65655": [
 {
 "effective": "2020-09-25",
-"hash": "88c8ff67f8cb6af4",
+"hash": "13622c8bed7dbba5",
 "version": "id_f4fbc8c4-029b-11eb-98af-9b545df5b3b9"
 }
 ],
@@ -2579,49 +2579,49 @@
 "GOV 65658.1": [
 {
 "effective": "2026-01-01",
-"hash": "e657bf995a94849a",
+"hash": "fba92c80ea8e3203",
 "version": "id_99d8b3db-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.10": [
 {
 "effective": "2026-01-01",
-"hash": "683937597a5ae8f2",
+"hash": "46e9af038175f766",
 "version": "id_99d8dafb-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.11": [
 {
 "effective": "2026-01-01",
-"hash": "c5a6196916a9bcca",
+"hash": "df24961cfcb6a7a2",
 "version": "id_99d8dafd-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.12": [
 {
 "effective": "2026-01-01",
-"hash": "711665edbea59c39",
+"hash": "645db23f9a8f9819",
 "version": "id_99d8daff-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.13": [
 {
 "effective": "2026-01-01",
-"hash": "aed230432344c0c3",
+"hash": "60d08618fa051482",
 "version": "id_99d8db01-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.14": [
 {
 "effective": "2026-01-01",
-"hash": "1ddf481dfeb45c3b",
+"hash": "5e5af778d525cd36",
 "version": "id_99d8db03-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.15": [
 {
 "effective": "2026-01-01",
-"hash": "d0bd9721b0599366",
+"hash": "6abd85a05a40f4b6",
 "version": "id_99d8db05-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
@@ -2635,7 +2635,7 @@
 "GOV 65658.3": [
 {
 "effective": "2026-01-01",
-"hash": "bd3f6c5ab769da97",
+"hash": "e64fd2ff21f5a0ec",
 "version": "id_99d8b3dd-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
@@ -2649,49 +2649,49 @@
 "GOV 65658.5": [
 {
 "effective": "2026-01-01",
-"hash": "69f4aac5c018e971",
+"hash": "6de9d7ec8cc611a8",
 "version": "id_99d8b3e1-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.6": [
 {
 "effective": "2026-01-01",
-"hash": "5fa3f03b0f23f07a",
+"hash": "d042eb0405e7a595",
 "version": "id_99d8b3e3-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.7": [
 {
 "effective": "2026-01-01",
-"hash": "3c5350a45d0fb4df",
+"hash": "067475e5df1b369e",
 "version": "id_99d8daf5-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.8": [
 {
 "effective": "2026-01-01",
-"hash": "235350960436510f",
+"hash": "4379b7507e346650",
 "version": "id_99d8daf7-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65658.9": [
 {
 "effective": "2026-01-01",
-"hash": "f71bff3b35d0b8ad",
+"hash": "4473d6c78ba0b177",
 "version": "id_99d8daf9-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65660": [
 {
 "effective": "2025-01-01",
-"hash": "fa1c1d97166e9d46",
+"hash": "bc7f4f8c6096d02e",
 "version": "id_424c809e-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65662": [
 {
 "effective": "2019-07-31",
-"hash": "931e4c239fbdbafc",
+"hash": "822bacf032f9edc6",
 "version": "id_a753fa3e-b53a-11e9-b34f-bd742c0467b1"
 }
 ],
@@ -2712,7 +2712,7 @@
 "GOV 65700": [
 {
 "effective": "2026-01-01",
-"hash": "83550332062b21cc",
+"hash": "0865663015eb73c6",
 "version": "id_d2cc1fbb-cfad-11f0-bfde-adfc216d767c"
 }
 ],
@@ -2726,7 +2726,7 @@
 "GOV 65750": [
 {
 "effective": "NULL",
-"hash": "6697d2959b9b1768",
+"hash": "8456c8b473362055",
 "version": "id_c790548c-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -2747,28 +2747,28 @@
 "GOV 65753": [
 {
 "effective": "2026-01-01",
-"hash": "93af362bfd07e90b",
+"hash": "4db2db54df1fa49a",
 "version": "id_dcb35f2d-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65754": [
 {
 "effective": "2026-01-01",
-"hash": "4ab5607fee2d318b",
+"hash": "61962a59cd715ee3",
 "version": "id_e6a65e6f-cfad-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65754.5": [
 {
 "effective": "NULL",
-"hash": "5688fa4e7fa0711a",
+"hash": "86d557a0924f7508",
 "version": "id_c791db36-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65755": [
 {
 "effective": "2026-01-01",
-"hash": "f7d2c1b5f56c078b",
+"hash": "5808cb0969b7528a",
 "version": "id_f0864ae1-cfad-11f0-bfde-adfc216d767c"
 }
 ],
@@ -2782,7 +2782,7 @@
 "GOV 65757": [
 {
 "effective": "2026-01-01",
-"hash": "2b138903f3f1e899",
+"hash": "9e171646bb7b295a",
 "version": "id_fa61f193-cfad-11f0-bfde-adfc216d767c"
 }
 ],
@@ -2796,7 +2796,7 @@
 "GOV 65759": [
 {
 "effective": "2026-01-01",
-"hash": "bf3a4ee2d24c5a73",
+"hash": "15a5f9250d612470",
 "version": "id_04420515-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -2824,7 +2824,7 @@
 "GOV 65763": [
 {
 "effective": "NULL",
-"hash": "c7c4f8570f4dd9ab",
+"hash": "d29f0717d06c1d01",
 "version": "id_c7d525d8-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -2859,42 +2859,42 @@
 "GOV 65804": [
 {
 "effective": "1997-01-01",
-"hash": "59ed4b4e583fb998",
+"hash": "ba551717107ea9c1",
 "version": "id_c7d83324-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65850": [
 {
 "effective": "2018-01-01",
-"hash": "cc60b6c33e07204b",
+"hash": "2465fa421e7ef410",
 "version": "id_a818c2fb-e532-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65850.01": [
 {
 "effective": "2024-01-01",
-"hash": "55d4d47f2cb6f045",
+"hash": "5ef9d20d1f3e9243",
 "version": "id_63b07147-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65850.02": [
 {
 "effective": "2023-01-01",
-"hash": "f5d66fa38bd27545",
+"hash": "6ac70d0167d516a7",
 "version": "id_63743f66-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
 "GOV 65850.1": [
 {
 "effective": "1997-01-01",
-"hash": "f0bf272c928909ce",
+"hash": "36b92ad8b0e7e26a",
 "version": "id_c7db406a-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65850.2": [
 {
 "effective": "2021-07-22",
-"hash": "abf58f1a29157109",
+"hash": "e076349bae79f530",
 "version": "id_bd2feba1-ebee-11eb-b9f5-ab4283d06f98"
 }
 ],
@@ -2908,82 +2908,82 @@
 "GOV 65850.4": [
 {
 "effective": "1999-09-28",
-"hash": "5e94cd9b91ed5eec",
+"hash": "56734cac48fa9c47",
 "version": "id_c7db4070-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65850.5": [
 {
 "effective": "2020-01-01",
-"hash": "8276f6595f79f912",
+"hash": "544b88600761bc81",
 "version": "id_a04299d0-1c72-11ea-b366-4d5a39f643ad"
 }
 ],
 "GOV 65850.52": [
 {
 "effective": "2024-01-01",
-"hash": "4585dc2b8ef2da9d",
+"hash": "3408b92f56e509fe",
 "version": "id_69875899-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65850.55": [
 {
 "effective": "2013-01-01",
-"hash": "9a54d93db28cc63d",
+"hash": "359b2f38b71fc81d",
 "version": "id_8c33f21c-4e0a-11e2-bece-f6c402701ba4"
 }
 ],
 "GOV 65850.6": [
 {
 "effective": "2018-01-01",
-"hash": "12624178e8e13267",
+"hash": "101b10baab8476fa",
 "version": "id_bfec013d-e532-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65850.7": [
 {
 "effective": "2025-01-01",
-"hash": "daf1f9784b838d2b",
+"hash": "2e405b18e9ade691",
 "version": "id_48029980-b8c6-11ef-87f5-6bbf55a2195e"
 },
 {
 "effective": "2025-01-01",
-"hash": "9a1a26a514cc8283",
+"hash": "7886174378b3c7af",
 "version": "id_4f7381c2-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65850.71": [
 {
 "effective": "2022-01-01",
-"hash": "a814861396471765",
+"hash": "f180f46cd930a335",
 "version": "id_37f23b9c-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 65850.72": [
 {
 "effective": "2025-01-01",
-"hash": "78ed56bf1398de22",
+"hash": "6956874ceabaf904",
 "version": "id_0a10e4be-b8c2-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65850.75": [
 {
 "effective": "2021-01-01",
-"hash": "ddd6ba4dd80e6782",
+"hash": "3ce5e4bdeeaf416d",
 "version": "id_d6de45bf-39a5-11eb-923f-f1b2d79fc0b2"
 }
 ],
 "GOV 65850.8": [
 {
 "effective": "2018-01-01",
-"hash": "a4acd524bd0b84c3",
+"hash": "014baec8db18bc73",
 "version": "id_a3774629-e51b-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 65850.9": [
 {
 "effective": "2019-01-01",
-"hash": "8701202bdf9434ff",
+"hash": "b54edeec7ab318d4",
 "version": "id_eeb04d16-fe45-11e8-86f2-131a21bfb69b"
 }
 ],
@@ -3004,78 +3004,78 @@
 "GOV 65852.1": [
 {
 "effective": "2024-03-25",
-"hash": "e0f20dd0320d89b0",
+"hash": "a05b2ae19df92f2d",
 "version": "id_e48b69b8-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 65852.11": [
 {
 "effective": "1994-01-01",
-"hash": "84641f3c6a345010",
+"hash": "85afb10ff76ae18d",
 "version": "id_c7e15b0c-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65852.21": [
 {
 "effective": "2026-06-30",
-"hash": "6342eca2b75a81f7",
+"hash": "75e7b460cbe82e77",
 "version": "id_b69b2c98-762b-11f1-add4-ed9e66f640c7"
 }
 ],
 "GOV 65852.24": [
 {
 "effective": "2026-06-30",
-"hash": "774a9c4f5b8dc650",
+"hash": "f5c50c5e3746378a",
 "version": "id_bfeeb78a-762b-11f1-add4-ed9e66f640c7"
 }
 ],
 "GOV 65852.25": [
 {
 "effective": "2019-01-01",
-"hash": "cfc533edfe8cba58",
+"hash": "cdf38d9fbcd7d6d0",
 "version": "id_6b2cec0a-fe8d-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65852.27": [
 {
 "effective": "2024-03-25",
-"hash": "dba363fbc0644251",
+"hash": "58385a36e0a460a3",
 "version": "id_f1f7ff5c-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 65852.28": [
 {
 "effective": "2026-09-30",
-"hash": "4ea9f6d16aac10c9",
+"hash": "47f4107d6393aaf5",
 "version": "id_0f4a5fc7-be8b-11f1-ac76-bdb156c0a031"
 },
 {
 "effective": "2026-09-30",
-"hash": "55ca869a83aab8c6",
+"hash": "4c2922b5c1784172",
 "version": "id_1dc976d9-be8b-11f1-ac76-bdb156c0a031"
 },
 {
 "effective": "2026-09-30",
-"hash": "0ee0886aafc7a004",
+"hash": "9c9469111d958c34",
 "version": "id_2bb8a9fb-be8b-11f1-ac76-bdb156c0a031"
 },
 {
 "effective": "2026-09-30",
-"hash": "45f6e46a19fb513b",
+"hash": "93e3245897459f9c",
 "version": "id_4557cea3-be8b-11f1-ac76-bdb156c0a031"
 }
 ],
 "GOV 65852.3": [
 {
 "effective": "1995-01-01",
-"hash": "c48254d9b532b24b",
+"hash": "921d679a3e3d8769",
 "version": "id_c7de4dc0-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65852.35": [
 {
 "effective": "2018-01-01",
-"hash": "4d01c651637f5555",
+"hash": "708305b30e87e6ea",
 "version": "id_bf7d319b-e51b-11e7-99d3-2f570f4f10eb"
 }
 ],
@@ -3096,7 +3096,7 @@
 "GOV 65852.6": [
 {
 "effective": "NULL",
-"hash": "0dec62a87f1b972b",
+"hash": "df9f90de84a22568",
 "version": "id_c7dfd466-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3110,14 +3110,14 @@
 "GOV 65852.8": [
 {
 "effective": "2026-01-01",
-"hash": "2e05b56ec433738d",
+"hash": "9d87e9f203479fa3",
 "version": "id_1725aec9-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65852.9": [
 {
 "effective": "2007-01-01",
-"hash": "1802605877075b6b",
+"hash": "1b9605a174269e14",
 "version": "id_e7f4eb20-8f68-11db-9801-f57d41d6b535"
 }
 ],
@@ -3131,7 +3131,7 @@
 "GOV 65854": [
 {
 "effective": "2025-01-01",
-"hash": "996c7b50bae56c79",
+"hash": "26cb07ea738357dd",
 "version": "id_6c9e171a-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
@@ -3145,7 +3145,7 @@
 "GOV 65856": [
 {
 "effective": "NULL",
-"hash": "fd248879db9d1ce0",
+"hash": "251cb09222e36b32",
 "version": "id_c7e15b14-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3159,28 +3159,28 @@
 "GOV 65858": [
 {
 "effective": "2002-01-01",
-"hash": "21fa6b375fd69a48",
+"hash": "60fa56a0f6b8be55",
 "version": "id_c7e2e1b8-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65859": [
 {
 "effective": "1994-09-28",
-"hash": "d76389838891a3ff",
+"hash": "8f5bb600185e754d",
 "version": "id_c7e2e1ba-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65860": [
 {
 "effective": "2024-01-01",
-"hash": "3af4a202e4c7ef5b",
+"hash": "d367e865fa63e3b7",
 "version": "id_79bde3af-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65860.1": [
 {
 "effective": "2013-01-01",
-"hash": "78fc6da2639ea4f1",
+"hash": "c5a7951ba424147e",
 "version": "id_b156aea6-4e0f-11e2-bece-f6c402701ba4"
 }
 ],
@@ -3201,35 +3201,35 @@
 "GOV 65863": [
 {
 "effective": "2023-01-01",
-"hash": "d33756cef79f3ce7",
+"hash": "b794bc4c1db29877",
 "version": "id_de07566e-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
 "GOV 65863.1": [
 {
 "effective": "2024-01-01",
-"hash": "7ac340ee9f3398af",
+"hash": "fceaae153550559e",
 "version": "id_0a22438b-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65863.10": [
 {
 "effective": "2026-01-01",
-"hash": "8f1685425a1acf74",
+"hash": "d25a8316e8bb1b44",
 "version": "id_1fe9f20b-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65863.11": [
 {
 "effective": "2026-01-01",
-"hash": "ada3c093b485ee4a",
+"hash": "3e7ffb91412e29c9",
 "version": "id_28c2f5cd-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65863.12": [
 {
 "effective": "2010-01-01",
-"hash": "3aa54e10c8c9cfbf",
+"hash": "8097287393a53caf",
 "version": "id_a8091ad7-f6a1-11de-b0ec-bb14591ec966"
 }
 ],
@@ -3243,28 +3243,28 @@
 "GOV 65863.2": [
 {
 "effective": "2023-01-01",
-"hash": "25bd5d4ed5c8a022",
+"hash": "8bf5b93d9606f637",
 "version": "id_85b1f6e0-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
 "GOV 65863.2.1": [
 {
 "effective": "2025-01-01",
-"hash": "fcaf2e599cda4c55",
+"hash": "30d4ede58c9256ae",
 "version": "id_1ab6fa82-b8c2-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65863.3": [
 {
 "effective": "2024-03-25",
-"hash": "b6621d0552d1bb84",
+"hash": "ed2c01374a7c0cb1",
 "version": "id_f8a0677e-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 65863.4": [
 {
 "effective": "2019-01-01",
-"hash": "a1f34c94949b4b3c",
+"hash": "01ef7718871c6644",
 "version": "id_a0fff482-fe8e-11e8-86f2-131a21bfb69b"
 }
 ],
@@ -3278,21 +3278,21 @@
 "GOV 65863.6": [
 {
 "effective": "2019-01-01",
-"hash": "8259a69ebfc6a6ba",
+"hash": "b5f846630b740f26",
 "version": "id_e77892f4-fe8e-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65863.7": [
 {
 "effective": "2026-01-01",
-"hash": "4f97001c4eb2c63b",
+"hash": "d0aa4b2c2fd8f260",
 "version": "id_31bc2bbf-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65863.8": [
 {
 "effective": "2019-01-01",
-"hash": "c803f54969f64932",
+"hash": "e59f5fe717df4ac5",
 "version": "id_2e33dfb6-fe8f-11e8-86f2-131a21bfb69b"
 }
 ],
@@ -3306,14 +3306,14 @@
 "GOV 65864": [
 {
 "effective": "NULL",
-"hash": "6167091bb6e67dbc",
+"hash": "982fcde2caa9870e",
 "version": "id_c7ec099a-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65865": [
 {
 "effective": "2004-01-01",
-"hash": "f45abf9b4cdf1658",
+"hash": "d0b7241a8d63d44e",
 "version": "id_c7ed903c-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3334,7 +3334,7 @@
 "GOV 65865.3": [
 {
 "effective": "NULL",
-"hash": "a6a0bb672f0b21a1",
+"hash": "9be93f19b15408a6",
 "version": "id_c7ed9042-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3348,14 +3348,14 @@
 "GOV 65865.5": [
 {
 "effective": "2026-01-01",
-"hash": "af751bb3eea848a6",
+"hash": "0734cb58ce954b8e",
 "version": "id_3a6bae81-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65866": [
 {
 "effective": "2019-01-01",
-"hash": "cd723d9a1c5f46c7",
+"hash": "e359265960138ed7",
 "version": "id_74cb9ee8-fe8f-11e8-86f2-131a21bfb69b"
 }
 ],
@@ -3369,7 +3369,7 @@
 "GOV 65867.5": [
 {
 "effective": "2019-01-01",
-"hash": "2dad2bdd2065d521",
+"hash": "2032df6e5d0973f5",
 "version": "id_bb97184a-fe8f-11e8-86f2-131a21bfb69b"
 }
 ],
@@ -3397,7 +3397,7 @@
 "GOV 65869.5": [
 {
 "effective": "2019-01-01",
-"hash": "32a0d297ea999fd7",
+"hash": "66d51ca5e2a435ba",
 "version": "id_027d459c-fe90-11e8-86f2-131a21bfb69b"
 }
 ],
@@ -3411,7 +3411,7 @@
 "GOV 65871": [
 {
 "effective": "NULL",
-"hash": "2af5cdfdd10a263e",
+"hash": "9493ba56de6c6175",
 "version": "id_c7f09d98-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3425,7 +3425,7 @@
 "GOV 65874": [
 {
 "effective": "NULL",
-"hash": "acf3dd9a79846d85",
+"hash": "22166b112cc3d4db",
 "version": "id_c7f2243c-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3439,7 +3439,7 @@
 "GOV 65890.1": [
 {
 "effective": "NULL",
-"hash": "4bec5802a1eb6b23",
+"hash": "f2884f628918f7c2",
 "version": "id_c7f22442-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3453,7 +3453,7 @@
 "GOV 65890.5": [
 {
 "effective": "NULL",
-"hash": "686fb36a45743638",
+"hash": "cc4a39cb6eb85ba6",
 "version": "id_c7f3a9e6-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3467,7 +3467,7 @@
 "GOV 65901": [
 {
 "effective": "NULL",
-"hash": "97f2b8288c5a569e",
+"hash": "fb03fc2869a642b4",
 "version": "id_c7fb4b2a-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3495,14 +3495,14 @@
 "GOV 65905": [
 {
 "effective": "NULL",
-"hash": "50a017dc204a597d",
+"hash": "9c4e7ed9b051f453",
 "version": "id_c7fcd1d2-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65905.5": [
 {
 "effective": "2025-06-30",
-"hash": "6825ab293022a6fa",
+"hash": "9dface9d1075fffd",
 "version": "id_76d4d8b2-5b5a-11f0-889e-29cb15d54716"
 }
 ],
@@ -3516,14 +3516,14 @@
 "GOV 65906.5": [
 {
 "effective": "NULL",
-"hash": "a0591237e0f49243",
+"hash": "5ef04cde43db6c2e",
 "version": "id_c7fcd1d6-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65906.6": [
 {
 "effective": "2025-01-01",
-"hash": "5e5499bc37cbc801",
+"hash": "87c990484332b134",
 "version": "id_22c5f784-b8c2-11ef-87f5-6bbf55a2195e"
 }
 ],
@@ -3537,14 +3537,14 @@
 "GOV 65908": [
 {
 "effective": "NULL",
-"hash": "9a3a9658f27d701d",
+"hash": "6ea2e479bccb905d",
 "version": "id_c7fcd1d8-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65909": [
 {
 "effective": "NULL",
-"hash": "6709f51ac9736e5c",
+"hash": "38a6840cc79a70cf",
 "version": "id_c7fe587a-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3586,7 +3586,7 @@
 "GOV 65912.101": [
 {
 "effective": "2026-01-01",
-"hash": "aaf52f3eea795b14",
+"hash": "56512ecbcf5a340b",
 "version": "id_4c0e9ad5-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -3600,7 +3600,7 @@
 "GOV 65912.103": [
 {
 "effective": "2023-01-01",
-"hash": "537d1481feb70a3c",
+"hash": "3cb7fc2207e6f350",
 "version": "id_4046f7a8-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
@@ -3614,7 +3614,7 @@
 "GOV 65912.104": [
 {
 "effective": "2026-01-01",
-"hash": "e26225f140e2d010",
+"hash": "c055fc013535e1c0",
 "version": "id_51a14d37-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -3642,28 +3642,28 @@
 "GOV 65912.111": [
 {
 "effective": "2025-01-01",
-"hash": "8bfd9f60214e54c4",
+"hash": "70ee2495472ee3cd",
 "version": "id_8c805264-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65912.112": [
 {
 "effective": "2025-01-01",
-"hash": "f6ef96f75142a58e",
+"hash": "3e6839d365175b30",
 "version": "id_90548be6-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65912.113": [
 {
 "effective": "2025-01-01",
-"hash": "e16c322531aae492",
+"hash": "798d753966cc81f7",
 "version": "id_94214b58-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65912.114": [
 {
 "effective": "2026-01-01",
-"hash": "1ee67b558a14191e",
+"hash": "3832073a56147bf2",
 "version": "id_57333c49-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -3677,42 +3677,42 @@
 "GOV 65912.121": [
 {
 "effective": "2026-01-01",
-"hash": "0a43ba912318d4a9",
+"hash": "46b0629a6e0e90e8",
 "version": "id_5cbfad1b-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65912.122": [
 {
 "effective": "2026-01-01",
-"hash": "3f1230e2b6fa2381",
+"hash": "37a3198d57ab1f69",
 "version": "id_624b338d-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65912.123": [
 {
 "effective": "2026-01-01",
-"hash": "5bb96452761dba77",
+"hash": "91f3275d6f92be39",
 "version": "id_67e4006f-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65912.124": [
 {
 "effective": "2026-01-01",
-"hash": "024fe2545d249f28",
+"hash": "9dda4b719b20c848",
 "version": "id_6d936291-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65912.130": [
 {
 "effective": "2023-07-10",
-"hash": "aa1b810d4e0cf695",
+"hash": "99f17d4375837e24",
 "version": "id_754cc18b-2024-11ee-9817-910718e6f9c7"
 }
 ],
 "GOV 65912.131": [
 {
 "effective": "2026-01-01",
-"hash": "5ea50d1078f524bd",
+"hash": "3ee227b2b0ed9b7c",
 "version": "id_73381653-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -3726,49 +3726,49 @@
 "GOV 65912.155": [
 {
 "effective": "2026-01-01",
-"hash": "762e859a475a81f9",
+"hash": "5c0bfa9ec89739cc",
 "version": "id_a14d1eab-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65912.156": [
 {
 "effective": "2026-01-01",
-"hash": "f5cabb4df3e768ff",
+"hash": "8ed326802d5b7c83",
 "version": "id_a14d1ead-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65912.157": [
 {
 "effective": "2026-07-16",
-"hash": "d15df30eb83fc011",
+"hash": "0e00876af0ddd92a",
 "version": "id_9d47100c-81f0-11f1-bb32-59ebc77cabfb"
 }
 ],
 "GOV 65912.158": [
 {
 "effective": "2026-01-01",
-"hash": "ebddb449029ddaf6",
+"hash": "4f59aede79ee49f2",
 "version": "id_a14d1eb1-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65912.159": [
 {
 "effective": "2026-01-01",
-"hash": "d90a20f0febc0b12",
+"hash": "a6930100e410afe9",
 "version": "id_a14d1eb3-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65912.160": [
 {
 "effective": "2026-01-01",
-"hash": "96f8d813983e940f",
+"hash": "ba13b4b94b168a87",
 "version": "id_a14d1eb5-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65912.161": [
 {
 "effective": "2026-01-01",
-"hash": "c3f34d0f01c5a207",
+"hash": "15291f85e97a57c7",
 "version": "id_a14d1eb7-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
@@ -3782,98 +3782,98 @@
 "GOV 65913": [
 {
 "effective": "NULL",
-"hash": "894a2258b78cbb2c",
+"hash": "8b95e5a0117539e6",
 "version": "id_c80165c8-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65913.1": [
 {
 "effective": "2002-01-01",
-"hash": "c0afa244e560f5ce",
+"hash": "e46a8b1d50121d1f",
 "version": "id_c80165ca-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65913.10": [
 {
 "effective": "2025-06-30",
-"hash": "05144d35c1e9507a",
+"hash": "22e9c762439786f1",
 "version": "id_7e5e03e4-5b5a-11f0-889e-29cb15d54716"
 }
 ],
 "GOV 65913.11": [
 {
 "effective": "2023-01-01",
-"hash": "8a4784604d0f15cb",
+"hash": "6ae70dda31f707d7",
 "version": "id_e9031322-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
 "GOV 65913.12": [
 {
 "effective": "2024-01-01",
-"hash": "f829ed299bbf4bc2",
+"hash": "1e3585396e797642",
 "version": "id_173d0faf-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65913.16": [
 {
 "effective": "2026-01-01",
-"hash": "599bbfb3b79d1f47",
+"hash": "acafe58dcb8943d2",
 "version": "id_78c4ae35-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65913.2": [
 {
 "effective": "NULL",
-"hash": "4175fd5b74605853",
+"hash": "9cc76f768dd4a517",
 "version": "id_c80165cc-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65913.3": [
 {
 "effective": "2025-10-10",
-"hash": "187893d216d689f5",
+"hash": "fa07d9df72aedd57",
 "version": "id_e1529386-a884-11f0-b3c2-a99c1f616619"
 }
 ],
 "GOV 65913.3.1": [
 {
 "effective": "2024-01-01",
-"hash": "d47529a4ddc1979e",
+"hash": "794272c25e6a84b3",
 "version": "id_1f33f0d3-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65913.3.5": [
 {
 "effective": "2023-01-01",
-"hash": "5bcabeea23472977",
+"hash": "7fb9b51a9c7b2be6",
 "version": "id_9060f324-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
 "GOV 65913.4": [
 {
 "effective": "2026-01-01",
-"hash": "8d0bef17ba6063de",
+"hash": "1b7cd10b8739c567",
 "version": "id_7d6e6027-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65913.4.5": [
 {
 "effective": "2024-01-01",
-"hash": "ffbc79bf5fc7428b",
+"hash": "0432cedace0f1b4b",
 "version": "id_230f5645-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65913.5": [
 {
 "effective": "2024-03-25",
-"hash": "cf59e2db83d4394c",
+"hash": "46d77c516e035cce",
 "version": "id_ff4e9c00-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 65913.6": [
 {
 "effective": "2023-01-01",
-"hash": "797253eec3278f6c",
+"hash": "e88142938c631065",
 "version": "id_f30f3fb8-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
@@ -3887,7 +3887,7 @@
 "GOV 65913.8": [
 {
 "effective": "NULL",
-"hash": "c341f27379b8f3a9",
+"hash": "165e5bc5fd84842a",
 "version": "id_c802ec70-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -3901,28 +3901,28 @@
 "GOV 65914": [
 {
 "effective": "2004-01-01",
-"hash": "16f1ebf996888679",
+"hash": "57386a7a8cf99060",
 "version": "id_c802ec74-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65914.2": [
 {
 "effective": "2026-01-01",
-"hash": "148fb676f72fac78",
+"hash": "b2ef443ff111cb10",
 "version": "id_58f8b3dd-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65914.200": [
 {
 "effective": "2026-01-01",
-"hash": "7de6a5686dfe1074",
+"hash": "2d7fb088436b25f2",
 "version": "id_ac1ac68d-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65914.201": [
 {
 "effective": "2026-01-01",
-"hash": "9a77c9ddc1fc78a8",
+"hash": "4a76917af888ea4d",
 "version": "id_ac1ac68f-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
@@ -3943,42 +3943,42 @@
 "GOV 65914.4": [
 {
 "effective": "2025-01-01",
-"hash": "2abe790e21c7cece",
+"hash": "333577ad5324f56f",
 "version": "id_2f4baf98-b8c2-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65914.5": [
 {
 "effective": "2021-01-01",
-"hash": "970e43a194e198df",
+"hash": "4dad25db0714124b",
 "version": "id_de5e9753-39a5-11eb-923f-f1b2d79fc0b2"
 }
 ],
 "GOV 65914.7": [
 {
 "effective": "2026-01-01",
-"hash": "07a04e82cb6c6178",
+"hash": "b9346e8a36a3d68c",
 "version": "id_822d20b9-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65914.8": [
 {
 "effective": "2024-01-01",
-"hash": "06529d9ce1c03dd6",
+"hash": "f1d488e2ec4e2475",
 "version": "id_27bcb1b7-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65914.900": [
 {
 "effective": "2025-01-01",
-"hash": "2cf4c9968f1b01ed",
+"hash": "d676ed60725219a6",
 "version": "id_3b4a6ecc-b8c0-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65915": [
 {
 "effective": "2026-01-01",
-"hash": "1e648ba8ccbf052c",
+"hash": "f126d007e10f9d90",
 "version": "id_86d1546b-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -3999,21 +3999,21 @@
 "GOV 65915.3": [
 {
 "effective": "2026-01-01",
-"hash": "07a14f7d1e794bec",
+"hash": "13cacf9fda1cba7e",
 "version": "id_8bdf1f5d-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65915.5": [
 {
 "effective": "2015-01-01",
-"hash": "c336aafd3daba14f",
+"hash": "fa28db624ed8565d",
 "version": "id_e0a7fc40-8b99-11e4-9442-99a54858655f"
 }
 ],
 "GOV 65915.7": [
 {
 "effective": "2023-01-01",
-"hash": "5efd99f993642528",
+"hash": "aece79dda711c068",
 "version": "id_97e5ffa8-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
@@ -4034,14 +4034,14 @@
 "GOV 65917.2": [
 {
 "effective": "2019-01-01",
-"hash": "da437389ab063d94",
+"hash": "05fd664945064edd",
 "version": "id_3994d128-fe46-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65917.5": [
 {
 "effective": "2009-01-01",
-"hash": "22eb74caf1170919",
+"hash": "5265eb08be18f573",
 "version": "id_455f8276-ce9c-11dd-898a-f4578c730531"
 }
 ],
@@ -4055,7 +4055,7 @@
 "GOV 65919": [
 {
 "effective": "2005-01-01",
-"hash": "8057829d8eeb7b0b",
+"hash": "20c003b81be2bab4",
 "version": "id_0b8336eb-6514-11d9-bd15-b3cbb5da6f1d"
 }
 ],
@@ -4097,7 +4097,7 @@
 "GOV 65919.4": [
 {
 "effective": "NULL",
-"hash": "6b774aceda49001b",
+"hash": "e0de05ef2ff90cb5",
 "version": "id_c809070e-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4139,7 +4139,7 @@
 "GOV 65920": [
 {
 "effective": "2011-01-01",
-"hash": "0228b93fc2ef142f",
+"hash": "1fc460026d0cc1b5",
 "version": "id_4a91fe6b-1447-11e0-85fe-826b00c4d02a"
 }
 ],
@@ -4153,7 +4153,7 @@
 "GOV 65922": [
 {
 "effective": "1982-03-01",
-"hash": "0ffbc924c8d2e84a",
+"hash": "03c49251c0933b07",
 "version": "id_c80c1466-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4195,7 +4195,7 @@
 "GOV 65928": [
 {
 "effective": "2025-10-11",
-"hash": "e23324c78824280f",
+"hash": "09c9b9681de61b8a",
 "version": "id_6b34d19e-a87c-11f0-b3c2-a99c1f616619"
 }
 ],
@@ -4251,49 +4251,49 @@
 "GOV 65940": [
 {
 "effective": "2026-01-01",
-"hash": "a10501289751038c",
+"hash": "02c9b3ba01a8d0b6",
 "version": "id_908a7eff-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65940.1": [
 {
 "effective": "2025-01-01",
-"hash": "18b6c90bbdf7d563",
+"hash": "1af8aa9f7a138f9f",
 "version": "id_b2f8f478-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65940.2": [
 {
 "effective": "2025-01-01",
-"hash": "9fa52f95ee58c2b4",
+"hash": "a54c9b7a0c2c86f8",
 "version": "id_38e2d33c-b8c2-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65940.3": [
 {
 "effective": "2026-01-01",
-"hash": "c7c4f2cd4cfba1c8",
+"hash": "f617d3673066f647",
 "version": "id_5ee3e67f-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65940.5": [
 {
 "effective": "1999-01-01",
-"hash": "fc85289e7b67268d",
+"hash": "be2619be9638bf9f",
 "version": "id_c8122f0a-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65941": [
 {
 "effective": "1994-01-01",
-"hash": "756fa99641984987",
+"hash": "46d6bf4d57dac335",
 "version": "id_c8122f0c-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65941.1": [
 {
 "effective": "2025-06-30",
-"hash": "9ba8ed3c406b5460",
+"hash": "6c99b327618b50d9",
 "version": "id_96cee1bc-5b5a-11f0-889e-29cb15d54716"
 }
 ],
@@ -4307,49 +4307,49 @@
 "GOV 65941.6": [
 {
 "effective": "2016-05-10",
-"hash": "bc0623fa43da5e09",
+"hash": "008c3bcadfdbc46e",
 "version": "id_791e27ca-17a9-11e6-bfec-d85f11953106"
 }
 ],
 "GOV 65942": [
 {
 "effective": "NULL",
-"hash": "1de0229eb2c82d16",
+"hash": "d8770bfba88c4d06",
 "version": "id_c8122f10-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65943": [
 {
 "effective": "2025-06-30",
-"hash": "611f25355007a1a1",
+"hash": "d33d8cc1cf46c3f3",
 "version": "id_9f09a9ae-5b5a-11f0-889e-29cb15d54716"
 }
 ],
 "GOV 65943.1": [
 {
 "effective": "2025-01-01",
-"hash": "22b016cfb790da45",
+"hash": "b0d204dab360c70c",
 "version": "id_41892e3e-b8c2-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 65943.5": [
 {
 "effective": "1994-01-01",
-"hash": "78afde0aed03229d",
+"hash": "45e190a4d974ce56",
 "version": "id_c813b5b4-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65944": [
 {
 "effective": "2020-01-01",
-"hash": "588bce00ca5a4cb2",
+"hash": "292d1f4c7837f054",
 "version": "id_032f75ee-1c73-11ea-b366-4d5a39f643ad"
 }
 ],
 "GOV 65945": [
 {
 "effective": "NULL",
-"hash": "bd8520e88f0c2e11",
+"hash": "d2fca3a65e4ca64b",
 "version": "id_c813b5b8-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4377,21 +4377,21 @@
 "GOV 65946": [
 {
 "effective": "2016-05-10",
-"hash": "22895f19de4219c5",
+"hash": "5e1e7ddab8235c2b",
 "version": "id_690c14a8-17a9-11e6-bfec-d85f11953106"
 }
 ],
 "GOV 65946.1": [
 {
 "effective": "2026-01-01",
-"hash": "bbaa10590d7eb185",
+"hash": "2da28c407bce8971",
 "version": "id_6929c0b1-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65950": [
 {
 "effective": "2025-10-11",
-"hash": "b2c9793467d436bd",
+"hash": "ef1fbec90355d524",
 "version": "id_76027970-a87c-11f0-b3c2-a99c1f616619"
 }
 ],
@@ -4405,7 +4405,7 @@
 "GOV 65950.5": [
 {
 "effective": "2005-01-01",
-"hash": "f21ef99c8b623146",
+"hash": "ae13b527d0529a60",
 "version": "id_0d73e361-6514-11d9-bd15-b3cbb5da6f1d"
 }
 ],
@@ -4419,14 +4419,14 @@
 "GOV 65952": [
 {
 "effective": "2026-01-01",
-"hash": "a77d8ec968ab0123",
+"hash": "80116fc346393079",
 "version": "id_99e62041-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65952.1": [
 {
 "effective": "NULL",
-"hash": "e1c1731258ca1924",
+"hash": "5967838ca64ce783",
 "version": "id_c816c30a-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4440,7 +4440,7 @@
 "GOV 65953": [
 {
 "effective": "2025-06-30",
-"hash": "d785ea8f8c43e9c0",
+"hash": "2d790d3025f58f59",
 "version": "id_b7aae654-5b5a-11f0-889e-29cb15d54716"
 }
 ],
@@ -4461,14 +4461,14 @@
 "GOV 65956": [
 {
 "effective": "2025-06-30",
-"hash": "03886a4a5af51509",
+"hash": "b41997e63c91d476",
 "version": "id_bfd90416-5b5a-11f0-889e-29cb15d54716"
 }
 ],
 "GOV 65956.5": [
 {
 "effective": "1994-01-01",
-"hash": "1e3b8a08ac99c757",
+"hash": "b8a8b051ad393afb",
 "version": "id_c81849b6-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4489,7 +4489,7 @@
 "GOV 65957.5": [
 {
 "effective": "1994-01-01",
-"hash": "e2f68b4522489b84",
+"hash": "95afb5d0495b3cf8",
 "version": "id_c819d05c-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4510,7 +4510,7 @@
 "GOV 65959.2": [
 {
 "effective": "1993-01-01",
-"hash": "f61bd4791b65732d",
+"hash": "4f9058f02cb5511e",
 "version": "id_c81b5704-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4531,161 +4531,161 @@
 "GOV 65960.1": [
 {
 "effective": "2024-01-01",
-"hash": "420b3232e3c35832",
+"hash": "004616c436befefb",
 "version": "id_2b8ad0b9-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65961": [
 {
 "effective": "2019-01-01",
-"hash": "d4fc20011b6a9b6c",
+"hash": "e8174329b01e136f",
 "version": "id_7d387df2-fe90-11e8-86f2-131a21bfb69b"
 }
 ],
 "GOV 65962": [
 {
 "effective": "2026-01-01",
-"hash": "c9f86354340ef1df",
+"hash": "4693e52b05ad5598",
 "version": "id_a33b0ac3-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65962.1": [
 {
 "effective": "2024-04-30",
-"hash": "930223bceeff30ec",
+"hash": "b90eec866c02cdb3",
 "version": "id_a1346f20-07ce-11ef-bc0b-3798f4c21e89"
 }
 ],
 "GOV 65962.2": [
 {
 "effective": "2024-04-30",
-"hash": "30948b2521868e90",
+"hash": "a5099c5f4130666f",
 "version": "id_a8e82cc2-07ce-11ef-bc0b-3798f4c21e89"
 }
 ],
 "GOV 65962.3": [
 {
 "effective": "2024-04-30",
-"hash": "455e6b500ed0846b",
+"hash": "ed59ed01b3716b41",
 "version": "id_92e4574e-07ce-11ef-bc0b-3798f4c21e89"
 }
 ],
 "GOV 65962.4": [
 {
 "effective": "2026-01-01",
-"hash": "48415c0942e30347",
+"hash": "2ac63c5fcd96f76b",
 "version": "id_72c77403-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 65962.5": [
 {
 "effective": "2023-01-01",
-"hash": "c5fcde5894fa4506",
+"hash": "d4169fe162f1c3bc",
 "version": "id_05e5f120-7cba-11ed-acb9-a59a0646e1a6"
 }
 ],
 "GOV 65963.1": [
 {
 "effective": "NULL",
-"hash": "8cb1b90f57fe1fd8",
+"hash": "0f934a10aec6c970",
 "version": "id_c81e6451-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65963.2": [
 {
 "effective": "2013-01-01",
-"hash": "797ab5a83de26f72",
+"hash": "bebd163adbf8116c",
 "version": "id_8ffc1dae-4e0a-11e2-bece-f6c402701ba4"
 }
 ],
 "GOV 65964": [
 {
 "effective": "2007-01-01",
-"hash": "13635d1e032cbbec",
+"hash": "8ad88c409c4727fb",
 "version": "id_e8ea6eb6-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 65964.1": [
 {
 "effective": "2022-01-01",
-"hash": "6700fdb7058460ee",
+"hash": "c656384570889db7",
 "version": "id_d206814a-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 65964.3": [
 {
 "effective": "2024-01-01",
-"hash": "f95837d97fb81279",
+"hash": "320952b98c233851",
 "version": "id_321b6b1b-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65964.5": [
 {
 "effective": "2022-01-01",
-"hash": "fc8ab515b78082ce",
+"hash": "0d8918c6f25c5ed9",
 "version": "id_4f5d1b28-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 65965": [
 {
 "effective": "2024-01-01",
-"hash": "fabc8681d9d64462",
+"hash": "9462c7b0b20ba37c",
 "version": "id_a6626ae7-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 65966": [
 {
 "effective": "2012-09-28",
-"hash": "aca02e45eaa548b6",
+"hash": "850619c05121f10c",
 "version": "id_a2fb0caf-1327-11e2-a37f-be98ce91e080"
 }
 ],
 "GOV 65967": [
 {
 "effective": "2012-09-28",
-"hash": "e1606c0665418783",
+"hash": "62ed7321e4e27062",
 "version": "id_a9220ed1-1327-11e2-a37f-be98ce91e080"
 }
 ],
 "GOV 65968": [
 {
 "effective": "2022-01-01",
-"hash": "ad94e94768a02a7b",
+"hash": "a968e1ba665fa046",
 "version": "id_d5aaf83c-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 65970": [
 {
 "effective": "NULL",
-"hash": "f2291f4ef3b9a258",
+"hash": "3346d6b29c6c29b6",
 "version": "id_c82912b5-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65971": [
 {
 "effective": "2007-01-01",
-"hash": "4fa21ae03d90b913",
+"hash": "97f57a9f8646c55b",
 "version": "id_e93b9bf8-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 65972": [
 {
 "effective": "NULL",
-"hash": "71a6d51e8e7832c0",
+"hash": "bf83d64bdb8c76a3",
 "version": "id_c82912b9-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65973": [
 {
 "effective": "2007-01-01",
-"hash": "67c4ca3125c80b1b",
+"hash": "d9fa2f0df1875294",
 "version": "id_e98a7f4a-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 65974": [
 {
 "effective": "2007-01-01",
-"hash": "f64341b2f4e5a606",
+"hash": "0728d43ffc122f3c",
 "version": "id_e9df560c-8f68-11db-9801-f57d41d6b535"
 }
 ],
@@ -4699,7 +4699,7 @@
 "GOV 65975": [
 {
 "effective": "NULL",
-"hash": "9ea2f14262b9e37d",
+"hash": "afe456024869788b",
 "version": "id_c82a9961-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4727,14 +4727,14 @@
 "GOV 65979": [
 {
 "effective": "2007-01-01",
-"hash": "30bcff899db1cf55",
+"hash": "c48c47e67a678df3",
 "version": "id_ea316dae-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 65980": [
 {
 "effective": "NULL",
-"hash": "101de2f9e1ca0b0b",
+"hash": "2fbdf9e621f5cbf3",
 "version": "id_c82f2c4b-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4783,91 +4783,91 @@
 "GOV 65995": [
 {
 "effective": "2016-01-01",
-"hash": "8258c7c97e506347",
+"hash": "8b8d181cdb5095d9",
 "version": "id_ea7758d3-9f9d-11e5-bacb-c9b7c1eb246b"
 }
 ],
 "GOV 65995.1": [
 {
 "effective": "1991-10-07",
-"hash": "3c7ccc14c03f5c50",
+"hash": "3f42db369480028f",
 "version": "id_c86f69af-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65995.2": [
 {
 "effective": "1989-10-01",
-"hash": "584b78f51535b8ad",
+"hash": "f62cc3357b0e9ecf",
 "version": "id_c86f69b1-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65995.5": [
 {
 "effective": "2013-01-01",
-"hash": "6b95caa15252e494",
+"hash": "742823fb602d5280",
 "version": "id_bdc02c30-4e0f-11e2-bece-f6c402701ba4"
 }
 ],
 "GOV 65995.6": [
 {
 "effective": "2000-01-01",
-"hash": "45a0b560c1983e58",
+"hash": "bc1f84269e29035c",
 "version": "id_c870f055-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 65995.7": [
 {
 "effective": "2022-09-27",
-"hash": "773e5ce45edc6772",
+"hash": "2756e6a212f4f12d",
 "version": "id_c722addb-403b-11ed-8f71-c32817f2403f"
 }
 ],
 "GOV 65996": [
 {
 "effective": "1998-08-27",
-"hash": "32de8ba60b48f780",
+"hash": "154dfa2d063306dc",
 "version": "id_b4d0c0ea-3d06-11dc-bb2a-8c95048aae6a"
 }
 ],
 "GOV 65997": [
 {
 "effective": "2022-09-27",
-"hash": "b1c513620f6bee0f",
+"hash": "59df1456037aa7af",
 "version": "id_cad46b3d-403b-11ed-8f71-c32817f2403f"
 }
 ],
 "GOV 65998": [
 {
 "effective": "1998-08-27",
-"hash": "6d2284f908d11157",
+"hash": "b2341a8cade0b19b",
 "version": "id_295d063e-1f27-11dc-bca2-ce79695dd38e"
 }
 ],
 "GOV 66000": [
 {
 "effective": "2007-01-01",
-"hash": "20f9a7d239424cf2",
+"hash": "c53713e608cb41fe",
 "version": "id_eaf44880-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 66000.5": [
 {
 "effective": "2021-01-01",
-"hash": "d1b274f506c50443",
+"hash": "cad5ad1e1de53e88",
 "version": "id_e4d8825d-39aa-11eb-923f-f1b2d79fc0b2"
 }
 ],
 "GOV 66001": [
 {
 "effective": "2007-01-01",
-"hash": "83202c4c160d21c7",
+"hash": "befc9dbc9da68a6c",
 "version": "id_eb4575c2-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 66002": [
 {
 "effective": "NULL",
-"hash": "f416daea99b141f7",
+"hash": "c224752c95de5952",
 "version": "id_44f0c2df-263a-11dc-8ee5-a8adf636e577"
 }
 ],
@@ -4888,35 +4888,35 @@
 "GOV 66005": [
 {
 "effective": "NULL",
-"hash": "cee196c7dde40d85",
+"hash": "02736dc219d62a69",
 "version": "id_c875844d-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66005.1": [
 {
 "effective": "2026-01-01",
-"hash": "7b31eeb7c7174e24",
+"hash": "d52880b9faa310d6",
 "version": "id_ace03825-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66006": [
 {
 "effective": "2024-01-01",
-"hash": "074bdaeec711f2e2",
+"hash": "e4fbeed269ce2735",
 "version": "id_a954f6f9-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 66006.5": [
 {
 "effective": "NULL",
-"hash": "9ad4b15623ad985f",
+"hash": "de52476e89169576",
 "version": "id_c8770af1-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66007": [
 {
 "effective": "2026-01-01",
-"hash": "5f9b34bcf0ba7685",
+"hash": "2d940c8ca32a0667",
 "version": "id_b1706ea7-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -4930,7 +4930,7 @@
 "GOV 66010": [
 {
 "effective": "NULL",
-"hash": "746487561590ebab",
+"hash": "ecad884262fe2eff",
 "version": "id_c8789199-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -4944,63 +4944,63 @@
 "GOV 66012": [
 {
 "effective": "NULL",
-"hash": "1c4d387391ce2042",
+"hash": "8259beced55ccc0f",
 "version": "id_c87a183f-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66013": [
 {
 "effective": "2021-01-01",
-"hash": "0aeaf2969f19d3be",
+"hash": "1495ac6d3d02b60c",
 "version": "id_e714b6bf-39aa-11eb-923f-f1b2d79fc0b2"
 }
 ],
 "GOV 66014": [
 {
 "effective": "2003-01-01",
-"hash": "58e40fe5a58f81ed",
+"hash": "07dc693a93318012",
 "version": "id_c87b9ee3-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66015": [
 {
 "effective": "2024-01-01",
-"hash": "a90457103896cf24",
+"hash": "a7cf46c553630757",
 "version": "id_af5d759d-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 66016": [
 {
 "effective": "2007-01-01",
-"hash": "6f911c55bf0db06d",
+"hash": "5ee6d82a5675282a",
 "version": "id_eb9ae8c4-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 66016.5": [
 {
 "effective": "2023-01-01",
-"hash": "db2da830af644698",
+"hash": "3f3c7dc921b20c26",
 "version": "id_0c94c1e2-7cba-11ed-acb9-a59a0646e1a6"
 }
 ],
 "GOV 66016.6": [
 {
 "effective": "2023-01-01",
-"hash": "444e53b5821106eb",
+"hash": "35c733b9defe09b1",
 "version": "id_a278c15c-7cb9-11ed-acb9-a59a0646e1a6"
 }
 ],
 "GOV 66017": [
 {
 "effective": "2007-01-01",
-"hash": "c14996f457cbe80a",
+"hash": "077c89d9d8836c8f",
 "version": "id_ebe9f326-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 66018": [
 {
 "effective": "NULL",
-"hash": "5304295ccbd65519",
+"hash": "204b11ea9ee809d1",
 "version": "id_c87b9eeb-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -5014,42 +5014,42 @@
 "GOV 66019": [
 {
 "effective": "2022-01-01",
-"hash": "6b242467935cd65d",
+"hash": "fda47a04a46252b4",
 "version": "id_d9bc13b0-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 66020": [
 {
 "effective": "1997-01-01",
-"hash": "eb358a4ef2d61743",
+"hash": "ad50ba5601583006",
 "version": "id_c87d2591-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66021": [
 {
 "effective": "1999-01-01",
-"hash": "d488363a2a74329a",
+"hash": "ea0e6c07df9f932b",
 "version": "id_c87d2593-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66022": [
 {
 "effective": "2007-01-01",
-"hash": "7c654754e48cd476",
+"hash": "b168cda0a74f7ed0",
 "version": "id_ec383a38-8f68-11db-9801-f57d41d6b535"
 }
 ],
 "GOV 66023": [
 {
 "effective": "2024-01-01",
-"hash": "fe5ed5ea5752ec8a",
+"hash": "369c90da67adbb82",
 "version": "id_b22cc23f-8566-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 66024": [
 {
 "effective": "2022-01-01",
-"hash": "cc25746c1df5c0e2",
+"hash": "0a561cc247a68798",
 "version": "id_de5a2ce4-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
@@ -5063,21 +5063,21 @@
 "GOV 66030": [
 {
 "effective": "1995-01-01",
-"hash": "3c1a67a09e94ad64",
+"hash": "f88dd41479c80099",
 "version": "id_c88032df-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66031": [
 {
 "effective": "2011-01-01",
-"hash": "46eaa80fb46732f2",
+"hash": "33ec0581a6a647f2",
 "version": "id_4e67bd91-1447-11e0-85fe-826b00c4d02a"
 }
 ],
 "GOV 66032": [
 {
 "effective": "2010-09-29",
-"hash": "3a2a2c0e5a4ec7f2",
+"hash": "ea791aa2e2274b36",
 "version": "id_0159f2bb-cd3f-11df-8cfd-b67c8342a1ad"
 }
 ],
@@ -5126,70 +5126,70 @@
 "GOV 66200": [
 {
 "effective": "2018-01-01",
-"hash": "b6e25eff173ccd04",
+"hash": "a7d617996d86c8dc",
 "version": "id_7a2b2019-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 66201": [
 {
 "effective": "2022-01-01",
-"hash": "3b0e266ecab06155",
+"hash": "8414243f1a0dacc2",
 "version": "id_e171cd26-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 66202": [
 {
 "effective": "2018-01-01",
-"hash": "eb7b89a766d3029f",
+"hash": "3132a70fdfd5a69a",
 "version": "id_7a2b201d-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 66203": [
 {
 "effective": "2018-01-01",
-"hash": "6937e19bac8046e7",
+"hash": "29fd1955b1eea44d",
 "version": "id_7a2b201f-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 66204": [
 {
 "effective": "2018-01-01",
-"hash": "e69f51810d4663e8",
+"hash": "3023d9d23cdb4d57",
 "version": "id_7a2b4731-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 66205": [
 {
 "effective": "2018-01-01",
-"hash": "c514f3206e043f7d",
+"hash": "3c336070cfc71235",
 "version": "id_7a2b4733-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 66206": [
 {
 "effective": "2018-01-01",
-"hash": "bb9ce7ff39eafd1a",
+"hash": "57b338a1b3fb124d",
 "version": "id_7a2b4735-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 66207": [
 {
 "effective": "2018-01-01",
-"hash": "de0f1fbbecb57b6c",
+"hash": "5c8bc44fd7927ca2",
 "version": "id_7a2b4737-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 66208": [
 {
 "effective": "2018-01-01",
-"hash": "42969cfdf444d121",
+"hash": "7fca998deee6ff16",
 "version": "id_7a2b4739-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
 "GOV 66209": [
 {
 "effective": "2018-01-01",
-"hash": "c171606a75b55fbe",
+"hash": "ecdfe1be4932842a",
 "version": "id_7a2b6e4b-e515-11e7-99d3-2f570f4f10eb"
 }
 ],
@@ -5203,35 +5203,35 @@
 "GOV 66300": [
 {
 "effective": "2024-01-01",
-"hash": "dd0686798dbdcf9e",
+"hash": "c4366cca324ecfe4",
 "version": "id_8b37ff77-8573-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 66300.5": [
 {
 "effective": "2024-01-01",
-"hash": "368efa62034f70d9",
+"hash": "5f015b18ad265ebc",
 "version": "id_721f48df-8573-11ee-bcfe-9f16e66157a6"
 }
 ],
 "GOV 66300.6": [
 {
 "effective": "2026-01-01",
-"hash": "894d27d153de9a27",
+"hash": "5a9bb991676f4f12",
 "version": "id_b604eae9-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66300.6.5": [
 {
 "effective": "2026-01-01",
-"hash": "b0673eec78badac4",
+"hash": "2a29abd3f9e391eb",
 "version": "id_7d103465-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66310": [
 {
 "effective": "2024-03-25",
-"hash": "4afb5849a41b0544",
+"hash": "3e346ea4859d512d",
 "version": "id_6dc8bb72-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
@@ -5245,14 +5245,14 @@
 "GOV 66311.5": [
 {
 "effective": "2026-01-01",
-"hash": "fbd86c650ee4714b",
+"hash": "cf44ca84176da042",
 "version": "id_b4349199-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66311.7": [
 {
 "effective": "2026-01-01",
-"hash": "77a2b530df841567",
+"hash": "db5bfde596bca357",
 "version": "id_b9ea0e3b-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
@@ -5266,7 +5266,7 @@
 "GOV 66313": [
 {
 "effective": "2026-01-01",
-"hash": "d59205cd880a0ce4",
+"hash": "37d0c488657ed935",
 "version": "id_c14c7dad-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -5280,7 +5280,7 @@
 "GOV 66314": [
 {
 "effective": "2026-01-01",
-"hash": "27604416cc89a9be",
+"hash": "af83ed4f7737254d",
 "version": "id_c75e240f-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -5301,14 +5301,14 @@
 "GOV 66317": [
 {
 "effective": "2026-01-01",
-"hash": "663dc8ad3e94958c",
+"hash": "9ebf65ceb8056689",
 "version": "id_cc341621-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66318": [
 {
 "effective": "2024-03-25",
-"hash": "e3436c905d9cca9d",
+"hash": "11a3e3f011b1bb0e",
 "version": "id_6dc8e294-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
@@ -5329,49 +5329,49 @@
 "GOV 66321": [
 {
 "effective": "2026-01-01",
-"hash": "1a603f943d8b0689",
+"hash": "76b874a1ca431974",
 "version": "id_d5eaa8a5-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66322": [
 {
 "effective": "2024-03-25",
-"hash": "1bd27f441b3c9778",
+"hash": "943c1c8270125037",
 "version": "id_6dc8e29c-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 66323": [
 {
 "effective": "2026-01-01",
-"hash": "f8c25462f14b27f6",
+"hash": "6b732093157d7c6e",
 "version": "id_dad1ffd7-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66325": [
 {
 "effective": "2024-03-25",
-"hash": "ff5fff6b7ee7d82e",
+"hash": "1e42e94089d469f9",
 "version": "id_6dc909b2-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 66326": [
 {
 "effective": "2026-01-01",
-"hash": "1d3c43d87df0cb05",
+"hash": "5125d3367e74a83e",
 "version": "id_dfc3de59-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66328": [
 {
 "effective": "2025-10-10",
-"hash": "6c1ec9bc4620a2f5",
+"hash": "3576f9fbb681da7f",
 "version": "id_2d190892-a884-11f0-b3c2-a99c1f616619"
 }
 ],
 "GOV 66329": [
 {
 "effective": "2025-10-10",
-"hash": "963d6b6c3cd5bb06",
+"hash": "b7ac1322dadc7f96",
 "version": "id_32fee404-a884-11f0-b3c2-a99c1f616619"
 }
 ],
@@ -5385,35 +5385,35 @@
 "GOV 66331": [
 {
 "effective": "2024-03-25",
-"hash": "69716d56d8a9650d",
+"hash": "71d131ef08c9a5ae",
 "version": "id_6dc930ce-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 66333": [
 {
 "effective": "2026-01-01",
-"hash": "2bf11ecfee09fbc7",
+"hash": "3e2ce8a645761bb6",
 "version": "id_e49ba52b-cfae-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66333.5": [
 {
 "effective": "2026-01-01",
-"hash": "ceff70d216d6c48f",
+"hash": "d92814b8c6475bc3",
 "version": "id_84410667-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66334": [
 {
 "effective": "2024-03-25",
-"hash": "35f37c6f98894423",
+"hash": "1ad20b9ae8023dac",
 "version": "id_6dc930d6-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 66335": [
 {
 "effective": "2026-01-01",
-"hash": "e9c58548adda9c4b",
+"hash": "cbe4b05f58b23e5e",
 "version": "id_e952014d-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -5434,14 +5434,14 @@
 "GOV 66337": [
 {
 "effective": "2024-03-25",
-"hash": "68567363d913939e",
+"hash": "86baef2ddb5c5559",
 "version": "id_6dc930dc-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 66338": [
 {
 "effective": "2024-03-25",
-"hash": "a83c83f4586d1116",
+"hash": "9dee4f91eae4efcf",
 "version": "id_6dc957ee-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
@@ -5455,49 +5455,49 @@
 "GOV 66339.5": [
 {
 "effective": "2026-01-01",
-"hash": "27c74d8c441138dd",
+"hash": "2f092fa22bf64fb1",
 "version": "id_8f2a257b-cfa6-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66340": [
 {
 "effective": "2024-03-25",
-"hash": "6df4bab21a90e873",
+"hash": "d13bd1ffb993ec7e",
 "version": "id_6dc957f4-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 66341": [
 {
 "effective": "2024-03-25",
-"hash": "ae0796685ee0bbeb",
+"hash": "3371eadd4b173865",
 "version": "id_6dc957f6-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 66342": [
 {
 "effective": "2024-03-25",
-"hash": "45e069874416c77c",
+"hash": "b4c1519c71e4fe5d",
 "version": "id_6dc957f8-ec4e-11ee-bb0d-8d062daf3ea0"
 }
 ],
 "GOV 66345": [
 {
 "effective": "2026-01-01",
-"hash": "52a1e1cf6d66da6f",
+"hash": "02a75c72c29d1765",
 "version": "id_b6a746b7-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66345.1": [
 {
 "effective": "2026-01-01",
-"hash": "e932ab3240250d50",
+"hash": "dcdf4f3b5b53b8e2",
 "version": "id_b6a746b9-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
 "GOV 66345.2": [
 {
 "effective": "2026-01-01",
-"hash": "dec7fcd3803945ef",
+"hash": "fcbe537d19fed2cc",
 "version": "id_b6a746bb-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
@@ -5511,7 +5511,7 @@
 "GOV 66345.4": [
 {
 "effective": "2026-01-01",
-"hash": "692fe2aff1872734",
+"hash": "12c053ac0ce65d0d",
 "version": "id_b6a746bf-cfa3-11f0-bfde-adfc216d767c"
 }
 ],
@@ -5532,35 +5532,35 @@
 "GOV 66411.1": [
 {
 "effective": "1995-01-01",
-"hash": "0c903b81f5a4e272",
+"hash": "a1e71c2f36332419",
 "version": "id_c88c6801-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66411.5": [
 {
 "effective": "NULL",
-"hash": "0e05541d3d4bec38",
+"hash": "ef7e8eccbe385f27",
 "version": "id_c88c6803-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66411.7": [
 {
 "effective": "2026-06-30",
-"hash": "8ee59dba331b8988",
+"hash": "87bf2fe1ed74d97a",
 "version": "id_c94d3efc-762b-11f1-add4-ed9e66f640c7"
 }
 ],
 "GOV 66412": [
 {
 "effective": "2025-01-01",
-"hash": "e1a96a721a152122",
+"hash": "0e00cbf1a8f2cda4",
 "version": "id_d96ab8ba-b8c6-11ef-87f5-6bbf55a2195e"
 }
 ],
 "GOV 66412.1": [
 {
 "effective": "1982-03-01",
-"hash": "9c810c500c833d77",
+"hash": "3c6ccf339a506bbf",
 "version": "id_c88deea7-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -5588,7 +5588,7 @@
 "GOV 66412.6": [
 {
 "effective": "1994-01-01",
-"hash": "16fdf1532ea2a2e9",
+"hash": "67e21e977b97eb8e",
 "version": "id_c88deeaf-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -5602,28 +5602,28 @@
 "GOV 66412.8": [
 {
 "effective": "2004-01-01",
-"hash": "f962f581443e1264",
+"hash": "6cc221d5bb396d3d",
 "version": "id_c88f7553-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66412.9": [
 {
 "effective": "2010-01-01",
-"hash": "907426a9668cb93e",
+"hash": "ff2fd95391976cca",
 "version": "id_c8c50673-f69c-11de-b0ec-bb14591ec966"
 }
 ],
 "GOV 66413": [
 {
 "effective": "NULL",
-"hash": "9dba487277049f0a",
+"hash": "18a83bad5106d8bf",
 "version": "id_c88f7555-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66413.5": [
 {
 "effective": "1999-01-01",
-"hash": "43a02370f40d8f5a",
+"hash": "f71c35dd5a64989e",
 "version": "id_c88f7557-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -5651,14 +5651,14 @@
 "GOV 66416.5": [
 {
 "effective": "1997-01-01",
-"hash": "140dfae6964aefab",
+"hash": "09fc2a3151722029",
 "version": "id_c890fc01-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66417": [
 {
 "effective": "1997-01-01",
-"hash": "5bc311ec1600c352",
+"hash": "9c644f300809f3e4",
 "version": "id_c89282a3-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -5679,14 +5679,14 @@
 "GOV 66418.2": [
 {
 "effective": "2004-01-01",
-"hash": "f6536a1d940a846d",
+"hash": "71d04dc6f3728baa",
 "version": "id_c89282a9-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66419": [
 {
 "effective": "NULL",
-"hash": "f95de44e9ca51c94",
+"hash": "8e009e07c8816405",
 "version": "id_c89282ab-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -5735,14 +5735,14 @@
 "GOV 66424.5": [
 {
 "effective": "NULL",
-"hash": "04fb97556362b014",
+"hash": "992526660fd9ebe3",
 "version": "id_c8940959-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66424.6": [
 {
 "effective": "NULL",
-"hash": "1fee1b9f5fee005c",
+"hash": "99e22cd38cf02243",
 "version": "id_c8958ffb-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -5756,7 +5756,7 @@
 "GOV 66426": [
 {
 "effective": "2004-01-01",
-"hash": "e6be1f5e0a248a28",
+"hash": "58115571b8bb7c70",
 "version": "id_c89716a3-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -5770,14 +5770,14 @@
 "GOV 66427": [
 {
 "effective": "2014-01-01",
-"hash": "ce83ff990e83a692",
+"hash": "9f978c94253854ec",
 "version": "id_0e64ae9f-644f-11e3-a7a3-bf206d1f6db2"
 }
 ],
 "GOV 66427.1": [
 {
 "effective": "2013-09-26",
-"hash": "851c9462abbd60be",
+"hash": "574ff07a66f8a7e8",
 "version": "id_3cf31fef-2bb8-11e3-986d-eec746dc55f1"
 }
 ],
@@ -5791,35 +5791,35 @@
 "GOV 66427.4": [
 {
 "effective": "2021-01-01",
-"hash": "402d566b39fc9ee3",
+"hash": "1fb64ed4213dd82a",
 "version": "id_ea4cfe63-39aa-11eb-923f-f1b2d79fc0b2"
 }
 ],
 "GOV 66427.5": [
 {
 "effective": "2014-01-01",
-"hash": "27d47d7534e998bf",
+"hash": "573ab1a0bfc8cb50",
 "version": "id_239b4903-644f-11e3-a7a3-bf206d1f6db2"
 }
 ],
 "GOV 66427.6": [
 {
 "effective": "2014-01-01",
-"hash": "59bd30fcf2c453cb",
+"hash": "41723216aadfef57",
 "version": "id_fc2376a9-643a-11e3-a7a3-bf206d1f6db2"
 }
 ],
 "GOV 66428": [
 {
 "effective": "2014-01-01",
-"hash": "ad170a500fc6f681",
+"hash": "521284ab393fe2f3",
 "version": "id_2dc49a85-644f-11e3-a7a3-bf206d1f6db2"
 }
 ],
 "GOV 66428.1": [
 {
 "effective": "2014-01-01",
-"hash": "e486efb6fe9ddcfb",
+"hash": "0eaaab3426408c19",
 "version": "id_3802d397-644f-11e3-a7a3-bf206d1f6db2"
 }
 ],
@@ -5854,7 +5854,7 @@
 "GOV 66434": [
 {
 "effective": "2010-01-01",
-"hash": "1537d76ed7d4596b",
+"hash": "dc2de16b97076446",
 "version": "id_ba57d791-f6a1-11de-b0ec-bb14591ec966"
 }
 ],
@@ -5868,7 +5868,7 @@
 "GOV 66434.2": [
 {
 "effective": "NULL",
-"hash": "eecd193be4ca5d30",
+"hash": "e36293746ac1f309",
 "version": "id_c89edef3-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -5903,14 +5903,14 @@
 "GOV 66436": [
 {
 "effective": "NULL",
-"hash": "5a1d6ceb112da2fd",
+"hash": "d3a93252e787511a",
 "version": "id_c8a0659d-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66439": [
 {
 "effective": "2010-01-01",
-"hash": "103053ea55a57810",
+"hash": "d01e550ef527a409",
 "version": "id_be4369a3-f6a1-11de-b0ec-bb14591ec966"
 }
 ],
@@ -5931,7 +5931,7 @@
 "GOV 66442": [
 {
 "effective": "2013-01-01",
-"hash": "dd862a61a5daecc4",
+"hash": "3d843d0c2608aa8b",
 "version": "id_cbbeefba-4e0f-11e2-bece-f6c402701ba4"
 }
 ],
@@ -5959,14 +5959,14 @@
 "GOV 66445": [
 {
 "effective": "2010-01-01",
-"hash": "3a11b2a0eabe9a72",
+"hash": "b6fadfc11493e1aa",
 "version": "id_c2049055-f6a1-11de-b0ec-bb14591ec966"
 }
 ],
 "GOV 66447": [
 {
 "effective": "2010-01-01",
-"hash": "10c0da7b543ecf10",
+"hash": "5d4b5f69a861d992",
 "version": "id_c5fdb6f7-f6a1-11de-b0ec-bb14591ec966"
 }
 ],
@@ -5987,7 +5987,7 @@
 "GOV 66450": [
 {
 "effective": "2013-01-01",
-"hash": "82b0c592200628d9",
+"hash": "e63c5fa320694cde",
 "version": "id_cdcf592c-4e0f-11e2-bece-f6c402701ba4"
 }
 ],
@@ -6001,21 +6001,21 @@
 "GOV 66451.1": [
 {
 "effective": "NULL",
-"hash": "50edd15c9359f00a",
+"hash": "41abd64a48e629f8",
 "version": "id_c8a98c83-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66451.10": [
 {
 "effective": "1986-09-15",
-"hash": "db489ee1a42d9149",
+"hash": "c10628bd64b75109",
 "version": "id_c8ab1331-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66451.11": [
 {
 "effective": "1996-01-01",
-"hash": "071ee01ac4208ae3",
+"hash": "66bbc5168a5c0d90",
 "version": "id_c8ac99d3-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6071,14 +6071,14 @@
 "GOV 66451.19": [
 {
 "effective": "1986-09-15",
-"hash": "267a5c0ca681c926",
+"hash": "ef135ee8d87df8c5",
 "version": "id_c8afa723-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66451.195": [
 {
 "effective": "1986-09-15",
-"hash": "0e56be89286ca017",
+"hash": "621bbab2b00b9c68",
 "version": "id_c8afa725-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6099,14 +6099,14 @@
 "GOV 66451.21": [
 {
 "effective": "1996-01-01",
-"hash": "192f857ddd6f8e19",
+"hash": "3e8f1fab64cbc76d",
 "version": "id_c8afa729-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66451.22": [
 {
 "effective": "1998-01-01",
-"hash": "a35bd5dbf3844293",
+"hash": "9e5a23f5e50cec52",
 "version": "id_c8afa72b-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6120,35 +6120,35 @@
 "GOV 66451.24": [
 {
 "effective": "2011-01-01",
-"hash": "427fb2d5d3f4db1a",
+"hash": "278492338b14d1d5",
 "version": "id_0ee7b577-1445-11e0-85fe-826b00c4d02a"
 }
 ],
 "GOV 66451.3": [
 {
 "effective": "NULL",
-"hash": "c1e99db1076270e9",
+"hash": "ae53afe84bf3fcba",
 "version": "id_c8a98c87-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66451.30": [
 {
 "effective": "1985-09-19",
-"hash": "16b9082f92d8aa44",
+"hash": "ec383a4edaed0916",
 "version": "id_c8b2b471-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66451.301": [
 {
 "effective": "1985-09-19",
-"hash": "5a4a7ce1c016f62e",
+"hash": "d6488a30d518f41b",
 "version": "id_c8b2b473-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66451.302": [
 {
 "effective": "1985-09-19",
-"hash": "0981e3c5a042b5eb",
+"hash": "834ef81eae116321",
 "version": "id_c8b2b475-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6162,7 +6162,7 @@
 "GOV 66451.32": [
 {
 "effective": "1984-04-30",
-"hash": "a7bd3c2384e8acd6",
+"hash": "123d0b8d0405cb56",
 "version": "id_c8b2b479-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6197,14 +6197,14 @@
 "GOV 66452": [
 {
 "effective": "NULL",
-"hash": "d3e00e71100e02cd",
+"hash": "5451fde927db2f27",
 "version": "id_c8b43b1f-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66452.1": [
 {
 "effective": "NULL",
-"hash": "7c38ea628e6892f6",
+"hash": "effbb34e4699f0ef",
 "version": "id_c8b43b21-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6218,91 +6218,91 @@
 "GOV 66452.11": [
 {
 "effective": "1993-09-13",
-"hash": "50a044576d5f0e58",
+"hash": "b05c7ba9849ae452",
 "version": "id_fd0defdb-532f-11dd-bcd3-d097705593ce"
 }
 ],
 "GOV 66452.12": [
 {
 "effective": "1995-01-01",
-"hash": "5be7b3b3ab8e0700",
+"hash": "e727d9209d0edcf8",
 "version": "id_fdcb737f-532f-11dd-bcd3-d097705593ce"
 }
 ],
 "GOV 66452.13": [
 {
 "effective": "1996-05-15",
-"hash": "81bf04e9dff0a853",
+"hash": "38e80f5a50b98c3f",
 "version": "id_c8c8115b-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66452.17": [
 {
 "effective": "2013-09-26",
-"hash": "268233ae39bc33bb",
+"hash": "efa249383eab98bc",
 "version": "id_442614d1-2bb8-11e3-986d-eec746dc55f1"
 }
 ],
 "GOV 66452.18": [
 {
 "effective": "2009-01-01",
-"hash": "8c5117a00867566f",
+"hash": "11a897473222f6b3",
 "version": "id_1f0ece52-d673-11dd-898a-f4578c730531"
 }
 ],
 "GOV 66452.19": [
 {
 "effective": "2009-01-01",
-"hash": "43ebac03d1e353aa",
+"hash": "01c4106b0657764e",
 "version": "id_1fc218c4-d673-11dd-898a-f4578c730531"
 }
 ],
 "GOV 66452.2": [
 {
 "effective": "NULL",
-"hash": "2896676e37c5a824",
+"hash": "8256017201f16417",
 "version": "id_c8b43b23-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66452.20": [
 {
 "effective": "2009-01-01",
-"hash": "905ced1bc71e92d3",
+"hash": "b2aa089da858b816",
 "version": "id_7167bb44-d999-11dd-898a-f4578c730531"
 }
 ],
 "GOV 66452.21": [
 {
 "effective": "2009-01-01",
-"hash": "b1598e652bdb8928",
+"hash": "279680e47d564326",
 "version": "id_4bade3c4-ce9c-11dd-898a-f4578c730531"
 }
 ],
 "GOV 66452.22": [
 {
 "effective": "2010-01-01",
-"hash": "264a90097e956419",
+"hash": "fc55ae90faf5d956",
 "version": "id_c98c0dd9-f6a1-11de-b0ec-bb14591ec966"
 }
 ],
 "GOV 66452.23": [
 {
 "effective": "2011-07-15",
-"hash": "d6bdde8b2d18dd85",
+"hash": "7bf9363572b01380",
 "version": "id_0268f470-b1be-11e0-b72d-cd2368723f20"
 }
 ],
 "GOV 66452.24": [
 {
 "effective": "2013-07-11",
-"hash": "a19f3364f2cfbe38",
+"hash": "98f73a5a4e022604",
 "version": "id_cca7b33a-eb41-11e2-968c-c439312ede8c"
 }
 ],
 "GOV 66452.25": [
 {
 "effective": "2015-10-10",
-"hash": "1d8c26840df586f0",
+"hash": "8cc4809f062ffbec",
 "version": "id_1a441844-712f-11e5-a257-d59a842c4432"
 }
 ],
@@ -6316,7 +6316,7 @@
 "GOV 66452.27": [
 {
 "effective": "2021-01-01",
-"hash": "c56862a0e834493f",
+"hash": "cf97c31f01321895",
 "version": "id_f03e7297-39aa-11eb-923f-f1b2d79fc0b2"
 }
 ],
@@ -6330,21 +6330,21 @@
 "GOV 66452.4": [
 {
 "effective": "2004-01-01",
-"hash": "cdf852674760b18f",
+"hash": "18220fbdb542f53e",
 "version": "id_c8b5c1c7-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66452.5": [
 {
 "effective": "2022-01-01",
-"hash": "3f9e1e6983d29097",
+"hash": "8e0c043e534430ec",
 "version": "id_e6bf874c-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 66452.50": [
 {
 "effective": "1983-06-14",
-"hash": "926ce12cede05d2f",
+"hash": "97a33350921dd7ee",
 "version": "id_c8c997ff-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6358,14 +6358,14 @@
 "GOV 66452.6": [
 {
 "effective": "2022-01-01",
-"hash": "b4f739958bf14ec8",
+"hash": "aebbd5c9bec2c218",
 "version": "id_ea27917e-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 66453": [
 {
 "effective": "2005-01-01",
-"hash": "f8df8cfc7f3b60a0",
+"hash": "e25fe52284db9a39",
 "version": "id_0eb19385-6514-11d9-bd15-b3cbb5da6f1d"
 }
 ],
@@ -6379,14 +6379,14 @@
 "GOV 66455": [
 {
 "effective": "1995-01-01",
-"hash": "7472eac985e180dd",
+"hash": "9685563104f55866",
 "version": "id_c8cfb28d-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66455.1": [
 {
 "effective": "1995-01-01",
-"hash": "c5be5d90cf6f81a4",
+"hash": "7885a7dbb4a1d5d3",
 "version": "id_c9084ebf-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6400,7 +6400,7 @@
 "GOV 66455.7": [
 {
 "effective": "1995-01-01",
-"hash": "9693042156a836f2",
+"hash": "52bbf306891fd9a1",
 "version": "id_c909d563-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6428,70 +6428,70 @@
 "GOV 66456.2": [
 {
 "effective": "NULL",
-"hash": "b223629f5ee52310",
+"hash": "e3b25c25ae48937d",
 "version": "id_c909d56d-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66457": [
 {
 "effective": "NULL",
-"hash": "ccf44be4fd070b91",
+"hash": "81e36c59a81f4a64",
 "version": "id_c90b5c0f-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66458": [
 {
 "effective": "1999-09-28",
-"hash": "e8d31deac2dc9b8c",
+"hash": "5804a240eba129aa",
 "version": "id_c90b5c11-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66459": [
 {
 "effective": "2008-01-01",
-"hash": "f909dade36b99de4",
+"hash": "ffff2270d5d49f84",
 "version": "id_e9c5b7a7-a97c-11dc-ac88-d5701eabf325"
 }
 ],
 "GOV 66462": [
 {
 "effective": "1999-01-01",
-"hash": "ab2642fed1bec91b",
+"hash": "4bdf29b60c5dfa98",
 "version": "id_c90e6957-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66462.5": [
 {
 "effective": "2004-01-01",
-"hash": "268d4b4302890626",
+"hash": "f9c65a650c9b89bf",
 "version": "id_c90e6959-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66463": [
 {
 "effective": "NULL",
-"hash": "1e218a598adcde18",
+"hash": "037d060d884ba304",
 "version": "id_c90e695d-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66463.1": [
 {
 "effective": "NULL",
-"hash": "08b4f9774f8c3ffb",
+"hash": "f9ac0ca1cbb09b49",
 "version": "id_c90fefff-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66463.5": [
 {
 "effective": "2008-07-15",
-"hash": "3eca3780885eeb41",
+"hash": "c4dbe877b847a3c9",
 "version": "id_fc48cb17-532f-11dd-bcd3-d097705593ce"
 }
 ],
 "GOV 66464": [
 {
 "effective": "2002-01-01",
-"hash": "530c71398717e640",
+"hash": "464d2be37f4a5155",
 "version": "id_c90ff005-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6505,7 +6505,7 @@
 "GOV 66466": [
 {
 "effective": "2023-01-01",
-"hash": "dc1f5eaf621c1a49",
+"hash": "5cb2b0571d0a6922",
 "version": "id_a1358054-7cbb-11ed-acb9-a59a0646e1a6"
 }
 ],
@@ -6533,14 +6533,14 @@
 "GOV 66468.2": [
 {
 "effective": "NULL",
-"hash": "32b8258d9570ad76",
+"hash": "594ee26710143423",
 "version": "id_c912fd51-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66469": [
 {
 "effective": "2002-01-01",
-"hash": "d7a1e1beaa4ec20b",
+"hash": "4968c1f9d6db827e",
 "version": "id_c91483f5-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6554,7 +6554,7 @@
 "GOV 66471": [
 {
 "effective": "1993-01-01",
-"hash": "23991f90938a6748",
+"hash": "d392f7898acbbde3",
 "version": "id_c91483f9-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6582,7 +6582,7 @@
 "GOV 66473.1": [
 {
 "effective": "2002-01-01",
-"hash": "21724764d2d62789",
+"hash": "883e3c68557938c2",
 "version": "id_c9179145-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6610,14 +6610,14 @@
 "GOV 66473.7": [
 {
 "effective": "2017-01-01",
-"hash": "ca5fbb68e535c9f9",
+"hash": "613e9d6432022b75",
 "version": "id_ef8e3f8a-bbf4-11e6-bdd8-d5db002bdb48"
 }
 ],
 "GOV 66474": [
 {
 "effective": "NULL",
-"hash": "790e5642af37f69e",
+"hash": "c4340e7c1795bcbc",
 "version": "id_c91a9e91-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6631,7 +6631,7 @@
 "GOV 66474.02": [
 {
 "effective": "2019-01-01",
-"hash": "2d7c8b55e0f7edb3",
+"hash": "68459a8bbacbb001",
 "version": "id_f6e10dc8-fe90-11e8-86f2-131a21bfb69b"
 }
 ],
@@ -6652,28 +6652,28 @@
 "GOV 66474.2": [
 {
 "effective": "NULL",
-"hash": "3df0a0e0299d680e",
+"hash": "5c9d2bd0e4ab3af0",
 "version": "id_c91a9e97-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66474.3": [
 {
 "effective": "NULL",
-"hash": "605a0ba5e75f97bb",
+"hash": "83e7ee7fb1f8e9b7",
 "version": "id_c91c2539-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66474.4": [
 {
 "effective": "2004-01-01",
-"hash": "c15e7141b852ea01",
+"hash": "d4a8184e4fb376c4",
 "version": "id_c91c253b-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66474.5": [
 {
 "effective": "2026-01-01",
-"hash": "df2c1c53d807570f",
+"hash": "3e15ad4a924264a9",
 "version": "id_f2b65521-cfae-11f0-bfde-adfc216d767c"
 }
 ],
@@ -6687,14 +6687,14 @@
 "GOV 66474.60": [
 {
 "effective": "NULL",
-"hash": "53756c2443b0c678",
+"hash": "76e5878ccde70ae8",
 "version": "id_c91f3289-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66474.61": [
 {
 "effective": "NULL",
-"hash": "5dd3149a55ffbccb",
+"hash": "73740ae7f884d0a2",
 "version": "id_c91f328b-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6736,7 +6736,7 @@
 "GOV 66474.9": [
 {
 "effective": "NULL",
-"hash": "51f7845ce1ab8f1f",
+"hash": "5f8a5a47eba12091",
 "version": "id_c91dabe3-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6757,14 +6757,14 @@
 "GOV 66475.2": [
 {
 "effective": "2014-01-01",
-"hash": "605735182ca479f4",
+"hash": "a13bad8e8e7a5db4",
 "version": "id_6db9be01-644f-11e3-a7a3-bf206d1f6db2"
 }
 ],
 "GOV 66475.3": [
 {
 "effective": "NULL",
-"hash": "b8ba432b44177582",
+"hash": "c1e19759b3eb0b20",
 "version": "id_c9223edb-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6778,21 +6778,21 @@
 "GOV 66477": [
 {
 "effective": "2016-01-01",
-"hash": "e7f62e5ec3b5f7ea",
+"hash": "6f237cac9bc76433",
 "version": "id_3a148781-9f97-11e5-bacb-c9b7c1eb246b"
 }
 ],
 "GOV 66477.1": [
 {
 "effective": "1999-01-01",
-"hash": "dfea7b03fd970234",
+"hash": "4e20ee431521f9c0",
 "version": "id_c9223ee1-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66477.2": [
 {
 "effective": "1995-01-01",
-"hash": "7deb90b8782c571d",
+"hash": "b78c4c71f82f2ce8",
 "version": "id_c9223ee3-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6806,14 +6806,14 @@
 "GOV 66477.5": [
 {
 "effective": "NULL",
-"hash": "a08e98e2278989da",
+"hash": "ecf0c7ae229c0be0",
 "version": "id_c923c587-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66478": [
 {
 "effective": "NULL",
-"hash": "cb089661e8705b75",
+"hash": "e9375c3f3f8fdb4f",
 "version": "id_c9254c29-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6834,14 +6834,14 @@
 "GOV 66478.11": [
 {
 "effective": "2003-01-01",
-"hash": "b4a1e489ae2e8098",
+"hash": "00d61d3eeea1d165",
 "version": "id_c9285981-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66478.12": [
 {
 "effective": "2003-01-01",
-"hash": "3e0f87d051d2d58c",
+"hash": "0e1e57b2a06463f5",
 "version": "id_c9285983-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6876,14 +6876,14 @@
 "GOV 66478.4": [
 {
 "effective": "2003-01-01",
-"hash": "0818de1d55e030cc",
+"hash": "b4c074b4c6618a05",
 "version": "id_c926d2d3-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66478.5": [
 {
 "effective": "2003-01-01",
-"hash": "bb6952d9d86dae04",
+"hash": "511856a19aa2116b",
 "version": "id_c926d2d5-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6918,7 +6918,7 @@
 "GOV 66479": [
 {
 "effective": "NULL",
-"hash": "890aba900a3294e1",
+"hash": "563b7950d3923189",
 "version": "id_c929e02b-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -6946,49 +6946,49 @@
 "GOV 66483": [
 {
 "effective": "NULL",
-"hash": "15d5c5e4bd7d5f86",
+"hash": "9477c8585bc8bc37",
 "version": "id_c92b66d5-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66483.1": [
 {
 "effective": "NULL",
-"hash": "5f6f12367193da23",
+"hash": "714621302e093fd0",
 "version": "id_c92ced77-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66483.2": [
 {
 "effective": "NULL",
-"hash": "42b79866aa7aece8",
+"hash": "970c9f64aa26be88",
 "version": "id_c92ced79-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66484": [
 {
 "effective": "2012-01-01",
-"hash": "b343d54e454333a4",
+"hash": "49f75602b7e13545",
 "version": "id_ed00397f-22e7-11e1-b409-d59fe8a0aa9b"
 }
 ],
 "GOV 66484.3": [
 {
 "effective": "2012-01-01",
-"hash": "710f2caa245be674",
+"hash": "f717566d3a4683df",
 "version": "id_062bdbd1-22e8-11e1-b409-d59fe8a0aa9b"
 }
 ],
 "GOV 66484.5": [
 {
 "effective": "NULL",
-"hash": "b267c6673bc23c80",
+"hash": "9164017cf823aa64",
 "version": "id_c92ffabf-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66484.7": [
 {
 "effective": "2012-01-01",
-"hash": "872bd4a6c787e4ad",
+"hash": "a929b4d436b5a1d8",
 "version": "id_3f3ed705-22c5-11e1-b409-d59fe8a0aa9b"
 }
 ],
@@ -7016,7 +7016,7 @@
 "GOV 66487": [
 {
 "effective": "NULL",
-"hash": "a9ab1828cc7a9adc",
+"hash": "f4281d1ebb68322f",
 "version": "id_c9318167-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7044,7 +7044,7 @@
 "GOV 66491": [
 {
 "effective": "NULL",
-"hash": "f998addbb9cd37a8",
+"hash": "cf2f0fa1b93071dd",
 "version": "id_c9330811-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7058,14 +7058,14 @@
 "GOV 66493": [
 {
 "effective": "1998-01-01",
-"hash": "fdc6def4f6230d57",
+"hash": "9d3f6b2dfcccbae7",
 "version": "id_c9330817-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66494": [
 {
 "effective": "NULL",
-"hash": "9145dec8df72ae63",
+"hash": "e0fbb956419df7cb",
 "version": "id_c9348eb9-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7093,7 +7093,7 @@
 "GOV 66497": [
 {
 "effective": "2016-01-01",
-"hash": "a3a910f74e832966",
+"hash": "e9f2294a90bae7ad",
 "version": "id_fbfa12fb-9f9d-11e5-bacb-c9b7c1eb246b"
 }
 ],
@@ -7107,7 +7107,7 @@
 "GOV 66498.1": [
 {
 "effective": "1999-09-28",
-"hash": "a317c9daa04eeaa1",
+"hash": "13429d1ae0d0e2d1",
 "version": "id_c9379c09-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7121,7 +7121,7 @@
 "GOV 66498.3": [
 {
 "effective": "1999-09-28",
-"hash": "6fbe95eb8523f75c",
+"hash": "559ba38229e351b5",
 "version": "id_c9379c0d-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7135,42 +7135,42 @@
 "GOV 66498.5": [
 {
 "effective": "1999-01-01",
-"hash": "497e4b7486336470",
+"hash": "ea5cea6d45d0c1c4",
 "version": "id_c93922b1-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66498.6": [
 {
 "effective": "NULL",
-"hash": "d5a5e74c96552aea",
+"hash": "071892430d8e53eb",
 "version": "id_c93922b3-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66498.7": [
 {
 "effective": "NULL",
-"hash": "6826c57e0cfeab13",
+"hash": "f72ed4ea13a6a44d",
 "version": "id_c93922b5-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66498.8": [
 {
 "effective": "NULL",
-"hash": "1898cb8243df3ee2",
+"hash": "f049f538e3b4130c",
 "version": "id_c93922b7-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66498.9": [
 {
 "effective": "NULL",
-"hash": "3f38a75de62678ac",
+"hash": "7a24f41f8c07d993",
 "version": "id_c93922b9-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66499": [
 {
 "effective": "NULL",
-"hash": "3d6fc60e61da4c0c",
+"hash": "27aff298d9658075",
 "version": "id_c93aa95d-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7198,14 +7198,14 @@
 "GOV 66499.12": [
 {
 "effective": "2011-01-01",
-"hash": "d062a0f6b071a87f",
+"hash": "09934058ff82ede7",
 "version": "id_50fdf8d5-1447-11e0-85fe-826b00c4d02a"
 }
 ],
 "GOV 66499.13": [
 {
 "effective": "NULL",
-"hash": "60e7b431de011afe",
+"hash": "c03eb111f1a68154",
 "version": "id_c940c3fb-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7226,14 +7226,14 @@
 "GOV 66499.16": [
 {
 "effective": "NULL",
-"hash": "16d4db350bd1b61b",
+"hash": "694168015fdf9916",
 "version": "id_c940c401-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66499.17": [
 {
 "effective": "NULL",
-"hash": "72edb12c1fb4894d",
+"hash": "978daed6c0345ff7",
 "version": "id_c940c403-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7352,14 +7352,14 @@
 "GOV 66499.3": [
 {
 "effective": "NULL",
-"hash": "6b8dc009f430ef39",
+"hash": "964b4cfa4fe9e585",
 "version": "id_c93c3003-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66499.30": [
 {
 "effective": "NULL",
-"hash": "74eff9ec643aa1d6",
+"hash": "a21686b6929f861b",
 "version": "id_c946dea9-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7373,7 +7373,7 @@
 "GOV 66499.32": [
 {
 "effective": "NULL",
-"hash": "ae6127884669f437",
+"hash": "c6f7e715526efc07",
 "version": "id_c948654f-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7394,7 +7394,7 @@
 "GOV 66499.35": [
 {
 "effective": "2003-01-01",
-"hash": "ebdf99123708903b",
+"hash": "1d552217b3abd406",
 "version": "id_c949ebf5-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7429,29 +7429,29 @@
 "GOV 66499.40": [
 {
 "effective": "2022-01-01",
-"hash": "808e58dbe8d76f6d",
+"hash": "340cdfbc9cd5d211",
 "version": "id_2bd99d36-5ea1-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "GOV 66499.41": [
 {
 "effective": "2026-09-30",
-"hash": "85c35627875fb0c6",
+"hash": "5015330e10e0f2c2",
 "version": "id_398ed6dd-be8b-11f1-ac76-bdb156c0a031"
 },
 {
 "effective": "2026-09-30",
-"hash": "9862279660c71ca3",
+"hash": "97c66a232ee9d078",
 "version": "id_3da39bcf-be8b-11f1-ac76-bdb156c0a031"
 },
 {
 "effective": "2026-09-30",
-"hash": "144a4e79a9298939",
+"hash": "37d4cc7f771f223b",
 "version": "id_4168ba21-be8b-11f1-ac76-bdb156c0a031"
 },
 {
 "effective": "2026-09-30",
-"hash": "8e32d935e83c7cd8",
+"hash": "cef912c838deadfa",
 "version": "id_52770795-be8b-11f1-ac76-bdb156c0a031"
 }
 ],
@@ -7472,14 +7472,14 @@
 "GOV 66499.51": [
 {
 "effective": "NULL",
-"hash": "b8ac87bb09be2a0e",
+"hash": "11e18c9d076060ee",
 "version": "id_c94e7fe1-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 66499.52": [
 {
 "effective": "NULL",
-"hash": "a2466a2640b45bbf",
+"hash": "ebc78dcd6aa74c1b",
 "version": "id_c94e7fe3-291f-11d9-878a-d40868cd9c22"
 }
 ],
@@ -7535,7 +7535,7 @@
 "GOV 66499.7": [
 {
 "effective": "2016-01-01",
-"hash": "9362224e6e271700",
+"hash": "7810fe0db7d2037e",
 "version": "id_00b8d38d-9f9e-11e5-bacb-c9b7c1eb246b"
 }
 ],
@@ -7549,14 +7549,14 @@
 "GOV 66499.9": [
 {
 "effective": "NULL",
-"hash": "92e80ec4357a4873",
+"hash": "03c9df0fcc10831c",
 "version": "id_c93db6af-291f-11d9-878a-d40868cd9c22"
 }
 ],
 "GOV 8899.50": [
 {
 "effective": "2022-01-01",
-"hash": "fbfe3fe51bcc9835",
+"hash": "7933c8fecd99bdd0",
 "version": "id_63585c26-5ded-11ec-9d2f-c3e210bbbdff"
 }
 ],
@@ -7633,14 +7633,14 @@
 "HSC 17008": [
 {
 "effective": "2020-01-01",
-"hash": "33c3e9ac321091aa",
+"hash": "7e815e07fe0649e2",
 "version": "id_59cd5b9d-0c7c-11ea-912d-915c88c10a14"
 }
 ],
 "HSC 17008.5": [
 {
 "effective": "2022-06-30",
-"hash": "0e2f24e1eb9f9646",
+"hash": "d29b4971bf53937a",
 "version": "id_fd9db2e0-fe1d-11ec-9d26-ab80667b1746"
 }
 ],
@@ -7689,7 +7689,7 @@
 "HSC 17021": [
 {
 "effective": "2020-09-29",
-"hash": "3e4f5c10f4347854",
+"hash": "f59b572596658537",
 "version": "id_7dacfe80-0431-11eb-98af-9b545df5b3b9"
 }
 ],
@@ -7703,7 +7703,7 @@
 "HSC 17021.6": [
 {
 "effective": "2020-01-01",
-"hash": "f8483cd53c22a898",
+"hash": "59216ddf811fcbc2",
 "version": "id_71533d31-0c7c-11ea-912d-915c88c10a14"
 }
 ],
@@ -7717,7 +7717,7 @@
 "HSC 17021.8": [
 {
 "effective": "2026-01-01",
-"hash": "a1d586eaedb69c9a",
+"hash": "5dca831a0da1e085",
 "version": "id_6c432c18-c985-11f0-aea3-3b460998bfb4"
 }
 ],
@@ -7759,7 +7759,7 @@
 "HSC 17030.10": [
 {
 "effective": "2020-09-29",
-"hash": "5ea055e465b026ce",
+"hash": "f80e8675f9e431b5",
 "version": "id_8a2018f4-0431-11eb-98af-9b545df5b3b9"
 }
 ],
@@ -7815,7 +7815,7 @@
 "HSC 17031.8": [
 {
 "effective": "2010-01-01",
-"hash": "7c06b6954360862a",
+"hash": "3db0052e6367059a",
 "version": "id_7038d5f3-f508-11de-b0ec-bb14591ec966"
 }
 ],
@@ -7843,28 +7843,28 @@
 "HSC 17035": [
 {
 "effective": "2020-01-01",
-"hash": "ebe5f3d63c25bede",
+"hash": "0e58c7b53118dc8c",
 "version": "id_7d164183-0c7c-11ea-912d-915c88c10a14"
 }
 ],
 "HSC 17036": [
 {
 "effective": "2025-01-01",
-"hash": "6ffc232e89dfc3d3",
+"hash": "f5d4fafddb287649",
 "version": "id_468bcee0-b8ba-11ef-87f5-6bbf55a2195e"
 }
 ],
 "HSC 17037": [
 {
 "effective": "2020-01-01",
-"hash": "0ecb77890c3a8bda",
+"hash": "0c1027b151e9e96c",
 "version": "id_88e74f95-0c7c-11ea-912d-915c88c10a14"
 }
 ],
 "HSC 17037.5": [
 {
 "effective": "2020-01-01",
-"hash": "11160443dd5e62d3",
+"hash": "1d2b192c1c15a009",
 "version": "id_94e2c907-0c7c-11ea-912d-915c88c10a14"
 }
 ],
@@ -7918,14 +7918,14 @@
 "HSC 17044": [
 {
 "effective": "2020-09-29",
-"hash": "32bc057f59501eb2",
+"hash": "812678667feaad77",
 "version": "id_726f08ac-0431-11eb-98af-9b545df5b3b9"
 }
 ],
 "HSC 17050": [
 {
 "effective": "2009-01-01",
-"hash": "4da02b764ba128f4",
+"hash": "d5606c2a51a5576e",
 "version": "id_02581e10-cda5-11dd-898a-f4578c730531"
 }
 ],
@@ -8037,14 +8037,14 @@
 "HSC 17958.1": [
 {
 "effective": "2018-01-01",
-"hash": "ff3d96e3d397c9a3",
+"hash": "9dd8cb51e3de1a9b",
 "version": "id_caf17dc4-e4ef-11e7-99d3-2f570f4f10eb"
 }
 ],
 "HSC 18007": [
 {
 "effective": "2008-01-01",
-"hash": "11b398dc79df1c42",
+"hash": "00520afec1a36392",
 "version": "id_aeebafe1-aefe-11dc-a2e9-de44b294d059"
 }
 ],
@@ -8072,14 +8072,14 @@
 "HSC 50052.5": [
 {
 "effective": "2018-01-01",
-"hash": "b8b66c62ef4faaa8",
+"hash": "d6729bdca9e52a09",
 "version": "id_5bee62aa-e4f1-11e7-99d3-2f570f4f10eb"
 }
 ],
 "HSC 50053": [
 {
 "effective": "2026-01-01",
-"hash": "7f010e56011b2ee1",
+"hash": "252379bf7a678505",
 "version": "id_c8b39140-c985-11f0-aea3-3b460998bfb4"
 }
 ],
@@ -8457,12 +8457,12 @@
 "HSC 50093": [
 {
 "effective": "2026-06-29",
-"hash": "db32d3ef9723acab",
+"hash": "641a2f3d8f371098",
 "version": "id_01e0da30-7a19-11f1-a786-cd68c45e0f7d"
 },
 {
 "effective": "2026-06-29",
-"hash": "afb03b55cf06a96f",
+"hash": "aa362e74ea988129",
 "version": "id_721759ba-7a19-11f1-a786-cd68c45e0f7d"
 }
 ],
@@ -8623,14 +8623,14 @@
 "PRC 21000": [
 {
 "effective": "NULL",
-"hash": "63fc7fc0a941a118",
+"hash": "4371a95e1035e4b3",
 "version": "id_885a1f1b-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21001": [
 {
 "effective": "NULL",
-"hash": "480079e13f0bd4b8",
+"hash": "a89bae8a31b87cde",
 "version": "id_885eb2fd-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -8651,21 +8651,21 @@
 "PRC 21002.1": [
 {
 "effective": "1994-09-30",
-"hash": "19bae94a4f904413",
+"hash": "ec53254b077c4b8a",
 "version": "id_885eb303-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21003": [
 {
 "effective": "1994-01-01",
-"hash": "ed0ca261a17a5b86",
+"hash": "439083d44536ea0d",
 "version": "id_886039a5-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21003.1": [
 {
 "effective": "NULL",
-"hash": "3821eee40a259925",
+"hash": "738dcbf4590ddbb4",
 "version": "id_886039a7-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -8679,7 +8679,7 @@
 "PRC 21005": [
 {
 "effective": "1994-09-30",
-"hash": "5b4785598792405e",
+"hash": "468c9c3ff2f599c2",
 "version": "id_886039ab-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -8707,14 +8707,14 @@
 "PRC 21060.1": [
 {
 "effective": "1994-01-01",
-"hash": "520be60c81fd3518",
+"hash": "b7d4e73e670589d6",
 "version": "id_8864cd97-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21060.2": [
 {
 "effective": "2020-01-01",
-"hash": "03c2179dc568fc80",
+"hash": "74ffe60a3faee55b",
 "version": "id_25cf9e0f-0bb9-11ea-912d-915c88c10a14"
 }
 ],
@@ -8763,7 +8763,7 @@
 "PRC 21061.3": [
 {
 "effective": "2009-01-01",
-"hash": "e7bc06576b4db2e9",
+"hash": "e56718e57a594b60",
 "version": "id_f72be7e0-cb73-11dd-898a-f4578c730531"
 }
 ],
@@ -8791,7 +8791,7 @@
 "PRC 21064.3": [
 {
 "effective": "2025-01-01",
-"hash": "0504e13c7e1fb7f3",
+"hash": "80c242d13bd56e68",
 "version": "id_71822d22-a83e-11ef-a579-af09e4d01935"
 }
 ],
@@ -8812,7 +8812,7 @@
 "PRC 21065": [
 {
 "effective": "1994-09-30",
-"hash": "783336adfa94bcb4",
+"hash": "0aa64aa07f2c21c9",
 "version": "id_886ae82f-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -8847,7 +8847,7 @@
 "PRC 21067.5": [
 {
 "effective": "2025-10-11",
-"hash": "72f9582c67cc157e",
+"hash": "895bebcafb36b0d8",
 "version": "id_89b0c62a-a87c-11f0-b3c2-a99c1f616619"
 }
 ],
@@ -8882,7 +8882,7 @@
 "PRC 21071": [
 {
 "effective": "2003-01-01",
-"hash": "d9a4d1adcaffc6a3",
+"hash": "404603a7faea89ba",
 "version": "id_886f7c1f-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -8903,14 +8903,14 @@
 "PRC 21074": [
 {
 "effective": "2015-01-01",
-"hash": "02d82ce1b9d4baa0",
+"hash": "5a3a2264f68f0800",
 "version": "id_7b819efd-84a5-11e4-9bed-97496527765f"
 }
 ],
 "PRC 21080": [
 {
 "effective": "2025-09-17",
-"hash": "f0aeebee8641ae48",
+"hash": "c5aae3dcfd98dccf",
 "version": "id_7117c119-94bc-11f0-b924-ab4989f102ab"
 }
 ],
@@ -8938,7 +8938,7 @@
 "PRC 21080.04": [
 {
 "effective": "1996-01-01",
-"hash": "638282b650db3c42",
+"hash": "5d28a1468a9d44c0",
 "version": "id_8872896d-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -8952,42 +8952,42 @@
 "PRC 21080.07": [
 {
 "effective": "1985-09-25",
-"hash": "586854bce681baf2",
+"hash": "e50a743ef76314d0",
 "version": "id_88771d51-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21080.085": [
 {
 "effective": "2025-06-30",
-"hash": "898df787256e0719",
+"hash": "821d3b890c6da9d9",
 "version": "id_e89f43e4-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
 "PRC 21080.09": [
 {
 "effective": "2022-03-14",
-"hash": "995e7e4a82d9bf3b",
+"hash": "d4431c4571a5743f",
 "version": "id_6425a461-a539-11ec-b12d-79a53e3d1de4"
 }
 ],
 "PRC 21080.091": [
 {
 "effective": "2026-01-01",
-"hash": "10a7ce36a6297692",
+"hash": "1241fa59d841b23e",
 "version": "id_e02a92a8-ca56-11f0-aea3-3b460998bfb4"
 }
 ],
 "PRC 21080.1": [
 {
 "effective": "2025-10-11",
-"hash": "0159fcb46cf26356",
+"hash": "055a26dc89be2cde",
 "version": "id_8a3e120c-a87c-11f0-b3c2-a99c1f616619"
 }
 ],
 "PRC 21080.10": [
 {
 "effective": "2025-01-01",
-"hash": "5585772a4359931f",
+"hash": "ba576fa4b43c48ec",
 "version": "id_72062a34-a83e-11ef-a579-af09e4d01935"
 }
 ],
@@ -9001,21 +9001,21 @@
 "PRC 21080.12": [
 {
 "effective": "2023-07-10",
-"hash": "6cd013cc0a71889a",
+"hash": "0b8ebe83fbf94d55",
 "version": "id_99f1387d-218a-11ee-9817-910718e6f9c7"
 }
 ],
 "PRC 21080.13": [
 {
 "effective": "2016-01-01",
-"hash": "1350a49732662f79",
+"hash": "add5ddf993592bdd",
 "version": "id_599484fa-a5d9-11e5-a48e-8f5e09063402"
 }
 ],
 "PRC 21080.14": [
 {
 "effective": "2026-08-27",
-"hash": "129f9fb78ed51db5",
+"hash": "b57a470cbb66e1fe",
 "version": "id_6e8ca254-a2fa-11f1-82b4-8de3ebf14926"
 }
 ],
@@ -9050,7 +9050,7 @@
 "PRC 21080.20": [
 {
 "effective": "2026-01-01",
-"hash": "e3498f85dfd87590",
+"hash": "e9ed28506b73f38a",
 "version": "id_6f8ad43c-ca57-11f0-aea3-3b460998bfb4"
 }
 ],
@@ -9064,14 +9064,14 @@
 "PRC 21080.22": [
 {
 "effective": "1993-01-01",
-"hash": "7b87046f2727f6d3",
+"hash": "5e5199e627ee4569",
 "version": "id_8884d813-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21080.23": [
 {
 "effective": "2013-01-01",
-"hash": "e0eda0209256f259",
+"hash": "7e94cdc46ff5b682",
 "version": "id_92b9f505-4983-11e2-a387-b197dcb55559"
 }
 ],
@@ -9085,7 +9085,7 @@
 "PRC 21080.25": [
 {
 "effective": "2026-01-01",
-"hash": "90745d3104310005",
+"hash": "48cce8c8935d5c5d",
 "version": "id_700e350e-ca57-11f0-aea3-3b460998bfb4"
 }
 ],
@@ -9099,77 +9099,77 @@
 "PRC 21080.27": [
 {
 "effective": "2024-01-01",
-"hash": "c2db013dd39bf1e5",
+"hash": "6bc2fa0cca16899d",
 "version": "id_be3fe248-7f46-11ee-af93-9b7a567ae902"
 }
 ],
 "PRC 21080.27.5": [
 {
 "effective": "2025-01-01",
-"hash": "1bb64b9959a12fae",
+"hash": "99d3467b547524df",
 "version": "id_33ce9514-a83e-11ef-a579-af09e4d01935"
 }
 ],
 "PRC 21080.28": [
 {
 "effective": "2020-01-01",
-"hash": "38fbb11f1dd2b826",
+"hash": "430d493297294ee4",
 "version": "id_2b291803-0bb9-11ea-912d-915c88c10a14"
 }
 ],
 "PRC 21080.28.5": [
 {
 "effective": "2026-01-01",
-"hash": "9c19be7af10de33e",
+"hash": "4e675c44fafff1e9",
 "version": "id_70971420-ca57-11f0-aea3-3b460998bfb4"
 }
 ],
 "PRC 21080.29": [
 {
 "effective": "2004-01-01",
-"hash": "01558bee637e5e03",
+"hash": "bac3f11cae904dbd",
 "version": "id_88865ebb-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21080.3": [
 {
 "effective": "2005-01-01",
-"hash": "6f29406715a3710c",
+"hash": "e7057dc7c70de5cd",
 "version": "id_37fb7976-65df-11d9-8b2f-d2d285bd9e46"
 }
 ],
 "PRC 21080.3.1": [
 {
 "effective": "2015-01-01",
-"hash": "a65c0e081fececda",
+"hash": "dad924f3d41dbd3a",
 "version": "id_7ebeefb1-84a5-11e4-9bed-97496527765f"
 }
 ],
 "PRC 21080.3.2": [
 {
 "effective": "2015-01-01",
-"hash": "5f9b6046a5998572",
+"hash": "4e6b84bdbcfdc297",
 "version": "id_8079bf13-84a5-11e4-9bed-97496527765f"
 }
 ],
 "PRC 21080.30": [
 {
 "effective": "2017-06-27",
-"hash": "8cf00e1fd8c909a4",
+"hash": "de1773f450f9f0fd",
 "version": "id_fba3ed17-61ad-11e7-8adc-8aa4aa845353"
 }
 ],
 "PRC 21080.31": [
 {
 "effective": "2023-01-01",
-"hash": "ea8bdbba6c59caf7",
+"hash": "8fa4c807af27b61a",
 "version": "id_63b36e31-6abd-11ed-823c-e74f056edb17"
 }
 ],
 "PRC 21080.32": [
 {
 "effective": "1997-01-01",
-"hash": "7e94f6a3e3ce9b46",
+"hash": "69eb32f1ef087e92",
 "version": "id_88865ebd-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -9190,77 +9190,77 @@
 "PRC 21080.35": [
 {
 "effective": "2012-01-01",
-"hash": "1cdd5330dd804c8d",
+"hash": "46b2416e3c5ba8a7",
 "version": "id_66cfaf14-2b8f-11e1-9c73-adede92a2ccc"
 }
 ],
 "PRC 21080.4": [
 {
 "effective": "2022-01-01",
-"hash": "de8252c69c1f9ef9",
+"hash": "4830311392b56531",
 "version": "id_ba15958f-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "PRC 21080.40": [
 {
 "effective": "2026-01-01",
-"hash": "3aa54c0a16967c87",
+"hash": "79eaa64bd843d0a3",
 "version": "id_711c49b2-ca57-11f0-aea3-3b460998bfb4"
 }
 ],
 "PRC 21080.42": [
 {
 "effective": "2009-05-21",
-"hash": "7759947cd81b4954",
+"hash": "b4d5d0a68719fc6f",
 "version": "id_b58e891a-4cf1-11de-bf0d-9b516ca74661"
 }
 ],
 "PRC 21080.43": [
 {
 "effective": "2025-06-30",
-"hash": "513bba432b2ac55b",
+"hash": "330c0e439860e1c9",
 "version": "id_4082a294-5b5b-11f0-889e-29cb15d54716"
 }
 ],
 "PRC 21080.44": [
 {
 "effective": "2025-06-30",
-"hash": "48f10ecf308a5b47",
+"hash": "cb579617d63a7821",
 "version": "id_42d2ad16-5b5b-11f0-889e-29cb15d54716"
 }
 ],
 "PRC 21080.45": [
 {
 "effective": "2025-10-11",
-"hash": "c28e636a259acfcc",
+"hash": "057145bb39c83a9a",
 "version": "id_86854fc8-a87c-11f0-b3c2-a99c1f616619"
 }
 ],
 "PRC 21080.46": [
 {
 "effective": "2015-06-24",
-"hash": "3f843ad39a616a84",
+"hash": "c45cb760240834e6",
 "version": "id_51e8ea9a-1f7d-11e5-82bb-d8493aae43af"
 }
 ],
 "PRC 21080.47": [
 {
 "effective": "2025-06-30",
-"hash": "0c907904bee20c7b",
+"hash": "4a47d5adcb86c06b",
 "version": "id_fa9c1018-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
 "PRC 21080.48": [
 {
 "effective": "2025-06-30",
-"hash": "7b12bdfbaa59040b",
+"hash": "d5de7718a5e061dc",
 "version": "id_ecd0dfa8-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
 "PRC 21080.49": [
 {
 "effective": "2025-06-30",
-"hash": "dc5d3802d1325785",
+"hash": "e654d92140437778",
 "version": "id_eea6d82a-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
@@ -9274,21 +9274,21 @@
 "PRC 21080.5": [
 {
 "effective": "2014-01-01",
-"hash": "dc79d27027104200",
+"hash": "c2f97ecc60bbbd77",
 "version": "id_7bf0a8d5-6b72-11e3-88dc-b6a8a3b7d59f"
 }
 ],
 "PRC 21080.50": [
 {
 "effective": "2024-01-01",
-"hash": "5152c01715183508",
+"hash": "aff480ff67fae1f9",
 "version": "id_becbce9a-7f46-11ee-af93-9b7a567ae902"
 }
 ],
 "PRC 21080.51": [
 {
 "effective": "2025-06-30",
-"hash": "f05739ae2a2b7fae",
+"hash": "f4aec163cc0b532a",
 "version": "id_fb2d539a-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
@@ -9302,7 +9302,7 @@
 "PRC 21080.56": [
 {
 "effective": "2024-07-02",
-"hash": "6e529871cb79acfa",
+"hash": "a386354d0ac61b95",
 "version": "id_104846b1-3e07-11ef-b069-b1769ac346c3"
 }
 ],
@@ -9316,56 +9316,56 @@
 "PRC 21080.58": [
 {
 "effective": "2025-01-01",
-"hash": "4f21830e11e4687f",
+"hash": "eefd9880832228ac",
 "version": "id_739f67da-a83e-11ef-a579-af09e4d01935"
 }
 ],
 "PRC 21080.61": [
 {
 "effective": "2024-09-27",
-"hash": "898dc002ea052f28",
+"hash": "c1506d1cb4645b3b",
 "version": "id_d3ecadce-802a-11ef-ad41-354f275c7d43"
 }
 ],
 "PRC 21080.62": [
 {
 "effective": "2025-10-01",
-"hash": "6a7e0421fe1ef1ac",
+"hash": "a76deb37dcaed252",
 "version": "id_0f82a613-a07a-11f0-9052-b7a92a296773"
 }
 ],
 "PRC 21080.66": [
 {
 "effective": "2025-10-11",
-"hash": "8749902307359153",
+"hash": "a94d80d4a2d7026f",
 "version": "id_8aca256e-a87c-11f0-b3c2-a99c1f616619"
 }
 ],
 "PRC 21080.69": [
 {
 "effective": "2025-06-30",
-"hash": "d57885063779dc42",
+"hash": "eef80a98adcfe783",
 "version": "id_f44f3570-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
 "PRC 21080.70": [
 {
 "effective": "2025-06-30",
-"hash": "a21332de050ad8a1",
+"hash": "272a038b8738c3a1",
 "version": "id_f62cf622-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
 "PRC 21080.73": [
 {
 "effective": "2025-10-11",
-"hash": "ed76b88dda408b77",
+"hash": "c2767a9e459e059e",
 "version": "id_83fa3814-a87c-11f0-b3c2-a99c1f616619"
 }
 ],
 "PRC 21080.77": [
 {
 "effective": "2026-09-29",
-"hash": "5328978374c2d1a3",
+"hash": "02645dceef53608a",
 "version": "id_99b27951-bdca-11f1-ac76-bdb156c0a031"
 }
 ],
@@ -9379,7 +9379,7 @@
 "PRC 21080.81": [
 {
 "effective": "2026-01-01",
-"hash": "b0112f036a1367b8",
+"hash": "8e20475582f26989",
 "version": "id_e273e66a-ca56-11f0-aea3-3b460998bfb4"
 }
 ],
@@ -9393,21 +9393,21 @@
 "PRC 21081": [
 {
 "effective": "1994-10-01",
-"hash": "1772178ff0d5c6dd",
+"hash": "7b30c92bb3b98c87",
 "version": "id_6b06acd5-2b49-11de-acd6-f084e8dc88ab"
 }
 ],
 "PRC 21081.2": [
 {
 "effective": "2007-01-01",
-"hash": "711ec11c27bc85c9",
+"hash": "0e4a046480e38c32",
 "version": "id_dd728f01-89e5-11db-b11b-b207fcb01266"
 }
 ],
 "PRC 21081.3": [
 {
 "effective": "2024-01-01",
-"hash": "8041f03c1309c467",
+"hash": "5cb58e4958c8e48f",
 "version": "id_c034fb8e-7f46-11ee-af93-9b7a567ae902"
 }
 ],
@@ -9421,7 +9421,7 @@
 "PRC 21081.6": [
 {
 "effective": "1994-10-01",
-"hash": "d3d094a037b55e4e",
+"hash": "0c2a3089d000fe1d",
 "version": "id_6c8d4cd9-2b49-11de-acd6-f084e8dc88ab"
 }
 ],
@@ -9442,21 +9442,21 @@
 "PRC 21082.1": [
 {
 "effective": "2022-01-01",
-"hash": "cfa149d4e7906635",
+"hash": "b848a1a10eecc402",
 "version": "id_ba9aa411-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "PRC 21082.2": [
 {
 "effective": "1994-01-01",
-"hash": "e5ecfbf1a7dfe214",
+"hash": "ebb78e5d1b60be63",
 "version": "id_888ca05f-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21082.3": [
 {
 "effective": "2022-01-01",
-"hash": "31b87c7ac70208e8",
+"hash": "d3a864e512d92282",
 "version": "id_bb86d8d3-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
@@ -9470,21 +9470,21 @@
 "PRC 21083": [
 {
 "effective": "2005-01-01",
-"hash": "f0439285ba00d159",
+"hash": "993ae24d8f9e2fb5",
 "version": "id_38952168-65df-11d9-8b2f-d2d285bd9e46"
 }
 ],
 "PRC 21083.01": [
 {
 "effective": "2013-01-01",
-"hash": "92f089ee66335487",
+"hash": "2fc7ce32f31a29f8",
 "version": "id_4feb41c5-4982-11e2-a387-b197dcb55559"
 }
 ],
 "PRC 21083.03": [
 {
 "effective": "2025-06-30",
-"hash": "176bc63aaa5e4c23",
+"hash": "64f20de7c2e8ef4b",
 "version": "id_f80d75f4-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
@@ -9498,7 +9498,7 @@
 "PRC 21083.09": [
 {
 "effective": "2015-01-01",
-"hash": "4d2b4f59975213e3",
+"hash": "ad88590d4688c883",
 "version": "id_83e1f057-84a5-11e4-9bed-97496527765f"
 }
 ],
@@ -9512,28 +9512,28 @@
 "PRC 21083.2": [
 {
 "effective": "1994-01-01",
-"hash": "9dc575444ec246ab",
+"hash": "b1843cf7dc76fda7",
 "version": "id_88913445-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21083.3": [
 {
 "effective": "1993-01-01",
-"hash": "3ca43d64e3279e48",
+"hash": "bbcda409eb757f6f",
 "version": "id_8892bae7-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21083.4": [
 {
 "effective": "2005-01-01",
-"hash": "c525f47723724bc2",
+"hash": "f970e2b06c9183c5",
 "version": "id_3931134a-65df-11d9-8b2f-d2d285bd9e46"
 }
 ],
 "PRC 21083.5": [
 {
 "effective": "NULL",
-"hash": "b21eb0163a4ba182",
+"hash": "4855f05d2fb799eb",
 "version": "id_8892bae9-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -9547,28 +9547,28 @@
 "PRC 21083.7": [
 {
 "effective": "2000-09-11",
-"hash": "fb61d85e89e753f7",
+"hash": "57c7c37ec6f23025",
 "version": "id_8892baed-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21083.8.1": [
 {
 "effective": "2023-01-01",
-"hash": "6ecb28be5e9402b5",
+"hash": "6f3292d9fc39af95",
 "version": "id_7b81ca9b-6abd-11ed-823c-e74f056edb17"
 }
 ],
 "PRC 21083.9": [
 {
 "effective": "2013-01-01",
-"hash": "38210bc2c2267da1",
+"hash": "f0a8c51b224961ac",
 "version": "id_99346f5d-4983-11e2-a387-b197dcb55559"
 }
 ],
 "PRC 21084": [
 {
 "effective": "2014-01-01",
-"hash": "695f5a453f85f238",
+"hash": "5aa570fc19ee715b",
 "version": "id_7d36e477-6b72-11e3-88dc-b6a8a3b7d59f"
 }
 ],
@@ -9589,7 +9589,7 @@
 "PRC 21084.3": [
 {
 "effective": "2015-01-01",
-"hash": "d61cff35f753901c",
+"hash": "9ca69c27b6334a01",
 "version": "id_8773065b-84a5-11e4-9bed-97496527765f"
 }
 ],
@@ -9603,21 +9603,21 @@
 "PRC 21085.2": [
 {
 "effective": "2023-09-07",
-"hash": "bc3e2e0477cf347c",
+"hash": "ad218f08959c8e62",
 "version": "id_8f4a75a1-4e91-11ee-9458-e9c74b561004"
 }
 ],
 "PRC 21086": [
 {
 "effective": "2005-01-01",
-"hash": "fcba61de158f6fd8",
+"hash": "7c0eb7bc9afc7aac",
 "version": "id_3a91669e-65df-11d9-8b2f-d2d285bd9e46"
 }
 ],
 "PRC 21087": [
 {
 "effective": "2026-01-01",
-"hash": "b49730faa4a39648",
+"hash": "7537d4e31d5c1a3d",
 "version": "id_e4635a5c-ca56-11f0-aea3-3b460998bfb4"
 }
 ],
@@ -9631,14 +9631,14 @@
 "PRC 21089": [
 {
 "effective": "2022-01-01",
-"hash": "647fa10643f63af7",
+"hash": "bc59ea51261baf47",
 "version": "id_bd7c8e55-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "PRC 21090": [
 {
 "effective": "2002-09-17",
-"hash": "a21095dfa6ae09e2",
+"hash": "970b981eadb3f23a",
 "version": "id_889d6963-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -9652,7 +9652,7 @@
 "PRC 21091": [
 {
 "effective": "2022-01-01",
-"hash": "59db09cd2fa152b6",
+"hash": "ca9d9e29e78e7383",
 "version": "id_befcecc7-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
@@ -9666,7 +9666,7 @@
 "PRC 21092": [
 {
 "effective": "2022-01-01",
-"hash": "3bc514e9652b1935",
+"hash": "cad0f4ab6fcdc276",
 "version": "id_bf85cbd9-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
@@ -9680,7 +9680,7 @@
 "PRC 21092.2": [
 {
 "effective": "2022-01-01",
-"hash": "d883f1e0a974081f",
+"hash": "99a37829ebbe94d1",
 "version": "id_c008906b-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
@@ -9694,63 +9694,63 @@
 "PRC 21092.4": [
 {
 "effective": "2009-01-01",
-"hash": "8f32e1147bcad073",
+"hash": "35ee07614be98f1e",
 "version": "id_f85e9b84-cb73-11dd-898a-f4578c730531"
 }
 ],
 "PRC 21092.5": [
 {
 "effective": "NULL",
-"hash": "5e73fff1f639942f",
+"hash": "39ca0c096e90c191",
 "version": "id_88a50a95-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21092.6": [
 {
 "effective": "2013-01-01",
-"hash": "42b0116944772306",
+"hash": "bb303bfdc373257e",
 "version": "id_a17096e7-4983-11e2-a387-b197dcb55559"
 }
 ],
 "PRC 21093": [
 {
 "effective": "NULL",
-"hash": "403642b5204e1f16",
+"hash": "1841d6611521b11a",
 "version": "id_88a50a99-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21094": [
 {
 "effective": "2010-09-29",
-"hash": "7174c1c867ffd863",
+"hash": "035cb34e499a83bd",
 "version": "id_0c09d95f-cd3f-11df-8cfd-b67c8342a1ad"
 }
 ],
 "PRC 21094.5": [
 {
 "effective": "2012-01-01",
-"hash": "279c6ebb45087cd4",
+"hash": "8c767d884279da85",
 "version": "id_6bbe3236-2b8f-11e1-9c73-adede92a2ccc"
 }
 ],
 "PRC 21094.5.5": [
 {
 "effective": "2025-06-30",
-"hash": "0c0b3a056c60c06c",
+"hash": "aa438a14b668ff0f",
 "version": "id_fbb436dc-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
 "PRC 21095": [
 {
 "effective": "1994-01-01",
-"hash": "61dc919c8d27abc8",
+"hash": "fb45145159f1734c",
 "version": "id_88a50a9d-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21096": [
 {
 "effective": "2003-01-01",
-"hash": "8adbf26c798467df",
+"hash": "1d6d7d9f07f9962f",
 "version": "id_88a817df-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -9764,42 +9764,42 @@
 "PRC 21098": [
 {
 "effective": "2023-01-01",
-"hash": "549ddccde7c85dbe",
+"hash": "944e4be054612cdd",
 "version": "id_7d387b4d-6abd-11ed-823c-e74f056edb17"
 }
 ],
 "PRC 21099": [
 {
 "effective": "2020-01-01",
-"hash": "bbbefc16596d6172",
+"hash": "a2aa00ac832c9bbb",
 "version": "id_5d035c89-0bbc-11ea-912d-915c88c10a14"
 }
 ],
 "PRC 21099.5": [
 {
 "effective": "2025-01-01",
-"hash": "fbaf086853026800",
+"hash": "1af29d132171c2c7",
 "version": "id_395846c8-a83e-11ef-a579-af09e4d01935"
 }
 ],
 "PRC 21100": [
 {
 "effective": "1994-09-30",
-"hash": "e00641c062ed0754",
+"hash": "d8acd08083848174",
 "version": "id_88a99e85-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21100.1": [
 {
 "effective": "1994-09-30",
-"hash": "dc163a19d23f1635",
+"hash": "573334d5ebaadd05",
 "version": "id_88a99e87-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21100.2": [
 {
 "effective": "2012-09-23",
-"hash": "55ec5b02485a3a0e",
+"hash": "39220264cea19f60",
 "version": "id_b5376a6c-1180-11e2-9869-ea114ea61ec7"
 }
 ],
@@ -9820,7 +9820,7 @@
 "PRC 21104": [
 {
 "effective": "2005-01-01",
-"hash": "c330a170c2c5295b",
+"hash": "34b83ab9ae1d374d",
 "version": "id_3b27b330-65df-11d9-8b2f-d2d285bd9e46"
 }
 ],
@@ -9848,7 +9848,7 @@
 "PRC 21108": [
 {
 "effective": "2023-01-01",
-"hash": "7817de3c2983d710",
+"hash": "4314b933a04f63da",
 "version": "id_7eeabf2f-6abd-11ed-823c-e74f056edb17"
 }
 ],
@@ -9862,14 +9862,14 @@
 "PRC 21151": [
 {
 "effective": "2003-01-01",
-"hash": "9b81fbcdc7eeefd1",
+"hash": "4fa4191f9061d164",
 "version": "id_88b13fbd-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21151.1": [
 {
 "effective": "2013-01-01",
-"hash": "bd903f074e3686b0",
+"hash": "a454daacdad94db2",
 "version": "id_a6d9c84d-4983-11e2-a387-b197dcb55559"
 }
 ],
@@ -9883,14 +9883,14 @@
 "PRC 21151.4": [
 {
 "effective": "2021-07-22",
-"hash": "f2d372bb3a7609f7",
+"hash": "dc2e47f77c5d1cac",
 "version": "id_0f46d247-ebf0-11eb-b9f5-ab4283d06f98"
 }
 ],
 "PRC 21151.5": [
 {
 "effective": "1997-01-01",
-"hash": "97bf10ad916137c8",
+"hash": "b9bfab19b518cce0",
 "version": "id_88b44d05-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -9904,7 +9904,7 @@
 "PRC 21151.8": [
 {
 "effective": "2023-01-01",
-"hash": "8fab471a314c24e1",
+"hash": "85f9eeb4c6f175f4",
 "version": "id_7f87e991-6abd-11ed-823c-e74f056edb17"
 }
 ],
@@ -9918,21 +9918,21 @@
 "PRC 21152": [
 {
 "effective": "2024-01-01",
-"hash": "29a0d55375ae0645",
+"hash": "1e2299b8e22c13fe",
 "version": "id_c0b7c020-7f46-11ee-af93-9b7a567ae902"
 }
 ],
 "PRC 21152.1": [
 {
 "effective": "2020-01-01",
-"hash": "67c034e98d9bd0ae",
+"hash": "12e8e1fda36bb7da",
 "version": "id_732b5bcf-0bbc-11ea-912d-915c88c10a14"
 }
 ],
 "PRC 21153": [
 {
 "effective": "2005-01-01",
-"hash": "b7699429bd057d29",
+"hash": "987ee2b086524d97",
 "version": "id_3d8c0908-65df-11d9-8b2f-d2d285bd9e46"
 }
 ],
@@ -9946,14 +9946,14 @@
 "PRC 21155": [
 {
 "effective": "2009-01-01",
-"hash": "2a50cbb737a9fa88",
+"hash": "f8f44218fc78c90d",
 "version": "id_ce4fd9f0-cb73-11dd-898a-f4578c730531"
 }
 ],
 "PRC 21155.1": [
 {
 "effective": "2012-06-27",
-"hash": "cc6ad97567886fd8",
+"hash": "843d1bfa9205b3a3",
 "version": "id_e3410824-c9e1-11e1-9cdf-99ae97e409bf"
 }
 ],
@@ -9967,28 +9967,28 @@
 "PRC 21155.11": [
 {
 "effective": "2018-01-01",
-"hash": "cd17867137d2c751",
+"hash": "5c39c86d221785f8",
 "version": "id_f7a8debb-e1bc-11e7-967b-c7bde29c26e0"
 }
 ],
 "PRC 21155.2": [
 {
 "effective": "2009-01-01",
-"hash": "7bb7c47e15cf32d2",
+"hash": "f5c2a03a4d58f3ff",
 "version": "id_cf9e04d4-cb73-11dd-898a-f4578c730531"
 }
 ],
 "PRC 21155.3": [
 {
 "effective": "2009-01-01",
-"hash": "aedfe8dfde52771d",
+"hash": "2fb065c4a9029b4a",
 "version": "id_d036c266-cb73-11dd-898a-f4578c730531"
 }
 ],
 "PRC 21155.4": [
 {
 "effective": "2014-01-01",
-"hash": "005287c00ea6f59b",
+"hash": "5c0fbbeddaf11c84",
 "version": "id_4add2f95-6b72-11e3-88dc-b6a8a3b7d59f"
 }
 ],
@@ -10002,42 +10002,42 @@
 "PRC 21157": [
 {
 "effective": "2007-01-01",
-"hash": "7c2a088c946dbe1f",
+"hash": "95c4ef81892eb710",
 "version": "id_b72542df-89e5-11db-b11b-b207fcb01266"
 }
 ],
 "PRC 21157.1": [
 {
 "effective": "1994-10-01",
-"hash": "6ee9bc34412e38e8",
+"hash": "ca345cdbabf858d0",
 "version": "id_6e28ad5d-2b49-11de-acd6-f084e8dc88ab"
 }
 ],
 "PRC 21157.5": [
 {
 "effective": "1994-01-01",
-"hash": "2aa786cec989fd2b",
+"hash": "fbfb94870cb55d3c",
 "version": "id_88bbee43-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21157.6": [
 {
 "effective": "2005-01-01",
-"hash": "e1d9208ed0da3d77",
+"hash": "b444cdd308975f15",
 "version": "id_3e543b0a-65df-11d9-8b2f-d2d285bd9e46"
 }
 ],
 "PRC 21157.7": [
 {
 "effective": "2008-01-01",
-"hash": "ca9cc9cc1ce7001d",
+"hash": "54a623a82292de8a",
 "version": "id_790a3547-a7ea-11dc-98c9-d06a20d525dc"
 }
 ],
 "PRC 21158": [
 {
 "effective": "1994-10-01",
-"hash": "707c9fd5f4aac0ac",
+"hash": "ff0ad39f2483f140",
 "version": "id_6ed037ff-2b49-11de-acd6-f084e8dc88ab"
 }
 ],
@@ -10051,70 +10051,70 @@
 "PRC 21158.5": [
 {
 "effective": "1994-01-01",
-"hash": "729091acf3ef0055",
+"hash": "4feaaffb8dbbd43c",
 "version": "id_88befb8d-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21159": [
 {
 "effective": "2011-01-01",
-"hash": "61e6dea1e87ccdea",
+"hash": "ad2cb8fcce05f4f4",
 "version": "id_628ea10e-0cf5-11e0-ba2d-a70a6ee0e862"
 }
 ],
 "PRC 21159.1": [
 {
 "effective": "2011-01-01",
-"hash": "c6cf9417c92e24d7",
+"hash": "a5d9ee301c616cb6",
 "version": "id_63548920-0cf5-11e0-ba2d-a70a6ee0e862"
 }
 ],
 "PRC 21159.2": [
 {
 "effective": "1994-01-01",
-"hash": "9cb4a04a74315db4",
+"hash": "e39afc3d97aa2b5e",
 "version": "id_88befb95-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21159.20": [
 {
 "effective": "2003-01-01",
-"hash": "6d0d635010378b78",
+"hash": "4f13cb32d362d3e8",
 "version": "id_88c208e1-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21159.21": [
 {
 "effective": "2012-06-27",
-"hash": "f4f8fbc1a40f3804",
+"hash": "328744a0e3799ff1",
 "version": "id_e52a1376-c9e1-11e1-9cdf-99ae97e409bf"
 }
 ],
 "PRC 21159.22": [
 {
 "effective": "2003-01-01",
-"hash": "ab985287a8694270",
+"hash": "967f34dea87a1c3c",
 "version": "id_88c38f85-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21159.23": [
 {
 "effective": "2003-01-01",
-"hash": "1e98a6d433bd2019",
+"hash": "077eb943153133bb",
 "version": "id_88c38f87-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21159.24": [
 {
 "effective": "2015-01-01",
-"hash": "893c67dcc6c4a556",
+"hash": "b85e1dfa91007880",
 "version": "id_259ef727-84a6-11e4-9bed-97496527765f"
 }
 ],
 "PRC 21159.25": [
 {
 "effective": "2025-01-01",
-"hash": "366970a15bd4509d",
+"hash": "9bab62facd1d7594",
 "version": "id_742d770c-a83e-11ef-a579-af09e4d01935"
 }
 ],
@@ -10135,14 +10135,14 @@
 "PRC 21159.28": [
 {
 "effective": "2009-01-01",
-"hash": "114e81842357e279",
+"hash": "12c0afc1aace671f",
 "version": "id_fa44e7ba-cb73-11dd-898a-f4578c730531"
 }
 ],
 "PRC 21159.3": [
 {
 "effective": "1994-01-01",
-"hash": "0b90405a504cc1ce",
+"hash": "aaada6083c96363f",
 "version": "id_88c08237-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -10156,14 +10156,14 @@
 "PRC 21159.31": [
 {
 "effective": "2025-09-19",
-"hash": "bf7d90853a1a23a7",
+"hash": "21029e1d809dd7cf",
 "version": "id_3dbe3f05-9e22-11f0-9052-b7a92a296773"
 }
 ],
 "PRC 21159.32": [
 {
 "effective": "2025-09-19",
-"hash": "aa9cae6ca31c739a",
+"hash": "ac0bfd336d6eee12",
 "version": "id_3dbe3f07-9e22-11f0-9052-b7a92a296773"
 }
 ],
@@ -10177,21 +10177,21 @@
 "PRC 21159.4": [
 {
 "effective": "2011-01-01",
-"hash": "0cc0672a8917ea67",
+"hash": "eb36278496bd0e62",
 "version": "id_64136c52-0cf5-11e0-ba2d-a70a6ee0e862"
 }
 ],
 "PRC 21159.9": [
 {
 "effective": "2026-07-13",
-"hash": "886e2f2eb7681794",
+"hash": "f79d7e3c48ce25d6",
 "version": "id_1c9dc8ee-7fca-11f1-bb32-59ebc77cabfb"
 }
 ],
 "PRC 21160": [
 {
 "effective": "2022-01-01",
-"hash": "02cb08b6f979dc0c",
+"hash": "13c4bdca610e5946",
 "version": "id_c2791b43-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
@@ -10226,28 +10226,28 @@
 "PRC 21163.3": [
 {
 "effective": "2020-01-01",
-"hash": "ef989ae19d0c2317",
+"hash": "f972faf08dab887b",
 "version": "id_b0181e59-0bb8-11ea-912d-915c88c10a14"
 }
 ],
 "PRC 21163.4": [
 {
 "effective": "2020-01-01",
-"hash": "2cc4ab874e6b1bfe",
+"hash": "950c38c6d9fb7e5f",
 "version": "id_b0181e5b-0bb8-11ea-912d-915c88c10a14"
 }
 ],
 "PRC 21165": [
 {
 "effective": "2006-01-01",
-"hash": "86b6daeb2a5b3df9",
+"hash": "d7c5bdcb90b7cfe2",
 "version": "id_7be3dcea-7203-11da-9d73-de7aa8b8032d"
 }
 ],
 "PRC 21166": [
 {
 "effective": "NULL",
-"hash": "3ceedde488ad1e8f",
+"hash": "598d4f2e138fc044",
 "version": "id_88d14b3d-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -10261,7 +10261,7 @@
 "PRC 21166.2": [
 {
 "effective": "2021-09-23",
-"hash": "cb08ef7fe1885327",
+"hash": "ab81d1fed4c194ac",
 "version": "id_37c4e822-2070-11ec-b895-715221fbc05d"
 }
 ],
@@ -10275,14 +10275,14 @@
 "PRC 21167": [
 {
 "effective": "2023-01-01",
-"hash": "3800952004bd2293",
+"hash": "c25f4cffcbcc856b",
 "version": "id_8089a223-6abd-11ed-823c-e74f056edb17"
 }
 ],
 "PRC 21167.1": [
 {
 "effective": "2007-01-01",
-"hash": "0010328001a19c92",
+"hash": "52cd53b2dcdf0232",
 "version": "id_b7bcef03-89e5-11db-b11b-b207fcb01266"
 }
 ],
@@ -10296,14 +10296,14 @@
 "PRC 21167.3": [
 {
 "effective": "1980-05-28",
-"hash": "10b279be924ed144",
+"hash": "4b6172fee822a030",
 "version": "id_88d2d1e7-2920-11d9-b7bb-cd362a58083d"
 }
 ],
 "PRC 21167.4": [
 {
 "effective": "2010-09-29",
-"hash": "5dfe772963ae6595",
+"hash": "a4d770a80c33595c",
 "version": "id_14df5ab3-cd3f-11df-8cfd-b67c8342a1ad"
 }
 ],
@@ -10317,21 +10317,21 @@
 "PRC 21167.6": [
 {
 "effective": "2025-06-30",
-"hash": "7f52ed847c6fd25d",
+"hash": "2b0cf0672f977618",
 "version": "id_fc39e19e-577f-11f0-a607-0f9a2a8055f3"
 }
 ],
 "PRC 21167.6.2": [
 {
 "effective": "2022-01-01",
-"hash": "8c3a4cf90d572194",
+"hash": "c850689459722896",
 "version": "id_c48b0b57-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
 "PRC 21167.6.5": [
 {
 "effective": "2013-01-01",
-"hash": "14cbea435cb2fa22",
+"hash": "f969c17c645fd2fa",
 "version": "id_af5bab65-4983-11e2-a387-b197dcb55559"
 }
 ],
@@ -10345,7 +10345,7 @@
 "PRC 21167.8": [
 {
 "effective": "2023-01-01",
-"hash": "299798ab900536a1",
+"hash": "a27cf326ef07891c",
 "version": "id_8103db35-6abd-11ed-823c-e74f056edb17"
 }
 ],
@@ -10380,28 +10380,28 @@
 "PRC 21168.6.2": [
 {
 "effective": "2026-01-01",
-"hash": "4812f110d397d4ac",
+"hash": "0c187e273fa96f5b",
 "version": "id_e65629ae-ca56-11f0-aea3-3b460998bfb4"
 }
 ],
 "PRC 21168.6.6": [
 {
 "effective": "2025-01-01",
-"hash": "023a0c593a8865a0",
+"hash": "3567ff486c08bb8e",
 "version": "id_3a830b2a-a83e-11ef-a579-af09e4d01935"
 }
 ],
 "PRC 21168.6.7": [
 {
 "effective": "2019-01-01",
-"hash": "b87bc598c04f15f2",
+"hash": "46e1f76cfd077cd8",
 "version": "id_8ba33352-f992-11e8-bd10-077ff3712fb6"
 }
 ],
 "PRC 21168.6.8": [
 {
 "effective": "2019-01-01",
-"hash": "dd2d8879d5c8b04b",
+"hash": "3b24d876082d2616",
 "version": "id_8e8cbeb4-f992-11e8-bd10-077ff3712fb6"
 }
 ],
@@ -10415,7 +10415,7 @@
 "PRC 21168.9": [
 {
 "effective": "1994-01-01",
-"hash": "2d58e80816d34b51",
+"hash": "37fcd26c7ea7ce06",
 "version": "id_88d8eb7d-2920-11d9-b7bb-cd362a58083d"
 }
 ],
@@ -10443,21 +10443,21 @@
 "PRC 21177": [
 {
 "effective": "2020-01-01",
-"hash": "013bf3440b6b6905",
+"hash": "13bbcf4ecd5c4049",
 "version": "id_8bb0d315-0bbc-11ea-912d-915c88c10a14"
 }
 ],
 "PRC 21178": [
 {
 "effective": "2021-05-20",
-"hash": "eebdf8d2686fd103",
+"hash": "9e73745c72d266dc",
 "version": "id_cede8ea2-ba3f-11eb-8d5f-272283947b31"
 }
 ],
 "PRC 21180": [
 {
 "effective": "2025-06-30",
-"hash": "9833562fd35a5380",
+"hash": "98e998de85e0306d",
 "version": "id_4ac6f62e-5b5b-11f0-889e-29cb15d54716"
 }
 ],
@@ -10478,35 +10478,35 @@
 "PRC 21183": [
 {
 "effective": "2025-06-30",
-"hash": "9f9d921d19e35c3e",
+"hash": "157550e2d64e73ef",
 "version": "id_4b64bcd0-5b5b-11f0-889e-29cb15d54716"
 }
 ],
 "PRC 21183.5": [
 {
 "effective": "2023-01-01",
-"hash": "1ef8cb12654e7bf0",
+"hash": "f6c3cc92b6b38699",
 "version": "id_825ba309-6abd-11ed-823c-e74f056edb17"
 }
 ],
 "PRC 21183.6": [
 {
 "effective": "2021-05-20",
-"hash": "5d635e9a45cd0d0f",
+"hash": "e5897cabaed0308b",
 "version": "id_cededcce-ba3f-11eb-8d5f-272283947b31"
 }
 ],
 "PRC 21184": [
 {
 "effective": "2021-05-20",
-"hash": "49bc0095ec7042e1",
+"hash": "14f8369bceff4d56",
 "version": "id_cededcd0-ba3f-11eb-8d5f-272283947b31"
 }
 ],
 "PRC 21184.5": [
 {
 "effective": "2021-05-20",
-"hash": "336583a1a9bafd5e",
+"hash": "e2e18b5df5d81f49",
 "version": "id_cedf03e2-ba3f-11eb-8d5f-272283947b31"
 }
 ],
@@ -10527,7 +10527,7 @@
 "PRC 21186": [
 {
 "effective": "2021-05-20",
-"hash": "24b315a66e13b4c6",
+"hash": "be4218cd028190ed",
 "version": "id_cedf03e8-ba3f-11eb-8d5f-272283947b31"
 }
 ],
@@ -10541,7 +10541,7 @@
 "PRC 21187.5": [
 {
 "effective": "2021-05-20",
-"hash": "9bd4504562a04356",
+"hash": "0af03c56f1dedcda",
 "version": "id_cedf2afc-ba3f-11eb-8d5f-272283947b31"
 }
 ],
@@ -10576,21 +10576,21 @@
 "PRC 21189.60": [
 {
 "effective": "2026-09-29",
-"hash": "dfef4af3d70c0d76",
+"hash": "3c7ae750f32084e8",
 "version": "id_aa76a215-bda9-11f1-ac76-bdb156c0a031"
 }
 ],
 "PRC 21189.61": [
 {
 "effective": "2026-09-29",
-"hash": "a021582093d6dcf4",
+"hash": "5786203cc04f68d6",
 "version": "id_aa76a217-bda9-11f1-ac76-bdb156c0a031"
 }
 ],
 "PRC 21189.62": [
 {
 "effective": "2026-09-29",
-"hash": "826c221f27c59348",
+"hash": "44f2510b476b4e14",
 "version": "id_aa76a219-bda9-11f1-ac76-bdb156c0a031"
 }
 ],
@@ -10604,14 +10604,14 @@
 "PRC 21189.70": [
 {
 "effective": "2021-01-01",
-"hash": "a1b237f430e55d2c",
+"hash": "5aefd3e7879caffa",
 "version": "id_5c0dd792-34e8-11eb-85c5-e3cf0180a085"
 }
 ],
 "PRC 21189.70.1": [
 {
 "effective": "2022-01-01",
-"hash": "1cf6868001ec4a27",
+"hash": "e73a386201613bbd",
 "version": "id_c611f979-5c6d-11ec-9d2f-c3e210bbbdff"
 }
 ],
@@ -10625,7 +10625,7 @@
 "PRC 21189.70.2": [
 {
 "effective": "2021-01-01",
-"hash": "9ce37443b668a58d",
+"hash": "13e0c052000851f2",
 "version": "id_5c0dfea6-34e8-11eb-85c5-e3cf0180a085"
 }
 ],
@@ -10639,21 +10639,21 @@
 "PRC 21189.70.4": [
 {
 "effective": "2021-01-01",
-"hash": "17eb0214da13b3e7",
+"hash": "d5cf88cbb835687a",
 "version": "id_5c1096ba-34e8-11eb-85c5-e3cf0180a085"
 }
 ],
 "PRC 21189.70.5": [
 {
 "effective": "2021-01-01",
-"hash": "fee1b26d1603fc0c",
+"hash": "795c3bf295bd9d97",
 "version": "id_5c1096bc-34e8-11eb-85c5-e3cf0180a085"
 }
 ],
 "PRC 21189.70.6": [
 {
 "effective": "2021-01-01",
-"hash": "634624cae5af14c9",
+"hash": "429480cf480d45cc",
 "version": "id_5c1096be-34e8-11eb-85c5-e3cf0180a085"
 }
 ],
@@ -10667,7 +10667,7 @@
 "PRC 21189.70.8": [
 {
 "effective": "2023-01-01",
-"hash": "aad76cdc5f983782",
+"hash": "3767321c0a33d90d",
 "version": "id_8307c18b-6abd-11ed-823c-e74f056edb17"
 }
 ],
@@ -10681,63 +10681,63 @@
 "PRC 21189.80": [
 {
 "effective": "2023-07-10",
-"hash": "42adf5598fa298a6",
+"hash": "7570793f071a6b9e",
 "version": "id_7611af2b-2198-11ee-9817-910718e6f9c7"
 }
 ],
 "PRC 21189.81": [
 {
 "effective": "2025-01-01",
-"hash": "a7ca9e6e5f0d3457",
+"hash": "23c1728e4a917d83",
 "version": "id_76ee92e0-a83e-11ef-a579-af09e4d01935"
 }
 ],
 "PRC 21189.81.1": [
 {
 "effective": "2025-01-01",
-"hash": "ed7fc40cd743854b",
+"hash": "a5f2c7ff95022a01",
 "version": "id_3bf81efc-a83e-11ef-a579-af09e4d01935"
 }
 ],
 "PRC 21189.82": [
 {
 "effective": "2023-07-10",
-"hash": "f985b9f38f21c510",
+"hash": "1dad38e338586748",
 "version": "id_7611d63f-2198-11ee-9817-910718e6f9c7"
 }
 ],
 "PRC 21189.83": [
 {
 "effective": "2023-07-10",
-"hash": "15c8f1537f00bf10",
+"hash": "d51b2ebef0c4d0c9",
 "version": "id_7611d641-2198-11ee-9817-910718e6f9c7"
 }
 ],
 "PRC 21189.84": [
 {
 "effective": "2023-07-10",
-"hash": "fddc100a072bd87f",
+"hash": "3fd9b60104ada5e0",
 "version": "id_7611d643-2198-11ee-9817-910718e6f9c7"
 }
 ],
 "PRC 21189.85": [
 {
 "effective": "2023-07-10",
-"hash": "270a3502e9f58e4c",
+"hash": "ac4233d754cd4b9e",
 "version": "id_7611d645-2198-11ee-9817-910718e6f9c7"
 }
 ],
 "PRC 21189.86": [
 {
 "effective": "2023-07-10",
-"hash": "ee65d393216987d6",
+"hash": "6a299e61f962990a",
 "version": "id_7611d647-2198-11ee-9817-910718e6f9c7"
 }
 ],
 "PRC 21189.87": [
 {
 "effective": "2023-07-10",
-"hash": "3ef07c49316804ec",
+"hash": "2bfdf5d6ebd8a217",
 "version": "id_7611d649-2198-11ee-9817-910718e6f9c7"
 }
 ],

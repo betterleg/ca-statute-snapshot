@@ -1,21 +1,21 @@
 {
  "schema_version": 1,
- "generated": "2026-10-20T15:37:56+00:00",
+ "generated": "2026-10-20T16:33:59+00:00",
  "codes": {
   "GOV": {
    "sections": 1073,
    "versions": 1083,
-   "hash": "655b07cf61ea358f"
+   "hash": "0efda2ac2b18ae6f"
   },
   "HSC": {
    "sections": 150,
    "versions": 152,
-   "hash": "d0e4269943715781"
+   "hash": "116166f9f4f8d1cc"
   },
   "PRC": {
    "sections": 307,
    "versions": 307,
-   "hash": "156a3338fa711fbf"
+   "hash": "ccf0471fbb4ce22f"
   }
  },
  "config": {
