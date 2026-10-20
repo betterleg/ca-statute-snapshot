@@ -1,0 +1,126 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Arambula",
+   "primary": true
+  }
+ ],
+ "bill": "AB314",
+ "bill_id": "202520260AB314",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA exempts from its requirements residential projects on infill sites and transit priority projects that meet certain requirements, including a requirement that the projects are located within 12 mile of a major transit stop. CEQA defines “major transit stop” to include, among other locations, the intersection of 2 or more major bus routes with a frequency of service interval of 15 minutes or less during the morning and afternoon peak commute periods.",
+  "This bill would additionally define “major transit stop” to include a planned or existing high-speed rail station. Because the bill would require a lead agency to make an additional determination as to whether a location is a major transit stop for purposes of determining whether residential or mixed-use residential projects are exempt from CEQA, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "38422ac8e9a486c4",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-01-23"
+  },
+  {
+   "action": "From printer. May be heard in committee February 23.",
+   "date": "2025-01-24"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-02-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Re-referred to Com. on TRANS. pursuant to Assembly Rule 96.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 4.) (April 28).",
+   "date": "2025-04-29"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to suspense file.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-04-30",
+  "id": "20250AB31497AMD",
+  "num": "97"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Section 21064.3 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "“Major transit stop” means a site containing any of the following:",
+    "(a) An existing rail or bus rapid transit station.",
+    "(b) A ferry terminal served by either a bus or rail transit service.",
+    "(c) The intersection of two or more major bus routes with a frequency of service interval of 20 minutes or less during the morning and afternoon peak commute periods.",
+    "(d) A planned or existing high-speed rail station."
+   ],
+   "sec": "21064.3",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Affordable Housing and Sustainable Communities Program: project eligibility.",
+ "title": "An act to amend Section 21064.3 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-23",
+   "id": "20250AB31499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB31498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-30",
+   "id": "20250AB31497AMD",
+   "num": "97"
+  }
+ ]
+}

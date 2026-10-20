@@ -1,0 +1,278 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Blanca Rubio",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Pacheco",
+   "primary": false
+  }
+ ],
+ "bill": "AB839",
+ "bill_id": "202520260AB839",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA authorizes the Governor to certify projects meeting certain requirements as infrastructure projects and provide those certified projects with certain streamlining benefits, including requiring the lead agency to prepare the record of proceedings concurrently with the environmental review process and requiring the resolution of an action or proceeding challenging the certification of an EIR for certified projects or the granting of any project approvals, to the extent feasible, within 270 days of the filing of the record of proceedings with the court, as specified. Existing law requires the lead agency, within 10 days of the certification of an infrastructure project, to provide a public notice of the certification, as provided. If a lead agency fails to approve a project certified as an infrastructure project before January 1, 2033, existing law specifies that the certification is no longer valid.",
+  "This bill would authorize the Governor to certify up to 3 sustainable aviation fuel projects, as defined, meeting certain requirements, as infrastructure projects, thereby providing the above streamlining benefits to those projects. By expanding the duties of a lead agency as they relate to infrastructure projects and to sustainable aviation fuel projects, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "c68c39deedd7d435",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and JUD.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-11"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 14. Noes 0.) (April 21). Re-referred to Com. on JUD.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (April 29). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 71. Noes 0. Page 1653.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and JUD.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E.Q.",
+   "date": "2025-06-24"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E.Q.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-05-28"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 5. Noes 1.) (June 17). Re-referred to Com. on JUD.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (June 30). Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2026-08-13"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-05-26",
+  "id": "20250AB83995AMD",
+  "num": "95"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 21189.81 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "For purposes of this chapter, the following definitions apply:",
+    "(a) “Applicant” means a public or private entity or its affiliates, or a person or entity that undertakes a public works project, that proposes a project and its successors, heirs, and assignees.",
+    "(b) “Disadvantaged community” means an area identified by the California Environmental Protection Agency pursuant to Section 39711 of the Health and Safety Code or an area identified as a disadvantaged unincorporated community pursuant to Section 65302.10 of the Government Code.",
+    "(c) “Electrical transmission facility project” means a project for the construction and operation of an electrical transmission facility that meets either of the following:",
+    "(1) An electrical transmission facility project identified by the Independent System Operator in its annual transmission planning process that meets either of the following criteria:",
+    "(A) The project will facilitate delivery of electricity from renewable energy resources or zero-carbon resources.",
+    "(B) The project will facilitate delivery of electricity from energy storage projects.",
+    "(2) An electrical transmission facility project identified by a local publicly owned electric utility that would satisfy a transmission expansion need approved by the governing body of the local publicly owned electric utility and that meets either of the following criteria:",
+    "(A) The project will facilitate delivery of electricity from renewable energy resources or zero-carbon resources.",
+    "(B) The project will facilitate delivery of electricity from energy storage projects.",
+    "(d) (1) “Energy infrastructure project” means any of the following:",
+    "(A) An eligible renewable energy resource, as defined in Section 399.12 of the Public Utilities Code, excluding resources that combust biomass fuels.",
+    "(B) New energy storage systems of 20 megawatts or more, that are capable of discharging for at least two hours, provided that a pumped hydro facility may qualify only if it is less than or equal to 500 megawatts and has been directly appropriated funding by the state before January 1, 2023.",
+    "(C) A project for which the applicant has certified that a capital investment of at least two hundred fifty million dollars ($250,000,000) made over a period of five years and the project is for either of the following:",
+    "(i) The manufacture, production, or assembly of an energy storage system or component manufacturing, wind system or component manufacturing, and solar photovoltaic energy system or component manufacturing.",
+    "(ii) The manufacture, production, or assembly of specialized products, components, or systems that are integral to renewable energy or energy storage technologies.",
+    "(D) An electrical transmission facility project, provided that nothing in this chapter affects the jurisdiction of the California Coastal Commission pursuant to Division 20 (commencing with Section 30000) to regulate such projects if located in the coastal zone.",
+    "(E) A hydrogen production facility and associated onsite storage and processing facilities that do not derive hydrogen from a fossil fuel feedstock and that receive funding from any of the following:",
+    "(i) The Hydrogen Program established pursuant to Section 25664.1.",
+    "(ii) Section 91530, as added by the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024 (Section 2 of Chapter 83 of the Statutes of 2024 (Senate Bill 867)), if that act is approved by the voters at the November 5, 2024, statewide general election.",
+    "(iii) The Alliance for Renewable Clean Hydrogen Energy Systems (ARCHES) authorized by Article 15 (commencing with Section 12100.160) of Chapter 1.6 of Part 2 of Division 3 of Title 2 of the Government Code, as awarded by the United States Department of Energy Office of Clean Energy Demonstrations.",
+    "(2) Any project to develop a facility within the meaning of subdivision (b) of Section 25545 shall meet the requirements of Sections 25545.3.3 and 25545.3.5, except that those requirements shall also apply to solar photovoltaic and terrestrial wind electrical generating powerplants with a generating capacity of between 20 and 50 megawatts and energy storage projects capable of storing between 80 and 200 megawatthours of electrical energy.",
+    "(e) “Infrastructure project” means a project that is certified pursuant to Sections 21189.82 and 21189.83 as any of the following:",
+    "(1) An energy infrastructure project.",
+    "(2) A semiconductor or microelectronic project.",
+    "(3) A sustainable aviation fuel project.",
+    "(4) A transportation-related project.",
+    "(5) A water-related project.",
+    "(f) “Semiconductor or microelectronic project” means a project that meets the requirements related to investment in new or expanded facilities and is awarded funds under the federal Creating Helpful Incentives to Produce Semiconductors Act of 2022 (Public Law 117-167), commonly known as the CHIPS Act of 2022, and the requirements of Section 21183.5.",
+    "(g) “Sustainable aviation fuel project” means a project for the new construction, conversion, or expansion of a facility to manufacture, process, store, distribute, or transport sustainable aviation fuel or feedstock used for the production of sustainable aviation fuel, or to manufacture electrochemical components used for the production of sustainable aviation fuel, that meets all of the following requirements:",
+    "(1) The project meets the requirements of Section 21183.5.",
+    "(2) If the project involves the conversion or replacement of an existing Title V source, as defined in Section 39053.5 of the Health and Safety Code, the project will reduce emissions of air pollutants compared to the baseline environmental conditions in the vicinity of the project, as determined by the applicable air district.",
+    "(3) If the project does not involve the conversion or replacement of an existing Title V source, as defined in Section 39053.5 of the Health and Safety Code, the project will not cause a significant effect on the environment attributable to any air pollutant, as determined by the applicable air district.",
+    "(h) “Sustainable aviation fuel” means hydrocarbon fuel that meets the ASTM International (ASTM) standard D7566 for aviation turbine fuel containing synthesized hydrocarbons and can be used as alternative jet fuel, as defined in Section 95481 of Title 17 of the California Code of Regulations, that meets the requirements of Subarticle 7 (commencing with Section 95480) of Article 4 of Subchapter 10 of Chapter 1 of Division 3 of Title 17 of the California Code of Regulations.",
+    "(i) (1) “Transportation-related project” means a transportation infrastructure project that advances one or more of, and does not conflict with, the following goals related to the Climate Action Plan for Transportation Infrastructure adopted by the Transportation Agency:",
+    "(A) Build toward an integrated, statewide rail and transit network.",
+    "(B) Invest in networks of safe and accessible bicycle and pedestrian infrastructure.",
+    "(C) Include investments in light-, medium-, and heavy-duty zero-emission vehicle infrastructure.",
+    "(D) Develop a zero-emission freight transportation system.",
+    "(E) Reduce public health and economic harms and maximize community benefits.",
+    "(F) Make safety improvements to reduce fatalities and severe injuries of all users towards zero.",
+    "(G) Assess and integrate assessments of physical climate risk.",
+    "(H) Promote projects that do not significantly increase passenger vehicle travel.",
+    "(I) Promote compact infill development while protecting residents and businesses from displacement.",
+    "(J) Protect natural and working lands.",
+    "(2) Transportation-related projects are public works for the purposes of Section 1720 of the Labor Code and shall comply with the applicable provisions of Chapter 1 (commencing with Section 1720) of Part 7 of Division 2 of the Labor Code.",
+    "(j) (1) “Water-related project” means any of the following:",
+    "(A) A project that is approved to implement a groundwater sustainability plan that the Department of Water Resources has determined is in compliance with Sections 10727.2 and 10727.4 of the Water Code or to implement an interim groundwater sustainability plan adopted pursuant to Section 10735.6 of the Water Code.",
+    "(B) (i) A water storage project funded by the California Water Commission pursuant to Chapter 8 (commencing with Section 79750) of Division 26.7 of the Water Code.",
+    "(ii) In addition to clause (i), the applicant shall demonstrate that the project will minimize the intake or diversion of water except during times of surplus water and prioritizes the discharge of water for ecological benefits or to mitigate an emergency, including, but not limited to, dam repair, levee repair, wetland restoration, marshland restoration, or habitat preservation, or other public benefits described in Section 79753 of the Water Code.",
+    "(C) Projects for the development of recycled water, as defined in Section 13050 of the Water Code.",
+    "(D) Contaminant and salt removal projects, including groundwater desalination and associated treatment, storage, conveyance, and distribution facilities. This shall not include seawater desalination.",
+    "(E) Projects exclusively for canal or other conveyance maintenance and repair.",
+    "(2) Water-related projects are public works for the purposes of Section 1720 of the Labor Code and shall comply with the applicable provisions of Chapter 1 (commencing with Section 1720) of Part 7 of Division 2 of the Labor Code.",
+    "(3) “Water-related project” does not include the design or construction of through-Delta conveyance facilities of the Sacramento-San Joaquin Delta."
+   ],
+   "sec": "21189.81",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21189.82 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) (1) (A) The Governor may certify a project as an energy infrastructure project for purposes of this chapter if the project meets the requirements of subdivision (d) of Section 21189.81.",
+    "(B) In addition to subparagraph (A), if the applicant is not the lead agency, the Governor shall ensure all of the following:",
+    "(i) The applicant agrees to pay the costs of the trial court and the court of appeal in hearing and deciding any case challenging a lead agency’s action on a certified project under this division, including payment of the costs for the appointment of a special master if deemed appropriate by the court, in a form and manner as provided in the rule of court adopted by the Judicial Council under Section 21189.85.",
+    "(ii) The applicant agrees to pay the costs of preparing the record of proceedings for the project concurrent with the review and consideration of the project under this division, in a form and manner specified by the lead agency for the project.",
+    "(iii) For a project for which environmental review has commenced, the applicant demonstrates that the record of proceedings is being prepared in accordance with Section 21189.86.",
+    "(2) (A) The Governor may certify a project as a semiconductor or microelectronic project for purposes of this chapter if the project meets the requirements of subdivision (f) of Section 21189.81.",
+    "(B) In addition to subparagraph (A), if the applicant is not the lead agency, the Governor shall ensure all of the following:",
+    "(i) The applicant agrees to pay the costs of the trial court and the court of appeal in hearing and deciding any case challenging a lead agency’s action on a certified project under this division, including payment of the costs for the appointment of a special master if deemed appropriate by the court, in a form and manner as provided in the rule of court adopted by the Judicial Council under Section 21189.85.",
+    "(ii) The applicant agrees to pay the costs of preparing the record of proceedings for the project concurrent with the review and consideration of the project under this division, in a form and manner specified by the lead agency for the project.",
+    "(iii) For a project for which environmental review has commenced, the applicant demonstrates that the record of proceedings is being prepared in accordance with Section 21189.86.",
+    "(3) The Governor may certify up to 20 transportation-related projects for purposes of this chapter, including up to 10 state projects proposed by the Department of Transportation and up to 10 local or regional projects, that meet the requirements of subdivision (i) of Section 21189.81.",
+    "(4) (A) The Governor may certify a project as a water-related project for purposes of this chapter if the project meets the requirements of subdivision (j) of Section 21189.81.",
+    "(B) In addition to subparagraph (A), the Governor shall ensure all of the following:",
+    "(i) The applicant agrees to pay the costs of the trial court and the court of appeal in hearing and deciding any case challenging a lead agency’s action on a certified project under this division, including payment of the costs for the appointment of a special master if deemed appropriate by the court, in a form and manner as provided in the rule of court adopted by the Judicial Council under Section 21189.85.",
+    "(ii) The applicant agrees to pay the costs of preparing the record of proceedings for the project concurrent with the review and consideration of the project under this division, in a form and manner specified by the lead agency for the project.",
+    "(iii) For a project for which environmental review has commenced, the applicant demonstrates that the record of proceedings is being prepared in accordance with Section 21189.86.",
+    "(C) In addition to subparagraphs (A) and (B), the Governor may certify a project as a water-related project for purposes of this chapter only if the Governor finds that greenhouse gas emissions resulting from the project will be mitigated to the extent feasible.",
+    "(5) (A) The Governor may certify up to three sustainable aviation fuel projects for purposes of this chapter if the project meets the requirements of subdivision (g) of Section 21189.81.",
+    "(B) In addition to subparagraph (A), the Governor shall ensure all of the following:",
+    "(i) The applicant agrees to pay the costs of the trial court and the court of appeal in hearing and deciding any case challenging a lead agency’s action on a certified project under this division, including payment of the costs for the appointment of a special master if deemed appropriate by the court, in a form and manner as provided in the rule of court adopted by the Judicial Council under Section 21189.85.",
+    "(ii) The applicant agrees to pay the costs of preparing the record of proceedings for the project concurrent with the review and consideration of the project under this division, in a form and manner specified by the lead agency for the project.",
+    "(iii) For a project for which environmental review has commenced, the applicant demonstrates that the record of proceedings is being prepared in accordance with Section 21189.86.",
+    "(b) The Office of Land Use and Climate Innovation may consult with other state agencies on and may issue guidelines regarding applications for and the certification of projects under this chapter. Any guidelines issued under this subdivision are not subject to the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).",
+    "(c) An applicant for certification of an infrastructure project under this chapter shall do all of the following:",
+    "(1) Avoid or minimize significant environmental impacts in any disadvantaged community.",
+    "(2) If measures are required pursuant to this division to mitigate significant environmental impacts in a disadvantaged community, mitigate those impacts consistent with this division, including Section 21002. Mitigation measures required under this subdivision shall be undertaken in, and directly benefit, the affected community.",
+    "(3) Enter into a binding and enforceable agreement to comply with this subdivision in its application to the Governor and to the lead agency prior to the agency’s certification of the environmental impact report for the project.",
+    "(d) The Office of Land Use and Climate Innovation shall make evidence and materials submitted for the certification of a project available to the public on its internet website at least 15 days before the certification of the project.",
+    "(e) The Governor’s decision to certify a project shall not be subject to judicial review."
+   ],
+   "sec": "21189.82",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21189.83 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) In addition to the requirements of Section 21189.82, with respect to any energy infrastructure project, semiconductor or microelectronic project, or sustainable aviation fuel project proposed by a private entity, the Governor may certify the project pursuant to this chapter only if the project does not result in any net additional emission of greenhouse gases, including greenhouse gas emissions from employee transportation. For purposes of this section, a project is deemed to meet the requirements of this section if the applicant demonstrates to the satisfaction of the Governor that the applicant has a binding commitment that it will mitigate impacts resulting from the emission of greenhouse gases, if any, in accordance with Section 21183.6.",
+    "(b) In addition to the requirements of Section 21189.82, with respect to any transportation-related project, the Governor may certify the project pursuant to this chapter only if the project does not result in any net additional emission of greenhouse gases, excluding greenhouse gas emissions from employee transportation. For purposes of this section, a project is deemed to meet the requirements of this section if the applicant demonstrates to the satisfaction of the Governor that the applicant has a binding commitment that it will mitigate impacts resulting from the emission of greenhouse gases, if any, preferably through direct emissions reductions where feasible, but where not feasible, then through the use of offsets that are real, permanent, verifiable, and enforceable, and that provide a specific, quantifiable, and direct environmental and public health benefit to the same air pollution control district or air quality management district in which the project is located, but if all of the project impacts cannot be feasibly and fully mitigated in the same air pollution control district or air quality management district, then remaining unmitigated impacts shall be mitigated through the use of offsets that provide a specific, quantifiable, and direct environmental and public health benefit to the region in which the project is located.",
+    "(c) The applicant shall be responsible for the costs of preparing an analysis of the emission of greenhouse gases resulting from the project."
+   ],
+   "sec": "21189.83",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: expedited judicial review: sustainable aviation fuel projects.",
+ "title": "An act to amend Sections 21189.81, 21189.82, and 21189.83 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB83999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB83998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-11",
+   "id": "20250AB83997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-06-24",
+   "id": "20250AB83996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-05-26",
+   "id": "20250AB83995AMD",
+   "num": "95"
+  }
+ ]
+}

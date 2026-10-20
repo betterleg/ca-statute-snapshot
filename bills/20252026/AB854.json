@@ -1,0 +1,136 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Petrie-Norris",
+   "primary": true
+  }
+ ],
+ "bill": "AB854",
+ "bill_id": "202520260AB854",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that the lead agency proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would exempt from CEQA projects that consist of the inspection, maintenance, repair, restoration, reconditioning, reconductoring with advanced conductors, replacement, or removal of a transmission wire or cable used to conduct electricity or other piece of equipment that is directly attached to the wire or cable and that meet certain requirements. If a lead agency determines that a project is exempt from CEQA pursuant to the above provision, the bill would require the lead agency to file a notice of exemption with the Office of Land Use and Climate Innovation and the county clerk in each county in which the project is located, as provided. By increasing the duties of a lead agency, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "7fe2a0f3ef766a3f",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and L. GOV.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-07"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1265.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "(Pending re-refer to Com. on U. & E.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-04-22",
+  "id": "20250AB85496AMD",
+  "num": "96"
+ },
+ "location": "CX16",
+ "sections": [
+  {
+   "action": "Section 21080.39 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) This division does not apply to a project that consists of the inspection, maintenance, repair, restoration, reconditioning, reconductoring with advanced conductors, replacement, or removal of a transmission wire or cable used to conduct electricity or other piece of equipment that is directly attached to the wire or cable and that meets both of the following:",
+    "(1) (A) The project is undertaken within an existing right-of-way.",
+    "(B) For a project undertaken within a private right-of-way, the project applicant has permission from the underlying property owner to access the property for the project.",
+    "(2) The project applicant enters into a legally binding agreement to restore the right-of-way to its condition before the commencement of the project.",
+    "(b) If the lead agency determines that a project is exempt from this division pursuant to this section, the lead agency shall file a notice of exemption with the Office of Land Use and Climate Innovation and with the county clerk in each county in which the project is located in a manner specified in subdivisions (b) and (c) of Section 21108 or subdivisions (b) and (c) of Section 21152.",
+    "(c) For purposes of this section, “reconductoring with advanced conductors” has the same meaning as set forth in Section 454.58 of the Public Utilities Code."
+   ],
+   "sec": "21080.39",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "California Environmental Quality Act: exemptions.",
+ "title": "An act to add Section 21080.39 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB85499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB85498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-07",
+   "id": "20250AB85497AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-22",
+   "id": "20250AB85496AMD",
+   "num": "96"
+  }
+ ]
+}

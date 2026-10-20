@@ -1,0 +1,173 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Carrillo",
+   "primary": true
+  }
+ ],
+ "bill": "AB1154",
+ "bill_id": "202520260AB1154",
+ "chapter": {
+  "num": "507",
+  "year": "2025"
+ },
+ "digest": [
+  "The Planning and Zoning Law, among other things, provides for the creation of",
+  "junior accessory dwelling units by local ordinance, or, if a local agency has not adopted an ordinance, by ministerial approval, in accordance with specified standards and conditions. Existing law requires an ordinance that provides for the creation of a junior accessory dwelling unit to, among other things, require owner-occupancy in the single-family residence in which the junior accessory dwelling unit is permitted.",
+  "Under this bill, that owner-occupancy requirement would apply only if the junior accessory dwelling unit has shared sanitation facilities with the existing structure. The bill would require an ordinance that provides for the creation of a junior accessory dwelling unit to require that a rental of a junior accessory dwelling unit be for a term longer than 30 days.",
+  "By imposing new duties on local governments with respect to the approval of junior accessory dwelling units, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "44ae0b888091645e",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (March 26). Re-referred to Com. on L. GOV.",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (April 9). Re-referred to Com. on APPR.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (April 23).",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 70. Noes 1. Page 1320.)",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-04-29"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and L. GOV.",
+   "date": "2025-05-07"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (July 1).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (July 9). Re-referred to Com. on APPR.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2394.).",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 75. Noes 0. Page 2861.).",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 507, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250AB115496CHP",
+  "num": "96"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66333 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "Notwithstanding Article 2 (commencing with Section 66314), a local agency may, by ordinance, provide for the creation of junior accessory dwelling units in single-family residential zones. The ordinance may require a permit to be obtained for the creation of a junior accessory dwelling unit, and shall do all of the following:",
+    "(a) Limit the number of junior accessory dwelling units to one per residential lot zoned for single-family residences with a single-family residence built, or proposed to be built, on the lot.",
+    "(b) If the junior accessory dwelling unit has shared sanitation facilities with the existing structure, require owner-occupancy in the single family residence in which the junior accessory dwelling unit will be permitted. The owner may reside in either the remaining portion of the structure or the newly created junior accessory dwelling unit. Owner-occupancy shall not be required if the junior accessory dwelling unit has separate sanitation facilities, or if the owner is another governmental agency, land trust, or housing organization.",
+    "(c) Require the recordation of a deed restriction, which shall run with the land, shall be filed with the permitting agency, and shall include both of the following:",
+    "(1) A prohibition on the sale of the junior accessory dwelling unit separate from the sale of the single-family residence, including a statement that the deed restriction may be enforced against future purchasers.",
+    "(2) A restriction on the size and attributes of the junior accessory dwelling unit that conforms with this article.",
+    "(d) Require a permitted junior accessory dwelling unit to be constructed within the walls of the proposed or existing single-family residence. For purposes of this subdivision, enclosed uses within the residence, such as attached garages, are considered a part of the proposed or existing single-family residence.",
+    "(e) (1) Require a permitted junior accessory dwelling unit to include a separate entrance from the main entrance to the proposed or existing single-family residence.",
+    "(2) If a permitted junior accessory dwelling unit does not include a separate bathroom, the permitted junior accessory dwelling unit shall include a separate entrance from the main entrance to the structure, with an interior entry to the main living area.",
+    "(f) Require the permitted junior accessory dwelling unit to include an efficiency kitchen, which shall include all of the following:",
+    "(1) A cooking facility with appliances.",
+    "(2) A food preparation counter and storage cabinets that are of reasonable size in relation to the size of the junior accessory dwelling unit.",
+    "(g) Require that a rental of a junior accessory dwelling unit be for a term longer than 30 days."
+   ],
+   "sec": "66333",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Junior accessory dwelling units.",
+ "title": "An act to amend Section 66333 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB115499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-03",
+   "id": "20250AB115498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-05",
+   "id": "20250AB115497ENR",
+   "num": "97"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250AB115496CHP",
+   "num": "96"
+  }
+ ]
+}

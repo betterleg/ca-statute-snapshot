@@ -1,0 +1,305 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Committee on Budget and Fiscal Review",
+   "primary": true
+  }
+ ],
+ "bill": "SB172",
+ "bill_id": "202520260SB172",
+ "chapter": {
+  "num": "84",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law, the Boxing Act, also known as the State Athletic Commission Act, creates within the Department of Consumer Affairs the State Athletic Commission. Existing law requires a person who conducts a contest or wrestling exhibition, within 72 hours after the determination of every contest or wrestling exhibition for which admission is charged and received, to furnish to the commission certain fees. One fee is based, in part, on the amount paid for admission to the contest or wrestling exhibition, as specified. Existing law requires the fee for a professional contest or exhibition to be at least $1,250.",
+  "This bill would increase the minimum amount of that fee to $2,500.",
+  "Existing law also requires a person who conducts a contest or wrestling exhibition to furnish to the commission another fee based, in part, on the gross price of the sale, lease, or exploitation of the broadcasting or television rights for the event. Existing law prohibits this fee from exceeding $35,000.",
+  "This bill would increase the maximum amount of that fee to $50,000.",
+  "(2) Existing law establishes the California Education Learning Laboratory, which is administered by the Office of Land Use and Climate Innovation, for purposes of increasing learning outcomes and closing equity and achievement gaps, using technologies involving learning science and adaptive learning, as defined, in online or hybrid college-level lower division courses in science, technology, engineering, and mathematics (STEM) and other disciplines. Existing law requires, in administering the California Education Learning Laboratory, the office to issue calls for, evaluate, and annually award funds to, competitive grant proposals from intersegmental faculty teams that apply principles of learning science and adaptive learning technologies in online or hybrid course series in STEM and other disciplines, as specified.",
+  "This bill would revise and recast the California Education Learning Laboratory to, among other things, instead establish the program for purposes of increasing learning outcomes and closing equity and achievement gaps using the science of human learning and adaptive learning technologies in STEM disciplines and other disciplines. The bill would require the program to be administered by the Government Operations Agency instead of the Office of Land Use and Climate Innovation.",
+  "(3) Existing law establishes the Department of Food and Agriculture under the control of the Secretary of Food and Agriculture. Existing law authorizes the secretary to charge a bureau, division, board, or other agency of the department that is not supported by appropriations from the General Fund its proportionate share of the administrative expenses of the department, or a share in an amount that is computed to reasonably compensate the department for the administrative services that it renders. Existing law prohibits the proportionate or computed share charged from exceeding 5% of the collections that are made by the department for the bureau, division, board, or other agency.",
+  "This bill would instead prohibit the proportionate or computed share charged to the Department of Food and Agriculture Fund from exceeding 5% of the total departmentwide expenditures, except for expenses associated with information technology, legal services, human resources, and the Office of Civil Rights, as specified. By increasing the amount of continuously appropriated moneys in the fund that may be expended for administrative purposes, the bill would make an appropriation.",
+  "(4) Existing law creates the State Race Track Leasing Commission and authorizes the commission to enter into leases or other agreements for the use of the Del Mar Race Track and any other property owned or controlled by the 22nd District Agricultural Association that the commission deems necessary to provide horse racing at the Del Mar Race Track. Existing law requires the Department of Finance to provide clerical services to the commission.",
+  "This bill would instead require the Department of Food and Agriculture to provide those clerical services to the commission.",
+  "(5) Existing law creates the Office of Farm to Fork within the Department of Food and Agriculture, and requires the office, to the extent that resources are available, to work with various entities, including, among others, the agricultural industry and other organizations involved in promoting food access, to increase the amount of agricultural products available to underserved communities and schools in the state.",
+  "This bill would establish the California Farm to School Program, to be developed, administered, and implemented by the office, as specified, for purposes of cultivating equity, nurturing students, building climate resilience, and creating scalable and sustainable change in the school food system. The bill would require that the program, among other things, increase procurement of foods that are grown or produced in California and are whole or are minimally processed from food producers in California for school meal programs, increase hands-on food education opportunities that engage pupils and connect the classroom with the cafeteria, and administer the California Farm to School Incubator Grant Program. The bill would authorize the office to implement initiatives under the program, including, but not limited to, initiatives that advance the California farm to school network and facilitate a California Farm to School Interagency Working Group, including, but not limited to, specified state agencies.",
+  "(6) The California Constitution authorizes state and local governmental entities to contract with private entities for architectural and engineering services. Existing statutory law requires the selection by a state or local agency for professional engineering, environmental, land surveying, or construction project management firms to be on the basis of demonstrated competence and on the professional qualifications necessary for the satisfactory performances of the services required, and further requires a state agency to adopt procedures by regulation that, among other things, assure that these services are engaged on the basis of demonstrated competence and qualifications for the types of services to be performed.",
+  "This bill would authorize a state agency to use the procedures adopted by the Department of General Services until the state agency adopts their own procedures by regulation.",
+  "(7) Existing law, commencing January 1, 2028, requires state and local agencies, as defined, that collect demographic data as to the ancestry or ethnic origin of Californians to use separate collection categories and tabulations for major Middle Eastern or North African groups, as specified, and, with certain exceptions, to include that data in every demographic report published on or after January 1, 2029, and to make the aggregated data available to the public.",
+  "This bill would, instead, commencing January 1, 2029, require state and local agencies, as defined, that collect demographic data as to the ancestry or ethnic origin of Californians to use separate collection categories and tabulations for a major Middle Eastern or North African group, including minor groups, as specified, and, with certain exceptions, to include that data in every demographic report published on or after January 1, 2030. The bill would require each state and local agency to apply de-identification and privacy protection methods to demographic data collected pursuant to these provisions, as described. The bill would require a state or local agency that collects or reports demographic data in a manner that differs from the above-described provisions pursuant to federal program requirements to comply with the requirements of the above-described provisions, as specified. By imposing additional duties on local agencies, this bill would impose a state-mandated local program.",
+  "(8) Existing law establishes the Department of Technology. Existing law establishes the Office of Broadband and Digital Literacy within the department and requires the office to oversee the acquisition and management of contracts for the development and construction of, and for the maintenance and operation of, a statewide open-access middle-mile broadband network to provide an opportunity for last-mile providers, anchor institutions, and tribal entities to connect to, and interconnect with other networks and other appropriate connections to, the broadband network to facilitate high-speed broadband service, as specified. Existing law provides that the office has the powers and authorities necessary to implement these and related provisions, including, but not limited to, the authority to enter into contracts with one or more entities to acquire goods and services and to take actions it deems necessary and appropriate for the development, acquisition, construction, maintenance, and operation of a statewide open-access middle-mile broadband network, including the creation of rural exchange points.",
+  "This bill would prohibit the department or the office from entering into, amending, or assigning a contract related to the statewide open-access middle-mile broadband network if the contract is for an amount exceeding a total cost of $8,000,000 unless the contract is approved by the Director of Finance. The bill would prohibit the Director of Finance from approving that contract until at least 30 days after informing the Joint Legislative Budget Committee of the director’s intent to approve the contract unless that notification period is waived by the Chairperson of the Joint Legislative Budget Committee or the chairperson’s designee. The bill would require the approval of the Director of Finance to take effect immediately following either the completion of the 30-day notification period or the waiver of that period. The bill would specify that these provisions do not apply in the case of an emergency, as defined.",
+  "Existing law establishes the State Middle-Mile Broadband Enterprise Fund, consisting of fees for connection to the statewide open-access middle-mile broadband network, revenues payable to the department for activities undertaken by the department for maintenance, operation, repair, and expansion of the statewide open-access middle-mile broadband network, and proceeds from the disposition of fixed assets and leasehold interests related to the network. Existing law provides that funds deposited into the fund are continuously appropriated to the department for the maintenance, operation, repair, and expansion until July 1, 2027, and thereafter are available upon appropriation for those purposes.",
+  "This bill would extend the date the moneys in the fund are continuously appropriated to July 1, 2031. By extending the term of a continuously appropriated fund, this bill would make an appropriation.",
+  "(9) Existing law, the Financial Information System for California (FISCal) Act, establishes the Department of FISCal within the Government Operations Agency to implement a single integrated financial management system for use by state departments and agencies. The act requires the partner agencies to collaboratively develop enhancements to the system, utilize the system, and assist the department to maintain the system, and defines “partner agencies” to mean the Department of Finance, the Controller, the Department of General Services, and the Treasurer.",
+  "This bill would require the department to work in consultation with the Department of Finance and the Department of Technology in ongoing maintenance and roadmap activities of the system, as specified.",
+  "(10) Existing law creates the Governor’s Office of Business and Economic Development (GO-Biz) and requires GO-Biz to serve the Governor as the lead entity for economic strategy and the marketing of California on issues relating to business development, private sector investment, and economic growth.",
+  "This bill would create the Office of Regional Economic Development Initiatives within GO-Biz. Under the bill, the Director of GO-Biz would oversee the office and a deputy director appointed by the Governor would administer the office. The bill would set forth the duties of the office, including, among other things, supporting regional partners in developing, maintaining, and implementing their regional economic development strategies.",
+  "(11) Existing law authorizes the court, in an action brought by the Attorney General under specified unfair competition and false advertising laws, to award the remedy of disgorgement. Existing law requires the funds recovered by the Attorney General under these provisions to be deposited into the Victims of Consumer Fraud Restitution Fund, and makes the funds available, upon appropriation by the Legislature, to the Attorney General to provide restitution to victims of acts or practices for which consumer restitution has been ordered but not paid, as provided.",
+  "This bill would make an appropriation by making the money in the Victims of Consumer Fraud Restitution Fund continuously appropriated to the Attorney General for purposes of the restitution described above.",
+  "(12) Existing law, until December 31, 2030, establishes the Projected Surplus Temporary Holding Account in the State Treasury as a General Fund reserve to hold a portion of General Fund surplus moneys temporarily for use in future fiscal years, as an added responsible budgeting technique to counter tax revenue volatility. Existing law requires, in a year that a transfer is made to the account, that the transfer be provided for in the annual Budget Act, and requires the transferred funds to remain in the account for no more than one year from the date of deposit, after which time the funds are required to be transferred to the General Fund, except as specified. Existing law authorizes the Controller to use the funds in the account for cashflow loans to the General Fund, as specified.",
+  "This bill would eliminate the December 31, 2030, sunset date for the account, thereby making the account operative permanently.",
+  "(13) Existing law, the California Emergency Services Act, sets forth the duties of the Office of Emergency Services (CalOES) with respect to specified emergency preparedness, mitigation, and response activities within the state. Existing law establishes the Public Safety Communications Division within the office and prescribes certain duties in regard to statewide public safety communications systems, including providing for coordination of, and comment on, plans, policies, and operational requirements from departments that utilize public safety communications in support of their principal function.",
+  "Existing law, the Warren-9-1-1-Emergency Assistance Act, establishes the State 911 Advisory Board to advise CalOES on specified subjects relating to the state’s 911 emergency telephone response system. Existing law provides that the board consists of 11 members appointed by the Governor, including the Chief of the Public Safety Communications Division, who serves as the nonvoting chair.",
+  "This bill would revise the board membership and, instead, make the Deputy Director of Public Safety Communications (deputy director) a nonvoting member of the board and require the deputy director to serve for the duration of their tenure. The bill would require the board, at its first meeting of each calendar year, or at another time the board deems appropriate, to elect one of its voting members to serve as chair by a majority vote. The bill would additionally authorize the board to make formal recommendations to CalOES. The bill would also authorize the board to enlist an independent technical expert for advisory purposes, as specified, and require Public Safety Communications to timely share all information with the board relevant to the board’s requirement to advise the office.",
+  "(14) Existing law, the Warren-911-Emergency Assistance Act, requires every local public agency to establish within its jurisdiction a basic emergency telephone system that includes, at a minimum, police, firefighting, and emergency medical and ambulance services. Existing law requires CalOES to develop a plan and timeline for the testing, implementation, and operation of a Next Generation 911 emergency communication system throughout the state, as provided.",
+  "This bill would require CalOES, on or before August 15, 2026, to enter into a contract with an independent evaluator, the Rand Corporation, for the purpose of performing an independent technical evaluation of the development and implementation of the Next Generation 911 system, as defined, subject to certain requirements. In this regard, the bill would require the independent technical evaluation to, among other things, describe the state’s options for delivering reliable Next Generation 911 system services to the state and the strengths and weaknesses of each option, as specified, and would require the independent evaluator, in carrying out the independent technical evaluation, to consider relevant factors, including the emergency communication systems implemented in other states. The bill would require the independent evaluator to provide a final report on the independent technical evaluation on or before May 1, 2027, and to provide an initial evaluation and preliminary report on the independent technical evaluation on or before December 15, 2026, as specified, simultaneously to certain entities, including CalOES.",
+  "The bill would require CalOES, the State 911 Advisory Board, public safety answering points, and state 911 system vendors to provide the independent evaluator with any requested assistance, as specified. The bill would require CalOES to also provide the independent evaluator with a primary point of contact and key stakeholders, as specified. The bill would prohibit CalOES from issuing a request for proposals or awarding a Next Generation 911 network services contract sooner than 60 days after the independent evaluator’s final report is complete and received by the required entities and CalOES has submitted the final report to the Joint Legislative Budget Committee and the Legislative Analyst’s Office describing the actions that CalOES has taken or will take in response to the findings and recommendations in the independent evaluator’s preliminary and final reports. The bill would exempt the contract entered into by CalOES with the independent evaluator from the Public Contract Code, the State Contracting Manual, any other state contracting requirements, and the approval of the Department of General Services.",
+  "The bill would require CalOES to submit a quarterly report to the Legislature, beginning on or before October 1, 2026, regarding the development and implementation of, and the total and current year funding spent on, the Next Generation 911 system. The bill would require the report to include, among other specified information, documentation of the progress toward, and major challenges facing, statewide development and implementation of a Next Generation 911 system, as specified. The bill would require CalOES to also submit a copy of the quarterly reports to, among other specified entities, the chairs of the budget committees and emergency management committees of both houses of the Legislature, as specified.",
+  "(15) Existing law establishes the Office of Land Use and Climate Innovation in the Governor’s office for the purpose of serving the Governor and the Governor’s cabinet as staff for long-range planning and research and constituting the comprehensive state planning agency.",
+  "Existing law, the Planning and Zoning Law, requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. That law requires the planning agency of a city or county to provide by April 1 of each year an annual report to the legislative body, the Office of Land Use and Climate Innovation, and the Department of Housing and Community Development that includes, among other specified information, the agency’s progress in meeting its share of regional housing needs and the number of units approved and disapproved in the prior year.",
+  "This bill would require the remaining portion of the annual report, not required pursuant to specified provisions related to meeting regional housing needs, to be prepared through the use of standards, forms, and definitions adopted by the Office of Land Use and Climate Innovation, as prescribed. By imposing additional duties on local agencies, this bill would impose a state-mandated local program.",
+  "(16) Existing law authorizes any public entity to adopt methods and procedures to receive bids on public works or other contracts and supporting materials submitted over the internet. Existing law defines “supporting materials” for purposes of those provisions to include payment requests, shop drawings, schedules, notices of claims, and certified payrolls.",
+  "This bill would expand the authority of a public entity to adopt methods and procedures to receive supporting materials to include those supporting materials submitted pursuant to a contract other than a public works contract. The bill would also expand the definition of “supporting materials” to include resumes, references, licenses, specifications, certifications, and applications. The bill would authorize the Department of General Services to develop, implement, and maintain secure electronic procurement platforms for use by public entities. The bill would require posting solicitations and receiving bids through an electronic procurement platform to satisfy all statutory requirements for public advertising, bid submission, and document retention, and would require an electronic procurement platform to comply with specified requirements, including maintaining automated audit trails. The bill would authorize bid openings to be conducted electronically.",
+  "(17) Existing law, the Iran Contracting Act of 2010, generally makes a person engaged in investment activities in the energy sector of Iran, as specified, ineligible for a public contract for goods or services of $1,000,000 or more. In this regard, the act requires the Department of General Services to create a list of persons it determines engages in those investment activities, as specified. The act requires a public entity to require a person that submits a bid or proposal to a public entity with respect to a covered contract to certify that they are not identified on that list. Existing law requires a state agency to submit the certification information to the department.",
+  "This bill would delete the requirement that a state agency submit the certification information to the department.",
+  "(18) Existing law generally requires all public contracts for the acquisition or lease of goods in an amount of $25,000, or a higher amount as established by the Department of General Services, to be made with the lowest responsible bidder meeting specifications and requires public contracts to be made pursuant to specified competitive bidding procedures.",
+  "This bill would make various technical changes relating to the physical submission of bids and the physical presence of bidders, including revising requirements referencing the physical presence of bidders and changing requirements for submitting sealed envelopes to sealed submissions.",
+  "(19) Existing law requires a state agency to provide 24-hour notification prior to awarding a contract to a bidder who is not the lowest bidder, as specified. If, prior to making the award, a bidder who has submitted a bid files a protest with the Department of General Services against the awarding of the contract on the ground that they are the lowest responsible bidder meeting specifications, existing law prohibits the contract from being awarded until either the protest has been withdrawn or the department has made a final decision as to the action to be taken relative to the protest.",
+  "This bill would make those provisions applicable only if the bidder has submitted a bid that is subject to protest.",
+  "(20) Existing law establishes procedures for the procurement of information technology goods and services, and grants to the Department of General Services or the Department of Technology the final authority in the determination of information technology procurement procedures, depending on the type of acquisition or procurement.",
+  "This bill would authorize software license contracts allowing the use of the software for a specified time period with recurring payments to be paid in advance subject to procedures, terms, and conditions, as specified, that the controlling department deems necessary to protect the state’s interest. The bill would authorize a single payment for a lifetime license and would prohibit advance payments from exceeding 3 years.",
+  "(21) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA requires the Office of Land Use and Climate Innovation (office), formerly known as the Office of Planning and Research, to implement a public assistance and information program to ensure efficient and effective implementation of CEQA and that, among other things, establishes and maintains an online database for the collection, storage, retrieval, and dissemination of various documents prepared under CEQA. CEQA requires a lead agency to provide various environmental documents to the office in specified circumstances.",
+  "This bill would authorize the office to include additional information in the online database, including, but not limited to, information related to planning, permitting, grants, and procurement, as provided. The bill would authorize the office to charge a fee upon the submission of documents pursuant to CEQA to the database for the reasonable costs incurred in implementing the provisions relating to the establishment and maintenance of the database. The bill would create the State Clearinghouse Administrative Fund in the State Treasury and require this fee money to be deposited into the account. These moneys would, upon appropriation by the Legislature, be available to the office for implementation of the provisions relating to the establishment and maintenance of the database.",
+  "(22) The California Constitution generally limits ad valorem taxes on real property to 1% of the full cash value of that property, defined as the county assessor’s valuation of real property as shown on the 1975–76 tax bill and, thereafter, the appraised value of the property when purchased, newly constructed, or a change in ownership occurs after the 1975 assessment, subject to an annual inflation adjustment not to exceed 2%. Existing property tax law authorizes, pursuant to constitutional authorization, on and after April 1, 2021, any person who is over 55 years of age, any severely and permanently disabled person, or a victim of wildfire or natural disaster who resides in property that is eligible for the homeowner’s exemption or the disabled veteran’s exemption to transfer the taxable value of that property to a replacement dwelling that is purchased or newly constructed as a principal residence within 2 years of the sale of the original property, as provided.",
+  "Existing property tax law provides for the payment of taxes on the secured roll in 2 installments, which are due and payable on November 1 and February 1, respectively. Under existing property tax law, unpaid property taxes become delinquent, and subject to a delinquent penalty of 10%, as provided. Existing property tax law, after the 2nd installment becomes delinquent, requires the tax collector to collect a cost of $55, but no more than the actual cost, for preparing the delinquent tax records and giving notice of delinquency and to prepare a delinquent roll, as provided. Under existing property tax law, the taxes, assessments, penalties, and costs on certain real property that have not been paid are declared to be in default at 12:01 a.m. on July 1.",
+  "Until January 1, 2026, former property tax law required, except as provided, payment of property taxes for a property to be deferred, without penalty or interest, if the property owner has claimed the property tax relief described above, but the county assessor has not completed its determination of the property’s eligibility for that relief, and the person requested deferment with the county assessor within one calendar year, but before January 1, 2024, of receiving the first tax bill for the property.",
+  "Existing property tax law requires a disclosure to be printed on each tax bill for properties that have been purchased, newly constructed, or changed ownership in the year preceding the tax bill and requires the disclosure to include information regarding the property tax relief and deferment procedures described above. Existing property tax law requires counties with a population of over 4,000,000, as specified, to comply with these disclosure requirements.",
+  "This bill would repeal the above-described disclosure requirements.",
+  "(23) This bill would make legislative findings and declarations as to the necessity of a special statute for the Rand Corporation.",
+  "(24) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(25) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above.",
+  "(26) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
+ ],
+ "hash": "5b9993d25ac42315",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-01-23"
+  },
+  {
+   "action": "From printer. May be acted upon on or after February 23.",
+   "date": "2025-01-24"
+  },
+  {
+   "action": "Referred to Com. on B. & F. R.",
+   "date": "2025-02-05"
+  },
+  {
+   "action": "Withdrawn from committee. (Ayes 27. Noes 10. Page 384.)",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 28. Noes 10. Page 454.) Ordered to the Assembly.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Referred to Com. on BUDGET.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on BUDGET.",
+   "date": "2026-06-26"
+  },
+  {
+   "action": "Withdrawn from committee pursuant to Asssembly Rule 96.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Ayes 53. Noes 14. Page 5891.)",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 58. Noes 15. Page 5894.) Ordered to the Senate.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "Unanimous consent granted to take up without reference to file.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 29. Noes 2. Page 5067.) Ordered to engrossing and enrolling.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-07-13"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 84, Statutes of 2026.",
+   "date": "2026-07-13"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-07-13",
+  "id": "20250SB17296CHP",
+  "num": "96"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Article 7 (commencing with Section 65059.1) of Chapter 1.5 of Division 1 of Title 7 of the Government Code is repealed.",
+   "code": "GOV",
+   "paras": [],
+   "sec": "65059.1",
+   "verb": "repealed"
+  },
+  {
+   "action": "Section 65400 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) After the legislative body has adopted all or part of a general plan, the planning agency shall do both of the following:",
+    "(1) Investigate and make recommendations to the legislative body regarding reasonable and practical means for implementing the general plan or element of the general plan so that it will serve as an effective guide for orderly growth and development, preservation and conservation of open-space land and natural resources, and the efficient expenditure of public funds relating to the subjects addressed in the general plan.",
+    "(2) Provide by April 1 of each year an annual report to the legislative body, the Office of Land Use and Climate Innovation, and the Department of Housing and Community Development that includes all of the following:",
+    "(A) The status of the plan and progress in its implementation.",
+    "(B) (i) (I) The progress in meeting its share of regional housing needs determined pursuant to Section 65584, including the need for extremely low income households, as determined pursuant to Section 65583, and local efforts to remove governmental constraints to the maintenance, improvement, and development of housing pursuant to paragraph (3) of subdivision (c) of Section 65583.",
+    "(II) The annual report shall include the progress in meeting the city’s or county’s progress in meeting its share of regional housing need, as described in subclause (I), for the sixth and previous revisions of the housing element.",
+    "(ii) The housing element portion of the annual report, as required by this paragraph, shall be prepared through the use of standards, forms, and definitions adopted by the Department of Housing and Community Development. The department may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2. Before and after adoption of the forms, the housing element portion of the annual report shall include a section that describes the actions taken by the local government towards completion of the programs and status of the local government’s compliance with the deadlines in its housing element. The report shall be considered at an annual public meeting before the legislative body where members of the public shall be allowed to provide oral testimony and written comments.",
+    "(iii) The report may include the number of units that have been completed pursuant to subdivision (c) of Section 65583.1. For purposes of this paragraph, committed assistance may be executed throughout the planning period, and the program under paragraph (1) of subdivision (c) of Section 65583.1 shall not be required. The report shall document how the units meet the standards set forth in that subdivision.",
+    "(iv) The planning agency shall include the number of units in a student housing development for lower income students for which the developer of the student housing development was granted a density bonus pursuant to subparagraph (F) of paragraph (1) of subdivision (b) of Section 65915.",
+    "(v) The report may include the number of units of existing deed-restricted affordable housing with an average affordability no greater than 45 percent of area median income that are at least 15 years old and have been substantially rehabilitated with at least sixty thousand dollars ($60,000) per unit in funds awarded from the city or, for unincorporated areas, the county, inclusive of forgiveness of principal or interest on existing debt. Any units included in the report pursuant to this clause shall not be considered when determining affordability requirements for purposes of paragraph (4) of subdivision (a) of Section 65913.4.",
+    "(C) The number of housing development applications received in the prior year, including both of the following, when applicable:",
+    "(i) Whether each housing development application is subject to a ministerial or discretionary approval process.",
+    "(ii) Beginning with the report due by April 1, 2027, whether each application is subject to a replacement housing or relocation assistance obligation pursuant to local, state, or federal law, including, but not limited to, Section 65583.2, 65915, or 66300.6.",
+    "(D) The number of units included in all development applications in the prior year.",
+    "(E) (i) The number of units approved and disapproved in the prior year, which shall include all of the following subcategories:",
+    "(I) The number of units located within an opportunity area.",
+    "(II) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for acutely low income households within each opportunity area.",
+    "(III) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for extremely low income households within each opportunity area.",
+    "(IV) The number of units approved and disapproved for very low income households within each opportunity area.",
+    "(V) The number of units approved and disapproved for lower income households within each opportunity area.",
+    "(VI) The number of units approved and disapproved for moderate-income households within each opportunity area.",
+    "(VII) The number of units approved and disapproved for above moderate-income households within each opportunity area.",
+    "(ii) For purposes of this subparagraph, “opportunity area” means a highest, high, moderate, or low resource area pursuant to the most recent “CTCAC/HCD Opportunity Map” published by the California Tax Credit Allocation Committee and the Department of Housing and Community Development.",
+    "(F) The degree to which its approved general plan complies with the guidelines developed and adopted pursuant to Section 65040.2 and the date of the last revision to the general plan.",
+    "(G) A listing of sites rezoned to accommodate that portion of the city’s or county’s share of the regional housing need for each income level that could not be accommodated on sites identified in the inventory required by paragraph (1) of subdivision (c) of Section 65583 and Section 65584.09. The listing of sites shall also include any additional sites that may have been required to be identified by Section 65863.",
+    "(H) (i) The number of units of housing demolished and new units of housing, including both rental housing and for-sale housing and any units that the County of Napa or the City of Napa may report pursuant to an agreement entered into pursuant to Section 65584.08, that have been issued a completed entitlement, a building permit, or a certificate of occupancy, thus far in the housing element cycle, and the income category, by area median income category, that each unit of housing satisfies. That production report shall do the following:",
+    "(I) For each income category described in this subparagraph, distinguish between the number of rental housing units and the number of for-sale units that satisfy each income category.",
+    "(II) For each entitlement, building permit, or certificate of occupancy, include a unique site identifier that must include the assessor’s parcel number, but may also include street address, or other identifiers.",
+    "(III) Beginning with the report due by April 1, 2027, for each entitlement, building permit, or certificate of occupancy, include the total number of replacement housing units by income level required pursuant to local, state, or federal law, including, but not limited to, Section 65583.2, 65915, or 66300.6.",
+    "(IV) Beginning with the report due by April 1, 2027, for each entitlement, building permit, or certificate of occupancy, include the number, by income level, of replacement housing units entitled, permitted, or issued a certificate of occupancy.",
+    "(ii) For the County of Napa and the City of Napa, the production report may report units identified in the agreement entered into pursuant to Section 65584.08.",
+    "(I) The number of applications submitted pursuant to subdivision (a) of Section 65913.4, the location and the total number of developments approved pursuant to subdivision (c) of Section 65913.4, the total number of building permits issued pursuant to subdivision (c) of Section 65913.4, the total number of units including both rental housing and for-sale housing by area median income category constructed using the process provided for in subdivision (c) of Section 65913.4.",
+    "(J) If the city or county has received funding pursuant to the Local Government Planning Support Grants Program (Chapter 3.1 (commencing with Section 50515) of Part 2 of Division 31 of the Health and Safety Code), the information required pursuant to subdivision (a) of Section 50515.04 of the Health and Safety Code.",
+    "(K) The progress of the city or county in adopting or amending its general plan or local open-space element in compliance with its obligations to consult with California Native American tribes, and to identify and protect, preserve, and mitigate impacts to places, features, and objects described in Sections 5097.9 and 5097.993 of the Public Resources Code, pursuant to Chapter 905 of the Statutes of 2004.",
+    "(L) The following information with respect to density bonuses granted in accordance with Section 65915:",
+    "(i) The number of density bonus applications received by the city or county.",
+    "(ii) The number of density bonus applications approved by the city or county.",
+    "(iii) Data from all projects approved to receive a density bonus from the city or county, including, but not limited to, the percentage of density bonus received, the percentage of affordable units in the project, the number of other incentives or concessions granted to the project, and any waiver or reduction of parking standards for the project.",
+    "(M) The following information with respect to each application submitted pursuant to Chapter 4.1 (commencing with Section 65912.100):",
+    "(i) The location of the project.",
+    "(ii) The status of the project, including whether it has been entitled, whether a building permit has been issued, and whether or not it has been completed.",
+    "(iii) The number of units in the project.",
+    "(iv) The number of units in the project that are rental housing.",
+    "(v) The number of units in the project that are for-sale housing.",
+    "(vi) The household income category of the units, as determined pursuant to subdivision (f) of Section 65584.",
+    "(N) A list of all historic designations listed on the National Register of Historic Places, the California Register of Historical Resources, or a local register of historic places by the city or county in the past year, and the status of any housing development projects proposed for the new historic designations, including all of the following:",
+    "(i) Whether the housing development project has been entitled.",
+    "(ii) Whether a building permit has been issued for the housing development project.",
+    "(iii) The number of units in the housing development project.",
+    "(O) The following information with respect to housing development projects under Section 65913.16:",
+    "(i) The number of applications submitted under Section 65913.16.",
+    "(ii) The location and number of developments approved under Section 65913.16.",
+    "(iii) The total number of building permits issued pursuant to Section 65913.16.",
+    "(iv) The total number of units constructed under Section 65913.16 and the income category of those units.",
+    "(P) Beginning with the report due by April 1, 2027, a report on the demolition of housing units for any purpose, which shall include, but not be limited to, all of the following:",
+    "(i) The total number of housing units approved for demolition during the year.",
+    "(ii) The total number of housing units demolished during the year.",
+    "(iii) For each approved or completed demolition, all of the following:",
+    "(I) The location of the approved or completed demolition, using a unique site identifier that shall include the assessor’s parcel number, and may also include the street address or other identifiers.",
+    "(II) The date the demolition was approved.",
+    "(III) The total number of rental and ownership units demolished or approved for demolition.",
+    "(IV) The number, by income level, of protected units, as defined in subdivision (h) of Section 66300.5, demolished or approved for demolition.",
+    "(V) A description of any approved uses on the site.",
+    "(VI) A description of any relocation assistance provided as required pursuant to local, state, or federal law, including, but not limited to, the relocation assistance required to be provided to each displaced occupant of any demolished protected unit pursuant to Section 66300.6.",
+    "(Q) Beginning with the report due by April 1, 2027, a report on replacement housing units required pursuant to local, state, or federal law, including, but not limited to, Section 66300.6, for approved development projects that are not housing development projects, which shall include, for each applicable development project, all of the following:",
+    "(i) The approved or proposed location of the replacement units, using a unique site identifier that shall include the assessor’s parcel number, and may also include the street address or other identifiers.",
+    "(ii) The entity that is developing the replacement units.",
+    "(iii) The anticipated completion date of the replacement units.",
+    "(b) (1) (A) The department may request corrections to the housing element portion of an annual report submitted pursuant to paragraph (2) of subdivision (a) within 90 days of receipt. A planning agency shall make the requested corrections within 30 days after which the department may reject the report if the report is not in substantial compliance with the requirements of that paragraph.",
+    "(B) If the department rejects the housing element portion of an annual report as authorized by subparagraph (A), the department shall provide the reasons the report is inconsistent with paragraph (2) of subdivision (a) to the planning agency in writing.",
+    "(2) If a court finds, upon a motion to that effect, that a city, county, or city and county failed to submit, within 60 days of the deadline established in this section, the housing element portion of the report required pursuant to subparagraph (B) of paragraph (2) of subdivision (a) that substantially complies with the requirements of this section, the court shall issue an order or judgment compelling compliance with this section within 60 days. If the city, county, or city and county fails to comply with the court’s order within 60 days, the plaintiff or petitioner may move for sanctions, and the court may, upon that motion, grant appropriate sanctions. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If the court determines that its order or judgment is not carried out within 60 days, the court may issue further orders as provided by law to ensure that the purposes and policies of this section are fulfilled. This subdivision applies to proceedings initiated on or after the first day of October following the adoption of forms and definitions by the Department of Housing and Community Development pursuant to paragraph (2) of subdivision (a), but no sooner than six months following that adoption.",
+    "(c) The Department of Housing and Community Development shall post a report submitted pursuant to this section on its internet website within a reasonable time of receiving the report.",
+    "(d) The remaining portion of the annual report not required by subparagraph (B) of paragraph (2) of subdivision (a), shall be prepared through the use of standards, forms, and definitions adopted by the Office of Land Use and Climate Innovation. The office may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2."
+   ],
+   "sec": "65400",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21159.9 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "The Office of Land Use and Climate Innovation shall implement a public assistance and information program to ensure efficient and effective implementation of this division and to do both of the following:",
+    "(a) Establish a public education and training program for planners, developers, and other interested parties to assist them in implementing this division.",
+    "(b) (1) (A) Establish and maintain a database for the collection, storage, retrieval, and dissemination of environmental documents, notices of exemption, notices of preparation, notices of determination, and notices of completion provided to the Office of Land Use and Climate Innovation. The database shall be available online to the public through the internet. The Office of Land Use and Climate Innovation may coordinate with another state agency to host and maintain the online database.",
+    "(B) The Office of Land Use and Climate Innovation may phase in the submission of electronic documents and use of the database by state and local public agencies.",
+    "(C) The Office of Land Use and Climate Innovation may include additional information in the database, including, but not limited to, information related to planning, permitting, grants, and procurement, for the purposes of facilitating efficient and informed decisionmaking by public agencies and members of the public.",
+    "(2) (A) The Office of Land Use and Climate Innovation may charge a fee upon the submission of electronic documents pursuant to this division to the database for the reasonable costs incurred in implementing this subdivision.",
+    "(B) (i) The State Clearinghouse Administrative Fund is hereby created in the State Treasury to be administered by the Office of Land Use and Climate Innovation.",
+    "(ii) The fees received pursuant to subparagraph (A) shall be deposited into the fund and shall be available, upon appropriation by the Legislature, to the Office of Land Use and Climate Innovation for purposes of implementing this subdivision.",
+    "(C) A fee charged pursuant to subparagraph (A) shall be subject to the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), and shall be adopted in accordance with a formal rulemaking process."
+   ],
+   "sec": "21159.9",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "State government.",
+ "title": "An act to amend Section 18824 of the Business and Professions Code, to add Chapter 7 (commencing with Section 99350) to Part 65 of Division 14 of Title 3 of the Education Code, to amend Sections 241, 242, and 4352 of, and to add Chapter 14.5 (commencing with Section 49025) to Division 17 of, the Food and Agricultural Code, to amend Sections 4526, 8310.4, 11549.53, 11549.59, 11856, 11860, 11865, 12527.6, 16418.7, 53115.1, 53115.2, and 65400 of, to add Sections 53121.1 and 53121.2 to, to add Article 4.7 (commencing with Section 12097.6) to Chapter 1.6 of Part 2 of Division 3 of Title 2 of, and to repeal Article 7 (commencing with Section 65059.1) of Chapter 1.5 of Division 1 of Title 7 of, the Government Code, to amend Sections 2204, 10304, 10306, and 10344 of, and to add Sections 1602, 1603, 1604, 1605, 1606, 1607, and 12112.1 to, the Public Contract Code, to amend Section 21159.9 of the Public Resources Code, and to repeal Section 2610.8 of the Revenue and Taxation Code, relating to state government, and making an appropriation therefor, to take effect immediately, bill related to the budget.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-23",
+   "id": "20250SB17299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-26",
+   "id": "20250SB17298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-06-29",
+   "id": "20250SB17297ENR",
+   "num": "97"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-07-13",
+   "id": "20250SB17296CHP",
+   "num": "96"
+  }
+ ]
+}

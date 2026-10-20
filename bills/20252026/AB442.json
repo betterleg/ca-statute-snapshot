@@ -1,0 +1,181 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hadwick",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Tangipa",
+   "primary": false
+  }
+ ],
+ "bill": "AB442",
+ "bill_id": "202520260AB442",
+ "chapter": {
+  "num": "504",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA exempts from its requirements prescribed fire, reforestation, habitat restoration, thinning, or fuel reduction projects, and certain related activities, undertaken in whole or in part on federal lands to reduce the risk of high-severity wildfire, if those projects and activities meet certain requirements.",
+  "This bill would exempt from CEQA prescribed fire, thinning, or fuel reduction projects undertaken within a community with a single ingress and egress evacuation route.",
+  "Because the bill would require the lead agency to determine whether the exemption is applicable to a project, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "eea55c419edca31f",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-06"
+  },
+  {
+   "action": "From printer. May be heard in committee March 9.",
+   "date": "2025-02-07"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-02-18"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (January 12). Re-referred to Com. on APPR.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Page 3806.)",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (January 22).",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 74. Noes 0. Page 3871.)",
+   "date": "2026-01-29"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-01-29"
+  },
+  {
+   "action": "Referred to Com. on N.R. & W.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on N.R. & W.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (June 9). Re-referred to Com. on APPR.",
+   "date": "2026-06-09"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 5188.).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 74. Noes 0. Page 6199.).",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4:30 p.m.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-27"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 504, Statutes of 2026.",
+   "date": "2026-09-27"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-27",
+  "id": "20250AB44295CHP",
+  "num": "95"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.52 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "This division does not apply to prescribed fire, thinning, or fuel reduction projects undertaken within a community with a single ingress and egress evacuation route."
+   ],
+   "sec": "21080.52",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Z’berg-Nejedly Forest Practice Act of 1973: working forest management plans: nonindustrial timber management plans.",
+ "title": "An act to add Section 21080.52 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-06",
+   "id": "20250AB44299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-21",
+   "id": "20250AB44298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-01",
+   "id": "20250AB44297AMD",
+   "num": "97"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-19",
+   "id": "20250AB44296ENR",
+   "num": "96"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-27",
+   "id": "20250AB44295CHP",
+   "num": "95"
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Gonzalez",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ransom",
+   "primary": false
+  }
+ ],
+ "bill": "SB827",
+ "bill_id": "202520260SB827",
+ "chapter": {
+  "num": "661",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law establishes the Office of Land Use and Climate Innovation within the Governor’s office to provide long-range planning and research and to serve as the comprehensive state planning agency. Existing law requires the Governor to prepare and maintain a comprehensive State Environmental Goals and Policy Report, consistent with specified state planning priorities.",
+  "This bill would make nonsubstantive changes to those provisions."
+ ],
+ "hash": "9794867aae08ee71",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 30.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 2. Page 969.) (April 30).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Set for hearing May 19.",
+   "date": "2025-05-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "May 19 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 5. Noes 1. Page 1214.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 28. Noes 10. Page 1290.) Ordered to the Assembly.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "June 18 set for first hearing canceled at the request of author.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (July 16). Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 10. Noes 2.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 64. Noes 7. Page 3011.) Ordered to the Senate.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 30. Noes 10. Page 2697.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-17"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-11"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 661, Statutes of 2025.",
+   "date": "2025-10-11"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-11",
+  "id": "20250SB82793CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65041 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "The Governor shall prepare and thereafter shall cause to be maintained, regularly reviewed, and revised a comprehensive State Environmental Goals and Policy Report. In the preparation of the report, priority shall be given to the development of statewide land use policy, including the recommendations resulting from the land use planning and implementation program set forth in Section 65040.6, and including the recommendations of the Planning Advisory and Assistance Council established pursuant to subdivision (a) of Section 65040.6. The report shall contain, but not be limited to, the following:",
+    "(a) An overview, looking 20 to 30 years ahead, of state growth and development and a statement of approved state environmental goals and objectives, including those directed to land use, population growth and distribution, development, the conservation of natural resources, and air and water quality.",
+    "(b) Description of new and revised state policies, programs and other actions of the executive and legislative branches required to implement statewide environmental goals, including intermediate-range plans and actions directed to natural resources, human resources, and transportation.",
+    "(c) On and after January 1, 2004, any revision to the report shall provide that the goals are consistent with the state planning priorities specified pursuant to Section 65041.1."
+   ],
+   "sec": "65041",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Local agency officials: training.",
+ "title": "An act to amend Section 65041 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB82799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-26",
+   "id": "20250SB82798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-01",
+   "id": "20250SB82797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-12",
+   "id": "20250SB82796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-02",
+   "id": "20250SB82795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250SB82794ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-11",
+   "id": "20250SB82793CHP",
+   "num": "93"
+  }
+ ]
+}

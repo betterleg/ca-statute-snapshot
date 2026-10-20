@@ -1,0 +1,246 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ahrens",
+   "primary": true
+  }
+ ],
+ "bill": "AB2231",
+ "bill_id": "202520260AB2231",
+ "chapter": {
+  "num": "926",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA establishes administrative procedures for the review and certification of the EIR for a project and judicial review procedures for any action or proceeding brought to challenge the lead agency’s decision to certify the EIR or to grant project approvals.",
+  "This bill would establish streamlined procedures for the administrative and judicial review of the environmental review and approvals granted for an environmental leadership hospital campus project, defined by the bill as a construction project of a hospital campus in the City of Santa Clara, under certain conditions. The bill would require the city council of the City of Santa Clara to certify the project for the streamlined judicial review, as specified, if it finds the project will meet those conditions. The bill would require the applicant of the environmental leadership hospital campus project to take certain actions in order for those specified procedures to apply to the project. The bill would require a certified project to meet certain labor requirements. The bill would require the Judicial Council, on or before July 1, 2027, to adopt rules of court establishing procedures requiring actions or proceedings seeking judicial review of the certification of an environmental impact report for a certified environmental leadership hospital campus project or the granting of any project approval, including any appeals to the court of appeal or the Supreme Court, to be resolved, to the extent feasible, within 270 calendar days of the filing of the certified record of proceedings with the court. The bill would require the lead agency to concurrently prepare the record of proceedings with the environmental review, as provided.",
+  "Because the bill would impose additional duties on a local agency, this bill would impose a state-mandated local program.",
+  "This bill would make legislative findings and declarations as to the necessity of a special statute for the City of Santa Clara.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "aa4fdad0542b2469",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2026-03-24"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 14. Noes 0.) (April 20).",
+   "date": "2026-04-21"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 6).",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-07"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 70. Noes 1. Page 5005.)",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and JUD.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 0.) (June 24). Re-referred to Com. on JUD.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (June 30). Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-04"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0.).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0. Page 6873.).",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2026-09-10"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 926, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250AB223194CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21168.6.5 is added to the Public Resources Code , immediately following Section 21168.6.2 , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, all of the following definitions apply:",
+    "(1) “Applicant” means a person proposing to construct an environmental leadership hospital campus project.",
+    "(2) “City” means the City of Santa Clara.",
+    "(3) “Environmental leadership hospital campus project” or “project” means a project for the construction of a hospital campus that is located within the city on a site that has been previously developed, or on a vacant site where at least 75 percent of the perimeter of the site adjoins, or is separated only by an improved public right-of-way from, parcels that are developed with qualified urban uses.",
+    "(b) The city council of the city shall certify an environmental leadership hospital campus project for streamlining pursuant to this section before the lead agency certifies the final environmental impact report for the project if the city council finds that all of the following conditions will be met:",
+    "(1) The project will result in an investment of at least one billion dollars ($1,000,000,000) in California upon completion of the construction.",
+    "(2) The project will not result in any net additional greenhouse gas emissions. A project is deemed to meet the requirements of this paragraph if the applicant demonstrates to the lead agency that it has made a binding commitment to mitigate impacts resulting from the greenhouse gas emissions, if any, in accordance with Section 21183.6. At least 50 percent of any greenhouse gas emissions reductions necessary to achieve the requirement of this paragraph shall be from onsite or within the Bay Area Air Quality Management District.",
+    "(3) (A) The applicant will enter into a legally binding and enforceable community benefits agreement with the lead agency that may include, but is not limited to, any of the following mitigation measures:",
+    "(i) All new buildings within the project will use electricity for the buildings’ energy needs.",
+    "(ii) The energy demand of the project will be met by carbon-free energy resources.",
+    "(iii) The project will provide an amount of zero-emission vehicle charging stations that meets or exceeds the amount required by law and will provide charging for zero-emission vehicles free of charge.",
+    "(iv) Improvements to public transportation operations and service, such as the purchase of zero-emission buses or technology investments.",
+    "(B) Notwithstanding any other provisions of this division, the measures identified to meet the requirement in subparagraph (A) will be additional to any other mitigation measures required pursuant to this division, and will be undertaken in, and directly benefit, the affected community.",
+    "(4) The project will achieve a reduction in vehicle miles traveled per capita of at least 15 percent compared to existing development consistent with the Office of Land Use and Climate Innovation’s Technical Advisory on Evaluating Transportation Impacts in CEQA.",
+    "(5) The project will obtain certification as Leadership in Energy and Environmental Design (LEED) gold standard or better from the United States Green Building Council for all new construction that is eligible for LEED certification.",
+    "(6) The project will generate at least 500 jobs during construction.",
+    "(7) The project creates high-wage, highly skilled jobs that pay prevailing wages and living wages, employs a skilled and trained workforce, as defined in subdivision (d) of Section 2601 of the Public Contract Code, provides construction jobs and permanent jobs for Californians, and helps reduce unemployment. For purposes of this subdivision, “jobs that pay prevailing wages” means that all construction workers employed in the execution of the project will receive at least the general prevailing rate of per diem wages for the type of work and geographic area, as determined by the Director of Industrial Relations pursuant to Sections 1773 and 1773.9 of the Labor Code.",
+    "(8) The applicant demonstrates compliance with the requirements of Chapters 12.8 (commencing with Section 42649) and 12.9 (commencing with Section 42649.8) of Part 3 of Division 30, as applicable.",
+    "(9) The applicant agrees that all mitigation measures required pursuant to this division and any other environmental measures required by this section to certify the project under this section shall be conditions of approval of the project, and those conditions will be fully enforceable by the lead agency or another agency designated by the lead agency. In the case of environmental mitigation measures and any other environmental measures required by this section, the applicant agrees, as an ongoing obligation, that those measures will be monitored and enforced by the lead agency for the life of the obligation. The applicant shall submit to the lead agency an annual status report on the implementation of the environmental mitigation measures and any other environmental measures required by this section.",
+    "(10) The applicant agrees to pay the costs of the trial court and the court of appeal in hearing and deciding any case subject to this section, including payment of the costs for the appointment of a special master if deemed appropriate by the court, in a form and manner provided in the rules of court adopted by the Judicial Council pursuant to subdivision (d).",
+    "(11) The applicant agrees to pay the costs of preparing the record of proceedings for the project concurrent with review and consideration of the project pursuant to this division, in a form and manner specified by the lead agency for the project.",
+    "(c) (1) If the project is certified pursuant to subdivision (b), all of the following shall apply:",
+    "(A) The applicant shall ensure that the prevailing wage requirement is included in all contracts for the performance of work.",
+    "(B) All contractors and subcontractors shall pay to workers employed in the execution of the work at least the general prevailing rate of per diem wages determined by the Director of Industrial Relations pursuant to Sections 1773 and 1773.9 of the Labor Code, except that apprentices registered in programs approved by the Chief of the Division of Apprenticeship Standards may be paid at least the applicable apprentice prevailing rate.",
+    "(C) Except as provided in subparagraph (E), all contractors and subcontractors shall maintain and verify payroll records pursuant to Section 1776 of the Labor Code and make those records available for inspection and copying as provided therein.",
+    "(D) Except as provided in subparagraph (E), the obligation of the contractors and subcontractors to pay prevailing wages may be enforced by the Labor Commissioner through the issuance of a civil wage and penalty assessment pursuant to Section 1741 of the Labor Code, which may be reviewed pursuant to Section 1742 of the Labor Code, within 18 months after the completion of the project, or by an underpaid worker through an administrative complaint or civil action, or by a joint labor-management committee though a civil action under Section 1771.2 of the Labor Code. If a civil wage and penalty assessment is issued, the contractor, subcontractor, and surety on a bond or bonds issued to secure the payment of wages covered by the assessment shall be liable for liquidated damages pursuant to Section 1742.1 of the Labor Code.",
+    "(E) Subparagraphs (C) and (D) do not apply if all contractors and subcontractors performing work on the project are subject to a project labor agreement that requires the payment of prevailing wages to all workers employed in the execution of the project and provides for enforcement of that obligation through an arbitration procedure.",
+    "(F) Notwithstanding subdivision (c) of Section 1773.1 of the Labor Code, the requirement that employer payments not reduce the obligation to pay the hourly straight time or overtime wages found to be prevailing shall not apply if otherwise provided in a bona fide collective bargaining agreement covering the worker. The requirement to pay at least the general prevailing rate of per diem wages does not preclude use of an alternative workweek schedule adopted pursuant to Section 511 or 514 of the Labor Code.",
+    "(2) In addition to the requirements of paragraph (1), if the project is certified pursuant to subdivision (b), all of the following shall apply:",
+    "(A) The applicant shall require in all contracts for the performance of work that every contractor and subcontractor at every tier will individually use a skilled and trained workforce to complete the project.",
+    "(B) Every contractor and subcontractor shall use a skilled and trained workforce to complete the project.",
+    "(C) Except as provided in subparagraph (D), the applicant shall provide to the lead agency, on a monthly basis while the project is being performed, a report demonstrating compliance with Chapter 2.9 (commencing with Section 2600) of Part 1 of Division 2 of the Public Contract Code. A monthly report provided to the lead agency pursuant to this subparagraph shall be a public record under the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code) and shall be open to public inspection. An applicant that fails to provide a monthly report demonstrating compliance with Chapter 2.9 (commencing with Section 2600) of Part 1 of Division 2 of the Public Contract Code shall be subject to a civil penalty of ten thousand dollars ($10,000) per month for each month for which the report has not been provided. Any contractor or subcontractor that fails to use a skilled and trained workforce shall be subject to a civil penalty of two hundred dollars ($200) per day for each worker employed in contravention of the skilled and trained workforce requirement. Penalties may be assessed by the Labor Commissioner within 18 months of completion of the project using the same procedures for issuance of civil wage and penalty assessments as apply pursuant to Section 1741 of the Labor Code, and may be reviewed pursuant to the same procedures as are provided in Section 1742 of the Labor Code. Penalties shall be paid to the State Public Works Enforcement Fund.",
+    "(D) Subparagraph (C) does not apply if all contractors and subcontractors performing work on the project are subject to a project labor agreement that requires compliance with the skilled and trained workforce requirement and provides for enforcement of that obligation through an arbitration procedure.",
+    "(3) For purposes of this subdivision, the following terms apply:",
+    "(A) “Project labor agreement” means a prehire collective bargaining agreement that establishes terms and conditions of employment for a specific construction project or projects and is an agreement described in Section 158(f) of Title 29 of the United States Code.",
+    "(B) “Skilled and trained workforce” has the same meaning as provided in Chapter 2.9 (commencing with Section 2600) of Part 1 of Division 2 of the Public Contract Code.",
+    "(d) On or before July 1, 2027, the Judicial Council shall adopt rules of court that apply to any action or proceeding brought to attack, review, set aside, void, or annul the certification of an environmental impact report for a certified environmental leadership hospital campus project or the granting of any project approval that requires the action or proceeding, including any potential appeals to the court of appeal or the Supreme Court, to be resolved, to the extent feasible, within 270 calendar days of the filing of the certified record of proceedings with the court.",
+    "(e) (1) The draft and final environmental impact report for a certified environmental leadership hospital campus project shall include a notice in not less than 12-point type stating the following:",
+    "THIS ENVIRONMENTAL IMPACT REPORT IS SUBJECT TO SECTION 21168.6.5 OF THE PUBLIC RESOURCES CODE, WHICH PROVIDES, AMONG OTHER THINGS, THAT THE LEAD AGENCY NEED NOT CONSIDER CERTAIN COMMENTS FILED AFTER THE CLOSE OF THE PUBLIC COMMENT PERIOD, IF ANY, FOR THE DRAFT ENVIRONMENTAL IMPACT REPORT. ANY JUDICIAL ACTION CHALLENGING THE CERTIFICATION OR ADOPTION OF THE ENVIRONMENTAL IMPACT REPORT OR THE APPROVAL OF THE PROJECT DESCRIBED IN SECTION 21168.6.5 OF THE PUBLIC RESOURCES CODE IS SUBJECT TO THE PROCEDURES SET FORTH IN THAT SECTION. A COPY OF SECTION 21168.6.5 OF THE PUBLIC RESOURCES CODE IS INCLUDED IN THE APPENDIX TO THIS ENVIRONMENTAL IMPACT REPORT.",
+    "(2) The draft environmental impact report and final environmental impact report shall contain, as an appendix, the full text of this section.",
+    "(3) The lead agency need not consider written comments on the draft environmental impact report submitted after the close of the public comment period, unless those comments address any of the following:",
+    "(A) New issues raised in the response to comments by the lead agency.",
+    "(B) New information released by the lead agency subsequent to the release of the draft environmental impact report, such as new information set forth or embodied in a staff report, proposed permit, proposed resolution, ordinance, or similar documents.",
+    "(C) Changes made to the project after the close of the public comment period.",
+    "(D) Proposed conditions for approval, mitigation measures, or proposed findings required by Section 21081 or a proposed reporting or monitoring program required by paragraph (1) of subdivision (a) of Section 21081.6, if the lead agency releases those documents subsequent to the release of the draft environmental impact report.",
+    "(E) New information that was not reasonably known and could not have been reasonably known during the public comment period.",
+    "(4) The lead agency shall file the notice required by subdivision (a) of Section 21152 within five working days after the last initial project approval.",
+    "(f) Notwithstanding any other law, the preparation and certification of the record of proceedings for a certified environmental leadership hospital campus project shall be performed in the following manner:",
+    "(1) The lead agency for the project shall prepare the record of proceedings concurrently with the administrative process.",
+    "(2) Commencing with the date of the release of the draft environmental impact report, all documents and other materials placed in the record of proceedings shall be posted on, and be downloadable from, an internet website maintained by the lead agency.",
+    "(3) The lead agency shall make available to the public in a readily accessible electronic format the draft environmental impact report and all other documents submitted to, or relied on by, the lead agency for purposes of preparing the draft environmental impact report.",
+    "(4) Any document prepared by the lead agency or submitted by the applicant after the date of the release of the draft environmental impact report that is a part of the record of the proceedings shall be made available to the public in a readily accessible electronic format within 30 days after the document is released or received by the lead agency.",
+    "(5) The lead agency shall encourage written comments on the project to be submitted in a readily accessible electronic format, and shall make any comment available to the public in a readily accessible electronic format within 30 days of its receipt.",
+    "(6) Within 30 days after the receipt of any comment that is not in an electronic format, the lead agency shall convert that comment into a readily accessible electronic format and make it available to the public in that format.",
+    "(7) Notwithstanding paragraphs (2) to (6), inclusive, documents submitted to or relied on by the lead agency that were not prepared specifically for the project and are copyright protected are not required to be made readily accessible in an electronic format. For those copyright-protected documents, the lead agency shall make an index of these documents available in an electronic format no later than the date of the release of the draft environmental impact report, or within 30 days if the document is received or relied on by the lead agency after the release of the draft environmental impact report. The index must specify the libraries or lead agency offices in which hardcopies of the copyrighted materials are available for public review.",
+    "(8) The lead agency shall certify the final record of proceedings within five days of its approval of the project.",
+    "(9) Any dispute arising from the record of proceedings shall be resolved by the superior court. Unless the superior court directs otherwise, a party disputing the content of the record shall file a motion to augment the record at the time it files its initial brief.",
+    "(10) The contents of the record of proceedings shall be as set forth in subdivision (e) of Section 21167.6."
+   ],
+   "sec": "21168.6.5",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: hospital projects.",
+ "title": "An act to add Section 21168.6.5 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250AB223199INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-23",
+   "id": "20250AB223198AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-22",
+   "id": "20250AB223197AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB223196AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-03",
+   "id": "20250AB223195ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250AB223194CHP",
+   "num": "94"
+  }
+ ]
+}

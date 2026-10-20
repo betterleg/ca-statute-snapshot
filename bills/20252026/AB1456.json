@@ -1,0 +1,147 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bryan",
+   "primary": true
+  }
+ ],
+ "bill": "AB1456",
+ "bill_id": "202520260AB1456",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA authorizes the preparation and certification of an EIR for a program, plan, policy, or ordinance, commonly known as a “program EIR,” and requires a lead agency to examine later activities in the program in light of the program EIR to determine whether an additional environmental document is required to be prepared.",
+  "This bill would require, on or before January 1, 2027, the State Board of Forestry and Fire Protection to update the California Vegetation Treatment Program Final Program Environmental Impact Report (FPEIR) to, among other things, expand the area that is treatable landscape under the FPEIR to portions of the state suitable for vegetation treatment consistent with the FPEIR, regardless of fire suppression responsibility designation, and recognize cultural burning conducted pursuant to a specified law as a covered treatment activity. The bill would authorize a public agency to partner with a federally recognized California Native American tribe to conduct a project under the FPEIR in the agency’s jurisdiction."
+ ],
+ "hash": "24dd7e277764b689",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-03-13"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 14. Noes 0.) (April 28). Re-referred to Com. on APPR.",
+   "date": "2025-04-29"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 79. Noes 0. Page 1997.)",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and N.R. & W.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on N.R. & W. (Ayes 8. Noes 0.) (July 2). Re-referred to Com. on N.R. & W.",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (July 16).",
+   "date": "2025-07-18"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-18"
+  },
+  {
+   "action": "In committee: Referred to suspense file.",
+   "date": "2025-08-18"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2025-08-29"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-07-18",
+  "id": "20250AB145697AMD",
+  "num": "97"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 21088.1 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, “FPEIR” means the Final Program Environmental Impact Report for the California Vegetation Treatment Program, certified by the State Board of Forestry and Fire Protection on December 30, 2019.",
+    "(b) On or before January 1, 2027, the State Board of Forestry and Fire Protection shall update the FPEIR in accordance with Section 21166. The update shall, at a minimum, do all of the following:",
+    "(1) Expand the area that is treatable landscape under the FPEIR to portions of the state suitable for vegetation treatment consistent with the FPEIR, including for the treatment types of ecological restoration, fuel breaks, and wildland-urban interface fuel reduction, regardless of fire suppression responsibility designation.",
+    "(2) Require a project under the FPEIR to incorporate in its project description the disposition of biomass generated by vegetation treatments, as necessary, including any commercial sale of biomass for the purpose of cost recovery.",
+    "(3) Include provisions that recognize the dual objectives of cultural and ecological restoration through vegetation management activities that integrate indigenous knowledge and tribal ecological knowledge, and recognize cultural burning conducted pursuant to Section 4505 as a covered treatment activity.",
+    "(4) Undertake any amendments necessary to implement the objectives stated in the Governor’s Proclamation of a State of Emergency, dated March 1, 2025.",
+    "(c) The FPEIR shall remain in full effect and may continue to serve as the basis for later project-specific environmental analyses to support vegetation treatment projects while the update pursuant to subdivision (b) is being prepared.",
+    "(d) A public agency may partner with a federally recognized California Native American tribe to conduct a project under the FPEIR in the agency’s jurisdiction."
+   ],
+   "sec": "21088.1",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: California Vegetation Treatment Program.",
+ "title": "An act to add Section 21088.1 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB145699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB145698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-18",
+   "id": "20250AB145697AMD",
+   "num": "97"
+  }
+ ]
+}

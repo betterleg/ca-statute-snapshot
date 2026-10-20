@@ -1,0 +1,165 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Tangipa",
+   "primary": true
+  }
+ ],
+ "bill": "AB66",
+ "bill_id": "202520260AB66",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would, until January 1, 2032, exempt from CEQA egress route projects undertaken by a public agency to improve emergency access to and evacuation from a subdivision without a secondary egress route if the State Board of Forestry and Fire Protection has recommended the creation of a secondary access to the subdivision and certain conditions are met. The bill would require the lead agency to hold a noticed public meeting to hear and respond to public comments before determining that a project is exempt. The bill would require the lead agency, if it determines that a project is not subject to CEQA and approves or carries out that project, to file a notice of exemption with the Office of Land Use and Climate Innovation and with the clerk of the county in which the project will be located."
+ ],
+ "hash": "694c4288afc350c1",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2024-12-03"
+  },
+  {
+   "action": "From printer. May be heard in committee January 3.",
+   "date": "2024-12-04"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-01-06"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-02-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (March 24). Re-referred to Com. on APPR.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 58. Noes 1. Page 2115.)",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and N.R. & W.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on N.R. & W. (Ayes 7. Noes 0.) (July 2).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on N.R. & W.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2025-07-16"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-07-03",
+  "id": "20250AB6697AMD",
+  "num": "97"
+ },
+ "location": "CS55",
+ "sections": [
+  {
+   "action": "Section 21080.53 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, the following definitions apply:",
+    "(1) “Riparian area” means an area that is transitional between terrestrial and aquatic ecosystems, that is distinguished by gradients in biophysical conditions, ecological processes, and biota, and that meets all of the following criteria:",
+    "(A) Is an area through which surface and subsurface hydrology connect bodies of water with their adjacent uplands.",
+    "(B) Is adjacent to perennial, intermittent, and ephemeral streams, lakes, or estuarine or marine shorelines.",
+    "(C) Includes those portions of terrestrial ecosystems that significantly influence exchanges of energy and matter with aquatic ecosystems.",
+    "(2) “Subdivision” means a residential development or community of more than 30 dwelling units.",
+    "(3) “Wetlands” has the same meaning as defined in the United States Fish and Wildlife Service Manual, Part 660 FW 2 (June 21, 1993).",
+    "(b) This division does not apply to an egress route project to improve emergency access to and evacuation from a subdivision without a secondary egress route if the subdivision has been identified by the State Board of Forestry and Fire Protection pursuant to Section 4290.5, the State Board of Forestry and Fire Protection has recommended the creation of a secondary access to the subdivision, and all of the following conditions are met:",
+    "(1) The subdivision has insufficient egress routes, as determined by the lead agency.",
+    "(2) The subdivision is located in either of the following:",
+    "(A) A state responsibility area that is classified a high or very high fire hazard severity zone pursuant to Section 4202.",
+    "(B) A very high fire hazard severity zone, as identified pursuant to Section 51178 of the Government Code.",
+    "(3) The location of the project does not contain wetlands or riparian areas.",
+    "(4) The project does not harm or take any species protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code), the Guidelines for Implementation of the California Environmental Quality Act (Chapter 3 (commencing with Section 15000) of Division 6 of Title 14 of the California Code of Regulations), or the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code).",
+    "(5) The project does not cause the destruction or removal of any species protected by an applicable local ordinance.",
+    "(6) The project does not affect known archaeological, historical, or other cultural resources.",
+    "(7) The project is carried out by a public agency.",
+    "(A) The public agency consults with the Department of Fish and Wildlife during project development.",
+    "(B) A consultation pursuant to this paragraph shall meet all of the following requirements:",
+    "(i) Occur as soon as feasible during project development.",
+    "(ii) Occur in writing.",
+    "(iii) Include, at a minimum, a discussion of the project’s avoidance and minimization methods and permitting needs.",
+    "(9) (A) The egress route is scaled to the existing population of the subdivision.",
+    "(B) The requirement of subparagraph (A) is met if the egress route is designed to the scale set forth in the most recent edition of A Policy on Geometric Design of Highways and Streets developed by the American Association of State Highway and Transportation Officials and adopted by the Federal Highway Administration, for the number of vehicle trips generated by the existing land uses in the subdivision served by the egress route, as determined in accordance with the most recent edition of the Trip Generation Manual published by the Institute of Transportation Engineers.",
+    "(10) The lead agency determines that the primary purpose of the project is fire safety egress.",
+    "(11) Any commercial timber harvest is incidental to the project’s primary purpose and complies with the Z’berg-Nejedly Forest Practice Act of 1973 (Chapter 8 (commencing with Section 4511) of Part 2 of Division 4).",
+    "(12) If the project involves substantial tree removal, as determined by a registered professional forester, the entity carrying out the project has a registered professional forester or the forester’s designee onsite during the implementation of the project to assist with resource identification and protection. The registered professional forester or the forester’s designee shall be required onsite only on days during which trees are removed.",
+    "(13) The entity carrying out the project complies with Chapter 4 (commencing with Section 895) of Division 1.5 of Title 14 of the California Code of Regulations, as applicable, to ensure resource protection. The entity carrying out the project shall consult early in the design of the project with the appropriate environmental resource professionals, including registered professional foresters, environmental scientists, archaeologists, hydrologists, soil scientists, fire scientists, and other experts in natural resource protection.",
+    "(14) The lead agency determines that the project has obtained, or is able to obtain, all necessary funding and any federal, state, and local approvals within one year of the filing of the notice of exemption pursuant to subdivision (d).",
+    "(15) All roads that comprise the egress route are publicly accessible to vehicular traffic at all times.",
+    "(16) The egress route is consistent with the circulation element of an applicable general plan.",
+    "(c) Before determining that a project is not subject to this division pursuant to this section, the lead agency shall hold a noticed public meeting on the project to hear and respond to public comments. Publication of the notice shall be no fewer times than required by Section 6061 of the Government Code and shall be published in a newspaper of general circulation in the area of the project.",
+    "(d) If the lead agency determines that a project is not subject to this division pursuant to this section, and the lead agency determines to approve or carry out that project, the lead agency shall file a notice of exemption with the Office of Land Use and Climate Innovation and the county clerk in the county in which the project is located in the manner specified in subdivisions (b) and (c) of Section 21152.",
+    "(e) The application and implementation of this section shall be limited to the purposes of this division.",
+    "(f) This section shall remain in effect only until January 1, 2032, and as of that date is repealed."
+   ],
+   "sec": "21080.53",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: exemption: egress route projects: fire safety.",
+ "title": "An act to add and repeal Section 21080.53 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2024-12-03",
+   "id": "20250AB6699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-02-24",
+   "id": "20250AB6698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-03",
+   "id": "20250AB6697AMD",
+   "num": "97"
+  }
+ ]
+}

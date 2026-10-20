@@ -1,0 +1,291 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Stern",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "McNerney",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Petrie-Norris",
+   "primary": false
+  }
+ ],
+ "bill": "SB614",
+ "bill_id": "202520260SB614",
+ "chapter": {
+  "num": "529",
+  "year": "2025"
+ },
+ "digest": [
+  "The Elder California Pipeline Safety Act of 1981 requires the State Fire Marshal to administer provisions regulating the inspection of intrastate pipelines that transport hazardous liquids. A person who willfully and knowingly violates the act or a regulation issued pursuant to the act is, upon conviction, subject to a fine, imprisonment, or both a fine and imprisonment, as provided.",
+  "The California Global Warming Solutions Act of 2006 establishes the State Air Resources Board as the state agency responsible for monitoring and regulating sources emitting greenhouse gases. The act requires the state board to ensure that statewide greenhouse gas emissions are reduced to at least 40% below the statewide greenhouse gas emissions limit, as defined, no later than December 31, 2030.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would revise the definition of “pipeline,” for purposes of the Elder California Pipeline Safety Act of 1981, to include intrastate pipelines used for the transportation of carbon dioxide. The bill would require the State Fire Marshal, by July 1, 2026, to adopt regulations governing the safe transportation of carbon dioxide in pipelines that, at a minimum, are as protective as certain draft regulations issued by the federal Pipeline and Hazardous Materials Safety Administration on January 10, 2025. The bill would authorize the State Fire Marshal to amend those regulations, as provided. The bill would prohibit the approval of a pipeline for use in transporting carbon dioxide if the pipeline is originally constructed to transport any other liquid or gas, and would prohibit the construction of those pipelines using previously used pipe or components. The bill would prohibit an operator from constructing a pipeline transporting carbon dioxide in a location where one or more sensitive receptors, as defined, are located within the emergency planning zone of the pipeline, which is defined as an area within 2 miles of either side of the pipeline, except as provided. The bill would require an operator of a pipeline transporting carbon dioxide to submit to the State Fire Marshal and the public agency that is the lead agency for the project that includes the pipeline an emergency planning zone inventory and map, as provided, and would require the State Fire Marshal and the lead agency to review, at least once every 3 years, the inventory and map for completeness and accuracy. The bill would require the operator, at least once every 3 years, to provide to local governments providing emergency response services to sensitive receptors within an emergency planning zone the inventory and map determined by the State Fire Marshal and the lead agency to be complete and accurate and any updates to the inventory and map. The bill would require the State Fire Marshal and the lead agency to make publicly available on its internet website all inventories and maps determined to be current, complete, and accurate and would require the State Fire Marshal and the lead agency to redact any personally identifiable information from the publicly available inventories and maps. To the extent this requirement imposes additional duties on a local agency regarding the posting of, and the redaction of information from, the inventories and maps, this bill would impose a state-mandated local program. The bill would require the operator to annually provide the map to sensitive receptors within the emergency planning zone of the pipeline. The bill would authorize the State Fire Marshal, for a pipeline transporting carbon dioxide, to order a pipeline shutdown for violations of state or federal laws, or if continued pipeline operations present an immediate danger to health, welfare, or the environment. The bill would, in the event of a pipeline rupture, require the pipeline to remain nonoperational until an investigation into the pipeline rupture is completed and the origin and cause of the pipeline rupture is determined. Because the bill would expand the application of a crime to pipelines transporting carbon dioxide and because a violation of the regulations adopted by the State Fire Marshal related to pipelines transporting carbon dioxide would be a crime, the bill would impose a state-mandated local program. The bill would require that to be recognized by the state board for meeting any requirement under the California Global Warming Solutions Act of 2006, carbon dioxide transported by pipeline be transported only by pipelines meeting or exceeding the standards adopted by the State Fire Marshal.",
+  "This bill would, for a project that includes the construction of a pipeline transporting carbon dioxide subject to the requirements of the Elder California Pipeline Safety Act of 1981, require the lead agency to prepare or cause to be prepared an EIR or equivalent documentation, as defined, and to certify or adopt those documents for the project. The bill would require the lead agency, upon the completion of a draft EIR or draft equivalent documentation, to notify owners and operators of sensitive receptors within 14 mile of the proposed pipeline and the State Fire Marshal, as provided. The bill would require the lead agency, at least 60 days before the certification of the EIR or the adoption of the equivalent documentation, to notify the State Fire Marshal of the project. By imposing additional duties on a lead agency, the bill would impose a state-mandated local program. The bill would require that the State Fire Marshal provide to the lead agency, in writing, its confirmation that the pipeline is constructed consistent with the Elder California Pipeline Safety Act of 1981 and to make the determination publicly available on its internet website.",
+  "Existing law requires that pipelines only be used to transport carbon dioxide to or from a carbon dioxide capture, removal, or sequestration project once the federal Pipeline and Hazardous Materials Safety Administration has concluded its rulemaking regarding minimum federal safety standards for transportation of carbon dioxide by pipeline.",
+  "This bill would limit the language restricting the transportation of carbon dioxide by pipeline to apply only to federally regulated interstate pipelines, and would require that intrastate pipelines be used to transport carbon dioxide to or from a carbon dioxide capture, removal, or sequestration project only after the State Fire Marshal adopts its regulations pursuant to the bill and only once the project operator demonstrates that the pipelines meet the standards in those regulations.",
+  "Existing law assesses a civil penalty for a violation of the act or regulations adopted pursuant to the act. Existing law requires civil penalties assessed for violation, upon appropriation by the Legislature, to be available to the State Fire Marshal to provide hazardous liquid fire suppression training to local fire departments.",
+  "This bill would additionally authorize the assessed civil penalties to be used to provide fire responder training for hazardous gas response and suppression training to local fire departments.",
+  "Existing constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.",
+  "This bill would make legislative findings to that effect.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for specified reasons.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "f9c4f7b4f37f64fd",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Com. on N.R. & W.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on N.R. & W.",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-03-27"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2025-03-27"
+  },
+  {
+   "action": "Re-referred to Coms. on G.O. and E.Q.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "Set for hearing April 30 in E.Q. pending receipt.",
+   "date": "2025-04-17"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on E.Q. (Ayes 11. Noes 2. Page 830.) (April 22).",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on E.Q.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 964.) (April 30).",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Set for hearing May 19.",
+   "date": "2025-05-09"
+  },
+  {
+   "action": "May 19 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 6. Noes 0. Page 1206.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 38. Noes 0. Page 1511.) Ordered to the Assembly.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and E.M.",
+   "date": "2025-06-16"
+  },
+  {
+   "action": "Re-referred to Coms. on U. & E. and NAT. RES. pursuant to Assembly Rule 96.",
+   "date": "2025-06-19"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on NAT. RES. (Ayes 17. Noes 0.) (July 9). Re-referred to Com. on NAT. RES.",
+   "date": "2025-07-10"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on NAT. RES.",
+   "date": "2025-07-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (July 14). Re-referred to Com. on APPR.",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 29).",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Assembly Rule 69(b)(1) suspended.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 74. Noes 0. Page 3359.) Ordered to the Senate.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 37. Noes 0. Page 3021.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-23"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 529, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB61491CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21087 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, the following definitions apply:",
+    "(1) “Equivalent documentation” means a plan or other written documentation described in paragraph (3) of subdivision (d) of Section 21080.5.",
+    "(2) “Sensitive receptors” has the same meaning as set forth in Section 51010.5 of the Government Code.",
+    "(b) For a project that includes the construction of a pipeline transporting carbon dioxide subject to the Elder California Pipeline Safety Act of 1981 (Chapter 5.5 (commencing with Section 51010) of Part 1 of Division 1 of Title 5 of the Government Code), the lead agency shall prepare or cause to be prepared and certify an environmental impact report consistent with this division or equivalent documentation.",
+    "(c) (1) In addition to other notices required by this division or by another law, the lead agency shall, upon the completion of a draft environmental impact report or draft equivalent documentation, provide a notice to owners and operators of sensitive receptors that are within one-quarter mile of the proposed pipeline and to the State Fire Marshal in a manner consistent with Section 21092, that includes all of the following:",
+    "(A) A brief description of the proposed pipeline that includes the proposed map required by subdivision (a) of Section 51015.06 of the Government Code.",
+    "(B) The proposed location of the proposed pipeline depicted on a United States Geological Survey topographical map identified by quadrangle name.",
+    "(C) An address where copies of the draft document are available.",
+    "(D) The review period during which comments will be received on the draft document.",
+    "(2) This subdivision shall not be construed in any manner that results in the invalidation of an action by the lead agency because of the failure of a person to receive a notice under this subdivision if there has been substantial compliance with the requirements of this subdivision.",
+    "(d) (1) At least 60 days before certification of the environmental impact report or the adoption of equivalent documentation, the lead agency shall notify the State Fire Marshal of the project and provide sufficient information for the State Fire Marshal to make a determination pursuant to this subdivision.",
+    "(2) Upon notification of the project, the State Fire Marshal shall provide to the lead agency a written confirmation whether the proposed pipeline is consistent with the requirements of the Elder California Pipeline Safety Act of 1981 (Chapter 5.5 (commencing with Section 51010) of Part 1 of Division 1 of Title 5 of the Government Code).",
+    "(3) The State Fire Marshal shall make publicly available on its internet website the determination made pursuant to paragraph (1)."
+   ],
+   "sec": "21087",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Public resources: transportation of carbon dioxide.",
+ "title": "An act to amend Sections 51010, 51010.5, and 51018.6 of, and to add Sections 51011.5, 51011.6, 51015.06, and 51018.9 to, the Government Code, to amend Section 116375 of, and to add Section 39741.7 to, the Health and Safety Code, and to amend Section 71465 of, and to add Section 21087 to, the Public Resources Code, relating to public resources.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250SB61499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-26",
+   "id": "20250SB61498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-23",
+   "id": "20250SB61497AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-05",
+   "id": "20250SB61496AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-10",
+   "id": "20250SB61495AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-03",
+   "id": "20250SB61494AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-05",
+   "id": "20250SB61493AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-18",
+   "id": "20250SB61492ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB61491CHP",
+   "num": "91"
+  }
+ ]
+}

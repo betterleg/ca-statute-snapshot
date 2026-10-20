@@ -1,0 +1,78 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Macedo",
+   "primary": true
+  }
+ ],
+ "bill": "AB2132",
+ "bill_id": "202520260AB2132",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "Existing law, the Sustainable Groundwater Management Act, requires all groundwater basins designated as high- or medium-priority basins by the Department of Water Resources to be managed under a groundwater sustainability plan or coordinated groundwater plans, except as specified. Existing law requires a groundwater sustainability plan to include various information relating to subsidence, as applicable.",
+  "This bill would exempt from the requirements of CEQA a groundwater recharge project if the Secretary of the Natural Resources Agency determines the project would address subsidence. Because a lead agency would be required to determine whether a project qualifies for this exemption, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "24c6b51ebe339c2a",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be heard in committee March 21.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and W., P., & W.",
+   "date": "2026-03-09"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 4467.)",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "(Pending re-refer to Com. on W., P., & W.)",
+   "date": "2026-04-06"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2026-02-18",
+  "id": "20250AB213299INT",
+  "num": "99"
+ },
+ "location": "CX16",
+ "sections": [
+  {
+   "action": "Section 21080.74 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "This division does not apply to a groundwater recharge project if the Secretary of the Natural Resources Agency determines that the project would address subsidence."
+   ],
+   "sec": "21080.74",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: exemption: groundwater recharge project.",
+ "title": "An act to add Section 21080.74 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250AB213299INT",
+   "num": "99"
+  }
+ ]
+}

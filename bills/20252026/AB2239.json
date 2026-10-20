@@ -1,0 +1,84 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Carrillo",
+   "primary": true
+  }
+ ],
+ "bill": "AB2239",
+ "bill_id": "202520260AB2239",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law vests the Public Utilities Commission (PUC) with regulatory authority over public utilities, including electrical corporations. Existing law requires the PUC to establish reasonable average and maximum target energization time periods, as defined, and a procedure for customers to report energization delays to the PUC, as provided. Existing law requires the PUC to require an electrical corporation to take remedial actions necessary to achieve the PUC’s targets.",
+  "This bill would require the PUC to require each electrical corporation to meet energization timelines or targets established pursuant to the above-described provisions or by PUC order. The bill would require the PUC to impose a penalty if an electrical corporation fails to meet an energization timeline or target approved or required by the PUC, as provided.",
+  "This bill would require the PUC to designate an infrastructure-constrained energization area based on objective criteria, including limited distribution or transmission infrastructure relative to available electrical capacity or projected load growth, inland or desert geography, and extended energization timelines. The bill would require the PUC to adopt rules authorizing over-the-fence transactions within infrastructure-constrained energization areas when an electrical corporation cannot reasonably meet energization targets and other specific conditions are met, as specified. The bill would require the PUC, in coordination with the State Energy Resources Conservation and Development Commission (Energy Commission) and local jurisdictions, to establish procedures to facilitate expedited development of electrical generation and energy storage facilities in infrastructure-constrained energization areas, as specified. The bill would require the PUC, in coordination with the Energy Commission, the Office of Land Use and Climate Innovation, and local jurisdictions, to establish procedures to facilitate expedited permitting, siting, and construction of electrical infrastructure owned or operated by an electrical corporation within infrastructure-constrained energization areas, as specified. The bill would require the PUC and the Energy Commission to coordinate with, and advocate before, the Independent System Operator (ISO) for expedited review and prioritization of projects in infrastructure-constrained energization areas, as specified.",
+  "Existing law establishes the ISO as a nonprofit, public benefit corporation to ensure efficient use and reliable operation of the transmission grid and to manage the transmission grid and related energy markets, as specified.",
+  "This bill would require the ISO to consider regional economic development needs, infrastructure constraints, and statewide policy objectives when conducting transmission planning and interconnection processes. The bill would require the ISO seek to streamline review and approval processes for projects located within infrastructure-constrained energization areas, as specified, and would require the ISO to annually report to the PUC and the Legislature on transmission and interconnection constraints affecting infrastructure-constrained energization areas.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would exempt from the requirements of CEQA the approval of an electrical generation or energy storage project located within an infrastructure-constrained energization area if specific conditions are met, as provided. The bill would require the Office of Land Use and Climate Innovation to develop guidelines for the implementation of these provisions. Because a lead agency would be required to determine whether a project would qualify for this exemption, this bill would impose a state-mandated local program.",
+  "Under existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the PUC is a crime.",
+  "Because certain of the above-described provisions would be part of the act and a violation of a PUC action implementing the above-described provisions would be a crime, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "hash": "8fd0e2456365e632",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Coms. on U. & E. and NAT. RES.",
+   "date": "2026-03-09"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2026-02-19",
+  "id": "20250AB223999INT",
+  "num": "99"
+ },
+ "location": "CX23",
+ "sections": [
+  {
+   "action": "Section 21080.74 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) This division does not apply to the approval of an electrical generation or energy storage project located within an infrastructure-constrained energization area if all of the following conditions are met:",
+    "(1) The project has a generating capacity of not more than 100 megawatts.",
+    "(2) The project is located on industrially zoned, commercial, or previously disturbed land.",
+    "(3) The project does not result in significant impacts to sensitive biological resources, cultural resources, or protected habitat, as determined by the lead agency.",
+    "(4) The project is not located within a state park, wilderness area, or unit of the national park system.",
+    "(5) The project consists of renewable generation, energy storage, hydrogen production or generation, geothermal facilities, or advanced nuclear generation meeting applicable licensing requirements.",
+    "(b) A lead agency may require reasonable mitigation measures to address site-specific impacts.",
+    "(c) The Office of Land Use and Climate Innovation shall develop guidelines for the implementation of this section.",
+    "(d) For purposes of this section, “infrastructure-constrained energization area” means an area designated by the Public Utilities Commission pursuant to subdivision (a) of Section 367.8 of the Public Utilities Code."
+   ],
+   "sec": "21080.74",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Infrastructure-constrained energization areas: energization timelines: environmental review.",
+ "title": "An act to add Section 21080.74 to the Public Resources Code, and to add Sections 348.5, 367.8, and 934.5 to the Public Utilities Code, relating to electricity.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250AB223999INT",
+   "num": "99"
+  }
+ ]
+}

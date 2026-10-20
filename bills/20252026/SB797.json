@@ -1,0 +1,141 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Choi",
+   "primary": true
+  }
+ ],
+ "bill": "SB797",
+ "bill_id": "202520260SB797",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law requires each planning agency to prepare, and the legislative body of each county and city to adopt, a comprehensive, long-term general plan for the physical development of the county or city, as specified.",
+  "This bill would make nonsubstantive changes to those provisions."
+ ],
+ "hash": "83beaf713da6af62",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "Re-referred to Coms. on E.Q. and E., U & C.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 23.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.Q.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Set for hearing April 29 in E., U & C. pending receipt.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E., U & C. (Ayes 8. Noes 0. Page 867.) (April 23). Re-referred to Com. on E., U & C.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 1. Page 935.) (April 29).",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-06"
+  },
+  {
+   "action": "Set for hearing May 19.",
+   "date": "2025-05-09"
+  },
+  {
+   "action": "May 19 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "May 23 hearing: Held in committee and under submission.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-05-06",
+  "id": "20250SB79796AMD",
+  "num": "96"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 65300 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "Each planning agency shall prepare, and the legislative body of each county and city shall adopt, a comprehensive, long-term general plan for the physical development of the county or city, and of any land outside its boundaries that in the planning agency’s judgment bears relation to its planning. Chartered cities shall adopt general plans that contain the mandatory elements specified in Section 65302."
+   ],
+   "sec": "65300",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Electric utility distribution and transmission system facilities: undergrounding and insulation.",
+ "title": "An act to amend Section 65300 of the Government Code, relating to local government.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB79799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-26",
+   "id": "20250SB79798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-09",
+   "id": "20250SB79797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-06",
+   "id": "20250SB79796AMD",
+   "num": "96"
+  }
+ ]
+}

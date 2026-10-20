@@ -1,0 +1,116 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Addis",
+   "primary": true
+  }
+ ],
+ "bill": "AB303",
+ "bill_id": "202520260AB303",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, until June 30, 2029, authorizes a person proposing an eligible facility, including an energy storage system capable of storing 200 megawatthours or more of energy, to submit an application for certification with the State Energy Resources Conservation and Development Commission of the site and related facility. Existing law specifies that the issuance by the commission of the certificate is in lieu of any permit, certificate, or similar document required by any state, local, or regional agency, or federal agency to the extent permitted by federal law, except as provided. Existing law establishes the procedures by which the commission is to review the application.",
+  "This bill would specify that energy storage systems do not include battery energy storage systems for the above-described purposes. The bill would require the commission to deny applications for a battery energy storage system that are pending as of the effective date of the bill.",
+  "Existing law, the Planning and Zoning Law, sets forth various requirements relating to the review of development project permit applications and the issuance of development permits for specified classes of development projects.",
+  "This bill would prohibit the authorization of a development project that includes a battery energy storage system capable of storing 200 megawatthours or more of energy if the development project is located within 3,200 feet of a sensitive receptor or is located on an environmentally sensitive site, as specified.",
+  "By modifying the duties of local agencies with regard to the approval of development projects that include a battery energy storage system, this bill would impose a state-mandated local program.",
+  "This bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "6995a65ac21a47eb",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-01-23"
+  },
+  {
+   "action": "From printer. May be heard in committee February 23.",
+   "date": "2025-01-24"
+  },
+  {
+   "action": "Referred to Coms. on U. & E., NAT. RES. and L. GOV.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2025-01-23",
+  "id": "20250AB30399INT",
+  "num": "99"
+ },
+ "location": "CX23",
+ "sections": [
+  {
+   "action": "Chapter 14 (commencing with Section 66350) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this chapter, the following definitions apply:",
+    "(a) “Battery energy storage system” means an energy storage system, as defined in Section 2835 of the Public Utilities Code, that is capable of storing 200 megawatthours or more of energy and uses battery technology to store the energy.",
+    "(b) “Environmentally sensitive site” means any of the following:",
+    "(1) (A) An area of the coastal zone subject to paragraph (1), (2), or (3) of subdivision (a) of Section 30603 of the Public Resources Code.",
+    "(B) An area of the coastal zone that is not subject to a certified local coastal program or a certified land use plan.",
+    "(C) An area of the coastal zone that is vulnerable to five feet of sea level rise, as determined by the National Oceanic and Atmospheric Administration, the Ocean Protection Council, the United States Geological Survey, the University of California, or a local government’s coastal hazards vulnerability assessment.",
+    "(D) A parcel within the coastal zone that is not zoned for multifamily housing.",
+    "(E) A parcel in the coastal zone and located on either of the following:",
+    "(i) On, or within a 100-foot radius of, a wetland, as defined in Section 30121 of the Public Resources Code.",
+    "(ii) Prime agricultural land, as defined in Section 30113 of the Public Resources Code.",
+    "(2) Prime farmland or farmland of statewide importance, as defined pursuant to United States Department of Agriculture land inventory and monitoring criteria, as modified for California, and designated on the maps prepared by the Farmland Mapping and Monitoring Program of the Department of Conservation, or land zoned or designated for agricultural protection or preservation by a local ballot measure that was approved by the voters of that jurisdiction.",
+    "(3) Wetlands, as defined in the United States Fish and Wildlife Service Manual, Part 660 FW 2 (June 21, 1993).",
+    "(4) A parcel in a very high fire hazard severity zone, as determined by the State Fire Marshal pursuant to Section 51178.",
+    "(5) A hazardous waste site that is listed pursuant to Section 65962.5 or a hazardous waste site selected by the Department of Toxic Substances Control pursuant to Section 78765 of the Health and Safety Code, unless either of the following apply:",
+    "(A) The site is an underground storage tank site that received a uniform closure letter issued pursuant to subdivision (g) of Section 25296.10 of the Health and Safety Code based on closure criteria established by the State Water Resources Control Board for the use of the site as an energy storage facility. This subparagraph does not alter or change the conditions to remove a site from the list of hazardous waste sites listed pursuant to Section 65962.5.",
+    "(B) The State Department of Public Health, State Water Resources Control Board, Department of Toxic Substances Control, or a local agency making a determination pursuant to subdivision (c) of Section 25296.10 of the Health and Safety Code, has otherwise determined that the site is suitable for energy storage uses.",
+    "(6) A parcel within a delineated earthquake fault zone as determined by the State Geologist in any official maps published by the State Geologist, unless the development complies with applicable seismic protection building code standards adopted by the California Building Standards Commission under the California Building Standards Law (Part 2.5 (commencing with Section 18901) of Division 13 of the Health and Safety Code), and by any local building department under Chapter 12.2 (commencing with Section 8875) of Division 1 of Title 2.",
+    "(7) A parcel within a special flood hazard area subject to inundation by the 1 percent annual chance flood (100-year flood) as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency, except if the parcel satisfies either of the following conditions:",
+    "(A) The site has been subject to a Letter of Map Revision prepared by the Federal Emergency Management Agency and issued to the local jurisdiction.",
+    "(B) The site meets Federal Emergency Management Agency requirements necessary to meet minimum flood plain management criteria of the National Flood Insurance Program pursuant to Part 59 (commencing with Section 59.1) and Part 60 (commencing with Section 60.1) of Subchapter B of Chapter I of Title 44 of the Code of Federal Regulations.",
+    "(8) A parcel within a regulatory floodway as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency, unless the parcel has received a no-rise certification in accordance with Section 60.3(d)(3) of Title 44 of the Code of Federal Regulations.",
+    "(9) Lands identified for conservation in an adopted natural community conservation plan pursuant to the Natural Community Conservation Planning Act (Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code), habitat conservation plan pursuant to the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), or other adopted natural resource protection plan.",
+    "(10) Habitat for protected species identified as candidate, sensitive, or species of special status by state or federal agencies, fully protected species, or species protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code).",
+    "(11) Lands under a conservation easement.",
+    "(c) “Sensitive receptor” means any of the following:",
+    "(1) A residence, including a private home, condominium, apartment, or living quarter.",
+    "(2) An education resource, including a preschool, school maintaining transitional kindergarten, kindergarten, or any of grades 1 to 12, inclusive, daycare center, park, playground, university, or college. If a university or college is the only sensitive receptor within 3,200 feet of the development, the university or college is not a sensitive receptor if the development proponent demonstrates to the satisfaction of the public agency with jurisdiction over the development project that no building with nominal daily occupancy on the university or college campus is located within 3,200 feet of the development project.",
+    "(3) A community resource center, including a youth center.",
+    "(4) A health care facility, including a hospital, retirement home, or nursing home.",
+    "(5) Live-in housing, including a long-term care hospital, hospice, prison, detention center, or dormitory.",
+    "(6) A building housing a business that is open to the public."
+   ],
+   "sec": "66350",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Battery energy storage facilities.",
+ "title": "An act to add Chapter 14 (commencing with Section 66350) to Division 1 of Title 7 of the Government Code, and to amend Section 25545 of the Public Resources Code, relating to energy, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-23",
+   "id": "20250AB30399INT",
+   "num": "99"
+  }
+ ]
+}

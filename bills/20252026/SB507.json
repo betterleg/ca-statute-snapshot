@@ -1,0 +1,199 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Limón",
+   "primary": true
+  }
+ ],
+ "bill": "SB507",
+ "bill_id": "202520260SB507",
+ "chapter": {
+  "num": "519",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires each city, county, or city and county to prepare and adopt a general plan for its jurisdiction that contains certain mandatory elements, including a housing element. Under existing law, a part of the housing element is an assessment of housing needs, which includes the locality’s share of the regional housing need. Under existing law, the appropriate council of governments, or for cities and counties without a council of governments, the Department of Housing and Community Development, adopts a final regional housing need plan that allocates a share of the regional housing need to each locality in the region. Existing law authorizes a local government to conduct a review or appeal regarding allocation data provided by the department or the council of governments regarding, among other things, the locality’s share of the regional housing need.",
+  "This bill would authorize a local government within the same county as a tribe to enter into a voluntary agreement with a tribe to allow new tribal housing development projects to count toward the locality’s share of the regional housing needs allocation, as specified. The bill would prohibit a local government from requiring a tribe to waive sovereign immunity in order to enter into a voluntary agreement pursuant to these provisions. The bill would define various terms for these provisions. The bill would state the intent of the Legislature that the Department of Housing and Community Development be encouraged to approve units in a tribal housing development as counting toward the locality’s regional housing needs allocation, as specified.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
+ ],
+ "hash": "07e6e7ca880c27f2",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-02-26"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Re-referred to Com. on HOUSING.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 29.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 0. Page 936.) (April 29).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Set for hearing May 19.",
+   "date": "2025-05-09"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 38. Noes 0. Page 1404.) Ordered to the Assembly.",
+   "date": "2025-06-02"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To consent calendar. (Ayes 12. Noes 0.) (July 2). Re-referred to Com. on L. GOV.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-07-08"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 10. Noes 0.) (July 16). Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 15. Noes 0.) (August 20).",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 74. Noes 0. Page 2776.) Ordered to the Senate.",
+   "date": "2025-08-28"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-08-28"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 2444.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 519, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB50794CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65584.2.2 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A local government within the same county as a tribe may enter into a voluntary agreement with a tribe to allow new tribal housing development projects to count toward the locality’s share of the regional housing needs allocation if all of the following conditions are met:",
+    "(1) (A) The local government executing the agreement has permitting authority over the site on which the tribal housing development is located.",
+    "(B) If the local government executing the agreement does not have permitting authority over the site on which the tribal housing development is located, the voluntary agreement shall demonstrate that the housing units will be built, including, but not limited to, one or more of the following:",
+    "(i) Agreement with the tribe regarding approvals, permits, certificates of occupancy, or reporting new units to the Department of Finance.",
+    "(ii) Documentation from the tribe demonstrating that planned housing has been approved to be built within the current regional housing needs allocation cycle.",
+    "(iii) Data pertaining to the timing of project construction and unit affordability by household income category.",
+    "(2) The tribal housing development is located on a site within the boundaries of, or contiguous to, the local government.",
+    "(3) The units in the tribal housing development meet the definition of housing unit, as defined by the United States Census Bureau.",
+    "(b) The local government shall not require a tribe to waive tribal sovereign immunity in order to enter into a voluntary agreement pursuant to this section.",
+    "(c) This section does not affect an existing tribal housing development that is being counted towards a locality’s share of the regional housing needs allocation regardless of whether a local government and a tribe enter into a voluntary agreement pursuant to this section.",
+    "(d) For purposes of this section, the following definitions apply:",
+    "(1) “Local government” means a city, including a charter city, a county, including a charter county, or a city and county, including a charter city and county.",
+    "(2) “Tribal housing development” means a housing development located on a site held in fee simple by a tribe or held in trust by the United States for the benefit of a tribe.",
+    "(3) “Tribe” means a federally recognized Native American tribe."
+   ],
+   "sec": "65584.2.2",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Planning and zoning: regional housing needs allocation.",
+ "title": "An act to add Section 65584.2.2 to the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250SB50799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-25",
+   "id": "20250SB50798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-01",
+   "id": "20250SB50797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-08",
+   "id": "20250SB50796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-05",
+   "id": "20250SB50795ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB50794CHP",
+   "num": "94"
+  }
+ ]
+}

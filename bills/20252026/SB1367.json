@@ -1,0 +1,239 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Cervantes",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Solache",
+   "primary": false
+  }
+ ],
+ "bill": "SB1367",
+ "bill_id": "202520260SB1367",
+ "chapter": {
+  "num": "758",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law authorizes the legislative body of any county or city to adopt ordinances that, among other things, regulate the use of buildings, structures, and land as between industry, business, residences, open space, including agriculture, recreation, enjoyment of scenic beauty, use of natural resources, and other purposes.",
+  "This bill would prohibit a city or county from approving new land uses in a manner that authorize construction of a detention facility or changes of use that permit use of an existing building as a detention facility, as defined for purposes of these provisions. By adding to the duties of local officials, this bill would impose a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "efc10fd6e27809a2",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 2. Page 4015.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Set for hearing May 4.",
+   "date": "2026-04-24"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-05"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 29. Noes 8. Page 4441.) Ordered to the Assembly.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "June 17 set for first hearing canceled at the request of author.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 2.) (July 1). Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 11. Noes 4.) (August 5).",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV. pursuant to Assembly Rule 77.2.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Joint Rule 62(a) suspended.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 8. Noes 2.) (August 27).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 60. Noes 19. Page 6859.) Ordered to the Senate.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 29. Noes 10.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 758, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250SB136793CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65850.05 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section, “detention facility” means any structure, whether temporary or permanent, operated by a private entity on behalf of a governmental entity for the temporary holding of persons charged with a criminal offense or detained for civil or administrative purposes.",
+    "(b) Notwithstanding any other law, a city or county shall not approve either of the following:",
+    "(1) A new land use in a manner that authorizes construction of a detention facility.",
+    "(2) A change of use that permits use of an existing building as a detention facility."
+   ],
+   "sec": "65850.05",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Planning and zoning: detention facilities.",
+ "title": "An act to add Section 65850.05 to the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB136799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB136798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-16",
+   "id": "20250SB136797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-21",
+   "id": "20250SB136796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-25",
+   "id": "20250SB136795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-02",
+   "id": "20250SB136794ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250SB136793CHP",
+   "num": "93"
+  }
+ ]
+}

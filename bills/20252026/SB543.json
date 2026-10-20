@@ -1,0 +1,421 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "McNerney",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  }
+ ],
+ "bill": "SB543",
+ "bill_id": "202520260SB543",
+ "chapter": {
+  "num": "520",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, among other things, provides for the creation by ordinance, or by ministerial approval if the local agency has not adopted an ordinance, of an accessory dwelling unit (ADU) or a junior accessory dwelling unit (JADU) in accordance with specified standards and conditions. Existing law defines the term “junior accessory dwelling unit” for these purposes to mean a unit that is no more than 500 square feet in size and contained entirely within a single-family structure.",
+  "This bill would revise the definition of a “junior accessory dwelling unit” to require the size of a JADU to be no more than 500 square feet of interior livable space.",
+  "Existing law makes certain declarations of the Legislature’s intent regarding the effect of an ADU ordinance. Existing law authorizes the Department of Housing and Community Development to review, adopt, amend, or repeal guidelines to implement uniform standards or criteria that supplement or clarify the terms, references, and standards for an ADU.",
+  "This bill would revise the above-described declaration of legislative intent to additionally apply with respect to a JADU ordinance. The bill would also expand the department’s authority to review, adopt, amend, or repeal guidelines to additionally grant that authority with respect to terms, references, and standards for JADUs.",
+  "Existing law requires a local agency to submit an ADU ordinance to the Department of Housing and Community Development within 60 days after the adoption for department review, as specified. Under existing law, the standards applicable to an ADU under these provisions supersede a conflicting local ordinance, except as specified.",
+  "This bill would similarly require a local agency to submit a JADU ordinance to the department within 60 days after adoption for department review and would require the department to notify the local agency if the ordinance is noncompliant with JADU ordinance requirements, as specified. The bill would nullify and void that ordinance if the local agency fails to submit a copy of that ordinance or respond to the department’s findings that the ordinance is noncompliant, as specified. The bill would also specify that the standards applicable to a JADU supersede any conflicting local ordinance, except as specified.",
+  "Existing law requires a local agency to consider ministerially a permit application for an ADU or a JADU within 60 days, as specified. If a local agency has not adopted an ADU ordinance, existing law requires a permit application for an ADU to be considered pursuant to this ministerial approval provision. Existing law prohibits a local ordinance, policy, or regulation, other than an ADU ordinance consistent with the laws governing approvals of ADUs, from being the basis for the delay or denial of a building permit or a use permit under this ministerial approval provision.",
+  "If a local agency has not adopted a JADU ordinance, this bill would additionally require a permit application for a JADU to be considered pursuant to this ministerial approval provision, and would prohibit a local ordinance, policy, or regulation, other than a JADU ordinance consistent with the laws governing approvals of JADUs, from being the basis for the delay or denial of a building permit or a use permit under this ministerial approval provision. This bill would additionally require a permitting agency to determine whether an application for ADU or JADU is complete and provide written notice of the determination not later than 15 business days after the permitting agency received the application. If the permitting agency determines that an application is incomplete, the bill would require the permitting agency to provide the applicant with a list of incomplete items and a description of how the application can be made complete in the written notice and authorize the applicant to cure and address the application, as specified. The bill would require the permitting agency, if a permit application is determined to be incomplete or is denied, to provide a process for the applicant to appeal that decision, as provided, and would require the permitting agency to provide a final written determination by not later than 60 business days after receipt of the written appeal.",
+  "Existing law imposes limits on construction, connection, and impact fees and capacity charges imposed on an ADU, including prohibiting impact fees upon the development of an ADU based on if the ADU is 750 square feet and requiring that any impact fee on an ADU of 750 square feet or more be charged proportionately in relation to the square footage of the primary dwelling unit. Existing law prohibits a local agency, special district, or water corporation from requiring the applicant to install a new or separate utility connection between an ADU and the utility or imposing a related connection fee or capacity charge for specified ADUs, except as specified.",
+  "This bill would revise these provisions to additionally apply to construction, connection, and impact fees and capacity charges imposed on a JADU. The bill would revise the above-described limitation on impact fees to, instead, prohibit impact fees upon the development of an ADU that has 750 square feet of interior livable space or less or JADU that has 500 square feet of interior livable space or less, and to require that any impact fee on an ADU that has more than 750 square feet of interior livable space be charged proportionately in relation to the square footage of the primary dwelling unit.",
+  "Existing law authorizes the governing board of a school district to levy a fee, charge, dedication, or other requirement against construction within the boundaries of the school district for the purpose of funding the construction or reconstruction of a school facility, subject to specified limitations. Under existing law, the fee, charge, dedication, or other requirement may only apply to specified constructions, including residential construction if the resulting assessable space exceeds 500 square feet.",
+  "This bill would specify that an ADU or a JADU that contains less than 500 square feet of interior livable space does not increase assessable space by 500 square feet under these provisions.",
+  "Existing law prohibits a local agency from establishing by ordinance a maximum square footage for an attached or detached ADU that is either less than 850 square feet or 1,000 square feet for an ADU that provides more than one bedroom. Existing law also prohibits a local agency from establishing by ordinance any requirement for a zoning clearance or separate zoning review or any other minimum or maximum size for an ADU, size based upon a percentage of the proposed or existing primary dwelling, or limits on lot coverage, floor area ratio, open space, front setbacks, and minimum lot size, for attached or detached dwellings that does not permit at least an 800-square foot ADU with four-foot side and rear yard setbacks.",
+  "This bill would revise these size limitations to be based on the square feet of interior living space of the ADU.",
+  "Existing law requires a local agency to ministerially approve a building permit application within a residential or mixed-use zone for specified ADUs or JADUs, including one detached, new construction, ADU that does not exceed 4-foot side and rear yard setbacks for a lot with a proposed or existing single-family dwelling. For these ADUs and JADUs, existing law authorizes a local agency to impose specified height limitations and total floor area limitations of no more than 800 square feet. Existing law prohibits a local agency from imposing a requirement that an ADU install a fire sprinkler if a sprinkler is not required for the primary residence.",
+  "This bill would require a local agency to ministerially approve a building permit application for a combination of the specified ADUs or JADUs and revise the total area limitation to be based on the square feet of interior livable space. The bill would revise the prohibition on requiring fire sprinkler installation, as described above, to additionally apply to a JADU.",
+  "This bill would make other technical and conforming changes to the provisions governing the review and approval of ADUs and JADUs.",
+  "By imposing additional duties on local planning officials, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "46bf0be2a1db8584",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Re-referred to Coms. on HOUSING and L. GOV.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Set for hearing April 30 in L. GOV. pending receipt.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 11. Noes 0. Page 832.) (April 22). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 968.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Set for hearing May 12.",
+   "date": "2025-05-02"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-13"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 1250.) Ordered to the Assembly.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (June 18).",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-06-19"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-07-08"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (July 16). Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (August 20).",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 75. Noes 0. Page 2773.) Ordered to the Senate.",
+   "date": "2025-08-28"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-08-28"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 2408.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 520, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB54392CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66311 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "It is the intent of the Legislature that an accessory dwelling unit or a junior accessory dwelling unit ordinance adopted by a local agency has the effect of providing for the creation of accessory dwelling units or a junior accessory dwelling unit and that provisions in this ordinance relating to matters including unit size, parking, fees, and other requirements, are not so arbitrary, excessive, or burdensome so as to unreasonably restrict the ability of homeowners to create accessory dwelling units or junior accessory dwelling units in zones in which they are authorized by local ordinance."
+   ],
+   "sec": "66311",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66313 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this chapter:",
+    "(a) “Accessory dwelling unit” means an attached or a detached residential dwelling unit that provides complete independent living facilities for one or more persons and is located on a lot with a proposed or existing primary residence. It shall include permanent provisions for living, sleeping, eating, cooking, and sanitation on the same parcel as the single-family or multifamily dwelling is or will be situated. An accessory dwelling unit also includes the following:",
+    "(1) An efficiency unit.",
+    "(2) A manufactured home, as defined in Section 18007 of the Health and Safety Code.",
+    "(b) “Accessory structure” means a structure that is accessory and incidental to a dwelling located on the same lot.",
+    "(c) “Efficiency unit” has the same meaning as defined in Section 17958.1 of the Health and Safety Code.",
+    "(d) “Junior accessory dwelling unit” means a unit that is no more than 500 square feet of interior livable space in size and contained entirely within a single-family residence. A junior accessory dwelling unit may include separate sanitation facilities, or may share sanitation facilities with the existing structure.",
+    "(e) “Livable space” means a space in a dwelling intended for human habitation, including living, sleeping, eating, cooking, or sanitation.",
+    "(f) “Living area” means the interior habitable area of a dwelling unit, including basements and attics, but does not include a garage or any accessory structure.",
+    "(g) “Local agency” means a city, county, or city and county, whether general law or chartered.",
+    "(h) “Nonconforming zoning condition” means a physical improvement on a property that does not conform to current zoning standards.",
+    "(i) “Objective standards” means standards that involve no personal or subjective judgment by a public official and are uniformly verifiable by reference to an external and uniform benchmark or criterion available and knowable by both the development applicant or proponent and the public official prior to submittal.",
+    "(j) “Passageway” means a pathway that is unobstructed clear to the sky and extends from a street to one entrance of the accessory dwelling unit.",
+    "(k) “Permitting agency” means any entity that is involved in the review of a permit for an accessory dwelling unit or junior accessory dwelling unit and for which there is no substitute, including, but not limited to, applicable planning departments, building departments, utilities, and special districts.",
+    "(l) “Proposed dwelling” means a dwelling that is the subject of a permit application and that meets the requirements for permitting.",
+    "(m) “Public transit” means a location, including, but not limited to, a bus stop or train station, where the public may access buses, trains, subways, and other forms of transportation that charge set fares, run on fixed routes, and are available to the public.",
+    "(n) “Tandem parking” means that two or more automobiles are parked on a driveway or in any other location on a lot, lined up behind one another."
+   ],
+   "sec": "66313",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66317 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) A permit application for an accessory dwelling unit shall be considered and approved ministerially without discretionary review or a hearing, notwithstanding Section 65901 or 65906 or any local ordinance regulating the issuance of variances or special use permits.",
+    "(2) (A) A permitting agency shall determine whether an application to create or serve an accessory dwelling unit is complete and provide written notice of this determination to the applicant not later than 15 business days after the permitting agency received the application.",
+    "(B) If the permitting agency determines an application is incomplete, the permitting agency shall provide the applicant with a list of incomplete items and a description of how the application can be made complete. The list and description shall be provided with the written notice required by subparagraph (A).",
+    "(C) After receiving a notice that the application was incomplete, an applicant may cure and address the items that are deemed to be incomplete by the permitting agency.",
+    "(D) In the review of an application submitted pursuant to subparagraph (C), the permitting agency shall not require the application to include an item that was not included in the list required by subparagraph (B).",
+    "(E) If an applicant submits an application pursuant to subparagraph (C), the permitting agency shall determine whether the additional application has remedied all incomplete items listed in the determination issued pursuant to subparagraph (B). This additional application is subject to the timelines and requirements specified in subparagraph (A).",
+    "(F) If a permitting agency does not make a timely determination as required by this paragraph, the application or resubmitted application shall be deemed to be complete for the purposes of this section.",
+    "(3) The permitting agency shall either approve or deny the application to create or serve an accessory dwelling unit within 60 days from the date the permitting agency receives a completed application if there is an existing single-family or multifamily dwelling on the lot. If the permit application to create or serve an accessory dwelling unit is submitted with a permit application to create a new single-family or multifamily dwelling on the lot, the permitting agency may delay approving or denying the permit application for the accessory dwelling unit until the permitting agency approves or denies the permit application to create the new single-family or multifamily dwelling, but the application to create or serve the accessory dwelling unit shall be considered without discretionary review or hearing. If the applicant requests a delay, the 60-day time period shall be tolled for the period of the delay. If the local agency has not approved or denied the completed application within 60 days, the application shall be deemed approved. A local agency may charge a fee to reimburse it for costs incurred to implement this section, including the costs of adopting or amending any ordinance that provides for the creation of an accessory dwelling unit.",
+    "(b) If a permitting agency denies an application for an accessory dwelling unit pursuant to subdivision (a), the permitting agency shall, within the time period described in subdivision (a), return in writing a full set of comments to the applicant with a list of items that are defective or deficient and a description of how the application can be remedied by the applicant.",
+    "(c) No local ordinance, policy, or regulation, other than an accessory dwelling unit ordinance consistent with this article shall be the basis for the delay or denial of a building permit or a use permit under this section.",
+    "(d) (1) If a permit application is determined to be incomplete under paragraph (2) of subdivision (a) or denied under paragraph (3) of subdivision (a), the permitting agency shall provide a process for the applicant to appeal that decision in writing to the governing body of the agency or, if there is no governing body, to the director of the agency, as provided by that agency. A city or county shall provide that the right of appeal is to the governing body or, at their option, the planning commission, or both.",
+    "(2) A permitting agency on the appeal shall provide a final written determination by not later than 60 business days after receipt of the applicant’s written appeal. The fact that an appeal is permitted to both the planning commission and to the governing body does not extend the 60-business-day period."
+   ],
+   "sec": "66317",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66320 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "When a local agency that has not adopted an ordinance governing accessory dwelling units in accordance with Section 66314 receives an application for a permit to create or serve an accessory dwelling unit pursuant to this article, the local agency shall approve or disapprove the application ministerially without discretionary review pursuant to Section 66317."
+   ],
+   "sec": "66320",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66321 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Subject to subdivision (b), a local agency may establish minimum and maximum unit size requirements for both attached and detached accessory dwelling units.",
+    "(b) Notwithstanding subdivision (a), a local agency shall not establish by ordinance any of the following:",
+    "(1) A minimum square footage requirement for either an attached or detached accessory dwelling unit that prohibits an efficiency unit.",
+    "(2) A maximum square footage requirement for either an attached or detached accessory dwelling unit that is less than either of the following:",
+    "(A) Eight hundred fifty square feet of interior livable space.",
+    "(B) One thousand square feet of interior livable space for an accessory dwelling unit that provides more than one bedroom.",
+    "(3) Any requirement for a zoning clearance or separate zoning review or any other minimum or maximum size for an accessory dwelling unit, size based upon a percentage of the proposed or existing primary dwelling, or limits on lot coverage, floor area ratio, open space, front setbacks, and minimum lot size, for either attached or detached dwellings that does not permit an accessory dwelling unit with at least 800 square feet of interior livable space and with four-foot side and rear yard setbacks to be constructed in compliance with all other local development standards.",
+    "(4) Any height limitation that does not allow at least the following, as applicable:",
+    "(A) A height of 16 feet for a detached accessory dwelling unit on a lot with an existing or proposed single family or multifamily dwelling unit.",
+    "(B) A height of 18 feet for a detached accessory dwelling unit on a lot with an existing or proposed single family or multifamily dwelling unit that is within one-half of one mile walking distance of a major transit stop or a high-quality transit corridor, as those terms are defined in Section 21155 of the Public Resources Code. A local agency shall also allow an additional two feet in height to accommodate a roof pitch on the accessory dwelling unit that is aligned with the roof pitch of the primary dwelling unit.",
+    "(C) A height of 18 feet for a detached accessory dwelling unit on a lot with an existing or proposed multifamily, multistory dwelling.",
+    "(D) A height of 25 feet or the height limitation in the local zoning ordinance that applies to the primary dwelling, whichever is lower, for an accessory dwelling unit that is attached to a primary dwelling. This subparagraph shall not require a local agency to allow an accessory dwelling unit to exceed two stories."
+   ],
+   "sec": "66321",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66323 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding Sections 66314 to 66322, inclusive, a local agency shall ministerially approve an application for a building permit within a residential or mixed-use zone to create any of the following units, or any combination of the following units:",
+    "(1) One accessory dwelling unit and one junior accessory dwelling unit per lot with a proposed or existing single-family dwelling if all of the following apply:",
+    "(A) The accessory dwelling unit or junior accessory dwelling unit is within the proposed space of a single-family dwelling or existing space of a single-family dwelling or accessory structure and may include an expansion of not more than 150 square feet beyond the same physical dimensions as the existing accessory structure. An expansion beyond the physical dimensions of the existing accessory structure shall be limited to accommodating ingress and egress.",
+    "(B) The space has exterior access from the proposed or existing single-family dwelling.",
+    "(C) The side and rear setbacks are sufficient for fire and safety.",
+    "(D) The junior accessory dwelling unit complies with the requirements of Article 3 (commencing with Section 66333).",
+    "(2) One detached, new construction, accessory dwelling unit that does not exceed four-foot side and rear yard setbacks for a lot with a proposed or existing single-family dwelling. A local agency may impose the following conditions on the accessory dwelling unit:",
+    "(A) A total floor area limitation of not more than 800 square feet of livable space.",
+    "(B) A height limitation as provided in subparagraph (A), (B), or (C) of paragraph (4) of subdivision (b) of Section 66321, as applicable.",
+    "(3) (A) Multiple accessory dwelling units within the portions of existing multifamily dwelling structures that are not used as livable space, including, but not limited to, storage rooms, boiler rooms, passageways, attics, basements, or garages, if each unit complies with state building standards for dwellings.",
+    "(B) A local agency shall allow at least one accessory dwelling unit within an existing multifamily dwelling and shall allow up to 25 percent of the existing multifamily dwelling units.",
+    "(4) (A) (i) Multiple accessory dwelling units, not to exceed the number specified in clause (ii) or (iii), as applicable, that are located on a lot that has an existing or proposed multifamily dwelling, but are detached from that multifamily dwelling and are subject to a height limitation in subparagraph (A), (B), or (C) of paragraph (4) of subdivision (b) of Section 66321, as applicable, and rear yard and side setbacks of no more than four feet.",
+    "(ii) On a lot with an existing multifamily dwelling, not more than eight detached accessory dwelling units. However, the number of accessory dwelling units allowable pursuant to this clause shall not exceed the number of existing units on the lot.",
+    "(iii) On a lot with a proposed multifamily dwelling, not more than two detached accessory dwelling units.",
+    "(B) If the existing multifamily dwelling has a rear or side setback of less than four feet, the local agency shall not require any modification of the existing multifamily dwelling as a condition of approving the application to construct an accessory dwelling unit that satisfies the requirements of this paragraph.",
+    "(b) A local agency shall not impose any objective development or design standard that is not authorized by this section upon any unit that meets the requirements of any of paragraphs (1) to (4), inclusive, of subdivision (a).",
+    "(c) A local agency shall not require, as a condition for ministerial approval of a permit application for the creation of an accessory dwelling unit or a junior accessory dwelling unit, the correction of nonconforming zoning conditions.",
+    "(d) The installation of fire sprinklers shall not be required in an accessory dwelling unit or a junior accessory dwelling unit if sprinklers are not required for the primary residence. The construction of an accessory dwelling unit or a junior accessory dwelling unit shall not trigger a requirement for fire sprinklers to be installed in the existing multifamily dwelling.",
+    "(e) A local agency shall require that a rental of the accessory dwelling unit created pursuant to this section be for a term longer than 30 days.",
+    "(f) A local agency may require, as part of the application for a permit to create an accessory dwelling unit connected to an onsite wastewater treatment system, a percolation test completed within the last five years, or, if the percolation test has been recertified, within the last 10 years."
+   ],
+   "sec": "66323",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66324 of the Government Code is amended and renumbered to read:",
+   "code": "GOV",
+   "note": "section text not found in this bill section",
+   "paras": [],
+   "sec": "66324",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66327 of the Government Code is amended and renumbered to read:",
+   "code": "GOV",
+   "note": "section text not found in this bill section",
+   "paras": [],
+   "sec": "66327",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66332 of the Government Code is amended and renumbered to read:",
+   "code": "GOV",
+   "note": "section text not found in this bill section",
+   "paras": [],
+   "sec": "66332",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66333.5 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A local agency shall submit a copy of the ordinance adopted pursuant to Section 66333 to the Department of Housing and Community Development within 60 days after adoption. After adoption of an ordinance, the department may submit written findings to the local agency as to whether the ordinance complies with this article.",
+    "(b) (1) If the department finds that the local agency’s ordinance does not comply with this article, the department shall notify the local agency and shall provide the local agency with a reasonable time, no longer than 30 days, to respond to the findings before taking any other action authorized by this article.",
+    "(2) The local agency shall consider the findings made by the department pursuant to paragraph (1) and shall do one of the following:",
+    "(A) Amend the ordinance to comply with this article.",
+    "(B) Adopt the ordinance without changes. The local agency shall include findings in its resolution adopting the ordinance that explain the reasons the local agency believes that the ordinance complies with this article despite the findings of the department.",
+    "(c) (1) If the local agency does not amend its ordinance in response to the department’s findings or does not adopt a resolution with findings explaining the reason the ordinance complies with this article and addressing the department’s findings, the department shall notify the local agency and may notify the Attorney General that the local agency is in violation of state law.",
+    "(2) Before notifying the Attorney General that the local agency is in violation of state law, the department may consider whether a local agency adopted an ordinance in compliance with this article between January 1, 2017, and January 1, 2020.",
+    "(d) If a local agency fails to submit a copy of its ordinance to the department within 60 days of adoption pursuant to this section or fails to respond to the department’s findings that the local ordinance does not comply with this article within 30 days pursuant to this section, that ordinance shall be null and void. The local agency shall thereafter apply the standards established in this article for the approval of junior accessory dwelling units, unless and until the agency adopts an ordinance that complies with this article, including, but not limited to, the submittal requirements of this section."
+   ],
+   "sec": "66333.5",
+   "verb": "added"
+  },
+  {
+   "action": "Section 66335 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) An application for a permit pursuant to this article shall, notwithstanding Section 65901 or 65906 or any local ordinance regulating the issuance of variances or special use permits, be considered ministerially, without discretionary review or a hearing.",
+    "(2) (A) A permitting agency shall determine whether an application to create or serve a junior accessory dwelling unit is complete and provide written notice of this determination to the applicant not later than 15 business days after the permitting agency received the application.",
+    "(B) If the permitting agency determines an application is incomplete, the permitting agency shall provide the applicant with a list of incomplete items and a description of how the application can be made complete. The list and description shall be provided with the written notice required by subparagraph (A).",
+    "(C) After receiving a notice that the application was incomplete, an applicant may cure and address the items that are deemed to be incomplete by the permitting agency.",
+    "(D) In the review of an application submitted pursuant to subparagraph (C), the permitting agency shall not require the application to include an item that was not included in the list required by subparagraph (B).",
+    "(E) If an applicant submits an application pursuant to subparagraph (C), the permitting agency shall determine whether the additional application has remedied all incomplete items listed in the determination issued pursuant to subparagraph (B). This additional application is subject to the timelines and requirements specified in subparagraph (A).",
+    "(F) If a permitting agency does not make a timely determination as required by this paragraph, the application or resubmitted application shall be deemed to be complete for the purposes of this section.",
+    "(3) The permitting agency shall either approve or deny the application to create or serve a junior accessory dwelling unit within 60 days from the date the local agency receives a completed application if there is an existing single-family dwelling on the lot.",
+    "(4) If the permit application to create or serve a junior accessory dwelling unit is submitted with a permit application to create or serve a new single-family dwelling on the lot, the permitting agency may delay approving or denying the permit application for the junior accessory dwelling unit until the permitting agency approves or denies the permit application to create or serve the new single-family dwelling, but the application to create or serve the junior accessory dwelling unit shall still be considered ministerially without discretionary review or a hearing.",
+    "(5) If the applicant requests a delay, the 60-day time period shall be tolled for the period of the delay.",
+    "(b) If a permitting agency denies an application for a junior accessory dwelling unit pursuant to subdivision (a), the permitting agency shall, within the time period described in subdivision (a), return in writing a full set of comments to the applicant with a list of items that are defective or deficient and a description of how the application can be remedied by the applicant.",
+    "(c) A local agency may charge a fee to reimburse the local agency for costs incurred in connection with the issuance of a permit pursuant to this article.",
+    "(d) No local ordinance, policy, or regulation, other than a junior accessory dwelling unit ordinance consistent with this article, shall be the basis for the delay or denial of a building permit or a use permit under this section.",
+    "(e) (1) If a permit application is determined to be incomplete under paragraph (2) of subdivision (a) or denied under paragraph (3) of subdivision (a), the permitting agency shall provide a process for the applicant to appeal that decision in writing to the governing body of the agency or, if there is no governing body, to the director of the agency, as provided by that agency. A city or county shall provide that the right of appeal is to the governing body or, at their option, the planning commission, or both.",
+    "(2) A permitting agency on the appeal shall provide a final written determination by not later than 60 business days after receipt of the applicant’s written appeal. The fact that an appeal is permitted to both the planning commission and to the governing body does not extend the 60-business-day period."
+   ],
+   "sec": "66335",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66335.5 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "When a local agency that has not adopted an ordinance governing junior accessory dwelling units in accordance with Section 66333 receives an application for a permit to create or serve a junior accessory dwelling unit pursuant to this article, the local agency shall approve or disapprove the application ministerially without discretionary review pursuant to Section 66335."
+   ],
+   "sec": "66335.5",
+   "verb": "added"
+  },
+  {
+   "action": "Section 66339.5 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Except as provided in subdivision (b), this article shall supersede a conflicting local ordinance.",
+    "(b) This article does not limit the authority of local agencies to adopt less restrictive requirements for the creation of a junior accessory dwelling unit."
+   ],
+   "sec": "66339.5",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Accessory dwelling units and junior accessory dwelling units.",
+ "title": "An act to amend Sections 66311, 66313, 66317, 66320, 66321, 66323, and 66335 of, to amend and renumber Sections 66324, 66327, and 66332 of, and to add Sections 66333.5, 66335.5, and 66339.5 to, the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250SB54399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-25",
+   "id": "20250SB54398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-09",
+   "id": "20250SB54397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-23",
+   "id": "20250SB54396AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-19",
+   "id": "20250SB54395AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-08",
+   "id": "20250SB54394AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-04",
+   "id": "20250SB54393ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB54392CHP",
+   "num": "92"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Blakespear",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Archuleta",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Davies",
+   "primary": false
+  }
+ ],
+ "bill": "SB967",
+ "bill_id": "202520260SB967",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The Planning and Zoning Law requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of that county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. For the 4th and subsequent revisions of the housing element, existing law requires the Department of Housing and Community Development to determine the existing and projected regional housing need, as provided, and requires the appropriate council of governments, or for cities and counties without a council of governments, the department, to adopt a final regional housing need plan allocating a share of the regional housing need to each Existing\"?> city or county, as provided. Existing law requires the housing element to include an analysis of any special housing needs, including, among others, families and persons in need of emergency shelter.",
+  "Existing law requires a city or county to provide by April 1 of each year an annual report to, among other entities, the department that includes, among other things, the city’s or county’s progress in meeting its share of regional housing needs, as specified, and number of units approved and disapproved in the prior year.",
+  "The bill would authorize a city or county that met or exceeded its need for emergency shelter capacity and that provides committed support for interim housing, as defined, to report the number of interim housing units receiving that support that are approved, as specified, as units approved or disapproved for acutely low income households, for purposes of the annual progress report. The bill would require the department to allow approved interim housing units to account for up to 50% of the city’s or county’s share of the regional need for housing for acutely low income households, as specified.",
+  "Existing law requires the department to publish, by December 31, 2026, advisory guidance, including, but not limited to, sample analyses and programs, pertaining to special housing needs for acutely low and extremely low income households and programs to assist in the development of adequate housing to meet the needs of acutely low income households, as specified.",
+  "This bill would require the guidance to include advice regarding the impact of the above-described requirements regarding interim housing and pertaining to acutely low and extremely low income households, specifically how interim housing, as defined, that does not meet the United States Census Bureau guidelines definition of a “housing unit” may be reported in the annual progress report."
+ ],
+ "hash": "80eee5ef2de8f76e",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-03"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 6.",
+   "date": "2026-02-04"
+  },
+  {
+   "action": "Referred to Com. on HOUSING.",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-13"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 3902.) (April 15). Re-referred to Com. on APPR.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Set for hearing April 27.",
+   "date": "2026-04-17"
+  },
+  {
+   "action": "April 27 hearing: Placed on APPR. suspense file.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-08"
+  },
+  {
+   "action": "May 14 hearing: Held in committee and under submission.",
+   "date": "2026-05-14"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-03-26",
+  "id": "20250SB96798AMD",
+  "num": "98"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 65583.05 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) The Department of Housing and Community Development shall publish, by December 31, 2026, advisory guidance, including, but not limited to, sample analyses and programs, pertaining to both of the following:",
+    "(A) Special housing needs for acutely low and extremely low income households, as described in paragraph (7) of subdivision (a) of Section 65583.",
+    "(B) Programs to assist in the development of adequate housing to meet the needs of acutely low income households, as described in paragraph (2) of subdivision (c) of Section 65583.",
+    "(2) The guidance described in paragraph (1) shall provide advice regarding the impact of the statutory requirements pertaining to acutely low and extremely low income households on all of the following:",
+    "(A) Compliance with the requirements in Section 65583 to analyze potential and actual governmental constraints and, where appropriate and legally possible, remove governmental constraints.",
+    "(B) Compliance with Section 65583.5, including specifying how interim housing, as defined in Section 65583.5, that does not meet the United States Census Bureau guidelines definition of a “housing unit” may be reported in the annual progress report.",
+    "(C) Residential development project financial or other factors that impact feasibility.",
+    "(b) The Department of Housing and Community Development shall publish, by December 31, 2026, advisory guidance to be used by each council of governments, or delegate subregion, as applicable, to develop a proposed methodology for allocating the regional housing need for acutely low and extremely low income households to cities, counties, and cities and counties within the region or within the subregion pursuant to Section 65584.04."
+   ],
+   "sec": "65583.05",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65583.5 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For the purposes of this section, the following definitions apply:",
+    "(1) “Interim housing” means a noncongregate and relocatable low barrier navigation center as that term is defined in Section 65660.",
+    "(2) “Committed support for interim housing” means that the city or county enters into a legally enforceable agreement that lasts until the end of the planning cycle that obligates sufficient available funds or other in-kind services to provide the assistance necessary to make the identified interim housing units available for occupancy for the duration of the planning period.",
+    "(b) (1) For the purposes of subclause (II) of clause (i) of subparagraph (E) of paragraph (2) of subdivision (a) of Section 65400, a city or county that provides committed support for interim housing may report the number of interim housing units receiving that support that are approved.",
+    "(2) Any interim housing units that are relocated out of the jurisdiction, or that are no longer available for occupancy, shall be reported pursuant to subparagraph (H) of paragraph (2) of subdivision (a) of Section 65400.",
+    "(c) (1) The department shall allow approved interim housing units to account for up to 50 percent of the city’s or county’s share of the regional need for housing for acutely low income households allocated pursuant to Section 65584.",
+    "(2) (A) Interim housing units identified pursuant to paragraph (1) shall count for the planning cycle during which the units are approved.",
+    "(B) Interim housing units that are reported as relocated pursuant to paragraph (2) of subdivision (b) shall be removed from the total number of units approved to meet the city’s or county’s share of the regional need for housing for acutely low income households.",
+    "(d) The section shall only apply to a city or county that met or exceeded its need for emergency shelter capacity identified in paragraph (7) of subdivision (a) of Section 65583."
+   ],
+   "sec": "65583.5",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Planning and zoning: housing element: interim housing units: acutely low income households.",
+ "title": "An act to amend Section 65583.05 of, and to add Section 65583.5 to, the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-03",
+   "id": "20250SB96799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-26",
+   "id": "20250SB96798AMD",
+   "num": "98"
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lowenthal",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rivas",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  }
+ ],
+ "bill": "AB462",
+ "bill_id": "202520260AB462",
+ "chapter": {
+  "num": "491",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law provides for the creation by local ordinance, or by ministerial approval if a local agency has not adopted an ordinance, of accessory dwelling units in areas zoned for single-family or multifamily dwelling residential use in accordance with specified standards and conditions. Existing law prohibits a local agency from issuing a certificate of occupancy for an accessory dwelling unit before the local agency issues a certificate of occupancy for the primary dwelling.",
+  "This bill, notwithstanding that prohibition, would require a local agency to issue a certificate of occupancy for an accessory dwelling unit constructed in a county that is subject to a proclamation of a state of emergency made by the Governor on or after February 1, 2025, even if the primary dwelling has not yet been issued a certificate of occupancy, if certain requirements are met, including that the primary dwelling was substantially damaged or destroyed by an event referenced in the state of emergency proclamation. By imposing new duties on local agencies, the bill would impose a state-mandated local program.",
+  "Existing law requires a permitting agency to either approve or deny an application to create or serve an accessory dwelling unit within 60 days from the date the permitting agency receives a completed application if there is an existing single-family or multifamily dwelling on the lot. Existing law deems the application approved if the local agency has not approved or denied the completed application within 60 days. Under existing law, if the permit application to create or serve an accessory dwelling unit is submitted with a permit application to create or serve a new single-family or multifamily dwelling on the lot, the permitting agency may delay approving or denying the permit application for the accessory dwelling unit until the permitting agency approves or denies the permit application to create or serve the new single-family or multifamily dwelling, as provided.",
+  "The California Coastal Act of 1976, which is administered by the California Coastal Commission, requires any person wishing to perform or undertake any development in the coastal zone, as defined, to obtain a coastal development permit from a local government or the commission, except as provided. Existing law specifies that the laws governing accessory dwelling units do not supersede or in any way alter or lessen the effect or application of the act, except as specified.",
+  "This bill would create an exception to the above provision by requiring a local government or the commission, as specified, to either approve or deny a coastal development permit application for an accessory dwelling unit within 60 days of receiving a completed application. The bill would, notwithstanding that 60-day time limit, authorize the commission, if a coastal development permit application to create or serve an accessory dwelling unit is submitted with a coastal development permit application to create or serve a new single-family or multifamily dwelling on the lot, to delay approving or denying the coastal development permit application for the accessory dwelling unit until the commission approves or denies the coastal development permit application to create or serve the new single-family or multifamily dwelling. Under the bill, and except under the circumstance described above, if the commission has not approved or denied a completed application within 60 days, the application would be deemed approved.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "6af8164ceb8f14b3",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-06"
+  },
+  {
+   "action": "From printer. May be heard in committee March 9.",
+   "date": "2025-02-07"
+  },
+  {
+   "action": "Referred to Com. on H. & C.D.",
+   "date": "2025-02-18"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-02-27"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-02-28"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (March 12). Re-referred to Com. on APPR.",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-03-19"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (March 19).",
+   "date": "2025-03-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate. (Ayes 77. Noes 0. Page 955.).",
+   "date": "2025-04-01"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Re-referred to Coms. on N.R. & W. and HOUSING.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on N.R. & W.",
+   "date": "2025-05-13"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on HOUSING. (Ayes 7. Noes 0.) (July 8).",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-07-10"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (July 15).",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "In committee: Referred to suspense file.",
+   "date": "2025-08-18"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 39. Noes 0. Page 2916.).",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 3375.).",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2025-09-24"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 491, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250AB46292CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66328 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A local agency shall not issue a certificate of occupancy for an accessory dwelling unit before the local agency issues a certificate of occupancy for the primary dwelling.",
+    "(b) Notwithstanding subdivision (a), a local agency shall issue a certificate of occupancy for an accessory dwelling unit constructed in a county that is subject to a proclamation of a state of emergency made by the Governor on or after February 1, 2025, if both of the following requirements are met, even if the primary dwelling has not yet been issued a certificate of occupancy:",
+    "(1) The primary dwelling was substantially damaged or destroyed by an event referenced in the state of emergency proclamation issued by the Governor.",
+    "(2) The accessory dwelling unit has been issued construction permits and has passed all required inspections.",
+    "(c) Subdivision (b) does not apply to an accessory dwelling unit attached to the primary dwelling."
+   ],
+   "sec": "66328",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66329 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Except as provided in subdivision (b), nothing in this article shall be construed to supersede or in any way alter or lessen the effect or application of the California Coastal Act of 1976 (Division 20 (commencing with Section 30000) of the Public Resources Code), except that the local government shall, pursuant to Section 66317, either approve or deny a coastal development permit application for an accessory dwelling within 60 days of receiving a completed application, and shall not be required to hold public hearings for coastal development permit applications for accessory dwelling units. The process to approve or deny a coastal development permit application under this subdivision shall happen concurrently with the process to approve or deny an application for an accessory dwelling unit under Section 66317.",
+    "(b) (1) If the local government does not have a certified local coastal plan or program, as defined in Section 31001 of the Public Resources Code, then the California Coastal Commission shall either approve or deny the coastal development permit application for an accessory dwelling unit within 60 days of receiving a completed application.",
+    "(2) A local government that does not have a certified local coastal plan or program shall immediately notify the California Coastal Commission that a permit application for an accessory dwelling unit is complete pursuant to Section 66317.",
+    "(3) The California Coastal Commission’s review process to approve or deny a coastal development permit application shall happen concurrently with the process to approve or deny an application for an accessory dwelling unit under Section 66317 provided that the California Coastal Commission has received a completed application for a coastal development permit pursuant to Section 65943.",
+    "(4) Notwithstanding paragraph (1), if the coastal development permit application to create or serve an accessory dwelling unit is submitted with a coastal development permit application to create or serve a new single-family or multifamily dwelling on the lot, the California Coastal Commission may delay approving or denying the coastal development permit application for the accessory dwelling unit until the California Coastal Commission approves or denies the coastal development permit application to create or serve the new single-family or multifamily dwelling.",
+    "(5) Except as provided in paragraph (4), if the California Coastal Commission has not approved or denied the completed coastal development permit application for the accessory dwelling unit within 60 days, the application shall be deemed approved.",
+    "(c) Any decision of a local government pursuant to subdivision (a) is not subject to appeal under Section 30603 of the Public Resources Code."
+   ],
+   "sec": "66329",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Land use: accessory dwelling units.",
+ "title": "An act to amend Sections 66328 and 66329 of the Government Code, relating to land use, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-06",
+   "id": "20250AB46299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-02-27",
+   "id": "20250AB46298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-13",
+   "id": "20250AB46297AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-10",
+   "id": "20250AB46296AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-17",
+   "id": "20250AB46295AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-08-29",
+   "id": "20250AB46294AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-16",
+   "id": "20250AB46293ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250AB46292CHP",
+   "num": "92"
+  }
+ ]
+}

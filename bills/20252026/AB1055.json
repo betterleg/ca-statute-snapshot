@@ -1,0 +1,124 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Boerner",
+   "primary": true
+  }
+ ],
+ "bill": "AB1055",
+ "bill_id": "202520260AB1055",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, provides for the creation of an accessory dwelling unit by local ordinance or, if a local agency has not adopted an ordinance, by ministerial approval, in accordance with specified standards. Existing law similarly provides for the creation of junior accessory dwelling units by local ordinance or, if a local agency has not adopted an ordinance, by ministerial approval, in single-family residential zones in accordance with specified standards and conditions. Existing law generally prohibits a local agency from imposing additional standards, as specified, when evaluating a proposed accessory dwelling unit on a lot that includes a proposed or existing single-family dwelling. However, existing law authorizes a local agency to require that the property be used for rentals of terms 30 days or longer.",
+  "This bill would additionally authorize a local agency to require the property owner to certify, as specified, that the accessory dwelling unit will be occupied as a residential dwelling unit for at least 6 months out of each calendar year. The bill would authorize the local agency to annually recertify, as specified, that the accessory dwelling unit is occupied as a residential dwelling unit for at least 6 months out of each calendar year. The bill would require the local agency, in enforcing the annual recertification provisions described above, to include at least 2 notices to the owner of the accessory dwelling unit, and would prohibit the local agency from, among other things, charging more than a reasonable fine for failure to comply with the above-described annual certification provisions, as specified."
+ ],
+ "hash": "462fa63ed8b5ced6",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-03-11"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1265.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "(Pending re-refer to Com. on L. GOV.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-04-10",
+  "id": "20250AB105597AMD",
+  "num": "97"
+ },
+ "location": "CX10",
+ "sections": [
+  {
+   "action": "Section 66315 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "Section 66314 establishes the maximum standards that a local agency shall use to evaluate a proposed accessory dwelling unit on a lot that includes a proposed or existing single-family dwelling. No additional standards, other than those provided in Section 66314, shall be used or imposed, including an owner-occupant requirement, except that a local agency may require any of the following:",
+    "(a) That the property may be used for rentals of terms 30 days or longer.",
+    "(b) (1) The property owner to certify that the accessory dwelling unit will be occupied as a residential dwelling unit for at least six months out of each calendar year.",
+    "(2) The certification shall not be made under penalty of perjury.",
+    "(c) The local agency may annually recertify for the first 10 years, through self-certification of the owner of the accessory dwelling unit, that the accessory dwelling unit is occupied as a residential dwelling unit for at least six months out of each calendar year.",
+    "(d) (1) In enforcing subdivision (c), a local agency shall include at least two notices to the owner of the accessory dwelling unit.",
+    "(2) In enforcing subdivision (c), a local agency shall not do either of the following:",
+    "(A) Require the owner of an accessory dwelling unit to tear down their accessory dwelling unit for not being used as a residential dwelling unit for at least six months out of each calendar year.",
+    "(B) (i) Charge more than a reasonable fine for failure to comply with subdivision (c).",
+    "(ii) For purposes of this subparagraph, a reasonable fine is a fine as described in subdivision (c) of Section 25132."
+   ],
+   "sec": "66315",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Accessory dwelling units: proof of residential occupancy requirements.",
+ "title": "An act to amend Section 66315 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB105599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-10",
+   "id": "20250AB105598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB105597AMD",
+   "num": "97"
+  }
+ ]
+}

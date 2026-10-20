@@ -1,0 +1,133 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Dixon",
+   "primary": true
+  }
+ ],
+ "bill": "AB623",
+ "bill_id": "202520260AB623",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "(1) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would exempt a fuel modification project to maintain defensible space of 100 feet from each side and from the front and rear of a building or structure from the requirements of CEQA. Because a lead agency would be required to determine whether a project qualifies for this exemption, the bill would impose a state-mandated local program.",
+  "(2) The California Coastal Act of 1976, among other things, requires anyone wishing to perform or undertake any development in the coastal zone, in addition to obtaining any other permit required by law from any local government or from any state, regional, or local agency, to obtain a coastal development permit from the California Coastal Commission or a local government, as provided. Existing law exempts certain emergency work and emergency projects from these requirements, as specified.",
+  "This bill would exempt a fuel modification project to maintain defensible space of 100 feet from each side and from the front and rear of a building or structure and a fuel reduction project to prevent and contain the spread of wildfires from these requirements.",
+  "(3) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "b05d9ad9e25ae758",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-13"
+  },
+  {
+   "action": "From printer. May be heard in committee March 16.",
+   "date": "2025-02-14"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-03-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (January 12).",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-01-15"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to suspense file.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2026-01-14",
+  "id": "20250AB62396AMD",
+  "num": "96"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Section 21080.08 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "Except as specified in Section 4799.05, this division does not apply to fuel modification projects to maintain defensible space of 100 feet from each side and from the front and rear of a building or structure."
+   ],
+   "sec": "21080.08",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Fire prevention: fuel modification or reduction projects: reports.",
+ "title": "An act to amend Section 30600 of, and to add Section 21080.08 to, the Public Resources Code, relating to fire prevention.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-13",
+   "id": "20250AB62399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-17",
+   "id": "20250AB62398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-21",
+   "id": "20250AB62397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-01-14",
+   "id": "20250AB62396AMD",
+   "num": "96"
+  }
+ ]
+}

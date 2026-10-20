@@ -1,0 +1,247 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Committee on Budget",
+   "primary": true
+  }
+ ],
+ "bill": "AB137",
+ "bill_id": "202520260AB137",
+ "chapter": {
+  "num": "20",
+  "year": "2025"
+ },
+ "digest": [
+  "(1) The California Consumer Privacy Act of 2018 (CCPA) grants to a consumer various rights with respect to personal information, as defined, that is collected by a business, as defined, including the right to request that a business delete personal information about the consumer that the business has collected from the consumer. The California Privacy Rights Act of 2020, an initiative measure approved by the voters as Proposition 24 at the November 3, 2020, statewide general election, amended, added to, and reenacted the CCPA. The CCPA establishes the California Privacy Protection Agency with full administrative power, authority, and jurisdiction to implement and enforce the CCPA.",
+  "The CCPA creates the Consumer Privacy Fund in the State Treasury and makes moneys in the fund available upon appropriation by the Legislature first to offset any costs incurred by the state courts in connection with actions brought to enforce the CCPA, the costs incurred by the Attorney General in carrying out the Attorney General’s duties under the CCPA, and then for the purposes of establishing an investment fund in the State Treasury, with any earnings or interest from the fund to be deposited into the General Fund, and making grants to promote and protect consumer privacy, educate children in the area of online privacy, and fund cooperative programs with international law enforcement organizations to combat fraudulent activities with respect to consumer data breaches, as prescribed.",
+  "This bill would revise and restructure the Consumer Privacy Fund by creating the Consumer Privacy Subfund, the Attorney General Consumer Privacy Enforcement Subfund, and the Consumer Privacy Grant Subfund within the fund. The bill would require moneys in the fund and each subfund to be used for prescribed purposes, and make moneys in the fund and each subfund available upon appropriation by the Legislature. The bill would require 95% of any administrative fine recovered in an action brought by the agency for a violation of the CPPA, and of the proceeds of any settlement of those actions, to be deposited into the Consumer Privacy Subfund to be used exclusively by the agency in carrying out its duties under the CCPA, and 95% of any civil penalty recovered in an action brought by the Attorney General for a violation of the CCPA to be deposited into the Attorney General Consumer Privacy Enforcement Subfund to be used exclusively by the Attorney General in carrying out its duties under the CCPA. The bill would require 5% of any administrative fine recovered in an action brought by the agency for a violation of the CCPA, and of the proceeds of any settlement of those actions, to be deposited into the Consumer Privacy Grant Subfund, and 5% of any civil penalty recovered in an action brought by the Attorney General for a violation of the CCPA to be deposited into that subfund.",
+  "The bill would require funds deposited into the Consumer Privacy Grant Subfund to be used exclusively by the agency to administer and distribute grants to promote and protect consumer privacy, educate children in the area of online privacy, and fund cooperative programs with international law enforcement organizations to combat fraudulent activities with respect to consumer data breaches. The bill would require the agency, subject to that provision, to make grants from the subfund by distributing 13 of the amount allocated for grant funding to specified grant recipients, including nonprofit organizations to promote and protect consumer privacy. The bill would require the agency to begin administering the grant program when the amount of funds within the subfund exceeds $300,000.",
+  "The bill would require specified percentages of any remaining funds in the Consumer Privacy Fund that were not appropriated as part of the 2025 Budget Act to be transferred on a one-time basis in the 2025–26 fiscal year to each subfund, including that 45% is transferred to the Consumer Privacy Subfund, 45% is transferred to the Attorney General Consumer Privacy Enforcement Subfund, and 10% is transferred to the Consumer Privacy Grant Subfund.",
+  "This bill would declare that the above provisions further the purposes and intent of the California Privacy Rights Act of 2020.",
+  "(2) Existing law establishes the Department of Financial Protection and Innovation and gives the department the responsibility for administering various laws. Existing law establishes the Financial Protection Fund to support the department in the administration of these laws, and requires that all expenses and salaries of the department be paid out of the fund, upon appropriation by the Legislature for these purposes. Existing law provides that the chief officer of the department is the Commissioner of Financial Protection and Innovation. Existing law requires various entities to pay various fees to the commissioner for various services or licenses provided by the commissioner and the department.",
+  "This bill would change some of those fees, as specified. The bill would also make other technical changes.",
+  "(3) When a state or local agency is required or requested by law to submit a report to the Legislature, existing law requires submission of the report as a printed copy to the Secretary of the Senate, an electronic copy to the Chief Clerk of the Assembly, and an electronic or printed copy to the Legislative Counsel.",
+  "This bill would instead require a state or local agency report to the Legislature to be submitted as electronic copies to the Secretary of the Senate, the Chief Clerk of the Assembly, and the Legislative Counsel.",
+  "(4) Existing law requires a state agency to review all proprietary state lands under its jurisdiction, as specified, to determine what land is in excess of its needs, and to report on these lands to the Department of General Services. Existing law prescribes a process for the disposition of surplus state property.",
+  "This bill would require the Secretary of the Department of Corrections and Rehabilitation, upon approval from the Department of Finance, to notify the Department of General Services and the Joint Legislative Budget Committee of any state real property under its jurisdiction that has been determined to be excess to its needs. The bill would authorize the Department of General Services, upon authorization by the Legislature, to sell, lease, exchange, or otherwise dispose of excess state real property under the jurisdiction of the Department of Corrections and Rehabilitation, as specified. Notwithstanding those provisions, the bill would authorize the Department of General Services to execute leases for those properties, as provided. The bill would require that revenues received pursuant to the bill’s provisions, except those deposited into the Deficit Recovery Bond Retirement Sinking Fund Subaccount and the Special Fund for Economic Uncertainties, and those used to reimburse costs and expenses incurred by the Department of General Services, be deposited into the Property Acquisition Law Money Account and be available for transfer into the Architectural Revolving Fund for expenditure by the Department of General Services to improve the likelihood of successful redevelopment of the property, as provided. Because the bill would require revenues to be transferred into continuously appropriated accounts and funds, it would make an appropriation.",
+  "(5) Existing law generally requires a state agency to obtain written consent of the Attorney General before employing in-house counsel, as defined, to represent a state agency or employee in any judicial or administrative adjudicative proceeding, or contracting with outside counsel, as defined. Existing law exempts specified circumstances from these requirements, including the employment by certain state officers and agencies or when specifically waived pursuant to other provisions. Existing law specifies that provisions relating to legal representation of state agencies do not prohibit a state agency from obtaining legal services from the Attorney General for any purpose.",
+  "This bill would also exempt the employment of outside counsel for specified purposes relating to civil discovery from the above-described requirement to obtain written consent of the Attorney General. The bill would revise and recast the latter provision to instead specify these provisions do not prohibit a state agency from requesting legal representation or legal services from the Attorney General for any purpose.",
+  "Existing law prohibits a state agency from employing any in-house counsel to act on behalf of the state agency or its employees in any judicial or administrative adjudicative proceeding in which, among other things, the agency is interested, or from contracting with outside counsel or any purpose, unless the agency has first obtained the written consent of the Attorney General, as described above. Existing law exempts from this prohibition, among other state officers and agencies, the Regents of the University of California.",
+  "This bill would also include the office of the Governor among the state officers and agencies that are exempt from the prohibition on employing in-house counsel without obtaining written consent of the Attorney General as described above, and would also exempt from that prohibition the representation of a state agency related to civil discovery in any action brought by the Attorney General in their independent capacity on behalf of the people of the State of California or the State of California, as specified. The bill would specify that nothing in the latter exemption prohibits a state agency from requesting representation from the Attorney General in any other proceeding, and specify that the purpose of the prohibition is to promote fiscal efficiency and economy.",
+  "Existing law states the intent of the Legislature that the overall efficiency and economy in state government is to be enhanced by the employment of the Attorney General as counsel for the representation of state agencies and employees in judicial and administrative adjudicative proceedings.",
+  "This bill would specify that it is the overall fiscal efficiency and economy in state government that is to be enhanced as described above, and make additional findings and declarations related to its provisions. The bill would specify, among other things, that the Attorney General has no possession, custody, or control over any state agency’s documents or electronically stored information for purposes of criminal or civil discovery or any other purpose.",
+  "(6) Existing federal law, the Indian Gaming Regulatory Act, provides for the negotiation and execution of tribal-state gaming compacts for the purpose of authorizing certain types of gaming on Indian lands within a state. The California Constitution authorizes the Governor to negotiate and conclude compacts, subject to ratification by the Legislature.",
+  "Existing law ratifies a number of tribal-state gaming compacts between the State of California and specified Indian tribes. Existing law creates in the State Treasury the Indian Gaming Special Distribution Fund for the receipt and deposit of moneys received by the state from Indian tribes pursuant to the terms of gaming compacts entered into with the state. Existing law authorizes moneys in the Indian Gaming Special Distribution Fund to be appropriated for certain purposes, including, among others, for programs designed to address gambling addiction, support of state and local governmental agencies impacted by tribal government gaming, and compensation for regulatory costs incurred in connection with implementing and administering tribal-state gaming compacts. Existing law establishes an order of priority for funding in the Indian Gaming Special Distribution Fund.",
+  "This bill would delete the authorization for moneys in the fund to be appropriated for support of state and local governmental agencies impacted by tribal government gaming. The bill would authorize moneys in the fund to be appropriated for compensation for regulatory costs incurred in connection with implementing and administering class III gaming secretarial procedures. The bill would delete the order of priority for funding.",
+  "(7) Existing law creates the California Small Business Technical Assistance Program within the California Office of Small Business Advocate, under the direct authority of the Small Business Advocate. Existing law requires the office to administer the program to provide grants to expand the capacity of small business development technical assistance centers in California, as specified. Existing law also requires the office, subject to appropriation of necessary funds by the Legislature, to establish a supplemental grant program designated as the California Dream Fund Program to provide microgrants disbursed through California Small Business Technical Assistance Program grantees to seed entrepreneurship and small business creation. Existing law sets forth the criteria that an applicant must meet to be eligible to participate in these programs.",
+  "This bill would, if an applicant’s federal contract was canceled, frozen, or rescinded, except as specified, in the 2024–25 fiscal year, for grants made in fiscal years 2025–26 to 2027–28, inclusive, establish, until June 30, 2029, specified exceptions and modifications to the eligibility criteria. The bill would require the office to review and confirm that the applicant continues to meet state performance standards and provides high-quality, equitable technical assistance services, and to report its findings and actions to the Legislature.",
+  "(8) The Bergeson-Peace Infrastructure and Economic Development Bank Act establishes the Infrastructure and Economic Development Bank (I-Bank) in the Governor’s Office of Business and Economic Development, that is governed by a board of directors. Existing law, the Climate Catalyst Revolving Loan Fund Act of 2020, authorizes the I-Bank, under the Climate Catalyst Revolving Loan Fund Program, to provide financial assistance to any eligible sponsor or participating party for eligible climate catalyst projects, either directly to the sponsor or participating party or to a lending or financial institution, as specified. Existing law establishes the Climate Catalyst Revolving Loan Fund within the State Treasury, which is continuously appropriated for purposes of the program, except as specified. Existing law requires the I-Bank to adopt a climate catalyst financing plan, as defined, in consultation with specified state agencies. Existing law identifies areas of climate catalyst projects and consulting agencies for each area.",
+  "This bill would revise and recast the above-described climate catalyst financing plan provisions to instead require the I-Bank to adopt a climate catalyst plan for each category of climate catalyst projects identified, in consultation with the corresponding consulting agencies. The bill would rename the act, program, and fund, as specified, and would make conforming changes throughout.",
+  "Existing law requires the I-Bank by January 1 of each year, to submit to prescribed recipients a report containing information on the I-Bank’s activities relating to the infrastructure bank fund and programs for the preceding fiscal year.",
+  "This bill would additionally require the I-Bank to submit the above-described report to the legislative budget subcommittees related to the climate. The bill would also require the I-Bank to provide written notification to the Joint Legislative Budget Committee when federal funds are fully recycled into state dollars before committing to any additional financing projects.",
+  "Existing law requires the I-Bank, in each fiscal year following the adoption of the initial climate catalyst financing plan, to contact each consulting agency to discuss potential revisions to the plan and requires the I-Bank to consider adopting a revised plan reflecting any material revisions.",
+  "This bill would instead authorize the I-Bank to consider adopting a revised climate catalyst financing plan if consultation with the consulting agencies results in proposed revisions. The bill would require any revisions to, or repeals of, a climate catalyst financing plan to take effect 30 days after the I-Bank provides written notice to the Joint Legislative Budget Committee, or not sooner than whatever lesser time after that notification the chairperson of the joint committee, or the chairperson’s designee, may determine. The bill would remove the State Energy Resources Conservation and Development Commission, the State Air Resources Board, the Department of Conservation, and the Department of Resources, Recycling, and Recovery as consulting agencies for climate catalyst projects relating to the federal Greenhouse Gas Reduction Fund.",
+  "Existing law requires the I-Bank, by January 1 of each year, to prepare and submit a report regarding Climate Catalyst Revolving Loan Fund Program activity, including specified financing information.",
+  "This bill would additionally require that the above-described report include the total amount of federal moneys applied to the climate catalyst project.",
+  "Existing law authorizes the I-Bank to provide financial assistance only for climate catalyst projects that the I-Bank approved before July 1, 2025.",
+  "This bill would extend the July 1, 2025, date to December 31, 2031, thereby extending the financial assistance authorization. By extending the operation of a continuously appropriated fund, this bill would make an appropriation.",
+  "Existing law exempts from public disclosure specified financial information and records provided to the I-Bank on and after August 1, 2022, and before July 1, 2025.",
+  "This bill would extend the July 1, 2025, date to January 1, 2032.",
+  "Existing constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.",
+  "This bill would make legislative findings to that effect.",
+  "(9) The Planning and Zoning Law requires each county and city to adopt a comprehensive, long-term general plan that includes, among other mandatory elements, a housing element. Existing law requires the city or county’s planning agency, after the legislative body has adopted a general plan, to submit an annual report to the legislative body, the Office of Land Use and Climate Innovation, and the Department of Housing and Community Development. Existing law requires the housing element portion of the annual report to be prepared through the use of standards, forms, and definitions adopted by the Department of Housing and Community Development and exempts those standards, forms, and definitions from the rulemaking requirements of the Administrative Procedure Act.",
+  "This bill would similarly require the annual report, except for the housing element portion as described above, to be prepared through the use of standards, forms, and definitions adopted by the Office of Land Use and Climate Innovation and would also exempt these standards, forms, and definitions from the rulemaking requirements of the Administrative Procedure Act. By imposing new duties on a city or county’s planning agency, this bill would impose a state-mandated local program.",
+  "Chapter 41 of the Statutes of 2024 renamed the Governor’s Office of Planning and Research the Office of Land Use and Climate Innovation and requires all references to the Governor’s Office of Planning and Research to be deemed references to the Office of Land Use and Climate Innovation.",
+  "This bill would correct an outdated reference to the Office of Planning and Research.",
+  "(10) Existing law establishes the Integrated Climate Adaptation and Resiliency Program, administered by the Office of Land Use and Climate Innovation, and requires the office to develop the California Climate Change Assessment to provide, among other products, reports that examine how climate change will affect the welfare of vulnerable communities and decision-support tools for organizations that serve vulnerable communities. For these and related purposes, existing law defines “vulnerable communities” as having the meaning of “vulnerable communities” that was adopted by the Integrated Climate Adaption and Resiliency Program Technical Advisory Council at the council’s April 2, 2018, meeting and recorded in the “Defining Vulnerable Communities in the Context of Climate Adaptation” resource guide published by the office in July 2018.",
+  "This bill would provide that, for these and related purposes, “vulnerable communities” has the meaning of “vulnerable communities” adopted by the council in the most up-to-date “Defining Vulnerable Communities in the Context of Climate Adaptation” resource guide published by the office.",
+  "(11) Existing law, the California Hope, Opportunity, Perseverance, and Empowerment (HOPE) for Children Trust Account Act, establishes a program to provide a trust fund account to an eligible child. For purposes of that act, an “eligible child” is defined to include minor residents of California who are specified dependents or wards under the jurisdiction of the juvenile court in foster care with reunification services terminated by court order, or who have a parent, Indian custodian, or legal guardian who died due to COVID-19 during the federally declared COVID-19 public health emergency and meet a specified family household income limit. Existing law establishes the HOPE for Children Trust Account Fund in the State Treasury, and continuously appropriates moneys in the fund to the board and Treasurer for implementation of the program.",
+  "This bill would expand the definition of “eligible child” to include residents of California who are 18 years of age or older who, prior to attaining 18 years of age, had a parent, Indian custodian, or legal guardian who died due to COVID-19 during the federally declared COVID-19 public health emergency and met the specified family household income limit, thereby expanding eligibility for a HOPE trust account. By expanding eligibility for HOPE trust accounts, which are funded through a continuously appropriated fund, this bill would make an appropriation.",
+  "(12) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason.",
+  "(13) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
+ ],
+ "hash": "6733a24429e9d844",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-01-08"
+  },
+  {
+   "action": "From printer. May be heard in committee February 8.",
+   "date": "2025-01-09"
+  },
+  {
+   "action": "Referred to Com. on BUDGET.",
+   "date": "2025-02-03"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "(Ayes 53. Noes 17. Page 643.)",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 53. Noes 17. Page 731.)",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Referred to Com. on B. & F. R.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
+   "date": "2025-06-24"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 13. Noes 5.) (June 25).",
+   "date": "2025-06-25"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-06-26"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 29. Noes 9. Page 1807.).",
+   "date": "2025-06-27"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-06-27"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Ayes 54. Noes 19. Page 2329.)",
+   "date": "2025-06-27"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 58. Noes 18. Page 2338.).",
+   "date": "2025-06-27"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3:15 p.m.",
+   "date": "2025-06-27"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-06-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 20, Statutes of 2025.",
+   "date": "2025-06-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-06-30",
+  "id": "20250AB13796CHP",
+  "num": "96"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65400 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) After the legislative body has adopted all or part of a general plan, the planning agency shall do both of the following:",
+    "(1) Investigate and make recommendations to the legislative body regarding reasonable and practical means for implementing the general plan or element of the general plan so that it will serve as an effective guide for orderly growth and development, preservation and conservation of open-space land and natural resources, and the efficient expenditure of public funds relating to the subjects addressed in the general plan.",
+    "(2) Provide by April 1 of each year an annual report to the legislative body, the Office of Land Use and Climate Innovation, and the Department of Housing and Community Development that includes all of the following:",
+    "(A) The status of the plan and progress in its implementation.",
+    "(B) (i) (I) The progress in meeting its share of regional housing needs determined pursuant to Section 65584, including the need for extremely low income households, as determined pursuant to Section 65583, and local efforts to remove governmental constraints to the maintenance, improvement, and development of housing pursuant to paragraph (3) of subdivision (c) of Section 65583.",
+    "(II) The annual report shall include the progress in meeting the city’s or county’s progress in meeting its share of regional housing need, as described in subclause (I), for the sixth and previous revisions of the housing element.",
+    "(ii) The housing element portion of the annual report, as required by this paragraph, shall be prepared through the use of standards, forms, and definitions adopted by the Department of Housing and Community Development. The department may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2. Before and after adoption of the forms, the housing element portion of the annual report shall include a section that describes the actions taken by the local government towards completion of the programs and status of the local government’s compliance with the deadlines in its housing element. The report shall be considered at an annual public meeting before the legislative body where members of the public shall be allowed to provide oral testimony and written comments.",
+    "(iii) The report may include the number of units that have been completed pursuant to subdivision (c) of Section 65583.1. For purposes of this paragraph, committed assistance may be executed throughout the planning period, and the program under paragraph (1) of subdivision (c) of Section 65583.1 shall not be required. The report shall document how the units meet the standards set forth in that subdivision.",
+    "(iv) The planning agency shall include the number of units in a student housing development for lower income students for which the developer of the student housing development was granted a density bonus pursuant to subparagraph (F) of paragraph (1) of subdivision (b) of Section 65915.",
+    "(C) The number of housing development applications received in the prior year, including whether each housing development application is subject to a ministerial or discretionary approval process.",
+    "(D) The number of units included in all development applications in the prior year.",
+    "(E) (i) The number of units approved and disapproved in the prior year, which shall include all of the following subcategories:",
+    "(I) The number of units located within an opportunity area.",
+    "(II) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for acutely low income households within each opportunity area.",
+    "(III) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for extremely low income households within each opportunity area.",
+    "(IV) The number of units approved and disapproved for very low income households within each opportunity area.",
+    "(V) The number of units approved and disapproved for lower income households within each opportunity area.",
+    "(VI) The number of units approved and disapproved for moderate-income households within each opportunity area.",
+    "(VII) The number of units approved and disapproved for above moderate-income households within each opportunity area.",
+    "(ii) For purposes of this subparagraph, “opportunity area” means a highest, high, moderate, or low resource area pursuant to the most recent “CTCAC/HCD Opportunity Map” published by the California Tax Credit Allocation Committee and the Department of Housing and Community Development.",
+    "(F) The degree to which its approved general plan complies with the guidelines developed and adopted pursuant to Section 65040.2 and the date of the last revision to the general plan.",
+    "(G) A listing of sites rezoned to accommodate that portion of the city’s or county’s share of the regional housing need for each income level that could not be accommodated on sites identified in the inventory required by paragraph (1) of subdivision (c) of Section 65583 and Section 65584.09. The listing of sites shall also include any additional sites that may have been required to be identified by Section 65863.",
+    "(H) (i) The number of units of housing demolished and new units of housing, including both rental housing and for-sale housing and any units that the County of Napa or the City of Napa may report pursuant to an agreement entered into pursuant to Section 65584.08, that have been issued a completed entitlement, a building permit, or a certificate of occupancy, thus far in the housing element cycle, and the income category, by area median income category, that each unit of housing satisfies. That production report shall do the following:",
+    "(I) For each income category described in this subparagraph, distinguish between the number of rental housing units and the number of for-sale units that satisfy each income category.",
+    "(II) For each entitlement, building permit, or certificate of occupancy, include a unique site identifier that must include the assessor’s parcel number, but may also include street address, or other identifiers.",
+    "(ii) For the County of Napa and the City of Napa, the production report may report units identified in the agreement entered into pursuant to Section 65584.08.",
+    "(I) The number of applications submitted pursuant to subdivision (a) of Section 65913.4, the location and the total number of developments approved pursuant to subdivision (c) of Section 65913.4, the total number of building permits issued pursuant to subdivision (c) of Section 65913.4, the total number of units including both rental housing and for-sale housing by area median income category constructed using the process provided for in subdivision (c) of Section 65913.4.",
+    "(J) If the city or county has received funding pursuant to the Local Government Planning Support Grants Program (Chapter 3.1 (commencing with Section 50515) of Part 2 of Division 31 of the Health and Safety Code), the information required pursuant to subdivision (a) of Section 50515.04 of the Health and Safety Code.",
+    "(K) The progress of the city or county in adopting or amending its general plan or local open-space element in compliance with its obligations to consult with California Native American tribes, and to identify and protect, preserve, and mitigate impacts to places, features, and objects described in Sections 5097.9 and 5097.993 of the Public Resources Code, pursuant to Chapter 905 of the Statutes of 2004.",
+    "(L) The following information with respect to density bonuses granted in accordance with Section 65915:",
+    "(i) The number of density bonus applications received by the city or county.",
+    "(ii) The number of density bonus applications approved by the city or county.",
+    "(iii) Data from all projects approved to receive a density bonus from the city or county, including, but not limited to, the percentage of density bonus received, the percentage of affordable units in the project, the number of other incentives or concessions granted to the project, and any waiver or reduction of parking standards for the project.",
+    "(M) The following information with respect to each application submitted pursuant to Chapter 4.1 (commencing with Section 65912.100):",
+    "(i) The location of the project.",
+    "(ii) The status of the project, including whether it has been entitled, whether a building permit has been issued, and whether or not it has been completed.",
+    "(iii) The number of units in the project.",
+    "(iv) The number of units in the project that are rental housing.",
+    "(v) The number of units in the project that are for-sale housing.",
+    "(vi) The household income category of the units, as determined pursuant to subdivision (f) of Section 65584.",
+    "(N) A list of all historic designations listed on the National Register of Historic Places, the California Register of Historic Resources, or a local register of historic places by the city or county in the past year, and the status of any housing development projects proposed for the new historic designations, including all of the following:",
+    "(i) Whether the housing development project has been entitled.",
+    "(ii) Whether a building permit has been issued for the housing development project.",
+    "(iii) The number of units in the housing development project.",
+    "(b) (1) (A) The department may request corrections to the housing element portion of an annual report submitted pursuant to paragraph (2) of subdivision (a) within 90 days of receipt. A planning agency shall make the requested corrections within 30 days after which the department may reject the report if the report is not in substantial compliance with the requirements of that paragraph.",
+    "(B) If the department rejects the housing element portion of an annual report as authorized by subparagraph (A), the department shall provide the reasons the report is inconsistent with paragraph (2) of subdivision (a) to the planning agency in writing.",
+    "(2) If a court finds, upon a motion to that effect, that a city, county, or city and county failed to submit, within 60 days of the deadline established in this section, the housing element portion of the report required pursuant to subparagraph (B) of paragraph (2) of subdivision (a) that substantially complies with the requirements of this section, the court shall issue an order or judgment compelling compliance with this section within 60 days. If the city, county, or city and county fails to comply with the court’s order within 60 days, the plaintiff or petitioner may move for sanctions, and the court may, upon that motion, grant appropriate sanctions. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If the court determines that its order or judgment is not carried out within 60 days, the court may issue further orders as provided by law to ensure that the purposes and policies of this section are fulfilled. This subdivision applies to proceedings initiated on or after the first day of October following the adoption of forms and definitions by the Department of Housing and Community Development pursuant to paragraph (2) of subdivision (a), but no sooner than six months following that adoption.",
+    "(c) The Department of Housing and Community Development shall post a report submitted pursuant to this section on its internet website within a reasonable time of receiving the report.",
+    "(d) Except for the housing element portion as provided in subparagraph (B) of paragraph (2) of subdivision (a), an annual report submitted pursuant to this section shall be prepared through the use of standards, forms, and definitions adopted by the Office of Land Use and Climate Innovation. The office may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2."
+   ],
+   "sec": "65400",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "State government.",
+ "title": "An act to amend Sections 1798.155, 1798.160, 1798.199.55, and 1798.199.90 of the Civil Code, to amend Sections 25608 and 31500 of the Corporations Code, to amend Sections 408, 501, 1674, 2038, 4839, 14353.5, 16006, 16505, 17207, and 50401 of the Financial Code, to amend Sections 7929.011, 9795, 10242.5, 11040, 11041, 11042, 12012.85, 12100.63, 63035, 63048.91, 63048.92, 63048.93, 63048.94, 63048.95, 63048.96, 63048.97, 63048.99, 63048.100, and 65400 of, to amend the heading of Article 6.7 (commencing with Section 63048.91) of Chapter 2 of Division 1 of Title 6.7 of, and to add Sections 11011.4 and 11043 to, the Government Code, to amend Sections 25661.5 and 71340 of the Public Resources Code, and to amend Section 18997.51 of the Welfare and Institutions Code, relating to state government, and making an appropriation therefor, to take effect immediately, bill related to the budget.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-08",
+   "id": "20250AB13799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-06-24",
+   "id": "20250AB13798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-06-27",
+   "id": "20250AB13797ENR",
+   "num": "97"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-06-30",
+   "id": "20250AB13796CHP",
+   "num": "96"
+  }
+ ]
+}

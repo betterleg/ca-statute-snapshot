@@ -1,0 +1,115 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Fong",
+   "primary": true
+  }
+ ],
+ "bill": "AB945",
+ "bill_id": "202520260AB945",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development within the city or county with a density bonus and other incentives or concessions, as specified, if the developer agrees to construct, among other options, specified percentages of units for lower income households or very low income households, and meets other requirements. Under existing law, the number of incentives or concessions granted to a development under the Density Bonus Law vary based on the percentage of affordable units within the development, or whether the development serves specified other target populations, as provided. Existing law establishes the Department of Housing and Community Development (HCD) in the Business, Consumer Services, and Housing Agency and requires it to administer various programs intended to promote the development of housing. Existing law establishes the State Energy Resources Conservation and Development Commission (the commission), consisting of 5 members, and establishes various duties and responsibilities of the commission relating to energy usage in the state.",
+  "This bill would require a city or county to grant additional incentives or concessions when an applicant proposes to construct a green housing development, as defined. The bill would require that the number of incentives or concessions granted initially be set to 3 and would require HCD, as specified, to evaluate and report on the number and type of units and developments entitled, permitted, and constructed pursuant to these provisions. The bill would require HCD, in this report, to maintain or alter the number of incentives or concessions granted under these provisions, as prescribed. The bill would require a city or county to report, as specified, at least annually to HCD on the quantity of green housing developments where the applicant has requested additional incentives or concessions under these provisions. The bill would also prohibit a city or county from requiring that a green housing development include car parking. By expanding a city or county’s duties to administer incentives or concessions, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "b613a78b58dcbb8b",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2025-02-19",
+  "id": "20250AB94599INT",
+  "num": "99"
+ },
+ "location": "CX10",
+ "sections": [
+  {
+   "action": "Section 65915.6 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A city or county shall grant additional incentives or concessions to an applicant for a density bonus that receives incentives or concessions pursuant to subdivision (d) of Section 65915 when the applicant proposes to construct a green housing development, as follows:",
+    "(1) For applications submitted on or after January 1, 2026, and before January 1, 2031, the number of incentives or concessions shall be set to three.",
+    "(2) (A) On or before January 1, 2031, and January 1 of each fourth year thereafter, HCD shall evaluate and report on the number and type of units and developments entitled, permitted, and constructed pursuant to this section and post the report on its internet website.",
+    "(B) Based on the report pursuant to subparagraph (A), HCD shall adopt and issue regulations that maintain or alter the number of incentives or concessions granted under this subdivision as follows:",
+    "(i) HCD shall set the number of incentives or concessions so as to target the application of this section to the entitlement, permitting, and construction of at least 2 percent of the statewide aggregated total minimum regional housing need determination, as set by the HCD pursuant to Section 65584, prorated over the four-year reporting period.",
+    "(ii) If entitlement, permitting, construction, or other data indicate that less than the target number of homes have been constructed, permitted, or entitled over the coming four-year period, HCD shall increase the number of incentives or concessions granted under this subdivision by one or two incentives or concessions, as appropriate to incentivize additional green housing developments, effective immediately upon issuing the regulation.",
+    "(iii) If data indicate that the number of homes entitled, permitted, and being constructed pursuant to this section is likely to achieve the minimum target in clause (i), HCD shall maintain the existing number of incentives or concessions.",
+    "(b) The incentives or concessions granted under this subdivision shall be in addition to any other incentives or concessions, increase in density, or other incentives otherwise awarded under Section 65915.",
+    "(c) Notwithstanding any other law, a city or county shall not require that a green housing development include car parking.",
+    "(d) Beginning on or before January 1, 2027, and on or before January 1 each year thereafter, a city or county shall report at least annually to HCD on the quantity of green housing developments where the applicant has requested additional incentives or concessions under this section.",
+    "(1) The report shall, at minimum, include the square footage, number of units, and number of developments that have received entitlements, been issued building permits, and been certified for occupancy, as well as the units’ affordability deed restrictions and any green or resilient building standards used to satisfy the requirements of paragraph (3) of subdivision (e).",
+    "(2) HCD may require reporting of additional information and specify the frequency and format of reporting as needed to facilitate effective implementation of this section.",
+    "(e) (1) Notwithstanding subparagraph (C) of paragraph (2) of subdivision (e), all of the following shall apply:",
+    "(A) If the commission removes a green or resilient building requirement or certification from the list of approved options pursuant to paragraph (2), that requirement or certification may no longer be used to satisfy subparagraph (C) of paragraph (2) of subdivision (e).",
+    "(B) If a city or county ordinance requires the housing development to satisfy one or more of the standards listed in subparagraph (C) of paragraph (2) of subdivision (e), the housing development shall satisfy one additional standard listed in subparagraph (C) of paragraph (2) of subdivision (e) that is not required by local ordinance in order to satisfy subparagraph (C) of paragraph (2) of subdivision (e).",
+    "(C) If the city or county requires all of the standards listed in subparagraph (C) of paragraph (2) of subdivision (e) to be met, the housing development shall not be required to satisfy any additional standard in order to satisfy subparagraph (C) of paragraph (2) of subdivision (e).",
+    "(2) Notwithstanding paragraph (1), the commission may modify the list of green or resilient building requirements or certifications that can be used to satisfy subparagraph (C) of paragraph (2) of subdivision (e), as follows:",
+    "(A) On or before January 1, 2032, and on or before January 1 each sixth years thereafter, the commission shall, in consultation with HCD, assess the list of approved green or resilient building requirements or certifications.",
+    "(I) If the commission determines that certain requirements or certifications no longer represent a high level of green and resilient building ambition, whether due to more advanced codes, technological developments, or other reasons, these requirements or certifications shall be removed from the list of approved options.",
+    "(II) If the commission determines that new requirements or certifications would be appropriate to add to the list because they demonstrate a similar level of advanced green or resilient building relative to the state of the art, these shall be added to the list of approved options.",
+    "(III) Both the commission and HCD shall publish the currently approved list of requirements or certifications on their internet websites, along with any update timelines. Any removed options will have an effective date of one year following publication of their removal on the Commission and HCD internet websites.",
+    "(f) HCD staff shall use its best efforts to provide technical assistance to cities and counties in implementing the requirements of this section, including in evaluating green housing development applications for eligibility and in reporting to HCD. HCD shall focus its technical assistance most on supporting lower-resource jurisdictions.",
+    "(g) For purposes of this section:",
+    "(1) “Commission” means the State Energy Resources Conservation and Development Commission.",
+    "(2) “Green housing development” means a housing development that meets all of the following requirements:",
+    "(A) The development qualifies for a density bonus pursuant to subdivision (b) of Section 65915.",
+    "(B) The development does not include any fossil fuel appliances, including natural gas and propane, or any connection to natural gas pipelines.",
+    "(C) (i) The development satisfies any one of the following:",
+    "(I) The development incorporates design features necessary to qualify for LEED Platinum certification, or LEED Gold certification if the development has 10 or fewer units.",
+    "(II) The development incorporates design features necessary to qualify for GreenPoint Rated Platinum certification, or GreenPoint Rated Gold certification if the development has 10 or fewer units.",
+    "(III) The development incorporates design features necessary to qualify for Enterprise Green Communities Certification Plus.",
+    "(IV) The development incorporates design features necessary to qualify for Passive House Institute or Phius certification.",
+    "(V) The development incorporates design features necessary to qualify for Living Building Challenge Core certification.",
+    "(VI) The development complies with any similar or more stringent green or resilient building requirements or certifications adopted by the city or county.",
+    "(VII) The development complies with any similar or more stringent green or resilient building requirements or certifications approved by the commission pursuant to clause (iii).",
+    "(D) The development is proposed on a site that satisfies either of the following:",
+    "(i) Paragraph (2) of subdivision (a) of Section 65913.4.",
+    "(ii) Section 65912.121.",
+    "(3) “HCD” means the Department of Housing and Community Development."
+   ],
+   "sec": "65915.6",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Density Bonus Law: incentives and concessions: green housing developments.",
+ "title": "An act to add Section 65915.6 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB94599INT",
+   "num": "99"
+  }
+ ]
+}

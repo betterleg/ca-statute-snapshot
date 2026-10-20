@@ -1,0 +1,582 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Fong",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Kalra",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wilson",
+   "primary": false
+  }
+ ],
+ "bill": "AB893",
+ "bill_id": "202520260AB893",
+ "chapter": {
+  "num": "500",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Affordable Housing and High Road Jobs Act of 2022 (act), until January 1, 2033, authorizes a development proponent to submit an application for an affordable housing development or a mixed-income housing development that meets specified objective standards and affordability and site criteria, including being located within a zone where office, retail, or parking are a principally permitted use. The act makes a development that meets those objective standards and affordability and site criteria a use by right and subject to one of 2 streamlined, ministerial review processes depending on, among other things, the affordability requirements applicable to the project. The act requires the Department of Housing and Community Development to undertake at least 2 studies, one completed on or before January 1, 2027, and one completed on or before January 1, 2031, on the outcomes of the act.",
+  "This bill would provide that, for purposes of determining whether a property or site satisfies the criteria, objective development standards, or other requirements for receiving streamlined, ministerial review under the act, a local government’s review of the property or site is limited to the area described as being physically disturbed by construction in the application for streamlined, ministerial review and does not include, unless expressly stated otherwise, other contiguous or noncontiguous areas even if under the ownership or control of the project proponent. The bill would provide that easements for public right-of-way, public or private utilities, or other public improvements in, under, or over the property shall not make the property ineligible to receive streamlined, ministerial review for either affordable or mixed-income housing developments.",
+  "This bill would also expand the eligibility for the above-described streamlined, ministerial review for mixed-income housing developments to include developments located in a campus development zone, as defined, as long as the development meets certain affordability requirements and objective standards, as provided. The bill would require the outcomes of projects built under campus development zones to be reported in the January 1, 2031, outcomes report. The bill would also make related findings and declarations.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA does not apply to the approval of ministerial projects.",
+  "By expanding the scope of projects eligible for streamlined, ministerial approval as described above, this bill would expand the scope of the exemption from CEQA for ministerial projects.",
+  "Existing law includes certain setback requirements in the objective standards that a mixed-income development project must meet to be subject to the above-referenced streamlined, ministerial review process. In this regard, existing law requires all parking to be set back at least 25 feet.",
+  "This bill would instead impose that setback requirement only on parking that is aboveground.",
+  "By changing the criteria local agencies must follow for the approval of certain development projects, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "3f3c2decfa7eb9c8",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 10. Noes 1.) (April 9). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 10. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time and amended. Ordered to third reading. (Page 1745.)",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 65. Noes 5. Page 1813.)",
+   "date": "2025-06-02"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and L. GOV.",
+   "date": "2025-06-11"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 9. Noes 1.) (July 1).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 2.) (July 16). Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-26"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 31. Noes 9. Page 2437.).",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 62. Noes 5. Page 3018.).",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4:30 p.m.",
+   "date": "2025-09-15"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 500, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250AB89392CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65912.101 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this chapter:",
+    "(a) “Base units” has the same meaning as “total units” as defined in subparagraph (A) of paragraph (8) of subdivision (o) of Section 65915.",
+    "(b) “Campus development zone” means the set of parcels that are contained either wholly or partially within a one-half mile radius of a “main campus,” as defined by Section 94849 of the Education Code, of the University of California, the California State University, or the California Community Colleges.",
+    "(c) “Commercial corridor” means a street that is not a freeway and that has a right-of-way of at least 70 and not greater than 150 feet.",
+    "(d) “Development proponent” means a developer who submits a housing development project application to a local government under the streamlined, ministerial review process pursuant to this chapter.",
+    "(e) “Extremely low income faculty or staff” means an employee of the University of California, the California State University, or the California Community Colleges who satisfies the requirements of Section 50106 of the Health and Safety Code.",
+    "(f) “Extremely low income households” has the same meaning as defined in Section 50106 of the Health and Safety Code.",
+    "(g) “Freeway” has the same meaning as defined in Section 332 of the Vehicle Code, except it does not include the portion of a freeway that is an on ramp or off ramp that serves as a connector between the freeway and other roadways that are not freeways.",
+    "(h) “Health care expenditures” include contributions under Sections 501(c) or (d) or 401(a) of the Internal Revenue Code and payments toward “medical care” as defined under Section 213(d)(1) of the Internal Revenue Code.",
+    "(i) “Housing development project” has the same meaning as defined in Section 65589.5.",
+    "(j) “Industrial use” means utilities, manufacturing, transportation storage and maintenance facilities, warehousing uses, and any other use that is a source that is subject to permitting by a district, as defined in Section 39025 of the Health and Safety Code, pursuant to Division 26 (commencing with Section 39000) of the Health and Safety Code or the federal Clean Air Act (42 U.S.C. Sec. 7401 et seq.). “Industrial use” does not include any of the following:",
+    "(1) Power substations or utility conveyances such as power lines, broadband wires, and pipes.",
+    "(2) A use where the only source permitted by a district is an emergency backup generator.",
+    "(3) Self-storage for the residents of a building.",
+    "(k) “Local affordable housing requirement” means either of the following:",
+    "(1) A local government requirement, as a condition of development of residential units, that a housing development project include a certain percentage of units affordable to, and occupied by, extremely low, very low, lower, or moderate-income households as a condition of development of residential units.",
+    "(2) A local government requirement allowing a housing development project to be a use by right if the project includes a certain percentage of units affordable to, and occupied by, extremely low, very low, lower, or moderate-income households as a condition of development of residential units.",
+    "(l) “Local government” means a city, including a charter city, a county, including a charter county, or a city and county, including a charter city and county.",
+    "(m) “Lower income faculty or staff” means an employee of the University of California, the California State University, or the California Community Colleges who satisfies the requirements of Section 50079.5 of the Health and Safety Code.",
+    "(n) “Lower income households” has the same meaning as defined in Section 50079.5 of the Health and Safety Code.",
+    "(o) (1) “Lower income student” means any of the following:",
+    "(A) A student who has a household income and asset level that does not exceed either of the following:",
+    "(i) The level for Cal Grant A or Cal Grant B award recipients as set forth in subdivision (k) of Section 69432.7 of the Education Code.",
+    "(ii) The level for the California College Promise Grant as set forth in clause (ii) of subparagraph (B) of paragraph (1) of subdivision (g) of Section 76300 of the Education Code.",
+    "(B) A student who otherwise qualifies for the California College Promise Grant as set forth in subparagraph (B) of paragraph (1) of subdivision (g) of Section 76300 of the Education Code.",
+    "(C) A student who qualifies for Federal Pell Grant financial aid pursuant to Section 1070a of Title 20 of the United States Code.",
+    "(D) A student who qualifies for an exemption from paying nonresident tuition pursuant to Section 68130.5 of the Education Code, provided that the student also meets income criteria in subparagraph (A) or (B).",
+    "(E) A graduate student with income and asset levels that would qualify for one or more of the benefits in subparagraphs (A) to (D), inclusive, as determined by the campus at which the student is enrolled.",
+    "(2) The eligibility of a student to occupy a unit for lower income students under this subdivision shall be verified by an affidavit, award letter, or letter of eligibility demonstrating that the student is eligible for financial aid, including an institutional grant or fee waiver, provided by the institution of higher education in which the student is enrolled, by the Student Aid Commission, or by the federal government.",
+    "(p) “Major transit stop” has the same meaning as defined in subdivision (b) of Section 21155 of the Public Resources Code.",
+    "(q) “Minimum efficiency reporting value” or “MERV” means the measurement scale developed by the American Society of Heating, Refrigerating and Air-Conditioning Engineers used to report the effectiveness of air filters.",
+    "(r) “Moderate-income households” means households of persons and families of moderate income, as defined in Section 50093 of the Health and Safety Code.",
+    "(s) “Multifamily” means a property with five or more housing units for sale or for rent.",
+    "(t) “Neighborhood plan” means a specific plan adopted pursuant to Article 8 (commencing with Section 65450) of Chapter 3, an area plan, precise plan, community plan, urban village plan, or master plan. To qualify as a neighborhood plan, the plan must have been adopted by a local government before January 1, 2024, and within 25 years of the date that a development proponent submits an application pursuant to this chapter. A neighborhood plan does not include a community plan or plans where the cumulative area covered by the community plans in the jurisdiction is more than one-half of the area of the jurisdiction.",
+    "(u) “Principally permitted use” means a use that, as of January 1, 2023, or thereafter, may occupy more than one-third of the square footage of designated use on the site and does not require a conditional use permit, except that parking uses are considered principally permitted whether or not they require a conditional use permit.",
+    "(v) “Regional mall” means a site that meets all of the following criteria on the date that a development proponent submits an application pursuant to this chapter:",
+    "(1) The permitted uses on the site include at least 250,000 square feet of retail use.",
+    "(2) At least two-thirds of the permitted uses on the site are retail uses.",
+    "(3) At least two of the permitted retail uses on the site are at least 10,000 square feet.",
+    "(w) “Street” has the same meaning as defined in Section 590 of the Vehicle Code, and includes sidewalks, as defined in Section 555 of the Vehicle Code.",
+    "(x) “Urban uses” means any current or former residential, commercial, public institutional, public park that is surrounded by other urban uses, parking lot or structure, transit or transportation passenger facility, or retail use, or any combination of those uses.",
+    "(y) “Use by right” means a development project for which both of the following are true:",
+    "(1) The development project is not subject to a conditional use permit, planned unit development permit, or any other discretionary local government approval, permit, or review process.",
+    "(2) No aspect of the development project, including any permits required for the development project, is a “project” for purposes of Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(z) “Very low income faculty or staff” means an employee of the University of California, the California State University, or the California Community Colleges who satisfies the requirements of Section 50105 of the Health and Safety Code.",
+    "(aa) “Very low income households” has the same meaning as defined in Section 50105 of the Health and Safety Code.",
+    "(ab) “Very low vehicle travel area” has the same meaning as defined in subdivision (h) of Section 65589.5."
+   ],
+   "sec": "65912.101",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65912.103.5 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of determining whether a property or site satisfies the criteria, objective development standards, or other requirements for receiving streamlined, ministerial review under this chapter, a local government’s review of the property or site shall be limited to the area described as being physically disturbed by construction in the application for streamlined, ministerial review and shall not include, unless expressly stated otherwise, other contiguous or noncontiguous areas even if under the ownership or control of the project proponent."
+   ],
+   "sec": "65912.103.5",
+   "verb": "added"
+  },
+  {
+   "action": "Section 65912.104 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The department shall undertake at least two studies of the outcomes of this chapter. One study shall be completed on or before January 1, 2027, and one shall be completed on or before January 1, 2031.",
+    "(b) The studies required by subdivision (a) shall include, but not be limited to, the number of projects built, the number of units built, the jurisdictional and regional location of the housing, the relative wealth and access to resources of the communities in which they are built, the level of affordability, the effect on greenhouse gas emissions, and the creation of construction jobs that pay the prevailing wage.",
+    "(c) (1) The department shall publish a report of the findings of a study required by subdivision (a), post the report on its internet website, and submit the report to the Legislature pursuant to Section 9795.",
+    "(2) The outcomes of projects built under campus development zones shall be reported in the January 1, 2031, report."
+   ],
+   "sec": "65912.104",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65912.114 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) A local government shall determine, in writing, whether a development submitted pursuant to this article is consistent or inconsistent with the objective planning standards specified in this article within the following timeframes:",
+    "(A) Within 60 days of submittal of the development proposal to the local government if the development contains 150 or fewer housing units.",
+    "(B) Within 90 days of submittal of the development proposal to the local government if the development contains more than 150 housing units.",
+    "(C) Within 30 days of submittal of any development proposal that was resubmitted to address written feedback provided by the local government pursuant to paragraph (2).",
+    "(2) (A) If a local government determines that a development submitted pursuant to this article is in conflict with any of the objective planning standards specified in this article, it shall provide the development proponent, in writing, with an exhaustive list of the standard or standards the development conflicts with, and an explanation for the reason or reasons the development conflicts with that standard or standards, within the timeframes specified in paragraph (1).",
+    "(B) In any subsequent review of the application determined to be in conflict with the objective planning standards specified in this article, the local government shall not request the development proponent to provide any new information that was not stated in the initial list of items that were determined to be in conflict.",
+    "(3) Once the local government determines that a development submitted pursuant to this article is consistent with the objective planning standards specified in this article, it shall approve the development within the following timeframes:",
+    "(A) Within 60 days of the date that the development is determined to be consistent with the objective planning standards specified in this article, if the development contains 150 or fewer housing units.",
+    "(B) Within 90 days of the date that the development is determined to be consistent with the objective planning standards specified in this article, if the development contains more than 150 housing units.",
+    "(4) If the local government fails to provide the required documentation pursuant to paragraph (2), the development shall be deemed to satisfy the required objective planning standards.",
+    "(b) (1) For purposes of this section, a development is consistent with the objective planning standards if there is substantial evidence that would allow a reasonable person to conclude that the development is consistent with the objective planning standards.",
+    "(2) For purposes of this section, a development is not in conflict with the objective planning standards solely on the basis that application materials are not included, if the application contains substantial evidence that would allow a reasonable person to conclude that the development is consistent with the objective planning standards.",
+    "(c) The determination of whether a proposed project submitted pursuant to this section is or is not in conflict with the objective planning standards is not a “project” as defined in Section 21065 of the Public Resources Code.",
+    "(d) Design review of the development may be conducted by the local government’s planning commission or any equivalent board or commission responsible for design review. That design review shall be objective and be strictly focused on assessing compliance with criteria required for streamlined, ministerial review of projects, as well as any reasonable objective design standards published and adopted by ordinance or resolution by a local jurisdiction before submittal of the development to the local government, and shall be broadly applicable to developments within the jurisdiction. That design review shall not in any way inhibit, chill, or preclude the ministerial approval provided by this section.",
+    "(e) If a development is located within an area of the coastal zone that is not excluded under clause (i), (ii), (iii), or (v) of subparagraph (A) of paragraph (6) of subdivision (a) of Section 65913.4, the development shall require a coastal development permit pursuant to Chapter 7 (commencing with Section 30600) of Division 20 of the Public Resources Code. A public agency with coastal development permitting authority shall approve a coastal development permit if it determines that the development is consistent with all objective standards of the local government’s certified local coastal program or, for areas that are not subject to a fully certified local coastal program, the certified land use plan of that area.",
+    "(f) (1) A development proposed pursuant to this article shall be eligible for a density bonus, incentives or concessions, waivers or reductions of development standards, and parking ratios pursuant to Section 65915.",
+    "(2) The utilization by a development proponent of incentives, concessions, and waivers or reductions of development standards allowed pursuant to Section 65915 shall not cause the project to be subject to a local discretionary government review process, or be considered a “project” under Division 13 (commencing with Section 21000) of the Public Resources Code, even if that incentive, concession, or waiver or reduction of development standards is not specified in a local ordinance.",
+    "(3) For purposes of this section, receipt of any density bonus, concession, incentive, waiver or reduction of development standards, and parking ratios to which the applicant is entitled under Section 65915 shall not constitute a basis to find the project inconsistent with the local coastal program.",
+    "(g) If a development proposed pursuant to this article demolishes or changes an existing use, the amount of a fee, as defined in Section 66000, imposed on the development shall be offset to account for the demolition or change so that the amount of the fee is attributable only to the development’s incremental impact on public facilities or services. For purposes of this subdivision, an offset amount that exceeds the fee amount shall not be refundable or used to offset any other fee. This subdivision does not supersede or in any way alter or lessen the effect of the Mitigation Fee Act (Chapter 5 (commencing with Section 66000), Chapter 6 (commencing with Section 66010), Chapter 7 (commencing with Section 66012), Chapter 7.5 (commencing with Section 66015), Chapter 8 (commencing with Section 66016), and Chapter 9 (commencing with Section 66020)). For the purpose of this subdivision, “changes an existing use” means no demolition is proposed, but a current office, commercial, or similar use changes to residential use.",
+    "(h) The local government shall ensure that the project satisfies the requirements specified in Article 2 (commencing with Section 66300.5) of Chapter 12, regardless of whether the development is within or not within an affected city or within or not within an affected county.",
+    "(i) If the development is consistent with all objective subdivision standards in the local subdivision ordinance, an application for a subdivision pursuant to the Subdivision Map Act (Division 2 (commencing with Section 66410)) shall be exempt from the requirements of the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(j) A local government may, by ordinance adopted to implement this article, exempt a parcel from this section before a development proponent submits a development application on a parcel pursuant to this article if the local government makes written findings establishing all of the following:",
+    "(1) The local government has identified one or more parcels that meet the criteria described in subdivisions (b) through (f) of Section 65912.111.",
+    "(2) (A) If a parcel identified in paragraph (1) would not otherwise be eligible for development pursuant to this chapter, the implementing ordinance authorizes the parcel to be developed pursuant to the requirements of this chapter. A parcel reclassified for development pursuant to this subparagraph shall be suitable for residential development. For purposes of this subparagraph, a parcel suitable for residential development shall have the same meaning as “land suitable for residential development,” as defined in Section 65583.2.",
+    "(B) If a parcel identified in paragraph (1) would otherwise be eligible for development pursuant to this chapter, the implementing ordinance authorizes the parcel to be developed ministerially at residential densities above the residential density required in subdivision (b) of Section 65912.113.",
+    "(3) The substitution of the parcel or parcels identified in this subdivision for parcels reclassified pursuant to paragraph (2) will result in all of the following:",
+    "(A) No net loss of the total potential residential capacity in the jurisdiction relative to the total capacity that existed in the jurisdiction through the combined effect of this chapter and local law as of the date of the adoption of the ordinance. In making the no net loss calculation specified by this subparagraph, the local government need only factor in the parcels substituted and reclassified pursuant to this subdivision.",
+    "(B) No net loss of the total potential residential capacity of housing affordable to lower income households in the jurisdiction relative to the total capacity that existed in the jurisdiction through the combined effect of this chapter and local law as of the date of the adoption of the ordinance. In making the no net loss calculation specified by this subparagraph, the local government need only factor in the parcels substituted and reclassified pursuant to this subdivision.",
+    "(C) Affirmative furthering of fair housing.",
+    "(4) A parcel or parcels reclassified for development pursuant to subparagraph (A) of paragraph (2) shall be eligible for development pursuant to this chapter notwithstanding any contrary provision of the local government’s charter, general plan, or ordinances, and a parcel or parcels reclassified for development pursuant to subparagraph (B) of paragraph (2) shall be developed ministerially at the densities and heights specified in the ordinance notwithstanding any contrary provision of the local government’s charter, general plan, or ordinances.",
+    "(5) The local government has completed all of the rezonings required pursuant to subdivision (c) of Section 65583 for the sixth revision of its housing element.",
+    "(6) The local government has designated on its zoning maps which parcels have been exempted from this chapter and which parcels have been reclassified for development pursuant to this chapter. This information shall be made publicly available through the local government’s internet website.",
+    "(k) (1) The local government shall, as a condition of approval of the development, require the development proponent to complete a phase I environmental assessment, as defined in Section 78090 of the Health and Safety Code.",
+    "(2) If a recognized environmental condition is found, the development proponent shall undertake a preliminary endangerment assessment, as defined in Section 78095 of the Health and Safety Code, prepared by an environmental assessor to determine the existence of any release of a hazardous substance on the site and to determine the potential for exposure of future occupants to significant health hazards from any nearby property or activity.",
+    "(A) If a release of a hazardous substance is found to exist on the site, before the local government issues a certificate of occupancy, the release shall be removed, or any significant effects of the release shall be mitigated to a level of insignificance in compliance with current state and federal requirements.",
+    "(B) If a potential for exposure to significant hazards from surrounding properties or activities is found to exist, before the local government issues a certificate of occupancy, the effects of the potential exposure shall be mitigated to a level of insignificance in compliance with current state and federal requirements.",
+    "(l) A local government’s approval of a development pursuant to this section shall, notwithstanding any other law, be subject to the expiration timeframes specified in subdivision (g) of Section 65913.4.",
+    "(m) Any proposed modifications to a development project approved pursuant to this section shall be undertaken pursuant to subdivision (h) of Section 65913.4.",
+    "(n) A local government shall not adopt or impose any requirement, including, but not limited to, increased fees or inclusionary housing requirements, that applies to a project solely or partially on the basis that the project is eligible to receive streamlined, ministerial review pursuant to this section.",
+    "(o) A local government shall issue a subsequent permit required for a development approved under this section pursuant to paragraph (2) of subdivision (i) of Section 65913.4.",
+    "(p) A public improvement that is necessary to implement a development that is approved pursuant to this section shall be undertaken pursuant to paragraph (3) of subdivision (i) of Section 65913.4.",
+    "(q) Easements for public right-of-way, public or private utilities, or other public improvements in, under, or over the property shall not make the property ineligible to receive streamlined, ministerial review pursuant to this section.",
+    "(r) A local government may adopt an ordinance to implement the provisions of this article. An ordinance adopted to implement this section shall not be considered a “project” under Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(s) Section 65589.5 applies to a development proceeding pursuant to this article."
+   ],
+   "sec": "65912.114",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65912.121 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "A development project shall not be subject to the streamlined, ministerial review process provided by Section 65912.124 unless the development project is on a site that satisfies all of the following criteria:",
+    "(a) It is located within a zone where office, retail, or parking are a principally permitted use.",
+    "(b) It is located on a legal parcel, or parcels, that meet either of the following:",
+    "(1) It is within a city where the city boundaries include some portion of an urbanized area, as designated by the United States Census Bureau.",
+    "(2) It is in an unincorporated area, and the legal parcel, or parcels, are wholly within the boundaries of an urbanized area, as designated by the United States Census Bureau.",
+    "(c) It satisfies either of the following criteria:",
+    "(1) The project site abuts a commercial corridor and has a frontage along the commercial corridor of a minimum of 50 feet.",
+    "(2) The site is in a campus development zone.",
+    "(d) The site is not greater than 20 acres, unless the site is a regional mall, in which case the site is not greater than 100 acres.",
+    "(e) At least 75 percent of the perimeter of the site adjoins parcels that are developed with urban uses. For purposes of this subdivision, parcels that are only separated by a street, pedestrian path, or bicycle path shall be considered to be adjoined.",
+    "(f) (1) It is not on a site or adjoined to any site where more than one-third of the square footage on the site is dedicated to industrial use.",
+    "(2) For purposes of this subdivision, parcels only separated by a street shall be considered to be adjoined.",
+    "(3) For purposes of this subdivision, “dedicated to industrial use” means any of the following:",
+    "(A) The square footage is currently being used as an industrial use.",
+    "(B) The most recently permitted use of the square footage is an industrial use, and the site has been occupied within the past three years.",
+    "(C) The site was designated for industrial use in the latest version of a local government’s general plan adopted before January 1, 2022, and residential uses are not principally permitted on the site.",
+    "(g) It satisfies the requirements specified in paragraph (6) of subdivision (a) of Section 65913.4, exclusive of clause (iv) of subparagraph (A) of paragraph (6) of subdivision (a) of Section 65913.4.",
+    "(h) The development is not located on a site where any of the following apply:",
+    "(1) The development would require the demolition of the following types of housing:",
+    "(A) Housing that is subject to a recorded covenant, ordinance, or law that restricts rents to levels affordable to persons and families of moderate, low, or very low income.",
+    "(B) Housing that is subject to any form of rent or price control through a public entity’s valid exercise of its police power.",
+    "(C) Housing that has been occupied by tenants within the past 10 years, excluding any manager’s units.",
+    "(2) The site was previously used for permanent housing that was occupied by tenants, excluding any manager’s units, that was demolished within 10 years before the development proponent submits an application under this article.",
+    "(3) The development would require the demolition of a historic structure that was placed on a national, state, or local historic register.",
+    "(4) The property contains one to four dwelling units.",
+    "(5) The property is vacant and zoned for housing but not for multifamily residential use.",
+    "(6) The existing parcel of land or site is governed under the Mobilehome Residency Law (Chapter 2.5 (commencing with Section 798) of Title 2 of Part 2 of Division 2 of the Civil Code), the Recreational Vehicle Park Occupancy Law (Chapter 2.6 (commencing with Section 799.20) of Title 2 of Part 2 of Division 2 of the Civil Code), the Mobilehome Parks Act (Part 2.1 (commencing with Section 18200) of Division 13 of the Health and Safety Code), or the Special Occupancy Parks Act (Part 2.3 (commencing with Section 18860) of Division 13 of the Health and Safety Code).",
+    "(i) For a site within a neighborhood plan area, the neighborhood plan applicable to the site permitted multifamily housing development on the site.",
+    "(j) For a vacant site, the site satisfies both of the following:",
+    "(1) It does not contain tribal cultural resources, as defined by Section 21074 of the Public Resources Code, that could be affected by the development that were found pursuant to a consultation as described by Section 21080.3.1 of the Public Resources Code and the effects of which cannot be mitigated pursuant to the process described in Section 21080.3.2 of the Public Resources Code.",
+    "(2) It is not within a very high fire hazard severity zone, as indicated on maps adopted by the Department of Forestry and Fire Protection pursuant to Section 4202 of the Public Resources Code or as designated pursuant to subdivisions (a) and (b) of Section 51179."
+   ],
+   "sec": "65912.121",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65912.122 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "A development project shall not be subject to the streamlined, ministerial review process provided by Section 65912.124 unless the new housing units created by the development project meet all of the following affordability criteria:",
+    "(a) (1) Except as provided in paragraph (2), a rental housing development shall include either of the following:",
+    "(A) Eight percent of the base units for very low income households and 5 percent of the units for extremely low income households.",
+    "(B) Fifteen percent of the base units for lower income households.",
+    "(2) Notwithstanding paragraph (1), a rental housing development in a campus development zone shall include either of the following:",
+    "(A) (i) Both of the following:",
+    "(I) Five percent of the base units for extremely low income households, extremely low income faculty or staff, or students experiencing homelessness.",
+    "(II) Eight percent of the base units for very low income households, very low income faculty or staff, or students experiencing homelessness.",
+    "(ii) For the purposes of this subparagraph, a homeless services provider, as defined in paragraph (3) of subdivision (e) of Section 103577 of the Health and Safety Code, or institution of higher education that has knowledge of a person’s homelessness status may verify a person’s status as homeless.",
+    "(B) Fifteen percent of the base units for lower income households, lower income students, or lower income faculty or staff.",
+    "(3) The development proponent shall agree to, and the local government shall ensure, the continued affordability of all affordable rental units included pursuant to this subdivision for 55 years. Rents shall be set at an affordable rent, as defined in Section 50053 of the Health and Safety Code.",
+    "(b) (1) Except as provided in paragraph (2), an owner-occupied housing development shall include either of the following:",
+    "(A) Thirty percent of the base units must be offered at an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code, to moderate-income households.",
+    "(B) Fifteen percent of the base units must be offered at an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code, to lower income households.",
+    "(2) Notwithstanding paragraph (1), an owner-occupied housing development in a campus development zone shall include either of the following:",
+    "(A) Thirty percent of the base units must be offered at an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code, to moderate-income households.",
+    "(B) Fifteen percent of the base units must be offered at an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code, to lower income households, lower income students, or lower income faculty or staff.",
+    "(3) The development proponent shall agree to, and the local government shall ensure, the continued affordability of all affordable ownership units for a period of 45 years.",
+    "(c) If the local government has a local affordable housing requirement, the housing development project shall comply with all of the following:",
+    "(1) The development project shall include the percentage of affordable units required by this section or the local requirement, whichever is higher.",
+    "(2) The development project shall meet the affordability level of a local affordable housing requirement if it is a deeper affordability level than required by this section.",
+    "(3) If the local affordable housing requirement requires greater than 15 percent of the units to be dedicated for lower income households and does not require the inclusion of units affordable to very low and extremely low income households, then the rental housing development shall do both of the following:",
+    "(A) Include 8 percent of the units for very low income households and 5 percent of the units for extremely low income households.",
+    "(B) Fifteen percent of units affordable to lower income households shall be subtracted from the percentage of units required by the local policy at the highest required affordability level.",
+    "(d) Affordable units in the development project shall have the same bedroom and bathroom count ratio as the market rate units, be equitably distributed within the project, and have the same type or quality of appliances, fixtures, and finishes."
+   ],
+   "sec": "65912.122",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65912.123 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "A development project shall not be subject to the streamlined, ministerial review process provided by Section 65912.124 unless the development project meets all of the following objective development standards:",
+    "(a) The development shall be a multifamily housing development project.",
+    "(b) The residential density for the development, prior to the award of any eligible density bonus pursuant to Section 65915, shall be determined as follows:",
+    "(1) In a metropolitan jurisdiction, as determined pursuant to subdivisions (d) and (e) of Section 65583.2, the allowable residential density for the development shall be the greater of the following:",
+    "(A) The maximum allowable residential density, as defined in paragraph (6) of subdivision (o) of Section 65915, allowed on the parcel by the local government.",
+    "(B) For sites of less than one acre in size, 30 units per acre.",
+    "(C) For sites of one acre in size or greater located on a commercial corridor of less than 100 feet in width, 40 units per acre.",
+    "(D) For sites of one acre in size or greater located on a commercial corridor of 100 feet in width or greater, 60 units per acre.",
+    "(E) Notwithstanding subparagraph (B), (C), or (D), for sites within a very low vehicle travel area, within one-half mile of a major transit stop, or within a campus development zone, 80 units per acre.",
+    "(2) In a jurisdiction that is not a metropolitan jurisdiction, as determined pursuant to subdivisions (d) and (e) of Section 65583.2, the allowable residential density for the development shall be the greater of the following:",
+    "(A) The maximum allowable residential density, as defined in paragraph (6) of subdivision (o) of Section 65915, allowed on the parcel by the local government.",
+    "(B) For sites of less than one acre in size, 20 units per acre.",
+    "(C) For sites of one acre in size or greater located on a commercial corridor of less than 100 feet in width, 30 units per acre.",
+    "(D) For sites of one acre in size or greater located on a commercial corridor of 100 feet in width or greater, 50 units per acre.",
+    "(E) Notwithstanding subparagraph (B), (C), or (D), for sites within a very low vehicle travel area, within one-half mile of a major transit stop, or within a campus development zone, 70 units per acre.",
+    "(3) (A) For a housing development project application that has been determined to be consistent with the objective planning standards specified in this article, pursuant to subdivision (a) of Section 65912.124, before January 1, 2027, the development project shall be developed at a density as follows:",
+    "(i) Except as provided in clause (ii), 50 percent or greater of the applicable allowable residential density contained in subparagraphs (B) to (E), inclusive, of paragraph (1) or subparagraphs (B) to (E), inclusive, of paragraph (2), as applicable.",
+    "(ii) For a site within one-half mile of an existing passenger rail or bus rapid transit station, 75 percent or greater of the applicable allowable residential density contained in subparagraphs (B) to (E), inclusive, of paragraph (1) or subparagraphs (B) to (E), inclusive, of paragraph (2), as applicable.",
+    "(iii) For a site within a campus development zone, 75 percent or greater of the applicable allowable residential density contained in subparagraph (E) of paragraph (2).",
+    "(B) For a housing development project application that has been determined to be consistent with the objective planning standards specified in this article, pursuant to subdivision (a) of Section 65912.124, on or after January 1, 2027, the development project shall be developed at a density that is 75 percent or greater of the applicable allowable residential density contained in subparagraphs (B) to (E), inclusive, of paragraph (1) or subparagraphs (B) to (E), inclusive, of paragraph (2), as applicable.",
+    "(4) Notwithstanding paragraphs (1) and (2), a development project shall not be subject to any density limitation if the development project is a conversion of existing buildings into residential use, unless the development project includes additional new square footage that is more than 20 percent of the overall square footage of the project.",
+    "(c) The height limit applicable to the housing development shall be the greater of the following:",
+    "(1) The height allowed on the parcel by the local government.",
+    "(2) For sites on a commercial corridor of less than 100 feet in width, 35 feet.",
+    "(3) For sites on a commercial corridor of 100 feet in width or greater, 45 feet.",
+    "(4) Notwithstanding paragraphs (2) and (3), 65 feet for sites that meet all of the following criteria:",
+    "(A) They are within one-half mile of a major transit stop.",
+    "(B) They are within a city with a population of greater than 100,000.",
+    "(C) They are not within a coastal zone, as defined in Division 20 (commencing with Section 30000) of the Public Resources Code.",
+    "(5) For sites in a campus development zone, either of the following:",
+    "(A) Forty-five feet, if not located in a metropolitan jurisdiction, as determined pursuant to subdivisions (d) and (e) of Section 65583.2.",
+    "(B) Sixty-five feet, if located in a metropolitan jurisdiction, as determined pursuant to subdivisions (d) and (e) of Section 65583.2.",
+    "(d) The property meets the following standards:",
+    "(1) For the portion of the property that fronts a commercial corridor or for a property in a campus development zone, the following shall occur:",
+    "(A) No setbacks shall be required.",
+    "(B) All aboveground parking must be set back at least 25 feet.",
+    "(C) On the ground floor, a building or buildings must abut within 10 feet of the street for at least 80 percent of the frontage.",
+    "(2) For the portion of the property that abuts an adjoining property that also abuts the same commercial corridor as the property, no setbacks are required unless the adjoining property contains a residential use that was constructed prior to the enactment of this chapter, in which case the requirements of subparagraph (A) of paragraph (3) apply.",
+    "(3) For the portion of the property line that does not abut or lie within a commercial corridor, or an adjoining property that also abuts the same commercial corridor as the property, the following shall occur:",
+    "(A) Along property lines that abut a property that contains a residential use, the following shall occur:",
+    "(i) The ground floor of the development project shall be set back at 10 feet. The amount required to be set back may be decreased by the local government.",
+    "(ii) Starting with the second floor of the property, each subsequent floor of the development project shall be stepped back in an amount equal to seven feet multiplied by the floor number. For purposes of this paragraph, the ground floor counts as the first floor. The amount required to be stepped back may be decreased by the local government.",
+    "(B) Along property lines that abut a property that does not contain a residential use, the development shall be set back 15 feet. The amount required to be stepped back may be decreased by the local government.",
+    "(4) For a development project at a regional mall, all of the following requirements apply:",
+    "(A) The average size of a block shall not exceed three acres. For purposes of this subparagraph, a “block” means an area fully surrounded by streets, pedestrian paths, or a combination of streets and pedestrian paths that are each at least 40 feet in width.",
+    "(B) At least 5 percent of the site shall be dedicated to open space.",
+    "(C) For the portion of the property that fronts a street that is newly created by the project and is not a commercial corridor, a building shall abut within 10 feet of the street for at least 60 percent of the frontage.",
+    "(e) No parking shall be required, including replacement parking, except that this article shall not reduce, eliminate, or preclude the enforcement of any requirement imposed on a new multifamily residential or nonresidential development to provide bicycle parking, electric vehicle supply equipment installed parking spaces, or parking spaces that are accessible to persons with disabilities that would have otherwise applied to the development if this article did not apply.",
+    "(f) For any housing on the site located within 500 feet of a freeway, all of the following shall apply:",
+    "(1) The building shall have a centralized heating, ventilation, and air-conditioning system.",
+    "(2) The outdoor air intakes for the heating, ventilation, and air-conditioning system shall face away from the freeway.",
+    "(3) The building shall provide air filtration media for outside and return air that provide a minimum efficiency reporting value of 16.",
+    "(4) The air filtration media shall be replaced at the manufacturer’s designated interval.",
+    "(5) The building shall not have any balconies facing the freeway.",
+    "(g) None of the housing on the site is located within 3,200 feet of a facility that actively extracts or refines oil or natural gas.",
+    "(h) (1) The development proponent shall provide written notice of the pending application to each commercial tenant on the parcel when the application is submitted.",
+    "(2) The development proponent shall provide relocation assistance to each eligible commercial tenant located on the site as follows:",
+    "(A) For a commercial tenant operating on the site for at least one year but less than five years, the relocation assistance shall be equivalent to six months’ rent.",
+    "(B) For a commercial tenant operating on the site for at least 5 years but less than 10 years, the relocation assistance shall be equivalent to nine months’ rent.",
+    "(C) For a commercial tenant operating on the site for at least 10 years but less than 15 years, the relocation assistance shall be equivalent to 12 months’ rent.",
+    "(D) For a commercial tenant operating on the site for at least 15 years but less than 20 years, the relocation assistance shall be equivalent to 15 months’ rent.",
+    "(E) For a commercial tenant operating on the site for at least 20 years, the relocation assistance shall be equivalent to 18 months’ rent.",
+    "(3) The relocation assistance shall be provided to an eligible commercial tenant upon expiration of the lease of that commercial tenant.",
+    "(4) For purposes of this subdivision, a commercial tenant is eligible for relocation assistance if the commercial tenant meets all of the following criteria:",
+    "(A) The commercial tenant is an independently owned and operated business with its principal office located in the county in which the property on the site that is leased by the commercial tenant is located.",
+    "(B) The commercial tenant’s lease expired and was not renewed by the property owner.",
+    "(C) The commercial tenant’s lease expired within the three years following the development proponent’s submission of the application for a housing development pursuant to this article.",
+    "(D) The commercial tenant employs 20 or fewer employees and has annual average gross receipts under one million dollars ($1,000,000) for the three-taxable-year period ending with the taxable year that precedes the expiration of their lease.",
+    "(E) The commercial tenant is still in operation on the site at the time of the expiration of its lease.",
+    "(5) Notwithstanding paragraph (4), for purposes of this subdivision, a commercial tenant is ineligible for relocation assistance if the commercial tenant meets both of the following criteria:",
+    "(A) The commercial tenant entered into a lease on the site after the development proponent’s submission of the application for a housing development pursuant to this article.",
+    "(B) The commercial tenant had not previously entered into a lease on the site.",
+    "(6) (A) The commercial tenant shall utilize the funds provided by the development proponent to relocate the business or for costs of a new business.",
+    "(B) Notwithstanding paragraph (2), if the commercial tenant elects not to use the funds provided as required by subparagraph (A), the development proponent shall provide only assistance equal to three months’ rent, regardless of the duration of the commercial tenant’s lease.",
+    "(7) For purposes of this subdivision, monthly rent is equal to one-twelfth of the total amount of rent paid by the commercial tenant in the last 12 months.",
+    "(i) For any project that is the conversion of an existing building for nonresidential use building to residential use, the local government shall not require the provision of common open space beyond what is required for the existing project site.",
+    "(j) Objective zoning standards, objective subdivision standards, and objective design review standards not specified elsewhere in this section, as follows:",
+    "(1) The applicable objective standards shall be those for the closest zone in the city, county, or city and county that allows multifamily residential use at the residential density proposed by the project. If no zone exists that allows the residential density proposed by the project, the applicable objective standards shall be those for the zone that allows the greatest density within the city, county, or city and county.",
+    "(2) The applicable objective standards shall be those in effect at the time that the development application is submitted to the local government pursuant to this article.",
+    "(3) The objective standards shall not preclude a development from being built at the residential density required pursuant to subdivision (b) and shall not require the development to reduce unit size to meet the objective standards.",
+    "(4) The applicable objective standards may include a requirement that up to one-half of the ground floor of the housing development project be dedicated to retail use.",
+    "(5) For purposes of this section, “objective zoning standards,” “objective subdivision standards,” and “objective design review standards” mean standards that involve no personal or subjective judgment by a public official and are uniformly verifiable by reference to an external and uniform benchmark or criterion available and knowable by both the development applicant or proponent and the public official before submittal. These standards may be embodied in alternative objective land use specifications adopted by a city or county, and may include, but are not limited to, housing overlay zones, specific plans, inclusionary zoning ordinances, and density bonus ordinances. In the event that objective zoning, general plan, subdivision, or design review standards are mutually inconsistent, a development shall be deemed consistent with the objective zoning and subdivision standards pursuant to this subdivision if the development is consistent with the standards set forth in the general plan."
+   ],
+   "sec": "65912.123",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65912.124 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) A local government shall determine, in writing, whether a development submitted pursuant to this article is consistent or is not consistent with the objective planning standards specified in this article within the following timeframes:",
+    "(A) Within 60 days of submittal of the development proposal to the local government if the development contains 150 or fewer housing units.",
+    "(B) Within 90 days of submittal of the development proposal to the local government if the development contains more than 150 housing units.",
+    "(C) Within 30 days of submittal of any development proposal that was resubmitted to address written feedback provided by the local government pursuant to this subdivision.",
+    "(2) (A) If a local government determines that a development submitted pursuant to this article is in conflict with any of the objective planning standards specified in this article, it shall provide the development proponent, in writing, with an exhaustive list of the standard or standards the development conflicts with, and an explanation for the reason or reasons the development conflicts with that standard or standards, within the timeframes specified in paragraph (1).",
+    "(B) In any subsequent review of the application determined to be in conflict with the objective planning standards specified in this article, the local government shall not request the development proponent to provide any new information that was not stated in the initial list of items that were determined to be in conflict.",
+    "(3) Once the local government determines that a development submitted pursuant to this article is consistent with the objective planning standards specified in this article, it shall approve the development within the following timeframes:",
+    "(A) Within 60 days of the date that the development is determined to be consistent with the objective planning standards specified in this article, if the development contains 150 or fewer housing units.",
+    "(B) Within 90 days of the date that the development is determined to be consistent with the objective planning standards specified in this article, if the development contains more than 150 housing units.",
+    "(4) If the local government fails to provide the required documentation pursuant to paragraph (2), the development shall be deemed to satisfy the required objective planning standards.",
+    "(b) (1) For purposes of this section, a development is consistent with the objective planning standards if there is substantial evidence that would allow a reasonable person to conclude that the development is consistent with the objective planning standards.",
+    "(2) For purposes of this section, a development is not in conflict with the objective planning standards solely on the basis that application materials are not included, if the application contains substantial evidence that would allow a reasonable person to conclude that the development is consistent with the objective planning standards.",
+    "(c) The determination of whether a proposed project submitted pursuant to this section is or is not in conflict with the objective planning standards is not a “project” as defined in Section 21065 of the Public Resources Code.",
+    "(d) Design review of the development may be conducted by the local government’s planning commission or any equivalent board or commission responsible for design review. That design review shall be objective and be strictly focused on assessing compliance with criteria required for streamlined, ministerial review of projects, as well as any reasonable objective design standards published and adopted by ordinance or resolution by a local jurisdiction before submittal of the development to the local government, and shall be broadly applicable to developments within the jurisdiction. That design review shall not in any way inhibit, chill, or preclude the ministerial approval provided by this section.",
+    "(e) If a development is located within an area of the coastal zone that is not excluded under clause (i), (ii), (iii), or (v) of subparagraph (A) of paragraph (6) of subdivision (a) of Section 65913.4, the development shall require a coastal development permit pursuant to Chapter 7 (commencing with Section 30600) of Division 20 of the Public Resources Code. A public agency with coastal development permitting authority shall approve a coastal development permit if it determines that the development is consistent with all objective standards of the local government’s certified local coastal program or, for areas that are not subject to a fully certified local coastal program, the certified land use plan of that area.",
+    "(f) (1) A housing development proposed pursuant to this article shall be eligible for a density bonus, incentives or concessions, waivers or reductions of development standards, and parking ratios pursuant to Section 65915, except that the project shall not use a concession to reduce a local government requirement for the provision of ground floor retail that is consistent with the allowance contained in paragraph (3) of subdivision (j) of Section 65912.123.",
+    "(2) A development proponent may use incentives, concessions, and waivers or reductions of development standards allotted pursuant to subdivisions (d) and (e) of Section 65915 to deviate from the objective standards contained in subdivision (c) and paragraphs (2) and (3) of subdivision (d) of Section 65912.123.",
+    "(3) The utilization by a development proponent of incentives, concessions, and waivers or reductions of development standards allowed pursuant to Section 65915 shall not cause the project to be subject to a local discretionary government review process, or be considered a “project” under Division 13 (commencing with Section 21000) of the Public Resources Code, even if that incentive, concession, or waiver or reduction of development standards is not specified in a local ordinance.",
+    "(4) For purposes of this section, receipt of any density bonus, concession, incentive, waiver or reduction of development standards, and parking ratios to which the applicant is entitled under Section 65915 shall not constitute a basis to find the project inconsistent with the local coastal program.",
+    "(5) Notwithstanding paragraph (6) of subdivision (o) of Section 65915, for purposes of this subdivision, the maximum allowable residential density means the allowable density as determined pursuant to paragraphs (1) and (2) of subdivision (b) of Section 65912.123.",
+    "(g) If a development proposed pursuant to this article demolishes or changes an existing use, the amount of a fee, as defined in Section 66000, imposed on the development shall be offset to account for the demolition or change so that the amount of the fee is attributable only to the development’s incremental impact on public facilities or services. For purposes of this subdivision, an offset amount that exceeds the fee amount shall not be refundable or used to offset any other fee. This subdivision does not supersede or in any way alter or lessen the effect of the Mitigation Fee Act (Chapter 5 (commencing with Section 66000), Chapter 6 (commencing with Section 66010), Chapter 7 (commencing with Section 66012), Chapter 7.5 (commencing with Section 66015), Chapter 8 (commencing with Section 66016), and Chapter 9 (commencing with Section 66020)). For the purpose of this subdivision, “changes an existing use” means no demolition is proposed, but a current office, commercial, or similar use changes to residential use.",
+    "(h) The local government shall ensure that the project satisfies the requirements specified in Article 2 (commencing with Section 66300.5) of Chapter 12, regardless of whether the development is within or not within an affected city or within or not within an affected county.",
+    "(i) If the development is consistent with all objective subdivision standards in the local subdivision ordinance, an application for a subdivision pursuant to the Subdivision Map Act (Division 2 (commencing with Section 66410)) shall be exempt from the requirements of the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(j) A local government may, by ordinance adopted to implement this article, exempt a parcel from this section before a development proponent submits a development application on a parcel pursuant to this article if the local government makes written findings establishing all of the following:",
+    "(1) The local government has identified a parcel or parcels that meet the criteria described in subdivisions (b) and (e) to (h), inclusive, of Section 65912.121.",
+    "(2) (A) If a parcel identified in paragraph (1) would not otherwise be eligible for development pursuant to this chapter, the implementing ordinance authorizes the parcel to be developed pursuant to the requirements of this chapter. A parcel reclassified for development pursuant to this subparagraph shall be suitable for residential development. For purposes of this subparagraph, a parcel suitable for residential development shall have the same meaning as “land suitable for residential development,” as defined in Section 65583.2.",
+    "(B) If a parcel identified in paragraph (1) would otherwise be eligible for development pursuant to this chapter, the implementing ordinance authorizes the parcel to be developed ministerially at residential densities above the residential density required in subdivision (b) of Section 65912.123 and heights required in subdivision (c) of Section 65912.123.",
+    "(3) The substitution of the parcel or parcels identified in this subdivision for parcels reclassified pursuant to paragraph (2) will result in all of the following:",
+    "(A) No net loss of the total potential residential capacity in the jurisdiction relative to the total capacity that existed in the jurisdiction through the combined effect of local and state law as of the date of the adoption of the ordinance. In making the no net loss calculation specified by this subparagraph, the local government need only factor in the parcels substituted and reclassified pursuant to this subdivision.",
+    "(B) No net loss of the total potential residential capacity of housing affordable to lower income households in the jurisdiction relative to the total capacity that existed in the jurisdiction through the combined effect of this chapter and local law as of the date of the adoption of the ordinance. In making the no net loss calculation specified by this subparagraph, the local government need only factor in the parcels substituted and reclassified pursuant to this subdivision.",
+    "(C) Affirmative furthering of fair housing.",
+    "(4) A parcel or parcels reclassified for development pursuant to subparagraph (A) of paragraph (2) shall be eligible for development pursuant to this chapter notwithstanding any contrary provision of the local government’s charter, general plan, or ordinances, and a parcel or parcels reclassified for development pursuant to subparagraph (B) of paragraph (2) shall be developed ministerially at the densities and heights specified in the ordinance notwithstanding any contrary provision of the local government’s charter, general plan, or ordinances.",
+    "(5) The local government has completed all of the rezonings required pursuant to subdivision (c) of Section 65583 for the sixth revision of its housing element.",
+    "(6) The local government has designated on its zoning maps which parcels have been exempted from this chapter and which parcels have been reclassified for development pursuant to this chapter. This information must be made publicly available through the local government’s internet website.",
+    "(k) (1) The local government shall, as a condition of approval of the development, require the development proponent to complete a phase I environmental assessment, as defined in Section 78090 of the Health and Safety Code.",
+    "(2) If a recognized environmental condition is found, the development proponent shall undertake a preliminary endangerment assessment, as defined in Section 78095 of the Health and Safety Code, prepared by an environmental assessor to determine the existence of any release of a hazardous substance on the site and to determine the potential for exposure of future occupants to significant health hazards from any nearby property or activity.",
+    "(A) If a release of a hazardous substance is found to exist on the site, before the local government issues a certificate of occupancy, the release shall be removed, or any significant effects of the release shall be mitigated to a level of insignificance in compliance with current state and federal requirements.",
+    "(B) If a potential for exposure to significant hazards from surrounding properties or activities is found to exist, before the local government issues a certificate of occupancy, the effects of the potential exposure shall be mitigated to a level of insignificance in compliance with current state and federal requirements.",
+    "(l) A local government’s approval of a development pursuant to this section shall, notwithstanding any other law, be subject to the expiration timeframes specified in subdivision (g) of Section 65913.4.",
+    "(m) Any proposed modifications to a development project approved pursuant to this section shall be undertaken pursuant to subdivision (h) of Section 65913.4.",
+    "(n) A local government shall not adopt or impose any requirement, including, but not limited to, increased fees or inclusionary housing requirements, that applies to a project solely or partially on the basis that the project is eligible to receive streamlined, ministerial review pursuant to this section.",
+    "(o) A local government shall issue a subsequent permit required for a development approved under this section pursuant to paragraph (2) of subdivision (i) of Section 65913.4.",
+    "(p) A public improvement that is necessary to implement a development that is approved pursuant to this section shall be undertaken pursuant to paragraph (3) of subdivision (i) of Section 65913.4.",
+    "(q) Easements for public right-of-way, public or private utilities, or other public improvements in, under, or over the property shall not make the property ineligible to receive streamlined, ministerial review pursuant to this section.",
+    "(r) A local government may adopt an ordinance to implement the provisions of this article. An ordinance adopted to implement this section shall not be considered a “project” under Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(s) Section 65589.5 applies to a development proceeding pursuant to this article."
+   ],
+   "sec": "65912.124",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing development projects: objective standards: campus development zone.",
+ "title": "An act to amend Sections 65912.101, 65912.104, 65912.114, 65912.121, 65912.122, 65912.123, and 65912.124 of, and to add Section 65912.103.5 to, the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB89399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB89398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-21",
+   "id": "20250AB89397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-27",
+   "id": "20250AB89396AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-03",
+   "id": "20250AB89395AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-08-25",
+   "id": "20250AB89394AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-10",
+   "id": "20250AB89393ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250AB89392CHP",
+   "num": "92"
+  }
+ ]
+}

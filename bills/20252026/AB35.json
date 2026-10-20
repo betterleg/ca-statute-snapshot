@@ -1,0 +1,385 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alvarez",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hadwick",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alanis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ávila Farías",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Berman",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Boerner",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Carrillo",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Davies",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Jeff Gonzalez",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Mark González",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hoover",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Kalra",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Patel",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Pellerin",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Petrie-Norris",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rogers",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Solache",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Stefani",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wallis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ward",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Blakespear",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Jones",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Padilla",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Seyarto",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Valladares",
+   "primary": false
+  }
+ ],
+ "bill": "AB35",
+ "bill_id": "202520260AB35",
+ "chapter": {
+  "num": "89",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would provide for limited CEQA review of an application for a discretionary permit or authorization for a clean hydrogen transportation project, as defined, by requiring the application to be reviewed through a clean hydrogen environmental assessment, unless otherwise requested by the applicant, as prescribed. The bill would, except as provided, require the lead agency to determine whether to approve the clean hydrogen environmental assessment and issue a discretionary permit or authorization for the project no later than 270 days after the application for the project is deemed complete. The bill would require an action or proceeding brought to attack, review, set aside, void, or annul the approval of a clean hydrogen environmental assessment or the issuance of a discretionary permit or authorization for a clean hydrogen transportation project, including any potential appeals to the court of appeal or the Supreme Court, to be resolved, to the extent feasible, within 270 days of the filing of the certified record of proceedings with the court. By imposing new duties on a lead agency, this bill would create a state-mandated local program. The bill would repeal these provisions on January 1, 2036.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "9f961f4305fd1dcb",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2024-12-02"
+  },
+  {
+   "action": "From printer. May be heard in committee January 2.",
+   "date": "2024-12-03"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and JUD.",
+   "date": "2025-02-18"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2026-01-06"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (January 12).",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-01-15"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Page 3806.)",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (January 22).",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate. (Ayes 76. Noes 0. Page 3826.).",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-01-27"
+  },
+  {
+   "action": "Referred to Com. on N.R. & W.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (June 9).",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2026-06-23"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 36. Noes 0. Page 5014.).",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 68. Noes 0. Page 5983.).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 11:15 a.m.",
+   "date": "2026-07-15"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-07-16"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 89, Statutes of 2026.",
+   "date": "2026-07-16"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-07-16",
+  "id": "20250AB3593CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Chapter 5.2 (commencing with Section 21162) is added to Division 13 of the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "For purposes of this chapter, “clean hydrogen transportation project” means a pipeline project composed of a system that transports hydrogen, and any associated facilities necessary for the system’s operation, that meets all of the following criteria:",
+    "(a) The project has received funding from the state or federal government on or before January 1, 2032, or has been included in an Alliance for Renewable Clean Hydrogen Energy Systems hydrogen hub application to the United States Department of Energy.",
+    "(b) The transported hydrogen does not use fossil fuel as the feedstock or energy source for its production.",
+    "(c) The project meets the labor and workforce requirements described in Sections 25545.3.3 and 25545.3.5.",
+    "(d) The project will result in the minimum investment required of an environmental leadership development project pursuant to subdivision (a) of Section 21183.",
+    "(e) The project will meet the greenhouse gas reduction requirements applicable to an environmental leadership development project described in subdivision (c) of Section 21183. For purposes of this section, reductions in emissions of greenhouse gases by users of the clean hydrogen transported by the project shall be accounted for in calculating whether the project will lead to reductions in emissions of greenhouse gases.",
+    "(f) The project will lead to operational reductions in the emissions of criteria pollutants, including reductions generated by users of the clean hydrogen transported by the project.",
+    "(g) For linear projects, 25 percent or more of the linear infrastructure will be constructed within a previously disturbed corridor.",
+    "(h) The project applicant has entered into the agreement required of an environmental leadership development project pursuant to subdivision (e) of Section 21183."
+   ],
+   "sec": "21162",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024: Administrative Procedure Act: exemption: program guidelines and selection criteria.",
+ "title": "An act to add and repeal Chapter 5.2 (commencing with Section 21162) of Division 13 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2024-12-02",
+   "id": "20250AB3599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-21",
+   "id": "20250AB3598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-01-05",
+   "id": "20250AB3597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-01-14",
+   "id": "20250AB3596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-11",
+   "id": "20250AB3595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-07-07",
+   "id": "20250AB3594ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-07-16",
+   "id": "20250AB3593CHP",
+   "num": "93"
+  }
+ ]
+}

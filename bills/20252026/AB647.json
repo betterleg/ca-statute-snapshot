@@ -1,0 +1,359 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Mark González",
+   "primary": true
+  }
+ ],
+ "bill": "AB647",
+ "bill_id": "202520260AB647",
+ "chapter": {
+  "num": "867",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law, the Planning and Zoning law, requires a proposed housing development containing no more than 2 residential units within a single-family residential zone to be considered ministerially, without discretionary review or hearing, if the proposed housing development meets certain requirements, including, among other requirements, that the parcel subject to the proposed housing development is located within a city, the boundaries of which include some portion of either an urbanized area or urban cluster, as defined, or, for unincorporated areas, a legal parcel wholly within the boundaries of an urbanized area or urban cluster, as defined. Existing law authorizes a local agency to impose objective zoning standards, objective subdivision standards, and objective design review standards that do not conflict with specified provisions, except as provided.",
+  "This bill would require a proposed housing development containing no more than 8 residential units that is located on a lot with an existing single-family home or is zoned for 8 or fewer residential units to be considered ministerially, without discretionary review or hearing, if the proposed housing development meets certain requirements, including, among other requirements, that the proposed housing development dedicates at least one residential unit to deed-restricted affordable housing to households making at or below 80% of the area median income, as specified. The bill would prohibit a local agency from applying any development standard that will have the effect of physically precluding the construction of a housing development that meets those requirements, as specified, and from imposing on a housing development subject to these provisions any objective zoning standard or objective design standard that meets certain criteria, including imposing any requirement that applies to a project solely or partially on the basis that the housing development receives approval pursuant to these provisions. The bill would prohibit a setback, height limitation, lot coverage limitation, floor area ratio, or other standard that would limit residential development capacity from being required for certain structures.",
+  "Existing law requires an application for a proposed housing development containing no more than 2 residential units within a single-family residential zone, as described above, to be considered approved or denied within 60 days from the date the local agency receives a completed application, and requires the application to be deemed approved if the agency has not approved or denied the application within those 60 days. Existing law requires a permitting agency that denies an application described above to, within 60 days from the date the local agency receives the application, return in writing a full set of comments to the applicant with a list of items that are defective or deficient and a description of how the application can be remedied by the applicant. Existing law authorizes a local agency to adopt an ordinance to implement these provisions, as specified.",
+  "This bill would require a local agency to ministerially consider, without discretionary review or a hearing, an application submitted to the local agency pursuant to these provisions, and to approve or deny an application for a housing development project submitted to a local agency pursuant to these provisions within 60 days from the date the local agency receives the completed application. The bill would deem an application approved if the local agency does not approve or deny the completed application within those 60 days. The bill would require a local agency that denies an application, within 60 days from the date the local agency receives the completed application, to return in writing a full set of comments to the applicant with a list of items that are defective or deficient and a description of how the applicant can remedy the application. By requiring local planning officials to review and approve applications for housing development projects, as described above, this bill would impose a state-mandated local program.",
+  "The bill would authorize a local agency to disapprove a housing development project that meets the above-described requirements if it makes a written finding, based upon a preponderance of the evidence, that the proposed housing development project would have a specific, adverse impact, as specified, upon public health and safety and for which there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact. The bill would authorize a local agency to adopt an ordinance to implement these provisions, as specified.",
+  "(2) Existing law requires a city or county to adopt a general plan for land use development within its boundaries that includes certain mandatory elements. Existing law requires the Department of Housing and Community Development to determine whether the housing element is in substantial compliance with specified provisions of that law. Existing law requires the department to notify a city, county, or city and county, and authorizes the department to notify the office of the Attorney General, that the city, county, or city and county is in violation of state law if the department finds that, among other things, the local government has taken action in violation of specified provisions of law.",
+  "This bill would also include among those specified provisions the changes proposed by the bill.",
+  "(3) Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA does not apply to the approval of ministerial projects.",
+  "By establishing a streamlined, ministerial approval process for certain housing developments, this bill would expand the exemption for the ministerial approval of projects under CEQA. Under the bill, an ordinance adopted by a local agency to implement certain provisions of the bill would not be considered a project under CEQA.",
+  "(4) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(5) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "0dc33111e688281a",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-13"
+  },
+  {
+   "action": "From printer. May be heard in committee March 16.",
+   "date": "2025-02-14"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-03-28"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-03-28"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-04-01"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1265.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "(Pending re-refer to Com. on L. GOV.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 8. Noes 2.) (April 24). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on TRANS. pursuant to Assembly Rule 96.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 15. Noes 0.) (January 12). Re-referred to Com. on APPR.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Page 3806.)",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to suspense file.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (January 22).",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 68. Noes 0. Page 3830.)",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-01-27"
+  },
+  {
+   "action": "Referred to Com. on PUB. S.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 6. Noes 0.) (June 9). Re-referred to Com. on APPR.",
+   "date": "2026-06-09"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2026-08-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "In Assembly. Ordered to Engrossing and Enrolling.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 867, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250AB64794CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65585 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) In the preparation of its housing element, each city and county shall consider the guidelines adopted by the department pursuant to Section 50459 of the Health and Safety Code. Those guidelines shall be advisory to each city or county in the preparation of its housing element.",
+    "(b) (1) (A) At least 90 days prior to adoption of a revision of its housing element pursuant to subdivision (e) of Section 65588, or at least 60 days prior to the adoption of a subsequent amendment to this element, the planning agency shall submit a draft element revision or draft amendment to the department. The local government of the planning agency shall make the first draft revision of a housing element available for public comment for at least 30 days and, if any comments are received, the local government shall take at least 10 business days after the 30-day public comment period to consider and incorporate public comments into the draft revision prior to submitting it to the department. For any subsequent draft revision, the local government shall post the draft revision on its internet website and shall email a link to the draft revision to all individuals and organizations that have previously requested notices relating to the local government’s housing element at least seven days before submitting the draft revision to the department.",
+    "(B) The planning agency staff shall collect and compile the public comments regarding the housing element received by the city, county, or city and county and provide these comments to each member of the legislative body before it adopts the housing element.",
+    "(C) The department shall review the draft and report its written findings to the planning agency within 90 days of its receipt of the first draft submittal for each housing element revision pursuant to subdivision (e) of Section 65588 or within 60 days of its receipt of a subsequent draft amendment or an adopted revision or adopted amendment to an element. The department shall not review the first draft submitted for each housing element revision pursuant to subdivision (e) of Section 65588 until the local government has made the draft available for public comment for at least 30 days and, if comments were received, has taken at least 10 business days to consider and incorporate public comments pursuant to paragraph (1).",
+    "(2) (A) At least 90 days prior to the initial adoption of a revision of its housing element pursuant to subdivision (e) of Section 65588, and at least 7 days prior to any subsequent adoption submittal if changes have occurred to the inventory of sites, a local government shall do both of the following:",
+    "(i) Make a draft of its inventory of sites required pursuant to paragraph (3) of subdivision (a) of Section 65583 available to the department and the public and post the draft inventory on its internet website.",
+    "(ii) Send an email to all individuals and organizations that have previously requested notices notifying them that the inventory has been updated that includes a link to the draft inventory on its website.",
+    "(B) The requirements of this paragraph shall apply to the seventh and each subsequent revision of the housing element.",
+    "(c) In the preparation of its findings, the department may consult with any public agency, group, or person. The department shall receive and consider any written comments from any public agency, group, or person regarding the draft or adopted element or amendment under review.",
+    "(d) In its written findings, the department shall determine whether the draft element or draft amendment substantially complies with this article.",
+    "(e) Prior to the adoption of its draft element or draft amendment, the legislative body shall consider the findings made by the department. If the department’s findings are not available within the time limits set by this section, the legislative body may act without them.",
+    "(f) If the department finds that the draft element or draft amendment does not substantially comply with this article, the legislative body shall take one of the following actions:",
+    "(1) (A) Change the draft element or draft amendment to substantially comply with this article.",
+    "(B) Any change to a draft element or draft amendment pursuant to subparagraph (A) shall be completed in accordance with subdivision (b). This subparagraph does not constitute a change in, but is declaratory of, existing law.",
+    "(2) Adopt the draft element or draft amendment without changes. The legislative body shall include in its resolution of adoption written findings that explain the reasons the legislative body believes that the draft element or draft amendment substantially complies with this article despite the findings of the department.",
+    "(g) (1) Promptly following the adoption of its element or amendment, the planning agency shall submit a copy of the adopted element or amendment and any findings made pursuant to paragraph (2) of subdivision (f) to the department.",
+    "(2) This subdivision shall not be construed to excuse a legislative body from complying with subdivision (f). This paragraph does not constitute a change in, but is declaratory of, existing law.",
+    "(h) The department shall, within 60 days, review adopted housing elements or amendments and any findings pursuant to paragraph (2) of subdivision (f), make a finding as to whether the adopted element or amendment is in substantial compliance with this article, and report its findings to the planning agency.",
+    "(i) (1) (A) The department shall review any action or failure to act by the city, county, or city and county that it determines is inconsistent with an adopted housing element or Section 65583, including any failure to implement any program actions included in the housing element pursuant to Section 65583. The department shall issue written findings to the city, county, or city and county as to whether the action or failure to act substantially complies with this article, and provide a reasonable time no longer than 30 days for the city, county, or city and county to respond to the findings before taking any other action authorized by this section, including the action authorized by subparagraph (C).",
+    "(B) If the department finds that the city’s, county’s, or city and county’s action or failure to act does not substantially comply with its adopted housing element or its obligations pursuant to Section 65583, there shall be a rebuttable presumption of invalidity in any legal action challenging that action or failure to act.",
+    "(C) If the department finds that the action or failure to act by the city, county, or city and county does not substantially comply with this article, and if it has issued findings pursuant to this section that an amendment to the housing element substantially complies with this article, the department may revoke its findings until it determines that the city, county, or city and county has come into compliance with this article.",
+    "(2) The department may consult with any local government, public agency, group, or person, and shall receive and consider any written comments from any public agency, group, or person, regarding the action or failure to act by the city, county, or city and county described in paragraph (1), in determining whether the housing element substantially complies with this article.",
+    "(j) The department shall notify the city, county, or city and county and may notify the office of the Attorney General that the city, county, or city and county is in violation of state law if the department finds that the housing element or an amendment to this element, or any action or failure to act described in subdivision (i), does not substantially comply with this article or that any local government has taken an action in violation of the following:",
+    "(1) Housing Accountability Act (Section 65589.5).",
+    "(2) Section 65863.",
+    "(3) Chapter 4.3 (commencing with Section 65915).",
+    "(4) Section 65008.",
+    "(5) Housing Crisis Act of 2019 (Chapter 654, Statutes of 2019, Sections 65941.1, 65943, and 66300).",
+    "(6) Section 8899.50.",
+    "(7) Section 65913.4.",
+    "(8) Article 11 (commencing with Section 65650).",
+    "(9) Article 12 (commencing with Section 65660).",
+    "(10) Section 65913.11.",
+    "(11) Section 65400.",
+    "(12) Section 65863.2.",
+    "(13) Chapter 4.1 (commencing with Section 65912.100).",
+    "(14) Section 65905.5.",
+    "(15) Chapter 13 (commencing with Section 66310).",
+    "(16) Section 65852.21.",
+    "(17) Section 65852.22.",
+    "(18) Section 65852.24.",
+    "(19) Section 66411.7.",
+    "(20) Section 65913.16.",
+    "(21) Article 2 (commencing with Section 66300.5) of Chapter 12.",
+    "(22) Section 65852.28.",
+    "(23) Section 65913.4.5.",
+    "(24) Section 66499.41.",
+    "(25) Homeless Housing, Assistance, and Prevention program (Chapter 6 (commencing with Section 50216) and Chapter 6.5 (commencing with Section 50230) of Part 1 of Division 31 of the Health and Safety Code).",
+    "(26) Encampment Resolution Funding program (Chapter 7 (commencing with Section 50250) of Part 1 of Division 31 of the Health and Safety Code).",
+    "(27) Family Homelessness Challenge Grants and Technical Assistance Program (Chapter 8 (commencing with Section 50255) of Part 1 of Division 31 of the Health and Safety Code).",
+    "(28) (A) Article 11.5 (commencing with Section 65658).",
+    "(B) This paragraph shall become operative only if Assembly Bill 3068 of the 2023–24 Regular Session of the Legislature is enacted and takes effect on or before January 1, 2025.",
+    "(k) Commencing July 1, 2019, prior to the Attorney General bringing any suit for a violation of the provisions identified in subdivision (j) related to housing element compliance and seeking remedies available pursuant to this subdivision, the department shall offer the jurisdiction the opportunity for two meetings in person or via telephone to discuss the violation, and shall provide the jurisdiction written findings regarding the violation. This paragraph does not affect any action filed prior to the effective date of this section. The requirements set forth in this subdivision do not apply to any suits brought for a violation or violations of paragraphs (1) and (3) to (9), inclusive, of subdivision (j).",
+    "(l) In any action or special proceeding brought by the Attorney General relating to housing element compliance pursuant to a notice or referral under subdivision (j), the Attorney General may request, upon a finding of the court that the housing element does not substantially comply with the requirements of this article pursuant to this section, that the court issue an order or judgment directing the jurisdiction to bring its housing element into substantial compliance with the requirements of this article. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If a court determines that the housing element of the jurisdiction substantially complies with this article, it shall have the same force and effect, for purposes of eligibility for any financial assistance that requires a housing element in substantial compliance and for purposes of any incentives provided under Section 65589.9, as a determination by the department that the housing element substantially complies with this article.",
+    "(1) If the jurisdiction has not complied with the order or judgment after 12 months, the court shall conduct a status conference. Following the status conference, upon a determination that the jurisdiction failed to comply with the order or judgment compelling substantial compliance with the requirements of this article, the court shall impose fines on the jurisdiction, which shall be deposited into the Building Homes and Jobs Trust Fund. Any fine levied pursuant to this paragraph shall be in a minimum amount of ten thousand dollars ($10,000) per month, but shall not exceed one hundred thousand dollars ($100,000) per month, except as provided in paragraphs (2) and (3). In the event that the jurisdiction fails to pay fines imposed by the court in full and on time, the court may require the Controller to intercept any available state and local funds and direct such funds to the Building Homes and Jobs Trust Fund to correct the jurisdiction’s failure to pay. The intercept of the funds by the Controller for this purpose shall not violate any provision of the California Constitution.",
+    "(2) If the jurisdiction has not complied with the order or judgment after three months following the imposition of fees described in paragraph (1), the court shall conduct a status conference. Following the status conference, if the court finds that the fees imposed pursuant to paragraph (1) are insufficient to bring the jurisdiction into compliance with the order or judgment, the court may multiply the fine determined pursuant to paragraph (1) by a factor of three. In the event that the jurisdiction fails to pay fines imposed by the court in full and on time, the court may require the Controller to intercept any available state and local funds and direct such funds to the Building Homes and Jobs Trust Fund to correct the jurisdiction’s failure to pay. The intercept of the funds by the Controller for this purpose shall not violate any provision of the California Constitution.",
+    "(3) If the jurisdiction has not complied with the order or judgment six months following the imposition of fees described in paragraph (1), the court shall conduct a status conference. Upon a determination that the jurisdiction failed to comply with the order or judgment, the court may impose the following:",
+    "(A) If the court finds that the fees imposed pursuant to paragraphs (1) and (2) are insufficient to bring the jurisdiction into compliance with the order or judgment, the court may multiply the fine determined pursuant to paragraph (1) by a factor of six. In the event that the jurisdiction fails to pay fines imposed by the court in full and on time, the court may require the Controller to intercept any available state and local funds and direct such funds to the Building Homes and Jobs Trust Fund to correct the jurisdiction’s failure to pay. The intercept of the funds by the Controller for this purpose shall not violate any provision of the California Constitution.",
+    "(B) The court may order remedies available pursuant to Section 564 of the Code of Civil Procedure, under which the agent of the court may take all governmental actions necessary to bring the jurisdiction’s housing element into substantial compliance pursuant to this article in order to remedy identified deficiencies. The court shall determine whether the housing element of the jurisdiction substantially complies with this article and, once the court makes that determination, it shall have the same force and effect, for all purposes, as the department’s determination that the housing element substantially complies with this article. An agent appointed pursuant to this paragraph shall have expertise in planning in California.",
+    "(4) This subdivision does not limit a court’s discretion to apply any and all remedies in an action or special proceeding for a violation of any law identified in subdivision (j).",
+    "(m) In determining the application of the remedies available under subdivision (l), the court shall consider whether there are any mitigating circumstances delaying the jurisdiction from coming into compliance with state housing law. The court may consider whether a city, county, or city and county is making a good faith effort to come into substantial compliance or is facing substantial undue hardships.",
+    "(n) Nothing in this section shall limit the authority of the office of the Attorney General to bring a suit to enforce state law in an independent capacity. The office of the Attorney General may seek all remedies available under law including those set forth in this section.",
+    "(o) Notwithstanding Sections 11040 and 11042, if the Attorney General declines to represent the department in any action or special proceeding brought pursuant to a notice or referral under subdivision (j), the department may appoint or contract with other counsel for purposes of representing the department in the action or special proceeding.",
+    "(p) Notwithstanding any other provision of law, the statute of limitations set forth in subdivision (a) of Section 338 of the Code of Civil Procedure shall apply to any action or special proceeding brought by the office of the Attorney General or pursuant to a notice or referral under subdivision (j), or by the department pursuant to subdivision (o).",
+    "(q) The amendments to this section made by the act adding this subdivision shall not be construed to limit the department’s ability to enforce programmatic requirements or remedies against cities, counties, and continuums of care pursuant to the Homeless Housing, Assistance, and Prevention program (Chapter 6 (commencing with Section 50216) and Chapter 6.5 (commencing with Section 50230) of Part 1 of Division 31 of the Health and Safety Code), the Encampment Resolution Funding program (Chapter 7 (commencing with Section 50250)), and the Family Homelessness Challenge Grants and Technical Assistance Program (Chapter 8 (commencing with Section 50255))."
+   ],
+   "sec": "65585",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65852.22 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A proposed housing development containing no more than eight residential units that is located on a lot with an existing single-family home or is zoned for eight or fewer residential units shall be considered ministerially, without discretionary review or a hearing, if the proposed housing development meets all of the following requirements:",
+    "(1) (A) The proposed housing development dedicates at least one residential unit to deed-restricted affordable housing to households making at or below 80 percent of the area median income. The residential unit shall be subject to a recorded deed restriction for affordable rent for a period of 55 years for rental units and for affordable cost for a period of 45 years for owner-occupied units.",
+    "(B) For purposes of this paragraph, the following definitions apply:",
+    "(i) “Affordable cost” has the same meaning as ”affordable housing cost” described in Section 50052.5 of the Health and Safety Code.",
+    "(ii) “Affordable rent” has the same meaning as “affordable rent” described in Section 50053 of the Health and Safety Code.",
+    "(iii) “Area median income” has the same meaning as “area median income” as published by the department pursuant to Section 50093 of the Health and Safety Code.",
+    "(2) Each of the residential units in the proposed housing development may be leased, sold, or conveyed in any manner under applicable law, including, but not limited to, any of the following:",
+    "(A) Rental housing.",
+    "(B) Part of a common interest development, pursuant to the Davis-Stirling Common Interest Development Act (Part 5 (commencing with Section 4000) of Division 4 of the Civil Code).",
+    "(C) Part of a tenancy in common, as described in Section 685 of the Civil Code.",
+    "(D) Part of a housing cooperative, as defined in Section 817 of the Civil Code.",
+    "(3) The site of the housing development project satisfies both of the following requirements:",
+    "(A) It is located in a residential zone.",
+    "(B) (i) The lot is a legal parcel located within either of the following:",
+    "(I) An incorporated city, the boundaries of which include some portion of an urbanized area.",
+    "(II) An urbanized area or urban cluster.",
+    "(ii) For purposes of this subparagraph, the following definitions apply:",
+    "(I) “Urbanized area” means an urbanized area designated by the United States Census Bureau, as published in the Federal Register, Volume 77, Number 59, on March 27, 2012.",
+    "(II) “Urban cluster” means an urban cluster designated by the United States Census Bureau, as published in the Federal Register, Volume 77, Number 59, on March 27, 2012.",
+    "(4) The development of the housing development project does not require the demolition or alteration of any of the following types of housing:",
+    "(A) Housing that is subject to a recorded covenant, ordinance, or law that restricts rent to levels affordable to persons and families of low, very low, or extremely low income.",
+    "(B) Housing that is subject to any form of rent or price control through a local public entity’s valid exercise of its police power.",
+    "(C) Housing occupied by tenants within the five years preceding the date of the application, including housing that has been demolished or that tenants have vacated before the submission of the application for a development permit.",
+    "(5) The housing development project will be served by a public water system and a municipal sewer system.",
+    "(6) The housing development project is not located on a site that is any of the following:",
+    "(A) (i) An area of the coastal zone subject to paragraph (1) or (2) of subdivision (a) of Section 30603 of the Public Resources Code.",
+    "(ii) An area of the coastal zone that is not subject to a certified local coastal program or a certified land use plan.",
+    "(iii) An area of the coastal zone that is vulnerable to five feet of sea level rise, as determined by the National Oceanic and Atmospheric Administration, the Ocean Protection Council, the United States Geological Survey, the University of California, or a local agency’s coastal hazards vulnerability assessment.",
+    "(iv) In a parcel in the coastal zone and located on either of the following:",
+    "(I) On, or within a 100-foot radius of, a wetland, as defined in Section 30121 of the Public Resources Code.",
+    "(II) On prime agricultural land, as defined in Sections 30113 and 30241 of the Public Resources Code.",
+    "(B) Either prime farmland or farmland of statewide importance, as defined pursuant to United States Department of Agriculture land inventory and monitoring criteria, as modified for California, and designated on the maps prepared by the Farmland Mapping and Monitoring Program of the Department of Conservation, or land zoned or designated for agricultural protection or preservation by a local ballot measure that was approved by the voters of that jurisdiction.",
+    "(C) Wetlands, as defined in the United States Fish and Wildlife Service Manual, Part 660 FW 2 (June 21, 1993).",
+    "(D) Within a high or very high fire hazard severity zone, as determined by the Department of Forestry and Fire Protection pursuant to Section 51178, or within the state responsibility area, as defined in Section 4102 of the Public Resources Code. This subparagraph does not apply to sites that have adopted fire hazard mitigation measures pursuant to existing building standards or state fire mitigation measures applicable to the development, including, but not limited to, standards established under all of the following or their successor provisions:",
+    "(i) Section 4291 of the Public Resources Code or Section 51182, as applicable.",
+    "(ii) Section 4290 of the Public Resources Code.",
+    "(iii) Chapter 7A of the California Building Standards Code (Title 24 of the California Code of Regulations).",
+    "(E) A hazardous waste site that is listed pursuant to Section 65962.5 or a hazardous waste site that is otherwise designated by the Department of Toxic Substances Control, unless either of the following apply:",
+    "(i) The site is an underground storage tank site that received a uniform closure letter issued pursuant to subdivision (g) of Section 25296.10 of the Health and Safety Code based on closure criteria established by the State Water Resources Control Board for residential use or residential mixed uses. This section does not alter or change the conditions to remove a site from the list of hazardous waste sites listed pursuant to Section 65962.5.",
+    "(ii) The State Department of Public Health, the State Water Resources Control Board, the Department of Toxic Substances Control, or a local agency making a determination pursuant to subdivision (c) of Section 25296.10 of the Health and Safety Code, has otherwise determined that the site is suitable for residential use or residential mixed uses.",
+    "(F) Within a delineated earthquake fault zone, as determined by the State Geologist in any official maps published by the State Geologist, unless the development complies with applicable seismic protection building code standards adopted by the California Building Standards Commission under the California Building Standards Law (Part 2.5 (commencing with Section 18901) of Division 13 of the Health and Safety Code), and by any local building department under Chapter 12.2 (commencing with Section 8875) of Division 1 of Title 2.",
+    "(G) Within a special flood hazard area subject to inundation by the 1-percent annual chance flood (100-year flood) as determined by the Federal Emergency Management Agency (FEMA) in any official maps published by FEMA. If a development proponent is able to satisfy all applicable federal qualifying criteria in order to provide that the site satisfies this subparagraph and is otherwise eligible for streamlined approval under this section, a local agency shall not deny the application on the basis that the development proponent did not comply with any additional permit requirement, standard, or action adopted by that local agency that is applicable to that site. A development may be located on a site described in this subparagraph if either of the following are met:",
+    "(i) The site has been subject to a Letter of Map Revision prepared by FEMA and issued to the local jurisdiction.",
+    "(ii) The site meets FEMA requirements necessary to meet minimum flood plain management criteria of the National Flood Insurance Program pursuant to Part 59 (commencing with Section 59.1) and Part 60 (commencing with Section 60.1) of Subchapter B of Chapter I of Title 44 of the Code of Federal Regulations.",
+    "(H) Within a regulatory floodway as determined by FEMA in any official maps published by FEMA, unless the development has received a no-rise certification in accordance with Section 60.3(d)(3) of Title 44 of the Code of Federal Regulations. If a development proponent is able to satisfy all applicable federal qualifying criteria in order to provide that the site satisfies this subparagraph and is otherwise eligible for streamlined approval under this section, a local agency shall not deny the application on the basis that the development proponent did not comply with any additional permit requirement, standard, or action adopted by that local agency that is applicable to that site.",
+    "(I) Lands identified for conservation in an adopted natural community conservation plan pursuant to the Natural Community Conservation Planning Act (Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code), a habitat conservation plan pursuant to the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), or other adopted natural resource protection plan.",
+    "(J) Habitat for protected species identified as candidate, sensitive, or species of special status by state or federal agencies, fully protected species, or species protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code).",
+    "(K) Lands under conservation easement.",
+    "(b) (1) A local agency shall not apply any development standard that will have the effect of physically precluding the construction of a housing development that meets the requirements of subdivision (a). This subdivision shall not be interpreted to require a local agency to waive or reduce development standards if the waiver or reduction would have a specific, adverse impact, as defined in paragraph (2) of subdivision (d) of Section 65589.5, upon health or safety, and for which there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact.",
+    "(2) Notwithstanding paragraph (1), a local agency shall not impose on a housing development subject to this section any objective zoning standard or objective design standard that does or is any of the following:",
+    "(A) Imposes any requirement that applies to a project solely or partially on the basis that the housing development receives approval pursuant to this section.",
+    "(B) Requires a setback between the units, except as required in the California Building Standards Code (Title 24 of the California Code of Regulations).",
+    "(C) Requires that parking be enclosed or covered.",
+    "(D) Imposes side and rear setbacks from the original lot line inconsistent with subparagraph (B) of paragraph (2) of subdivision (b) of Section 65852.21.",
+    "(E) Imposes height restrictions less than that of one story above the maximum height otherwise applicable to the parcel.",
+    "(F) Imposes off-street parking requirements.",
+    "(G) Imposes a floor area ratio standard that is less than 2.0.",
+    "(3) Notwithstanding paragraph (1), no setback, height limitation, lot coverage limitation, floor area ratio, or other standard that would limit residential development capacity shall be required for an existing structure or a structure constructed in the same location and within the same dimensions as an existing structure.",
+    "(c) (1) A local agency shall ministerially consider, without discretionary review or a hearing, an application submitted to the local agency pursuant to this section.",
+    "(2) A local agency shall approve or deny an application for a housing development project submitted to a local agency pursuant to this section within 60 days from the date the local agency receives a completed application. If the local agency does not approve or deny a completed application within 60 days, the application shall be deemed approved. If the local agency denies the application, the local agency shall, within 60 days from the date the local agency receives the completed application, return in writing a full set of comments to the applicant with a list of items that are defective or deficient and a description of how the applicant can remedy the application.",
+    "(d) A local agency may disapprove a housing development project that meets the requirements of this section if it makes a written finding, based upon a preponderance of the evidence, that the proposed housing development project would have a specific, adverse impact, as defined and determined in paragraph (2) of subdivision (d) of Section 65589.5, upon public health and safety and for which there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact.",
+    "(e) A local agency may adopt an ordinance to implement the provisions of this section. An ordinance adopted to implement this section shall not be considered a project under Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(f) The Legislature finds and declares that the provision of adequate housing, in light of the severe shortage of housing at all income levels in this state, is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this section serves a significant and legitimate public purpose by eliminating potential restrictions that could inhibit the production of adequate housing, and applies to all cities, including charter cities.",
+    "(g) For purposes of this section, “local agency” means a city, county, or city and county, whether general law or chartered."
+   ],
+   "sec": "65852.22",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Abandoned recreational vehicles.",
+ "title": "An act to amend Section 65585 of, and to add Section 65852.22 to, the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-13",
+   "id": "20250AB64799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-28",
+   "id": "20250AB64798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-24",
+   "id": "20250AB64797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-01-05",
+   "id": "20250AB64796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-24",
+   "id": "20250AB64795ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250AB64794CHP",
+   "num": "94"
+  }
+ ]
+}

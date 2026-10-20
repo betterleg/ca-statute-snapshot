@@ -1,0 +1,271 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": true
+  }
+ ],
+ "bill": "SB1093",
+ "bill_id": "202520260SB1093",
+ "chapter": {
+  "num": "775",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law establishes the Department of Housing and Community Development (the department) and requires it to administer various programs intended to promote the development of housing, including mobilehome parks, as defined.",
+  "Existing law, the Planning and Zoning Law, requires, before the conversion of a mobilehome park to another use, except as specified, or before closure of a mobilehome park or cessation of use of the land as a mobilehome park, the person or entity proposing the change in use to file a report on the impact of the conversion, closure, or cessation of use of the mobilehome park. Existing law requires the impact report to include a replacement and relocation plan that adequately mitigates the impact upon the ability of the displaced residents of the mobilehome park to find adequate housing in a mobilehome park. Existing law requires the report, if a closure, cessation, or change of use is the result of damage or destruction of the mobilehome park by a disaster, as defined, to include a technical service inspection report from the department that identifies the observed conditions within the park.",
+  "Existing law, the Mobilehome Residency Law, governs the terms and conditions of residency in mobilehome parks. Existing law requires management, as defined, of a mobilehome park to offer the previous homeowner a right of first refusal to a renewed tenancy in the park if the park is destroyed due to a wildfire or other natural disaster and management elects to rebuild the park in the same location. Existing law, when a mobilehome tenancy is terminated due to damage or the destruction of the mobilehome park or any space as a result of a disaster, as defined, requires management to return to the homeowner any advance rental payments received from the homeowner that cover any period of time after the date of the termination, and discharges the homeowner’s obligation to pay rent during any period that a homeowner is unable to occupy their mobilehome or mobilehome space due to a mandatory evacuation order pursuant to a disaster.",
+  "This bill would require management to make a good faith effort to provide written status updates once per week for the first 4 weeks after a park is damaged by a disaster, resulting in one or more mobilehome units being rendered inaccessible to an existing mobilehome resident, and monthly thereafter until each displaced resident is allowed to return to occupying their mobilehome site or the mobilehome park receives final approval of a change of use, cessation of use, or closure, to the displaced residents of the park, as provided. The bill would prohibit management from restricting a resident of the park from accessing their mobilehome or mobilehome site during regular business hours to collect belongings or inspect damage to their mobilehome on any date later than 7 days after evacuation orders are officially lifted or downgraded by the local governing authority to resident-access only and would require any waiver of liability distributed by management to be limited to immunity for harm resulting from the resident accessing the mobilehome, mobilehome site, or mobilehome park.",
+  "This bill would require management, before initiating or while pursuing a change of use, cessation of use, or closure related to damage or destruction of the mobilehome park by a disaster, to at least reasonably evaluate the known and estimated costs for rebuilding and reopening the park and identify all potential resources from a list maintained by the department. The bill would require the department to maintain a list of mobilehome-related programs and opportunities that could support rehabilitation or rebuilding of a mobilehome park affected by a disaster declaration and require the department to make the list available on the department’s internet website. The bill would require management to submit documentation demonstrating completion of those evaluations and investigations to the department, the local jurisdiction in which the park is situated, and the residents of the mobilehome park, and would prohibit the department and that local jurisdiction from issuing or amending specified approvals and permits to management until that documentation has been submitted. By placing new requirements on local jurisdictions in which mobilehome parks are situated, this bill would impose a state-mandated local program.",
+  "This bill would authorize a jurisdiction with enforcement power to require debris removal and specified testing if a mobilehome park is damaged or destroyed in a disaster resulting in one or more mobilehome units being rendered inaccessible to an existing mobilehome resident, as provided. The bill would authorize a resident organization, a displaced resident of the mobilehome park, or a public attorney, as specified, to bring an action against management that willfully violates these provisions, as provided.",
+  "(2) The Planning and Zoning Law requires a legislative body, or its delegated advisory agency, before the approval of any change of use of the mobilehome park, to review the report and any additional relevant documentation and make specified findings regarding the effect on housing opportunities within the local jurisdiction.",
+  "The bill would additionally provide that before the approval of any change of use the legislative body shall review documentation compliance with the specified evaluations and investigations required by the bill, and that management shall not receive approval of any change of use by the legislative body if management fails to submit that documentation.",
+  "The Planning and Zoning Law also requires a legislative body, or its delegated advisory agency, before the approval of any change of use of the mobilehome park, to make a finding as to whether or not approval of the park closure and the park’s conversion into its intended new use will result in or materially contribute to a shortage of housing opportunities and choices for low- and moderate-income households within the local jurisdiction.",
+  "This bill would also require that finding to consider the costs of closure or conversion to the residents of the park for which closure or conversion is sought.",
+  "By placing new requirements on local legislative bodies when approving a change of use for mobilehome parks, this bill would impose a state-mandated local program.",
+  "(3) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(4) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "9f8db9e0059981de",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-13"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 16.",
+   "date": "2026-02-17"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2026-02-26"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-03-17"
+  },
+  {
+   "action": "Re-referred to Coms. on JUD. and HOUSING.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Set for hearing April 14.",
+   "date": "2026-04-02"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "Set for hearing April 21 in HOUSING pending receipt.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 11. Noes 1. Page 3868.) (April 14). Re-referred to Com. on HOUSING.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 2. Page 3975.) (April 21).",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "May 11 hearing: Placed on APPR. suspense file.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 5. Noes 2. Page 4264.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 29. Noes 9. Page 4487.) Ordered to the Assembly.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and JUD.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 4.) (June 24). Re-referred to Com. on JUD.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (June 30).",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "August 5 set for first hearing. Placed on suspense file.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 4.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 48. Noes 17. Page 6313.) Ordered to the Senate.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 30. Noes 10.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 11 a.m.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 775, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250SB109391CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65863.7 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) (A) Prior to the conversion of a mobilehome park to another use, except pursuant to the Subdivision Map Act (Division 2 (commencing with Section 66410)), or prior to closure of a mobilehome park or cessation of use of the land as a mobilehome park, the person or entity proposing the change in use shall file a report on the impact of the conversion, closure, or cessation of use of the mobilehome park. The report shall include a replacement and relocation plan that adequately mitigates the impact upon the ability of the displaced residents of the mobilehome park to be converted or closed to find adequate housing in a mobilehome park.",
+    "(B) (i) If the proposed closure, cessation, or change of use is related to damage or destruction by a disaster, as described in subdivision (k), the impact report described in subparagraph (A) shall also include a technical service inspection report from the Department of Housing and Community Development that identifies the observed conditions within the park. Technical service has the same meaning as in Section 1002 of Title 25 of the California Code of Regulations.",
+    "(ii) For purposes of this subparagraph, management, as defined in Section 798.2 of the Civil Code, is the person or entity proposing the change in use for purposes of preparing the impact report required by this section and is required to take steps to mitigate the adverse impact of the change as may be required in subdivision (e).",
+    "(2) (A) If a displaced resident cannot obtain adequate housing in another mobilehome park, the person or entity proposing the change of use shall pay to the displaced resident the in-place market value of the displaced resident’s mobilehome.",
+    "(B) For the purposes of this paragraph, except as specified in subparagraph (B) of paragraph (1) of subdivision (e), in-place market value shall be determined by a state-certified appraiser with experience establishing the value of mobilehomes. The appraisal shall be based upon the current in-place location of the mobilehome and shall assume the continuation of the mobilehome park.",
+    "(C) The person or entity proposing the change of use shall pay for an appraisal specified in subparagraph (B) and shall include the appraisal in the report specified in paragraph (1).",
+    "(D) This paragraph shall not apply when the proposed closure, cessation, or change of use is related to damage or destruction by a disaster, as defined in Section 798.64 of the Civil Code.",
+    "(b) The person proposing the change in use shall provide a copy of the report to a resident of each mobilehome in the mobilehome park at least 60 days prior to the hearing, if any, on the impact report by the advisory agency, or if there is no advisory agency, by the legislative body.",
+    "(c) When the impact report is filed prior to the closure or cessation of use, the person or entity proposing the change shall provide a copy of the report to a resident of each mobilehome in the mobilehome park at the same time as the notice of the change is provided to the residents pursuant to paragraph (2) of subdivision (g) of Section 798.56 of the Civil Code.",
+    "(d) When the impact report is filed prior to the closure or cessation of use, the person or entity filing the report or park resident may request, and shall have a right to, a hearing before the legislative body on the sufficiency of the report.",
+    "(e) (1) Before the approval of any change of use, the legislative body, or its delegated advisory agency, shall do all of the following:",
+    "(A) Review the report and any additional relevant documentation. If the proposed closure, cessation, or change of use is related to damage or destruction by a disaster, as defined in Section 798.64 of the Civil Code, additional relevant documentation shall include documentation demonstrating management’s compliance with the requirements of subdivision (d) of Section 798.65 of the Civil Code.",
+    "(B) Make a finding as to whether or not approval of the park closure and the park’s conversion into its intended new use, taking into consideration both the impact report as a whole and the overall housing availability within the local jurisdiction, will result in or materially contribute to a shortage of housing opportunities and choices for low- and moderate-income households within the local jurisdiction. The finding shall also consider the costs of closure or conversion to the residents of the park for which closure or conversion is sought.",
+    "(2) The legislative body, or its delegated advisory agency, may require, as a condition of the change, the person or entity proposing the change in use to take steps to mitigate any adverse impact of the conversion, closure, or cessation of use on the ability of displaced mobilehome park residents to find adequate housing in a mobilehome park.",
+    "(f) If the closure or cessation of use of a mobilehome park results from the entry of an order for relief in bankruptcy, the provisions of this section shall not be applicable.",
+    "(g) The legislative body may establish reasonable fees pursuant to Section 66016 to cover any costs incurred by the local agency in implementing this section and Section 65863.8. Those fees shall be paid by the person or entity proposing the change in use.",
+    "(h) This section is applicable to charter cities.",
+    "(i) This section is applicable when the closure, cessation, or change of use is the result of a decision by a local governmental entity or planning agency not to renew a conditional use permit or zoning variance under which the mobilehome park has operated, or as a result of any other zoning or planning decision, action, or inaction. In this case, the local governmental agency is the person proposing the change in use for the purposes of preparing the impact report required by this section and is required to take steps to mitigate the adverse impact of the change as may be required in subdivision (e).",
+    "(j) This section is applicable when the closure, cessation, or change of use is the result of a decision by an enforcement agency, as defined in Section 18207 of the Health and Safety Code, to suspend the permit to operate the mobilehome park. In this case, the mobilehome park owner is the person proposing the change in use for purposes of preparing the impact report required by this section and is required to take steps to mitigate the adverse impact of the change as may be required in subdivision (e).",
+    "(k) This section, except paragraph (2) of subdivision (a), is applicable when the closure, cessation, or change of use is the result of damage or destruction of the mobilehome park by a disaster as defined in Section 798.64 of the Civil Code.",
+    "(l) This section establishes a minimum standard for local regulation of the conversion of a mobilehome park to another use, the closure of a mobilehome park, and the cessation of use of the land as a mobilehome park and shall not prevent a local agency from enacting more stringent measures."
+   ],
+   "sec": "65863.7",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Mobilehome parks: disaster assistance.",
+ "title": "An act to add Article 6.5 (commencing with Section 798.65) to Chapter 2.5 of Title 2 of Part 2 of Division 2 of the Civil Code, and to amend Section 65863.7 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-13",
+   "id": "20250SB109399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-17",
+   "id": "20250SB109398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-06",
+   "id": "20250SB109397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-27",
+   "id": "20250SB109396AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-25",
+   "id": "20250SB109395AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-07-02",
+   "id": "20250SB109394AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-13",
+   "id": "20250SB109393AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-25",
+   "id": "20250SB109392ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250SB109391CHP",
+   "num": "91"
+  }
+ ]
+}

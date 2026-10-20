@@ -1,0 +1,328 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bonta",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bennett",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ortega",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rogers",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Stern",
+   "primary": false
+  }
+ ],
+ "bill": "AB40",
+ "bill_id": "202520260AB40",
+ "chapter": {
+  "num": "864",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA provides that when an EIR has been prepared for a project, no subsequent or supplemental EIR shall be required by a lead agency or responsible agency, unless specified events occur.",
+  "This bill would require a lead agency, before issuing the initial discretionary approval for a large-volume bulk coal facility, defined as a facility with a design capacity exceeding 5,000,000 short tons per year of coal handling, storage, or export to prepare or cause to be prepared an EIR. The bill would prohibit a lead agency, air pollution control district, or air quality management district from relying on an existing EIR to issue a discretionary approval for, or to, a large-volume bulk coal facility, and would require a subsequent or new EIR to be prepared, if any of a list of specified conditions are met, including that there is an increase in design capacity of a project that did not previously meet the definition of a large-volume bulk coal facility, as provided; there is a change in the type of coal handled, stored, or exported, or the EIR did not explicitly address the type of coal handled, stored, or exported; or there is a significant increase in the quantity of coal handled, stored, or exported, or the EIR did not explicitly disclose the quantity of coal to be handled, stored, or exported. The bill would require an EIR or subsequent EIR prepared pursuant to these provisions to, among other things, evaluate the large-volume bulk coal facility’s potential to generate PM2.5 and PM10 fugitive dust emissions during construction and operations, and to require mitigation measures, as provided. The bill would apply these provisions to a discretionary approval that is pending or made after June 4, 2026, as specified.",
+  "Because the bill would create new duties for a lead agency, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "e1bda8eecf259816",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2024-12-02"
+  },
+  {
+   "action": "From printer. May be heard in committee January 2.",
+   "date": "2024-12-03"
+  },
+  {
+   "action": "Referred to Com. on HEALTH.",
+   "date": "2025-02-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HEALTH. Read second time and amended.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "Re-referred to Com. on HEALTH.",
+   "date": "2025-03-06"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (March 25). Re-referred to Com. on APPR.",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 10. Noes 3.) (April 9).",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate. (Ayes 58. Noes 9. Page 1174.).",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Referred to Com. on HEALTH.",
+   "date": "2025-05-07"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 1.) (June 11). Re-referred to Com. on APPR.",
+   "date": "2025-06-12"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-06-30"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-07-01"
+  },
+  {
+   "action": "Ordered to inactive file at the request of Senator Menjivar.",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "From inactive file.",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "(Ayes 30. Noes 8. Page 2233.)",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "Ordered to inactive file at the request of Senator Grayson.",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "From inactive file.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10 (c).",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Re-referred to Com. on E.Q.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 4. Noes 2.) (July 1).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-04"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-18"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 9.).",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES. pursuant to Assembly Rule 77.2.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Joint Rule 62(a), file notice suspended. (Page 6606.)",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee: That the Senate amendments be concurred in. (Ayes 10. Noes 4.) (August 27).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 50. Noes 17. Page 6784.).",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3:30 p.m.",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 864, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250AB4091CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.52 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, both of the following definitions apply:",
+    "(1) “Large-volume bulk coal facility” means a facility with a design capacity exceeding 5,000,000 short tons per year of coal handling, storage, or export. “Large-volume bulk coal facility” does not include a building, use, or infrastructure located at the same site, located within the same specific plan or redevelopment area, or covered by the same environmental impact report as a large-volume bulk coal facility, if that building, use, or infrastructure does not handle, store, transport, or export coal, even if the building, use, or infrastructure was considered to be part of an overall project previously evaluated in an environmental impact report that also addressed the large-volume bulk coal facility.",
+    "(2) “Type of coal” refers to the classification of coal as lignite, subbituminous, bituminous, or anthracite.",
+    "(b) Before issuing the initial discretionary approval for a large-volume bulk coal facility, a lead agency shall prepare or cause to be prepared an environmental impact report pursuant to this division.",
+    "(c) Issuance of any permit by an air pollution control district or air quality management district that authorizes construction, or increases potential emissions, of a large-volume bulk coal facility shall be considered a discretionary approval, as that term is used in subdivision (a) of Section 21080, and shall not be exempt from this division.",
+    "(d) Independent of the conditions for a subsequent environmental impact report set forth in Section 21166 and guidelines adopted pursuant to Section 21083, a lead agency, air pollution control district, or air quality management district shall not rely on an existing environmental impact report to issue a discretionary approval for or to a large-volume bulk coal facility, and a subsequent environmental impact report, or a new environmental impact report pursuant to subdivision (e), shall be required, if any of the following conditions are met:",
+    "(1) There is a change in the type of coal handled, stored, or exported, or the environmental impact report did not explicitly address the type of coal to be handled, stored, or exported.",
+    "(2) There is a significant increase in the quantity of coal handled, stored, or exported, or the environmental impact report did not explicitly disclose the quantity of coal to be handled, stored, or exported.",
+    "(3) There is an increase in the design capacity of a project that did not previously meet the definition of a large-volume bulk coal facility so that the total amount of coal handled, stored, or exported exceeds 5,000,000 short tons per year.",
+    "(e) (1) If a previously certified environmental impact report for a large-volume bulk coal facility did not specifically analyze the environmental impacts of coal handling, storage, and transportation, that environmental impact report does not retain informational value.",
+    "(2) A lead agency, air pollution control district, or air quality management district shall not rely on an environmental impact report described in paragraph (1) and shall treat a large-volume bulk coal facility analyzed in that environmental impact report as a new project, independent of the project that was analyzed in that environmental impact report.",
+    "(f) In addition to the other requirements of this division and guidelines adopted pursuant to Section 21083, an environmental impact report or subsequent environmental impact report prepared pursuant to this section shall not be certified, and the project shall not be approved, unless the environmental impact report or subsequent environmental impact report does both of the following:",
+    "(1) Identify the type or types of coal and potential volume of coal that may be handled, stored, or exported at a large-volume bulk coal facility, and evaluate the environmental impacts of, and mitigation for, the handling, storage, or export of the coal type or types and volume of coal.",
+    "(2) (A) Evaluate the large-volume bulk coal facility’s potential to generate fugitive dust emissions of fine particulate matter (PM2.5) and coarse particulate matter (PM10) during construction and operations and require mitigation measures sufficient to prevent a significant increase in ambient concentrations of PM2.5 and PM10 beyond the facility’s boundaries.",
+    "(B) Where the local air pollution control district or air quality management district has adopted a numeric individual project threshold for increases in ambient concentrations of PM2.5 or PM10, those thresholds shall be used to determine significance for purposes of this paragraph.",
+    "(g) Nothing in this section shall be construed to do any of the following:",
+    "(1) Require a new, subsequent, or supplemental environmental impact report for a building, use, or infrastructure that is not a large-volume bulk coal facility.",
+    "(2) Affect the validity of a previously certified environmental impact report or other determination made pursuant to this division for a building, use, or infrastructure that is not a large-volume bulk coal facility.",
+    "(3) Affect the ability of a lead agency, air pollution control district, or air quality management district to rely on or tier from, a previously certified environmental impact report or other determination made pursuant to this division for a building, use, or infrastructure that is not a large-volume bulk coal facility.",
+    "(h) This section shall apply retroactively to any discretionary approval for a large-volume bulk coal facility by a lead agency, air pollution control district, or air quality management district that is pending or made between June 4, 2026, and January 1, 2027.",
+    "(i) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+   ],
+   "sec": "21080.52",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: environmental impact reports: coal handling, storage, and export.",
+ "title": "An act to add Section 21080.52 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2024-12-02",
+   "id": "20250AB4099INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-05",
+   "id": "20250AB4098AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-08-21",
+   "id": "20250AB4097AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-15",
+   "id": "20250AB4096AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-02",
+   "id": "20250AB4095AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-17",
+   "id": "20250AB4094AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB4093AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-02",
+   "id": "20250AB4092ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250AB4091CHP",
+   "num": "91"
+  }
+ ]
+}

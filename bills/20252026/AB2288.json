@@ -1,0 +1,150 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Quirk-Silva",
+   "primary": true
+  }
+ ],
+ "bill": "AB2288",
+ "bill_id": "202520260AB2288",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Office to Housing Conversion Act, beginning July 1, 2026, deems an adaptive reuse project a use by right in all zones, regardless of the zoning of the site, and subject to a streamlined, ministerial review process, if the project meets specified requirements. Existing law defines an “adaptive reuse project” as the retrofitting and repurposing of an existing building to create new residential or mixed uses including office conversion projects and excludes from that definition, among other things, the retrofitting and repurposing of any building that is within an industrial zone that does not permit residential uses. Existing law prohibits an adaptive reuse project from being permitted in an industrial zone, as defined, that does not permit residential uses.",
+  "This bill would revise the above-described prohibition to specify an adaptive reuse project is not permitted on a site where the existing primary use is classified as a high-hazard (Group H) occupancy under Title 24 of the California Code of Regulations, as it read on January 1, 2025. The bill would also revise the definition of an “adaptive reuse project” to exclude the retrofitting and repurposing of any building whose primary existing use is a high-hazard (Group H) occupancy under Title 24 of the California Code of Regulations, as it read on January 1, 2025.",
+  "By expanding eligibility for streamlined, ministerial review of adaptive reuse projects, and therefore expanding the duties of the local government, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "d81416e1db36412a",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-03-09"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2026-02-19",
+  "id": "20250AB228899INT",
+  "num": "99"
+ },
+ "location": "CX10",
+ "sections": [
+  {
+   "action": "Section 65658.1 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this article:",
+    "(a) (1) “Adaptive reuse project” means the retrofitting and repurposing of an existing building to create new residential or mixed uses including office conversion projects.",
+    "(2) “Adaptive reuse project” shall not include any of the following:",
+    "(A) The retrofitting and repurposing of any building whose primary existing use is a high-hazard (Group H) occupancy under Title 24 of the California Code of Regulations (California Building Code) as it read on January 1, 2025.",
+    "(B) The retrofitting and repurposing of any hotels, or any mixed-use buildings that contain hotel use, except if they have been discontinued for a minimum of five years from the date on which this article becomes operative.",
+    "(b) “Adjacent portion of the project” means the portion of the project located on a site adjacent to and attached to the proposed repurposed existing building, including on the same parcel as the proposed repurposed existing building.",
+    "(c) “Broadly applicable housing affordability requirement” means a local ordinance or other regulation that requires a minimum percentage of affordable units and that applies to a variety of housing development types or entitlement pathways.",
+    "(d) “Impact fee” means any fee imposed pursuant to Chapter 5 (commencing with Section 66000).",
+    "(e) “Industrial use” means utilities, manufacturing, transportation storage and maintenance facilities, warehousing uses, and any other use that is a source that is subject to permitting by a district, as defined in Section 39025 of the Health and Safety Code, pursuant to Division 26 (commencing with Section 39000) of the Health and Safety Code or the federal Clean Air Act (42 U.S.C. Sec. 7401 et seq.). “Industrial use” does not include any of the following:",
+    "(1) Power substations or utility conveyances such as power lines, broadband wires, and pipes.",
+    "(2) A use where the only source permitted by a district is an emergency backup generator.",
+    "(3) Self-storage for the residents of a building.",
+    "(f) “Historical resource” means the same as defined in subdivision (j) of Section 5020.1 of the Public Resources Code, or a resource listed in the California Register of Historical Resources as described in Section 5024.1 of the Public Resources Code.",
+    "(g) “Local affordable housing requirement” means either of the following:",
+    "(1) A local government requirement that a housing development project include a certain percentage of units affordable to, and occupied by, extremely low, very low, lower, or moderate-income households as a condition of development of residential units.",
+    "(2) A local government requirement allowing a housing development project to be a use by right if the project includes a certain percentage of units affordable to, and occupied by, extremely low, very low, lower, or moderate-income households as a condition of development of residential units.",
+    "(h) “Local government” means a city, including a charter city, a county, including a charter county, or a city and county, including a charter city and county.",
+    "(i) “Mixed use” means residential uses combined with at least one other land use, but not including any industrial use.",
+    "(j) “Office conversion project” means the conversion of a building used for office purposes or a vacant office building into residential dwelling units.",
+    "(k) “Persons and families of low or moderate income” means the same as defined in Section 50093 of the Health and Safety Code.",
+    "(l) “Phase I environmental assessment” means the same as defined in Section 78090 of the Health and Safety Code.",
+    "(m) “Preliminary endangerment assessment” means the same as defined in Section 78095 of the Health and Safety Code.",
+    "(n) “Residential uses” includes, but is not limited to, housing units, dormitories, boarding houses, group housing, and other congregate residential uses. “Residential uses” does not include prisons or jails.",
+    "(o) “Urban uses” has the same meaning as defined in Section 65912.101.",
+    "(p) “Use by right” means that the city’s or county’s review of the adaptive reuse project may not require a conditional use permit, planned unit development permit, or other discretionary city or county review or approval that would constitute a “project” for purposes of Division 13 (commencing with Section 21000) of the Public Resources Code. Any subdivision of an adaptive reuse project shall be subject to all laws, including, but not limited to, a city or county ordinance implementing the Subdivision Map Act (Division 2 (commencing with Section 66410))."
+   ],
+   "sec": "65658.1",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65658.5 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) An adaptive reuse project that meets the requirements of subdivision (b) shall be deemed a use by right in all zones, regardless of the zoning of the site, and subject to the streamlined, ministerial review process described in Section 65658.8, except that both of the following conditions apply:",
+    "(A) Any nonresidential uses of a proposed mixed-use adaptive reuse project shall be consistent with the land uses allowed by the zoning or a continuation of an existing zoning nonconforming use.",
+    "(B) Any tourist hotel uses of a proposed adaptive reuse project shall be subject to the existing approval processes required by that local jurisdiction.",
+    "(2) Notwithstanding any other law, an adaptive reuse project shall not be permitted on a site where the existing primary use is classified as a high-hazard (Group H) occupancy under Title 24 of the California Code of Regulations (California Building Code) as it read on January 1, 2025.",
+    "(b) An adaptive reuse project shall comply with all of the following requirements:",
+    "(1) The adaptive reuse project and the site on which it is located shall satisfy both of the following:",
+    "(A) It is a legal parcel or parcels located in a city if, and only if, the city boundaries include some portion of an urbanized area, as designated by the United States Census Bureau, or, for unincorporated areas, a legal parcel or parcels wholly within the boundaries of an urbanized area, as designated by the United States Census Bureau.",
+    "(B) At least 75 percent of the perimeter of the site adjoins parcels that are developed with urban uses. For the purposes of this section, parcels that are separated by a street, highway, or any other right-of-way shall be considered to be adjoined.",
+    "(2) The adaptive reuse project is proposed for any of the following, as applicable:",
+    "(A) The project is proposed for an existing building or structure that is less than 50 years old.",
+    "(B) The project is proposed for an existing building or structure that is listed on a local, state, or federal register of historic resources and the adaptive reuse project proponent complies with Section 65658.7.",
+    "(C) The project is proposed for an existing building that is more than 50 years old and the local government has evaluated the site through a preliminary application or equivalent local process submitted pursuant to subdivision (a) of Section 65658.7 and either of the following is satisfied:",
+    "(i) The local government determines that the building or structure is a historic resource and the adaptive reuse project proponent complies with Section 65658.7.",
+    "(ii) The local government determines that the building or structure is not a historic resource.",
+    "(3) The adaptive reuse project meets the following affordability criteria, as applicable:",
+    "(A) (i) An adaptive reuse project for rental housing shall include either of the following:",
+    "(I) Eight percent of the units for very low income households and 5 percent of the units for extremely low income households.",
+    "(II) Fifteen percent of the units for lower income households.",
+    "(ii) The development proponent shall agree to, and the local government shall require, the continued affordability of all affordable rental units included pursuant to this subdivision through a recorded affordability restriction for a period of 55 years. Rents shall be set at an affordable rent, as defined in Section 50053 of the Health and Safety Code.",
+    "(B) (i) An adaptive reuse project for owner-occupied housing shall comply with either of the following:",
+    "(I) Thirty percent of the units shall be offered at an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code, to moderate-income households.",
+    "(II) Fifteen percent of the units shall be offered at an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code, to lower income households.",
+    "(ii) The development proponent shall agree to, and the local government shall require, the continued affordability of all affordable ownership units through a recorded affordability restriction for a period of 45 years.",
+    "(C) If the local government has a local affordable housing requirement, the housing development project shall comply with all of the following:",
+    "(i) The development project shall include the percentage of affordable units required by this section or the local requirement, whichever is higher.",
+    "(ii) The development project shall meet the lowest income targeting required by either this section or the local requirement.",
+    "(iii) If the local affordable housing requirement requires greater than 15 percent of the units to be dedicated for lower income households and does not require the inclusion of units affordable to very low and extremely low income households, then the rental housing development shall do both of the following:",
+    "(I) Include 8 percent of the units for very low income households and 5 percent of the units for extremely low income households.",
+    "(II) Fifteen percent of units affordable to lower income households shall be subtracted from the percentage of units required by the local policy at the highest required affordability level.",
+    "(D) Affordable units in the development project shall have the same bedroom and bathroom count ratio as the market rate units, be equitably distributed within the project, and have the same type or quality of appliances, fixtures, and finishes.",
+    "(4) If the adaptive reuse project includes mixed uses, at least one-half of the square footage of the adaptive reuse project shall be dedicated to residential uses. For purposes of this subparagraph, square footage of the project does not include underground space, including basements or underground parking garages.",
+    "(5) (A) The local government shall, as a condition of approval of the development, require the development proponent to complete a Phase I environmental assessment.",
+    "(B) If a recognized environmental condition is found, the development proponent shall undertake a preliminary endangerment assessment, as defined in Section 78095 of the Health and Safety Code, prepared by an environmental assessor to determine the existence of any release of a hazardous substance on the site and to determine the potential for exposure of future occupants to significant health hazards from any nearby property or activity.",
+    "(i) (I) If a release of a hazardous substance is found to exist on the site, before the local government issues a certificate of occupancy, the release shall be removed, or any significant effects of the release shall be mitigated to a level of insignificance in compliance with current state and federal requirements.",
+    "(II) If a potential for exposure to significant hazards from surrounding properties or activities is found to exist, before the local government issues a certificate of occupancy, the effects of the potential exposure shall be mitigated to a level of insignificance in compliance with current state and federal requirements.",
+    "(ii) If the city or county, or city and county, does not issue certificates of occupancy, the final inspection of the adaptive reuse project shall serve as the certificate of occupancy for purposes of clause (i).",
+    "(6) (A) The adaptive reuse project complies with all objective planning standards found in an ordinance adopted pursuant to Section 65658.3.",
+    "(B) A local government shall not impose any local development standard on any project that is an adaptive reuse project pursuant to this article that would require alteration of the existing building envelope, except if required by any applicable local building code, regardless of whether the local government has adopted an ordinance pursuant to Section 65658.3.",
+    "(7) The acreage of the project site is 20 acres or less.",
+    "(c) An adaptive reuse project that meets all the requirements of subdivision (b) may include rooftop structures that exceed any applicable height limitation imposed by the local government, provided that the rooftop structure does not exceed one story and is used for shared amenities or equipment, including, but not limited to, shared cooking facilities, exercise facilities, common area lounges, or mechanical and stair penthouse facilities.",
+    "(d) (1) Parking shall not be required for the portion of a project consisting of a building subject to adaptive reuse that does not have existing onsite parking.",
+    "(2) This article shall not reduce, eliminate, or preclude the enforcement of any requirement imposed on a new multifamily residential or nonresidential development to provide bicycle parking, if feasible.",
+    "(3) This article shall not reduce, eliminate, or preclude the enforcement of any requirement imposed on a project that includes existing onsite parking to provide electric vehicle supply equipment, installed parking spaces, or parking spaces that are accessible to persons with disabilities that would have otherwise applied to the development if this section did not apply.",
+    "(e) An adaptive reuse project shall not violate the terms of any conservation easement applicable to the site.",
+    "(f) (1) A housing development proposed pursuant to this article shall be eligible for a density bonus, incentives or concessions, waivers or reductions of development standards, and parking ratios pursuant to Section 65915.",
+    "(2) For the purpose of calculating a density bonus for a project proposed pursuant to this article, the base density of an adaptive reuse project shall be the density proposed by the developer, including the portion of a project consisting of a building with a proposed change in use and any adjacent portion of the project, notwithstanding any general plan density limit as described in paragraph (6) of subdivision (o) of Section 65915.",
+    "(3) The affordability criteria described in paragraph (3) of subdivision (b) shall apply to the base density of the project, and shall not apply to any bonus units proposed pursuant to Section 65915.",
+    "(g) A housing development proposed to adaptively reuse a building shall not be eligible for a density bonus waiver or incentive that has the effect of increasing the height of the adaptively reused building above what is allowed under subdivision (c)."
+   ],
+   "sec": "65658.5",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Adaptive reuse: industrial zones.",
+ "title": "An act to amend Sections 65658.1 and 65658.5 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250AB228899INT",
+   "num": "99"
+  }
+ ]
+}

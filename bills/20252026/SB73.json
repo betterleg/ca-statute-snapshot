@@ -1,0 +1,422 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Cervantes",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Umberg",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Pellerin",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Addis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bennett",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Elhawary",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Jackson",
+   "primary": false
+  }
+ ],
+ "bill": "SB73",
+ "bill_id": "202520260SB73",
+ "chapter": {
+  "num": "10",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA exempts from its requirements certain residential, employment center, and mixed-use development projects meeting specified criteria, including that the project is located in a transit priority area and that the project is undertaken and is consistent with a specific plan for which an environmental impact report has been certified.",
+  "This bill would additionally exempt those projects located in a very low vehicle travel area, as defined. The bill would require that the project is undertaken and is consistent with either a specific plan prepared pursuant to specific provisions of law or a community plan, as defined, for which an EIR has been certified within the preceding 15 years in order to be exempt. The bill would additionally require the project site to have been previously developed or to be a vacant site meeting certain requirements. Because a lead agency would be required to determine the applicability of this exemption, this bill would impose a state-mandated local program.",
+  "(2) CEQA exempts from its requirements agricultural employee housing projects, affordable housing projects, and housing projects on infill sites that meet certain requirements, including, among others, the site is not located within the boundaries of a state conservancy. CEQA prohibits those exempt projects from being located in certain areas.",
+  "This bill would allow the location of agricultural employee housing projects, affordable housing projects, and housing projects on infill sites to be located within the boundaries of a state conservancy in order to be exempt. The bill would revise and recast the areas in which those exempt projects cannot be located, as provided.",
+  "(3) CEQA exempts from its requirements residential projects on infill sites that meet certain requirements, including, among others, that the location of the residential project on an infill site is no more than 4 acres and that the project is located within 12 mile of a major transit stop.",
+  "This bill instead would require that the location of a residential project on an infill site be no more than 5 acres. The bill would additionally exempt those residential projects located in a very low vehicle travel area, as defined.",
+  "(4) CEQA exempts from its requirements a transit priority project meeting certain requirements and that is declared by a legislative body to be a sustainable communities project. CEQA prohibits a transit priority project declared to be a sustainable communities project from being located in certain areas and requires the project to be within 12 mile of a rail transit station or a ferry terminal included in a regional transportation plan or within 14 mile of a high-quality transit corridor included in a regional transportation plan.",
+  "This bill would revise and recast the areas in which the transit priority project declared to be a sustainable communities project cannot be located, as provided. The bill would additionally authorize the transit priority project declared to be a sustainable community project if the project is located within a very low vehicle travel area, as defined. The bill would additionally require the site for the transit priority project to have been previously developed or to be a vacant lot meeting certain requirements.",
+  "(5) This bill would require a lead agency approving a project that is exempt from CEQA under the provisions described in paragraphs (1), (3), and (4) above to file with the Office of Land Use and Climate Innovation a notice of exemption. By imposing additional duties on the lead agency, this bill would impose a state-mandated local program.",
+  "(6) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "ae7af6ea505420c2",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-01-15"
+  },
+  {
+   "action": "From printer. May be acted upon on or after February 15.",
+   "date": "2025-01-16"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and HOUSING.",
+   "date": "2025-01-29"
+  },
+  {
+   "action": "Set for hearing March 5.",
+   "date": "2025-02-25"
+  },
+  {
+   "action": "March 5 set for first hearing canceled at the request of author.",
+   "date": "2025-02-26"
+  },
+  {
+   "action": "Set for hearing March 19.",
+   "date": "2025-03-07"
+  },
+  {
+   "action": "March 19 set for second hearing canceled at the request of author.",
+   "date": "2025-03-13"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.Q.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on E. & C.A.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Set for hearing January 13.",
+   "date": "2026-01-07"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 4. Noes 1. Page 3212.) (January 13). Re-referred to Com. on APPR.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Set for hearing January 20.",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "January 20 hearing: Placed on APPR. suspense file.",
+   "date": "2026-01-20"
+  },
+  {
+   "action": "Set for hearing January 22.",
+   "date": "2026-01-21"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 5. Noes 2. Page 3268.) (January 22).",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 30. Noes 10. Page 3296.) Ordered to the Assembly.",
+   "date": "2026-01-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-01-27"
+  },
+  {
+   "action": "Referred to Coms. on ELECTIONS and PUB. S.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on ELECTIONS.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Ayes 45. Noes 15. Page 4873.)",
+   "date": "2026-04-30"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on PUB. S. (Ayes 6. Noes 1.) (May 6). Re-referred to Com. on PUB. S.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 1.) (May 6).",
+   "date": "2026-05-07"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Ayes 52. Noes 16. Page 4947.)",
+   "date": "2026-05-07"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 11. Noes 3.) (May 13).",
+   "date": "2026-05-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 57. Noes 19. Page 5251.) Ordered to the Senate.",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 29. Noes 8. Page 4439.) Ordered to engrossing and enrolling.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3:30 p.m.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 10, Statutes of 2026.",
+   "date": "2026-05-27"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-05-27",
+  "id": "20250SB7393CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21060.2.5 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "“Community plan” means a part of the general plan of a city or county that applies to a defined geographic portion of the total area included in the general plan, includes or references each of the mandatory elements specified in Section 65302 of the Government Code, and contains specific development policies and implementation measures that will apply those development policies to each parcel in the defined geographic portion."
+   ],
+   "sec": "21060.2.5",
+   "verb": "added"
+  },
+  {
+   "action": "Section 21075 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) “Very low vehicle travel area” means an area as determined by the Office of Land Use and Climate Innovation.",
+    "(b) For purposes of this section, “area” can mean a travel analysis zone, hexagon, or grid, as determined by the applicable metropolitan planning organization or the Office of Land Use and Climate Innovation.",
+    "(c) The Office of Land Use and Climate Innovation shall maintain statewide maps depicting very low vehicle travel areas."
+   ],
+   "sec": "21075",
+   "verb": "added"
+  },
+  {
+   "action": "Section 21155.1 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) If the legislative body finds, after conducting a public hearing, that a transit priority project meets all of the requirements of paragraphs (1) and (2) and one of the requirements of paragraph (3), the transit priority project is declared to be a sustainable communities project and shall be exempt from this division.",
+    "(1) The transit priority project complies with all of the following environmental criteria:",
+    "(A) The transit priority project and other projects approved before the approval of the transit priority project but not yet built can be adequately served by existing utilities, and the transit priority project applicant has paid, or has committed to pay, all applicable in-lieu or development fees.",
+    "(B) The site of the transit priority project is not included on any list of facilities and sites compiled pursuant to Section 65962.5 of the Government Code.",
+    "(C) (i) The site of the transit priority project is subject to a preliminary endangerment assessment prepared by an environmental assessor to determine the existence of any release of a hazardous substance on the site and to determine the potential for exposure of future occupants to significant health hazards from any nearby property or activity.",
+    "(ii) If a release of a hazardous substance is found to exist on the site, the release shall be removed or any significant effects of the release shall be mitigated to a level of insignificance in compliance with state and federal requirements.",
+    "(iii) If a potential for exposure to significant hazards from surrounding properties or activities is found to exist, the effects of the potential exposure shall be mitigated to a level of insignificance in compliance with state and federal requirements.",
+    "(D) The transit priority project does not have a significant effect on historical resources pursuant to Section 21084.1.",
+    "(E) The transit priority project is not located on a site that is any of the following:",
+    "(i) Either prime farmland or farmland of statewide importance, as defined pursuant to United States Department of Agriculture land inventory and monitoring criteria, as modified for California, and designated on the maps prepared by the Farmland Mapping and Monitoring Program of the Department of Conservation, or land zoned or designated for agricultural protection or preservation by a local ballot measure that was approved by the voters of that jurisdiction.",
+    "(ii) Wetlands, as defined in the United States Fish and Wildlife Service Manual, Part 660 FW 2 (June 21, 1993).",
+    "(iii) Within a very high fire hazard severity zone, as determined by the Department of Forestry and Fire Protection pursuant to Section 51178 of the Government Code, or within a high or very high fire hazard severity zone as indicated on maps adopted by the Department of Forestry and Fire Protection pursuant to Section 4202 of this code. This clause does not apply to sites excluded from the specified hazard severity zones by a local agency, pursuant to subdivision (b) of Section 51179 of the Government Code, or sites that have adopted fire hazard mitigation measures pursuant to existing building standards or state fire mitigation measures applicable to the development.",
+    "(iv) Within a delineated earthquake fault zone as determined by the State Geologist in any official maps published by the State Geologist, unless the project complies with applicable seismic protection building code standards adopted by the California Building Standards Commission under the California Building Standards Law (Part 2.5 (commencing with Section 18901) of Division 13 of the Health and Safety Code), and by any local building department under Chapter 12.2 (commencing with Section 8875) of Division 1 of Title 2 of the Government Code.",
+    "(v) Within a special flood hazard area subject to inundation by the 1 percent annual chance flood (100-year flood) as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency. A project may be located on a site described in this clause if either of the following are met:",
+    "(I) The site has been subject to a Letter of Map Revision prepared by the Federal Emergency Management Agency and issued to the local jurisdiction.",
+    "(II) The site meets Federal Emergency Management Agency requirements necessary to meet minimum flood plain management criteria of the National Flood Insurance Program pursuant to Part 59 (commencing with Section 59.1) and Part 60 (commencing with Section 60.1) of Subchapter B of Chapter I of Title 44 of the Code of Federal Regulations.",
+    "(vi) Within a regulatory floodway as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency, unless the project has received a no-rise certification in accordance with Section 60.3(d)(3) of Title 44 of the Code of Federal Regulations.",
+    "(vii) Lands identified for conservation in an adopted natural community conservation plan pursuant to the Natural Community Conservation Planning Act (Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code), habitat conservation plan pursuant to the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), or other adopted natural resource protection plan.",
+    "(viii) Habitat for protected species identified as candidate, sensitive, or species of special status by state or federal agencies, fully protected species, or species protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code).",
+    "(ix) Lands under conservation easement.",
+    "(F) The buildings in the transit priority project are 15 percent more energy efficient than required by Chapter 6 of Title 24 of the California Code of Regulations and the buildings and landscaping are designed to achieve 25 percent less water usage than the average household use in the region.",
+    "(2) The transit priority project meets all of the following land use criteria:",
+    "(A) The site of the transit priority project is not more than eight acres in total area.",
+    "(B) The transit priority project does not contain more than 200 residential units.",
+    "(C) The transit priority project does not result in any net loss in the number of affordable housing units within the project area.",
+    "(D) The transit priority project does not include any single level building that exceeds 75,000 square feet.",
+    "(E) Any applicable mitigation measures or performance standards or criteria set forth in the prior environmental impact reports, and adopted in findings, have been or will be incorporated into the transit priority project.",
+    "(F) The transit priority project is determined not to conflict with nearby operating industrial uses.",
+    "(G) The transit priority project is located within one-half mile of a rail transit station or a ferry terminal included in a regional transportation plan, within one-quarter mile of a high-quality transit corridor included in a regional transportation plan, or within a very low vehicle travel area.",
+    "(H) The transit priority project site is a lot that has been previously developed, or a vacant site where at least 75 percent of the perimeter of the site adjoins, or is separated only by an approved public right-of-way from, parcels that are developed with qualified urban uses.",
+    "(3) The transit priority project meets at least one of the following three criteria:",
+    "(A) The transit priority project meets both of the following:",
+    "(i) At least 20 percent of the housing will be sold to families of moderate income, or not less than 10 percent of the housing will be rented to families of low income, or not less than 5 percent of the housing is rented to families of very low income.",
+    "(ii) The transit priority project developer provides sufficient legal commitments to the appropriate local agency to ensure the continued availability and use of the housing units for very low, low-, and moderate-income households at monthly housing costs with an affordable housing cost or affordable rent, as defined in Section 50052.5 or 50053 of the Health and Safety Code, respectively, for the period required by the applicable financing. Rental units shall be affordable for at least 55 years. Ownership units shall be subject to resale restrictions or equity sharing requirements for at least 30 years.",
+    "(B) The transit priority project developer has paid or will pay in-lieu fees pursuant to a local ordinance in an amount sufficient to result in the development of an equivalent number of units that would otherwise be required pursuant to subparagraph (A).",
+    "(C) The transit priority project provides public open space equal to or greater than five acres per 1,000 residents of the project.",
+    "(b) A lead agency approving a transit priority project that is exempt from this division under this section shall file a notice of exemption with the Office of Land Use and Climate Innovation in the manner specified in subdivision (b) of Section 21152."
+   ],
+   "sec": "21155.1",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21155.4 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Except as provided in subdivision (b), a residential project; employment center project, as defined in subdivision (a) of Section 21099; or mixed-use development project, including any subdivision, or any zoning, change that meets all of the following criteria is exempt from the requirements of this division:",
+    "(1) The project is proposed within a transit priority area, as defined in subdivision (a) of Section 21099, or within a very low vehicle travel area.",
+    "(2) The project is undertaken to implement, and is consistent with, either a specific plan adopted pursuant to Article 8 (commencing with Section 65450) of Chapter 3 of Division 1 of Title 7 of the Government Code for which an environmental impact report has been certified or a community plan for which an environmental impact report has been certified within the preceding 15 years.",
+    "(3) The project is consistent with the general use designation, density, building intensity, and applicable policies specified for the project area in either a sustainable communities strategy or an alternative planning strategy for which the State Air Resources Board, pursuant to subparagraph (H) of paragraph (2) of subdivision (b) of Section 65080 of the Government Code, has accepted a metropolitan planning organization’s determination that the sustainable communities strategy or the alternative planning strategy would, if implemented, achieve the greenhouse gas emissions reduction targets.",
+    "(4) The project site is a lot that has been previously developed, or a vacant site where at least 75 percent of the perimeter of the site adjoins, or is separated only by an approved public right-of-way from, parcels that are developed with qualified urban uses.",
+    "(b) Further environmental review shall be conducted only if any of the events specified in Section 21166 have occurred.",
+    "(c) A lead agency approving a project that is exempt from this division under this section shall file a notice of exemption with the Office of Land Use and Climate Innovation in the manner specified in subdivision (b) of Section 21152."
+   ],
+   "sec": "21155.4",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21159.21 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "A housing project qualifies for an exemption from this division pursuant to Section 21159.22, 21159.23, or 21159.24 if it meets the criteria in the applicable section and all of the following criteria:",
+    "(a) The project is consistent with an applicable general plan, specific plan, and local coastal program, including any mitigation measures required by a plan or program, as that plan or program existed on the date that the application was deemed complete and with an applicable zoning ordinance, as that zoning ordinance existed on the date that the application was deemed complete, except that a project shall not be deemed to be inconsistent with the zoning designation for the site if that zoning designation is inconsistent with the general plan only because the project site has not been rezoned to conform with a more recently adopted general plan.",
+    "(b) Community-level environmental review has been adopted or certified.",
+    "(c) The project and other projects approved before the approval of the project can be adequately served by existing utilities, and the project applicant has paid, or has committed to pay, all applicable in-lieu or development fees.",
+    "(d) The site of the project is not included on a list of facilities and sites compiled pursuant to Section 65962.5 of the Government Code.",
+    "(e) (1) The site of the project is subject to a preliminary endangerment assessment prepared by an environmental assessor to determine the existence of any release of a hazardous substance on the site and to determine the potential for exposure of future occupants to significant health hazards from any nearby property or activity.",
+    "(2) If a release of a hazardous substance is found to exist on the site, the release shall be removed, or any significant effects of the release shall be mitigated to a level of insignificance in compliance with state and federal requirements.",
+    "(3) If a potential for exposure to significant hazards from surrounding properties or activities is found to exist, the effects of the potential exposure shall be mitigated to a level of insignificance in compliance with state and federal requirements.",
+    "(f) The project does not have a significant effect on historical resources pursuant to Section 21084.1.",
+    "(g) The project is not located on a site that is any of the following:",
+    "(1) Either prime farmland or farmland of statewide importance, as defined pursuant to United States Department of Agriculture land inventory and monitoring criteria, as modified for California, and designated on the maps prepared by the Farmland Mapping and Monitoring Program of the Department of Conservation, or land zoned or designated for agricultural protection or preservation by a local ballot measure that was approved by the voters of that jurisdiction.",
+    "(2) Wetlands, as defined in the United States Fish and Wildlife Service Manual, Part 660 FW 2 (June 21, 1993).",
+    "(3) Within a very high fire hazard severity zone, as determined by the Department of Forestry and Fire Protection pursuant to Section 51178 of the Government Code, or within a high or very high fire hazard severity zone as indicated on maps adopted by the Department of Forestry and Fire Protection pursuant to Section 4202 of this code. This paragraph does not apply to sites excluded from the specified hazard severity zones by a local agency, pursuant to subdivision (b) of Section 51179 of the Government Code, or sites that have adopted fire hazard mitigation measures pursuant to existing building standards or state fire mitigation measures applicable to the development.",
+    "(4) Within a delineated earthquake fault zone as determined by the State Geologist in any official maps published by the State Geologist, unless the project complies with applicable seismic protection building code standards adopted by the California Building Standards Commission under the California Building Standards Law (Part 2.5 (commencing with Section 18901) of Division 13 of the Health and Safety Code), and by any local building department under Chapter 12.2 (commencing with Section 8875) of Division 1 of Title 2 of the Government Code.",
+    "(5) Within a special flood hazard area subject to inundation by the 1 percent annual chance flood (100-year flood) as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency. A project may be located on a site described in this clause if either of the following are met:",
+    "(A) The site has been subject to a Letter of Map Revision prepared by the Federal Emergency Management Agency and issued to the local jurisdiction.",
+    "(B) The site meets Federal Emergency Management Agency requirements necessary to meet minimum flood plain management criteria of the National Flood Insurance Program pursuant to Part 59 (commencing with Section 59.1) and Part 60 (commencing with Section 60.1) of Subchapter B of Chapter I of Title 44 of the Code of Federal Regulations.",
+    "(6) Within a regulatory floodway as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency, unless the project has received a no-rise certification in accordance with Section 60.3(d)(3) of Title 44 of the Code of Federal Regulations.",
+    "(7) Lands identified for conservation in an adopted natural community conservation plan pursuant to the Natural Community Conservation Planning Act (Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code), habitat conservation plan pursuant to the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), or other adopted natural resource protection plan.",
+    "(8) Habitat for protected species identified as candidate, sensitive, or species of special status by state or federal agencies, fully protected species, or species protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code).",
+    "(9) Lands under conservation easement."
+   ],
+   "sec": "21159.21",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21159.24 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Except as provided in subdivision (b), this division does not apply to a project if all of the following criteria are met:",
+    "(1) The project is a residential project on an infill site.",
+    "(2) The project is located within an urbanized area.",
+    "(3) The project satisfies the criteria of Section 21159.21.",
+    "(4) Within five years of the date that the application for the project is deemed complete pursuant to Section 65943 of the Government Code, community-level environmental review was certified or adopted.",
+    "(5) The site of the project is not more than five acres in total area.",
+    "(6) The project does not contain more than 100 residential units.",
+    "(7) Either of the following criteria are met:",
+    "(A) (i) At least 10 percent of the housing is sold to families of moderate income, or not less than 10 percent of the housing is rented to families of low income, or not less than 5 percent of the housing is rented to families of very low income.",
+    "(ii) The project developer provides sufficient legal commitments to the appropriate local agency to ensure the continued availability and use of the housing units for very low income, low-income, and moderate-income households at monthly housing costs determined pursuant to paragraph (3) of subdivision (h) of Section 65589.5 of the Government Code.",
+    "(B) The project developer has paid or will pay in-lieu fees pursuant to a local ordinance in an amount sufficient to result in the development of an equivalent number of units that would otherwise be required pursuant to subparagraph (A).",
+    "(8) The project is within one-half mile of a major transit stop or within a very low vehicle travel area.",
+    "(9) The project does not include any single level building that exceeds 100,000 square feet.",
+    "(10) The project promotes higher density infill housing. A project with a density of at least 20 units per acre shall be conclusively presumed to promote higher density infill housing. A project with a density of at least 10 units per acre and a density greater than the average density of the residential properties within 1,500 feet shall be presumed to promote higher density housing unless the preponderance of the evidence demonstrates otherwise.",
+    "(b) Notwithstanding subdivision (a), this division shall apply to a development project that meets the criteria described in subdivision (a), if any of the following occur:",
+    "(1) There is a reasonable possibility that the project will have a project-specific, significant effect on the environment due to unusual circumstances.",
+    "(2) Substantial changes with respect to the circumstances under which the project is being undertaken that are related to the project have occurred since the community-level environmental review was certified or adopted.",
+    "(3) New information becomes available regarding the circumstances under which the project is being undertaken and that is related to the project, which was not known, and could not have been known, at the time that the community-level environmental review was certified or adopted.",
+    "(c) If a project satisfies the criteria described in subdivision (a), but is not exempt from this division as a result of satisfying the criteria described in subdivision (b), the analysis of the environmental effects of the project in the environmental impact report or the negative declaration shall be limited to an analysis of the project-specific effect of the projects and any effects identified pursuant to paragraph (2) or (3) of subdivision (b).",
+    "(d) A lead agency approving a project that is exempt from this division under this section shall file a notice of exemption with the Office of Land Use and Climate Innovation the manner specified in subdivision (b) of Section 21152.",
+    "(e) For purposes of this section, “residential” means a use consisting of either of the following:",
+    "(1) Residential units only.",
+    "(2) Residential units and primarily neighborhood-serving goods, services, or retail uses that do not exceed 25 percent of the total building square footage of the project."
+   ],
+   "sec": "21159.24",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Elections.",
+ "title": "An act to amend Sections 21155.1, 21155.4, 21159.21, and 21159.24 of, and to add Sections 21060.2.5 and 21075 to, the Public Resources Code, relating to environmental quality.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-15",
+   "id": "20250SB7399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-01-05",
+   "id": "20250SB7398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-27",
+   "id": "20250SB7397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-11",
+   "id": "20250SB7396AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-18",
+   "id": "20250SB7395AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-05-26",
+   "id": "20250SB7394ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-05-27",
+   "id": "20250SB7393CHP",
+   "num": "93"
+  }
+ ]
+}

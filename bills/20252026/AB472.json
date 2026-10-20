@@ -1,0 +1,145 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rogers",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Calderon",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": false
+  }
+ ],
+ "bill": "AB472",
+ "bill_id": "202520260AB472",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law requires the State Energy Resources Conservation and Development Commission (Energy Commission), in coordination with specified agencies, to develop a strategic plan for offshore wind energy developments installed off the California coast in federal waters, and requires the Energy Commission to submit the strategic plan to the Natural Resources Agency and the Legislature on or before June 30, 2023, as specified. Existing law requires the Energy Commission, in coordination with relevant state and local agencies, to develop a plan to improve waterfront facilities that could support a range of floating offshore wind energy development activities, as specified.",
+  "Existing law, the California Infrastructure Planning Act, requires the Governor to annually submit a 5-year infrastructure plan to the Legislature in conjunction with the Governor’s Budget. Under existing law, “infrastructure” means real property, including land and improvements to the land, structures and equipment integral to the operation of structures, easements, rights-of-way, and other forms of interest in property, roadways, and water conveyances.",
+  "This bill would amend the definition of “infrastructure” described above to include port infrastructure for offshore wind energy development, and would require the 5-year infrastructure plan to include, beginning in the 2027–28 fiscal year, and contingent upon an appropriation for this purpose, an assessment of funding needs for port infrastructure for offshore wind energy development, as specified. The bill would require the Governor, in consultation with specified entities, to assess federal, state, and local funding opportunities, including general obligation bonds and funding from the private sector, that can help build port infrastructure for offshore wind energy development."
+ ],
+ "hash": "e184f7ae47c80109",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-06"
+  },
+  {
+   "action": "From printer. May be heard in committee March 9.",
+   "date": "2025-02-07"
+  },
+  {
+   "action": "Referred to Coms. on U. & E. and NAT. RES.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on NAT. RES. with recommendation: To Consent Calendar. (Ayes 18. Noes 0.) (April 2).",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-04-07"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 14. Noes 0.) (April 21).",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to suspense file.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-04-23",
+  "id": "20250AB47297AMD",
+  "num": "97"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Section 65042 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "Every officer, agency, department, or instrumentality of state government, including, but not limited to, all trustee agencies as defined in Section 21070 of the Public Resources Code, shall do all of the following:",
+    "(a) Cooperate in the preparation and maintenance of the State Environmental Goals and Policy Report.",
+    "(b) By January 1, 2005, ensure that their entity’s functional plan is consistent with the state planning priorities specified pursuant to Section 65041.1 and annually demonstrate to the office, and to the Department of Finance when requesting infrastructure pursuant to paragraph (1) of subdivision (b) of Section 13102, how the plans are consistent with those priorities.",
+    "(c) Comply with any request for advice, assistance, information, or other material."
+   ],
+   "sec": "65042",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Energy: integrated energy policy report: port infrastructure for offshore wind energy development.",
+ "title": "An act to amend Sections 13101, 13102, 13103, and 65042 of the Government Code, relating to energy.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-06",
+   "id": "20250AB47299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-07",
+   "id": "20250AB47298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-23",
+   "id": "20250AB47297AMD",
+   "num": "97"
+  }
+ ]
+}

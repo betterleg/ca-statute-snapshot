@@ -1,0 +1,367 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Mark González",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Stefani",
+   "primary": false
+  }
+ ],
+ "bill": "AB507",
+ "bill_id": "202520260AB507",
+ "chapter": {
+  "num": "493",
+  "year": "2025"
+ },
+ "digest": [
+  "(1) Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for its physical development, and the development of certain lands outside its boundaries, that includes, among other mandatory elements, a housing element. That law allows a development proponent to submit an application for a development that is subject to a specified streamlined, ministerial approval process not subject to a conditional use permit, if the development satisfies certain objective planning standards, including that the development is a multifamily housing development that contains two or more residential units.",
+  "This bill would deem an adaptive reuse project a use by right in all zones, regardless of the zoning of the site, and subject to a streamlined, ministerial review process if the project meets specified requirements, subject to specified exceptions. In this regard, an adaptive reuse project, in order to qualify for the streamlined, ministerial review process, would be required to be proposed for an existing building or structure that is less than 50 years old or meets certain requirements regarding the preservation of historic resources, including the signing of an affidavit declaring that the project will comply with the United States Secretary of the Interior’s Standards for Rehabilitation for, among other things, the preservation of exterior facades of a building or structure that face a street, or receive federal or state historic rehabilitation tax credits, as specified. The bill would require an adaptive reuse project to meet specified affordability criteria. In this regard, the bill would require an adaptive reuse project for rental housing to include either 8% of the unit for very low income households and 5% of the units for extremely low income households or 15% of the units for lower income households. For an adaptive reuse project for owner-occupied housing, the bill would require the development to offer either 30% of the units at an affordable housing cost to moderate-income households or 15% of the units at an affordable housing cost to lower income households. For an adaptive reuse project including mixed uses, the bill would require at least one-half of the square footage of the adaptive reuse project to be dedicated to residential uses.",
+  "The bill would prohibit an adaptive reuse project from being permitted in industrial zones that do not permit residential uses. The bill would provide, among other things relating to projects involving adaptive reuse, that parking is not required for the portion of a project consisting of a building subject to adaptive reuse that does not have existing onsite parking. The bill would authorize an adaptive reuse project subject to these provisions to include the development of new residential or mixed-use structures on undeveloped areas and parking areas located on the same parcel as the proposed repurposed building, or on the parcels adjacent to the proposed adaptive reuse project site if certain conditions are met. The bill would subject an adaptive reuse project approved by a local government pursuant to these provisions to specified labor standards, including certain labor prevailing wage, apprenticeship, skilled and training workforce, and health care expenditure requirements, and would require development proponents to certify compliance with certain labor standards under penalty of perjury. By requiring certain development proponents of an adaptive reuse project to sign an affidavit regarding the preservation of historic resources and requiring development proponents to certify compliance with certain labor standards under penalty of perjury, the bill would expand the crime of perjury and therefore impose a state-mandated local program.",
+  "The bill would authorize a local government to adopt an ordinance, as specified, to, among other things, specify the process and requirements applicable to adaptive reuse projects, as specified, and would require an adaptive reuse project to comply with all objective planning standards found in the ordinance. The bill would specify that nothing in its provisions relating to adaptive reuse projects is intended to preempt the adoption and implementation of a local ordinance that provides alternative procedures and substantive requirements for adaptive reuse projects, provided that the local ordinance does not prohibit an applicant from electing to pursue an adaptive reuse project, as specified.",
+  "The bill would require a local agency that has not adopted an above-described ordinance to ministerially without discretionary review approve or disapprove applications for a permit to create or serve an adaptive reuse project, as specified. The bill would, if a local government’s planning director or equivalent position determines that the adaptive reuse project submitted pursuant to these provisions is consistent with the objective planning standards, require the local government to approve the adaptive reuse project within specified timeframes. The bill would require the local government staff or relevant local planning and permitting department, upon determining that the adaptive reuse project is in conflict with any of the objective planning standards, to provide the proponent written documentation of, among other things, which standard or standards the development conflicts with within specific timeframes. The bill would prohibit a local government from imposing any local development standard on any project that is an adaptive reuse that would require alteration of the existing building envelope, except as specified, whether or not the local government has adopted an ordinance. By requiring local governments to implement the streamlined, ministerial review process for adaptive reuse projects, the bill would impose a state-mandated local program.",
+  "This bill would, except as specified, exempt an adaptive reuse project from all impact fees that are not reasonably related to the impacts resulting from the change of use of the site from nonresidential to residential or mixed use and would require any fees charged to be roughly proportional to the difference in impacts caused by the change of use.",
+  "This bill would authorize a city or county, or city and county, commencing in the 2026–27 fiscal year, to establish an adaptive reuse investment incentive program to pay adaptive reuse investment incentive funds to the proponent of an adaptive reuse project approved pursuant to the streamlined, ministerial process described above for up to 30 consecutive fiscal years, as specified. The bill would define “adaptive reuse investment incentive funds” to mean an amount up to or equal to the amount of ad valorem property tax revenue allocated to the participating local agency from the taxation of that portion of the total assessed value of the real and personal property of an adaptive reuse project property that is in excess of the qualified adaptive reuse project property’s valuation at the time of the proponent’s initial request for funding.",
+  "The bill would define various other terms for these purposes, and would make findings and declarations related to its provisions. The bill would make its provisions operative on July 1, 2026.",
+  "(2) Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment. CEQA does not apply to the approval of ministerial projects.",
+  "This bill, by establishing the streamlined, ministerial review process described above, would exempt the approval of adaptive reuse projects subject to those processes from CEQA. The bill would also exempt specified findings regarding industrial uses and ordinances adopted to implement specified provisions from CEQA.",
+  "(3) Existing law requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other mandatory elements, a housing element. Existing law requires the Department of Housing and Community Development to notify a city, county, or city and county, and authorizes the department to notify the Attorney General, that a city, county, or city and county is in violation of state law if the department finds that the housing element or an amendment to that element, or any specified action or failure to act, does not substantially comply with the law as it pertains to housing elements or that any local government has taken an action in violation of certain housing laws.",
+  "This bill would make corrections to a housing law cross-reference relating to the adaptive reuse project process established by the bill, thereby making a violation of that adaptive reuse project process by a city, county, or city and county subject to the above-described notification requirements.",
+  "(4) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(5) This bill would incorporate additional changes to Section 65585 of the Government Code proposed by AB 650 to be operative only if this bill and AB 650 are enacted and this bill is enacted last.",
+  "(6) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "hash": "502c5d989e4616ce",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-10"
+  },
+  {
+   "action": "From printer. May be heard in committee March 13.",
+   "date": "2025-02-11"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1265.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "(Pending re-refer to Com. on L. GOV.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 10. Noes 0.) (April 24). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 10. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 64. Noes 1. Page 1651.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and HOUSING.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on HOUSING. (Ayes 5. Noes 2.) (July 2).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 2.) (July 15). Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "In committee: Referred to suspense file.",
+   "date": "2025-08-18"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 6. Noes 1.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 9. Page 2816.).",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 70. Noes 4. Page 3293.).",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2025-09-23"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 493, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250AB50794CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65585 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) In the preparation of its housing element, each city and county shall consider the guidelines adopted by the department pursuant to Section 50459 of the Health and Safety Code. Those guidelines shall be advisory to each city or county in the preparation of its housing element.",
+    "(b) (1) (A) At least 90 days prior to adoption of a revision of its housing element pursuant to subdivision (e) of Section 65588, or at least 60 days prior to the adoption of a subsequent amendment to this element, the planning agency shall submit a draft element revision or draft amendment to the department. The local government of the planning agency shall make the first draft revision of a housing element available for public comment for at least 30 days and, if any comments are received, the local government shall take at least 10 business days after the 30-day public comment period to consider and incorporate public comments into the draft revision prior to submitting it to the department. For any subsequent draft revision, the local government shall post the draft revision on its internet website and shall email a link to the draft revision to all individuals and organizations that have previously requested notices relating to the local government’s housing element at least seven days before submitting the draft revision to the department.",
+    "(B) The planning agency staff shall collect and compile the public comments regarding the housing element received by the city, county, or city and county and provide these comments to each member of the legislative body before it adopts the housing element.",
+    "(C) The department shall review the draft and report its written findings to the planning agency within 90 days of its receipt of the first draft submittal for each housing element revision pursuant to subdivision (e) of Section 65588 or within 60 days of its receipt of a subsequent draft amendment or an adopted revision or adopted amendment to an element. The department shall not review the first draft submitted for each housing element revision pursuant to subdivision (e) of Section 65588 until the local government has made the draft available for public comment for at least 30 days and, if comments were received, has taken at least 10 business days to consider and incorporate public comments pursuant to paragraph (1).",
+    "(2) (A) At least 90 days prior to the initial adoption of a revision of its housing element pursuant to subdivision (e) of Section 65588, and at least 7 days prior to any subsequent adoption submittal if changes have occurred to the inventory of sites, a local government shall do both of the following:",
+    "(i) Make a draft of its inventory of sites required pursuant to paragraph (3) of subdivision (a) of Section 65583 available to the department and the public and post the draft inventory on its internet website.",
+    "(ii) Send an email to all individuals and organizations that have previously requested notices notifying them that the inventory has been updated that includes a link to the draft inventory on its website.",
+    "(B) The requirements of this paragraph shall apply to the seventh and each subsequent revision of the housing element.",
+    "(c) In the preparation of its findings, the department may consult with any public agency, group, or person. The department shall receive and consider any written comments from any public agency, group, or person regarding the draft or adopted element or amendment under review.",
+    "(d) In its written findings, the department shall determine whether the draft element or draft amendment substantially complies with this article.",
+    "(e) Prior to the adoption of its draft element or draft amendment, the legislative body shall consider the findings made by the department. If the department’s findings are not available within the time limits set by this section, the legislative body may act without them.",
+    "(f) If the department finds that the draft element or draft amendment does not substantially comply with this article, the legislative body shall take one of the following actions:",
+    "(1) (A) Change the draft element or draft amendment to substantially comply with this article.",
+    "(B) Any change to a draft element or draft amendment pursuant to subparagraph (A) shall be completed in accordance with subdivision (b). This subparagraph does not constitute a change in, but is declaratory of, existing law.",
+    "(2) Adopt the draft element or draft amendment without changes. The legislative body shall include in its resolution of adoption written findings that explain the reasons the legislative body believes that the draft element or draft amendment substantially complies with this article despite the findings of the department.",
+    "(g) (1) Promptly following the adoption of its element or amendment, the planning agency shall submit a copy of the adopted element or amendment and any findings made pursuant to paragraph (2) of subdivision (f) to the department.",
+    "(2) This subdivision shall not be construed to excuse a legislative body from complying with subdivision (f). This paragraph does not constitute a change in, but is declaratory of, existing law.",
+    "(h) The department shall, within 60 days, review adopted housing elements or amendments and any findings pursuant to paragraph (2) of subdivision (f), make a finding as to whether the adopted element or amendment is in substantial compliance with this article, and report its findings to the planning agency.",
+    "(i) (1) (A) The department shall review any action or failure to act by the city, county, or city and county that it determines is inconsistent with an adopted housing element or Section 65583, including any failure to implement any program actions included in the housing element pursuant to Section 65583. The department shall issue written findings to the city, county, or city and county as to whether the action or failure to act substantially complies with this article, and provide a reasonable time no longer than 30 days for the city, county, or city and county to respond to the findings before taking any other action authorized by this section, including the action authorized by subparagraph (C).",
+    "(B) If the department finds that the city’s, county’s, or city and county’s action or failure to act does not substantially comply with its adopted housing element or its obligations pursuant to Section 65583, there shall be a rebuttable presumption of invalidity in any legal action challenging that action or failure to act.",
+    "(C) If the department finds that the action or failure to act by the city, county, or city and county does not substantially comply with this article, and if it has issued findings pursuant to this section that an amendment to the housing element substantially complies with this article, the department may revoke its findings until it determines that the city, county, or city and county has come into compliance with this article.",
+    "(2) The department may consult with any local government, public agency, group, or person, and shall receive and consider any written comments from any public agency, group, or person, regarding the action or failure to act by the city, county, or city and county described in paragraph (1), in determining whether the housing element substantially complies with this article.",
+    "(j) The department shall notify the city, county, or city and county and may notify the office of the Attorney General that the city, county, or city and county is in violation of state law if the department finds that the housing element or an amendment to this element, or any action or failure to act described in subdivision (i), does not substantially comply with this article or that any local government has taken an action in violation of the following:",
+    "(1) Housing Accountability Act (Section 65589.5).",
+    "(2) Section 65863.",
+    "(3) Chapter 4.3 (commencing with Section 65915).",
+    "(4) Section 65008.",
+    "(5) Housing Crisis Act of 2019 (Chapter 654, Statutes of 2019, Sections 65941.1, 65943, and 66300).",
+    "(6) Section 8899.50.",
+    "(7) Section 65913.4.",
+    "(8) Article 11 (commencing with Section 65650).",
+    "(9) Article 12 (commencing with Section 65660).",
+    "(10) Section 65913.11.",
+    "(11) Section 65400.",
+    "(12) Section 65863.2.",
+    "(13) Chapter 4.1 (commencing with Section 65912.100).",
+    "(14) Section 65905.5.",
+    "(15) Chapter 13 (commencing with Section 66310).",
+    "(16) Section 65852.21.",
+    "(17) Section 65852.24.",
+    "(18) Section 66411.7.",
+    "(19) Section 65913.16.",
+    "(20) Article 2 (commencing with Section 66300.5) of Chapter 12.",
+    "(21) Section 65852.28.",
+    "(22) Section 65913.4.5.",
+    "(23) Section 66499.41.",
+    "(24) Homeless Housing, Assistance, and Prevention program (Chapter 6 (commencing with Section 50216) and Chapter 6.5 (commencing with Section 50230) of Part 1 of Division 31 of the Health and Safety Code).",
+    "(25) Encampment Resolution Funding program (Chapter 7 (commencing with Section 50250) of Part 1 of Division 31 of the Health and Safety Code).",
+    "(26) Family Homelessness Challenge Grants and Technical Assistance Program (Chapter 8 (commencing with Section 50255) of Part 1 of Division 31 of the Health and Safety Code).",
+    "(27) Article 11.5 (commencing with Section 65658).",
+    "(k) Commencing July 1, 2019, prior to the Attorney General bringing any suit for a violation of the provisions identified in subdivision (j) related to housing element compliance and seeking remedies available pursuant to this subdivision, the department shall offer the jurisdiction the opportunity for two meetings in person or via telephone to discuss the violation, and shall provide the jurisdiction written findings regarding the violation. This paragraph does not affect any action filed prior to the effective date of this section. The requirements set forth in this subdivision do not apply to any suits brought for a violation or violations of paragraphs (1) and (3) to (9), inclusive, of subdivision (j).",
+    "(l) In any action or special proceeding brought by the Attorney General relating to housing element compliance pursuant to a notice or referral under subdivision (j), the Attorney General may request, upon a finding of the court that the housing element does not substantially comply with the requirements of this article pursuant to this section, that the court issue an order or judgment directing the jurisdiction to bring its housing element into substantial compliance with the requirements of this article. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If a court determines that the housing element of the jurisdiction substantially complies with this article, it shall have the same force and effect, for purposes of eligibility for any financial assistance that requires a housing element in substantial compliance and for purposes of any incentives provided under Section 65589.9, as a determination by the department that the housing element substantially complies with this article.",
+    "(1) If the jurisdiction has not complied with the order or judgment after 12 months, the court shall conduct a status conference. Following the status conference, upon a determination that the jurisdiction failed to comply with the order or judgment compelling substantial compliance with the requirements of this article, the court shall impose fines on the jurisdiction, which shall be deposited into the Building Homes and Jobs Trust Fund. Any fine levied pursuant to this paragraph shall be in a minimum amount of ten thousand dollars ($10,000) per month, but shall not exceed one hundred thousand dollars ($100,000) per month, except as provided in paragraphs (2) and (3). In the event that the jurisdiction fails to pay fines imposed by the court in full and on time, the court may require the Controller to intercept any available state and local funds and direct such funds to the Building Homes and Jobs Trust Fund to correct the jurisdiction’s failure to pay. The intercept of the funds by the Controller for this purpose shall not violate any provision of the California Constitution.",
+    "(2) If the jurisdiction has not complied with the order or judgment after three months following the imposition of fees described in paragraph (1), the court shall conduct a status conference. Following the status conference, if the court finds that the fees imposed pursuant to paragraph (1) are insufficient to bring the jurisdiction into compliance with the order or judgment, the court may multiply the fine determined pursuant to paragraph (1) by a factor of three. In the event that the jurisdiction fails to pay fines imposed by the court in full and on time, the court may require the Controller to intercept any available state and local funds and direct such funds to the Building Homes and Jobs Trust Fund to correct the jurisdiction’s failure to pay. The intercept of the funds by the Controller for this purpose shall not violate any provision of the California Constitution.",
+    "(3) If the jurisdiction has not complied with the order or judgment six months following the imposition of fees described in paragraph (1), the court shall conduct a status conference. Upon a determination that the jurisdiction failed to comply with the order or judgment, the court may impose the following:",
+    "(A) If the court finds that the fees imposed pursuant to paragraphs (1) and (2) are insufficient to bring the jurisdiction into compliance with the order or judgment, the court may multiply the fine determined pursuant to paragraph (1) by a factor of six. In the event that the jurisdiction fails to pay fines imposed by the court in full and on time, the court may require the Controller to intercept any available state and local funds and direct such funds to the Building Homes and Jobs Trust Fund to correct the jurisdiction’s failure to pay. The intercept of the funds by the Controller for this purpose shall not violate any provision of the California Constitution.",
+    "(B) The court may order remedies available pursuant to Section 564 of the Code of Civil Procedure, under which the agent of the court may take all governmental actions necessary to bring the jurisdiction’s housing element into substantial compliance pursuant to this article in order to remedy identified deficiencies. The court shall determine whether the housing element of the jurisdiction substantially complies with this article and, once the court makes that determination, it shall have the same force and effect, for all purposes, as the department’s determination that the housing element substantially complies with this article. An agent appointed pursuant to this paragraph shall have expertise in planning in California.",
+    "(4) This subdivision does not limit a court’s discretion to apply any and all remedies in an action or special proceeding for a violation of any law identified in subdivision (j).",
+    "(m) In determining the application of the remedies available under subdivision (l), the court shall consider whether there are any mitigating circumstances delaying the jurisdiction from coming into compliance with state housing law. The court may consider whether a city, county, or city and county is making a good faith effort to come into substantial compliance or is facing substantial undue hardships.",
+    "(n) Nothing in this section shall limit the authority of the office of the Attorney General to bring a suit to enforce state law in an independent capacity. The office of the Attorney General may seek all remedies available under law including those set forth in this section.",
+    "(o) Notwithstanding Sections 11040 and 11042, if the Attorney General declines to represent the department in any action or special proceeding brought pursuant to a notice or referral under subdivision (j), the department may appoint or contract with other counsel for purposes of representing the department in the action or special proceeding.",
+    "(p) Notwithstanding any other provision of law, the statute of limitations set forth in subdivision (a) of Section 338 of the Code of Civil Procedure shall apply to any action or special proceeding brought by the office of the Attorney General or pursuant to a notice or referral under subdivision (j), or by the department pursuant to subdivision (o).",
+    "(q) The amendments to this section made by the act adding this subdivision shall not be construed to limit the department’s ability to enforce programmatic requirements or remedies against cities, counties, and continuums of care pursuant to the Homeless Housing, Assistance, and Prevention program (Chapter 6 (commencing with Section 50216) and Chapter 6.5 (commencing with Section 50230) of Part 1 of Division 31 of the Health and Safety Code), the Encampment Resolution Funding program (Chapter 7 (commencing with Section 50250) of Part 1 of Division 31 of the Health and Safety Code), and the Family Homelessness Challenge Grants and Technical Assistance Program (Chapter 8 (commencing with Section 50255) of Part 1 of Division 31 of the Health and Safety Code)."
+   ],
+   "sec": "65585",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65585 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) In the preparation of its housing element, each city and county shall consider the guidelines adopted by the department pursuant to Section 50459 of the Health and Safety Code. Those guidelines shall be advisory to each city or county in the preparation of its housing element.",
+    "(b) (1) (A) At least 90 days prior to adoption of a revision of its housing element pursuant to subdivision (e) of Section 65588, or at least 60 days prior to the adoption of a subsequent amendment to this element, the planning agency shall submit a draft element revision or draft amendment to the department. The local government of the planning agency shall make the first draft revision of a housing element available for public comment for at least 30 days and, if any comments are received, the local government shall take at least 10 business days after the 30-day public comment period to consider and incorporate public comments into the draft revision prior to submitting it to the department. For any subsequent draft revision, the local government shall post the draft revision on its internet website and shall email a link to the draft revision to all individuals and organizations that have previously requested notices relating to the local government’s housing element at least seven days before submitting the draft revision to the department.",
+    "(B) The planning agency staff shall collect and compile the public comments regarding the housing element received by the city, county, or city and county and provide these comments to each member of the legislative body before it adopts the housing element.",
+    "(C) The department shall review the draft and report its written findings to the planning agency within 90 days of its receipt of the first draft submittal for each housing element revision pursuant to subdivision (e) of Section 65588 or within 60 days of its receipt of a subsequent draft amendment or an adopted revision or adopted amendment to an element. The department shall not review the first draft submitted for each housing element revision pursuant to subdivision (e) of Section 65588 until the local government has made the draft available for public comment for at least 30 days and, if comments were received, has taken at least 10 business days to consider and incorporate public comments pursuant to paragraph (1).",
+    "(2) (A) At least 90 days prior to the initial adoption of a revision of its housing element pursuant to subdivision (e) of Section 65588, and at least 7 days prior to any subsequent adoption submittal if changes have occurred to the inventory of sites, a local government shall do both of the following:",
+    "(i) Make a draft of its inventory of sites required pursuant to paragraph (3) of subdivision (a) of Section 65583 available to the department and the public and post the draft inventory on its internet website.",
+    "(ii) Send an email to all individuals and organizations that have previously requested notices notifying them that the inventory has been updated that includes a link to the draft inventory on its website.",
+    "(B) The requirements of this paragraph shall apply to the seventh and each subsequent revision of the housing element.",
+    "(c) In the preparation of its findings, the department may consult with any public agency, group, or person. The department shall receive and consider any written comments from any public agency, group, or person regarding the draft or adopted element or amendment under review.",
+    "(d) In its written findings, the department shall determine whether the draft element or draft amendment substantially complies with this article. If the department finds that the draft element or draft amendment does not substantially comply with this article, the department shall in a written communication to the planning agency do both of the following:",
+    "(1) Identify and explain the specific deficiencies in the draft element or draft amendment, including a reference to each subdivision of Section 65583 that the draft element or draft amendment does not comply with.",
+    "(2) Provide the specific analysis or text that the department expects the planning agency to include in the draft element or draft amendment to remedy the deficiencies identified in paragraph (1).",
+    "(e) Prior to the adoption of its draft element or draft amendment, the legislative body shall consider the findings made, and the specific analysis or text required, by the department. If the department’s findings are not available within the time limits set by this section, the legislative body may act without them.",
+    "(f) If the department finds that the draft element or draft amendment does not substantially comply with this article, the legislative body shall take one of the following actions:",
+    "(1) (A) Include the specific analysis or text in the draft element or draft amendment to substantially comply with this article, as required by the department pursuant to subdivision (d).",
+    "(B) Any change to a draft element or draft amendment pursuant to subparagraph (A) shall be completed in accordance with subdivision (b). This subparagraph does not constitute a change in, but is declaratory of, existing law.",
+    "(2) Adopt the draft element or draft amendment without the specific analysis or text required by the department pursuant to subdivision (d). The legislative body shall include in its resolution of adoption written findings that explain the reasons the legislative body believes that the draft element or draft amendment substantially complies with this article despite the findings of, and specific analysis or text required by, the department.",
+    "(g) (1) Promptly following the adoption of its element or amendment, the planning agency shall submit a copy of the adopted element or amendment and any findings made pursuant to paragraph (2) of subdivision (f) to the department.",
+    "(2) This subdivision shall not be construed to excuse a legislative body from complying with subdivision (f). This paragraph does not constitute a change in, but is declaratory of, existing law.",
+    "(h) The department shall, within 60 days, review adopted housing elements or amendments and any findings pursuant to paragraph (2) of subdivision (f), make a finding as to whether the adopted element or amendment is in substantial compliance with this article, and report its findings to the planning agency. If the department finds that the adopted element or amendment is not in substantial compliance with this article, the department shall identify each subdivision of Section 65583 that the housing element does not substantially comply with and provide the specific analysis or text to the planning agency that, if adopted, would bring the housing element or amendment into substantial compliance.",
+    "(i) (1) (A) The department shall review any action or failure to act by the city, county, or city and county that it determines is inconsistent with an adopted housing element or Section 65583, including any failure to implement any program actions included in the housing element pursuant to Section 65583. The department shall issue written findings to the city, county, or city and county as to whether the action or failure to act substantially complies with this article, and provide a reasonable time no longer than 30 days for the city, county, or city and county to respond to the findings before taking any other action authorized by this section, including the action authorized by subparagraph (C).",
+    "(B) If the department finds that the city’s, county’s, or city and county’s action or failure to act does not substantially comply with its adopted housing element or its obligations pursuant to Section 65583, there shall be a rebuttable presumption of invalidity in any legal action challenging that action or failure to act.",
+    "(C) If the department finds that the action or failure to act by the city, county, or city and county does not substantially comply with this article, and if it has issued findings pursuant to this section that an amendment to the housing element substantially complies with this article, the department may revoke its findings until it determines that the city, county, or city and county has come into compliance with this article.",
+    "(2) The department may consult with any local government, public agency, group, or person, and shall receive and consider any written comments from any public agency, group, or person, regarding the action or failure to act by the city, county, or city and county described in paragraph (1), in determining whether the housing element substantially complies with this article.",
+    "(j) The department shall notify the city, county, or city and county and may notify the office of the Attorney General that the city, county, or city and county is in violation of state law if the department finds that the housing element or an amendment to this element, or any action or failure to act described in subdivision (i), does not substantially comply with this article or that any local government has taken an action in violation of the following:",
+    "(1) Housing Accountability Act (Section 65589.5).",
+    "(2) Section 65863.",
+    "(3) Chapter 4.3 (commencing with Section 65915).",
+    "(4) Section 65008.",
+    "(5) Housing Crisis Act of 2019 (Chapter 654, Statutes of 2019, Sections 65941.1, 65943, and 66300).",
+    "(6) Section 8899.50.",
+    "(7) Section 65913.4.",
+    "(8) Article 11 (commencing with Section 65650).",
+    "(9) Article 12 (commencing with Section 65660).",
+    "(10) Section 65913.11.",
+    "(11) Section 65400.",
+    "(12) Section 65863.2.",
+    "(13) Chapter 4.1 (commencing with Section 65912.100).",
+    "(14) Section 65905.5.",
+    "(15) Chapter 13 (commencing with Section 66310).",
+    "(16) Section 65852.21.",
+    "(17) Section 65852.24.",
+    "(18) Section 66411.7.",
+    "(19) Section 65913.16.",
+    "(20) Article 2 (commencing with Section 66300.5) of Chapter 12.",
+    "(21) Section 65852.28.",
+    "(22) Section 65913.4.5.",
+    "(23) Section 66499.41.",
+    "(24) Homeless Housing, Assistance, and Prevention program (Chapter 6 (commencing with Section 50216) and Chapter 6.5 (commencing with Section 50230) of Part 1 of Division 31 of the Health and Safety Code).",
+    "(25) Encampment Resolution Funding program (Chapter 7 (commencing with Section 50250) of Part 1 of Division 31 of the Health and Safety Code).",
+    "(26) Family Homelessness Challenge Grants and Technical Assistance Program (Chapter 8 (commencing with Section 50255) of Part 1 of Division 31 of the Health and Safety Code).",
+    "(27) Article 11.5 (commencing with Section 65658).",
+    "(k) Commencing July 1, 2019, prior to the Attorney General bringing any suit for a violation of the provisions identified in subdivision (j) related to housing element compliance and seeking remedies available pursuant to this subdivision, the department shall offer the jurisdiction the opportunity for two meetings in person or via telephone to discuss the violation, and shall provide the jurisdiction written findings regarding the violation. This paragraph does not affect any action filed prior to the effective date of this section. The requirements set forth in this subdivision do not apply to any suits brought for a violation or violations of paragraphs (1) and (3) to (9), inclusive, of subdivision (j).",
+    "(l) In any action or special proceeding brought by the Attorney General relating to housing element compliance pursuant to a notice or referral under subdivision (j), the Attorney General may request, upon a finding of the court that the housing element does not substantially comply with the requirements of this article pursuant to this section, that the court issue an order or judgment directing the jurisdiction to bring its housing element into substantial compliance with the requirements of this article. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If a court determines that the housing element of the jurisdiction substantially complies with this article, it shall have the same force and effect, for purposes of eligibility for any financial assistance that requires a housing element in substantial compliance and for purposes of any incentives provided under Section 65589.9, as a determination by the department that the housing element substantially complies with this article.",
+    "(1) If the jurisdiction has not complied with the order or judgment after 12 months, the court shall conduct a status conference. Following the status conference, upon a determination that the jurisdiction failed to comply with the order or judgment compelling substantial compliance with the requirements of this article, the court shall impose fines on the jurisdiction, which shall be deposited into the Building Homes and Jobs Trust Fund. Any fine levied pursuant to this paragraph shall be in a minimum amount of ten thousand dollars ($10,000) per month, but shall not exceed one hundred thousand dollars ($100,000) per month, except as provided in paragraphs (2) and (3). In the event that the jurisdiction fails to pay fines imposed by the court in full and on time, the court may require the Controller to intercept any available state and local funds and direct such funds to the Building Homes and Jobs Trust Fund to correct the jurisdiction’s failure to pay. The intercept of the funds by the Controller for this purpose shall not violate any provision of the California Constitution.",
+    "(2) If the jurisdiction has not complied with the order or judgment after three months following the imposition of fees described in paragraph (1), the court shall conduct a status conference. Following the status conference, if the court finds that the fees imposed pursuant to paragraph (1) are insufficient to bring the jurisdiction into compliance with the order or judgment, the court may multiply the fine determined pursuant to paragraph (1) by a factor of three. In the event that the jurisdiction fails to pay fines imposed by the court in full and on time, the court may require the Controller to intercept any available state and local funds and direct such funds to the Building Homes and Jobs Trust Fund to correct the jurisdiction’s failure to pay. The intercept of the funds by the Controller for this purpose shall not violate any provision of the California Constitution.",
+    "(3) If the jurisdiction has not complied with the order or judgment six months following the imposition of fees described in paragraph (1), the court shall conduct a status conference. Upon a determination that the jurisdiction failed to comply with the order or judgment, the court may impose the following:",
+    "(A) If the court finds that the fees imposed pursuant to paragraphs (1) and (2) are insufficient to bring the jurisdiction into compliance with the order or judgment, the court may multiply the fine determined pursuant to paragraph (1) by a factor of six. In the event that the jurisdiction fails to pay fines imposed by the court in full and on time, the court may require the Controller to intercept any available state and local funds and direct such funds to the Building Homes and Jobs Trust Fund to correct the jurisdiction’s failure to pay. The intercept of the funds by the Controller for this purpose shall not violate any provision of the California Constitution.",
+    "(B) The court may order remedies available pursuant to Section 564 of the Code of Civil Procedure, under which the agent of the court may take all governmental actions necessary to bring the jurisdiction’s housing element into substantial compliance pursuant to this article in order to remedy identified deficiencies. The court shall determine whether the housing element of the jurisdiction substantially complies with this article and, once the court makes that determination, it shall have the same force and effect, for all purposes, as the department’s determination that the housing element substantially complies with this article. An agent appointed pursuant to this paragraph shall have expertise in planning in California.",
+    "(4) This subdivision does not limit a court’s discretion to apply any and all remedies in an action or special proceeding for a violation of any law identified in subdivision (j).",
+    "(m) In determining the application of the remedies available under subdivision (l), the court shall consider whether there are any mitigating circumstances delaying the jurisdiction from coming into compliance with state housing law. The court may consider whether a city, county, or city and county is making a good faith effort to come into substantial compliance or is facing substantial undue hardships.",
+    "(n) Nothing in this section shall limit the authority of the office of the Attorney General to bring a suit to enforce state law in an independent capacity. The office of the Attorney General may seek all remedies available under law including those set forth in this section.",
+    "(o) Notwithstanding Sections 11040 and 11042, if the Attorney General declines to represent the department in any action or special proceeding brought pursuant to a notice or referral under subdivision (j), the department may appoint or contract with other counsel for purposes of representing the department in the action or special proceeding.",
+    "(p) Notwithstanding any other provision of law, the statute of limitations set forth in subdivision (a) of Section 338 of the Code of Civil Procedure shall apply to any action or special proceeding brought by the office of the Attorney General or pursuant to a notice or referral under subdivision (j), or by the department pursuant to subdivision (o).",
+    "(q) The amendments to this section made by the act adding this subdivision shall not be construed to limit the department’s ability to enforce programmatic requirements or remedies against cities, counties, and continuums of care pursuant to the Homeless Housing, Assistance, and Prevention program (Chapter 6 (commencing with Section 50216) and Chapter 6.5 (commencing with Section 50230) of Part 1 of Division 31 of the Health and Safety Code), the Encampment Resolution Funding program (Chapter 7 (commencing with Section 50250) of Part 1 of Division 31 of the Health and Safety Code), and the Family Homelessness Challenge Grants and Technical Assistance Program (Chapter 8 (commencing with Section 50255) of Part 1 of Division 31 of the Health and Safety Code)."
+   ],
+   "sec": "65585",
+   "verb": "amended"
+  },
+  {
+   "action": "Article 11.5 (commencing with Section 65658) is added to Chapter 3 of Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "This article may be cited as the Office to Housing Conversion Act."
+   ],
+   "sec": "65658",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Adaptive reuse: streamlining: incentives.",
+ "title": "An act to amend Section 65585 of, to add Chapter 9 (commencing with Section 51299) to Part 1 of Division 1 of Title 5 of, and to add Article 11.5 (commencing with Section 65658) to Chapter 3 of Division 1 of Title 7 of, the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-10",
+   "id": "20250AB50799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-03",
+   "id": "20250AB50798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-08-29",
+   "id": "20250AB50797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-05",
+   "id": "20250AB50796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-15",
+   "id": "20250AB50795ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250AB50794CHP",
+   "num": "94"
+  }
+ ]
+}

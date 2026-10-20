@@ -1,0 +1,115 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Boerner",
+   "primary": true
+  }
+ ],
+ "bill": "AB1102",
+ "bill_id": "202520260AB1102",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law requires a public agency to compile one or more lists that specify in detail the information that will be required from any applicant for a development project, as defined.",
+  "This bill would require a proponent of a new development to complete a sea level rise and groundwater rise risk assessment as part of the application to a public agency if the proposed development will be within 1,000 feet of a contaminated site, as provided, and will be within an area vulnerable to groundwater rise or sea level rise, as defined. Because the bill would place additional duties on local agencies, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "1baa450426686a8b",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and E.S & T.M.",
+   "date": "2025-03-28"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on E.S & T.M. pursuant to Assembly Rule 96.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-04-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (April 29). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-04-09",
+  "id": "20250AB110298AMD",
+  "num": "98"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Section 65940.4 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A proponent of a new development shall complete a sea level rise and groundwater rise risk assessment as part of the application to a public agency if the proposed development will be within 1,000 feet of a contaminated site that has been identified by the Department of Toxics and Substances Control, the State Water Resources Control Board, or a local government and will be within an area vulnerable to groundwater rise or sea level rise.",
+    "(b) For purposes of this section, the following definitions apply:",
+    "(1) “Groundwater rise” means five feet of groundwater rise, as determined by the National Oceanic and Atmospheric Administration, the Ocean Protection Council, the United States Geological Survey, the University of California, or a local government’s coastal hazards vulnerability assessment.",
+    "(2) “Sea level rise” means five feet of sea level rise, as determined by the National Oceanic and Atmospheric Administration, the Ocean Protection Council, the United States Geological Survey, the University of California, or a local government’s coastal hazards vulnerability assessment.",
+    "(c) The risk assessment completed pursuant to this section shall be for informational purposes only."
+   ],
+   "sec": "65940.4",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Sea level rise and groundwater rise: contaminated sites: report.",
+ "title": "An act to add Section 65940.4 to the Government Code, relating to development.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB110299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-09",
+   "id": "20250AB110298AMD",
+   "num": "98"
+  }
+ ]
+}

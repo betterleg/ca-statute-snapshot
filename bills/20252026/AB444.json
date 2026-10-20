@@ -1,0 +1,83 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wilson",
+   "primary": true
+  }
+ ],
+ "bill": "AB444",
+ "bill_id": "202520260AB444",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires a city or county to adopt a general plan for land use development within its boundaries that includes certain mandatory elements, including a circulation element. Existing law requires a county or city, by January 1, 2028, to update its circulation element to meet specified requirements.",
+  "This bill would make nonsubstantive changes to those provisions."
+ ],
+ "hash": "86750c3d4935ce0f",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-06"
+  },
+  {
+   "action": "From printer. May be heard in committee March 9.",
+   "date": "2025-02-07"
+  },
+  {
+   "action": "Died at Desk.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2025-02-06",
+  "id": "20250AB44499INT",
+  "num": "99"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65302.02 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "By January 1, 2028, except as provided for in subdivision (h), a county or city shall update its circulation element, as required by subdivision (b) of Section 65302, to do all of the following:",
+    "(a) Identify and establish specific travel routes for the transport of goods, materials, or freight for storage, transfer, or redistribution to safely accommodate additional truck traffic and avoid residential areas and sensitive receptors, as defined by Section 65098.",
+    "(b) Maximize the use of interstate or state divided highways as preferred routes for truck routes. The county or city shall also maximize use of arterial roads, major thoroughfares, and predominantly commercially oriented local streets when state or interstate highways are not utilized. Truck routes shall comply with all of the following:",
+    "(1) Major or minor collector streets and roads that predominantly serve commercially oriented uses shall be used for truck routes only when strictly necessary to reach existing industrial zones.",
+    "(2) Trucks shall be routed via transportation arteries that minimize exposure to sensitive receptors.",
+    "(3) On and after January 1, 2028, all proposed development of a logistics use development, as defined in subdivision (d) of Section 65098, shall be accessible via arterial roads, major thoroughfares, or roads that predominantly serve commercially oriented uses.",
+    "(A) The purpose of this section is to ensure that logistics use developments are sited in locations that minimize adverse impacts on residential communities and enhance transportation efficiency. This is achieved by restricting logistics use developments to roadways that are suited to handle the associated traffic and that predominantly serve commercial uses.",
+    "(B) For purposes of this section, local roads shall be considered to predominantly serve commercial uses if more than 50 percent of the properties fronting the road within 1000 feet are designated for commercial or industrial use according to the local zoning ordinance.",
+    "(c) The county or city may consult with the Department of Transportation and the California Freight Advisory Committee for technical assistance.",
+    "(d) The county or city shall provide for posting of conspicuous signage to identify truck routes and additional signage for truck parking and appropriate idling facility locations.",
+    "(e) The county or city shall make truck routes publicly available in geographic information system (GIS) format and share GIS maps of the truck routes with warehouse operators, fleet operators, and truck drivers.",
+    "(f) The city or county shall provide opportunities for the involvement of citizens, California Native American Indian tribes, public agencies, public utility companies, and civic, educational, and other community groups through public hearings and any other means the planning agency deems appropriate, consistent with Section 65351.",
+    "(g) The city or county shall make a diligent effort to achieve public participation of all economic segments of the community in the development of the changes required pursuant to this section.",
+    "(h) The warehouse concentration region, as defined in Section 65098, shall implement the provisions of this section by January 1, 2026.",
+    "(i) The Attorney General may enforce this section.",
+    "(1) The Attorney General may impose a fine against a jurisdiction that is in violation of this section of up to fifty thousand dollars ($50,000) every six months if the required updates have not been made.",
+    "(2) Upon appropriation by the Legislature, any fines collected shall be distributed by the Attorney General and returned to the local air quality management district in which the fine was imposed and be used for the district’s efforts to improve air quality."
+   ],
+   "sec": "65302.02",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "General plan: circulation element.",
+ "title": "An act to amend Section 65302.02 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-06",
+   "id": "20250AB44499INT",
+   "num": "99"
+  }
+ ]
+}

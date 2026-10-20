@@ -1,0 +1,227 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Gabriel",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Mark González",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schiavo",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Rubio",
+   "primary": false
+  }
+ ],
+ "bill": "AB1915",
+ "bill_id": "202520260AB1915",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "(1) Existing law authorizes the legislative body of any county or city to adopt ordinances that regulate the use of buildings, structures, and land as between industry, business, residences, and open space, including agriculture, recreation, enjoyment of scenic beauty, use of natural resources, and other purposes. Existing law establishes a streamlined approval process for a local permit for a tenant improvement relating to a restaurant, as those terms are defined.",
+  "This bill would establish a streamlined approval process for a local permit for a like-for-like equipment installation relating to a restaurant, as those terms are defined. In this regard, the bill would require a local building department, upon the request and at the expense of the permit applicant, to allow a qualified licensed contractor certifier, defined as a licensed contractor that meets certain requirements, to submit a certification of the installation’s compliance with applicable codes. The bill would require a qualified licensed contractor certifier to prepare certain affidavits related to the equipment installation under penalty of perjury. The bill would require the local building department to approve or deny the permit application within 10 business days of receipt and would deem the plan approved for permitting purposes if the local building department does not approve or deny the application within that timeframe, provided that all required fees have been paid. The bill would make qualified licensed contractor certifiers liable for damages arising from negligent or false certification. The bill would also require the applicant to indemnify the local agency from any property damage or personal injury arising from construction performed under the above-described provisions.",
+  "(2) Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA does not apply to the approval of ministerial projects.",
+  "To the extent that the streamlined, ministerial review processes established by the bill would apply to final, discretionary approval of a like-for-like equipment installation, the bill would exempt those projects from CEQA.",
+  "(3) Existing law, the Contractors State License Law, provides for the licensure and regulation of contractors by the Contractors State License Board. Under existing law, willful or deliberate disregard by a licensed contractor of various state building, labor, and safety laws constitutes a cause for disciplinary action by the board. Existing law provides for related disciplinary proceedings and requires the board to promulgate regulations covering the assessment of civil penalties under those disciplinary provisions, as prescribed. Existing law, beginning on July 1, 2026, requires a civil penalty to be assessed of not less than $1,500 and not to exceed $30,000 for certain violations of the Contractors State License Law, as provided.",
+  "This bill would make a false statement made in a certification submitted pursuant to the above-described provisions grounds for disciplinary action by the Contractors State License Board and grounds for a conviction of perjury. The bill would also require that false statement to be assessed as a civil penalty in accordance with the amounts described above.",
+  "(4) Existing law, the California Building Standards Law, establishes the California Building Standards Commission within the Department of General Services. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code. Existing law authorizes local governments to enact ordinances or regulations that make building standards amendments to the California Building Standards Code, as specified.",
+  "This bill would require the commission, as a part of the next triennial update of the California Building Standards Code that occurs on or after January 1, 2027, to adopt building standards authorizing a business establishment to take various actions, including authorizing a business establishment that is takeout only to operate without providing customer restrooms.",
+  "(5) Existing law, the California Retail Food Code, establishes uniform health and sanitation standards for retail food facilities. Under existing law, local health agencies are primarily responsible for enforcing these standards. A person who violates any provision of the California Retail Food Code is guilty of a misdemeanor, except as otherwise provided.",
+  "This bill would make various changes to the standards for handwashing facilities, refrigeration units, grease traps, and passthrough window service openings. The bill would require raw animal foods that are cooked using noncontinuous cooking, as defined, to be subject to an initial heating process that is no longer than 60 minutes and cooled in a specified manner, among other things. The bill would revise the definition of “limited food preparation” to no longer include the handling of milk or milk products. The bill would change the temperature range for the definition of “warm water” from at least 100ºF to at least 85ºF but not greater than 108ºF.",
+  "(6) Existing law requires a food facility’s walls and ceilings to be durable, smooth, nonabsorbent, and easily cleanable. Existing law exempts from this requirement walls and ceilings of bar areas in which alcoholic beverages are sold or served directly to the consumers, except wall areas adjacent to bar sinks and areas where food is prepared, among other things. Existing law also exempts from this requirement restrooms that are used exclusively by the consumers, except that the walls and ceilings in the restrooms shall be of a nonabsorbent and washable surface.",
+  "This bill would instead exempt walls and ceilings of bar areas in which any beverage is sold, served, or dispensed directly to the consumers. The bill would also exempt restrooms that are used exclusively by employees.",
+  "(7) Existing law requires temporary food facilities to be equipped with overhead protection for all food preparation, food storage, and warewashing areas. Existing law requires overhead protection to be made of wood, canvas, or other materials that protect the facility from precipitation, dust, bird and insect droppings, and other contaminants. Existing law exempts from these requirements a temporary food facility that is approved for limited food preparation if flying insects, vermin, birds, and other pests are absent due to the location of the facility or other limiting conditions.",
+  "This bill would additionally exempt a temporary food facility that is approved for limited food preparation from these requirements if environmental factors that could contaminate the food are absent due to the location of the facility or other limiting conditions.",
+  "(8) By revising the standards that are required to be enforced by local health agencies, by increasing the duties of local building officials, and by expanding the scope of existing crimes, the bill would impose a state-mandated local program.",
+  "(9) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(10) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "931f23bce52d8f44",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-12"
+  },
+  {
+   "action": "From printer. May be heard in committee March 15.",
+   "date": "2026-02-13"
+  },
+  {
+   "action": "Referred to Coms. on HEALTH and B. & P.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HEALTH. Read second time and amended.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "Re-referred to Com. on HEALTH.",
+   "date": "2026-03-24"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on B. & P. (Ayes 16. Noes 0.) (April 14). Re-referred to Com. on B. & P.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 18. Noes 0.) (April 21). Re-referred to Com. on APPR.",
+   "date": "2026-04-21"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-13"
+  },
+  {
+   "action": "Joint Rule 62(a), file notice suspended. (Page 5030.)",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 79. Noes 0. Page 5475.)",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-28"
+  },
+  {
+   "action": "Referred to Coms. on HEALTH, HOUSING and B. P. & E.D.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 11. Noes 0.) (June 17). Re-referred to Com. on HOUSING.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on B. P. & E.D. (Ayes 10. Noes 0.) (June 24). Re-referred to Com. on B. P. & E.D.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. P. & E.D.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (June 29).",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2026-08-13"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-07-01",
+  "id": "20250AB191596AMD",
+  "num": "96"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Chapter 16 (commencing with Section 66360) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this chapter, all the following definitions apply:",
+    "(a) “Licensed contractor” means a contractor, as defined in Section 7026 of the Business and Professions Code, licensed pursuant to Chapter 9 (commencing with Section 7000) of Division 3 of the Business and Professions Code, holding a valid and active license in good standing in the appropriate classification for the work performed.",
+    "(b) “Like-for-like equipment installation” means the installation or replacement of commercial food service equipment that is substantially similar in size, function, and utility demand to existing approved equipment and does not do any of the following:",
+    "(1) Change the use or occupancy classification of the building.",
+    "(2) Alter structural or load-bearing elements.",
+    "(3) Modify fire or life safety systems, except for direct connection to existing approved systems.",
+    "(4) Increase approved utility capacity.",
+    "(5) Require discretionary review.",
+    "(c) “Qualified licensed contractor certifier” means a licensed contractor who satisfies all the following:",
+    "(1) Does not contract for or perform initial installation of like-for-like equipment they are certifying.",
+    "(2) Is unaffiliated with the contractor performing the like-for-like equipment installation.",
+    "(3) Holds a valid license in good standing in the appropriate classification for the work performed.",
+    "(4) Has not less than five years of experience performing commercial food service equipment installation or commercial restaurant construction experience.",
+    "(5) Maintains commercial general liability insurance in an amount not less than two million dollars ($2,000,000) per occurrence.",
+    "(6) Is not subject to any current suspension, probation, or enforcement action by the Contractors State License Board.",
+    "(d) “Restaurant” means a retail food establishment that prepares, serves, and vends food directly to the consumer."
+   ],
+   "sec": "66360",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Accelerated restaurant equipment permitting approval: retail food safety.",
+ "title": "An act to amend Section 7099.2 of, and to add Section 7110.2 to, the Business and Professions Code, to add Chapter 16 (commencing with Section 66360) to Division 1 of Title 7 of the Government Code, and to amend Sections 113818, 113941, 113953, 114157, 114201, 114259.2, 114271, and 114349 of, and to add Sections 18941.18, 113838, and 114009 to, the Health and Safety Code, relating to restaurants.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-12",
+   "id": "20250AB191599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-23",
+   "id": "20250AB191598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-25",
+   "id": "20250AB191597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-01",
+   "id": "20250AB191596AMD",
+   "num": "96"
+  }
+ ]
+}

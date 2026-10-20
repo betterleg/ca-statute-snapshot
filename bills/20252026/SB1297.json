@@ -1,0 +1,133 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Stern",
+   "primary": false
+  }
+ ],
+ "bill": "SB1297",
+ "bill_id": "202520260SB1297",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, provides that there is in each city and county a planning agency with the powers necessary to carry out the purposes of the law and requires the legislative body of each city and county to by ordinance assign the functions of the planning agency to a planning department, one or more planning commissions, administrative bodies or hearing officers, the legislative body itself, or any combination thereof, as it deems appropriate and necessary.",
+  "This bill would make nonsubstantive changes to those provisions."
+ ],
+ "hash": "9a77204f2e58558a",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Re-referred to Coms. on N.R. & W. and B. P. & E.D.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 14.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on B. P. & E.D. (Ayes 7. Noes 0. Page 3870.) (April 14). Re-referred to Com. on B. P. & E.D.",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on B. P. & E.D.",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "Set for hearing April 20.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0. Page 3954.) (April 20). Re-referred to Com. on APPR.",
+   "date": "2026-04-20"
+  },
+  {
+   "action": "Set for hearing May 4.",
+   "date": "2026-04-24"
+  },
+  {
+   "action": "May 4 hearing: Placed on APPR. suspense file.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-08"
+  },
+  {
+   "action": "May 14 hearing: Held in committee and under submission.",
+   "date": "2026-05-14"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-04-14",
+  "id": "20250SB129797AMD",
+  "num": "97"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 65100 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "There is in each city and county a planning agency with the powers necessary to carry out the purposes of this title. The legislative body of each city and county shall by ordinance assign the functions of the planning agency to a planning department, one or more planning commissions, administrative bodies or hearing officers, the legislative body itself, or any combination thereof, as it deems necessary and appropriate. In the absence of an assignment, the legislative body shall carry out all the functions of the planning agency."
+   ],
+   "sec": "65100",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Regional wildfire partnerships.",
+ "title": "An act to amend Section 65100 of the Government Code, relating to local government.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB129799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB129798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-14",
+   "id": "20250SB129797AMD",
+   "num": "97"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ellis",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Gallagher",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alanis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Castillo",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Davies",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "DeMaio",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Flora",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Sanchez",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wallis",
+   "primary": false
+  }
+ ],
+ "bill": "AB1227",
+ "bill_id": "202520260AB1227",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the California Emergency Services Act, authorizes the Governor to declare a state of emergency during conditions of disaster or extreme peril to persons or property. Existing law authorizes the Governor, during a state of emergency, to suspend any regulatory statute, or statute prescribing the procedure for conduct of state business, or the orders, rules, or regulations of any state agency, if the Governor determines and declares that strict compliance with any statute, order, rule, or regulation would in any way prevent, hinder, or delay the mitigation of the effects of the emergency.",
+  "Under the authority of the California Emergency Services Act, on March 1, 2025, Governor Gavin Newsom issued a proclamation of a state of emergency that suspends applicable state statutes, rules, regulations, and requirements that fall within the jurisdiction of boards, departments, and offices within the California Environmental Protection Agency or the Natural Resources Agency to the extent necessary for expediting critical fuels reduction projects, as provided. The proclamation requires an individual or entity desiring to conduct a critical fuels reduction project to request the secretary of the appropriate agency to make a determination that the proposed project is eligible for the suspension and requires the California Environmental Protection Agency and the Natural Resources Agency to maintain on their respective internet website a list of all suspensions approved.",
+  "This bill would, on or before January 31, 2026, require the California Environmental Protection Agency and the Natural Resources Agency to each report to the Legislature information on the implementation of the above-described proclamation of emergency, as provided.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA exempts from its requirements certain projects.",
+  "This bill would, until January 1, 2028, exempt from CEQA critical fuels reduction projects conducted in communities located in very high fire hazard severity zones, as provided. The bill would require the lead agency to hold a noticed public meeting to hear and respond to public comments before determining that a project is exempt and would require the lead agency to provide notice of the public meeting on its internet website at least 30 days before the public meeting. The bill would require the lead agency, if it determines that a project is not subject to CEQA and approves or carries out that project, to file a notice of exemption with the Office of Land Use and Climate Innovation and with the clerk of the county in which the project will be located. Because a lead agency would be required to determine whether a project qualifies for this exemption, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "67ce1209ace37685",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "Assembly Rule 47.1 invoked. (Ellis).",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-11"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 14. Noes 0.) (April 28).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 76. Noes 0. Page 2059.)",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and N.R. & W.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E.Q.",
+   "date": "2025-06-19"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on N.R. & W. with recommendation: To Consent Calendar. (Ayes 8. Noes 0.) (July 2). Re-referred to Com. on N.R. & W.",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (July 16).",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-08-13"
+  },
+  {
+   "action": "In committee: Referred to suspense file.",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2025-08-29"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-07-17",
+  "id": "20250AB122795AMD",
+  "num": "95"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 21080.06 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Without limiting any other statutory or categorical exemption provided under this division and subject to subdivision (b), this division does not apply to a critical fuels reduction project conducted in a community located in a very high fire hazard severity zone as identified by the State Fire Marshal pursuant to Section 51178 of the Government Code or Section 4202 or as designated by an ordinance pursuant to Section 51179 of the Government Code that does at least one of the following:",
+    "(1) Removes hazardous, dead, or dying trees.",
+    "(2) Removes vegetation for the creation of strategic fuel breaks as identified by approved fire prevention plans, including CAL FIRE Unit Fire Plans or Community Wildfire Protection Plans.",
+    "(3) Removes vegetation along roadways, highways, and freeways for the creation of safer ingress and egress routes for the public and responders and to reduce roadside ignitions.",
+    "(4) Removes vegetation using cultural traditional ecological knowledge for cultural burning or prescribed fire treatments or both of those types of treatments for fuels reduction projects.",
+    "(5) Maintains previously established fuel breaks or fuel modification projects.",
+    "(b) For purposes of paragraphs (2) and (3), subdivision (a) only applies if the vegetation removed for the critical fuels reduction project meets all of the following requirements:",
+    "(1) The vegetation is a nonnative species.",
+    "(2) The vegetation is eight inches or less in diameter.",
+    "(3) The vegetation is a common species.",
+    "(c) Before determining that a project is not subject to this division pursuant to this section, the lead agency shall hold a noticed public meeting on the project to hear and respond to public comments. The lead agency shall provide notice of the public meeting on its internet website at least 30 days before the public meeting.",
+    "(d) If the lead agency determines that a project is not subject to this division pursuant to this section, and the lead agency determines to approve or carry out that project, the lead agency shall file a notice of exemption with the Office of Land Use and Climate Innovation and the county clerk in the county in which the project is located in the manner specified in subdivisions (b) and (c) of Section 21152.",
+    "(e) This section shall remain in effect only until January 1, 2028, and as of that date is repealed."
+   ],
+   "sec": "21080.06",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Wildfire safety: fuels reduction projects.",
+ "title": "An act to add and repeal Section 21080.06 of the Public Resources Code, relating to wildfire safety.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB122799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-11",
+   "id": "20250AB122798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-01",
+   "id": "20250AB122797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-06-19",
+   "id": "20250AB122796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-17",
+   "id": "20250AB122795AMD",
+   "num": "95"
+  }
+ ]
+}

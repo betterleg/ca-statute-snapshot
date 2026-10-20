@@ -1,0 +1,211 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Committee on Budget",
+   "primary": true
+  }
+ ],
+ "bill": "AB145",
+ "bill_id": "202520260AB145",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "(1) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "Existing law exempts from CEQA a rezoning that implements the schedule of actions contained in an approved housing element, as specified.",
+  "This bill would subject a rezoning that would allow for the construction of a bed and breakfast inn, motel, hotel, or other transient lodging to CEQA review even if the rezoning implements a schedule of actions contained in an approved housing element. The bill would specify that other transient lodging does not include a residential hotel, as defined, or a resident’s use or marketing of a unit as short-term lodging, as defined, in a manner that is consistent with local law.",
+  "(2) Existing law, for the approval of a proposed housing development project, as defined, that would otherwise be exempt from CEQA pursuant to a statutory exemption, or specified categorical exemptions adopted before January 1, 2026, but for a single disqualifying condition, as specified, limits the application of CEQA to the effects upon the environment that are caused solely by that single condition. For these projects, existing law requires the initial study or EIR to examine only those effects that the lead agency determines, based upon substantial evidence in the record, are caused solely by the single condition that makes the proposed project ineligible for a statutory or categorical exemption.",
+  "This bill would exempt from that limited application of CEQA a housing development project that has a project site or parcel size that exceeds 4 acres, if the project is a builder’s remedy project, as defined, and the project applicant applied, as specified.",
+  "This bill would subject a project that includes a bed and breakfast inn, hotel, motel, or other transient lodging, as specified, to full CEQA review even if it would be eligible for the limited application of CEQA described above because of a single disqualifying condition. The bill would specify that other transient lodging does not include a residential hotel, as defined, or a resident’s use or marketing of a unit as short-term lodging, as defined, in a manner that is consistent with local law. To the extent that this bill would impose new responsibilities on a lead agency, the bill would impose a state-mandated local program.",
+  "(3) Existing law exempts from CEQA, except when located on natural and protected lands, a project that consists exclusively of a facility for advanced manufacturing, as specified.",
+  "Existing law, the Administrative Procedure Act, sets forth the requirements for the adoption, publication, review, and implementation of regulations by state agencies.",
+  "This bill would repeal the CEQA exemption for a project that consists exclusively of a facility for advanced manufacturing. The bill would instead exempt from CEQA a project that consists exclusively of a facility for manufacturing, producing, or assembling certain products, components, or systems, as provided, if, among other things, the project is not located within 300 feet of a sensitive receptor, as defined, and the project applicant demonstrates high road employment standards, as defined, and certifies to the lead agency that it will maintain those standards in the development, construction, and operation of the facility. Because a lead agency would be required to determine whether a project meets the high road employment standards, the bill would impose a state-mandated local program. The bill would require the State Energy Resources Conservation and Development Commission to develop and make available to lead agencies guidelines for evaluating whether a project applicant demonstrates high road employment standards. The bill would exempt the development of these guidelines from the Administrative Procedure Act.",
+  "(4) This bill would appropriate $10,000 from the General Fund to the Office of Land Use and Climate Innovation for implementation of this act.",
+  "(5) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason.",
+  "(6) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
+ ],
+ "hash": "69e612f8be91cb2c",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-01-08"
+  },
+  {
+   "action": "From printer. May be heard in committee February 8.",
+   "date": "2025-01-09"
+  },
+  {
+   "action": "Referred to Com. on BUDGET.",
+   "date": "2025-02-03"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "(Ayes 53. Noes 17. Page 643.)",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 53. Noes 17. Page 735.)",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Referred to Com. on B. & F. R.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Joint Rule 62(a) suspended. (Ayes 27. Noes 9. Page 1703.)",
+   "date": "2025-06-23"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-06-25"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-06-30"
+  },
+  {
+   "action": "Senate Rule 29.3(b) suspended. (Ayes 30. Noes 9. Page 2839.)",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
+   "date": "2025-09-10"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-09-10",
+  "id": "20250AB14598AMD",
+  "num": "98"
+ },
+ "location": "CS62",
+ "sections": [
+  {
+   "action": "Section 21080.085 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) This division does not apply to a rezoning that implements the schedule of actions contained in an approved housing element pursuant to subdivision (c) of Section 65583 of the Government Code.",
+    "(b) (1) Subdivision (a) does not apply to either of the following:",
+    "(A) A rezoning that would allow for the construction of a bed and breakfast inn, distribution center, hotel, motel, oil and gas infrastructure, or other transient lodging. For purposes of this section, other transient lodging does not include either of the following:",
+    "(i) A residential hotel, as defined in Section 50519 of the Health and Safety Code.",
+    "(ii) After the issuance of a certification of occupancy, the resident’s use or marketing of a unit as a short-term lodging, as defined in Section 17568.8 of the Business and Professions Code, in a manner that is consistent with local law.",
+    "(B) A rezoning that would allow for construction to occur within the boundaries of any natural and protected lands.",
+    "(2) (A) (i) Subdivision (a) applies to a rezoning that contains within its boundaries any natural and protected lands if those natural and protected lands are excluded from the rezoning.",
+    "(ii) For purposes of clause (i), natural and protected lands does not include the lands described in subdivision (p) of Section 21067.5.",
+    "(B) The rezoning of any parcel or portions of a parcel that is excluded from a rezoning under this paragraph shall be a separate project that is subject to this division."
+   ],
+   "sec": "21080.085",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.1 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) The lead agency shall be responsible for determining whether the project is exempt from this division and whether an environmental impact report, a negative declaration, or a mitigated negative declaration shall be required for any project that is subject to this division. That determination shall be final and conclusive on all persons, including responsible agencies, unless challenged as provided in Section 21167.",
+    "(b) (1) If a proposed housing development project would otherwise be exempt from this division pursuant to a statutory exemption, or categorical exemption pursuant to Class 1 to 5, inclusive, 12, 15, 20, 27, 30, or 32 that is adopted before January 1, 2026, but for a single condition detailed in the statutory exemption or in Section 15300.2, 15301, 15302, 15303, 15304, 15305, 15312, 15315, 15320, 15322, 15327, 15330, or 15332 of Title 14 of the California Code of Regulations, as applicable, the application of this division to the approval of the proposed housing development project shall be limited to effects upon the environment that are caused solely by that single condition.",
+    "(2) An initial study or environmental impact report prepared for a housing development project subject to this subdivision is only required to examine those effects that the lead agency determines, based upon substantial evidence in the record, are caused solely by the single condition that makes the proposed housing development project ineligible for the statutory exemption or categorical exemption.",
+    "(3) An environmental impact report for a housing development project subject to this subdivision is not required to include any discussion of alternatives to the housing development project or the growth-inducing impacts of the housing development project.",
+    "(4) This subdivision does not apply to any of the following housing development projects:",
+    "(A) A proposed housing development project that is not similar in kind to the projects listed in the statutory or categorical exemption.",
+    "(B) A proposed housing development project that is ineligible for the statutory exemption or categorical exemption due to two or more conditions.",
+    "(C) A proposed housing development project that includes a distribution center or oil and gas infrastructure.",
+    "(D) (i) A proposed housing development project located on natural and protected lands.",
+    "(ii) For purposes of clause (i), natural and protected lands does not include the lands described in subdivision (o) of Section 21067.5.",
+    "(E) The project site or the parcel size exceeds four acres, and either of the following occurred:",
+    "(i) The project is a builder’s remedy project, as defined in paragraph (11) of subdivision (h) of Section 65589.5 of the Government Code.",
+    "(ii) The project applicant applied pursuant to paragraph (5) of subdivision (d) of Section 65589.5 of the Government Code as it read before January 1, 2025.",
+    "(5) For purposes of this subdivision, the following definitions apply:",
+    "(A) “Condition” means a physical or regulatory feature of the project or its setting or an effect upon the environment caused by the project.",
+    "(B) “Housing development project” has the same meaning as defined in Section 65589.5 of the Government Code, but does not include a project where any portion of the project is designated for use as a bed and breakfast inn, hotel, motel, or other transient lodging. For purposes of this subdivision, other transient lodging does not include either of the following:",
+    "(i) A residential hotel, as defined in Section 50519 of the Health and Safety Code.",
+    "(ii) After the issuance of a certification of occupancy, the resident’s use or marketing of a unit as a short-term lodging, as defined in Section 17568.8 of the Business and Professions Code, in a manner that is consistent with local law.",
+    "(c) In the case of a project described in subdivision (c) of Section 21065, the lead agency shall, upon the request of a potential applicant, provide for consultation before the filing of the application regarding the range of actions, potential alternatives, mitigation measures, and any potential and significant effects on the environment of the project."
+   ],
+   "sec": "21080.1",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.69 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Except as provided in subdivision (b), this division does not apply to any of the following projects:",
+    "(1) A project that consists exclusively of a day care center, as defined in Section 1596.76 of the Health and Safety Code, that is not located in a residential area.",
+    "(2) A project that consists exclusively of a rural health clinic, as defined by Section 1396(d)(l)(1) of Title 42 of the United States Code, or a federally qualified health center, as defined by Section 1396(d)(l)(2) of Title 42 of the United States Code, if the facility is less than 50,000 square feet in total space.",
+    "(3) A project that consists exclusively of a nonprofit food bank or food pantry, defined as a nonprofit organization that is exempt from federal income taxation under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended (26 U.S.C. Sec. 501(c)(3)), that solicits, stores, and distributes sufficient food to their defined service area, if the project is located on a site that is zoned exclusively for industrial uses.",
+    "(b) This section does not apply to a project located on natural and protected lands."
+   ],
+   "sec": "21080.69",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.72 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) (1) Except as provided in subdivision (c), this division does not apply to a project that meets all of the requirements of paragraph (2) and that consists exclusively of a facility for manufacturing, producing, or assembling any of the following:",
+    "(A) Energy storage systems or components, wind systems or components, or solar photovoltaic energy systems or components.",
+    "(B) Specialized products, components, or systems that are integral to renewable energy or energy storage technologies.",
+    "(C) Microelectronics and nanoelectronics, including semiconductors.",
+    "(D) Fabrication equipment required for the manufacturing of semiconductors.",
+    "(E) Zero-emission buses, zero-emission trains, or certified Tier 4 or cleaner rolling stock or locomotives, as provided in Section 1033.101 of Title 40 of the Code of Federal Regulations, or zero-emission rail transportation infrastructure.",
+    "(2) For purposes of paragraph (1), a project shall meet all of the following requirements:",
+    "(A) The project is located on a site zoned exclusively for industrial uses.",
+    "(B) The project is not located within 300 feet of a sensitive receptor, as defined in Section 3280.",
+    "(C) The project applicant includes the certification required for a covered project as specified in Sections 25545.3.3 and 25545.3.5.",
+    "(D) The project applicant demonstrates high road employment standards and certifies to the lead agency that it will maintain those standards in the development, construction, and operation of the facility",
+    "(3) For purposes of this section, “high road employment standards” means employment practices and standards that include, but are not limited to, the following:",
+    "(A) Provision of comparatively good wages and benefits, relative to the industry, occupation, and labor market in which participating workers are employed.",
+    "(B) Payment of workers at or above local or regional living wage standards as well as payment at or above regional prevailing wage standards where those standards exist for the occupations in question.",
+    "(C) Commitment to investing in employee training, growth, and development, including through comprehensive workforce training programs or apprenticeship programs.",
+    "(D) Adoption of mechanisms to include worker voice and agency in the workplace.",
+    "(E) Safe and healthy working conditions.",
+    "(F) Consistent compliance with workplace laws and regulations, including proactive efforts to remedy past problems.",
+    "(b) (1) The State Energy Resources Conservation and Development Commission shall develop and make available to lead agencies guidelines for evaluating whether a project applicant demonstrates high road employment standards as required pursuant to subdivision (a).",
+    "(2) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to the guidelines developed pursuant to this subdivision.",
+    "(c) This section does not apply to a project located on a site that is either of the following:",
+    "(1) Natural and protected lands.",
+    "(2) Habitat for protected species identified as candidate, sensitive, or species of special status by state or federal agencies, fully protected species, or species protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code)."
+   ],
+   "sec": "21080.72",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: exemptions: housing development projects: energy systems and electronics: labor standards.",
+ "title": "An act to amend Sections 21080.085, 21080.1, and 21080.69 of, and to add Section 21080.72 to, the Public Resources Code, relating to environmental quality, and making an appropriation therefor, to take effect immediately, bill related to the budget.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-08",
+   "id": "20250AB14599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-10",
+   "id": "20250AB14598AMD",
+   "num": "98"
+  }
+ ]
+}

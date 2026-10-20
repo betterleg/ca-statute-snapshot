@@ -1,0 +1,283 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Durazo",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "McKinnor",
+   "primary": false
+  }
+ ],
+ "bill": "SB1361",
+ "bill_id": "202520260SB1361",
+ "chapter": {
+  "num": "1027",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law requires a housing development project to be an allowed use as a transit-oriented housing development if certain requirements are met. Existing law provides that these provisions do not apply to a local agency until July 1, 2026, unless the local agency takes specified actions. Existing law defines various terms for these purposes. Existing law prohibits a local government from adopting any requirement that applies to a project solely or partially on the basis that the project is seeking approval as a transit-oriented housing development, as specified.",
+  "This bill would additionally prohibit a local government with an existing or planned transit-oriented development stop from taking specified actions with respect to transit agencies and transit projects."
+ ],
+ "hash": "11edddd4ae11f3e3",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Re-referred to Coms. on HOUSING and L. GOV.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Set for hearing April 29 in L. GOV. pending receipt.",
+   "date": "2026-04-17"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on L. GOV. (Ayes 9. Noes 1. Page 3975.) (April 21).",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 5. Noes 2. Page 4096.) (April 29).",
+   "date": "2026-04-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered to third reading.",
+   "date": "2026-04-30"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 31. Noes 8. Page 4338.) Ordered to the Assembly.",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-20"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 9. Noes 0.) (June 10). Re-referred to Com. on L. GOV.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-06-23"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 8. Noes 1.) (July 1).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-18"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-18"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 45. Noes 12. Page 6702.) Ordered to the Senate.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 30. Noes 10.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 1027, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250SB136192CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65912.157 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A housing development project shall be an allowed use as a transit-oriented housing development on any site zoned for residential, mixed, or commercial development within one-half or one-quarter mile of a transit-oriented development stop, if the development complies with the applicable of all of the following requirements:",
+    "(1) A transit-oriented housing development project allowed under this chapter shall include at least five dwelling units and meet the greater of the following:",
+    "(A) A minimum density of at least 30 dwelling units per acre.",
+    "(B) The minimum density required under local zoning, if applicable.",
+    "(2) The average total area of floor space for the proposed units in the transit-oriented housing development project shall not exceed 1,750 net habitable square feet.",
+    "(3) For a transit-oriented housing development project within one-quarter mile of a Tier 1 transit-oriented development stop, all of the following apply:",
+    "(A) A local government shall not impose any height limit less than 75 feet.",
+    "(B) A local government shall not impose any maximum density of less than 120 dwelling units per acre.",
+    "(C) A local government shall not enforce any other local development standard or combination of standards that would physically preclude achieving a residential floor area ratio of up to 3.5.",
+    "(D) A development that achieves a minimum density of 90 dwelling units per acre and that otherwise meets the eligibility requirements of Section 65915, including, but not limited to, affordability requirements, shall be eligible for additional concessions pursuant to Section 65915, as specified in subdivision (d).",
+    "(4) For a transit-oriented housing development project further than one-quarter mile but within one-half mile of a Tier 1 transit-oriented development stop, and within a city with a population of at least 35,000, all of the following apply:",
+    "(A) A local government shall not impose any height limit less than 65 feet.",
+    "(B) A local government shall not impose any maximum density standard of less than 100 dwelling units per acre.",
+    "(C) A local government shall not enforce any other local development standard or combination of standards that would physically preclude achieving a residential floor area ratio of up to 3.",
+    "(D) A development that achieves a minimum density of 75 dwelling units per acre and that otherwise meets the eligibility requirements of Section 65915, including, but not limited to, affordability requirements, shall be eligible for additional concessions pursuant to Section 65915, as specified in subdivision (d).",
+    "(5) For a transit-oriented housing development project within one-quarter mile of a Tier 2 transit-oriented development stop, all of the following apply:",
+    "(A) A local government shall not impose any height limit less than 65 feet.",
+    "(B) A local government shall not impose any maximum density standard of less than 100 dwelling units per acre.",
+    "(C) A local government shall not enforce any other local development standard or combination of standards that would physically preclude achieving a residential floor area ratio of up to 3.",
+    "(D) A development that achieves a minimum density of 75 dwelling units per acre and that otherwise meets the eligibility requirements of Section 65915, including, but not limited to, affordability requirements, shall be eligible for additional concessions pursuant to Section 65915, as specified in subdivision (d).",
+    "(6) For a transit-oriented housing development project further than one-quarter mile but within one-half mile of a Tier 2 transit-oriented development stop, and within a city with a population of at least 35,000, all of the following apply:",
+    "(A) A local government shall not impose any height limit less than 55 feet.",
+    "(B) A local government shall not impose any maximum density standard of less than 80 dwelling units per acre.",
+    "(C) A local government shall not enforce any other local development standard or combination of standards that would physically preclude achieving a residential floor area ratio of up to 2.5.",
+    "(D) A development that achieves a minimum density of 60 dwelling units per acre and that otherwise meets the eligibility requirements of Section 65915, including, but not limited to, affordability requirements, shall be eligible for additional concession pursuant to Section 65915, as specified in subdivision (d).",
+    "(b) For purposes of this chapter, the distance of a transit-oriented housing development project from a transit-oriented development stop shall be measured in a straight line from the nearest edge of the parcel containing the proposed project to a pedestrian access point for the transit-oriented development stop.",
+    "(c) (1) A local government may still enact and enforce standards, including an inclusionary zoning requirement that do not, alone or in concert, prevent achieving the applicable development standards of subdivision (a). A local government shall not adopt any requirement, including, but not limited to, increased fees or inclusionary zoning requirements, that applies to a project solely or partially on the basis that the project is seeking approval as a transit-oriented housing development, except as necessary for the requirements of this chapter.",
+    "(2) A local government with an existing or planned transit-oriented development stop shall not do any of the following:",
+    "(A) Request the transit agency to reduce service provided to the transit-oriented development stop, remove a transit-oriented development stop, or remove a dedicated transit lane so that the requirements of this chapter do not apply.",
+    "(B) Condition or withhold an approval or review of a transit project that includes a transit-oriented development stop on the basis of the impacts of additional height or density available to a transit-oriented housing development project as required by this chapter.",
+    "(C) Withhold or withdraw support of an application for funding of a transit project that includes a transit-oriented development stop on the basis of additional height or density available to a transit-oriented housing development project as required by this chapter.",
+    "(d) A transit-oriented housing development project under this section shall be eligible for a density bonus, incentives or concessions, waivers or reductions of development standards, and parking ratios pursuant to Section 65915 or a local density bonus program, using the density allowed under this section as the base density. If a development proposes a height under this section in excess of the local height limit, then a local government shall not be required to grant a waiver, incentive, or concession pursuant to Section 65915 for additional height beyond that specified in this section, except as provided in subparagraph (D) of paragraph (2) of subdivision (d) of Section 65915. A development shall be eligible for the following additional concessions, if it meets the applicable density threshold specified for its location:",
+    "(1) For a development providing housing for extremely low income households, three additional concessions.",
+    "(2) For a development providing housing for very low income households, two additional concessions.",
+    "(3) For a development providing housing for low-income households, one additional concession.",
+    "(e) Notwithstanding any other law, a transit-oriented housing development project that meets any of the eligibility criteria under subdivision (a) and is immediately adjacent to a transit-oriented development stop shall be eligible for an adjacency intensifier to increase the height limit by an additional 20 feet, the maximum density standard by an additional 40 dwelling units per acre, and the residential floor area ratio by 1 prior to the application of Section 65915.",
+    "(f) A development proposed pursuant to this section shall comply with Section 66300.6, including any local requirements or processes implementing the provisions of Section 66300.6. This subdivision shall apply to any city or county.",
+    "(g) A development proposed pursuant to this section shall comply with any applicable local demolition and antidisplacement standards established through a local ordinance.",
+    "(h) A development proposed pursuant to this section shall not be located on any of the following:",
+    "(1) A site containing more than two units where the development would require the demolition of housing that is subject to any form of rent or price control through a public entity’s valid exercise of its police power that has been occupied by tenants within the past seven years.",
+    "(2) A site that was previously used for more than two units of housing that were demolished within seven years before the development proponent submits an application under this section and any of the units were subject to any form of rent or price control through a public entity’s valid exercise of its police power.",
+    "(3) The existing parcel of land or site is governed under the Mobilehome Residency Law (Chapter 2.5 (commencing with Section 798) of Title 2 of Part 2 of Division 2 of the Civil Code), the Recreational Vehicle Park Occupancy Law (Chapter 2.6 (commencing with Section 799.20) of Title 2 of Part 2 of Division 2 of the Civil Code), the Mobilehome Parks Act (Part 2.1 (commencing with Section 18200) of Division 13 of the Health and Safety Code), or the Special Occupancy Parks Act (Part 2.3 (commencing with Section 18860) of Division 13 of the Health and Safety Code).",
+    "(i) A development proposed pursuant to this section shall include housing for lower income households by complying with one of the following requirements:",
+    "(1) (A) Any of the following:",
+    "(i) At least 7 percent of the total units, as defined in subparagraph (A) of paragraph (9) of subdivision (o) of Section 65915, are dedicated to extremely low income households, as defined in Section 50106 of the Health and Safety Code.",
+    "(ii) At least 10 percent of the total units, as defined in subparagraph (A) of paragraph (9) of subdivision (o) of Section 65915, are dedicated to very low income households, as defined in Section 50105 of the Health and Safety Code.",
+    "(iii) At least 13 percent of the total units, as defined in subparagraph (A) of paragraph (9) of subdivision (o) of Section 65915, are dedicated to lower income households, as defined in Section 50079.5 of the Health and Safety Code.",
+    "(B) This paragraph shall not apply to any development of 10 units or less.",
+    "(C) All units dedicated to extremely low income, very low income, and low-income households pursuant to subparagraph (A) shall meet both of the following:",
+    "(i) The units shall have an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code, or an affordable rent, as defined in Section 50053 of the Health and Safety Code.",
+    "(ii) The development proponent shall agree to, and the local agency shall ensure, the continued affordability of all affordable rental units included pursuant to this section for 55 years and all affordable ownership units included pursuant to this section for a period of 45 years.",
+    "(2) If a local inclusionary housing requirement mandates a higher percentage of affordable units or a deeper level of affordability than that described in paragraph (1), then the local inclusionary housing requirement mandate shall apply in place of the requirements in paragraph (1).",
+    "(j) A development proposed pursuant to this chapter shall be consistent with the height, noise, and safety standards of an adopted airport land use compatibility plan or Department of Defense Air Installations Compatible Use Zones developed pursuant to Section 21675 of the Public Utilities Code, and of otherwise applicable objective fire safety standards established pursuant to the California Building Code, the California Fire Code, the California Wildland-Urban Interface Code, the Health and Safety Code, the Public Resources Code, or Chapter 6.8 (commencing with Section 51175) of Part 1 of Division 1 of Title 5 of this code.",
+    "(k) Any transit-oriented housing development pursuant to this section shall meet the labor standards of subparagraphs (A), (B), (C), (D), (F), and (G) of paragraph (8) of subdivision (a) of Section 65913.4 for any building over 85 feet in height, which shall be applicable to the building.",
+    "(l) For purposes of subdivision (j) of Section 65589.5, a proposed housing development project that is consistent with the applicable standards from this chapter, as well as applicable local objective general plan and zoning standards that do not alone or in concert prevent achieving those standards, and as modified by any incentive, concession, or waiver under Section 65915, shall be deemed consistent, compliant, and in conformity with an applicable plan, program, policy, ordinance, standard, requirement, or other similar provision. This subdivision shall not require a ministerial approval process or modify the requirements of Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(m) Beginning on January 1, 2027, a local government that denies a housing development project meeting the requirements of this section that is located in a high-resource area shall be presumed to be in violation of the Housing Accountability Act (Section 65589.5) and immediately liable for penalties pursuant to subparagraph (B) of paragraph (1) of subdivision (k) of Section 65589.5, unless the local government demonstrates, pursuant to the standards in subdivisions (j) and (o) of Section 65589.5, that it has a health, life, or safety reason for denying the project.",
+    "(n) This section shall not apply to a local agency until July 1, 2026, unless the local agency adopts an ordinance or local transit-oriented development alternative plan deemed compliant by the department before July 1, 2026. It shall not apply within an unincorporated area of a county until the 7th regional housing needs allocation cycle."
+   ],
+   "sec": "65912.157",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Transit-oriented housing developments: local governments: transit agencies and projects.",
+ "title": "An act to amend Section 65912.157 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB136199INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB136198AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-23",
+   "id": "20250SB136197AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-30",
+   "id": "20250SB136196AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-23",
+   "id": "20250SB136195AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-18",
+   "id": "20250SB136194AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-02",
+   "id": "20250SB136193ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250SB136192CHP",
+   "num": "92"
+  }
+ ]
+}

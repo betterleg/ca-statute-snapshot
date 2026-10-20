@@ -1,0 +1,70 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Johnson",
+   "primary": true
+  }
+ ],
+ "bill": "AB2295",
+ "bill_id": "202520260AB2295",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law requires the Department of Housing and Community Development, in consultation with each council of governments, to determine each region’s existing and projected housing need, as provided. Existing law requires each council of governments, or delegate subregion as applicable, to develop and adopt a methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, as provided. Existing law also requires each council of governments and delegate subregion, as applicable, to adopt a final allocation of regional housing needs to each local government in the region or subregion, where applicable, and the department, based on that adopted methodology. Existing law requires that the housing element of a county’s or city’s general plan include, among other things, a quantification of the locality’s existing and projected housing needs for all income levels, which must include the locality’s share of the regional housing need, as provided. Existing law authorizes a local government within the same county as a federally recognized Native American tribe to enter into a voluntary agreement with a tribe to allow new tribal housing development projects to count toward the locality’s share of the regional housing needs allocation if certain conditions are met.",
+  "This bill would authorize a local government, as defined, to enter into a voluntary agreement with another local government to allow new housing development projects to count toward each locality’s share of the regional housing needs allocation if certain conditions are met, including that the project includes affordable housing units for very low and lower income households."
+ ],
+ "hash": "1af269b8a48c09a3",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-03-09"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2026-02-19",
+  "id": "20250AB229599INT",
+  "num": "99"
+ },
+ "location": "CX10",
+ "sections": [
+  {
+   "action": "Section 65584.2.3 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A local government may enter into a voluntary agreement with another local government to allow new housing development projects to count toward each locality’s share of the regional housing needs allocation if both of the following conditions are met:",
+    "(1) The housing development project is jointly funded by the local governments that are parties to the agreement, with at least sixty thousand dollars ($60,000) per unit in funds awarded by the local governments in total.",
+    "(2) The housing development project includes affordable housing units for very low and lower income households, as described in Sections 50052.5 and 50053 of the Health and Safety Code.",
+    "(b) For purposes of this section, “local government” means a city, including a charter city, a county, including a charter county, or a city and county, including a charter city and county."
+   ],
+   "sec": "65584.2.3",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Regional housing need: affordable housing.",
+ "title": "An act to add Section 65584.2.3 to the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250AB229599INT",
+   "num": "99"
+  }
+ ]
+}

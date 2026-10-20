@@ -1,0 +1,285 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Mark González",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Durazo",
+   "primary": false
+  }
+ ],
+ "bill": "AB817",
+ "bill_id": "202520260AB817",
+ "chapter": {
+  "num": "493",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Permit Streamlining Act, establishes requirements for the review and approval of applications for development projects, as defined, by public agencies, including requiring that a public agency that is the lead agency for the development project approve or disapprove the project within certain time periods, as specified.",
+  "This bill would prohibit a city, county, or city and county from approving a building permit for cold storage facilities, as defined, unless the owner of the cold storage facility, or the lessee or operator of the cold storage facility, as specified, establishes a contingency fund, as defined, to be used upon declared national, state, or local emergencies in certain circumstances. Until July 1, 2028, the bill would limit the definition of cold storage facilities for purposes of these provisions to facilities located within the geographic boundaries of the Boyle Heights Community Plan. The bill would require an owner of a cold storage facility to provide evidence of the contingency fund at the discretion of the city, county, or city and county, as specified, and authorize an owner to require the lessee or operator of the cold storage facility to establish and maintain the contingency fund. The bill would require a cold storage facility to use the contingency fund for, among other things, providing support during the declared state of emergency or local emergency for affected communities, as specified. By imposing additional requirements on cities and counties, the bill would impose a state-mandated local program.",
+  "The Personal Income Tax Law and the Corporation Tax Law, in modified conformity with federal income tax law, generally define “gross income” for purposes of the taxes imposed by those laws as income from whatever source derived, except as specifically excluded, and provide various exclusions from gross income.",
+  "This bill would, for taxable years beginning on or after January 1, 2027, and before January 1, 2032, exclude from gross income any amount received by a qualified taxpayer, as defined, in settlement for claims relating to the 2026 Boyle Heights fire incident, as defined.",
+  "Existing law requires that any bill introduced on or after January 1, 2020, that would authorize certain tax expenditures, as defined, contain, among other things, specific goals that the tax expenditure or exemption will achieve, detailed performance indicators, and data collection requirements.",
+  "This bill would include additional information required for any bill authorizing a new tax expenditure.",
+  "The bill would include findings that specified changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "This bill would make legislative findings and declarations as to the necessity of a special statute for the Boyle Heights community.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "2b61314dadb63206",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Com. on G.O.",
+   "date": "2025-03-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 21. Noes 0.) (April 2). Re-referred to Com. on APPR.",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "From committee: Do pass. To Consent Calendar. (Ayes 14. Noes 0.) (April 30).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 69. Noes 0. Page 1486.)",
+   "date": "2025-05-08"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-08"
+  },
+  {
+   "action": "Referred to Com. on G.O.",
+   "date": "2025-05-21"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on G.O.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-06-12"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2026-06-12"
+  },
+  {
+   "action": "Re-referred to Com. on PUB. S.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on PUB. S.",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Re-referred to Coms. on L. GOV. and REV. & TAX.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Joint Rules 61 and 62(a) suspended.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on REV. & TAX. (Ayes 4. Noes 2.) (August 24). Re-referred to Com. on REV. & TAX.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 3. Noes 1.) (August 25). Re-referred to Com. on APPR.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 4. Noes 2.) (August 27).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 9.).",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Page 7062.)",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 55. Noes 19. Page 7062.).",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 1:30 p.m.",
+   "date": "2026-09-14"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-27"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 493, Statutes of 2026.",
+   "date": "2026-09-27"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-27",
+  "id": "20250AB81794CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65850.22 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section, both of the following definitions apply:",
+    "(1) “Cold storage facility” means a place that meets all of the following conditions:",
+    "(A) The facility is not less than 20,000 square feet and not less than 20,000 square feet of floor space is artificially refrigerated to a temperature of 45 degrees Fahrenheit or below.",
+    "(B) The facility participates in the accidental release prevention program, as described in Section 25533 of the Health and Safety Code, at Program Level 1, 2, or 3.",
+    "(C) The facility is located within the geographic boundaries of the Boyle Heights Community Plan, as effective August 20, 2026.",
+    "(2) “Contingency fund” includes any of the following that does not exceed a total value of twenty million dollars ($20,000,000):",
+    "(A) A dedicated account managed by a city, county, or city and county to be used for the purposes described in subdivision (d) under the conditions described in subdivision (c). A city, county, or city and county may impose a fee or charge on the development or operation of a cold storage facility to place into the account.",
+    "(B) A dedicated account managed by the owner of the cold storage facility to include an amount required by the city, county, or city and county for the purposes described in subdivision (d) under the conditions described in subdivision (c).",
+    "(C) A surety bond.",
+    "(D) An insurance policy that provides coverage for the uses described in subdivision (d) under the conditions described in subdivision (c).",
+    "(b) (1) A city, county, or city and county shall not approve a building permit for a cold storage facility unless the owner of the cold storage facility, or the lessee or operator of the cold storage facility pursuant to paragraph (3), establishes and maintains a contingency fund for the purposes described in subdivision (d).",
+    "(2) An owner of a cold storage facility shall provide evidence of the contingency fund at the discretion of the city, county, or city and county to substantiate the existence or maintenance of the contingency fund.",
+    "(3) An owner of the cold storage facility may require the lessee or operator of the cold storage facility to establish and maintain the contingency fund.",
+    "(c) The contingency fund shall only be used if both of the following conditions exist:",
+    "(1) The President of the United States or the Governor declares a state of emergency, or a local official, board, or other governing body vested with authority to proclaim a local emergency in a city, county, or city and county declares a local emergency, directing an agency to protect the health, safety, and welfare of residents or property.",
+    "(2) Either of the following occurs:",
+    "(A) The department or the local jurisdiction publishes a formal notification of a health advisory or health alert and, as supported by evidence in the health advisory or health alert, either the cold storage facility is the subject of the health advisory or health alert or the cold storage facility has caused the conditions that created the health advisory or health alert.",
+    "(B) The department or the local jurisdiction issues the owner of, and, if applicable, the operator or lessee of, the cold storage facility an official inspection report that includes a violation or citation that was unresolved or outstanding and caused the conditions for the state of emergency or local emergency described in paragraph (1) or a health advisory or health alert.",
+    "(d) Upon the conditions in subdivision (c) being satisfied, the contingency fund shall be used to provide support during the declared state of emergency or local emergency for affected communities. The uses shall include all of the following:",
+    "(1) Food assistance.",
+    "(2) Housing assistance, rental assistance, and housing relocation assistance.",
+    "(3) Air quality monitoring by the relevant local air pollution control district or air quality management district.",
+    "(4) Vector control.",
+    "(5) Health care to address adverse health outcomes related to the state of emergency, local emergency, health advisory, or health alert described in subdivision (c).",
+    "(e) This section shall remain in effect only until July 1, 2028, and as of that date is repealed."
+   ],
+   "sec": "65850.22",
+   "verb": "added"
+  },
+  {
+   "action": "Section 65850.22 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section, both of the following definitions apply:",
+    "(1) “Cold storage facility” means a place that meets both of the following conditions:",
+    "(A) The facility is not less than 20,000 square feet and not less than 20,000 square feet of floor space is artificially refrigerated to a temperature of 45 degrees Fahrenheit or below.",
+    "(B) The facility participates in the accidental release prevention program, as described in Section 25533 of the Health and Safety Code, at Program Level 1, 2, or 3.",
+    "(2) “Contingency fund” includes any of the following that does not exceed a total value of twenty million dollars ($20,000,000):",
+    "(A) A dedicated account managed by a city, county, or city and county to be used for the purposes described in subdivision (d) under the conditions described in subdivision (c). A city, county, or city and county may impose a fee or charge on the development or operation of a cold storage facility to place into the account.",
+    "(B) A dedicated account managed by the owner of the cold storage facility to include an amount required by the city, county, or city and county for the purposes described in subdivision (d) under the conditions described in subdivision (c).",
+    "(C) A surety bond.",
+    "(D) An insurance policy that provides coverage for the uses described in subdivision (d) under the conditions described in subdivision (c).",
+    "(b) (1) A city, county, or city and county shall not approve a building permit for a cold storage facility unless the owner of the cold storage facility, or the lessee or operator of the cold storage facility pursuant to paragraph (3), establishes and maintains a contingency fund for the purposes described in subdivision (d).",
+    "(2) An owner of a cold storage facility shall provide evidence of the contingency fund at the discretion of the city, county, or city and county to substantiate the existence or maintenance of the contingency fund.",
+    "(3) An owner of the cold storage facility may require the lessee or operator of the cold storage facility to establish and maintain the contingency fund.",
+    "(c) The contingency fund shall only be used if both of the following conditions exist:",
+    "(1) The President of the United States or the Governor declares a state of emergency, or a local official, board, or other governing body vested with authority to proclaim a local emergency in a city, county, or city and county declares a local emergency, directing an agency to protect the health, safety, and welfare of residents or property.",
+    "(2) Either of the following occurs:",
+    "(A) The department or the local jurisdiction publishes a formal notification of a health advisory or health alert and, as supported by evidence in the health advisory or health alert, either the cold storage facility is the subject of the health advisory or health alert or the cold storage facility has caused the conditions that created the health advisory or health alert.",
+    "(B) The department or the local jurisdiction issues the owner of, and, if applicable, the operator or lessee of, the cold storage facility an official inspection report that includes a violation or citation that was unresolved or outstanding and caused the conditions for the state of emergency or local emergency described in paragraph (1) or a health advisory or health alert.",
+    "(d) Upon the conditions in subdivision (c) being satisfied, the contingency fund shall be used to provide support during the declared state of emergency or local emergency for affected communities. The uses shall include all of the following:",
+    "(1) Food assistance.",
+    "(2) Housing assistance, rental assistance, and housing relocation assistance.",
+    "(3) Air quality monitoring by the relevant local air pollution control district or air quality management district.",
+    "(4) Vector control.",
+    "(5) Health care to address adverse health outcomes related to the state of emergency, local emergency, health advisory, or health alert described in subdivision (c).",
+    "(e) This section shall become operative on July 1, 2028."
+   ],
+   "sec": "65850.22",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Cold storage facilities.",
+ "title": "An act to add, repeal, and add Section 65850.22 of the Government Code, and to add and repeal Sections 17138.10 and 24309.10 of the Revenue and Taxation Code, relating to cold storage facilities.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB81799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-11",
+   "id": "20250AB81798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-19",
+   "id": "20250AB81797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-27",
+   "id": "20250AB81796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-04",
+   "id": "20250AB81795ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-27",
+   "id": "20250AB81794CHP",
+   "num": "94"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lee",
+   "primary": false
+  }
+ ],
+ "bill": "SB79",
+ "bill_id": "202520260SB79",
+ "chapter": {
+  "num": "512",
+  "year": "2025"
+ },
+ "digest": [
+  "(1) Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that contains certain mandatory elements, including a housing element. Existing law requires that the housing element consist of an identification and analysis of existing and projected housing needs and a statement of goals, policies, quantified objectives, financial resources, and scheduled programs for the preservation, improvement, and development of housing, as specified. Existing law requires that the housing element include, among other things, an assessment of housing needs and an inventory of resources and constraints that are relevant to the meeting of these needs, including an inventory of land suitable for residential development, as provided. Existing law, for the 4th and subsequent revisions of the housing element, requires the Department of Housing and Community Development to determine the existing and projected need for housing for each region, as specified, and requires the appropriate council of local governments, or the department for cities and counties without a council of governments, to adopt a final regional housing need plan that allocates a share of the regional housing need to each locality in the region. Existing law requires the inventory of land to be used to identify sites throughout the community that can be developed for housing within the planning period and that are sufficient to provide for the jurisdiction’s share of the regional housing need. Existing law requires each local government to revise its housing element in accordance with a specified schedule.",
+  "Existing law, the Housing Accountability Act, among other things, requires a local agency that proposes to disapprove a housing development project, as defined, or to impose a condition that the project be developed at a lower density to base its decision on written findings supported by a preponderance of the evidence that specified conditions exist if that project complies with applicable, objective general plan, zoning, and subdivision standards and criteria in effect at the time that the application was deemed complete. The act authorizes the applicant, a person who would be eligible to apply for residency in the housing development project or emergency shelter, or a housing organization to bring an action to enforce the act’s provisions, as provided, and provides for penalties if the court finds that the local agency is in violation of specified provisions of the act.",
+  "This bill would require that a housing development project, as defined, within a specified distance of a transit-oriented development (TOD) stop, as defined, be an allowed use as a transit-oriented housing development on any site zoned for residential, mixed, or commercial development, if the development complies with applicable requirements, as specified. Among these requirements, the bill would require a project to include at least 5 dwelling units and establish requirements concerning height limits, density, and residential floor area ratio in accordance with a development’s proximity to specified tiers of TOD stops, as provided. The bill would require that, for the purposes of the Housing Accountability Act, a proposed development consistent with the applicable standards of these provisions as well as applicable local objective general plan and zoning standards be deemed consistent, compliant, and in conformity with prescribed requirements, as specified. The bill would provide that a local government that denies a project meeting the requirements of these provisions located in a high-resource area, as defined, would be presumed in violation of the Housing Accountability Act, as specified, and immediately liable for penalties, beginning on January 1, 2027, as provided. These provisions would not apply to a local agency until July 1, 2026, except as specified, or within unincorporated areas of counties until the 7th regional housing needs allocation cycle. The bill would specify that a development proposed pursuant to these provisions is eligible for streamlined, ministerial approval pursuant to specified law, except that the bill would exempt a project under these provisions from specified requirements, and would specify that the project is required to comply with certain affordability requirements, under that law.",
+  "This bill would require a proposed development to comply with specified demolition and antidisplacement standards; to not be located on sites where the development would require demolition of housing, or that was previously used for housing, that is subject to rent or price controls; to include housing for lower income households, as specified; be consistent with specified height, noise, safety, and fire standards; and meet specified labor standards, as provided. The bill would also authorize a transit agency’s board of directors to adopt agency TOD zoning standards for district-owned real property located in a TOD zone, which establish minimum zoning requirements for an agency TOD project, as specified.",
+  "Prior to one year following the adoption of the 7th revision of the housing element, this bill would not apply the provisions relating to a housing development project to specified sites for which a local government has adopted an ordinance indicating the site’s exclusion, as specified, including a site that is covered by a local TOD alternative plan, as defined, adopted by a local government. For the 7th and subsequent revisions of the housing element, the bill would authorize a local government to include a local TOD alternative plan in its housing element or adopt an alternative plan by ordinance, as specified. The bill would exempt a jurisdiction that has adopted a compliant local TOD alternative plan from the provisions relating to a housing development, as specified.",
+  "This bill would require the Department of Housing and Community Development to oversee compliance with the bill’s provisions and would require the department to promulgate standards on how to allow for capacity pursuant to these provisions to be counted in the inventory of land included within a county’s or city’s housing element, as specified. The bill would authorize each metropolitan planning organization to create a map of designated TOD stops and zones within its region by tier in accordance with these standards, which would have a rebuttable presumption of validity. The bill would authorize a local government to enact an ordinance to make its zoning code consistent with these provisions, as provided. The bill would require the local government to submit a draft of this ordinance to the department for review, at least 14 days prior to adoption of the ordinance. The bill would require the local government to submit a copy of this ordinance to the department within 60 days of enactment and would require the department to review the ordinance for compliance, as specified. If at any time the department finds an ordinance is out of compliance, and the local government does not take specified steps to address compliance, the bill would require the department to notify the local government in writing and authorize the department to notify the Attorney General, as provided.",
+  "This bill would define various terms for its purposes and make related findings and declarations.",
+  "This bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "By increasing the duties of local officials, and by expanding the crime of perjury by requiring the certification of certain information related to labor standards, this bill would impose a state-mandated local program.",
+  "(2) This bill would provide that its provisions are severable.",
+  "(3) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "hash": "9696be461f3e1da8",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-01-15"
+  },
+  {
+   "action": "From printer. May be acted upon on or after February 15.",
+   "date": "2025-01-16"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-01-29"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "Re-referred to Coms. on HOUSING and L. GOV.",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Set for hearing April 30 in L. GOV. pending receipt.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 6. Noes 2. Page 831.) (April 22). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 4. Noes 3. Page 967.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Set for hearing May 12.",
+   "date": "2025-05-02"
+  },
+  {
+   "action": "May 12 set for first hearing canceled at the request of author.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Set for hearing May 19.",
+   "date": "2025-05-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-13"
+  },
+  {
+   "action": "May 19 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 4. Noes 2. Page 1191.) (May 23).",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read second time and amended. Ordered to third reading.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-06-02"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 21. Noes 13. Page 1474.) Ordered to the Assembly.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D., L. GOV., and NAT. RES.",
+   "date": "2025-06-16"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "date": "2025-06-16"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "date": "2025-06-23"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on L. GOV. (Ayes 9. Noes 2.) (July 2).",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-07-08"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "(Ayes 49. Noes 15. Page 2578.)",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 6. Noes 1.) (July 16).",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 8. Noes 6.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Assembly Rule 69(b)(1) suspended.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 43. Noes 19. Page 3318.) Ordered to the Senate.",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 21. Noes 8. Page 2967.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-23"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 512, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB7984CHP",
+  "num": "84"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Chapter 4.1.5 (commencing with Section 65912.155) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "The Legislature finds and declares all of the following:",
+    "(a) California faces a housing shortage both acute and chronic, particularly in areas with access to robust public transit infrastructure.",
+    "(b) Creating ownership opportunities can be an effective long-term strategy for building wealth and can create a path to financial security.",
+    "(c) Building more homes near transit access reduces housing and transportation costs for California families, and promotes environmental sustainability, economic growth, and reduced traffic congestion.",
+    "(d) Public transit systems require sustainable funding to provide reliable service, especially in areas experiencing increased density and ridership. The state does not invest in public transit service to the same degree as it does in roads, and the state funds a smaller proportion of the state’s major transit agencies’ operations costs than other states with comparable systems. Transit systems in other countries derive significant revenue from transit-oriented development at and near their stations."
+   ],
+   "sec": "65912.155",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing development: transit-oriented development.",
+ "title": "An act to add Chapter 4.1.5 (commencing with Section 65912.155) to Division 1 of Title 7 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-15",
+   "id": "20250SB7999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-05",
+   "id": "20250SB7998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-09",
+   "id": "20250SB7997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-23",
+   "id": "20250SB7996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-13",
+   "id": "20250SB7995AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-28",
+   "id": "20250SB7994AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-29",
+   "id": "20250SB7993AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-16",
+   "id": "20250SB7992AMD",
+   "num": "92"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-23",
+   "id": "20250SB7991AMD",
+   "num": "91"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-07",
+   "id": "20250SB7990AMD",
+   "num": "90"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-08",
+   "id": "20250SB7989AMD",
+   "num": "89"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-17",
+   "id": "20250SB7988AMD",
+   "num": "88"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-02",
+   "id": "20250SB7987AMD",
+   "num": "87"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-05",
+   "id": "20250SB7986AMD",
+   "num": "86"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-17",
+   "id": "20250SB7985ENR",
+   "num": "85"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB7984CHP",
+   "num": "84"
+  }
+ ]
+}

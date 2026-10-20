@@ -1,0 +1,157 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Rubio",
+   "primary": true
+  }
+ ],
+ "bill": "SB1358",
+ "bill_id": "202520260SB1358",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law establishes the Office of Community Partnerships and Strategic Communications and requires the office to assist in marketing, advertising, and outreach to priority populations, as defined. Existing law requires state agencies that expend funds on marketing, advertising, or outreach to develop a plan for increasing expenditures directed to ethnic media outlets and community media outlets, as those terms are defined. Existing law also requires state agencies to annually report their progress in implementing those plans. Existing law repeals these requirements on January 1, 2029.",
+  "This bill would delete the January 1, 2029, repeal date, thereby extending operation of these requirements indefinitely. The bill would additionally require the office to establish and maintain a database of the above-described outlets and would authorize the office to hold trainings for state employees responsible for purchasing advertising, as specified.",
+  "Former law, Chapter 341 of the Statutes of 2020, until July 1, 2023, among other things, required the Department of General Services to publish an annual report on or before July 1 of each year relating to payments for placement of marketing or outreach advertising material by each state agency.",
+  "This bill would reenact and recast this report requirement to instead require the office to publish an annual report relating to those payments, which the bill would require to include disaggregated information for priority populations and ethnic and community media outlets, as specified. The bill would additionally require state agencies to direct at least 40% of their annual advertising spending to ethnic and community media outlets and to require vendors selected for marketing or advertising services that require outreach to priority populations to prioritize outlets included in the above-described database. The bill would authorize state agencies to award a contract for advertising or marketing services with an estimated value greater than $5,000 and less than $350,000 to an ethnic or community media outlet, as specified."
+ ],
+ "hash": "2442666e8b0da458",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "Re-referred to Com. on G.O.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 14.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 15. Noes 0. Page 3866.) (April 14). Re-referred to Com. on APPR.",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "Set for hearing April 27.",
+   "date": "2026-04-17"
+  },
+  {
+   "action": "April 27 hearing: Placed on APPR. suspense file.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-08"
+  },
+  {
+   "action": "May 14 hearing: Held in committee and under submission.",
+   "date": "2026-05-14"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-04-06",
+  "id": "20250SB135897AMD",
+  "num": "97"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 65054 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For the purposes of this article, the following definitions apply:",
+    "(a) (1) “Ethnic media” means any organization that produces news or culturally relevant media that serves ethnic, racial, or cultural communities residing in California, including priority populations, racial and linguistic minorities, immigrant communities, indigenous groups, and other historically underserved and underrepresented groups.",
+    "(2) For purposes of paragraph (1), “priority populations” for purposes of this article, mean members of underserved, disadvantaged, and hard-to-reach communities, including, but not limited to, people who are any of the following:",
+    "(A) Asian American.",
+    "(B) Black or African American.",
+    "(C) Immigrants or refugees.",
+    "(D) Native American or members of Tribal communities.",
+    "(E) Latinx.",
+    "(F) LGBTQ+.",
+    "(G) Limited English proficiency (LEP).",
+    "(H) Middle Eastern or North African.",
+    "(I) Native Hawaiian or Pacific Islander.",
+    "(J) People with disabilities.",
+    "(K) Religious minorities.",
+    "(L) Low-income communities.",
+    "(b) “Ethnic media outlet” means an entity that provides a substantial amount of ethnic media content through broadcast, print, or digital means, including television, radio, or online outlets on a daily, weekly, or other regular interval, and that has continuously produced that content for at least one year.",
+    "(c) “Community media outlet” means a nonprofit organization, small business, or microbusiness, as defined in paragraphs (1) and (2) of subdivision (d) of Section 14837, in which at least one-half of the content is originally produced community news and cultural content of specific interest to a community, city, neighborhood, or region in the state through broadcast, print, or digital means, including television, radio, or online outlets on a daily, weekly, or other regular interval, and that has continuously produced that content for at least one year.",
+    "(d) “Office” means the Office of Community Partnerships and Strategic Communications.",
+    "(e) “State agency” means each entity identified in Section 11000, and includes the California State University."
+   ],
+   "sec": "65054",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65054.3 of the Government Code is repealed.",
+   "code": "GOV",
+   "paras": [],
+   "sec": "65054.3",
+   "verb": "repealed"
+  },
+  {
+   "action": "Section 65054.3 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The office shall establish and maintain a database of ethnic and community media outlets. The office shall publish guidelines setting forth a process for outlets to apply to be listed and certified within this database pursuant to the criteria set forth in Section 65054.",
+    "(b) In support of database development, the office may engage nonprofit news outlets and organizations to assist in strengthening the sector and ensuring diverse and wide representation across the state.",
+    "(c) The office may hold one or more annual trainings for public information and communications officers and other state employees responsible for purchasing advertising to ensure a common understanding of the diverse media ecosystem and best practices for equitable outreach."
+   ],
+   "sec": "65054.3",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "News outlets: state expenditures on ethnic and community media outlets.",
+ "title": "An act to amend Section 65054 of, and to repeal and add Section 65054.3 of, the Government Code, and to add Chapter 2.6 (commencing with Section 11100) to Part 2 of Division 2 of the Public Contract Code, relating to news outlets.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB135899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB135898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-06",
+   "id": "20250SB135897AMD",
+   "num": "97"
+  }
+ ]
+}

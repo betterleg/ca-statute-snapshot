@@ -1,0 +1,365 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "primary": false
+  }
+ ],
+ "bill": "SB677",
+ "bill_id": "202520260SB677",
+ "chapter": {
+  "num": "974",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Joint Exercise of Powers Act, authorizes 2 or more public agencies, by agreement, to form a joint powers authority to exercise any power common to the contracting parties, as specified. Existing law, for the purposes of that act, defines the term “public agency” to include various federal, state, local, and tribal entities. Existing law requires approval by the Department of General Services of certain joint powers agreements that include the state as a member, as provided. Existing law authorizes a joint powers authority to issue revenue bonds to pay the costs and expenses of acquiring, constructing, or conducting a program for, among other things, low-income housing projects owned or operated by a city, county, city and county, or housing authority.",
+  "Existing law provides that the Treasurer and the Secretary of State are designated as elected representatives for federal tax purposes of a joint powers agency created to approve or certify the issuance of bonds, notes, or other evidence of indebtedness issued by or on behalf of the joint powers agency to the extent approval is required by federal tax law.",
+  "This bill would provide that the geographic jurisdiction of a joint powers authority is the area encompassed by the combined geographical boundaries of all of its member public agencies. The bill would declare that these provisions are declaratory of existing law.",
+  "This bill would additionally authorize the Treasurer to execute an agreement including the state as a member of a joint powers authority without obtaining approval from the Department of General Services only for the Treasurer to provide specified approvals for bonds issued by the joint powers authority to finance specified residential rental projects for which a city, county, or city and county that is a member of the joint powers authority has failed to provide specified approval required by federal tax law, as defined and provided. The bill would provide that its provisions do not expand, limit, or otherwise affect the authority of, among others, the state, or any officer or agency of the state, to enter into a joint exercise of powers agreement or cause the state to become a member of a joint powers authority, as specified.",
+  "Existing law additionally authorizes, subject to specified limitations, any city or county to issue revenue bonds for the purpose of financing the acquisition, construction, rehabilitation, refinancing, or development of multifamily rental housing and for the provision of capital improvements in connection with, and determined necessary to, that multifamily rental housing.",
+  "This bill would specify that, for the purposes of the above-described provisions, “city” or “county” is deemed to include the state when the state is a member of a joint powers authority pursuant to the bill’s provisions only to provide the state with the power to issue bonds and provide approval, consent, or other action required to finance specified residential rental projects, as provided.",
+  "Existing law provides that the State of California will not change the composition of a joint powers authority that has issued bonds, unless the change is authorized by a majority vote of applicable legislative bodies, as provided. Existing law defines “change in composition” to include, among others, the addition of a public agency, as defined, to a joint powers authority.",
+  "This bill would, notwithstanding the above-described definition, provide that the state becoming a member of an existing joint powers authority shall not, in and of itself, constitute a “change in composition.”",
+  "The bill would make additional nonsubstantive and conforming changes.",
+  "Existing law, the Subdivision Map Act, provides for the approval of tentative and final parcel maps by various local officials, as specified. The act authorizes an appeal of the local official’s decision to the local legislative body, as provided.",
+  "This bill would create an exception from the above-described authority as it applies to appeals by an interested person for maps that meet specified criteria, as provided. The bill would exempt from these provisions an appeal filed by an applicant, subdivider, tenant, advisory agency, or public agency or official, as specified.",
+  "This bill would make the provisions of the act severable."
+ ],
+ "hash": "3886e5325215e3f5",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and L. GOV.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-04-01"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Set for hearing April 30 in L. GOV. pending receipt.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "April 22 set for first hearing. Failed passage in committee. (Ayes 4. Noes 3. Page 832.) Reconsideration granted.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Set for hearing January 6.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Set for hearing January 14 in L. GOV. pending receipt.",
+   "date": "2026-01-07"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on L. GOV. (Ayes 10. Noes 1. Page 3184.) (January 6).",
+   "date": "2026-01-07"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-01-08"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 2. Page 3224.) (January 14). Re-referred to Com. on APPR.",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "Set for hearing January 20.",
+   "date": "2026-01-15"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-01-20"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 24. Noes 10. Page 3285.) Ordered to the Assembly.",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-06-08"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "date": "2026-06-08"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (June 24). Re-referred to Com. on L. GOV.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (July 1).",
+   "date": "2026-07-07"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-07"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 1.) (August 5).",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 63. Noes 2. Page 6516.) Ordered to the Senate.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee: Be re-referred to Com. on L. GOV. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on L. GOV.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee: That the Assembly amendments be concurred in. (Ayes 4. Noes 3.)",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 31. Noes 0.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 974, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250SB67789CHP",
+  "num": "89"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66452.5 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) The subdivider, or any tenant of the subject property, in the case of a proposed conversion of residential real property to a condominium project, community apartment project, or stock cooperative project, may appeal from any action of the advisory agency with respect to a tentative map to the appeal board established by local ordinance or, if none, to the legislative body.",
+    "(2) The appeal shall be filed with the clerk of the appeal board, or if there is none, with the clerk of the legislative body within 10 days after the action of the advisory agency from which the appeal is being taken.",
+    "(3) Upon the filing of an appeal, the appeal board or legislative body shall set the matter for hearing. The hearing shall be held within 45 days after the date of a request filed by the subdivider or the appellant. If there is no regular meeting of the legislative body within the next 45 days for which notice can be given pursuant to Section 66451.3, the appeal may be heard at the next regular meeting for which notice can be given, or within 60 days from the date of the receipt of the request, whichever period is shorter. Within 10 days following the conclusion of the hearing, the appeal board or legislative body shall render its decision on the appeal.",
+    "(b) (1) The subdivider, any tenant of the subject property, in the case of a conversion of residential real property to a condominium project, community apartment project, or stock cooperative project, or the advisory agency may appeal from the action of the appeal board to the legislative body. The appeal shall be filed in writing with the clerk of the legislative body within 10 days after the action of the appeal board from which the appeal is being taken.",
+    "(2) After the filing of an appeal, the legislative body shall set the matter for hearing. The hearing shall be held within 45 days after the date of the request filed by the subdivider or the appellant. If there is no regular meeting of the legislative body within the next 45 days for which notice can be given pursuant to Section 66451.3, the appeal may be heard at the next regular meeting for which notice can be given, or within 60 days from the date of the receipt of the request, whichever period is shorter. Within 10 days following the conclusion of the hearing, the legislative body shall render its decision on the appeal.",
+    "(c) (1) If there is an appeal board and it fails to act upon an appeal within the time limit specified in this chapter, the decision from which the appeal was taken shall be deemed affirmed and an appeal therefrom may thereupon be taken to the legislative body as provided in subdivision (b) of this section. If no further appeal is taken, the tentative map, insofar as it complies with applicable requirements of this division and any local ordinance, shall be deemed approved or conditionally approved as last approved or conditionally approved by the advisory agency, and it shall be the duty of the clerk of the legislative body to certify or state that approval, or if the advisory agency is one that is not authorized by local ordinance to approve, conditionally approve, or disapprove the tentative map, the advisory agency shall submit its report to the legislative body as if no appeal had been taken.",
+    "(2) If the legislative body fails to act upon an appeal within the time limit specified in this chapter, the tentative map, insofar as it complies with applicable requirements of this division and any local ordinance, shall be deemed to be approved or conditionally approved as last approved or conditionally approved, and it shall be the duty of the clerk of the legislative body to certify or state that approval.",
+    "(d) (1) Except as provided in Section 66452.8, any interested person adversely affected by a decision of the advisory agency or appeal board may file an appeal with the legislative body concerning any decision of the advisory agency or appeal board. The appeal shall be filed with the clerk of the legislative body within 10 days after the action of the advisory agency or appeal board that is the subject of the appeal. Upon the filing of the appeal, the legislative body shall set the matter for hearing. The hearing shall be held within 45 days after the date of a request filed by the subdivider or the appellant. If there is no regular meeting of the legislative body within the next 45 days for which notice can be given pursuant to Section 66451.3, the appeal may be heard at the next regular meeting for which notice can be given, or within 60 days from the date of the receipt of the request, whichever period is shorter. The hearing may be a public hearing for which notice shall be given in the time and manner provided.",
+    "(2) Upon conclusion of the hearing, the legislative body shall, within 10 days, declare its findings based upon the testimony and documents produced before it or before the advisory board or the appeal board. The legislative body may sustain, modify, reject, or overrule any recommendations or rulings of the advisory board or the appeal board and may make any findings that are not inconsistent with the provisions of this chapter or any local ordinance adopted pursuant to this chapter.",
+    "(e) Each decision made pursuant to this section shall be supported by findings that are consistent with the provisions of this division and any local ordinance adopted pursuant to this division.",
+    "(f) Notice of each hearing provided for in this section shall be sent by United States mail to each tenant of the subject property, in the case of a conversion of residential real property to a condominium project, community apartment project, or stock cooperative project, at least three days prior to the hearing. The notice requirement of this subdivision shall be deemed satisfied if the notice complies with the legal requirements for service by mail. Pursuant to Section 66451.2, fees may be collected from the subdivider or from persons appealing or filing an appeal for expenses incurred under this section."
+   ],
+   "sec": "66452.5",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66452.8 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) An interested person may not file an appeal pursuant to Section 66452.5, 66458, 66462, or 66474.7, or pursuant to a local subdivision ordinance, if all of the following criteria are met:",
+    "(1) The decision of the advisory agency, appeal board, or designated official relates to a map that is part of a housing development project, as defined in paragraph (2) of subdivision (h) of Section 65589.5.",
+    "(2) The project site is located entirely within either of the following:",
+    "(A) An incorporated city, the boundaries of which include some portion of an urban area.",
+    "(B) An urban area in a county with a population greater than 250,000 based on the most recent United States Census Bureau data.",
+    "(3) The project site meets the criteria set forth in paragraph (3) of subdivision (a) of Section 21080.66 of the Public Resources Code.",
+    "(4) The project is not located on a site that is any of the following:",
+    "(A) (i) An area of the coastal zone subject to paragraph (1) or (2) of subdivision (a) of Section 30603 of the Public Resources Code.",
+    "(ii) An area of the coastal zone that is not subject to a certified local coastal program or a certified land use plan.",
+    "(iii) An area of the coastal zone that is vulnerable to five feet of sea level rise, as determined by the National Oceanic and Atmospheric Administration, the Ocean Protection Council, the United States Geological Survey, the University of California, or a local government’s coastal hazards vulnerability assessment.",
+    "(iv) In a parcel in the coastal zone and located on either of the following:",
+    "(I) On, or within a 100-foot radius of, a wetland, as defined in Section 30121 of the Public Resources Code.",
+    "(II) On prime agricultural land, as defined in Sections 30113 and 30241 of the Public Resources Code.",
+    "(B) Either prime farmland or farmland of statewide importance, as defined pursuant to the United States Department of Agriculture land inventory and monitoring criteria, as modified for California, and designated on the maps prepared by the Farmland Mapping and Monitoring Program of the Department of Conservation, or land zoned or designated for agricultural protection or preservation by a local ballot measure that was approved by the voters of that jurisdiction.",
+    "(C) Wetlands, as defined in the United States Fish and Wildlife Service Manual, Part 660 FW 2 (June 21, 1993).",
+    "(D) Within a very high fire hazard severity zone, as determined by the Department of Forestry and Fire Protection pursuant to Section 51178, or within a very high fire hazard severity zone as indicated on maps adopted by the Department of Forestry and Fire Protection pursuant to Section 4202 of the Public Resources Code.",
+    "(E) Within a delineated earthquake fault zone as determined by the State Geologist in any official maps published by the State Geologist, unless the development complies with applicable seismic protection building code standards adopted by the California Building Standards Commission under the California Building Standards Law (Part 2.5 (commencing with Section 18901) of Division 13 of the Health and Safety Code), and by any local building department under Chapter 12.2 (commencing with Section 8875) of Division 1 of Title 2.",
+    "(F) Within a regulatory floodway as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency, unless the development has received a no-rise certification in accordance with Section 60.3(d)(3) of Title 44 of the Code of Federal Regulations. If a development proponent is able to satisfy all applicable federal qualifying criteria in order to provide that the site satisfies this subparagraph and is otherwise eligible for streamlined approval under this section, a local government shall not deny the application on the basis that the development proponent did not comply with any additional permit requirement, standard, or action adopted by that local government that is applicable to that site.",
+    "(G) Lands under conservation easement.",
+    "(5) Any parcels proposed to be created by the map to which the decision relates will be served by a public water system and a municipal sewer system.",
+    "(b) This section shall not apply to an appeal filed by either of the following:",
+    "(1) An applicant, subdivider, tenant in the case of residential conversion projects, or advisory agency otherwise authorized to file an appeal under applicable law.",
+    "(2) A public agency or a public official acting within the course and scope of their employment."
+   ],
+   "sec": "66452.8",
+   "verb": "added"
+  },
+  {
+   "action": "Section 66458 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The legislative body shall, at the meeting at which it receives the map or, at its next regular meeting after the meeting at which it receives the map, approve the map if it conforms to all the requirements of this chapter and any local subdivision ordinance applicable at the time of approval or conditional approval of the tentative map and any rulings made thereunder. If the map does not conform, the legislative body shall disapprove the map.",
+    "(b) If the legislative body does not approve or disapprove the map within the prescribed time, or any authorized extension thereof, and the map conforms to all requirements and rulings, it shall be deemed approved, and the clerk of the legislative body shall certify or state its approval thereon.",
+    "(c) The meeting at which the legislative body receives the map shall be the date on which the clerk of the legislative body receives the map.",
+    "(d) The legislative body may provide, by ordinance, for the approval or disapproval of final maps by the city or county engineer, surveyor, or other designated official. The legislative body may also provide, by ordinance, that the official may accept, accept subject to improvement, or reject dedications and offers of dedications that are made by a statement on the map. Any ordinance adopted pursuant to this subdivision shall provide that (1) the designated official shall notify the legislative body at its next regular meeting after the official receives the map that the official is reviewing the map for final approval, (2) the designated official shall approve or disapprove the final map within 10 days following the meeting of the legislative body that was preceded by the notice in (4) below, (3) the designated official’s action may be appealed to the legislative body, except as provided in Section 66452.8, (4) the clerk of the legislative body shall provide notice of any pending approval or disapproval by a designated official, which notice shall be attached and posted with the legislative body’s regular agenda and shall be mailed to interested parties who request notice, and (5) the legislative body shall periodically review the delegation of authority to the designated official. Except as specifically authorized by this subdivision, the processing of final maps shall conform to all procedural requirements of this division."
+   ],
+   "sec": "66458",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66462 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) If, at the time of approval of the final map by the legislative body, any public improvements required by the local agency pursuant to this division or local ordinance have not been completed and accepted in accordance with standards established by the local agency by ordinance applicable at the time of the approval or conditional approval of the tentative map, the legislative body, as a condition precedent to the approval of the final map, shall require the subdivider to enter into one of the following agreements specified by the local agency:",
+    "(1) An agreement with the local agency upon mutually agreeable terms to thereafter complete the improvements at the subdivider’s expense.",
+    "(2) An agreement with the local agency to thereafter do either of the following:",
+    "(A) Initiate and consummate proceedings under an appropriate special assessment act or the Mello-Roos Community Facilities Act of 1982, Chapter 2.5 (commencing with Section 53311) of Part 1 of Division 2 of Title 5 for the financing and completion of all of the improvements.",
+    "(B) If the improvements are not completed under a special assessment act or the Mello-Roos Community Facilities Act of 1982, Chapter 2.5 (commencing with Section 53311) of Part 1 of Division 2 of Title 5, to complete the improvements at the subdivider’s expense.",
+    "(b) The standards may be adopted by reference, without posting or publishing them, if they have been printed in book or booklet form and three copies of the books or booklets have been filed for use and examination by the public in the office of the clerk of the legislative body.",
+    "(c) The local agency entering into any agreement pursuant to this section shall require that performance of the agreement be guaranteed by the security specified in Chapter 5 (commencing with Section 66499).",
+    "(d) The legislative body may provide, by ordinance, that the agreement entered into pursuant to this section may be entered into by a designated official, in accordance with standards adopted by the local agency. Except as provided in Section 66452.8, the designated official’s action may be appealed to the legislative body for conformance with this chapter and any applicable local subdivision ordinance. Any ordinance adopted pursuant to this subdivision shall provide that the legislative body shall periodically review this delegation of authority to the designated official."
+   ],
+   "sec": "66462",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66474.7 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "The responsibilities of the governing body under the provisions of Sections 66473.5, 66474, 66474.1, and 66474.6 may be assigned to an advisory agency or appeal board provided the governing body adopts an ordinance which allows any interested person to appeal any decision of the advisory agency or the appeal board relative to such matters to the governing body, except as provided in Section 66452.8. Such appellant shall be entitled to the same notice and rights regarding testimony as are accorded a subdivider under Section 66452.5."
+   ],
+   "sec": "66474.7",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing financing: joint powers agreements: bond approvals: subdivisions: tentative and final maps: appeals.",
+ "title": "An act to amend Sections 6519, 66452.5, 66458, 66462, and 66474.7 of, and to add Sections 6505.7, 6505.9, and 66452.8 to, the Government Code, and to amend Section 52011.5 of the Health and Safety Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB67799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-01",
+   "id": "20250SB67798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-09",
+   "id": "20250SB67797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-01-05",
+   "id": "20250SB67796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-01-08",
+   "id": "20250SB67795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-08",
+   "id": "20250SB67794AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-24",
+   "id": "20250SB67793AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-07-07",
+   "id": "20250SB67792AMD",
+   "num": "92"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-20",
+   "id": "20250SB67791AMD",
+   "num": "91"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-01",
+   "id": "20250SB67790ENR",
+   "num": "90"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250SB67789CHP",
+   "num": "89"
+  }
+ ]
+}

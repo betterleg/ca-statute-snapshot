@@ -1,0 +1,115 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schiavo",
+   "primary": false
+  }
+ ],
+ "bill": "AB674",
+ "bill_id": "202520260AB674",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The Employee Housing Act, among other things, requires that buildings used for human habitation, and buildings accessory thereto, comply with the building standards in the California Building Standards Code relating to employee housing, as defined.",
+  "This bill would make a nonsubstantive change to the provision naming that act."
+ ],
+ "hash": "0c9bd19482ecbc91",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-14"
+  },
+  {
+   "action": "From printer. May be heard in committee March 17.",
+   "date": "2025-02-15"
+  },
+  {
+   "action": "Referred to Coms. on TRANS. and NAT. RES.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on TRANS. Read second time and amended.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "Re-referred to Com. on TRANS.",
+   "date": "2025-03-11"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on NAT. RES. (Ayes 15. Noes 0.) (April 7). Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 14. Noes 0.) (April 21). Re-referred to Com. on APPR.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to suspense file.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-03-10",
+  "id": "20250AB67498AMD",
+  "num": "98"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Section 17000 of the Health and Safety Code is amended to read:",
+   "code": "HSC",
+   "paras": [
+    "This part shall be known, and may be cited, as the Employee Housing Act."
+   ],
+   "sec": "17000",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Clean Cars 4 All Program.",
+ "title": "An act to amend Section 17000 of the Health and Safety Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-14",
+   "id": "20250AB67499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-10",
+   "id": "20250AB67498AMD",
+   "num": "98"
+  }
+ ]
+}

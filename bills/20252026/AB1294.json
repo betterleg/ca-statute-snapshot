@@ -1,0 +1,304 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": false
+  }
+ ],
+ "bill": "AB1294",
+ "bill_id": "202520260AB1294",
+ "chapter": {
+  "num": "778",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires a city, county, or city and county, in exercising its authority to regulate subdivisions, to, among other things, refrain from imposing criteria for design or improvements for the purpose of rendering infeasible the development of housing for any and all economic segments of the community.",
+  "This bill would make nonsubstantive changes to those provisions."
+ ],
+ "hash": "f6a74a7133ebecc1",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (April 9). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 78. Noes 0. Page 1885.)",
+   "date": "2025-06-02"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and L. GOV.",
+   "date": "2025-06-11"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "date": "2025-06-12"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 10. Noes 0.) (July 1).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L. GOV.",
+   "date": "2026-04-28"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L. GOV.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Re-referred to Com. on REV. & TAX.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 3. Noes 0.) (August 5). Re-referred to Com. on APPR.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-10"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 5. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 27. Noes 8.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Re-referred to Com. on REV. & TAX. pursuant to Assembly Rule 77.2.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Action rescinded whereby the bill was re-referred to Com. on REV. & TAX. pursuant to Assembly Rule 77.2.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Ordered to the Senate.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "In Senate. Held at Desk.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Ordered to the Assembly.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "In Assembly.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Ordered to the unfinished business file.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 64. Noes 5. Page 6999.).",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 1:30 p.m.",
+   "date": "2026-09-14"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 778, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250AB129490CHP",
+  "num": "90"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65913.2 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "In exercising its authority to regulate subdivisions under Division 2 (commencing with Section 66410), a city, county, or city and county shall:",
+    "(a) Refrain from imposing criteria for design, as defined in Section 66418, or improvements, as defined in Section 66419, for the purpose of rendering infeasible the development of housing for any and all economic segments of the community. Nothing in this section shall be construed to enlarge or diminish the authority of a city, county, or city and county under other provisions of law to permit a developer to construct such housing.",
+    "(b) Consider the effect of ordinances adopted and actions taken by it with respect to the housing needs of the region in which the local jurisdiction is situated.",
+    "(c) Refrain from imposing standards and criteria for public improvements including, but not limited to, streets, sewers, fire stations, schools, or parks, which exceed the standards and criteria being applied by the city, county, or city and county at that time to its publicly financed improvements located in similarly zoned districts within that city, county, or city and county."
+   ],
+   "sec": "65913.2",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Real property tax: welfare exemption: moderate-income housing.",
+ "title": "An act to amend Section 65913.2 of the Government Code, relating to housing.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB129499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-17",
+   "id": "20250AB129498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-22",
+   "id": "20250AB129497AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-06-12",
+   "id": "20250AB129496AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-03",
+   "id": "20250AB129495AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-28",
+   "id": "20250AB129494AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-15",
+   "id": "20250AB129493AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB129492AMD",
+   "num": "92"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-04",
+   "id": "20250AB129491ENR",
+   "num": "91"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250AB129490CHP",
+   "num": "90"
+  }
+ ]
+}

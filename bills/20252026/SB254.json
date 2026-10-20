@@ -1,0 +1,321 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Becker",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wahab",
+   "primary": false
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Petrie-Norris",
+   "primary": false
+  }
+ ],
+ "bill": "SB254",
+ "bill_id": "202520260SB254",
+ "chapter": {
+  "num": "119",
+  "year": "2025"
+ },
+ "digest": [
+  "(1) Existing law establishes the Governor’s Office of Business and Economic Development (GO-Biz) within the Governor’s office and requires the office to serve the Governor as the lead entity for economic strategy and the marketing of California on issues relating to business development, private sector investment, and economic growth, as provided. Existing law, the Bergeson-Peace Infrastructure and Economic Development Bank Act (bank act), establishes the California Infrastructure and Economic Development Bank (I-Bank) within GO-Biz, under the direction of an executive director and governed by, and its corporate power exercised by, a board of directors (bank board). Existing law, among other things, authorizes the bank to make loans, issue bonds, and provide financial assistance for various types of projects that qualify as economic development or public development facilities, as provided. Existing law prohibits the financing of economic development facilities unless the bank determines that the financing or assistance meets specified public interest criteria.",
+  "Existing law, the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024 (bond act), approved by the voters as Proposition 4 at the November 5, 2024, statewide general election, authorizes the issuance of bonds in the amount of $10,000,000,000 pursuant to the State General Obligation Bond Law to finance projects for safe drinking water, drought, flood, and water resilience, wildfire and forest resilience, coastal resilience, extreme heat mitigation, biodiversity and nature-based climate solutions, climate-smart, sustainable, and resilient farms, ranches, and working lands, park creation and outdoor access, and clean air programs. Existing law makes $850,000,000 of that amount available, upon appropriation of the Legislature, for clean energy projects, as provided.",
+  "This bill would deem the financing of projects related to the clean energy projects funded by the bond act, as described above, to be in the public interest and eligible for financing by the I-Bank or by a special purpose trust established pursuant to the bank act and would, except as specified, require that any such financing be treated as financing of an economic development facility for purposes of the bank act. The bill would authorize the I-Bank to provide any form of financial assistance, including issuing bonds, as provided.",
+  "The bill would authorize the I-Bank to provide financial assistance under the California Transmission Accelerator Revolving Fund Program to any eligible participating party, either directly or to a lending or financial institution, in connection with the financing or refinancing of an accelerator project, in accordance with an agreement or agreements between the I-Bank and the participating party, either as a sole lender or in participation or syndication with other lenders. The bill would define various terms for these purposes. The bill would require that eligible projects for financing under these provisions meet specified conditions. The bill would require the I-Bank to prepare, and the bank board to approve, guidelines for the provision of financial assistance under the Accelerator Revolving Fund Program, and would exempt the accelerator financing plan and guidelines to administer the program from the rulemaking provisions of the Administrative Procedure Act.",
+  "Existing law creates the California Infrastructure and Economic Development Bank Fund (bank fund) in the State Treasury for purposes of implementing the objectives and provisions of the bank act. Except as specified, existing law continuously appropriates all moneys in the bank fund for support of the I-Bank and for expenditure for the purposes stated in the bank act.",
+  "This bill would provide that moneys in the bank fund are available for expenditure for California Transmission Accelerator financing, as described above, only upon appropriation by the Legislature. The bill would create the Accelerator Revolving Fund within the State Treasury for the purpose of providing financial assistance under the Accelerator Revolving Fund Program. The bill would make the moneys in the fund, except as specified, continuously appropriated, without regard to fiscal year, for the support of eligible entities, as defined, and available for expenditure for the above-described purposes. By establishing a continuously appropriated fund, the bill would make an appropriation.",
+  "(2) Existing law creates within Go-Biz the Energy Unit to accelerate the planning, financing, and execution of critical energy infrastructure projects, as specified.",
+  "This bill would require the Energy Unit to establish a Transmission Infrastructure Accelerator (accelerator), in coordination with certain entities, to develop a financing and development strategy for eligible transmission projects receiving California Transmission Accelerator financing, established by this bill’s provisions as described above, and would require the accelerator to take the necessary steps to accelerate the development and deployment of those projects to maximize ratepayer savings. The bill would require the accelerator, before December 31, 2026, to coordinate the state’s ongoing activities related to transmission planning and development and to ensure accelerator projects meet specified criteria. The bill would also require the accelerator to evaluate the results of the Independent System Operator’s transmission planning process, to select which accelerator projects have the opportunity to receive public financing, and to develop a public-private partnership plan to develop financing options that maximize debt financing, among other things.",
+  "(3) The Personal Income Tax Law and the Corporation Tax Law allow various credits against the taxes imposed by those laws.",
+  "This bill would allow a credit against those taxes for each taxable year beginning on or after January 1, 2026, and before January 1, 2036, in an amount equal to 20% of the qualified expenditures paid or incurred by the qualified taxpayer during the taxable year, not to exceed $20,000,000 per qualified taxpayer per taxable year. The bill would define “qualified expenditures” for these purposes to mean costs paid or incurred for planning, design, engineering, permitting, construction, and equipment directly related to an eligible transmission project, as defined, or qualified wages, as defined, paid or incurred to employees of a qualified taxpayer that perform services directly related to the eligible transmission project. The bill would define “qualified taxpayer” for these purposes to mean a taxpayer that is a participating entity under the Accelerator Revolving Fund Program, as described above. If the credit allowed under these provisions is claimed by the qualified taxpayer, the bill would prohibit the taxpayer from earning a return on equity for the eligible transmission project for the portion of the project for which the credit is claimed. The bill would require the I-Bank to inform the Franchise Tax Board of any eligible transmission project that the bank approves for financial assistance and to provide any other information the Franchise Tax Board requires for administration of the credits allowed by the bill.",
+  "Existing law requires a bill authorizing a new tax expenditure to contain, among other things, specific goals the tax expenditure will achieve, detailed performance indicators, and data collection requirements.",
+  "This bill would provide that this requirement does not apply to the credits allowed by the bill’s provisions.",
+  "(4) The California Consumer Power and Conservation Financing Authority Act creates the California Consumer Power and Conservation Financing Authority. The act authorizes the authority, before January 1, 2007, to establish, finance, purchase, lease, own, operate, acquire, or construct generating facilities and other projects and enterprises, or provide financial assistance for projects or programs by participating parties, to supplement private and public sector power supplies to ensure a sufficient and reliable supply of electricity for California’s consumers at just and reasonable rates, to finance programs for consumers and businesses to invest in cost-effective energy efficient appliances, renewable energy projects, and other programs that will reduce the demand for energy in California, to finance natural gas transportation and storage projects, to achieve an adequate energy reserve capacity in California, and to provide financing for owners of aged, inefficient, electric powerplants to perform necessary retrofits to improve the efficiency and environmental performances of those powerplants.",
+  "This bill would additionally authorize the authority to sponsor, finance, purchase, lease, own, operate, acquire, or construct new transmission projects, as defined. The bill would authorize the authority to seek financing assistance from any entity eligible to access the California Transmission Accelerator Revolving Fund.",
+  "Existing law authorizes the authority to incur indebtedness and to issue securities of any kind or class, at public or private sale by the Treasurer, and to renew the same, if the indebtedness is payable solely from revenues. Existing law authorizes the authority to issue bonds, as specified, in an amount not to exceed $5,000,000,000, exclusive of any refunds.",
+  "This bill would delete that $5,000,000,000 limit.",
+  "Existing law prohibits the authority from financing or approving any new program, enterprise, or project on or after January 1, 2007, unless authority to approve such an activity is granted by statute enacted on or before January 1, 2007.",
+  "This bill would repeal that provision.",
+  "(5) Existing law vests the State Energy Resources Conservation and Development Commission (Energy Commission) with the exclusive jurisdiction to certify the construction of certain eligible facilities, as defined. Existing law prohibits a person from constructing such a facility unless that person obtains a certificate from the commission, as provided. Existing law authorizes a person proposing an eligible facility to file an application no later than June 30, 2029, for certification with the commission to certify a site and related facility, as provided.",
+  "This bill would extend the date that a person proposing an eligible facility is authorized to apply by to June 30, 2030.",
+  "Existing law requires an application for a site and related facility to be in a form prescribed by the Energy Commission, contain specified information, and be further supported by other information as the Energy Commission may require to support the preparation of an environmental impact report and issuance of a certification. Existing law requires the Energy Commission to review the application and make a determination of completeness within 30 days of the submission of the application, and authorizes the executive director of the Energy Commission to require the applicant to submit additional information, documents, or data determined to be reasonably necessary to prepare the environmental impact report for the application, as provided.",
+  "This bill would explicitly authorize the Energy Commission to require certain supporting information to support the preparation of an environmental impact report, mitigated negative declaration, or negative declaration, and would make related conforming changes. The bill would require the application to include evidence that the applicant has sufficient real property rights to the proposed location to currently access, build, and operate the proposed facility. The bill would instead authorize the executive director to require an applicant to submit missing information in the application before an application can be deemed complete and would require that any further requests by the executive director for missing information in response to additional information provided by the applicant be made within 45 days, or as soon as practicable thereafter, of receipt of that information.",
+  "Existing law requires each person proposing to construct a thermal powerplant or electrical transmission line to submit to the Energy Commission a notice of intention to file an application for the certification of the site and related facility or facilities, requires the approval of the notice by the Energy Commission to be based upon specified findings, and requires an application for certification of the site and related facility to be filed with the Energy Commission. Existing law requires, for the consideration of an application and the issuance of a certification, the Energy Commission to comply with the requirements to prepare a written decision after a public hearing on an application that includes specified things, including findings regarding the conformity of the proposed site and related facilities with standards adopted by the Energy Commission, as provided, and applies these requirements to an application for an eligible facility, as provided.",
+  "This bill would remove findings regarding the conformity of the proposed site and related facilities with standards adopted by the Energy Commission from that application requirement for an eligible facility.",
+  "Existing law prohibits the Energy Commission from certifying a site and related facility unless the Energy Commission finds that the construction or operation of the facility will have an overall net positive economic benefit to the local government that would have had permitting authority over the site and related facility.",
+  "This bill would establish a rebuttable presumption that the construction or operation of the facility will have an overall net positive economic benefit to the local government that would have had permitting authority over the site and related facility.",
+  "Existing law prohibits the Energy Commission from certifying a site and related facility unless it finds that the applicant has entered into one or more legally binding and enforceable agreements with, or that benefit, a coalition of one or more community-based organizations, including, but not limited to, workforce development and training organizations, labor unions, social justice advocates, local governmental entities, and California Native American tribes.",
+  "This bill would add community foundations to the list of community-based organizations described above.",
+  "Existing law, until July 1, 2025, provides that an agreement entered into for purposes of the above-described provisions does not require competitive bidding, or the review, consent, or approval of the Department of General Services or any other state department or agency and is not required to comply with certain contracting requirements.",
+  "This bill would extend that exemption until July 1, 2027.",
+  "(6) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA authorizes a lead agency for a later project, if a prior EIR has been prepared and certified for a program, plan, policy, or ordinance, commonly known as a “program EIR,” to examine significant effects of the later project upon the environment by using a tiered EIR and provides that the tiered EIR is not required to examine effects that meet certain requirements.",
+  "Existing law establishes a process for the certification of facilities related to clean energy infrastructure by the Energy Commission.",
+  "This bill would require the Energy Commission to prepare a program EIR to analyze the development of a class or classes of facility for which the Energy Commission has received an application under a specific certification program, as provided. The bill would authorize a public agency considering the approval of a specific facility that is within a class or classes of facility described in the program EIR prepared under these provisions to tier from that program EIR, as provided.",
+  "(7) Existing law generally requires an operator of a subsurface installation to become a member of, participate in, and share in the costs of, a regional notification center. Existing law requires a record of all notifications by an excavator or operator to the regional notification center to be maintained for a period of not less than 3 years and available for inspection, as specified. Existing law requires an operator to maintain certain records on subsurface installations. Existing law establishes prescribed notification procedures for an excavator who discovers or damages a subsurface installation. Existing law requires a regional notification center to quarterly provide notification records to the California Underground Facilities Safe Excavation Board and to provide notifications of damage to the board within 5 business days of receipt at the regional notification center.",
+  "This bill would require a regional notification center to facilitate the exchange of planning and design information for infrastructure projects, as described, and would require operators to participate in this exchange, as provided. The bill would require a regional notification center, upon request, to notify a California Native American tribe of proposed excavations within the geographic area with which the tribe is traditionally and culturally affiliated. The bill would require the California Underground Facilities Safe Excavation Board to report to the Legislature on the advantages, barriers, and funding options for the development of an internet web-based planning and design platform for accomplishing the exchange of planning and design information and for allowing tribes to view plans for projects and to communicate with plan submitters.",
+  "(8) Existing law requires electrical corporations to construct, maintain, and operate their electrical lines and equipment in a manner that will minimize the risk of catastrophic wildfire posed by those electrical lines and equipment.",
+  "This bill would require those actions to take into account the time required to implement proposed mitigations and the amount of risk reduced for the cost and risk remaining.",
+  "(9) Existing law requires each electrical corporation to annually prepare and submit a wildfire mitigation plan that covers at least a 3-year period and authorizes the office to allow for annual submissions to be updates to the last approved comprehensive wildfire mitigation plan, but requires the electrical corporation to submit a comprehensive wildfire mitigation plan at least once every 3 years for review. Existing law requires wildfire mitigation plans to include, among other things, a list that identifies, describes, and prioritizes all wildfire risks, and drivers for those risks, throughout the electrical corporation’s service territory, and a description of the actions the electrical corporation will take to ensure its system will achieve the highest level of safety, reliability, and resiliency, as specified.",
+  "This bill instead would require each electrical corporation to submit a wildfire mitigation plan to the office for review at least once every 4 years. The bill would require each electrical corporation, beginning January 1, 2027, to submit a preliminary wildfire mitigation plan to the office at the earliest date of one year before the filing of its general rate case application or concurrent with the filing of its Risk Assessment Mitigation Phase application with the Public Utilities Commission (PUC). The bill would revise those wildfire mitigation plan requirements to, among other things, require the list to also include particular risks and risk drivers associated with the speed with which wildfire risk mitigation measures can and will be deployed by the electrical corporation and an estimate of cost-per-avoided ignition for each risk, or an explanation on why such a value could not be assigned to a particular risk, and require the presentation of certain cost-efficiency measures adopted by the PUC, as specified.",
+  "(10) Existing law requires the office to approve or deny each wildfire mitigation plan and update submitted by an electrical corporation within 3 months of its submission. Existing law establishes procedures for the office to oversee compliance with an approved wildfire mitigation plan. Existing law requires the PUC to consider whether the cost of implementing an electrical corporation’s wildfire mitigation plan is just and reasonable in the electrical corporation’s general rate case application.",
+  "This bill instead would require the office to approve or deny a wildfire mitigation plan submitted by an electrical corporation within 9 months of its submission. The bill would, for a general rate case application filed on or after January 1, 2027, require an electrical corporation to file the wildfire mitigation plan approved by the office or, if the plan has not been approved by the office, the preliminary wildfire plan filed with the office, and any applicable decision from the office, with the general rate case application. The bill would require an electrical corporation, within 45 days of the PUC’s decision on whether the cost of implementing the electrical corporation’s wildfire mitigation plan is just and reasonable in the electrical corporation’s general rate case or any PUC order modifying that decision, to submit to the office a revised wildfire mitigation plan that conforms to the PUC’s revenue authorization. The bill would require the office to approve the revised wildfire mitigation plan within 2 months of submission and would require the electrical corporation to file the approved revised wildfire mitigation plan as an information-only submittal with the PUC. The bill would revise and recast provisions related to the oversight by the office in the implementation of, and the enforcement by the PUC of, the finally approved wildfire mitigation plan.",
+  "(11) Existing law requires the PUC to establish an expedited utility distribution infrastructure undergrounding program for large electrical corporations. In order to participate in the program, existing law requires a large electrical corporation to submit to the office a distribution infrastructure undergrounding plan, as provided. Upon approval of the plan by the office, existing law requires the large electrical corporation to submit to the PUC an application requesting review and conditional approval of the plan’s costs and other specified information.",
+  "This bill would revise the provisions related to the expedited utility distribution infrastructure undergrounding program to, among other things, specify that the approval of a distribution infrastructure undergrounding plan is not a project for purposes of the California Environmental Quality Act, as specified.",
+  "(12) Existing law requires the California Wildfire Safety Advisory Board to annually make recommendations to the office on various topics, including the appropriate scope and process for assessing the safety culture of an electrical corporation. Existing law requires the office to annually issue an analysis and recommendation to the PUC on the recommendations provided by the board. Existing law requires the PUC to annually adopt and approve, among other things, a process for the office to conduct annual safety culture assessments for each electrical corporation.",
+  "This bill would repeal those provisions.",
+  "(13) Existing law requires local publicly owned electric utilities and electrical cooperatives to annually prepare and submit to the board, on or before July 1 of each year, wildfire mitigation plans.",
+  "This bill instead would require, after January 1, 2026, local publicly owned electric utilities and electrical cooperatives to prepare and submit to the board wildfire mitigation plans at least once every 4 years on a schedule determined by the board.",
+  "(14) Existing law establishes the Wildfire Fund, administered by the Wildfire Fund Administrator, and continuously appropriates moneys in the fund to pay eligible claims, as defined, from participating electrical corporations arising from wildfires ignited on or after July 12, 2019, that are determined to be caused by the electrical corporation. Existing law requires each large electrical corporation, by certain dates, to notify the Public Utilities Commission of its election to participate in the fund by making a commitment to provide an initial contribution and annual contributions to the fund, as provided. Existing law authorizes large electrical corporations providing the notification and commitment (participating electrical corporations) to seek payment from the fund to satisfy settled and finally adjudicated eligible claims. Existing law authorizes a participating electrical corporation to file an application with the commission to recover costs and expenses arising from a wildfire ignited on or after July 12, 2019, that is caused by the electrical corporation that the commission determines to be just and reasonable. Existing law requires a participating electrical corporation, within 6 months of the commission’s decision in the application for the recovery of costs and expenses arising from the wildfire, to reimburse the fund, as provided, for any payment of costs and expenses determined not to be just and reasonable. Existing law requires the commission to initiate a rulemaking proceeding to consider using its authority to require participating electrical corporations to collect a nonbypassable charge from their ratepayers to support the fund, including the payment of any bonds issued for the support of the fund, as provided. The bill would authorize the Department of Water Resources to issue bonds, in an aggregate amount up to $10,000,000,000, as provided, to support the fund.",
+  "This bill would require the administrator, on or before April 1, 2026, to prepare and submit to the Legislature and to the Governor, a report that evaluates and sets forth recommendations on new models or approaches that mitigate damage, accelerate recovery, and responsibly and equitably allocate the burdens from natural catastrophes, across stakeholders, to complement or replace the fund, as specified.",
+  "This bill would create the Continuation Account within the fund, which is separate and distinct from moneys in the fund, to be administered by the administrator, and would continuously appropriate moneys in the account for purposes of payment of eligible claims arising from wildfires ignited on or after the effective date of the bill, as provided, thereby making an appropriation. The bill would require each large electrical corporation, within 15 days of the effective date of the bill, to provide to the commission a written notification of its election to participate, or not to participate, in the account. The bill would specify that the election by participating electrical corporations to participate in the account constitutes an agreement of the large electrical corporations to certain matters, including a revision of how the large electrical corporations are required to reimburse the fund for any costs and expenses arising from a wildfire that are found not to be just and reasonable and limiting the obligation of the fund to provide payments for eligible claims arising from wildfires ignited on or before the effective date of the bill. The bill would require the commission, if all participating electrical corporations have provided their election to participate in the account, to provide the administrator and other entities notification of their elections. The bill would authorize the administrator, on or after the date the commission provides the notification, but not later than December 31, 2028, to determine if additional annual contributions are needed, and to provide notification of its determination to the commission and the department. The bill would require the commission, within 15 days of receiving the notification from the administrator, to initiate a rulemaking proceeding to consider using its authority to require the large electrical corporations to collect a nonbypassable charge from ratepayers to support the account, including the payment of any bond issued for the support of the account, as provided. The bill would authorize the department to issue bonds, in an aggregate amount up to $9,000,000,000, as provided, to support the account. The bill would, if the commission imposes the nonbypassable charge to support the account, require the large electrical corporations, from calendar years 2029 to 2045, inclusive, to provide to the administrator their annual contributions, as specified, for deposit into the account. The bill would, if the administrator determines that an additional contribution of $3,900,000,000 is needed to support the account, authorize the administrator to require the large electrical corporations to provided their proportionate share of that amount in equal installment payments over a 5-year period, as provided. The bill would authorize a large electrical corporation to seek payment from the account to satisfy settled or finally adjudicated eligible claims arising from wildfires ignited on or after the effective date of the bill, as provided. The bill would require the large electrical corporations, within 6 months of the commission’s decision in the application for the recovery of costs and expenses arising from the wildfire, to reimburse the fund, as provided, for any payment of costs and expenses determined not to be just and reasonable. The bill would make the above provisions inoperative if one of the large electrical corporations elects not to participate in the account.",
+  "This bill would, except as provided, for an agreement by a property insurer to sell, assign, or transfer, in whole or in part, to a third-party entity, a right of subrogation, reimbursement, or recovery resulting from a wildfire that is ignited on or after the effective date of this act and that destroys 1,000 or more structures, require the property insurer to first offer to settle that right, on the same terms and conditions as the proposed agreement, to a large electrical corporation, if any, that provides electrical service to the service area in which the wildfire ignited. The bill would require the large electrical corporation to accept or reject the offer or to reach agreement on mutually agreeable terms for the settlement of that right within 30 days of the property insurer making the offer. The bill would, except as provided, require the agreement and exchange of information, including the offer made and other documentation related to the offer, to be subject to a nondisclosure agreement and would prohibit the disclosure of that information. The bill would specify that the information provided to a public agency pursuant to law is not subject to public disclosure under the California Public Records Act or any other law.",
+  "(15) Existing law authorizes an electrical corporation to file an application requesting the commission to issue a financing order to authorize the recovery of certain costs and expenses, including those related to catastrophic wildfires, that are determined to be just and reasonable through the issuance of recovery bonds by the electrical corporations that are secured by a rate component, as provided.",
+  "This bill would, for a catastrophic wildfire that was ignited between January 1, 2025, and the effective date of the bill, authorize an electrical corporation, before filing an application for a determination of just and reasonableness of the settled or finally adjudicated claims associated with the catastrophic wildfire, to a file an application for a determination that those claims cannot be paid by the fund and for the issuance of a financing order in the amount of those claims. The bill would require the commission to issue a financing order if it makes certain determinations, as provided. The bill would require a large electrical corporation, if it issues recovery bonds pursuant to the financing order, to file an application for a just and reasonableness determination for the costs and expenses included in the recovery bonds, as provided. The bill would authorize the commission to order a large electrical corporation to provide a credit to its ratepayers for any disallowed costs and expenses plus any cost and expense resulting from the inclusion of the disallowed costs and expenses in the recovery bonds.",
+  "Existing law, until December 31, 2035, authorizes the commission to issue the financing order. Existing law requires the commission to prohibit a large electrical corporation from including in its equity rate base its share for the first $5,000,000,000 expended in aggregate by large electrical corporations on fire risk mitigation capital expenditures, as provided, and authorizes those expenditures to be financed through the financing order.",
+  "This bill would, in addition to the amount of fire risk mitigation capital expenditure described above, require the commission to prohibit a large electrical corporation from including in its equity rate base its share of the first $6,000,000,000 expended in aggregate by large electrical corporations on fire risk mitigation capital expenditures approved by the commission on or after January 1, 2026. The bill would authorize an electrical corporation’s share of the fire risk mitigation capital expenditures and the debt financing costs of these fire risk mitigation capital expenditures to be financed through a financing order, as specified. The bill would provide that these provisions do not apply to expenditures made after December 31, 2035.",
+  "(16) Existing law requires the PUC, by May 1 of each year, to prepare and submit a written report to the Legislature with certain information, including information regarding electrical corporations’ utility costs and rate increases.",
+  "This bill would require the report to include additional certain information on the transmission assets, distribution assets, and generation assets of each large electrical corporation, including information on the amount or ratebase for those assets with 10 years of historical values and the total amount for return on equity and debt collected in the revenue requirement for those assets.",
+  "(17) Existing law requires the PUC to establish reasonable average and maximum target energization time periods, as defined, and a procedure for customers to report energization delays to the PUC, as provided. Existing law requires the PUC to require an electrical corporation to take remedial actions necessary to achieve the PUC’s targets and would require all reports to be publicly available, among other reporting requirements.",
+  "This bill would require the PUC to evaluate and report to the Legislature on or before January 1, 2027, whether to require an electrical corporation to have an executive incentive compensation structure that includes incentive compensation based on meeting the above-described targets for all executive officers. The bill would require, on or before January 1, 2027, the commission to establish an enforcement policy for the those targets that include penalties for not complying with the remedial actions, as specified.",
+  "This bill would require the PUC to require each electrical corporation to retain an independent third-party auditor to review the electrical corporation’s business practices and procedures for energizing new customers and how the electrical corporation is planning for demand growth, including new customer energizations. The bill would require the third-party auditor to review specified factors and to evaluate the electrical corporation’s current and future energization performance and make recommendations as to whether the electrical corporation is adequately meeting and anticipating customer demand, adequately training and retaining an adequate workforce, and is funded at sufficient levels to meet forecasted demand growth. The bill would require the third-party auditor to report to the PUC on a biannual basis, as specified. The bill would authorize the PUC to require an electrical corporation to take remedial actions necessary to address deficiencies identified in the report provided by the third-party auditor or to achieve the above-described targets. The bill would repeal these provisions on January 1, 2032.",
+  "(18) Under existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the PUC is a crime.",
+  "Because certain of the above-described provisions would be part of the act and a violation of a PUC action implementing the above-described provisions would be a crime, this bill would impose a state-mandated local program.",
+  "(19) Existing constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.",
+  "This bill would make legislative findings to that effect.",
+  "(20) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason.",
+  "(21) This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "4ec08340e39ade7b",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-03"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 6.",
+   "date": "2025-02-04"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-02-14"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Re-referred to Com. on E., U & C.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E., U & C.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "Set for hearing April 29.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 2. Page 934.) (April 29). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Set for hearing May 12.",
+   "date": "2025-05-02"
+  },
+  {
+   "action": "May 12 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-16"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 5. Noes 1. Page 1193.) (May 23).",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read second time and amended. Ordered to third reading.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 29. Noes 10. Page 1499.) Ordered to the Assembly.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "Referred to Coms. on U. & E. and NAT. RES.",
+   "date": "2025-06-16"
+  },
+  {
+   "action": "July 9 hearing postponed by committee.",
+   "date": "2025-07-08"
+  },
+  {
+   "action": "Assembly Rule 56 suspended.",
+   "date": "2025-07-14"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on NAT. RES. (Ayes 11. Noes 5.) (July 16). Re-referred to Com. on NAT. RES.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 4.) (July 17). Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 9. Noes 4.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Joint Rule 61(a)(13) suspended. (Ayes 60. Noes 20. Page 3128.)",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Re-referred to Com. on U. & E. pursuant to Assembly Rule 77.2.",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Joint Rule 62(a) suspended.",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Joint Rule 61 and 62(a) suspended. (Ayes 30. Noes 9. Page 2801.)",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "(Corrected September 10).",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 16. Noes 0.) (September 12).",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Ayes 57. Noes 20. Page 3441.)",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 69. Noes 0. Page 3485.) Ordered to the Senate.",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 30. Noes 2. Page 3053.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-15"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-09-19"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 119, Statutes of 2025.",
+   "date": "2025-09-19"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-09-19",
+  "id": "20250SB25493CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Article 7 (commencing with Section 21159.30) is added to Chapter 4.5 of Division 13 of the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "The Legislature finds and declares that it is in the interest of the state to ensure that California’s environmental review processes are streamlined and optimized to ensure the most efficient process to approve clean infrastructure projects in a manner that does not weaken environmental protections or public participation."
+   ],
+   "sec": "21159.30",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Energy.",
+ "title": "An act to amend Sections 4216.1, 8557, 12100.110, 15472, 15473, 15475, 15475.1, 15475.2, 15475.6, and 63050 of, to add Section 12100.111 and 12100.112 to, to add Article 10.5 (commencing with Section 63049.71) to Chapter 2 of Division 1 of Title 6.7 of, and to repeal Sections 15475.4 and 15475.5 of, the Government Code, to amend Section 25545.1, 25545.2, 25545.4, 25545.5, 25545.6, 25545.7, 25545.7.2, 25545.7.6, 25545.8, 25545.9, 25545.10, and 25545.12, and to add Article 7 (commencing with Section 21159.30) to Chapter 4.5 of Division 13 of, the Public Resources Code, to amend Sections 326.1, 326.2, 850, 850.1, 934, 1701.8, 3280, 3292, 3310, 3380.1, 3380.2, 8385, 8386, 8386.1, 8386.2, 8386.3, 8386.4, 8386.5, 8387, 8388.5, and 8389 of, to amend the heading of Part 6 (commencing with Section 3280) of Division 1 of, to add Sections 913.2 and 8386.10 to, to add Chapter 6 (commencing with Section 3299.100) to Part 6 of Division 1 of, to add and repeal Sections 940 and 719 of, to add and repeal Chapter 4 (commencing with Section 3298) and Chapter 5 (commencing with Section 3299) of Part 6 of Division 1 of, to repeal Sections 352 and 3287 of, and to repeal and add Section 3283 of, the Public Utilities Code, to amend Sections 17039 and 23036 of, and to add and repeal Sections 17053.40 and 23640 of, the Revenue and Taxation Code, and to amend Sections 351, 80506, 80524, 80540, and 80544 of, and to add and repeal Section 80544.5 of, the Water Code, relating to energy, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-03",
+   "id": "20250SB25499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-20",
+   "id": "20250SB25498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-22",
+   "id": "20250SB25497AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-28",
+   "id": "20250SB25496AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-10",
+   "id": "20250SB25495AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-15",
+   "id": "20250SB25494ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-09-19",
+   "id": "20250SB25493CHP",
+   "num": "93"
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bryan",
+   "primary": true
+  }
+ ],
+ "bill": "AB1455",
+ "bill_id": "202520260AB1455",
+ "chapter": {
+  "num": "731",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law establishes the Office of Land Use and Climate Innovation (office) in the Governor’s office for the purpose of serving the Governor and the Governor’s cabinet as staff for long-range planning and research and constituting the comprehensive state planning agency. Existing law requires the office, by July 1, 2020, and in consultation with the Department of Forestry and Fire Protection, the State Board of Forestry and Fire Protection, and other fire and safety experts, to update the guidance document entitled “Fire Hazard Planning, General Plan Technical Advice Series,” and to subsequently update that document not less than once every 8 years.",
+  "This bill would, beginning January 1, 2026, require the office to update the above-described document not less than once every 5 years."
+ ],
+ "hash": "c480073336b57690",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (April 7). Re-referred to Com. on APPR.",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to suspense file.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Ayes 51. Noes 16. Page 1644.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 13. Noes 0.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 72. Noes 1. Page 2019.)",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "Referred to Com. on N.R. & W.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on N.R. & W.",
+   "date": "2025-06-25"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 6. Noes 0.) (July 8).",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-10"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-08-13"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-26"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 39. Noes 0. Page 2728.).",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 74. Noes 1. Page 3206.).",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2025-09-22"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-13"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 731, Statutes of 2025.",
+   "date": "2025-10-13"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-13",
+  "id": "20250AB145591CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65040.21 of the Government Code , as added by Section 4 of Chapter 641 of the Statutes of 2018, is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "By July 1, 2020, the office shall, in consultation with the Department of Forestry and Fire Protection, the State Board of Forestry and Fire Protection, and other fire and safety experts, update the guidance document entitled “Fire Hazard Planning, General Plan Technical Advice Series.” The guidance document shall include specific land use strategies to reduce fire risk to buildings, infrastructure, and communities. The office shall, beginning January 1, 2026, update the guidance document not less than once every five years."
+   ],
+   "sec": "65040.21",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "State Board of Forestry and Fire Protection: defensible space requirements: ember-resistant zones: emergency regulations: California Environmental Quality Act.",
+ "title": "An act to amend Section 65040.21 of the Government Code, relating to state government.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB145599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB145598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-23",
+   "id": "20250AB145597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-06-25",
+   "id": "20250AB145596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-10",
+   "id": "20250AB145595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-03",
+   "id": "20250AB145594AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-05",
+   "id": "20250AB145593AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250AB145592ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-13",
+   "id": "20250AB145591CHP",
+   "num": "91"
+  }
+ ]
+}

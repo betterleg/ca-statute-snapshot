@@ -1,0 +1,593 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Becker",
+   "primary": true
+  }
+ ],
+ "bill": "SB457",
+ "bill_id": "202520260SB457",
+ "chapter": {
+  "num": "802",
+  "year": "2026"
+ },
+ "digest": [
+  "The Planning and Zoning Law requires a city or county to adopt a comprehensive, long-term general plan that includes various mandatory elements, including a housing element.",
+  "Existing law requires the housing element to include, among other things, an inventory of land suitable and available for residential development, an analysis of the relationship of zoning and public facilities and services to these sites, and an analysis of the relationship of the sites identified in the land inventory to the jurisdiction’s duty to affirmatively further fair housing. Existing law requires a city or county, based on that inventory of land, to determine whether each site in the inventory can accommodate the development of some portion of its share of the regional housing need by income level during the planning period, as provided.",
+  "Existing law requires the inventory of land to include, among other things, a description of the existing use of the property for nonvacant sites. For the nonvacant sites, existing law requires the city or county to specify the additional development potential for each site within the planning period. Existing law requires a city or county to rezone sites according to a specified program if the inventory of sites suitable and available for residential development does not identify adequate sites to accommodate the need for groups of all household income levels.",
+  "This bill would require, on or before July 1, 2028, the Department of Housing and Community Development to promulgate or approve one or more formulas and associated user interfaces or other tools that allow for the determination of specified information, including, among other things, the realistic capacity of housing element inventory sites, as specified. The bill would authorize the above-described analysis and determinations by a city or county related to sites in the inventory of land suitable and available for residential development to rely on the formula promulgated or approved by the department. The bill would authorize the department to hire economists and data scientists for the purpose of promulgating the formulas and associated user interfaces or other tools.",
+  "This bill would require the inventory of land suitable and available for residential development to specify the number of units allowed to be built on each site at the time of the housing element’s adoption, and the number that will be allowed after rezoning, as specified, to accommodate the city’s or county’s share of regional housing need.",
+  "This bill would exempt the use by a city or county of any adopted formula, associated user interface, or tool promulgated or approved by the department for these purposes from judicial review, except as specified.",
+  "Existing law also requires that the housing element, among other things, sets forth a schedule of actions during the planning period that the local government is undertaking or intends to undertake to implement the policies and achieve the goals of the housing element, as provided. Existing law authorizes the Department of Housing and Community Development to allow a city or county to substitute the provision of units pursuant to this schedule of actions if the community includes in its housing element a program committing the local government to provide specified units that will be made available through the provision of committed assistance to lower income households at affordable housing costs or rents, as defined. Existing law requires a unit to meet specified requirements to qualify for inclusion in the program. Existing law defines “committed assistance” for these purposes to mean that the city or county enters into a legally enforceable agreement during a specified time period that obligates sufficient available funds or other in-kind services to provide the assistance necessary to make the identified units affordable and that requires that the units be made available for occupancy within 2 years of the execution of the agreement.",
+  "This bill would define “in-kind services” for these purposes."
+ ],
+ "hash": "dd88ba876f9f43ac",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Com. on HOUSING.",
+   "date": "2025-02-26"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Set for hearing April 29.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "April 29 set for first hearing. Failed passage in committee. (Ayes 1. Noes 2. Page 936.) Reconsideration granted.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Set for hearing January 6.",
+   "date": "2025-12-18"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 10. Noes 0. Page 3184.) (January 6).",
+   "date": "2026-01-07"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-01-08"
+  },
+  {
+   "action": "Set for hearing January 20.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-01-20"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 3281.) Ordered to the Assembly.",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "Referred to Com. on H. & C.D.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "date": "2026-05-20"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on L. GOV. (Ayes 10. Noes 1.) (June 10).",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 1.) (July 1). Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "August 5 set for first hearing. Placed on suspense file.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 2.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 59. Noes 13. Page 6413.) Ordered to the Senate.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "From committee: Be re-referred to Com. on HOUSING pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on HOUSING.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "From committee: That the Assembly amendments be concurred in. (Ayes 8. Noes 2.)",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 30. Noes 9.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 802, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250SB45789CHP",
+  "num": "89"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65583 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "The housing element shall consist of an identification and analysis of existing and projected housing needs and a statement of goals, policies, quantified objectives, financial resources, and scheduled programs for the preservation, improvement, and development of housing. The housing element shall identify adequate sites for housing, including rental housing, factory-built housing, mobilehomes, and emergency shelters, and shall make adequate provision for the existing and projected needs of all economic segments of the community. The housing element shall contain all of the following:",
+    "(a) An assessment of housing needs, and an inventory of resources and constraints that are relevant to the meeting of those needs. The assessment and inventory shall include all of the following:",
+    "(1) An analysis of population and employment trends and documentation of projections and a quantification of the locality’s existing and projected housing needs for all income levels. These existing and projected needs shall include the locality’s share of the regional housing need in accordance with Section 65584.",
+    "(2) An analysis and documentation of household characteristics, including level of payment compared to ability to pay, housing characteristics, including overcrowding, and housing stock condition.",
+    "(3) (A) An inventory of land suitable and available for residential development, including vacant sites and sites having realistic and demonstrated potential for redevelopment during the planning period to meet the locality’s housing need for a designated income level, and an analysis of the relationship of zoning and public facilities and services to these sites, and an analysis of the relationship of the sites identified in the land inventory to the jurisdiction’s duty to affirmatively further fair housing.",
+    "(B) (i) The analysis described in subparagraph (A) may rely on a formula promulgated or approved by the department pursuant to Section 65583.01 for purposes of estimating the realistic development capacity of sites in the inventory.",
+    "(ii) Use of the formula described in clause (i) shall not be a substitute for the analysis of the relationship of the sites identified in the land inventory to the jurisdiction’s duty to affirmatively further fair housing.",
+    "(C) The inventory shall specify the number of units allowed to be built on each site at the time of the housing element’s adoption, and the number that will be allowed after rezoning, pursuant to paragraph (1) of subdivision (c), to accommodate the city’s or county’s share of regional housing need.",
+    "(4) (A) The identification of one or more zoning designations that allow residential uses, including mixed uses, where emergency shelters are allowed as a permitted use without a conditional use or other discretionary permit and that are suitable for residential uses. The identified zoning designations shall include sufficient sites meeting the requirements of subparagraph (H) with sufficient capacity, as described in subparagraph (I), to accommodate the need for emergency shelter identified in paragraph (7), except that each local government shall identify a zoning designation or designations that can accommodate at least one year-round emergency shelter. If the local government cannot identify a zoning designation or designations with sufficient capacity, the local government shall include a program to amend its zoning ordinance to meet the requirements of this paragraph within one year of the adoption of the housing element. The local government may identify additional zoning designations where emergency shelters are permitted with a conditional use permit. The local government shall also demonstrate that existing or proposed permit processing, development, and management standards that apply to emergency shelters are objective and encourage and facilitate the development of, or conversion to, emergency shelters.",
+    "(B) Emergency shelters shall only be subject to the following written, objective standards:",
+    "(i) The maximum number of beds or persons permitted to be served nightly by the facility.",
+    "(ii) Sufficient parking to accommodate all staff working in the emergency shelter, provided that the standards do not require more parking for emergency shelters than other residential or commercial uses within the same zone.",
+    "(iii) The size and location of exterior and interior onsite waiting and client intake areas.",
+    "(iv) The provision of onsite management.",
+    "(v) The proximity to other emergency shelters, provided that emergency shelters are not required to be more than 300 feet apart.",
+    "(vi) The length of stay.",
+    "(vii) Lighting.",
+    "(viii) Security during hours that the emergency shelter is in operation.",
+    "(C) For purposes of this paragraph, “emergency shelter” shall include other interim interventions, including, but not limited to, a navigation center, bridge housing, and respite or recuperative care, and all services provided onsite, including the addition or expansion of services that are consistent with any written, objective standards pursuant to subparagraph (B).",
+    "(D) The permit processing, development, and management standards applied under this paragraph shall not be deemed to be discretionary acts within the meaning of the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(E) If a local government has adopted written, objective standards pursuant to subparagraph (B), the local government shall include an analysis of the standards in the analysis of constraints pursuant to paragraph (5).",
+    "(F) A local government that can demonstrate, to the satisfaction of the department, the existence of one or more emergency shelters either within its jurisdiction or pursuant to a multijurisdictional agreement that can accommodate that jurisdiction’s need and the needs of the other jurisdictions that are a part of the agreement for emergency shelter identified in paragraph (7) may comply with the zoning requirements of subparagraph (A) by identifying a zoning designation where new emergency shelters are allowed with a conditional use permit.",
+    "(G) A local government with an existing ordinance or ordinances that comply with this paragraph shall not be required to take additional action to identify zoning designations for emergency shelters. The housing element must only describe how existing ordinances, policies, and standards are consistent with the requirements of this paragraph.",
+    "(H) The zoning designation or designations where emergency shelters are allowed, as described in subparagraph (A), shall include sites that meet at least one of the following standards:",
+    "(i) Vacant sites zoned for residential use.",
+    "(ii) Vacant sites zoned for nonresidential use that allow residential development, if the local government can demonstrate how the sites with this zoning designation that are being used to satisfy the requirements of paragraph (1) are located near amenities and services that serve people experiencing homelessness, which may include health care, transportation, retail, employment, and social services, or that the local government will provide free transportation to services or offer services onsite.",
+    "(iii) Nonvacant sites zoned for residential use or for nonresidential use that allow residential development that are suitable for use as a shelter in the current planning period, or which can be redeveloped for use as a shelter in the current planning period. A nonvacant site with an existing use shall be presumed to impede emergency shelter development absent an analysis based on substantial evidence that the use is likely to be discontinued during the planning period. The analysis shall consider current market demand for the current uses, market conditions, and incentives or standards to encourage shelter development.",
+    "(I) The zoning designation or designations shall have sufficient sites meeting the requirements of subparagraph (H) to accommodate the need for shelters identified pursuant to paragraph (7). The number of people experiencing homelessness that can be accommodated on any site shall be demonstrated by dividing the square footage of the site by a minimum of 200 square feet per person, unless the locality can demonstrate that one or more shelters were developed on sites that have fewer square feet per person during the prior planning period or the locality provides similar evidence to the department demonstrating that the site can accommodate more people experiencing homelessness. Any standard applied pursuant to this subparagraph is intended only for calculating site capacity pursuant to this section, and shall not be construed as establishing a development standard applicable to the siting, development, or approval of a shelter.",
+    "(J) Notwithstanding subparagraph (H), a local government may accommodate the need for emergency shelters identified pursuant to paragraph (7) on sites owned by the local government if it demonstrates with substantial evidence that the sites will be made available for emergency shelter during the planning period, they are suitable for residential use, and the sites are located near amenities and services that serve people experiencing homelessness, which may include health care, transportation, retail, employment, and social services, or that the local government will provide free transportation to services or offer services onsite.",
+    "(5) An analysis of potential and actual governmental constraints upon the maintenance, improvement, or development of housing for all income levels, including the types of housing identified in paragraph (1) of subdivision (c), and for persons with disabilities as identified in the analysis pursuant to paragraph (7), including land use controls, building codes and their enforcement, site improvements, fees, and other exactions required of developers, local processing and permit procedures, historic preservation practices and policies and an assessment of how existing and proposed historic designations affect the locality’s ability to meet its share of the housing need pursuant to paragraph (1), and any locally adopted ordinances that directly impact the cost and supply of residential development.",
+    "(A) The analysis shall also demonstrate local efforts to remove governmental constraints that hinder the locality from meeting its share of the regional housing need in accordance with Section 65584 and from meeting the need for housing for persons with disabilities, supportive housing, transitional housing, and emergency shelters identified pursuant to paragraph (7).",
+    "(B) (i) For adoption of the seventh and all subsequent revisions of the housing element, the analysis shall also include a potential and actual governmental constraints disclosure statement containing both of the following:",
+    "(I) An identification of each new or amended potential or actual governmental constraint, or revision increasing the stringency of a governmental constraint, adopted after the due date of the previous housing element and before submittal of the current draft housing element to the department.",
+    "(II) An identification of any new or amended potential or actual governmental constraint, or revision increasing the stringency of a governmental constraint, that the governing body of the local government can anticipate adopting during the first three years of the planning period commencing on the date that a local agency’s housing element is considered to be in substantial compliance pursuant to Section 65585.03.",
+    "(ii) For the purposes of this subparagraph, “anticipate adopting” means a legislative body of the local government had, after the due date of the previous housing element and before submittal of the current draft housing element, identified in an agenda published by a legislative body of the local government pursuant to the Ralph M. Brown Act (Chapter 9 (commencing with Section 54950) of Part 1 of Division 2 of Title 5) an action to consider the adoption, amendment, or increase in the stringency of a potential or actual governmental constraint.",
+    "(iii) This subparagraph shall not be construed to prohibit a local government from adopting, amending, or increasing the stringency of a potential or actual governmental constraint regardless of whether it was included in a potential and actual governmental constraints disclosure statement pursuant to this subparagraph.",
+    "(6) An analysis of potential and actual nongovernmental constraints upon the maintenance, improvement, or development of housing for all income levels, including the availability of financing, the price of land, the cost of construction, the requests to develop housing at densities below those anticipated in the analysis required by subdivision (c) of Section 65583.2, and the length of time between receiving approval for a housing development and submittal of an application for building permits for that housing development that hinder the construction of a locality’s share of the regional housing need in accordance with Section 65584. The analysis shall also demonstrate local efforts to remove nongovernmental constraints that create a gap between the locality’s planning for the development of housing for all income levels and the construction of that housing.",
+    "(7) (A) An analysis of any special housing needs, such as those of the elderly; persons with disabilities, including a developmental disability, as defined in Section 4512 of the Welfare and Institutions Code; extremely low income households; large families; farmworkers; families with female heads of households; and families and persons in need of emergency shelter. The need for emergency shelter shall be assessed based on the capacity necessary to accommodate the most recent homeless point-in-time count conducted before the start of the planning period, the need for emergency shelter based on number of beds available on a year-round and seasonal basis, the number of shelter beds that go unused on an average monthly basis within a one-year period, and the percentage of those in emergency shelters that move to permanent housing solutions. The need for emergency shelter may be reduced by the number of supportive housing units that are identified in an adopted 10-year plan to end chronic homelessness and that are either vacant or for which funding has been identified to allow construction during the planning period. An analysis of special housing needs by a city or county may include an analysis of the need for frequent user coordinated care housing services.",
+    "(B) For the seventh and subsequent revisions of the housing element, the analysis required in subparagraph (A) shall also include an analysis of the housing needs of acutely and extremely low income households.",
+    "(8) An analysis of opportunities for energy conservation with respect to residential development. Cities and counties are encouraged to include weatherization and energy efficiency improvements as part of publicly subsidized housing rehabilitation projects. This may include energy efficiency measures that encompass the building envelope, its heating and cooling systems, and its electrical system.",
+    "(9) An analysis of existing assisted housing developments that are eligible to change from low-income housing uses during the next 10 years due to termination of subsidy contracts, mortgage prepayment, or expiration of restrictions on use. “Assisted housing developments,” for the purpose of this section, shall mean multifamily rental housing that receives governmental assistance under federal programs listed in subdivision (a) of Section 65863.10, state and local multifamily revenue bond programs, local redevelopment programs, the federal Community Development Block Grant Program, or local in-lieu fees. “Assisted housing developments” shall also include multifamily rental units that were developed pursuant to a local inclusionary housing program or used to qualify for a density bonus pursuant to Section 65916.",
+    "(A) The analysis shall include a listing of each development by project name and address, the type of governmental assistance received, the earliest possible date of change from low-income use, and the total number of elderly and nonelderly units that could be lost from the locality’s low-income housing stock in each year during the 10-year period. For purposes of state and federally funded projects, the analysis required by this subparagraph need only contain information available on a statewide basis.",
+    "(B) The analysis shall estimate the total cost of producing new rental housing that is comparable in size and rent levels, to replace the units that could change from low-income use, and an estimated cost of preserving the assisted housing developments. This cost analysis for replacement housing may be done aggregately for each five-year period and does not have to contain a project-by-project cost estimate.",
+    "(C) The analysis shall identify public and private nonprofit corporations known to the local government that have legal and managerial capacity to acquire and manage these housing developments.",
+    "(D) The analysis shall identify and consider the use of all federal, state, and local financing and subsidy programs that can be used to preserve, for lower income households, the assisted housing developments, identified in this paragraph, including, but not limited to, federal Community Development Block Grant Program funds, tax increment funds received by a redevelopment agency of the community, and administrative fees received by a housing authority operating within the community. In considering the use of these financing and subsidy programs, the analysis shall identify the amounts of funds under each available program that have not been legally obligated for other purposes and that could be available for use in preserving assisted housing developments.",
+    "(b) (1) A statement of the community’s goals, quantified objectives, and policies relative to affirmatively furthering fair housing and to the maintenance, preservation, improvement, and development of housing.",
+    "(2) It is recognized that the total housing needs identified pursuant to subdivision (a) may exceed available resources and the community’s ability to satisfy this need within the content of the general plan requirements outlined in Article 5 (commencing with Section 65300). Under these circumstances, the quantified objectives need not be identical to the total housing needs. The quantified objectives shall establish the maximum number of housing units by income category that can be constructed, rehabilitated, and conserved over a five-year time period.",
+    "(c) A program that sets forth a schedule of actions during the planning period, each with a timeline for implementation, that may recognize that certain programs are ongoing, such that there will be beneficial impacts of the programs within the planning period, that the local government is undertaking or intends to undertake to implement the policies and achieve the goals and objectives of the housing element through the administration of land use and development controls, the provision of regulatory concessions and incentives, the utilization of appropriate federal and state financing and subsidy programs when available, and the utilization of moneys in a low- and moderate-income housing fund of an agency if the locality has established a redevelopment project area pursuant to the Community Redevelopment Law (Division 24 (commencing with Section 33000) of the Health and Safety Code). In order to make adequate provision for the housing needs of all economic segments of the community, the program shall do all of the following:",
+    "(1) Identify actions that will be taken to make sites available during the planning period with appropriate zoning and development standards and with services and facilities to accommodate that portion of the city’s or county’s share of the regional housing need for all income levels that could not be accommodated on sites identified in the inventory completed pursuant to paragraph (3) of subdivision (a) without rezoning, and to comply with the requirements of Section 65584.09. Sites shall be identified as needed to affirmatively further fair housing and to facilitate and encourage the development of a variety of types of housing for all income levels, including multifamily rental housing, factory-built housing, mobilehomes, housing for agricultural employees, supportive housing, single-room occupancy units, emergency shelters, and transitional housing.",
+    "(A) Where the inventory of sites, pursuant to paragraph (3) of subdivision (a), does not identify adequate sites to accommodate the need for groups of all household income levels pursuant to Section 65584, a program for rezoning of those sites, subject to the following deadlines:",
+    "(i) For the adoption of the sixth revision of the housing element, jurisdictions with an eight-year housing element planning period pursuant to Section 65588, including adoption of minimum density and development standards or, for a jurisdiction in the coastal zone, any necessary local coastal program amendments related to land use designations, changes in intensity of land use, zoning ordinances, or zoning district maps, consistent with Sections 30512, 30512.2, 30513, and 30514 of the Public Resources Code, shall be completed no later than three years after either the date the housing element is adopted pursuant to subdivision (f) of Section 65585 or the date that is 90 days after receipt of comments from the department pursuant to subdivision (b) of Section 65585, whichever is earlier, unless the deadline is extended pursuant to subdivision (f). Notwithstanding the foregoing, for a local government that fails to adopt a housing element that the department has found to be in substantial compliance with this article within 120 days of the statutory deadline in Section 65588 for adoption of the housing element, rezoning of those sites, including adoption of minimum density and development standards or, for a jurisdiction in the coastal zone, any necessary local coastal program amendments related to land use designations, changes in intensity of land use, zoning ordinances, or zoning district maps, consistent with Sections 30512, 30512.2, 30513, and 30514 of the Public Resources Code, shall be completed no later than one year from the statutory deadline in Section 65588 for adoption of the housing element.",
+    "(ii) For adoption of the seventh and all subsequent revisions of the housing element, rezonings shall be completed no later than one year from the statutory deadline in Section 65588 for adoption of the housing element.",
+    "(iii) Notwithstanding clause (ii), for the adoption of the seventh and all subsequent revisions of the housing element, rezonings shall be completed no later than three years and 90 days after the statutory deadline in Section 65588 for adoption of the housing element, unless the deadline is extended pursuant to subdivision (f). This clause shall apply only if the local government complies with all of the following:",
+    "(I) The local government submits a draft element or draft amendment to the department for review pursuant to paragraph (1) of subdivision (b) of Section 65585 at least 90 days before the statutory deadline established in Section 65588 for adoption of the housing element.",
+    "(II) The local government receives from the department findings that the draft element or draft amendment substantially complies with this article pursuant to paragraph (3) of subdivision (b) of Section 65585 on or before the statutory deadline set forth in Section 65588 for adoption of the housing element.",
+    "(III) The local government adopts the draft element or draft amendment that the department found to substantially comply with this article no later than 120 days after the statutory deadline set forth in Section 65588.",
+    "(B) Where the inventory of sites, pursuant to paragraph (3) of subdivision (a), does not identify adequate sites to accommodate the need for groups of all household income levels pursuant to Section 65584, the program shall identify sites that can be developed for housing within the planning period pursuant to subdivision (h) of Section 65583.2. The identification of sites shall include all components specified in Section 65583.2.",
+    "(C) Where the inventory of sites pursuant to paragraph (3) of subdivision (a) does not identify adequate sites to accommodate the need for farmworker housing, the program shall provide for sufficient sites to meet the need with zoning that permits farmworker housing use by right, including density and development standards that could accommodate and facilitate the feasibility of the development of farmworker housing for low- and very low income households.",
+    "(2) (A) Assist in the development of adequate housing to meet the needs of extremely low, very low, low-, and moderate-income households.",
+    "(B) For the seventh and subsequent revisions of the housing element, the program shall also assist in the development of adequate housing to meet the needs of acutely low income households.",
+    "(3) Address and, where appropriate and legally possible, remove governmental and nongovernmental constraints to the maintenance, improvement, and development of housing, including housing for all income levels and housing for persons with disabilities. The program shall remove constraints to, and provide reasonable accommodations for housing designed for, intended for occupancy by, or with supportive services for, persons with disabilities. Transitional housing and supportive housing shall be considered a residential use of property and shall be subject only to those restrictions that apply to other residential dwellings of the same type in the same zone. Supportive housing, as defined in Section 65650, shall be a use by right in all zones where multifamily and mixed uses are permitted, as provided in Article 11 (commencing with Section 65650).",
+    "(4) Conserve and improve the condition of the existing affordable housing stock, which may include addressing ways to mitigate the loss of dwelling units demolished by public or private action.",
+    "(5) Promote and affirmatively further fair housing opportunities and promote housing throughout the community or communities for all persons regardless of race, religion, sex, marital status, ancestry, national origin, color, familial status, or disability, and other characteristics protected by the California Fair Employment and Housing Act (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2), Section 65008, and any other state and federal fair housing and planning law.",
+    "(6) Preserve for lower income households the assisted housing developments identified pursuant to paragraph (9) of subdivision (a). The program for preservation of the assisted housing developments shall utilize, to the extent necessary, all available federal, state, and local financing and subsidy programs identified in paragraph (9) of subdivision (a), except where a community has other urgent needs for which alternative funding sources are not available. The program may include strategies that involve local regulation and technical assistance.",
+    "(7) Develop a plan that incentivizes and promotes the creation of accessory dwelling units that can be offered at affordable rent, as defined in Section 50053 of the Health and Safety Code, for very low, low-, or moderate-income households. For purposes of this paragraph, “accessory dwelling units” has the same meaning as “accessory dwelling unit” as defined in subdivision (a) of Section 66313.",
+    "(8) Include an identification of the agencies and officials responsible for the implementation of the various actions and the means by which consistency will be achieved with other general plan elements and community goals.",
+    "(9) Include a diligent effort by the local government to achieve public participation of all economic segments of the community in the development of the housing element, and the program shall describe this effort.",
+    "(10) (A) Affirmatively further fair housing in accordance with Chapter 15 (commencing with Section 8899.50) of Division 1 of Title 2. The program shall include an assessment of fair housing in the jurisdiction that shall include all of the following components:",
+    "(i) A summary of fair housing issues in the jurisdiction and an assessment of the jurisdiction’s fair housing enforcement and fair housing outreach capacity.",
+    "(ii) An analysis of available federal, state, and local data and knowledge to identify integration and segregation patterns and trends, racially or ethnically concentrated areas of poverty and affluence, disparities in access to opportunity, and disproportionate housing needs, including displacement risk. The analysis shall identify and examine such patterns, trends, areas, disparities, and needs, both within the jurisdiction and comparing the jurisdiction to the region in which it is located, based on race and other characteristics protected by the California Fair Employment and Housing Act (Part 2.8 (commencing with Section 12900) of Division 3 of Title 2) and Section 65008.",
+    "(iii) An assessment of the contributing factors, including the local and regional historical origins and current policies and practices, for the fair housing issues identified under clauses (i) and (ii).",
+    "(iv) An identification of the jurisdiction’s fair housing priorities and goals, giving highest priority to those factors identified in clause (iii) that limit or deny fair housing choice or access to opportunity, or negatively impact fair housing or civil rights compliance, and identifying the metrics and milestones for determining what fair housing results will be achieved.",
+    "(v) Strategies and actions to implement those priorities and goals, which may include, but are not limited to, enhancing mobility strategies and encouraging development of new affordable housing in areas of opportunity, as well as place-based strategies to encourage community revitalization, including preservation of existing affordable housing, and protecting existing residents from displacement.",
+    "(B) A jurisdiction that completes or revises an assessment of fair housing pursuant to Subpart A (commencing with Section 5.150) of Part 5 of Subtitle A of Title 24 of the Code of Federal Regulations, as published in Volume 80 of the Federal Register, Number 136, page 42272, dated July 16, 2015, or an analysis of impediments to fair housing choice in accordance with the requirements of Section 91.225 of Title 24 of the Code of Federal Regulations in effect before August 17, 2015, may incorporate relevant portions of that assessment or revised assessment of fair housing or analysis or revised analysis of impediments to fair housing into its housing element.",
+    "(C) (i) The requirements of this paragraph shall apply to housing elements due to be revised pursuant to Section 65588 on or after January 1, 2021.",
+    "(ii) The assessment required pursuant to this paragraph shall be completed before the planning agency makes its first draft revision of a housing element available for public comment pursuant to subdivision (b) of Section 65585.",
+    "(D) (i) The department shall develop a standardized reporting format for programs and actions taken pursuant to this paragraph. The standardized reporting format shall enable the reporting of all of the assessment components listed in subparagraph (A) and, at a minimum, include all of the following fields:",
+    "(I) Timelines for implementation.",
+    "(II) Responsible party or parties.",
+    "(III) Resources committed from the local budget to affirmatively further fair housing.",
+    "(IV) Action areas.",
+    "(V) Potential impacts of the program.",
+    "(ii) A local government shall utilize the standardized report format developed pursuant to this subparagraph for the seventh and each subsequent revision of the housing element.",
+    "(d) (1) A local government may satisfy all or part of its requirement to identify a zone or zones suitable for the development of emergency shelters pursuant to paragraph (4) of subdivision (a) by adopting and implementing a multijurisdictional agreement, with a maximum of two other adjacent communities, that requires the participating jurisdictions to develop at least one year-round emergency shelter within two years of the beginning of the planning period.",
+    "(2) The agreement shall allocate a portion of the new shelter capacity to each jurisdiction as credit toward its emergency shelter need, and each jurisdiction shall describe how the capacity was allocated as part of its housing element.",
+    "(3) Each member jurisdiction of a multijurisdictional agreement shall describe in its housing element all of the following:",
+    "(A) How the joint facility will meet the jurisdiction’s emergency shelter need.",
+    "(B) The jurisdiction’s contribution to the facility for both the development and ongoing operation and management of the facility.",
+    "(C) The amount and source of the funding that the jurisdiction contributes to the facility.",
+    "(4) The aggregate capacity claimed by the participating jurisdictions in their housing elements shall not exceed the actual capacity of the shelter.",
+    "(e) Except as otherwise provided in this article, amendments to this article that alter the required content of a housing element shall apply to both of the following:",
+    "(1) A housing element or housing element amendment prepared pursuant to subdivision (e) of Section 65588 or Section 65584.02, when a city, county, or city and county submits a draft to the department for review pursuant to Section 65585 more than 90 days after the effective date of the amendment to this section.",
+    "(2) Any housing element or housing element amendment prepared pursuant to subdivision (e) of Section 65588 or Section 65584.02, when the city, county, or city and county fails to submit the first draft to the department before the due date specified in Section 65588 or 65584.02.",
+    "(f) The deadline for completing required rezoning pursuant to subparagraph (A) of paragraph (1) of subdivision (c) shall be extended by one year if the local government has completed the rezoning at densities sufficient to accommodate at least 75 percent of the units for lower income households and if the legislative body at the conclusion of a public hearing determines, based upon substantial evidence, that any of the following circumstances exists:",
+    "(1) The local government has been unable to complete the rezoning because of the action or inaction beyond the control of the local government of any other state, federal, or local agency.",
+    "(2) The local government is unable to complete the rezoning because of infrastructure deficiencies due to fiscal or regulatory constraints.",
+    "(3) The local government must undertake a major revision to its general plan in order to accommodate the housing-related policies of a sustainable communities strategy or an alternative planning strategy adopted pursuant to Section 65080.",
+    "The resolution and the findings shall be transmitted to the department together with a detailed budget and schedule for preparation and adoption of the required rezonings, including plans for citizen participation and expected interim action. The schedule shall provide for adoption of the required rezoning within one year of the adoption of the resolution.",
+    "(g) (1) If a local government fails to complete the rezoning by the deadline provided in subparagraph (A) of paragraph (1) of subdivision (c), as it may be extended pursuant to subdivision (f), except as provided in paragraph (2), a local government may not disapprove a housing development project, nor require a conditional use permit, planned unit development permit, or other locally imposed discretionary permit, or impose a condition that would render the project infeasible, if the housing development project, (A) is proposed to be located on a site required to be rezoned pursuant to the program action required by that subparagraph and, (B) complies with applicable, objective general plan and zoning standards and criteria, including design review standards, described in the program action required by that subparagraph. Any subdivision of sites shall be subject to the Subdivision Map Act (Division 2 (commencing with Section 66410)). Design review shall not constitute a “project” for purposes of Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(2) A local government may disapprove a housing development described in paragraph (1) if it makes written findings supported by substantial evidence on the record that both of the following conditions exist:",
+    "(A) The housing development project would have a specific, adverse impact upon the public health or safety unless the project is disapproved or approved upon the condition that the project be developed at a lower density. As used in this paragraph, a “specific, adverse impact” means a significant, quantifiable, direct, and unavoidable impact, based on objective, identified written public health or safety standards, policies, or conditions as they existed on the date the application was deemed complete.",
+    "(B) There is no feasible method to satisfactorily mitigate or avoid the adverse impact identified pursuant to paragraph (1), other than the disapproval of the housing development project or the approval of the project upon the condition that it be developed at a lower density.",
+    "(3) The applicant or any interested person may bring an action to enforce this subdivision. If a court finds that the local agency disapproved a project or conditioned its approval in violation of this subdivision, the court shall issue an order or judgment compelling compliance within 60 days. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If the court determines that its order or judgment has not been carried out within 60 days, the court may issue further orders to ensure that the purposes and policies of this subdivision are fulfilled. In any such action, the city, county, or city and county shall bear the burden of proof.",
+    "(4) For purposes of this subdivision, “housing development project” means a project to construct residential units for which the project developer provides sufficient legal commitments to the appropriate local agency to ensure the continued availability and use of at least 49 percent of the housing units for very low, low-, and moderate-income households with an affordable housing cost or affordable rent, as defined in Section 50052.5 or 50053 of the Health and Safety Code, respectively, for the period required by the applicable financing.",
+    "(h) An action to enforce the program actions of the housing element shall be brought pursuant to Section 1085 of the Code of Civil Procedure.",
+    "(i) Notwithstanding any other law, the otherwise applicable timeframe set forth in paragraph (2) of subdivision (b) and subdivision (d) of Section 21080.3.1 of the Public Resources Code, and paragraph (3) of subdivision (d) of Section 21082.3 of the Public Resources Code, for a Native American tribe to respond to a lead agency and request consultation in writing is extended by 30 days for any housing development project application determined or deemed to be complete on or after March 4, 2020, and prior to December 31, 2021.",
+    "(j) On or after January 1, 2024, at the discretion of the department, the analysis of government constraints pursuant to paragraph (5) of subdivision (a) may include an analysis of constraints upon the maintenance, improvement, or development of housing for persons with a characteristic identified in subdivision (b) of Section 51 of the Civil Code. The implementation of this subdivision is contingent upon an appropriation by the Legislature in the annual Budget Act or another statute for this purpose."
+   ],
+   "sec": "65583",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65583.01 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) On or before July 1, 2028, the department shall take one of the following actions:",
+    "(1) Promulgate one or more formulas and associated user interfaces or other tools for the information described in subdivision (b).",
+    "(2) Approve one or more formulas and associated user interfaces or other tools developed by third parties for the information described in subdivision (b).",
+    "(b) Except as provided in subdivision (d), the formula and associated user interfaces or other tools promulgated or approved by the department pursuant to subdivision (a) shall allow for a determination to be made for all of the following:",
+    "(1) The realistic capacity of housing element inventory sites under the regulatory status quo, as required by subdivisions (c) and (g) of Section 65583.2. The formulas shall provide a presumptive probability of development and a total number of new units if the site is developed, with realistic capacity defined as the product of these terms.",
+    "(2) The additional realistic capacity that will be provided by a program of rezoning or constraint removal, under paragraph (1) or (3) of subdivision (c) of Section 65583 or subdivision (h) of Section 65583.2. The formulas shall provide a presumptive probability of development and a total number of units if the site is developed, with additional realistic capacity defined as the product of these terms per the applicable formula promulgated under paragraph (1).",
+    "(3) The realistic capacity for accessory dwelling units that will be developed and offered as housing during the planning period under subdivision (a) of Section 65583.1.",
+    "(c) A formula promulgated or approved by the department pursuant to subdivision (a) shall be based on historical data on the development and redevelopment of a site or area, statistically related site characteristics, and, if available, other information probative of a site’s probability of development or the total number of units if the site is developed.",
+    "(d) (1) A formula promulgated or approved by the department pursuant to subdivision (a) may, for purposes of determining capacity for housing at a level of affordability at or below an above-moderate income, exclude sites where size or zoning is not conducive to project sizes or densities that the department deems appropriate for lower income or moderate-income housing, as applicable, including a site zoned to not allow ministerial development.",
+    "(2) The postrezoning capacity of any lower-income site which is subject to a program of rezoning pursuant to subparagraph (A) of paragraph (1) of subdivision (c) of Section 65583 shall be counted only if that program will zone the site to permit owner-occupied and rental multifamily residential use by right for developments in which at least 20 percent of the units are affordable to lower income households.",
+    "(3) The realistic capacity of an eligible site for housing at a level of affordability at or below an above-moderate income shall be based on the site’s probability of development during the planning period multiplied by the expected total number of units if the site is developed.",
+    "(4) A formula promulgated or approved by the department pursuant to subdivision (a) may be limited to specified cities or counties if data availability or other reasonable considerations preclude making the formula universal.",
+    "(5) Nothing in this section shall excuse a city, county, or city and county from its obligation to identify specific sites adequate for the development of housing at various income levels pursuant to subdivision (c) of Section 65583.2.",
+    "(e) (1) The department may adopt emergency regulations pursuant to Section 11346.1 to implement this section.",
+    "(2) Notwithstanding Section 11346.1, emergency regulations adopted pursuant to this subdivision shall remain in effect until the date that permanent regulations to implement this section become effective.",
+    "(3) A formula, associated user interface, or tool promulgated or approved by the department shall not limit a local government’s discretion to establish the housing element inventory of sites to which the formula, associated user interface, or tool will be applied to assess the realistic capacity of the inventory sites.",
+    "(f) (1) A court may review whether a city or county that elected to use a formula promulgated or approved under subdivision (a) misapplied the formula or relied on substantially inaccurate, misclassified, or otherwise faulty data.",
+    "(2) Except as provided in paragraph (1), the use of any adopted formula, associated user interface, or tool by a city or county shall not be subject to judicial review.",
+    "(g) A city or county shall not be required to use a formula, associated user interface, or tool promulgated or approved by the department under subdivision (a).",
+    "(h) The department may hire economists and data scientists for the purpose of promulgating the formulas and associated user interfaces or other tools.",
+    "(i) The formulas, user interfaces, and other tools developed pursuant to this section shall be used solely for the purposes of estimating realistic development capacity of sites, and use of such formulas, user interfaces, and other tools shall not excuse a city, county, or city and county from any other requirement of this article.",
+    "(j) For purposes of this section, “total number of new units” means the sum of new units across all levels of affordability."
+   ],
+   "sec": "65583.01",
+   "verb": "added"
+  },
+  {
+   "action": "Section 65583.1 of the Government Code , as amended by Section 5 of Chapter 56 of the Statutes of 2026, is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The Department of Housing and Community Development, in evaluating a proposed or adopted housing element for substantial compliance with this article, may allow a city or county to identify adequate sites, as required pursuant to Section 65583, by a variety of methods, including, but not limited to, redesignation of property to a more intense land use category and increasing the density allowed within one or more categories. The department may also allow a city or county to identify sites for accessory dwelling units based on the number of accessory dwelling units developed in the prior housing element planning period whether or not the units are permitted by right, the need for these units in the community, the resources or incentives available for their development, and any other relevant factors, as determined by the department. Nothing in this section reduces the responsibility of a city or county to identify, by income category, the total number of sites for residential development as required by this article.",
+    "(b) Sites that contain permanent housing units located on a military base undergoing closure or conversion as a result of action pursuant to the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100-526), the Defense Base Closure and Realignment Act of 1990 (Public Law 101-510), or any subsequent act requiring the closure or conversion of a military base may be identified as an adequate site if the housing element demonstrates that the housing units will be available for occupancy by households within the planning period of the element. No sites containing housing units scheduled or planned for demolition or conversion to nonresidential uses shall qualify as an adequate site.",
+    "(c) (1) The Department of Housing and Community Development may allow a city or county to substitute the provision of units for up to 25 percent of the community’s obligation to identify adequate sites for any income category in its housing element pursuant to paragraph (1) of subdivision (c) of Section 65583 where the community includes in its housing element a program committing the local government to provide units in that income category within the city or county that will be made available through the provision of committed assistance during the planning period covered by the element to lower income households at affordable housing costs or affordable rents, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, and which meet the requirements of paragraph (2). Except as otherwise provided in this subdivision, the community may substitute one dwelling unit for one dwelling unit site in the applicable income category. The program shall do all of the following:",
+    "(A) Identify the specific, existing sources of committed assistance and dedicate a specific portion of the funds from those sources to the provision of housing pursuant to this subdivision.",
+    "(B) Indicate the number of units that will be provided to low-, very low, extremely low, and acutely low income households and demonstrate that the amount of dedicated funds is sufficient to develop the units at affordable housing costs or affordable rents.",
+    "(C) Demonstrate that the units meet the requirements of paragraph (2).",
+    "(2) Only units that comply with subparagraph (A), (B), (C), (D), or (E) qualify for inclusion in the housing element program described in paragraph (1), as follows:",
+    "(A) Units that are to be substantially rehabilitated with committed assistance from the city or county and constitute a net increase in the community’s stock of housing affordable to lower income households. For purposes of this subparagraph, a unit is not eligible to be “substantially rehabilitated” unless all of the following requirements are met:",
+    "(i) At the time the unit is identified for substantial rehabilitation, all of the following have occurred:",
+    "(I) The local government has determined that the unit is at imminent risk of loss to the housing stock.",
+    "(II) The local government has committed to provide relocation assistance pursuant to Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 to any occupants temporarily or permanently displaced by the rehabilitation or code enforcement activity, or the relocation is otherwise provided prior to displacement either as a condition of receivership, or provided by the property owner or the local government pursuant to Article 2.5 (commencing with Section 17975) of Chapter 5 of Part 1.5 of Division 13 of the Health and Safety Code, or as otherwise provided by local ordinance, provided the assistance includes not less than the equivalent of four months’ rent and moving expenses and comparable replacement housing consistent with the moving expenses and comparable replacement housing required pursuant to Section 7260.",
+    "(III) The local government requires that any displaced occupants will have the right to reoccupy the rehabilitated units.",
+    "(IV) The unit has been found by the local government or a court to be unfit for human habitation due to the existence of at least four violations of the conditions listed in subdivisions (a) to (g), inclusive, of Section 17995.3 of the Health and Safety Code.",
+    "(ii) The rehabilitated unit will have long-term affordability covenants and restrictions that require the unit to be available to, and occupied by, persons or families of lower income at affordable housing costs for at least 55 years or the time period required by any applicable federal or state law or regulation.",
+    "(iii) Prior to initial occupancy after rehabilitation, the local code enforcement agency shall issue a certificate of occupancy indicating compliance with all applicable state and local building code and health and safety code requirements.",
+    "(B) Units that are located either on foreclosed property or in a multifamily rental or ownership housing complex of three or more units, are converted with committed assistance from the city or county from nonaffordable to affordable by acquisition of the unit or the purchase of affordability covenants and restrictions for the unit, are not acquired by eminent domain, and constitute a net increase in the community’s stock of housing affordable to lower income households. For purposes of this subparagraph, a unit is not converted by acquisition or the purchase of affordability covenants unless all of the following occur:",
+    "(i) The unit is made available for rent at a cost affordable to lower income households.",
+    "(ii) At the time the unit is identified for acquisition, the unit is not available at an affordable housing cost to either of the following:",
+    "(I) Low-income households, if the unit will be made affordable to low-income households.",
+    "(II) Very low, extremely low, or acutely low income households, if the unit will be made affordable to very low income households.",
+    "(iii) At the time the unit is identified for acquisition the unit is not occupied by lower income households or if the acquired unit is occupied, the local government has committed to provide relocation assistance prior to displacement, if any, pursuant to Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 to any occupants displaced by the conversion, or the relocation is otherwise provided prior to displacement; provided the assistance includes not less than the equivalent of four months’ rent and moving expenses and comparable replacement housing consistent with the moving expenses and comparable replacement housing required pursuant to Section 7260.",
+    "(iv) The unit is in decent, safe, and sanitary condition at the time of occupancy.",
+    "(v) The unit has long-term affordability covenants and restrictions that require the unit to be affordable to persons of lower income for not less than 55 years.",
+    "(vi) For units located in multifamily ownership housing complexes with three or more units, or on or after January 1, 2015, on foreclosed properties, at least an equal number of new-construction multifamily rental units affordable to lower income households have been constructed in the city or county within the same planning period as the number of ownership units to be converted.",
+    "(C) Units that will be preserved at affordable housing costs to persons or families of lower incomes with committed assistance from the city or county by acquisition of the unit or the purchase of affordability covenants for the unit. For purposes of this subparagraph, a unit shall not be deemed preserved unless all of the following occur:",
+    "(i) The unit has long-term affordability covenants and restrictions that require the unit to be affordable to, and reserved for occupancy by, persons of the same or a lower income group as the current occupants for a period of at least 55 years.",
+    "(ii) The unit is within an “assisted housing development,” as defined in paragraph (3) of subdivision (a) of Section 65863.10.",
+    "(iii) The city or county finds, after a public hearing, that the unit is eligible, and is reasonably expected, to change from housing affordable to lower income households to any other use during the next eight years due to termination of subsidy contracts, mortgage prepayment, or expiration of restrictions on use.",
+    "(iv) The unit is in decent, safe, and sanitary condition at the time of occupancy.",
+    "(v) At the time the unit is identified for preservation it is available at affordable cost to persons or families of low or very low income.",
+    "(D) Units in a motel, hotel, or hostel that are converted with committed assistance from the city or county from nonresidential to residential by the acquisition of the unit or the purchase of affordability covenants and restrictions for the unit, are not acquired by eminent domain, and constitute a net increase in the community’s stock of housing affordable to low- and very low income households. For purposes of this subparagraph, a unit is not converted by acquisition or the purchase of affordability covenants unless all of the following occur:",
+    "(i) The unit is part of a long-term recovery response to COVID-19.",
+    "(ii) The unit is made available for people experiencing homelessness as defined in Section 578.3 of Title 24 of the Code of Federal Regulations.",
+    "(iii) The unit is made available for rent at a cost affordable to low- or very low income households.",
+    "(iv) The unit is in decent, safe, and sanitary condition at the time of occupancy.",
+    "(v) The unit has long-term affordability covenants and restrictions that require the unit to be affordable to persons of low or very low income for not less than 55 years.",
+    "(vi) This subparagraph shall remain in effect only for the sixth revision of the housing element pursuant to Section 65588.",
+    "(E) All spaces in a mobilehome park, as defined in subdivision (a) of Section 18214 of the Health and Safety Code, that is acquired with committed assistance from the city or county where any of the following apply:",
+    "(i) The mobilehome park will be acquired with financing that includes a loan from the department pursuant to Section 50783 or 50784.5 of the Health and Safety Code.",
+    "(ii) At least 50 percent of the current residents in the mobilehome park to be acquired are lower income households and the entity acquiring the park agrees to enter into a regulatory agreement for a minimum of 55 years that requires both of the following:",
+    "(I) All vacant spaces shall be rented at a space rent that does not exceed 50 percent of maximum rent limits established by the California Tax Credit Allocation Committee at 60 percent of the area median income.",
+    "(II) The space rent for existing residents at the time of the acquisition of the property, both during the 12 months preceding the acquisition and during the term of the regulatory agreement, shall not increase more than 5 percent in any 12-month period.",
+    "(3) This subdivision does not apply to any city or county that, during the current or immediately prior planning period, as defined by Section 65588, has not met any of its share of the regional need for affordable housing, as defined in Section 65584, for low- and very low income households. A city or county shall document for any housing unit that a building permit has been issued and all development and permit fees have been paid or the unit is eligible to be lawfully occupied.",
+    "(4) For purposes of this subdivision, “committed assistance” means that the city or county enters into a legally enforceable agreement during the period from the beginning of the projection period until the end of the third year of the planning period that obligates sufficient available funds or other in-kind services to provide the assistance necessary to make the identified units affordable and that requires that the units be made available for occupancy within two years of the execution of the agreement. “Committed assistance” does not include tenant-based rental assistance.",
+    "(5) For purposes of this subdivision, “in-kind services” means nonmonetary assistance provided by a city or county that materially reduces development costs or materially facilitates the acquisition, rehabilitation, or preservation of units eligible under this subdivision. “In-kind services” include, but are not limited to, all of the following:",
+    "(A) Provision of predevelopment loans that bear interest at or below the rates authorized in Section 50532 of the Health and Safety Code, with repayment terms that do not exceed those authorized under that section.",
+    "(B) The donation, dedication, or long-term lease of a specific parcel of land, or an existing structure, below market value, as documented by a qualified, independent appraisal.",
+    "(C) Any additional in-kind services identified in written guidance issued by the Department of Housing and Community Development.",
+    "(6) For purposes of this subdivision, “net increase” includes only housing units provided committed assistance pursuant to subparagraph (A) or (B) of paragraph (2) in the current planning period, as defined in Section 65588, that were not provided committed assistance in the immediately prior planning period.",
+    "(7) For purposes of this subdivision, “the time the unit is identified” means the earliest time when any city or county agent, acting on behalf of a public entity, has proposed in writing or has proposed orally or in writing to the property owner, that the unit be considered for substantial rehabilitation, acquisition, or preservation.",
+    "(8) In the fourth year of the planning period, as defined by Section 65588, in the report required pursuant to Section 65400, each city or county that has included in its housing element a program to provide units pursuant to subparagraph (A), (B), (C), (D), or (E) of paragraph (2) shall report in writing to the legislative body, and to the department within 30 days of making its report to the legislative body, on its progress in providing units pursuant to this subdivision. The report shall identify the specific units for which committed assistance has been provided or which have been made available to lower income households, and it shall adequately document how each unit complies with this subdivision. If, by the end of the third year of the planning period, the city or county has not entered into an enforceable agreement of committed assistance for all units specified in the programs adopted pursuant to subparagraph (A), (B), (C), (D), or (E) of paragraph (2), the city or county shall, not later than the end of the fourth year of the planning period, adopt an amended housing element in accordance with Section 65585, identifying additional adequate sites pursuant to paragraph (1) of subdivision (c) of Section 65583 sufficient to accommodate the number of units for which committed assistance was not provided. If a city or county does not amend its housing element to identify adequate sites to address any shortfall, or fails to complete the rehabilitation, acquisition, purchase of affordability covenants, or the preservation of any housing unit within two years after committed assistance was provided to that unit, it shall be prohibited from identifying units pursuant to subparagraph (A), (B), (C), (D), or (E) of paragraph (2) in the housing element that it adopts for the next planning period, as defined in Section 65588, above the number of units actually provided or preserved due to committed assistance.",
+    "(d) A city or county may reduce its share of the regional housing need by the number of units built between the start of the projection period and the deadline for adoption of the housing element. If the city or county reduces its share pursuant to this subdivision, the city or county shall include in the housing element a description of the methodology for assigning those housing units to an income category based on actual or projected sales price, rent levels, or other mechanisms establishing affordability."
+   ],
+   "sec": "65583.1",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65583.2 of the Government Code , as amended by Section 6.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A city’s or county’s inventory of land suitable for residential development pursuant to paragraph (3) of subdivision (a) of Section 65583 shall be used to identify sites throughout the community, consistent with paragraph (10) of subdivision (c) of Section 65583, that can be developed for housing within the planning period and that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels pursuant to Section 65584. As used in this section, “land suitable for residential development” includes all of the following sites that meet the standards set forth in subdivisions (c) and (g):",
+    "(1) Vacant sites zoned for residential use.",
+    "(2) Vacant sites zoned for nonresidential use that allows residential development.",
+    "(3) Residentially zoned sites that are capable of being developed at a higher density, including sites owned or leased by a city, county, or city and county.",
+    "(4) Sites zoned for nonresidential use that can be redeveloped for residential use, and for which the housing element includes a program to rezone the site, as necessary, to permit residential use, including sites owned or leased by a city, county, or city and county.",
+    "(b) The inventory of land shall include all of the following:",
+    "(1) A listing of properties by assessor parcel number.",
+    "(2) The size of each property listed pursuant to paragraph (1), and the general plan designation and zoning of each property.",
+    "(3) For nonvacant sites, a description of the existing use of each property. If a site subject to this paragraph is owned by the city or county, the description shall also include whether there are any plans to dispose of the property during the planning period and how the city or county will comply with Article 8 (commencing with Section 54220) of Chapter 5 of Part 1 of Division 2 of Title 5.",
+    "(4) A general description of any environmental constraints to the development of housing within the jurisdiction, the documentation for which has been made available to the jurisdiction. This information need not be identified on a site-specific basis.",
+    "(5) (A) A description of existing or planned water, sewer, and other dry utilities supply, including the availability and access to distribution facilities.",
+    "(B) Parcels included in the inventory must have sufficient water, sewer, and dry utilities supply available and accessible to support housing development or be included in an existing general plan program or other mandatory program or plan, including a program or plan of a public or private entity providing water or sewer service, to secure sufficient water, sewer, and dry utilities supply to support housing development. This paragraph does not impose any additional duty on the city or county to construct, finance, or otherwise provide water, sewer, or dry utilities to parcels included in the inventory.",
+    "(6) Sites identified as available for housing for above moderate-income households in areas not served by public sewer systems. This information need not be identified on a site-specific basis.",
+    "(7) A map that shows the location of the sites included in the inventory, such as the land use map from the jurisdiction’s general plan, for reference purposes only.",
+    "(c) Based on the information provided in subdivision (b), a city or county shall determine whether each site in the inventory can accommodate the development of some portion of its share of the regional housing need by income level during the planning period, as determined pursuant to Section 65584. The inventory shall specify for each site the number of units that can realistically be accommodated on that site and whether the site is adequate to accommodate lower income housing, moderate-income housing, or above moderate-income housing. A nonvacant site identified pursuant to paragraph (3) or (4) of subdivision (a) in a prior housing element and a vacant site that has been included in two or more consecutive planning periods that was not approved to develop a portion of the locality’s housing need shall not be deemed adequate to accommodate a portion of the housing need for lower income households that must be accommodated in the current housing element planning period unless the site is zoned at residential densities consistent with paragraph (3) of this subdivision and the site is subject to a program in the housing element requiring rezoning by the applicable deadline for rezoning set forth in subparagraph (A) of paragraph (1) of subdivision (c) of Section 65583 to allow residential use by right for housing developments in which at least 20 percent of the units are affordable to lower income households. An unincorporated area in a nonmetropolitan county pursuant to clause (ii) of subparagraph (B) of paragraph (3) shall not be subject to the requirements of this subdivision to allow residential use by right. The analysis shall determine whether the inventory can provide for a variety of types of housing, including multifamily rental housing, factory-built housing, mobilehomes, housing for agricultural employees, supportive housing, single-room occupancy units, emergency shelters, and transitional housing, and whether the inventory affirmatively furthers fair housing. The city or county shall determine the number of housing units that can be accommodated on each site as provided in paragraphs (1) to (4), inclusive, or by applying the applicable formula promulgated or approved by the department pursuant to Section 65583.01.",
+    "(1) If local law or regulations require the development of a site at a minimum density, the department shall accept the planning agency’s calculation of the total housing unit capacity on that site based on the established minimum density. If the city or county does not adopt a law or regulation requiring the development of a site at a minimum density, then it shall demonstrate how the number of units determined for that site pursuant to this subdivision will be accommodated.",
+    "(2) The number of units calculated pursuant to paragraph (1) shall be adjusted as necessary, based on the land use controls and site improvements requirement identified in paragraph (5) of subdivision (a) of Section 65583, the realistic development capacity for the site, typical densities of existing or approved residential developments at a similar affordability level in that jurisdiction, and on the current or planned availability and accessibility of sufficient water, sewer, and dry utilities.",
+    "(A) A site smaller than half an acre shall not be deemed adequate to accommodate lower income housing need unless the locality can demonstrate that sites of equivalent size were successfully developed during the prior planning period for an equivalent number of lower income housing units as projected for the site or unless the locality provides other evidence to the department that the site is adequate to accommodate lower income housing.",
+    "(B) A site larger than 10 acres shall not be deemed adequate to accommodate lower income housing need unless the locality can demonstrate that sites of equivalent size were successfully developed during the prior planning period for an equivalent number of lower income housing units as projected for the site or unless the locality provides other evidence to the department that the site can be developed as lower income housing. For purposes of this subparagraph, “site” means that portion of a parcel or parcels designated to accommodate lower income housing needs pursuant to this subdivision.",
+    "(C) A site may be presumed to be realistic for development to accommodate lower income housing need if, at the time of the adoption of the housing element, a development affordable to lower income households has been proposed and approved for development on the site.",
+    "(3) For the number of units calculated to accommodate its share of the regional housing need for lower income households pursuant to paragraph (2), a city or county shall do either of the following:",
+    "(A) Provide an analysis demonstrating how the adopted densities accommodate this need. The analysis shall include, but is not limited to, factors such as market demand, financial feasibility, or information based on development project experience within a zone or zones that provide housing for lower income households.",
+    "(B) The following densities shall be deemed appropriate to accommodate housing for lower income households:",
+    "(i) For an incorporated city within a nonmetropolitan county and for a nonmetropolitan county that has a micropolitan area: sites allowing at least 15 units per acre.",
+    "(ii) For an unincorporated area in a nonmetropolitan county not included in clause (i): sites allowing at least 10 units per acre.",
+    "(iii) For a suburban jurisdiction: sites allowing at least 20 units per acre.",
+    "(iv) For a jurisdiction in a metropolitan county: sites allowing at least 30 units per acre.",
+    "(4) (A) For a metropolitan jurisdiction:",
+    "(i) At least 25 percent of the jurisdiction’s share of the regional housing need for moderate-income housing shall be allocated to sites with zoning that allows at least four units of housing, but not more than 100 units per acre of housing.",
+    "(ii) At least 25 percent of the jurisdiction’s share of the regional housing need for above moderate-income housing shall be allocated to sites with zoning that allows at least 4 units of housing.",
+    "(B) The allocation of moderate-income and above moderate-income housing to sites pursuant to this paragraph shall not be a basis for the jurisdiction to do either of the following:",
+    "(i) Deny a project that does not comply with the allocation.",
+    "(ii) Impose a price minimum, price maximum, price control, or any other exaction or condition of approval in lieu thereof. This clause does not prohibit a jurisdiction from imposing any price minimum, price maximum, price control, exaction, or condition in lieu thereof, pursuant to any other law.",
+    "(iii) The provisions of this subparagraph do not constitute a change in, but are declaratory of, existing law with regard to the allocation of sites pursuant to this section.",
+    "(C) This paragraph does not apply to an unincorporated area.",
+    "(D) For purposes of this paragraph:",
+    "(i) “Housing development project” has the same meaning as defined in paragraph (2) of subdivision (h) of Section 65589.5.",
+    "(ii) “Unit of housing” does not include an accessory dwelling unit or junior accessory dwelling unit that could be approved pursuant to Article 2 (commencing with Section 66314) or Article 3 (commencing with Section 66333) of Chapter 13 or through a local ordinance or other provision implementing either of those articles. This paragraph shall not limit the ability of a local government to count the actual production of accessory dwelling units or junior accessory dwelling units in an annual progress report submitted pursuant to Section 65400 or other progress report as determined by the department.",
+    "(E) Nothing in this subdivision shall preclude the subdivision of a parcel, provided that the subdivision is subject to the Subdivision Map Act (Division 2 (commencing with Section 66410)) or any other applicable law authorizing the subdivision of land.",
+    "(d) For purposes of this section, a metropolitan county, nonmetropolitan county, and nonmetropolitan county with a micropolitan area shall be as determined by the United States Census Bureau. A nonmetropolitan county with a micropolitan area includes the following counties: Del Norte, Humboldt, Lake, Mendocino, Nevada, Tehama, and Tuolumne and other counties as may be determined by the United States Census Bureau to be nonmetropolitan counties with micropolitan areas in the future.",
+    "(e) (1) Except as provided in paragraph (2), a jurisdiction shall be considered suburban if the jurisdiction does not meet the requirements of clauses (i) and (ii) of subparagraph (B) of paragraph (3) of subdivision (c) and is located in a Metropolitan Statistical Area (MSA) of less than 2,000,000 in population, unless that jurisdiction’s population is greater than 100,000, in which case it shall be considered metropolitan. A county, not including the City and County of San Francisco, shall be considered suburban unless the county is in an MSA of 2,000,000 or greater in population, in which case the county shall be considered metropolitan.",
+    "(2) (A) (i) Notwithstanding paragraph (1), if a county that is in the San Francisco-Oakland-Fremont California MSA has a population of less than 400,000, that county shall be considered suburban. If this county includes an incorporated city that has a population of less than 100,000, this city shall also be considered suburban. This paragraph shall apply to a housing element revision cycle, as described in subparagraph (A) of paragraph (3) of subdivision (e) of Section 65588, that is in effect from July 1, 2014, to December 31, 2028, inclusive.",
+    "(ii) A county subject to this subparagraph shall utilize the sum existing in the county’s housing trust fund as of June 30, 2013, for the development and preservation of housing affordable to low- and very low income households.",
+    "(B) A jurisdiction that is classified as suburban pursuant to this paragraph shall report to the Assembly Committee on Housing and Community Development, the Senate Committee on Housing, and the Department of Housing and Community Development regarding its progress in developing low- and very low income housing consistent with the requirements of Section 65400. The report shall be provided three times: once, on or before December 31, 2019, which report shall address the initial four years of the housing element cycle, a second time, on or before December 31, 2023, which report shall address the subsequent four years of the housing element cycle, and a third time, on or before December 31, 2027, which report shall address the subsequent four years of the housing element cycle and the cycle as a whole. The reports shall be provided consistent with the requirements of Section 9795.",
+    "(f) A jurisdiction shall be considered metropolitan if the jurisdiction does not meet the requirements for “suburban area” above and is located in an MSA of 2,000,000 or greater in population, unless that jurisdiction’s population is less than 25,000 in which case it shall be considered suburban.",
+    "(g) (1) For sites described in paragraph (3) of subdivision (b), the city or county shall specify the additional development potential for each site within the planning period using one of the following:",
+    "(A) (i) The applicable formula promulgated or approved by the department under Section 65583.01.",
+    "(ii) A city or county has satisfied the requirements of this subdivision, if the city or county uses the applicable formula promulgated or approved by the department under Section 65583.01, except insofar as it misapplied the formula or relied on substantially inaccurate, misclassified, or otherwise faulty data.",
+    "(B) An alternative method. The alternative method shall provide an explanation of the methodology used to determine the development potential. The methodology shall consider factors including the extent to which existing uses may constitute an impediment to additional residential development, the city’s or county’s past experience with converting existing uses to higher density residential development, the current market demand for the existing use, an analysis of any existing leases or other contracts that would perpetuate the existing use or prevent redevelopment of the site for additional residential development, development trends, market conditions, and regulatory or other incentives or standards to encourage additional residential development on these sites.",
+    "(2) In addition to the analysis required in paragraph (1), when a city or county is using an alternative method, as described in paragraph (1), and relying on nonvacant sites described in paragraph (3) of subdivision (b) to accommodate 50 percent or more of its housing need for lower income households, the methodology used to determine additional development potential shall demonstrate that the existing use identified pursuant to paragraph (3) of subdivision (b) does not constitute an impediment to additional residential development during the period covered by the housing element. An existing use shall be presumed to impede additional residential development, absent findings based on substantial evidence that the use is likely to be discontinued during the planning period.",
+    "(3) Notwithstanding any other law, and in addition to the requirements in paragraphs (1) and (2), sites that currently have residential uses, or within the past five years have had residential uses that have been vacated or demolished, that are or were subject to a recorded covenant, ordinance, or law that restricts rents to levels affordable to persons and families of low or very low income, subject to any other form of rent or price control through a public entity’s valid exercise of its police power, or occupied by low- or very low income households, shall be subject to a policy requiring the replacement of all those units affordable to the same or lower income level as a condition of any development on the site. Replacement requirements shall be consistent with those set forth in paragraph (3) of subdivision (c) of Section 65915.",
+    "(h) (1) The program required by subparagraph (A) of paragraph (1) of subdivision (c) of Section 65583 shall accommodate 100 percent of the need for housing for lower income households allocated pursuant to Section 65584 for which site capacity has not been identified in the inventory of sites pursuant to paragraph (3) of subdivision (a) on sites that shall be zoned to permit owner-occupied and rental multifamily residential use by right for developments in which at least 20 percent of the units are affordable to lower income households during the planning period.",
+    "(2) These sites shall be zoned with minimum density and development standards that permit at least 16 units per site at a density of at least 16 units per acre in jurisdictions described in clause (i) of subparagraph (B) of paragraph (3) of subdivision (c), shall be at least 20 units per acre in jurisdictions described in clauses (iii) and (iv) of subparagraph (B) of paragraph (3) of subdivision (c), and shall meet the standards set forth in subparagraph (B) of paragraph (5) of subdivision (b). At least 50 percent of the lower income housing need shall be accommodated on sites designated for residential use and for which nonresidential uses or mixed uses are not permitted, except that a city or county may accommodate all of the lower income housing need on sites designated for mixed use if those sites allow 100 percent residential use and require that residential use occupy 50 percent of the total floor area of a mixed-use project.",
+    "(i) For purposes of this section and Section 65583, the phrase “use by right” shall mean that the local government’s review of the owner-occupied or multifamily residential use may not require a conditional use permit, planned unit development permit, or other discretionary local government review or approval that would constitute a “project” for purposes of Division 13 (commencing with Section 21000) of the Public Resources Code. Any subdivision of the sites shall be subject to all laws, including, but not limited to, the local government ordinance implementing the Subdivision Map Act. A local ordinance may provide that “use by right” does not exempt the use from design review. However, that design review shall not constitute a “project” for purposes of Division 13 (commencing with Section 21000) of the Public Resources Code. Use by right for all rental multifamily residential housing shall be provided in accordance with subdivision (f) of Section 65589.5.",
+    "(j) Notwithstanding any other provision of this section, within one-half mile of a Sonoma-Marin Area Rail Transit station, housing density requirements in place on June 30, 2014, shall apply.",
+    "(k) For purposes of subdivisions (a) and (b), the department shall provide guidance to local governments to properly survey, detail, and account for sites listed pursuant to Section 65585.",
+    "(l) (1) The changes to this section made by Chapter 193 of the Statutes of 2020 shall become operative on January 1, 2022.",
+    "(2) The changes to this section made by Chapter 193 of the Statutes of 2020 shall not apply to a housing element revision that is originally due on or before January 1, 2022, regardless of the date of adoption by the local agency.",
+    "(m) This section shall remain in effect only until December 31, 2028, and as of that date is repealed."
+   ],
+   "sec": "65583.2",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65583.2 of the Government Code , as amended by Section 7.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A city’s or county’s inventory of land suitable for residential development pursuant to paragraph (3) of subdivision (a) of Section 65583 shall be used to identify sites throughout the community, consistent with paragraph (10) of subdivision (c) of Section 65583, that can be developed for housing within the planning period and that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels pursuant to Section 65584. As used in this section, “land suitable for residential development” includes all of the following sites that meet the standards set forth in subdivisions (c) and (g):",
+    "(1) Vacant sites zoned for residential use.",
+    "(2) Vacant sites zoned for nonresidential use that allows residential development.",
+    "(3) Residentially zoned sites that are capable of being developed at a higher density, and sites owned or leased by a city, county, or city and county.",
+    "(4) Sites zoned for nonresidential use that can be redeveloped for residential use, and for which the housing element includes a program to rezone the site, as necessary, to permit residential use, including sites owned or leased by a city, county, or city and county.",
+    "(b) The inventory of land shall include all of the following:",
+    "(1) A listing of properties by assessor parcel number.",
+    "(2) The size of each property listed pursuant to paragraph (1), and the general plan designation and zoning of each property.",
+    "(3) For nonvacant sites, a description of the existing use of each property. If a site subject to this paragraph is owned by the city or county, the description shall also include whether there are any plans to dispose of the property during the planning period and how the city or county will comply with Article 8 (commencing with Section 54220) of Chapter 5 of Part 1 of Division 2 of Title 5.",
+    "(4) A general description of any environmental constraints to the development of housing within the jurisdiction, the documentation for which has been made available to the jurisdiction. This information need not be identified on a site-specific basis.",
+    "(5) (A) A description of existing or planned water, sewer, and other dry utilities supply, including the availability and access to distribution facilities.",
+    "(B) Parcels included in the inventory must have sufficient water, sewer, and dry utilities supply available and accessible to support housing development or be included in an existing general plan program or other mandatory program or plan, including a program or plan of a public or private entity providing water or sewer service, to secure sufficient water, sewer, and dry utilities supply to support housing development. This paragraph does not impose any additional duty on the city or county to construct, finance, or otherwise provide water, sewer, or dry utilities to parcels included in the inventory.",
+    "(6) Sites identified as available for housing for above moderate-income households in areas not served by public sewer systems. This information need not be identified on a site-specific basis.",
+    "(7) A map that shows the location of the sites included in the inventory, such as the land use map from the jurisdiction’s general plan for reference purposes only.",
+    "(c) Based on the information provided in subdivision (b), a city or county shall determine whether each site in the inventory can accommodate the development of some portion of its share of the regional housing need by income level during the planning period, as determined pursuant to Section 65584. The inventory shall specify for each site the number of units that can realistically be accommodated on that site and whether the site is adequate to accommodate lower income housing, moderate-income housing, or above moderate-income housing. A nonvacant site identified pursuant to paragraph (3) or (4) of subdivision (a) in a prior housing element and a vacant site that has been included in two or more consecutive planning periods that was not approved to develop a portion of the locality’s housing need shall not be deemed adequate to accommodate a portion of the housing need for lower income households that must be accommodated in the current housing element planning period unless the site is zoned at residential densities consistent with paragraph (3) of this subdivision and the site is subject to a program in the housing element requiring rezoning by the applicable deadline for rezoning set forth in subparagraph (A) of paragraph (1) of subdivision (c) of Section 65583 to allow residential use by right for housing developments in which at least 20 percent of the units are affordable to lower income households. An unincorporated area in a nonmetropolitan county pursuant to clause (ii) of subparagraph (B) of paragraph (3) shall not be subject to the requirements of this subdivision to allow residential use by right. The analysis shall determine whether the inventory can provide for a variety of types of housing, including multifamily rental housing, factory-built housing, mobilehomes, housing for agricultural employees, supportive housing, single-room occupancy units, emergency shelters, and transitional housing, and whether the inventory affirmatively furthers fair housing. The city or county shall determine the number of housing units that can be accommodated on each site as provided in paragraphs (1) to (4), inclusive, or by applying the applicable formula promulgated or approved by the department pursuant to Section 65583.01. The city or county has satisfied the requirements of this subdivision, if the city or county uses the applicable formula promulgated or approved by the department under Section 65583.01, except insofar as it misapplied the formula or relied on substantially inaccurate, misclassified, or otherwise faulty data.",
+    "(1) If local law or regulations require the development of a site at a minimum density, the department shall accept the planning agency’s calculation of the total housing unit capacity on that site based on the established minimum density. If the city or county does not adopt a law or regulation requiring the development of a site at a minimum density, then it shall demonstrate how the number of units determined for that site pursuant to this subdivision will be accommodated.",
+    "(2) The number of units calculated pursuant to paragraph (1) shall be adjusted as necessary, based on the land use controls and site improvements requirement identified in paragraph (5) of subdivision (a) of Section 65583, the realistic development capacity for the site, typical densities of existing or approved residential developments at a similar affordability level in that jurisdiction, and on the current or planned availability and accessibility of sufficient water, sewer, and dry utilities.",
+    "(A) A site smaller than half an acre shall not be deemed adequate to accommodate lower income housing need unless the locality can demonstrate that sites of equivalent size were successfully developed during the prior planning period for an equivalent number of lower income housing units as projected for the site or unless the locality provides other evidence to the department that the site is adequate to accommodate lower income housing.",
+    "(B) A site larger than 10 acres shall not be deemed adequate to accommodate lower income housing need unless the locality can demonstrate that sites of equivalent size were successfully developed during the prior planning period for an equivalent number of lower income housing units as projected for the site or unless the locality provides other evidence to the department that the site can be developed as lower income housing. For purposes of this subparagraph, “site” means that portion of a parcel or parcels designated to accommodate lower income housing needs pursuant to this subdivision.",
+    "(C) A site may be presumed to be realistic for development to accommodate lower income housing need if, at the time of the adoption of the housing element, a development affordable to lower income households has been proposed and approved for development on the site.",
+    "(3) For the number of units calculated to accommodate its share of the regional housing need for lower income households pursuant to paragraph (2), a city or county shall do either of the following:",
+    "(A) Provide an analysis demonstrating how the adopted densities accommodate this need. The analysis shall include, but is not limited to, factors such as market demand, financial feasibility, or information based on development project experience within a zone or zones that provide housing for lower income households.",
+    "(B) The following densities shall be deemed appropriate to accommodate housing for lower income households:",
+    "(i) For an incorporated city within a nonmetropolitan county and for a nonmetropolitan county that has a micropolitan area: sites allowing at least 15 units per acre.",
+    "(ii) For an unincorporated area in a nonmetropolitan county not included in clause (i): sites allowing at least 10 units per acre.",
+    "(iii) For a suburban jurisdiction: sites allowing at least 20 units per acre.",
+    "(iv) For a jurisdiction in a metropolitan county: sites allowing at least 30 units per acre.",
+    "(4) (A) For a metropolitan jurisdiction:",
+    "(i) At least 25 percent of the jurisdiction’s share of the regional housing need for moderate-income housing shall be allocated to sites with zoning that allows at least four units of housing, but not more than 100 units per acre of housing.",
+    "(ii) At least 25 percent of the jurisdiction’s share of the regional housing need for above moderate-income housing shall be allocated to sites with zoning that allows at least 4 units of housing.",
+    "(B) The allocation of moderate-income and above moderate-income housing to sites pursuant to this paragraph shall not be a basis for the jurisdiction to do either of the following:",
+    "(i) Deny a project that does not comply with the allocation.",
+    "(ii) Impose a price minimum, price maximum, price control, or any other exaction or condition of approval in lieu thereof. This clause does not prohibit a jurisdiction from imposing any price minimum, price maximum, price control, exaction, or condition in lieu thereof, pursuant to any other law.",
+    "(iii) The provisions of this subparagraph do not constitute a change in, but are declaratory of, existing law with regard to the allocation of sites pursuant to this section.",
+    "(C) This paragraph does not apply to an unincorporated area.",
+    "(D) For purposes of this paragraph:",
+    "(i) “Housing development project” has the same meaning as defined in paragraph (2) of subdivision (h) of Section 65589.5.",
+    "(ii) “Unit of housing” does not include an accessory dwelling unit or junior accessory dwelling unit that could be approved pursuant to Article 2 (commencing with Section 66314) or Article 3 (commencing with Section 66333) of Chapter 13 or through a local ordinance or other provision implementing either of those articles. This paragraph shall not limit the ability of a local government to count the actual production of accessory dwelling units or junior accessory dwelling units in an annual progress report submitted pursuant to Section 65400 or other progress report as determined by the department.",
+    "(E) Nothing in this subdivision shall preclude the subdivision of a parcel, provided that the subdivision is subject to the Subdivision Map Act (Division 2 (commencing with Section 66410)) or any other applicable law authorizing the subdivision of land.",
+    "(d) For purposes of this section, a metropolitan county, nonmetropolitan county, and nonmetropolitan county with a micropolitan area shall be as determined by the United States Census Bureau. A nonmetropolitan county with a micropolitan area includes the following counties: Del Norte, Humboldt, Lake, Mendocino, Nevada, Tehama, and Tuolumne and other counties as may be determined by the United States Census Bureau to be nonmetropolitan counties with micropolitan areas in the future.",
+    "(e) A jurisdiction shall be considered suburban if the jurisdiction does not meet the requirements of clauses (i) and (ii) of subparagraph (B) of paragraph (3) of subdivision (c) and is located in a Metropolitan Statistical Area (MSA) of less than 2,000,000 in population, unless that jurisdiction’s population is greater than 100,000, in which case it shall be considered metropolitan. A county, not including the City and County of San Francisco, shall be considered suburban unless the county is in an MSA of 2,000,000 or greater in population in which case the county shall be considered metropolitan.",
+    "(f) A jurisdiction shall be considered metropolitan if the jurisdiction does not meet the requirements for “suburban area” above and is located in an MSA of 2,000,000 or greater in population, unless that jurisdiction’s population is less than 25,000 in which case it shall be considered suburban.",
+    "(g) (1) For sites described in paragraph (3) of subdivision (b), the city or county shall specify the additional development potential for each site within the planning period using one of the following:",
+    "(A) (i) The applicable formula promulgated or approved by the department under Section 65583.01.",
+    "(ii) A city or county has satisfied the requirements of this subdivision, if the city or county uses the applicable formula promulgated or approved by the department under Section 65583.01, except insofar as it misapplied the formula or relied on substantially inaccurate, misclassified, or otherwise faulty data.",
+    "(B) An alternative method. The alternative method shall provide an explanation of the methodology used to determine the development potential. The methodology shall consider factors including the extent to which existing uses may constitute an impediment to additional residential development, the city’s or county’s past experience with converting existing uses to higher density residential development, the current market demand for the existing use, an analysis of any existing leases or other contracts that would perpetuate the existing use or prevent redevelopment of the site for additional residential development, development trends, market conditions, and regulatory or other incentives or standards to encourage additional residential development on these sites.",
+    "(2) In addition to the analysis required in paragraph (1), when a city or county is using an alternative method, as described in paragraph (1), and relying on nonvacant sites described in paragraph (3) of subdivision (b) to accommodate 50 percent or more of its housing need for lower income households, the methodology used to determine additional development potential shall demonstrate that the existing use identified pursuant to paragraph (3) of subdivision (b) does not constitute an impediment to additional residential development during the period covered by the housing element. An existing use shall be presumed to impede additional residential development, absent findings based on substantial evidence that the use is likely to be discontinued during the planning period.",
+    "(3) Notwithstanding any other law, and in addition to the requirements in paragraphs (1) and (2), sites that currently have residential uses, or within the past five years have had residential uses that have been vacated or demolished, that are or were subject to a recorded covenant, ordinance, or law that restricts rents to levels affordable to persons and families of low or very low income, subject to any other form of rent or price control through a public entity’s valid exercise of its police power, or occupied by low- or very low income households, shall be subject to a policy requiring the replacement of all those units affordable to the same or lower income level as a condition of any development on the site. Replacement requirements shall be consistent with those set forth in paragraph (3) of subdivision (c) of Section 65915.",
+    "(h) (1) The program required by subparagraph (A) of paragraph (1) of subdivision (c) of Section 65583 shall accommodate 100 percent of the need for housing for lower income households allocated pursuant to Section 65584 for which site capacity has not been identified in the inventory of sites pursuant to paragraph (3) of subdivision (a) on sites that shall be zoned to permit owner-occupied and rental multifamily residential use by right for developments in which at least 20 percent of the units are affordable to lower income households during the planning period.",
+    "(2) These sites shall be zoned with minimum density and development standards that permit at least 16 units per site at a density of at least 16 units per acre in jurisdictions described in clause (i) of subparagraph (B) of paragraph (3) of subdivision (c), shall be at least 20 units per acre in jurisdictions described in clauses (iii) and (iv) of subparagraph (B) of paragraph (3) of subdivision (c), and shall meet the standards set forth in subparagraph (B) of paragraph (5) of subdivision (b). At least 50 percent of the lower income housing need shall be accommodated on sites designated for residential use and for which nonresidential uses or mixed uses are not permitted, except that a city or county may accommodate all of the lower income housing need on sites designated for mixed use if those sites allow 100 percent residential use and require that residential use occupy 50 percent of the total floor area of a mixed-use project.",
+    "(i) For purposes of this section and Section 65583, the phrase “use by right” shall mean that the local government’s review of the owner-occupied or multifamily residential use may not require a conditional use permit, planned unit development permit, or other discretionary local government review or approval that would constitute a “project” for purposes of Division 13 (commencing with Section 21000) of the Public Resources Code. Any subdivision of the sites shall be subject to all laws, including, but not limited to, the local government ordinance implementing the Subdivision Map Act. A local ordinance may provide that “use by right” does not exempt the use from design review. However, that design review shall not constitute a “project” for purposes of Division 13 (commencing with Section 21000) of the Public Resources Code. Use by right for all rental multifamily residential housing shall be provided in accordance with subdivision (f) of Section 65589.5.",
+    "(j) For purposes of subdivisions (a) and (b), the department shall provide guidance to local governments to properly survey, detail, and account for sites listed pursuant to Section 65585.",
+    "(k) This section shall become operative on December 31, 2028."
+   ],
+   "sec": "65583.2",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing element compliance: committed assistance: in-kind services: realistic capacity formula.",
+ "title": "An act to amend Sections 65583, 65583.1, and 65583.2 of, and to add Section 65583.01 to, the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250SB45799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-24",
+   "id": "20250SB45798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-21",
+   "id": "20250SB45797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-01-05",
+   "id": "20250SB45796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-01-08",
+   "id": "20250SB45795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-20",
+   "id": "20250SB45794AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-11",
+   "id": "20250SB45793AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-13",
+   "id": "20250SB45792AMD",
+   "num": "92"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-20",
+   "id": "20250SB45791AMD",
+   "num": "91"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-01",
+   "id": "20250SB45790ENR",
+   "num": "90"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250SB45789CHP",
+   "num": "89"
+  }
+ ]
+}

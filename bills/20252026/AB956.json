@@ -1,0 +1,276 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Quirk-Silva",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Carrillo",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": false
+  }
+ ],
+ "bill": "AB956",
+ "bill_id": "202520260AB956",
+ "chapter": {
+  "num": "791",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, provides for the creation by local ordinance, or by ministerial approval if a local agency has not adopted an ordinance, of accessory dwelling units in areas zoned for single-family or multifamily dwelling residential use in accordance with specified standards and conditions. Existing law also provides for the creation of junior accessory dwelling units by local ordinance, or, if a local agency has not adopted an ordinance, by ministerial approval, in single-family residential zones in accordance with specified standards and conditions.",
+  "Existing law, the Davis-Stirling Common Interest Development Act, among other things, makes void and unenforceable any covenant, restriction, or condition contained in any instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described standards and conditions for those units.",
+  "This bill would revise the provision governing prohibitions or restrictions on the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use to instead apply to a lot zoned to allow single-family residential use.",
+  "Other existing law also generally makes void and unenforceable any covenant, restriction, or condition contained in any instrument affecting the transfer or sale of any interest in real property that either effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described standards and conditions for those units.",
+  "This bill would similarly revise that provision to instead apply to a lot zoned to allow single-family residential use.",
+  "Existing law requires a local agency to ministerially approve a building permit application within a residential or mixed-use zone to create certain accessory dwelling units and junior accessory dwelling units, or any combination of those units, if specified conditions are met, including, among other things, requiring the ministerial approval of one detached, new construction, accessory dwelling unit that does not exceed 4-foot side and rear yard setbacks for a lot with a proposed or existing single-family dwelling, as specified.",
+  "This bill would increase the number of detached, new construction, accessory dwelling units that a local agency is required to ministerially approve on lots with a proposed or existing single-family dwelling, as described above, to 2. However, the bill would expressly state that a local agency is not required to ministerially approve an application for a building permit to create a junior accessory dwelling unit on the same lot where 2 detached, new construction, accessory dwelling units have been constructed. By imposing new duties on local governments with respect to the approval of accessory dwelling units, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "ac63aa8b83c73ceb",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-04-07"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1265.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "(Pending re-refer to Com. on L. GOV.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (April 24). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 2.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 58. Noes 4. Page 1654.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and L. GOV.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-06-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 7. Noes 1.) (June 10).",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 2.) (July 1). Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-04"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-12"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 27. Noes 6.).",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D. pursuant to Assembly Rule 77.2.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Joint Rule 62(a), file notice suspended. (Page 6646.)",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee: That the Senate amendments be concurred in. (Ayes 10. Noes 0.) (August 27).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 2. Page 6744.).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-04"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 791, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250AB95693CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66323 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding Sections 66314 to 66322, inclusive, a local agency shall ministerially approve an application for a building permit within a residential or mixed-use zone to create any of the following units, or, except as provided in subdivision (b), any combination of the following units:",
+    "(1) One accessory dwelling unit and one junior accessory dwelling unit per lot with a proposed or existing single-family dwelling if all of the following apply:",
+    "(A) The accessory dwelling unit or junior accessory dwelling unit is within the proposed space of a single-family dwelling or existing space of a single-family dwelling or accessory structure and may include an expansion of not more than 150 square feet beyond the same physical dimensions as the existing accessory structure. An expansion beyond the physical dimensions of the existing accessory structure shall be limited to accommodating ingress and egress.",
+    "(B) The space has exterior access from the proposed or existing single-family dwelling.",
+    "(C) The side and rear setbacks are sufficient for fire and safety.",
+    "(D) The junior accessory dwelling unit complies with the requirements of Article 3 (commencing with Section 66333).",
+    "(2) Two detached, new construction, accessory dwelling units that do not exceed four-foot side and rear yard setbacks for a lot with a proposed or existing single-family dwelling. A local agency may impose the following conditions on a detached, new construction, accessory dwelling unit:",
+    "(A) A total floor area limitation of not more than 800 square feet of livable space.",
+    "(B) A height limitation as provided in subparagraph (A), (B), or (C) of paragraph (4) of subdivision (b) of Section 66321, as applicable.",
+    "(3) (A) Multiple accessory dwelling units within the portions of existing multifamily dwelling structures that are not used as livable space, including, but not limited to, storage rooms, boiler rooms, passageways, attics, basements, or garages, if each unit complies with state building standards for dwellings.",
+    "(B) A local agency shall allow at least one accessory dwelling unit within an existing multifamily dwelling and shall allow up to 25 percent of the existing multifamily dwelling units.",
+    "(4) (A) (i) Multiple accessory dwelling units, not to exceed the number specified in clause (ii) or (iii), as applicable, that are located on a lot that has an existing or proposed multifamily dwelling, but are detached from that multifamily dwelling and are subject to a height limitation in subparagraph (A), (B), or (C) of paragraph (4) of subdivision (b) of Section 66321, as applicable, and rear yard and side setbacks of no more than four feet.",
+    "(ii) On a lot with an existing multifamily dwelling, not more than eight detached accessory dwelling units. However, the number of accessory dwelling units allowable pursuant to this clause shall not exceed the number of existing units on the lot.",
+    "(iii) On a lot with a proposed multifamily dwelling, not more than two detached accessory dwelling units.",
+    "(B) If the existing multifamily dwelling has a rear or side setback of less than four feet, the local agency shall not require any modification of the existing multifamily dwelling as a condition of approving the application to construct an accessory dwelling unit that satisfies the requirements of this paragraph.",
+    "(b) Notwithstanding subdivision (a), a local agency is not required to ministerially approve an application for a building permit to create a junior accessory dwelling unit on the same lot where two detached, new construction, accessory dwelling units have been constructed pursuant to paragraph (2) of subdivision (a).",
+    "(c) A local agency shall not impose any objective development or design standard that is not authorized by this section upon any unit that meets the requirements of any of paragraphs (1) to (4), inclusive, of subdivision (a).",
+    "(d) A local agency shall not require, as a condition for ministerial approval of a permit application for the creation of an accessory dwelling unit or a junior accessory dwelling unit, the correction of nonconforming zoning conditions.",
+    "(e) The installation of fire sprinklers shall not be required in an accessory dwelling unit or a junior accessory dwelling unit if sprinklers are not required for the primary residence. The construction of an accessory dwelling unit or a junior accessory dwelling unit shall not trigger a requirement for fire sprinklers to be installed in the existing multifamily dwelling.",
+    "(f) A local agency shall require that a rental of the accessory dwelling unit created pursuant to this section be for a term longer than 30 days.",
+    "(g) A local agency may require, as part of the application for a permit to create an accessory dwelling unit connected to an onsite wastewater treatment system, a percolation test completed within the last 5 years, or, if the percolation test has been recertified, within the last 10 years."
+   ],
+   "sec": "66323",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Accessory dwelling units and junior accessory dwelling units.",
+ "title": "An act to amend Sections 714.3 and 4751 of the Civil Code, and to amend Section 66323 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB95699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-17",
+   "id": "20250AB95698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-05-27",
+   "id": "20250AB95697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-15",
+   "id": "20250AB95696AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-12",
+   "id": "20250AB95695AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-01",
+   "id": "20250AB95694ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250AB95693CHP",
+   "num": "93"
+  }
+ ]
+}

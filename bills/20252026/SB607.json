@@ -1,0 +1,412 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "McGuire",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Stefani",
+   "primary": false
+  }
+ ],
+ "bill": "SB607",
+ "bill_id": "202520260SB607",
+ "chapter": {
+  "num": "972",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA requires the Office of Land Use and Climate Innovation to prepare and develop proposed guidelines for the implementation of CEQA by public agencies and requires the Secretary of the Natural Resources Agency to certify and adopt those proposed guidelines. CEQA requires those adopted guidelines to include a list of classes of projects that have been determined not to have a significant effect on the environment and exempts those classes of projects from CEQA, commonly known as categorical exemptions.",
+  "This bill would require a lead agency to limit the scope of an environmental impact report to the condition of a categorical exemption that the lead agency determines, after a preliminary review of the project, disqualifies the project from eligibility under the categorical exemption, if the lead agency determines that the project meets all other conditions of the categorical exemption except for the one condition that disqualifies it, as specified. The bill would require that a lead agency’s determination to adopt a negative declaration or mitigated negative declaration be upheld if there is a fair argument that substantial evidence supports the determination. The bill would provide that these provisions do not apply to a project to construct or that is related to a distribution center or oil and gas infrastructure. The bill would exempt from the requirements of CEQA, except as provided, a rezoning that is consistent with an approved housing element. Because the bill would require a lead agency to determine the applicability of this exemption, the bill would impose a state-mandated local program.",
+  "This bill would require the office, on or before July 1, 2026, to map the eligible urban infill sites within every incorporated city in the state, as provided. The bill would require the office, on or before July 1, 2026, to prepare, develop, and transmit to the agency for certification and adoption refinements to the infill development project categorical exemption, as provided. The bill would provide that specified regulations related to the significant effect exception to the use of a categorical exemption do not apply to an infill project that meets all conditions of the infill development project categorical exemption. The bill would require, if an infill project is not eligible for the infill development project categorical exemption, only the reasons for the ineligibility be subject to CEQA review. The bill would provide that these provisions do not apply to a project to construct or that is related to a distribution center or oil and gas infrastructure.",
+  "CEQA requires an action or proceeding to attack, review, set aside, void, or annul certain acts or decisions of a public agency to be commenced according to specified processes, including that at the time that the action or proceeding is filed, the plaintiff or petitioner shall file a request that the respondent public agency prepare the record of proceedings relating to the subject of the action or proceeding, and requires the record of proceedings to include specified items and materials, including, among other things, all internal agency communications, including staff notes and memoranda related to the project or to compliance with CEQA, but excluding communications that are of a logistical nature, as specified.",
+  "This bill would also exclude communications of persons tangential to or far removed from project decisionmaking from the materials to be included in the record of proceedings, except as provided.",
+  "This bill would require, except as provided, if an action or proceeding alleging that a lead agency improperly applied to a project a statutory or categorical exemption is successful, the subsequent environmental review for the project be limited to the facts the action or proceeding relied upon that disqualified the project from the statutory or categorical exemption.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "94d0ceca520144f1",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and L. GOV.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "Set for hearing April 2.",
+   "date": "2025-03-11"
+  },
+  {
+   "action": "April 2 hearing postponed by committee.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.Q.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Set for hearing April 23.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 30 in L. GOV. pending receipt.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 6. Noes 0. Page 867.) (April 23). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 1. Page 968.) (April 30).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Set for hearing May 19.",
+   "date": "2025-05-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-13"
+  },
+  {
+   "action": "May 19 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 4. Noes 0. Page 1206.) (May 23).",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read second time and amended. Ordered to third reading.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "(Corrected May 28).",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Ordered to inactive file on request of Senator Wiener.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "Joint Rule 61(a)(13) suspended. (Ayes 28. Noes 8. Page 2999.)",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "From inactive file.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on ED.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Set for hearing January 14.",
+   "date": "2026-01-07"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 7. Noes 0. Page 3224.) (January 14).",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2026-01-15"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 37. Noes 0. Page 3249.) Ordered to the Assembly.",
+   "date": "2026-01-20"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-01-20"
+  },
+  {
+   "action": "Referred to Coms. on TRANS. and L. GOV.",
+   "date": "2026-06-08"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS.",
+   "date": "2026-06-08"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-06-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To consent calendar. (Ayes 16. Noes 0.) (June 22). Re-referred to Com. on L. GOV.",
+   "date": "2026-06-23"
+  },
+  {
+   "action": "From committee: Do pass as amended. Ordered to consent calendar. (Ayes 9. Noes 0.) (July 1).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 71. Noes 0. Page 6086.) Ordered to the Senate.",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "date": "2026-08-10"
+  },
+  {
+   "action": "From committee: Be re-referred to Com. on TRANS. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0. Page 5328.) Re-referred to Com. on TRANS.",
+   "date": "2026-08-10"
+  },
+  {
+   "action": "Set for hearing August 11.",
+   "date": "2026-08-11"
+  },
+  {
+   "action": "From committee: That the Assembly amendments be concurred in. (Ayes 13. Noes 0. Page 5337.)",
+   "date": "2026-08-11"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 5486.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 972, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250SB60789CHP",
+  "num": "89"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.08 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) This division does not apply to a rezoning that is consistent with an approved housing element.",
+    "(b) Subdivision (a) does not apply to a rezoning that would allow for the construction of a distribution center or for oil and gas infrastructure."
+   ],
+   "sec": "21080.08",
+   "verb": "added"
+  },
+  {
+   "action": "Section 21080.1 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) (1) The lead agency shall be responsible for determining whether an environmental impact report, a negative declaration, or a mitigated negative declaration shall be required for any project that is subject to this division. That determination shall be final and conclusive on all persons, including responsible agencies, unless challenged as provided in Section 21167.",
+    "(2) (A) The lead agency shall limit the scope of an environmental impact report to the condition of a categorical exemption that the lead agency determines, after a preliminary review of the project, disqualifies the project from eligibility under the categorical exemption, if the lead agency determines that the project meets all other conditions of the categorical exemption except for the one condition that disqualifies it.",
+    "(B) This paragraph does not apply to a project that is disqualified from a categorical exemption for failing to meet two or more conditions of the categorical exemption.",
+    "(C) This paragraph does not apply to a project to construct or that is related to a distribution center or oil and gas infrastructure.",
+    "(3) (A) The lead agency’s determination to adopt a negative declaration or mitigated negative declaration shall be upheld if there is a fair argument that substantial evidence supports the determination.",
+    "(B) This paragraph does not apply to a project to construct or that is related to a distribution center or oil and gas infrastructure.",
+    "(b) In the case of a project described in subdivision (c) of Section 21065, the lead agency shall, upon the request of a potential applicant, provide for consultation prior to the filing of the application regarding the range of actions, potential alternatives, mitigation measures, and any potential and significant effects on the environment of the project."
+   ],
+   "sec": "21080.1",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21083.03 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) On or before July 1, 2026, the Office of Land Use and Climate Innovation shall prepare, develop, and transmit to the Natural Resources Agency for certification and adoption refinements to the infill development project categorical exemption pursuant to Section 15332 of Title 14 of the California Code of Regulations that establish all of the following:",
+    "(1) For purposes of compliance with subdivision (a) of Section 15332 of Title 14 of the California Code of Regulations, a project is also eligible if it is consistent with the zoning designated by the local jurisdiction’s most recently adopted housing element, provided that the housing element has been certified by the Department of Housing and Community Development to be in compliance with state law.",
+    "(2) Notwithstanding that a project may or may not be substantially surrounded by urban uses pursuant to subdivision (b) of Section 15332 of Title 14 of the California Code of Regulations, that a project is in compliance with subdivision (b) of Section 15332 of Title 14 of the California Code of Regulations if it is located within an area that the Office of Land Use and Climate Innovation has determined to be an eligible urban infill site pursuant to subdivision (b).",
+    "(3) Objective and measurable thresholds for an effect upon the environment to be considered significant for purposes of subdivision (d) of Section 15332 of Title 14 of the California Code of Regulations.",
+    "(b) On or before July 1, 2026, the Office of Land Use and Climate Innovation shall map the eligible urban infill sites within every incorporated city in the state where, notwithstanding that an area may or may not be substantially surrounded by urban uses, the local jurisdiction’s most recent general plan or most recently adopted housing element certified by the Department of Housing and Community Development to be in compliance with state law has a zoning designation that is consistent with infill development.",
+    "(c) Subdivision (c) of Section 15300.2 of Title 14 of the California Code of Regulations does not apply to Section 15332 of Title 14 of the California Code of Regulations.",
+    "(d) If an infill project is not eligible for the categorical exemption pursuant to Section 15332 of Title 14 of the California Code of Regulations, only the reasons for the ineligibility shall be subject to CEQA review.",
+    "(e) This section and refinements developed by the Office of Land Use and Climate Innovation does not apply to a project to construct or that is related to a distribution center or oil and gas infrastructure."
+   ],
+   "sec": "21083.03",
+   "verb": "added"
+  },
+  {
+   "action": "Section 21165.5 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) If an action or proceeding alleging that a lead agency improperly applied to a project a statutory exemption pursuant to this division, or a categorical exemption, is successful, the subsequent environmental review for the project shall be limited to the facts the action or proceeding relied upon that disqualified the project from the statutory or categorical exemption.",
+    "(b) This section does not apply to a project to construct or that is related to a distribution center or oil and gas infrastructure."
+   ],
+   "sec": "21165.5",
+   "verb": "added"
+  },
+  {
+   "action": "Section 21167.6 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "Notwithstanding any other law, in all actions or proceedings brought pursuant to Section 21167, except as provided in Section 21167.6.2 or those involving the Public Utilities Commission, all of the following shall apply:",
+    "(a) At the time that the action or proceeding is filed, the plaintiff or petitioner shall file a request that the respondent public agency prepare the record of proceedings relating to the subject of the action or proceeding. The request, together with the complaint or petition, shall be served personally upon the public agency not later than 10 business days from the date that the action or proceeding was filed.",
+    "(b) (1) (A) The public agency shall prepare and certify the record of proceedings not later than 60 days from the date that the request specified in subdivision (a) was served upon the public agency. Upon certification, the public agency shall lodge an electronic copy of the record of proceedings with the court and shall serve on the parties notice that the record of proceedings has been certified and lodged with the court. The parties shall pay any reasonable costs or fees imposed for the preparation of the record of proceedings in conformance with any law or rule of court.",
+    "(B) The court shall schedule a case management conference within 30 days of the filing of the complaint or petition pursuant to this division to review the scope, timing, and cost of the record of proceedings. The parties may stipulate to a partial record of proceedings that does not contain all the documents listed in subdivision (e) if approved by the court.",
+    "(2) The plaintiff or petitioner may elect to prepare the record of proceedings by providing a notice of the election to the public agency, or the parties may agree to an alternative method of preparation of the record of proceedings, subject to certification of its accuracy by the public agency, within the 60-day time limit specified in this subdivision.",
+    "(3) Notwithstanding paragraph (2), the public agency, within five business days of the receipt of the notice specified in paragraph (2), may deny the request of the plaintiff or petitioner to prepare the record of proceedings, in which case the public agency or the real party in interest shall bear the costs of preparation and certification of the record of proceedings, and those costs shall not be recoverable from the plaintiff or petitioner.",
+    "(c) The time limit established by subdivision (b) may be extended only upon the stipulation of all parties who have been properly served in the action or proceeding or upon order of the court. Extensions shall be liberally granted by the court when the size of the record of proceedings renders infeasible compliance with that time limit. There is no limit on the number of extensions that may be granted by the court, but no single extension shall exceed 60 days unless the court determines that a longer extension is in the public interest.",
+    "(d) If the public agency fails to prepare and certify the record of proceedings within the time limit established in paragraph (1) of subdivision (b), or any continuances of that time limit, the plaintiff or petitioner may move for sanctions, and the court may, upon that motion, grant appropriate sanctions.",
+    "(e) The record of proceedings shall include, but is not limited to, all of the following items:",
+    "(1) All project application materials.",
+    "(2) All staff reports and related documents prepared by the respondent public agency with respect to its compliance with the substantive and procedural requirements of this division and with respect to the action on the project.",
+    "(3) All staff reports and related documents prepared by the respondent public agency and written testimony or documents submitted by any person relevant to any findings or statement of overriding considerations adopted by the respondent agency pursuant to this division.",
+    "(4) Any transcript or minutes of the proceedings at which the decisionmaking body of the respondent public agency heard testimony on, or considered any environmental document on, the project, and any transcript or minutes of proceedings before any advisory body to the respondent public agency that were presented to the decisionmaking body before action on the environmental documents or on the project.",
+    "(5) All notices issued by the respondent public agency to comply with this division or with any other law governing the processing and approval of the project.",
+    "(6) All written comments received in response to, or in connection with, environmental documents prepared for the project, including responses to the notice of preparation.",
+    "(7) All written evidence or correspondence submitted to, or transferred from, the respondent public agency with respect to compliance with this division or with respect to the project.",
+    "(8) Any proposed decisions or findings submitted to the decisionmaking body of the respondent public agency by its staff, or the project proponent, project opponents, or other persons.",
+    "(9) The documentation of the final public agency decision, including the final environmental impact report, mitigated negative declaration, or negative declaration, and all documents, in addition to those referenced in paragraph (3), cited or relied on in the findings or in a statement of overriding considerations adopted pursuant to this division.",
+    "(10) Any other written materials relevant to the respondent public agency’s compliance with this division or to its decision on the merits of the project, including the initial study, any drafts of any environmental document, or portions thereof, that have been released for public review, and copies of studies or other documents relied upon in any environmental document prepared for the project and either made available to the public during the public review period or included in the respondent public agency’s files on the project, and all internal agency communications, including staff notes and memoranda related to the project or to compliance with this division, but not including communications of persons tangential to or far removed from project decisionmaking, unless those communications are related to a project that would construct or is related to a distribution center or oil and gas infrastructure, or that are of a logistical nature, such as meeting invitations and scheduling communications, except that any material that is subject to privileges contained in the Evidence Code, or exemptions contained in the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code) shall not be included in the record of proceedings under this paragraph, consistent with existing law.",
+    "(11) The full written record before any inferior administrative decisionmaking body whose decision was appealed to a superior administrative decisionmaking body before the filing of litigation.",
+    "(f) In preparing the record of proceedings, the party preparing the record of proceedings shall strive to do so at reasonable cost in light of the scope of the record of proceedings.",
+    "(g) The clerk of the superior court shall prepare and certify the clerk’s transcript on appeal not later than 60 days from the date that the notice designating the papers or records to be included in the clerk’s transcript was filed with the superior court, if the party or parties pay any costs or fees for the preparation of the clerk’s transcript imposed in conformance with any law or rules of court. Nothing in this subdivision precludes an election to proceed by appendix, as provided in Rule 8.124 of the California Rules of Court.",
+    "(h) Extensions of the period for the filing of any brief on appeal may be allowed only by stipulation of the parties or by order of the court for good cause shown. Extensions for the filing of a brief on appeal shall be limited to one 30-day extension for the preparation of an opening brief and one 30-day extension for the preparation of a responding brief, except that the court may grant a longer extension or additional extensions if it determines that there is a substantial likelihood of settlement that would avoid the necessity of completing the appeal.",
+    "(i) At the completion of the filing of briefs on appeal, the appellant shall notify the court of the completion of the filing of briefs, whereupon the clerk of the reviewing court shall set the appeal for hearing on the first available calendar date."
+   ],
+   "sec": "21167.6",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Golden Gate Bridge, Highway and Transportation District: contributions and loans.",
+ "title": "An act to amend Sections 21080.1 and 21167.6 of, and to add Sections 21080.08, 21083.03, and 21165.5 to, the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250SB60799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-24",
+   "id": "20250SB60798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-01",
+   "id": "20250SB60797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-13",
+   "id": "20250SB60796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-28",
+   "id": "20250SB60795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-12",
+   "id": "20250SB60794AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-01-05",
+   "id": "20250SB60793AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-08",
+   "id": "20250SB60792AMD",
+   "num": "92"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-07-02",
+   "id": "20250SB60791AMD",
+   "num": "91"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-19",
+   "id": "20250SB60790ENR",
+   "num": "90"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250SB60789CHP",
+   "num": "89"
+  }
+ ]
+}

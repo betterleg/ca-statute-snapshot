@@ -1,0 +1,75 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Limón",
+   "primary": true
+  }
+ ],
+ "bill": "SB488",
+ "bill_id": "202520260SB488",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The Planning and Zoning Law requires the legislative body of a city or county to adopt a comprehensive, long-term general plan that includes various elements, including, among others, a safety element for the protection of the community from specified risks. Existing law authorizes a city or county to adopt within the safety element a local hazard mitigation plan, and requires that plan to meet specified requirements set out in the federal Disaster Mitigation Act of 2000.",
+  "This bill would make nonsubstantive changes in the provision that authorizes a city or county to adopt a local hazard mitigation plan."
+ ],
+ "hash": "ff3d715dd184299a",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-02-26"
+  },
+  {
+   "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2025-02-19",
+  "id": "20250SB48899INT",
+  "num": "99"
+ },
+ "location": "CS58",
+ "sections": [
+  {
+   "action": "Section 65302.6 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A city, county, or a city and county may adopt with its safety element pursuant to subdivision (g) of Section 65302 a local hazard mitigation plan (HMP) specified in the federal Disaster Mitigation Act of 2000 (Public Law 106-390). The hazard mitigation plan shall include all of the following elements called for in the federal act requirements:",
+    "(1) An initial earthquake performance evaluation of public facilities that provide essential services, shelter, and critical governmental functions.",
+    "(2) An inventory of private facilities that are potentially hazardous, including, but not limited to, multiunit, soft story, concrete tilt-up, and concrete frame buildings.",
+    "(3) A plan to reduce the potential risk from private and governmental facilities in the event of a disaster.",
+    "(b) The Office of Emergency Services shall give preference to local jurisdictions that have not adopted a local hazard mitigation plan in recommending actions to be funded from the Pre-Disaster Mitigation Program, the Hazard Mitigation Grant Program, and the Flood Mitigation Assistance Program to assist the local jurisdiction in developing and adopting a local hazard mitigation plan, subject to available funding from the Federal Emergency Management Agency."
+   ],
+   "sec": "65302.6",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Safety element: local hazard mitigation plan.",
+ "title": "An act to amend Section 65302.6 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250SB48899INT",
+   "num": "99"
+  }
+ ]
+}

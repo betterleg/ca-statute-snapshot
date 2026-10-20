@@ -1,0 +1,88 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wallis",
+   "primary": true
+  }
+ ],
+ "bill": "AB2459",
+ "bill_id": "202520260AB2459",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law authorizes the legislative body of any county or city to adopt ordinances that, among other things, regulate the use of buildings, structures, and land as between industry, business, residences, open space, including agriculture, recreation, enjoyment of scenic beauty, use of natural resources, and other purposes. Existing law requires every city, county, or city and county to, in consultation with the local fire department or district and the utility director, if the city, county, or city and county operates a utility, adopt an ordinance that creates an expedited, streamlined permitting process for electric vehicle charging stations, as provided.",
+  "This bill would prohibit a local building authority from denying, withholding, or conditioning a certificate of occupancy to a nonprofit applicant solely on the basis that required vehicle charging stations are not fully operational, provided that certain conditions are met, including that the applicant has installed all vehicle charging infrastructure required by applicable law, regulation, or building code in the manner and to the specifications required. By increasing the duties of local officials, this bill would impose a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "9f1716eb887afef8",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2026-02-21"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2026-03-23"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2026-03-19",
+  "id": "20250AB245998AMD",
+  "num": "98"
+ },
+ "location": "CX15",
+ "sections": [
+  {
+   "action": "Section 65850.10 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "Notwithstanding any other law, a local building authority shall not deny, withhold, or condition a certificate of occupancy to a nonprofit applicant solely on the basis that required vehicle charging stations are not fully operational if all of the following conditions are met:",
+    "(a) The applicant has installed all vehicle charging infrastructure required by applicable law, regulation, or building code in the manner and to the specifications required.",
+    "(b) The applicant has submitted a timely and complete application for electrical service connection to the utility provider serving the property.",
+    "(c) The utility provider has issued written documentation confirming that it is unable to supply adequate power to the project within a reasonable time period, not to exceed 180 days from the date of the service connection request by the applicant.",
+    "(d) The applicant has not taken any action, or failed to take any required action, that caused or contributed to the inability of the utility provider to supply adequate power."
+   ],
+   "sec": "65850.10",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Vehicle charging stations: electrical service connection: certificate of occupancy.",
+ "title": "An act to add Section 65850.10 to the Government Code, relating to electricity.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250AB245999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-19",
+   "id": "20250AB245998AMD",
+   "num": "98"
+  }
+ ]
+}

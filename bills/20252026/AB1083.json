@@ -1,0 +1,412 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Addis",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Garcia",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hart",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Kalra",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Krell",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lee",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Muratsuchi",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Celeste Rodriguez",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rogers",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schultz",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Blakespear",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Durazo",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Menjivar",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Padilla",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Pérez",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bennett",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Elhawary",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Irwin",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ward",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Smallwood-Cuevas",
+   "primary": false
+  }
+ ],
+ "bill": "AB1083",
+ "bill_id": "202520260AB1083",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "Existing law exempts from CEQA a rezoning that implements the schedule of actions contained in an approved housing element, as specified, except, among other things, a rezoning that would allow for the construction of a distribution center or for oil and gas infrastructure.",
+  "This bill would instead exempt a rezoning to the extent that it is necessary to implement a schedule of actions contained in an approved housing element, except, among other things, a rezoning that would allow for the construction of a distribution center, for a tourism facility, as defined, or for oil and gas infrastructure.",
+  "Existing law, for a proposed housing development project, as defined, that would otherwise be exempt from CEQA pursuant to a statutory exemption or specified categorical exemptions, but for a single condition, limits the application of CEQA to the effects upon the environment that are caused by that single condition, except as provided.",
+  "This bill, for purposes of those provisions, would modify the definition of housing development project to exclude a project that has any portion of the project designated for use as a tourism facility, as defined. To the extent that this would create new duties for a lead agency, this bill would impose a state-mandated local program.",
+  "Existing law exempts specified projects from CEQA, including a project that consists exclusively of a facility for advanced manufacturing, as defined, if the project is located on a site zoned exclusively for industrial uses. Existing law excludes projects located on natural and protected lands, as defined, from these exemptions, as provided. Existing law includes in the definition of natural and protected lands, lands protected as preserve areas or reserve lands pursuant to an adopted natural community conservation plan or habitat conservation plan, as specified.",
+  "This bill would instead include, for that portion of the definition of natural and protected lands, lands identified for conservation in an adopted natural community conservation plan, habitat conservation plan, or other adopted natural resource protection plan, as specified. The bill would also expand the definition of natural and protected lands to include habitat for protected species, as specified, fully protected species, or species protected by the federal Endangered Species Act of 1973, the California Endangered Species Act, or the Native Plant Protection Act. The bill would eliminate the exemption from CEQA for advanced manufacturing projects. The bill would instead exempt from CEQA, until January 1, 2030, a project that consists exclusively of a facility for semiconductor manufacturing if the project is located on a site that was zoned exclusively for heavy industrial use on or before August 1, 2025, and meets specified criteria, including, among other things, that the project does not involve the storage, use, or discharge of extremely hazardous gases or chemicals above California’s accidental release program reporting thresholds, the project applicant demonstrates high road employment standards and certifies to the lead agency that it will maintain those standards in the development, construction, and operation of the facility, and the project applicant has provided a legally binding commitment to comply with specified labor-related requirements with respect to the initial construction of the facility and subsequent maintenance that is contracted out to a contractor in the construction industry, as specified. Because a lead agency would be required to determine the applicability of this exemption, the bill would impose a state-mandated local program. The bill would require the State Energy Resources Conservation and Development Commission to develop and make available to lead agencies guidelines for evaluating whether a project applicant demonstrates high road employment standards. The bill would require the Office of Land Use and Climate Innovation, on or before January 1, 2029, to report to the Legislature on projects that were exempted from CEQA pursuant to the above exemption, as provided, and require the report to include a list of the projects for semiconductor manufacturing facilities that have been approved for development in the state, as specified.",
+  "CEQA requires in an action or proceeding to attack, review, set aside, void, or annul certain acts or decisions of a public agency to be commenced according to a specified process and requires the record of proceedings to contain specified information, including all internal agency communications, except as specified. Existing law provides that for those projects that do not include a distribution center or oil and gas infrastructure, internal agency communication does not include staff notes and electronic internal agency communications, including emails, that were not presented to the final decisionmaking body, other than those communications and documents consulted, or reviewed by the lead agency executive or a local agency executive, as provided, thereby limiting what the record of proceeding is required to contain for these projects.",
+  "This bill would eliminate the above-described limitation on internal agency communication required to be included in the record of proceedings for those projects that do not include a distribution center or oil and gas infrastructure, thereby requiring additional information to be included in the record of proceeding. By imposing new duties on a lead agency in order to comply with this provision, the bill would create a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "b8b814ad2f578d67",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "Pursuant to Assembly Rule 51.",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on RLS. Read second time and amended.",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-09-11",
+  "id": "20250AB108398AMD",
+  "num": "98"
+ },
+ "location": "CX20",
+ "sections": [
+  {
+   "action": "Section 21060.6 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "“Tourism facility” means any of the following:",
+    "(a) A hotel, resort, or other transient lodging facility. “Other transient lodging” does not include either of the following:",
+    "(1) A residential hotel, as defined in Section 50519 of the Health and Safety Code.",
+    "(2) After the issuance of a certificate of occupancy, a resident’s use or marketing of a unit as short-term lodging, as defined in Section 17568.8 of the Business and Professions Code, in a manner consistent with local law.",
+    "(b) An event center, as defined in Section 40717.8 of the Health and Safety Code, that is at least 100,000 square feet or has a seating capacity of at least 10,000 seats.",
+    "(c) An airport."
+   ],
+   "sec": "21060.6",
+   "verb": "added"
+  },
+  {
+   "action": "Section 21067.5 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "“Natural and protected lands” means sites located within any of the following locations:",
+    "(a) The state park system, as described in Article 1 (commencing with Section 5001) of Chapter 1 of Division 5.",
+    "(b) A wilderness area, as defined in Section 5093.32.",
+    "(c) A marine protected area, as defined in Section 2852 of the Fish and Game Code.",
+    "(d) The national park system, as defined in Section 100102 of Title 54 of the United States Code.",
+    "(e) A national recreation area.",
+    "(f) A national monument.",
+    "(g) The national wild and scenic rivers system, as defined in Section 1273 of Title 16 of the United States Code.",
+    "(h) Any ecological reserve or wildlife management area acquired and managed by the Department of Fish and Wildlife pursuant to Article 2 (commencing with Section 1525) or Article 4 (commencing with Section 1580) of Chapter 5 of Division 2 of the Fish and Game Code.",
+    "(i) A hazardous waste site that is listed pursuant to Section 65962.5 of the Government Code or a hazardous waste site designated by the Department of Toxic Substances Control pursuant to Section 25356 of the Health and Safety Code, unless either of the following apply:",
+    "(1) The site is an underground storage tank site that received a uniform closure letter issued pursuant to subdivision (g) of Section 25296.10 of the Health and Safety Code based on closure criteria established by the State Water Resources Control Board for the use proposed by the project. This paragraph does not alter or change the conditions to remove a site from the list of hazardous waste sites listed pursuant to Section 65962.5 of the Government Code.",
+    "(2) The State Department of Public Health, State Water Resources Control Board, Department of Toxic Substances Control, or a local agency making a determination pursuant to subdivision (c) of Section 25296.10 of the Health and Safety Code has otherwise determined that the site is suitable for the use proposed by the project.",
+    "(j) Within a regulatory floodway as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency, unless the development has received a no-rise certification in accordance with Section 60.3(d)(3) of Title 44 of the Code of Federal Regulations.",
+    "(k) Lands under conservation easement.",
+    "(l) On, or within a 300-foot radius of, a wetland, as defined in the United States Fish and Wildlife Service Manual, Part 660 FW 2 (June 21, 1993).",
+    "(m) An environmentally sensitive area within the coastal zone, as defined in Section 30107.5.",
+    "(n) Lands identified for conservation in an adopted natural community conservation plan pursuant to the Natural Community Conservation Planning Act (Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code), habitat conservation plan pursuant to the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), or other adopted natural resource protection plan.",
+    "(o) Within a very high fire hazard severity zone, as determined by the Department of Forestry and Fire Protection pursuant to Section 51178 of the Government Code, or within the state responsibility area, as defined in Section 4102. This subdivision does not apply to sites that have adopted fire hazard mitigation measures pursuant to existing building standards or state fire mitigation measures applicable to the development, including, but not limited to, standards established under all of the following provisions or their successor provisions:",
+    "(1) Section 4291 of this code or Section 51182 of the Government Code, as applicable.",
+    "(2) Section 4290.",
+    "(3) Chapter 7A (commencing with Section 701A.1) of Part 2 of Title 24 of the California Code of Regulations.",
+    "(p) Either prime farmland or farmland of statewide importance, as defined pursuant to the United States Department of Agriculture land inventory and monitoring criteria, as modified for California, and designated on the maps prepared by the Farmland Mapping and Monitoring Program of the Department of Conservation, or land zoned or designated for agricultural protection or preservation by a local ballot measure that was approved by the voters of that jurisdiction.",
+    "(q) Habitat for protected species identified as candidate, sensitive, or species of special status by state or federal agencies, fully protected species, or species protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code)."
+   ],
+   "sec": "21067.5",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.085 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) This division does not apply to a rezoning to the extent that it is necessary to implement the schedule of actions contained in an approved housing element pursuant to subdivision (c) of Section 65583 of the Government Code.",
+    "(b) (1) Subdivision (a) does not apply to either of the following:",
+    "(A) A rezoning that would allow for the construction of a distribution center, for a tourism facility, or for oil and gas infrastructure.",
+    "(B) A rezoning that would allow for construction to occur within the boundaries of any natural and protected lands as defined pursuant to Section 21067.5.",
+    "(2) (A) (i) Subdivision (a) applies to a rezoning that contains within its boundaries any natural and protected lands as defined pursuant to Section 21067.5 if those natural and protected lands are excluded from the rezoning.",
+    "(ii) The definition of “natural and protected lands” described in clause (i) does not include the lands described in subdivision (p) of Section 21067.5.",
+    "(B) The rezoning of any parcel or portions of a parcel that is excluded from a rezoning under this paragraph shall be a separate project that is subject to this division."
+   ],
+   "sec": "21080.085",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.1 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) The lead agency shall be responsible for determining whether the project is exempt from this division and whether an environmental impact report, a negative declaration, or a mitigated negative declaration shall be required for any project that is subject to this division. That determination shall be final and conclusive on all persons, including responsible agencies, unless challenged as provided in Section 21167.",
+    "(b) (1) If a proposed housing development project would otherwise be exempt from this division pursuant to a statutory exemption, or categorical exemption pursuant to Class 1 to 5, inclusive, 12, 15, 20, 27, 30, or 32 that is adopted before January 1, 2026, but for a single condition detailed in the statutory exemption or in Section 15300.2, 15301, 15302, 15303, 15304, 15305, 15312, 15315, 15320, 15322, 15327, 15330, or 15332 of Title 14 of the California Code of Regulations, as applicable, the application of this division to the approval of the proposed housing development project shall be limited to effects upon the environment that are caused solely by that single condition.",
+    "(2) An initial study or environmental impact report prepared for a housing development project subject to this subdivision is only required to examine those effects that the lead agency determines, based upon substantial evidence in the record, are caused solely by the single condition that makes the proposed housing development project ineligible for the statutory exemption or categorical exemption.",
+    "(3) An environmental impact report for a housing development project subject to this subdivision is not required to include any discussion of alternatives to the housing development project or the growth-inducing impacts of the housing development project.",
+    "(4) This subdivision does not apply to any of the following housing development projects:",
+    "(A) A proposed housing development project that is not similar in kind to the projects listed in the statutory or categorical exemption.",
+    "(B) A proposed housing development project that is ineligible for the statutory exemption or categorical exemption due to two or more conditions.",
+    "(C) A proposed housing development project that includes a distribution center or oil and gas infrastructure.",
+    "(D) (i) A proposed housing development project located on natural and protected lands, as defined pursuant to Section 21067.5.",
+    "(ii) The definition of “natural and protected lands” described in clause (i) does not include the lands described in subdivision (o) of Section 21067.5.",
+    "(5) For purposes of this subdivision, the following definitions apply:",
+    "(A) “Condition” means a physical or regulatory feature of the project or its setting or an effect upon the environment caused by the project.",
+    "(B) “Housing development project” has the same meaning as defined in Section 65589.5 of the Government Code, but does not include a project that has any portion of the project designated for use as a tourism facility.",
+    "(c) In the case of a project described in subdivision (c) of Section 21065, the lead agency shall, upon the request of a potential applicant, provide for consultation before the filing of the application regarding the range of actions, potential alternatives, mitigation measures, and any potential and significant effects on the environment of the project."
+   ],
+   "sec": "21080.1",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.69 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Except as provided in subdivision (b), this division does not apply to any of the following projects:",
+    "(1) A project that consists exclusively of a day care center, as defined in Section 1596.76 of the Health and Safety Code, that is not located in a residential area.",
+    "(2) A project that consists exclusively of a rural health clinic, as defined by Section 1396(d)(l)(1) of Title 42 of the United States Code, or a federally qualified health center, as defined by Section 1396(d)(l)(2) of Title 42 of the United States Code, if the facility is less than 50,000 square feet in total space.",
+    "(3) A project that consists exclusively of a nonprofit food bank or food pantry, defined as a nonprofit organization that is exempt from federal income taxation under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended (26 U.S.C. Sec. 501(c)(3)), that solicits, stores, and distributes sufficient food to their defined service area, if the project is located on a site that is zoned exclusively for industrial uses.",
+    "(4) (A) A project that consists exclusively of a facility for semiconductor manufacturing if the project is located on a site that was zoned exclusively for heavy industrial uses on or before August 1, 2025, and meets all of the following criteria:",
+    "(i) The lead agency has prepared and publicly circulated a cumulative health risk assessment of the project and held a public hearing to discuss the assessment at least 60 days before the lead agency approves the project.",
+    "(ii) The project does not result in any significant effects relating to noise, traffic, air quality, hazards, hazardous materials, public health, greenhouse gas emissions, or water quality.",
+    "(iii) The project is not located within a health protection zone, as defined in Section 3280, or otherwise within 3,200 feet of a sensitive receptor, as defined in Section 3280. The measurement, for purposes of the sensitive receptor, shall be made from the property line of the facility to the property line of the sensitive receptor.",
+    "(iv) The project is not located in or within 1,000 feet of a disadvantaged community.",
+    "(v) The project does not involve the storage, use, or discharge of extremely hazardous gases or chemicals above California’s accidental release program reporting thresholds pursuant to Article 2 (commencing with Section 25531) of Chapter 6.95 of Division 20 of the Health and Safety Code.",
+    "(vi) The project does not use, collect, involve the incineration of, or discharge perfluoroalkyl and polyfluoroalkyl substances into any surface water, groundwater, publicly owned treatment works, or land.",
+    "(vii) The project does not compromise the reliability of electrical or water services to existing customers, including, but not limited to, disadvantaged communities.",
+    "(viii) The project applicant demonstrates high road employment standards and certifies to the lead agency that it will maintain those standards in the development, construction, and operation of the facility.",
+    "(ix) The project applicant has entered into a bona fide community benefits agreement that includes enforceable commitments to environmental mitigations, high road employment standards, and job access for individuals with employment barriers. The specific terms in the bona fide community benefits agreement shall also include funding for or direct implementation of specific community improvements or amenities, which may include, but are not limited to, park and playground equipment, urban greening, enhanced safety crossings, paving roads and bicycle paths, reductions in or credits for residential utility bills, and annual contributions to a nonprofit or community-based organization that awards grants to organizations delivering community-based services and amenities.",
+    "(x) The project applicant has provided a legally binding commitment to comply with all of the following requirements with respect to the initial construction of the facility and subsequent maintenance that is contracted out to a contractor in the construction industry:",
+    "(I) (ia) For a project undertaken by a public agency, the project is a public work for which prevailing wages shall be paid for purposes of Chapter 1 (commencing with Section 1720) of Part 7 of Division 2 of the Labor Code.",
+    "(ib) Except as provided in sub-subclause (ic), for a project undertaken by a public agency, an entity shall not be prequalified or shortlisted or awarded a contract by the public agency to perform any portion of the project unless the entity provides an enforceable commitment to the public agency that the entity and its contractors and subcontractors at every tier will use a skilled and trained workforce to perform all work on the project or contract that falls within an apprenticeable occupation in the building and construction trades.",
+    "(ic) Sub-subclause (ib) shall not apply if the project will be covered by a project labor agreement that will bind all contractors and subcontractors at every tier performing work on the project to use a skilled and trained workforce and provide for enforcement of that obligation through an arbitration procedure.",
+    "(II) For a project undertaken by a private entity, the project applicant shall do all of the following:",
+    "(ia) Certify to the lead agency that either of the following is true:",
+    "(Ia) The entirety of the project is a public work for purposes of Chapter 1 (commencing with Section 1720) of Part 7 of Division 2 of the Labor Code.",
+    "(Ib) If the project is not in its entirety a public work, all construction workers employed on the project will be paid at least the general prevailing rate of per diem wages for the type of work and geographic area, as determined by the Director of Industrial Relations pursuant to Sections 1773 and 1773.9 of the Labor Code, except that apprentices registered in programs approved by the Chief of the Division of Apprenticeship Standards may be paid at least the applicable apprentice prevailing rate. If the project is subject to this sub-sub-subclause, then for those portions of the project that are not a public work, all of the following shall apply:",
+    "(iA) The project applicant shall ensure that the prevailing wage requirement is included in all contracts for the performance of all construction and maintenance work.",
+    "(iB) All contractors and subcontractors shall pay to all construction workers employed in the execution of the work on the project or contract at least the general prevailing rate of per diem wages, except that apprentices registered in programs approved by the Chief of the Division of Apprenticeship Standards may be paid at least the applicable apprentice prevailing rate.",
+    "(iC) (IA) Except as provided in sub-sub-sub-sub-subclause (IC), all contractors and subcontractors shall maintain and verify payroll records pursuant to Section 1776 of the Labor Code and make those records available for inspection and copying as provided therein.",
+    "(IB) Except as provided in sub-sub-sub-sub-subclause (IC), the obligation of the contractors and subcontractors at every tier to pay prevailing wages may be enforced by the Labor Commissioner through the issuance of a civil wage and penalty assessment pursuant to Section 1741 of the Labor Code, which may be reviewed pursuant to Section 1742 of the Labor Code, within 18 months after the completion of the development, or by an underpaid worker through an administrative complaint or civil action, or by a joint labor-management committee though a civil action under Section 1771.2 of the Labor Code. If a civil wage and penalty assessment is issued, the contractor, subcontractor, and surety on a bond or bonds issued to secure the payment of wages covered by the assessment shall be liable for liquidated damages pursuant to Section 1742.1 of the Labor Code.",
+    "(IC) Sub-sub-sub-sub-subclauses (IA) and (IB) do not apply if all contractors and subcontractors at every tier performing work on the project are subject to a project labor agreement that requires the payment of prevailing wages to all construction workers employed in the execution of the project or contract and provides for enforcement of that obligation through an arbitration procedure.",
+    "(iD) Notwithstanding subdivision (c) of Section 1773.1 of the Labor Code, the requirement that employer payments not reduce the obligation to pay the hourly straight time or overtime wages found to be prevailing shall not apply if otherwise provided in a bona fide collective bargaining agreement covering the worker. The requirement to pay at least the general prevailing rate of per diem wages does not preclude use of an alternative workweek schedule adopted pursuant to Section 511 or 514 of the Labor Code.",
+    "(ib) Certify to the lead agency that a skilled and trained workforce will be used to perform all construction work on the project. All of the following requirements shall apply to the project:",
+    "(Ia) The project applicant shall require in all contracts for the performance of work that every contractor and subcontractor at every tier will individually use a skilled and trained workforce to construct and maintain the project.",
+    "(Ib) Every contractor and subcontractor at every tier shall use a skilled and trained workforce to construct and maintain the project.",
+    "(Ic) (iA) Except as provided in sub-sub-sub-subclause (iB), the project applicant shall provide to the lead agency, on a monthly basis while the project or contract is being performed, a report demonstrating compliance with Chapter 2.9 (commencing with Section 2600) of Part 1 of Division 2 of the Public Contract Code. A monthly report provided to the local government pursuant to this subclause shall be a public record under the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code) and shall be open to public inspection. A project applicant that fails to provide a monthly report demonstrating compliance with Chapter 2.9 (commencing with Section 2600) of Part 1 of Division 2 of the Public Contract Code shall be subject to a civil penalty of ten thousand dollars ($10,000) per month for each month for which the report has not been provided. Any contractor or subcontractor that fails to use a skilled and trained workforce shall be subject to a civil penalty of two hundred dollars ($200) per day for each worker employed in contravention of the skilled and trained workforce requirement. Penalties may be assessed by the Labor Commissioner within 18 months of completion of the project using the same procedures for issuance of civil wage and penalty assessments pursuant to Section 1741 of the Labor Code, and may be reviewed pursuant to the same procedures in Section 1742 of the Labor Code. Penalties shall be paid to the State Public Works Enforcement Fund, established pursuant to Section 1771.3 of the Labor Code.",
+    "(iB) Sub-sub-sub-subclause (iA) shall not apply if all contractors and subcontractors at every tier performing work on the project are subject to a project labor agreement that requires compliance with the skilled and trained workforce requirement and provides for enforcement of that obligation through an arbitration procedure.",
+    "(ic) Certify to the lead agency that it has entered into a labor peace agreement. This sub-subclause shall apply only when the state has a proprietary interest in the project or the state is providing direct financial assistance to the project or tax credits or tax preferences in excess of two million five hundred thousand dollars ($2,500,000).",
+    "(B) (i) The State Energy Resources Conservation and Development Commission shall develop and make available to lead agencies guidelines for evaluating whether a project applicant demonstrates high road employment standards as required pursuant to subparagraph (A).",
+    "(ii) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to the guidelines developed pursuant to this subparagraph.",
+    "(C) (i) On or before January 1, 2029, the Office of Land Use and Climate Innovation shall report to the Legislature on projects that were exempted from this division pursuant to this paragraph. This report shall include, but not be limited to, a list of the projects for semiconductor manufacturing facilities that have been approved for development in the state since June 30, 2025, the locations of each of these projects, identification of which of these projects are in or adjacent to a disadvantaged community, and whether each project was approved with an exemption, negative declaration, or final environmental review.",
+    "(ii) A report required by this subparagraph shall be submitted in compliance with Section 9795 of the Government Code.",
+    "(D) For purposes of this paragraph, the following definitions apply:",
+    "(i) “Bona fide community benefits agreement” means a private agreement between the project applicant and independent stakeholders from the surrounding communities, and that is informed by meaningful engagement and outreach to residents of the surrounding communities. Stakeholders that receive financial remuneration from a project applicant shall not be considered independent.",
+    "(ii) “Disadvantaged community” means a community identified pursuant to Section 39711 of the Health and Safety Code, a disadvantaged unincorporated community as defined in Section 65302.10 of the Government Code, or a census tract receiving the highest 15 percent of CalEnviroScreen pollution burden percentile scores.",
+    "(iii) “Enforceable commitments” means specific mechanisms built into agreements that ensure that the parties have remedies to resolve disputes, such as binding arbitration.",
+    "(iv) “High road employment standards” means employment practices and standards that include, but are not limited to, the following:",
+    "(I) Provision of comparatively good wages and benefits, relative to the industry, occupation, and labor market in which participating workers are employed.",
+    "(II) Payment of workers at or above local or regional living wage standards as well as payment at or above regional prevailing wage standards where those standards exist for the occupations in question.",
+    "(III) Commitment to investing in employee training, growth, and development, including through comprehensive workforce training programs or apprenticeship programs.",
+    "(IV) Adoption of mechanisms to include worker voice and agency in the workplace.",
+    "(V) Safe and healthy working conditions.",
+    "(VI) Consistent compliance with workplace laws and regulations, including proactive efforts to remedy past problems.",
+    "(v) “Individual with employment barriers” has the same meaning as set forth in Section 14005 of the Unemployment Insurance Code.",
+    "(vi) “Labor peace agreement” means an agreement between a licensee and any bona fide labor organization that, at a minimum, protects the state’s proprietary interests by prohibiting labor organizations and members from engaging in picketing, work stoppages, boycotts, and any other economic interference with the project applicant’s business. This agreement means that the project applicant has agreed not to disrupt efforts by the bona fide labor organization to communicate with, and attempt to organize and represent, the project applicant’s employees. The agreement shall provide a bona fide labor organization access at reasonable times to areas in which the project applicant’s employees work, for the purpose of meeting with employees to discuss their right to representation, employment rights under state law, and terms and conditions of employment. This type of agreement shall not mandate a particular method of election or certification of the bona fide labor organization.",
+    "(vii) “Project labor agreement” has the same meaning as in paragraph (1) of subdivision (b) of Section 2500 of the Public Contract Code.",
+    "(viii) “Skilled and trained workforce” has the same meaning as provided in Chapter 2.9 (commencing with Section 2600) of Part 1 of Division 2 of the Public Contract Code.",
+    "(E) This paragraph shall become inoperative on January 1, 2030.",
+    "(b) This section does not apply to a project located on natural and protected lands."
+   ],
+   "sec": "21080.69",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21167.6 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "Notwithstanding any other law, in all actions or proceedings brought pursuant to Section 21167, except as provided in Section 21167.6.2 or those involving the Public Utilities Commission, all of the following shall apply:",
+    "(a) At the time that the action or proceeding is filed, the plaintiff or petitioner shall file a request that the respondent public agency prepare the record of proceedings relating to the subject of the action or proceeding. The request, together with the complaint or petition, shall be served personally upon the public agency not later than 10 business days from the date that the action or proceeding was filed.",
+    "(b) (1) (A) The public agency shall prepare and certify the record of proceedings not later than 60 days from the date that the request specified in subdivision (a) was served upon the public agency. Upon certification, the public agency shall lodge an electronic copy of the record of proceedings with the court and shall serve on the parties notice that the record of proceedings has been certified and lodged with the court. The parties shall pay any reasonable costs or fees imposed for the preparation of the record of proceedings in conformance with any law or rule of court.",
+    "(B) The court shall schedule a case management conference within 30 days of the filing of the complaint or petition pursuant to this division to review the scope, timing, and cost of the record of proceedings. The parties may stipulate to a partial record of proceedings that does not contain all the documents listed in subdivision (e) if approved by the court.",
+    "(2) The plaintiff or petitioner may elect to prepare the record of proceedings by providing a notice of the election to the public agency, or the parties may agree to an alternative method of preparation of the record of proceedings, subject to certification of its accuracy by the public agency, within the 60-day time limit specified in this subdivision.",
+    "(3) Notwithstanding paragraph (2), the public agency, within five business days of the receipt of the notice specified in paragraph (2), may deny the request of the plaintiff or petitioner to prepare the record of proceedings, in which case the public agency or the real party in interest shall bear the costs of preparation and certification of the record of proceedings, and those costs shall not be recoverable from the plaintiff or petitioner.",
+    "(c) The time limit established by subdivision (b) may be extended only upon the stipulation of all parties who have been properly served in the action or proceeding or upon order of the court. Extensions shall be liberally granted by the court when the size of the record of proceedings renders infeasible compliance with that time limit. There is no limit on the number of extensions that may be granted by the court, but no single extension shall exceed 60 days unless the court determines that a longer extension is in the public interest.",
+    "(d) If the public agency fails to prepare and certify the record of proceedings within the time limit established in paragraph (1) of subdivision (b), or any continuances of that time limit, the plaintiff or petitioner may move for sanctions, and the court may, upon that motion, grant appropriate sanctions.",
+    "(e) The record of proceedings shall include, but is not limited to, all of the following items:",
+    "(1) All project application materials.",
+    "(2) All staff reports and related documents prepared by the respondent public agency with respect to its compliance with the substantive and procedural requirements of this division and with respect to the action on the project.",
+    "(3) All staff reports and related documents prepared by the respondent public agency and written testimony or documents submitted by any person relevant to any findings or statement of overriding considerations adopted by the respondent agency pursuant to this division.",
+    "(4) Any transcript or minutes of the proceedings at which the decisionmaking body of the respondent public agency heard testimony on, or considered any environmental document on, the project, and any transcript or minutes of proceedings before any advisory body to the respondent public agency that were presented to the decisionmaking body before action on the environmental documents or on the project.",
+    "(5) All notices issued by the respondent public agency to comply with this division or with any other law governing the processing and approval of the project.",
+    "(6) All written comments received in response to, or in connection with, environmental documents prepared for the project, including responses to the notice of preparation.",
+    "(7) All written evidence or correspondence submitted to, or transferred from, the respondent public agency with respect to compliance with this division or with respect to the project.",
+    "(8) Any proposed decisions or findings submitted to the decisionmaking body of the respondent public agency by its staff, or the project proponent, project opponents, or other persons.",
+    "(9) The documentation of the final public agency decision, including the final environmental impact report, mitigated negative declaration, or negative declaration, and all documents, in addition to those referenced in paragraph (3), cited or relied on in the findings or in a statement of overriding considerations adopted pursuant to this division.",
+    "(10) (i) <xhtml:span class=\"EnSpace\"/>\"?>Any other written materials relevant to the respondent public agency’s compliance with this division or to its decision on the merits of the project, including the initial study, any drafts of any environmental document or portions of the initial study or drafts that have been released for public review, and copies of studies or other documents relied upon in any environmental document prepared for the project and either made available to the public during the public review period or included in the respondent public agency’s files on the project, and all internal agency communications, including staff notes and memoranda related to the project or to compliance with this division, but not including communications that are of a logistical nature, such as meeting invitations and scheduling communications, except that any material that is subject to privileges contained in the Evidence Code, or exemptions contained in the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code), shall not be included in the record of proceedings under this paragraph, consistent with existing law.",
+    "(11) The full written record before any inferior administrative decisionmaking body whose decision was appealed to a superior administrative decisionmaking body before the filing of litigation.",
+    "(f) In preparing the record of proceedings, the party preparing the record of proceedings shall strive to do so at reasonable cost in light of the scope of the record of proceedings.",
+    "(g) The clerk of the superior court shall prepare and certify the clerk’s transcript on appeal not later than 60 days from the date that the notice designating the papers or records to be included in the clerk’s transcript was filed with the superior court, if the party or parties pay any costs or fees for the preparation of the clerk’s transcript imposed in conformance with any law or rules of court. Nothing in this subdivision precludes an election to proceed by appendix, as provided in Rule 8.124 of the California Rules of Court.",
+    "(h) Extensions of the period for the filing of any brief on appeal may be allowed only by stipulation of the parties or by order of the court for good cause shown. Extensions for the filing of a brief on appeal shall be limited to one 30-day extension for the preparation of an opening brief and one 30-day extension for the preparation of a responding brief, except that the court may grant a longer extension or additional extensions if it determines that there is a substantial likelihood of settlement that would avoid the necessity of completing the appeal.",
+    "(i) At the completion of the filing of briefs on appeal, the appellant shall notify the court of the completion of the filing of briefs, whereupon the clerk of the reviewing court shall set the appeal for hearing on the first available calendar date."
+   ],
+   "sec": "21167.6",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "California Environmental Quality Act: exemptions: housing development projects: natural and protected lands: record of proceedings.",
+ "title": "An act to amend Sections 21067.5, 21080.085, 21080.1, 21080.69, and 21167.6 of, and to add Section 21060.6 to, the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB108399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-11",
+   "id": "20250AB108398AMD",
+   "num": "98"
+  }
+ ]
+}

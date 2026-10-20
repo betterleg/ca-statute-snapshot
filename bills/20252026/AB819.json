@@ -1,0 +1,110 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Macedo",
+   "primary": true
+  }
+ ],
+ "bill": "AB819",
+ "bill_id": "202520260AB819",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the California Building Standards Law, establishes the California Building Standards Commission within the Department of General Services. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code. Existing law requires the Department of Housing and Community Development to propose to the commission for consideration mandatory building standards for the installation of future electric vehicle charging infrastructure for parking spaces in multifamily dwellings, as specified. Existing law requires the commission to adopt, approve, codify, and publish mandatory building standards for the installation of electric vehicle charging infrastructure for parking spaces in multifamily dwellings and nonresidential development.",
+  "Existing law, commencing with the next triennial edition of the California Building Standards Code and until January 1, 2033, requires the commission and the Department of Housing and Community Development to research and develop, and authorizes the commission and department to propose for adoption, mandatory building standards for the installation of electric vehicle charging stations with low power level 2 or higher electric vehicle chargers in existing multifamily dwellings, hotels, motels, and nonresidential development during certain retrofits, additions, and alterations to existing parking facilities, as specified.",
+  "This bill would exempt parking facilities owned or leased by a church or nonprofit organization that is exempt from federal income taxation from any mandatory building standards that require the installation of electric vehicle charging stations or future electric vehicle charging infrastructure, except designated employee parking spaces.",
+  "Existing law requires a city, county, or city and county to administratively approve an application for installation of electric vehicle charging stations, as defined. Existing law states it is the intent of the Legislature that local agencies comply not only with the language in that provision, but also the legislative intent to encourage the installation of electric vehicle charging stations and hydrogen fueling stations.",
+  "This bill would provide that, notwithstanding any other law, the presence of an electric vehicle charging station on property owned by or leased to a church or nonprofit organization shall not impact any zoning designations or exemptions for the property, any property tax exemptions, or any other specified tax exemptions.",
+  "Existing law, the Corporation Tax Law, exempts the income of various types of nonprofit organizations from taxes imposed by that law, except as provided, if an application for exemption is filed with, and a filing fee of $25 is paid to, the Franchise Tax Board, and the Franchise Tax Board issues a determination exempting the organization from tax. That law, in partial conformity with federal income tax law, provides for the taxation of the unrelated business taxable income, as defined, of an organization that is otherwise exempt under those provisions.",
+  "This bill would specify that income derived by a church or an organization otherwise exempt from taxation from an electric vehicle charging station located on property owned by or leased to the organization is not unrelated business taxable income.",
+  "Existing law requires any bill authorizing a new tax expenditure to contain, among other things, specific goals that the tax expenditure will achieve, detailed performance indicators, and data collection requirements.",
+  "This bill would include additional information required for any bill authorizing a new tax expenditure. The bill would require the Franchise Tax Board to provide any data requested by the Legislative Analyst’s Office to write a report, as provided, and would make taxpayer information received by the Legislative Analyst’s Office subject to a limitation, a violation of which is a crime, on that information’s collection and use. By expanding the scope of a crime, this bill would impose a state-mandated local program.",
+  "Existing law requires the state to reimburse local agencies annually for certain property tax revenues lost as a result of any exemption or classification of property for purposes of ad valorem property taxation.",
+  "This bill would provide that, notwithstanding those provisions, no appropriation is made and the state shall not reimburse local agencies for property tax revenues lost by them pursuant to the bill.",
+  "The Bradley-Burns Uniform Local Sales and Use Tax Law authorizes counties and cities to impose local sales and use taxes in conformity with the Sales and Use Tax Law, and existing laws authorize districts, as specified, to impose transactions and use taxes in accordance with the Transactions and Use Tax Law, which generally conforms to the Sales and Use Tax Law. Amendments to the Sales and Use Tax Law are automatically incorporated into the local tax laws.",
+  "Existing law requires the state to reimburse counties and cities for revenue losses caused by the enactment of sales and use tax exemptions.",
+  "This bill would provide that, notwithstanding Section 2230 of the Revenue and Taxation Code, no appropriation is made and the state shall not reimburse any local agencies for sales and use tax revenues lost by them pursuant to this bill.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "6b73af2e0123d4a9",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and Rev. & Tax.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-03-24",
+  "id": "20250AB81998AMD",
+  "num": "98"
+ },
+ "location": "CX15",
+ "sections": [
+  {
+   "action": "Section 65850.11 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding any other law, the presence, management, ownership, operation, or maintenance of an electric vehicle charging station, whether directly or by a third party, on property owned by or leased to a church or nonprofit organization shall not destroy, limit, or otherwise impact the following:",
+    "(1) Any zoning designations for the property.",
+    "(2) Any licenses, variances, conditional use permits, development plans, entitlements, or any other zoning exceptions or allowances previously obtained for the property.",
+    "(3) Eligibility for any property tax exemptions or reductions related to the use of the property.",
+    "(4) Eligibility for exemption from taxation under Part 1 (commencing with Section 6001) of Division 2, Part 10 (commencing with Section 17001) of Division 2, or Part 11 (commencing with Section 23001) of Division 2 of the Revenue and Taxation Code.",
+    "(5) Eligibility for any other tax exemption, incentive, or benefit available to a qualifying church or nonprofit entity, including designation as an exempt entity for all other state law purposes.",
+    "(b) For purposes of this section, “electric vehicle charging station” means any level of electric vehicle supply equipment station that is designed and built in compliance with Article 625 of the California Electrical Code (Part 3 of Title 24 of the California Code of Regulations), as it read on January 1, 2025, and that delivers electricity from a source outside an electric vehicle into a plug-in electric vehicle.",
+    "(c) This section does not constitute a change in, but is declaratory of, existing law."
+   ],
+   "sec": "65850.11",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Electric vehicle charging stations: exempt entities: building standards.",
+ "title": "An act to add Section 18941.13 to the Health and Safety Code, to add Section 65850.11 to the Government Code, and to add Section 23742 to the Revenue and Taxation Code, relating to electric vehicles.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB81999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB81998AMD",
+   "num": "98"
+  }
+ ]
+}

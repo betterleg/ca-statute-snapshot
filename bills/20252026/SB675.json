@@ -1,0 +1,295 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Padilla",
+   "primary": true
+  }
+ ],
+ "bill": "SB675",
+ "bill_id": "202520260SB675",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "The Jobs and Economic Improvement Through Environmental Leadership Act of 2021 authorizes the Governor, until January 1, 2032, to certify environmental leadership development projects that meet specified requirements for certain streamlining benefits related to CEQA.",
+  "This bill would provide additional streamlining benefits to environmental leadership development projects certified by the Governor that require discretionary approvals by a lead agency and one or more responsible agencies, including a requirement that responsible agencies shall provide specific and substantive comments or objections for certain documents within 60 days, as provided. The bill would require a lead agency or applicant to, no later than 30 days after the certification of the environmental impact report by the lead agency, file required application forms and materials with the responsible agency. The bill would prohibit the responsible agency from denying an environmental leadership project approved by the lead agency or imposing conditions or mitigation measures that would render the project infeasible unless the responsible agency makes a specified finding. The bill would authorize responsible agencies, if a certain condition is met, to charge a fee to an applicant for the reasonable costs incurred by the responsible agency for processing documents for review or the application of the environmental leadership project. By placing new duties on local agencies related to the streamlining benefits, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "6e8a2f42398b5e3a",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on E.Q.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "Set for hearing April 2.",
+   "date": "2025-03-11"
+  },
+  {
+   "action": "April 2 hearing postponed by committee.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Set for hearing April 23.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.Q.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on RLS. (Ayes 8. Noes 0. Page 867.) (April 23). Re-referred to Com. on RLS.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Re-referred to Com. on N.R. & W.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Set for hearing April 28.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "April 28 hearing postponed by committee.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Set for hearing April 30.",
+   "date": "2025-04-25"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 969.) (April 30).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Set for hearing May 19.",
+   "date": "2025-05-09"
+  },
+  {
+   "action": "May 19 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 5. Noes 0. Page 1209.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 1515.) Ordered to the Assembly.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-06-16"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on NAT. RES.",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "July 14 set for first hearing canceled at the request of author.",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on NAT. RES.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 4.) (June 8).",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "July 1 set for first hearing. Placed on suspense file.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 4.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 58. Noes 19. Page 6470.) Ordered to the Senate.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee: Be re-referred to Com. on E.Q. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on E.Q.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee: That the Assembly amendments be concurred in. (Ayes 4. Noes 2.)",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 30. Noes 10.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2026-09-04"
+  },
+  {
+   "action": "Vetoed by the Governor.",
+   "date": "2026-09-20"
+  },
+  {
+   "action": "In Senate. Consideration of Governor's veto pending.",
+   "date": "2026-09-20"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Enrolled",
+  "date": "2026-08-31",
+  "id": "20250SB67591ENR",
+  "num": "91"
+ },
+ "location": "Unfinished Business",
+ "sections": [
+  {
+   "action": "Section 21185.5 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "An environmental leadership development project certified by the Governor pursuant to this chapter that requires discretionary approvals by a lead agency and one or more responsible agencies shall be eligible for streamlining as follows:",
+    "(a) As provided in Section 21185.",
+    "(b) Responsible agencies shall review and process relevant technical reports, memoranda, plans, and submittals by a lead agency or applicant for an environmental leadership project following certification by the Governor and before an application is submitted to the responsible agency, and provide specific and substantive comments or objections, if any, within 60 days of receiving those documents. Any responsible agency comments or objections not provided within 60 days of receiving those documents shall be deemed waived.",
+    "(c) No later than 30 days after the certification of the environmental impact report by the lead agency, the lead agency or applicant shall file required application forms and materials with the responsible agency.",
+    "(d) Notwithstanding any other law, the responsible agency shall make a final determination on any project-related approval, including any administrative appeals, within 180 days of the date the lead agency or applicant filed the application, or, if the responsible agency has only appellate authority over a project-related approval, from the date the appeal was filed.",
+    "(e) Notwithstanding any other law, the responsible agency shall not deny an environmental leadership project approved by the lead agency or impose conditions or mitigation measures that would render the project infeasible unless it makes at least one of the following findings:",
+    "(1) Significant environmental impacts not considered by the lead agency cannot be mitigated to a less than significant level and the responsible agency determines that findings pursuant to subdivision (b) of Section 21081 for those impacts not considered by the lead agency are not supported by substantial evidence in the record.",
+    "(2) The environmental leadership project is inconsistent with the objective standards applicable to the responsible agency decision. For purposes of this paragraph, objective means with reference to verifiable external standards knowable by the public that do not require subjective judgment. Those objective standards shall be codified or subject to written policies as they existed on the date the application or appeal was filed with the responsible agency.",
+    "(3) The environmental leadership project would have a specific, adverse impact on public health or safety unless the project is disapproved, or approved upon the condition or with mitigation that renders the project infeasible. The responsible agency shall further find that there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact other than the disapproval of the project. As used in this paragraph, “specific, adverse impact” means a significant, quantifiable, direct, and unavoidable impact, based on objective, identified written public health or safety standards, policies, or conditions as they existed on the date the application or appeal was submitted to the responsible agency."
+   ],
+   "sec": "21185.5",
+   "verb": "added"
+  },
+  {
+   "action": "Section 21185.6 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "A responsible agency may charge a fee to an applicant pursuant to this chapter for the reasonable costs incurred by the responsible agency for processing documents for review or the application of the environmental leadership project pursuant to Section 21185.5. Before charging the fee, the fee or rate shall be set forth in a written agreement with the applicant."
+   ],
+   "sec": "21185.6",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Floor Process",
+ "subject": "Imperial County Air Pollution Control District: members and duties.",
+ "title": "An act to add Sections 21185.5 and 21185.6 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB67599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-10",
+   "id": "20250SB67598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-01",
+   "id": "20250SB67597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-23",
+   "id": "20250SB67596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-07",
+   "id": "20250SB67595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-01",
+   "id": "20250SB67594AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-18",
+   "id": "20250SB67593AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-13",
+   "id": "20250SB67592AMD",
+   "num": "92"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-31",
+   "id": "20250SB67591ENR",
+   "num": "91"
+  }
+ ]
+}

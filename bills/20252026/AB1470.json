@@ -1,0 +1,194 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": true
+  }
+ ],
+ "bill": "AB1470",
+ "bill_id": "202520260AB1470",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "(1) Existing law, the California Retail Food Code, establishes uniform health and sanitation standards for retail food facilities. Under existing law, local health agencies are primarily responsible for enforcing these standards. Under existing law, a person who violates any provision of the California Retail Food Code is guilty of a misdemeanor, except as otherwise provided.",
+  "Existing law prohibits a food facility from locating a grease trap or grease interceptor in a food handling area, unless approved by an enforcement agency. Existing law exempts from the prohibition a food facility with an approved grease trap or grease interceptor that was in operation before the effective date of the code.",
+  "This bill would instead prohibit a food facility from locating a grease trap or grease interceptor in a food preparation area. The bill would additionally exempt an aboveground grease trap installed under a 3-compartment sink, as specified, from this prohibition.",
+  "Existing law limits the size of a passthrough window service opening to 216 square inches. Existing law authorizes a passthrough window of up to 432 square inches if equipped with an air curtain device.",
+  "This bill would authorize a passthrough window service opening that is larger than 432 square inches if equipped with both a self-closing device and an air curtain device.",
+  "Existing law requires a food facility’s walls and ceilings to be durable, smooth, nonabsorbent, and easily cleanable. Existing law exempts from this requirement walls and ceilings of bar areas in which alcoholic beverages are sold or served directly to the consumers, except wall areas adjacent to bar sinks and areas where food is prepared, among other things. Existing law also exempts from this requirement restrooms that are used exclusively by the consumers, except that the walls and ceilings in the restrooms shall be of a nonabsorbent and washable surface.",
+  "This bill would instead exempt walls and ceilings of bar areas in which beverages are sold, served, or dispensed directly to the consumers. The bill would also instead exempt restrooms that are used exclusively by employees or consumers.",
+  "Existing law requires temporary food facilities to be equipped with overhead protection for all food preparation, food storage, and warewashing areas. Existing law requires overhead protection to be made of wood, canvas, or other materials that protect the facility from precipitation, dust, bird and insect droppings, and other contaminants. Existing law exempts from these requirements a temporary food facility that is approved for limited food preparation if flying insects, vermin, birds, and other pests are absent due to the location of the facility or other limiting conditions.",
+  "This bill would additionally exempt a temporary food facility that is approved for limited food preparation from these requirements if environmental factors that could contaminate the food are absent due to the location of the facility or other limiting conditions.",
+  "By revising the standards that must be enforced by local health agencies and by expanding the scope of existing crimes, the bill would impose a state-mandated local program.",
+  "(2) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would exempt from the requirements of CEQA permanent outdoor dining structures. Because a lead agency would be required to determine if a project qualifies for this exemption, this bill would impose a state-mandated local program.",
+  "(3) The California Coastal Act of 1976, among other things, requires anyone wishing to perform or undertake any development in the coastal zone, in addition to obtaining any other permit required by law from any local government or from any state, regional, or local agency, to obtain a coastal development permit from the California Coastal Commission or a local government, as provided. The act provides that a coastal development permit is not required for specified types of development in specified areas, as provided.",
+  "This bill would provide that a coastal development permit is not required for the development of an outdoor dining patio adjoining a restaurant, as provided. To the extent this bill would create additional duties for a local government, the bill would impose a state-mandated local program.",
+  "(4) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "ae16cf4d1706fc96",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on HIGHER ED.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HIGHER ED. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on HIGHER ED.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (April 29).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 73. Noes 0. Page 1733.)",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Referred to Com. on ED.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on ED.",
+   "date": "2025-06-23"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-06-24"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2025-06-24"
+  },
+  {
+   "action": "Re-referred to Coms. on HEALTH and E.Q.",
+   "date": "2025-06-25"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on E.Q. with recommendation: To Consent Calendar. (Ayes 11. Noes 0.) (July 9).",
+   "date": "2025-07-10"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on E.Q.",
+   "date": "2025-07-14"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "In committee: Referred to suspense file.",
+   "date": "2025-08-18"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2025-08-29"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-07-14",
+  "id": "20250AB147095AMD",
+  "num": "95"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 21080.68 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "This division does not apply to permanent outdoor dining structures."
+   ],
+   "sec": "21080.68",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Food facilities: retail food safety.",
+ "title": "An act to amend Sections 114201, 114259.2, 114271, and 114349 of the Health and Safety Code, and to amend Section 30610 of, and to add Section 21080.68 to, the Public Resources Code, relating to food facilities.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB147099INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB147098AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-01",
+   "id": "20250AB147097AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-06-23",
+   "id": "20250AB147096AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-14",
+   "id": "20250AB147095AMD",
+   "num": "95"
+  }
+ ]
+}

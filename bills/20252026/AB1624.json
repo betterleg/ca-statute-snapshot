@@ -1,0 +1,148 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Addis",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Jeff Gonzalez",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ramos",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rogers",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Garcia",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hart",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Pellerin",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Quirk-Silva",
+   "primary": false
+  }
+ ],
+ "bill": "AB1624",
+ "bill_id": "202520260AB1624",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The Planning and Zoning Law requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and of any land outside its boundaries that bears relation to its planning. Existing law authorizes the legislative body of a county or city to adopt ordinances that, among other things, regulate the use of buildings, structures, and land as between industry, business, residences, open space, and other purposes, as provided. For these purposes, existing law authorizes the legislative body to divide a county or city into zones, but requires that regulations adopted be uniform for each class or kind of building or use of land throughout each zone. The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect.",
+  "This bill, the Public Lands Protection Act, would, upon transfer to any private or nonfederal entity of a parcel of land located within the state that is owned by the United States government on or after January 1, 2025, and that has been designated in an adopted general plan or zoning ordinance as open space, public land, resource conservation, or an equivalent conservation-oriented designation, immediately subject that parcel to the zoning designation and associated state and local restrictions. The bill would also, upon transfer of a parcel of land located within the state that is owned by the United States government on or after January 1, 2025, and that has not been designated in an adopted general plan or zoning ordinance at the time of transfer to any private or nonfederal entity, automatically subject that parcel to the most restrictive conservation-oriented zoning designation currently applied in the jurisdiction, by operation of law. The bill would prohibit a parcel of land governed by these provisions from being rezoned, subdivided, or granted any development entitlement that is inconsistent with a conservation-oriented zoning designation, unless certain requirements are satisfied, including that a full environmental impact report is completed in accordance with CEQA. Notwithstanding these provisions, the bill would require electric infrastructure and clean energy facilities necessary to achieve California’s climate and decarbonization goals to be deemed permitted uses in a conservation-oriented zoning designation if certain conditions are met. The bill would also exempt certain other parcels from these provisions.",
+  "This bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "This bill would make these provisions severable.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "0e1395658c6fc2f5",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "From printer. May be heard in committee February 22.",
+   "date": "2026-01-23"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and NAT. RES.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Assembly Rule 96.",
+   "date": "2026-08-28"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2026-01-22",
+  "id": "20250AB162499INT",
+  "num": "99"
+ },
+ "location": "CX20",
+ "sections": [
+  {
+   "action": "Section 65852.10 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Any parcel of land located within the state that is owned by the United States government on or after January 1, 2025, and that has been designated in an adopted general plan or zoning ordinance as open space, public land, resource conservation, or an equivalent conservation-oriented designation shall, upon transfer to any private or nonfederal entity, immediately be subject to the zoning designation and associated state and local restrictions, including, but not limited to, limitations on development, subdivision, grading, building permits, and incompatible uses.",
+    "(b) Any parcel of land located within the state that is owned by the United States government on or after January 1, 2025, and that has not been designated in an adopted general plan or zoning ordinance at the time of transfer to any private or nonfederal entity shall, upon transfer of the parcel, automatically be subject to the most restrictive conservation-oriented zoning designation currently applied within the jurisdiction, by operation of law, unless rezoned, subdivided, or granted a development entitlement pursuant to subdivision (c).",
+    "(c) A parcel governed by this section shall not be rezoned, subdivided, or granted any development entitlement that is inconsistent with a conservation-oriented zoning designation under subdivision (a) or (b), as applicable, unless all of the following apply:",
+    "(1) A full environmental impact report is completed in accordance with the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(2) The governing body of the local agency adopts the rezoning, subdivision, or development entitlement by a two-thirds vote after public hearing.",
+    "(3) The rezoning, subdivision, or development entitlement serves a compelling public interest and includes permanent mitigation or conservation offsets of equal or greater ecological value.",
+    "(4) The rezoning, subdivision, or development entitlement complies with all applicable state and local development regulations.",
+    "(d) Notwithstanding any other provision of this section, electric infrastructure and clean energy facilities necessary to achieve California’s climate and decarbonization goals shall be deemed permitted uses in a conservation-oriented zoning designation, provided that:",
+    "(1) The parcel is governed by this section.",
+    "(2) All impacts to habitat and natural resources are minimized and mitigated to the maximum extent feasible.",
+    "(e) This section shall not apply to any of the following:",
+    "(1) Any parcel that, at the time of transfer, contains operational buildings, hospitals, military installations, or similar infrastructure that collectively covers more than 50 percent of the land area.",
+    "(2) Lands held in trust by the United States for the benefit of federally recognized Native American tribes or individuals, consistent with principles of tribal sovereignty.",
+    "(3) Any parcel located within a city and for which the surrounding parcels are developed with housing or contain commercial or government infrastructure that cover more than 50 percent of the floor area ratio of the parcel.",
+    "(f) Nothing in this section shall preclude local agencies from adopting more protective zoning designations, land use restrictions, or conservation measures than those established by this section.",
+    "(g) The Legislature finds and declares that preservation of open space to achieve California’s climate targets and clean energy infrastructure that aligns with conservation values is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this section applies to all cities, including charter cities.",
+    "(h) The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+   ],
+   "sec": "65852.10",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Public Lands Protection Act.",
+ "title": "An act to add Section 65852.10 to the Government Code, relating to land use, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-01-22",
+   "id": "20250AB162499INT",
+   "num": "99"
+  }
+ ]
+}

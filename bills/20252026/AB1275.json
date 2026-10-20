@@ -1,0 +1,592 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Elhawary",
+   "primary": true
+  }
+ ],
+ "bill": "AB1275",
+ "bill_id": "202520260AB1275",
+ "chapter": {
+  "num": "593",
+  "year": "2025"
+ },
+ "digest": [
+  "(1) Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries. Existing law requires the general plan to include, among other mandatory elements, a housing element, and requires the housing element to include, among other things, an inventory of land suitable and available for residential development.",
+  "Existing law requires, for the 4th and subsequent revisions of the housing element, the department to determine the existing and projected need for housing for each region, as specified. Existing law requires the department, in consultation with the council of governments, to determine the existing and projected need of housing for each region at least 2 years prior to the scheduled revision of the housing element, as provided. Existing law requires the department to meet and consult with the council of governments regarding the assumptions and methodology to be used to determine the region’s housing needs at least 26 months prior to the scheduled revision of the housing element, as provided.",
+  "This bill, except as specified, would extend the above-described timeline for the department to determine the existing and projected need of housing for each region from 2 years to 3 years prior to the scheduled revision of the housing element. The bill would require the department to meet and consult with the council of governments, as described above, pursuant to prescribed deadlines. For the 7th revision of the housing element, the bill would require the department to meet and consult with each council of governments at least 38 months prior to the scheduled revision, except for specified councils of governments. For the 8th and subsequent revisions of the housing element, the bill would require the department to meet and consult with each council of governments at least 38 months prior to the scheduled revision.",
+  "(2) Existing law authorizes at least 2 or more cities and a county, or counties, at least 28 months prior to the scheduled housing element revision, to form a subregional entity to allocate the subregion’s existing and projected housing need among its members. Existing law requires the council of governments to determine the share of regional housing need assigned to each delegate subregion at least 25 months prior to the scheduled revision. Existing law also requires the share allocated to the delegate subregion or subregions by a council of governments to be in a proportion consistent with the distribution of households assumed for the comparable time period of the applicable regional transportation plan.",
+  "This bill would instead require the share allocated to the delegate subregion or subregions by a council of governments to be in a proportion consistent with the subregion’s share of the current adopted final regional housing need allocation plan.",
+  "(3) Existing law requires certain transportation planning agencies to prepare and adopt a regional transportation plan directed at achieving a coordinated and balanced regional transportation system. Existing law requires that each regional transportation plan include a sustainable communities strategy developed to achieve greenhouse gas emission reduction targets for the automobile and light truck sector for 2020 and 2035 established by the State Air Resources Board.",
+  "Existing law requires each council of governments, or delegate subregion as applicable, to consider certain factors in developing the methodology that allocates regional housing needs, including each member jurisdiction’s existing and projected jobs and housing relationship.",
+  "This bill would require each council of governments, or delegate subregion as applicable, to consider, in addition to the above-described factors, the development pattern set forth in the region’s sustainable communities strategy of its regional transportation plan.",
+  "(4) Existing law states the intent of the Legislature that housing planning be coordinated and integrated with the regional transportation plan. To achieve this goal, existing law requires the allocation plan to allocate housing units within the region consistent with the development pattern included in the sustainable communities strategy. Existing law also requires the resolution approving the final housing need allocation plan to demonstrate that the plan is consistent with the sustainable communities strategy in the regional transportation plan, among other things.",
+  "This bill would instead require the allocation plan to be informed by the development pattern included in the sustainable communities strategy. The bill would also require the resolution approving the final housing need allocation plan to demonstrate that the plan is, instead, informed by the sustainable communities strategy in the regional transportation plan, among other things.",
+  "(5) This bill would incorporate additional changes to Section 65584.01 of the Government Code proposed by SB 486 to be operative only if this bill and SB 486 are enacted and this bill is enacted last.",
+  "This bill would incorporate additional changes to Section 65584.03 of the Government Code proposed by AB 650 to be operative only if this bill and AB 650 are enacted and this bill is enacted last.",
+  "This bill would incorporate additional changes to Section 65584.04 of the Government Code proposed by SB 486 and AB 650, to be operative only if this bill and either or both of those bills are enacted and this bill is enacted last.",
+  "(6) By imposing additional requirements on a local entity, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "72ef76f44ce59e7f",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1265.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "(Pending re-refer to Com. on L. GOV.)",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To Consent Calendar. (Ayes 11. Noes 0.) (April 24). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "From committee: Do pass. To Consent Calendar. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 71. Noes 0. Page 1664.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Referred to Com. on HOUSING.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 11. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+   "date": "2025-07-14"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "From Consent Calendar.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2727.).",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 3203.).",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2025-09-22"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 593, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250AB127593CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65584 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) For the fourth and subsequent revisions of the housing element pursuant to Section 65588, the department shall determine the existing and projected need for housing for each region pursuant to this article. For purposes of subdivision (a) of Section 65583, the share of a city or county of the regional housing need shall include that share of the housing need of persons at all income levels within the area significantly affected by the general plan of the city or county.",
+    "(2) It is the intent of the Legislature that cities, counties, and cities and counties should undertake all necessary actions to encourage, promote, and facilitate the development of housing to accommodate the entire regional housing need, and reasonable actions should be taken by local and regional governments to ensure that future housing production meets, at a minimum, the regional housing need established for planning purposes. These actions shall include applicable reforms and incentives in Section 65582.1.",
+    "(3) The Legislature finds and declares that insufficient housing in job centers hinders the state’s environmental quality and runs counter to the state’s environmental goals. In particular, when Californians seeking affordable housing are forced to drive longer distances to work, an increased amount of greenhouse gases and other pollutants are released and puts in jeopardy the achievement of the state’s climate goals, as established pursuant to Section 38566 of the Health and Safety Code, and clean air goals.",
+    "(b) (1) (A) The department, in consultation with each council of governments, shall determine each region’s existing and projected housing need pursuant to Section 65584.01 at least three years prior to the scheduled revision required pursuant to Section 65588, except in the following circumstances:",
+    "(i) For regions with a scheduled housing element revision due date in the 2027 calendar year, the department shall determine the region’s housing need at least two years prior to the scheduled revision.",
+    "(ii) For regions with a scheduled housing element revision due date in the 2028 calendar year or the first 6 months of the 2029 calendar year, the department shall determine the region’s housing need at least 32 months prior to the scheduled revision.",
+    "(B) For cities and counties without a council of governments, the department shall determine each region’s existing and projected housing need pursuant to Section 65584.01 at least 24 months prior to the scheduled revision required pursuant to Section 65588.",
+    "(2) The appropriate council of governments, or for cities and counties without a council of governments, the department, shall adopt a final regional housing need plan that allocates a share of the regional housing need to each city, county, or city and county at least one year prior to the scheduled revision for the region required by Section 65588. The allocation plan prepared by a council of governments shall be prepared pursuant to Sections 65584.04 and 65584.05.",
+    "(c) Notwithstanding any other provision of law, the due dates for the determinations of the department or for the council of governments, respectively, regarding the regional housing need may be extended by the department by not more than 60 days if the extension will enable access to more recent critical population or housing data from a pending or recent release of the United States Census Bureau or the Department of Finance. If the due date for the determination of the department or the council of governments is extended for this reason, the department shall extend the corresponding housing element revision deadline pursuant to Section 65588 by not more than 60 days.",
+    "(d) The regional housing needs allocation plan shall further all of the following objectives:",
+    "(1) Increasing the housing supply and the mix of housing types, tenure, and affordability in all cities and counties within the region in an equitable manner, which shall result in each jurisdiction receiving an allocation of units for low- and very low income households. The regional housing needs allocation plan shall allocate units for extremely low and acutely low income households in a manner that is roughly proportional to, and within a range of 3 percent of, the housing need for very low income households.",
+    "(2) Promoting infill development and socioeconomic equity, the protection of environmental and agricultural resources, the encouragement of efficient development patterns, and the achievement of the region’s greenhouse gas reductions targets provided by the State Air Resources Board pursuant to Section 65080.",
+    "(3) Promoting an improved intraregional relationship between jobs and housing, including an improved balance between the number of low-wage jobs and the number of housing units affordable to low-wage workers in each jurisdiction.",
+    "(4) Allocating a lower proportion of housing need to an income category when a jurisdiction already has a disproportionately high share of households in that income category, as compared to the countywide distribution of households in that category from the most recent American Community Survey.",
+    "(5) Affirmatively furthering fair housing.",
+    "(e) For purposes of this section, “affirmatively furthering fair housing” means taking meaningful actions, in addition to combating discrimination, that overcome patterns of segregation and foster inclusive communities free from barriers that restrict access to opportunity based on protected characteristics. Specifically, affirmatively furthering fair housing means taking meaningful actions that, taken together, address significant disparities in housing needs and in access to opportunity, replacing segregated living patterns with truly integrated and balanced living patterns, transforming racially and ethnically concentrated areas of poverty into areas of opportunity, and fostering and maintaining compliance with civil rights and fair housing laws.",
+    "(f) (1) Subject to paragraph (2), for purposes of this section with respect to revisions of the housing element through the sixth revision, “household income levels” are as determined by the department pursuant to the following code sections:",
+    "(A) Very low incomes, as defined by Section 50105 of the Health and Safety Code.",
+    "(B) Lower incomes, as defined by Section 50079.5 of the Health and Safety Code.",
+    "(C) Moderate incomes, as defined by Section 50093 of the Health and Safety Code.",
+    "(D) Above moderate incomes are those exceeding the moderate-income level of Section 50093 of the Health and Safety Code.",
+    "(2) For purposes of this section with respect to the seventh and subsequent revisions of the housing element, “household income levels” are as determined by the department in accordance with the definitions of acutely low, extremely low, very low, low, moderate, and above moderate income in Section 65582.",
+    "(g) Notwithstanding any other provision of law, determinations made by the department, a council of governments, or a city or county pursuant to this section or Section 65584.01, 65584.02, 65584.03, 65584.04, 65584.05, 65584.06, 65584.07, or 65584.08 are exempt from the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code)."
+   ],
+   "sec": "65584",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.01 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For the fourth and subsequent revision of the housing element pursuant to Section 65588, the department, in consultation with each council of governments, where applicable, shall determine the existing and projected need for housing for each region in the following manner:",
+    "(a) The department’s determination shall be based upon population projections produced by the Department of Finance and regional population forecasts used in preparing regional transportation plans, in consultation with each council of governments. If the total regional population forecast for the projection year, developed by the council of governments and used for the preparation of the regional transportation plan, is within a range of 1.5 percent of the total regional population forecast for the projection year by the Department of Finance, then the population forecast developed by the council of governments shall be the basis from which the department determines the existing and projected need for housing in the region. If the difference between the total population projected by the council of governments and the total population projected for the region by the Department of Finance is greater than 1.5 percent, then the department and the council of governments shall meet to discuss variances in methodology used for population projections and seek agreement on a population projection for the region to be used as a basis for determining the existing and projected housing need for the region. If agreement is not reached, then the population projection for the region shall be the population projection for the region prepared by the Department of Finance as may be modified by the department as a result of discussions with the council of governments.",
+    "(b) (1) Subject to the applicable deadline specified in paragraph (2), and prior to developing the existing and projected housing need for a region, the department shall meet and consult with the council of governments regarding the assumptions and methodology to be used by the department to determine the region’s housing needs. The council of governments shall provide data assumptions from the council’s projections, including, if available, the following data for the region:",
+    "(A) Anticipated household growth associated with projected population increases.",
+    "(B) Household size data and trends in household size.",
+    "(C) The percentage of households that are overcrowded within the region and the percentage of households that are overcrowded throughout the nation. For purposes of this subparagraph, the term “overcrowded” means more than one resident per room in each room in a dwelling.",
+    "(D) The rate of household formation, or headship rates, based on age, gender, ethnicity, or other established demographic measures.",
+    "(E) The vacancy rates in existing housing stock, and the vacancy rates for healthy housing market functioning and regional mobility, as well as housing replacement needs. For purposes of this subparagraph, the vacancy rate for a healthy rental housing market shall be considered no less than 5 percent.",
+    "(F) Other characteristics of the composition of the projected population.",
+    "(G) The relationship between jobs and housing, including any imbalance between jobs and housing.",
+    "(H) The percentage of households that are cost burdened within the region and the percentage of households that are cost burdened throughout the nation. For the purposes of this subparagraph, the term “cost burdened” means the share of very low, low-, moderate-, and above moderate-income households that are paying more than 30 percent of household income on housing costs.",
+    "(I) The loss of units during a state of emergency that was declared by the Governor pursuant to the California Emergency Services Act (Chapter 7 (commencing with Section 8550) of Division 1 of Title 2), during the planning period immediately preceding the relevant revision pursuant to Section 65588 that have yet to be rebuilt or replaced at the time of the data request.",
+    "(J) The housing needs of individuals and families experiencing homelessness.",
+    "(i) The data utilized by the council of governments shall align with homelessness data best practices as determined by the department.",
+    "(ii) Sources of homelessness data may include the Homeless Data Integration System administered by the Interagency Council on Homelessness, the homeless point-in-time count, or other sources deemed appropriate by the department.",
+    "(2) The deadline for the department to meet and consult with each council of governments pursuant to paragraph (1) shall be as follows:",
+    "(A) For the fourth, fifth, and sixth revisions of the housing element, at least 26 months prior to the scheduled revision pursuant to Section 65588.",
+    "(B) For the seventh revision of the housing element, the applicable of the following:",
+    "(i) With respect to the following councils of governments, at least 26 months prior to the scheduled revision pursuant to Section 65588:",
+    "(I) The Humboldt County Association of Governments.",
+    "(II) The Lake Area Planning Council.",
+    "(III) The Mendocino Council of Governments.",
+    "(IV) The County of Nevada.",
+    "(ii) With respect to the following councils of governments, at least 34 months prior to the scheduled revision pursuant to Section 65588:",
+    "(I) The San Luis Obispo Council of Governments.",
+    "(II) The Sacramento Area Council of Governments.",
+    "(iii) With respect to all councils of governments other than those specified in clauses (i) and (ii), at least 38 months prior to the scheduled revision pursuant to Section 65588.",
+    "(C) For the eighth and subsequent revisions of the housing element, at least 38 months prior to the scheduled revision pursuant to Section 65588.",
+    "(3) The department may accept or reject the information provided by the council of governments or modify its own assumptions or methodology based on this information. After consultation with the council of governments, the department shall make determinations in writing on the assumptions for each of the factors listed in subparagraphs (A) to (I), inclusive, of paragraph (1) and the methodology it shall use and shall provide these determinations to the council of governments. The methodology submitted by the department may make adjustments based on the region’s total projected households, which includes existing households as well as projected households.",
+    "(c) (1) After consultation with the council of governments, the department shall make a determination of the region’s existing and projected housing need based upon the assumptions and methodology determined pursuant to subdivision (b). The region’s existing and projected housing need shall reflect the achievement of a feasible balance between jobs and housing within the region using the regional employment projections in the applicable regional transportation plan. Within 30 days following notice of the determination from the department, the council of governments may file an objection to the department’s determination of the region’s existing and projected housing need with the department.",
+    "(2) The objection shall be based on and substantiate either of the following:",
+    "(A) The department failed to base its determination on the population projection for the region established pursuant to subdivision (a), and shall identify the population projection which the council of governments believes should instead be used for the determination and explain the basis for its rationale.",
+    "(B) The regional housing need determined by the department is not a reasonable application of the methodology and assumptions determined pursuant to subdivision (b). The objection shall include a proposed alternative determination of its regional housing need based upon the determinations made in subdivision (b), including analysis of why the proposed alternative would be a more reasonable application of the methodology and assumptions determined pursuant to subdivision (b).",
+    "(3) If a council of governments files an objection pursuant to this subdivision and includes with the objection a proposed alternative determination of its regional housing need, it shall also include documentation of its basis for the alternative determination. Within 45 days of receiving an objection filed pursuant to this section, the department shall consider the objection and make a final written determination of the region’s existing and projected housing need that includes an explanation of the information upon which the determination was made.",
+    "(4) In regions in which the department is required to distribute the regional housing need pursuant to Section 65584.06, no city or county may file an objection to the regional housing need determination.",
+    "(d) Statutory changes enacted after the date the department issued a final determination pursuant to this section shall not be a basis for a revision of the final determination."
+   ],
+   "sec": "65584.01",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.01 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For the fourth and subsequent revision of the housing element pursuant to Section 65588, the department, in consultation with each council of governments, where applicable, shall determine the existing and projected need for housing for each region in the following manner:",
+    "(a) The department’s determination shall be based upon population projections produced by the Department of Finance and regional population forecasts used in preparing regional transportation plans, in consultation with each council of governments. If the total regional population forecast for the projection year, developed by the council of governments and used for the preparation of the regional transportation plan, is within a range of 1.5 percent of the total regional population forecast for the projection year by the Department of Finance, then the population forecast developed by the council of governments shall be the basis from which the department determines the existing and projected need for housing in the region. If the difference between the total population projected by the council of governments and the total population projected for the region by the Department of Finance is greater than 1.5 percent, then the department and the council of governments shall meet to discuss variances in methodology used for population projections and seek agreement on a population projection for the region to be used as a basis for determining the existing and projected housing need for the region. If agreement is not reached, then the population projection for the region shall be the population projection for the region prepared by the Department of Finance as may be modified by the department as a result of discussions with the council of governments.",
+    "(b) (1) Subject to the applicable deadline specified in paragraph (2), and prior to developing the existing and projected housing need for a region, the department shall meet and consult with the council of governments regarding the assumptions and methodology to be used by the department to determine the region’s housing needs. The council of governments shall provide data assumptions from the council’s projections, including, if available, the following data for the region:",
+    "(A) (i) Anticipated household growth associated with projected population increases.",
+    "(ii) The Department of Finance shall consider changes in enrollment levels at campuses of the University of California or the California State University in the region, as forecasted by the University of California and the California State University pursuant to paragraph (9) of subdivision (e) of Section 65584.04, when preparing the anticipated household growth associated with projected population increases.",
+    "(B) Household size data and trends in household size.",
+    "(C) The percentage of households that are overcrowded within the region and the percentage of households that are overcrowded throughout the nation. For purposes of this subparagraph, the term “overcrowded” means more than one resident per room in each room in a dwelling.",
+    "(D) The rate of household formation, or headship rates, based on age, gender, ethnicity, or other established demographic measures.",
+    "(E) The vacancy rates in existing housing stock, and the vacancy rates for healthy housing market functioning and regional mobility, as well as housing replacement needs. For purposes of this subparagraph, the vacancy rate for a healthy rental housing market shall be considered no less than 5 percent.",
+    "(F) Other characteristics of the composition of the projected population.",
+    "(G) The relationship between jobs and housing, including any imbalance between jobs and housing.",
+    "(H) The percentage of households that are cost burdened within the region and the percentage of households that are cost burdened throughout the nation. For the purposes of this subparagraph, the term “cost burdened” means the share of very low, low-, moderate-, and above moderate-income households that are paying more than 30 percent of household income on housing costs.",
+    "(I) The loss of units during a state of emergency that was declared by the Governor pursuant to the California Emergency Services Act (Chapter 7 (commencing with Section 8550) of Division 1 of Title 2), during the planning period immediately preceding the relevant revision pursuant to Section 65588 that have yet to be rebuilt or replaced at the time of the data request.",
+    "(J) The housing needs of individuals and families experiencing homelessness.",
+    "(i) The data used by the council of governments shall align with homelessness data best practices as determined by the department.",
+    "(ii) Sources of homelessness data may include the Homeless Data Integration System administered by the Interagency Council on Homelessness, the homeless point-in-time count, or other sources deemed appropriate by the department.",
+    "(2) The deadline for the department to meet and consult with each council of governments pursuant to paragraph (1) shall be as follows:",
+    "(A) For the fourth, fifth, and sixth revisions of the housing element, at least 26 months prior to the scheduled revision pursuant to Section 65588.",
+    "(B) For the seventh revision of the housing element, the applicable of the following:",
+    "(i) With respect to the following councils of governments, at least 26 months prior to the scheduled revision pursuant to Section 65588:",
+    "(I) The Humboldt County Association of Governments.",
+    "(II) The Lake Area Planning Council.",
+    "(III) The Mendocino Council of Governments.",
+    "(IV) The County of Nevada.",
+    "(ii) With respect to the following councils of governments, at least 34 months prior to the scheduled revision pursuant to Section 65588:",
+    "(I) The San Luis Obispo Council of Governments.",
+    "(II) The Sacramento Area Council of Governments.",
+    "(iii) With respect to all councils of governments other than those specified in clauses (i) and (ii), at least 38 months prior to the scheduled revision pursuant to Section 65588.",
+    "(C) For the eighth and subsequent revisions of the housing element, at least 38 months prior to the scheduled revision pursuant to Section 65588.",
+    "(3) The department may accept or reject the information provided by the council of governments or modify its own assumptions or methodology based on this information. After consultation with the council of governments, the department shall make determinations in writing on the assumptions for each of the factors listed in subparagraphs (A) to (I), inclusive, of paragraph (1) and the methodology it shall use and shall provide these determinations to the council of governments. The methodology submitted by the department may make adjustments based on the region’s total projected households, which includes existing households as well as projected households.",
+    "(c) (1) After consultation with the council of governments, the department shall make a determination of the region’s existing and projected housing need based upon the assumptions and methodology determined pursuant to subdivision (b). The region’s existing and projected housing need shall reflect the achievement of a feasible balance between jobs and housing within the region using the regional employment projections in the applicable regional transportation plan. Within 30 days following notice of the determination from the department, the council of governments may file an objection to the department’s determination of the region’s existing and projected housing need with the department.",
+    "(2) The objection shall be based on and substantiate either of the following:",
+    "(A) The department failed to base its determination on the population projection for the region established pursuant to subdivision (a), and shall identify the population projection which the council of governments believes should instead be used for the determination and explain the basis for its rationale.",
+    "(B) The regional housing need determined by the department is not a reasonable application of the methodology and assumptions determined pursuant to subdivision (b). The objection shall include a proposed alternative determination of its regional housing need based upon the determinations made in subdivision (b), including analysis of why the proposed alternative would be a more reasonable application of the methodology and assumptions determined pursuant to subdivision (b).",
+    "(3) If a council of governments files an objection pursuant to this subdivision and includes with the objection a proposed alternative determination of its regional housing need, it shall also include documentation of its basis for the alternative determination. Within 45 days of receiving an objection filed pursuant to this section, the department shall consider the objection and make a final written determination of the region’s existing and projected housing need that includes an explanation of the information upon which the determination was made.",
+    "(4) In regions in which the department is required to distribute the regional housing need pursuant to Section 65584.06, no city or county may file an objection to the regional housing need determination.",
+    "(d) Statutory changes enacted after the date the department issued a final determination pursuant to this section shall not be a basis for a revision of the final determination."
+   ],
+   "sec": "65584.01",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.03 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) At least 28 months prior to the scheduled housing element update required by Section 65588, at least two or more cities and a county, or counties, may form a subregional entity for the purpose of allocation of the subregion’s existing and projected need for housing among its members in accordance with the allocation methodology established pursuant to Section 65584.04. The purpose of establishing a subregion shall be to recognize the community of interest and mutual challenges and opportunities for providing housing within a subregion. A subregion formed pursuant to this section may include a single county and each of the cities in that county or any other combination of geographically contiguous local governments and shall be approved by the adoption of a resolution by each of the local governments in the subregion as well as by the council of governments. All decisions of the subregion shall be approved by vote as provided for in rules adopted by the local governments comprising the subregion or shall be approved by vote of the county or counties, if any, and the majority of the cities with the majority of population within a county or counties.",
+    "(b) Upon formation of the subregional entity, the entity shall notify the council of governments of this formation. If the council of governments has not received notification from an eligible subregional entity at least 28 months prior to the scheduled housing element update required by Section 65588, the council of governments shall implement the provisions of Sections 65584 and 65584.04. The delegate subregion and the council of governments shall enter into an agreement that sets forth the process, timing, and other terms and conditions of the delegation of responsibility by the council of governments to the subregion.",
+    "(c) At least 25 months prior to the scheduled revision, the council of governments shall determine the share of regional housing need assigned to each delegate subregion. The share or shares allocated to the delegate subregion or subregions by a council of governments shall be in a proportion consistent with the subregion’s share of the current adopted final regional housing need allocation plan. Prior to allocating the regional housing needs to any delegate subregion or subregions, the council of governments shall hold at least one public hearing, and may consider requests for revision of the proposed allocation to a subregion. If a proposed revision is rejected, the council of governments shall respond with a written explanation of why the proposed revised share has not been accepted.",
+    "(d) Each delegate subregion shall fully allocate its share of the regional housing need to local governments within its subregion. If a delegate subregion fails to complete the regional housing need allocation process among its member jurisdictions in a manner consistent with this article and with the delegation agreement between the subregion and the council of governments, the allocations to member jurisdictions shall be made by the council of governments."
+   ],
+   "sec": "65584.03",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.03 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) At least 34 months prior to the scheduled housing element update required by Section 65588, at least two or more cities and a county, or counties, may form a subregional entity for the purpose of allocation of the subregion’s existing and projected need for housing among its members in accordance with the allocation methodology established pursuant to Section 65584.04. The purpose of establishing a subregion shall be to recognize the community of interest and mutual challenges and opportunities for providing housing within a subregion. A subregion formed pursuant to this section may include a single county and each of the cities in that county or any other combination of geographically contiguous local governments and shall be approved by the adoption of a resolution by each of the local governments in the subregion as well as by the council of governments. All decisions of the subregion shall be approved by vote as provided for in rules adopted by the local governments comprising the subregion or shall be approved by vote of the county or counties, if any, and the majority of the cities with the majority of population within a county or counties.",
+    "(b) Upon formation of the subregional entity, the entity shall notify the council of governments of this formation. If the council of governments has not received notification from an eligible subregional entity at least 34 months prior to the scheduled housing element update required by Section 65588, the council of governments shall implement the provisions of Sections 65584 and 65584.04. The delegate subregion and the council of governments shall enter into an agreement that sets forth the process, timing, and other terms and conditions of the delegation of responsibility by the council of governments to the subregion.",
+    "(c) At least 31 months prior to the scheduled revision, the council of governments shall determine the share of regional housing need assigned to each delegate subregion. The share or shares allocated to the delegate subregion or subregions by a council of governments shall be in a proportion consistent with the subregion’s share of the current adopted final regional housing need allocation plan. Prior to allocating the regional housing needs to any delegate subregion or subregions, the council of governments shall hold at least one public hearing, and may consider requests for revision of the proposed allocation to a subregion. If a proposed revision is rejected, the council of governments shall respond with a written explanation of why the proposed revised share has not been accepted.",
+    "(d) Each delegate subregion shall fully allocate its share of the regional housing need to local governments within its subregion. If a delegate subregion fails to complete the regional housing need allocation process among its member jurisdictions in a manner consistent with this article and with the delegation agreement between the subregion and the council of governments, the allocations to member jurisdictions shall be made by the council of governments."
+   ],
+   "sec": "65584.03",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.04 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) At least two years before a scheduled revision required by Section 65588, each council of governments, or delegate subregion as applicable, shall develop, in consultation with the department, a proposed methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, where applicable pursuant to this section. The methodology shall further the objectives listed in subdivision (d) of Section 65584.",
+    "(b) (1) No more than six months before the development of a proposed methodology for distributing the existing and projected housing need, each council of governments shall survey each of its member jurisdictions to request, at a minimum, information regarding the factors listed in subdivision (e) that will allow the development of a methodology based upon the factors established in subdivision (e).",
+    "(2) With respect to the objective in paragraph (5) of subdivision (d) of Section 65584, the survey shall review and compile information that will allow the development of a methodology based upon the issues, strategies, and actions that are included, as available, in an Analysis of Impediments to Fair Housing Choice or an Assessment of Fair Housing completed by any city or county or the department that covers communities within the area served by the council of governments, and in housing elements adopted pursuant to this article by cities and counties within the area served by the council of governments.",
+    "(3) The council of governments shall seek to obtain the information in a manner and format that is comparable throughout the region and utilize readily available data to the extent possible.",
+    "(4) The information provided by a local government pursuant to this section shall be used, to the extent possible, by the council of governments, or delegate subregion as applicable, as source information for the methodology developed pursuant to this section. The survey shall state that none of the information received may be used as a basis for reducing the total housing need established for the region pursuant to Section 65584.01.",
+    "(5) If the council of governments fails to conduct a survey pursuant to this subdivision, a city, county, or city and county may submit information related to the items listed in subdivision (e) before the public comment period provided for in subdivision (d).",
+    "(c) The council of governments shall electronically report the results of the survey of fair housing issues, strategies, and actions compiled pursuant to paragraph (2) of subdivision (b). The report shall describe common themes and effective strategies employed by cities and counties within the area served by the council of governments, including common themes and effective strategies around avoiding the displacement of lower income households. The council of governments shall also identify significant barriers to affirmatively furthering fair housing at the regional level and may recommend strategies or actions to overcome those barriers. A council of governments or metropolitan planning organization, as appropriate, may use this information for any other purpose, including publication within a regional transportation plan adopted pursuant to Section 65080 or to inform the land use assumptions that are applied in the development of a regional transportation plan.",
+    "(d) Public participation and access shall be required in the development of the methodology and in the process of drafting and adoption of the allocation of the regional housing needs. Participation by organizations other than local jurisdictions and councils of governments shall be solicited in a diligent effort to achieve public participation of all economic segments of the community as well as members of protected classes under Section 12955 and households with special housing needs under paragraph (7) of subdivision (a) of Section 65583. The proposed methodology, along with any relevant underlying data and assumptions, an explanation of how information about local government conditions gathered pursuant to subdivision (b) has been used to develop the proposed methodology, how each of the factors listed in subdivision (e) is incorporated into the methodology, and how the proposed methodology furthers the objectives listed in subdivision (d) of Section 65584, shall be distributed to all cities, counties, any subregions, and members of the public who have made a written or electronic request for the proposed methodology and published on the council of governments’, or delegate subregion’s, internet website. The council of governments, or delegate subregion, as applicable, shall conduct at least one public hearing to receive oral and written comments on the proposed methodology.",
+    "(e) To the extent that sufficient data is available from local governments pursuant to subdivision (b) or other sources, each council of governments, or delegate subregion as applicable, shall consider including the following factors in developing the methodology that allocates regional housing needs:",
+    "(1) Each member jurisdiction’s existing and projected jobs and housing relationship. This shall include an estimate based on readily available data on the number of low-wage jobs within the jurisdiction and how many housing units within the jurisdiction are affordable to low-wage workers as well as an estimate based on readily available data, of projected job growth and projected household growth by income level within each member jurisdiction during the planning period.",
+    "(2) The opportunities and constraints to development of additional housing in each member jurisdiction, including all of the following:",
+    "(A) Lack of capacity for sewer or water service due to federal or state laws, regulations or regulatory actions, or supply and distribution decisions made by a sewer or water service provider other than the local jurisdiction that preclude the jurisdiction from providing necessary infrastructure for additional development during the planning period.",
+    "(B) The availability of land suitable for urban development or for conversion to residential use, the availability of underutilized land, and opportunities for infill development and increased residential densities. The council of governments may not limit its consideration of suitable housing sites or land suitable for urban development to existing zoning ordinances and land use restrictions of a locality, but shall consider the potential for increased residential development under alternative zoning ordinances and land use restrictions. The determination of available land suitable for urban development may exclude lands where the Federal Emergency Management Agency (FEMA) or the Department of Water Resources has determined that the flood management infrastructure designed to protect that land is not adequate to avoid the risk of flooding.",
+    "(C) Lands preserved or protected from urban development under existing federal or state programs, or both, designed to protect open space, farmland, environmental habitats, and natural resources on a long-term basis, including land zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(D) County policies to preserve prime agricultural land, as defined pursuant to Section 56064, within an unincorporated area and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts its conversion to nonagricultural uses.",
+    "(E) Emergency evacuation route capacity, wildfire risk, sea level rise, and other impacts caused by climate change.",
+    "(3) The distribution of household growth assumed for purposes of a comparable period of regional transportation plans and opportunities to maximize the use of public transportation and existing transportation infrastructure.",
+    "(4) Agreements between a county and cities in a county to direct growth toward incorporated areas of the county and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of the jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(5) The loss of units contained in assisted housing developments, as defined in paragraph (9) of subdivision (a) of Section 65583, that changed to non-low-income use through mortgage prepayment, subsidy contract expirations, or termination of use restrictions.",
+    "(6) The percentage of existing households at each of the income levels listed in subdivision (f) of Section 65584 that are paying more than 30 percent and more than 50 percent of their income in rent.",
+    "(7) The rate of overcrowding.",
+    "(8) The housing needs of farmworkers.",
+    "(9) The housing needs generated by the presence of a private university or a campus of the California State University or the University of California within any member jurisdiction.",
+    "(10) The housing needs of individuals and families experiencing homelessness. If a council of governments has surveyed each of its member jurisdictions pursuant to subdivision (b) on or before January 1, 2020, this paragraph shall apply only to the development of methodologies for the seventh and subsequent revisions of the housing element.",
+    "(11) The loss of units during a state of emergency that was declared by the Governor pursuant to the California Emergency Services Act (Chapter 7 (commencing with Section 8550) of Division 1 of Title 2), during the planning period immediately preceding the relevant revision pursuant to Section 65588 that have yet to be rebuilt or replaced at the time of the analysis.",
+    "(12) The region’s greenhouse gas emissions targets provided by the State Air Resources Board pursuant to Section 65080.",
+    "(13) The development pattern set forth in the region’s sustainable communities strategy of its regional transportation plan.",
+    "(14) Any other factors adopted by the council of governments, that further the objectives listed in subdivision (d) of Section 65584, provided that the council of governments specifies which of the objectives each additional factor is necessary to further. The council of governments may include additional factors unrelated to furthering the objectives listed in subdivision (d) of Section 65584 so long as the additional factors do not undermine the objectives listed in subdivision (d) of Section 65584 and are applied equally across all household income levels as described in subdivision (f) of Section 65584 and the council of governments makes a finding that the factor is necessary to address significant health and safety conditions.",
+    "(f) The council of governments, or delegate subregion, as applicable, shall explain in writing how each of the factors described in subdivision (e) was incorporated into the methodology and how the methodology furthers the objectives listed in subdivision (d) of Section 65584. The methodology may include numerical weighting. This information, and any other supporting materials used in determining the methodology, shall be posted on the council of governments’, or delegate subregion’s, internet website.",
+    "(g) The following criteria shall not be a justification for a determination or a reduction in a jurisdiction’s share of the regional housing need:",
+    "(1) Any ordinance, policy, voter-approved measure, or standard of a city or county that directly or indirectly limits the number of residential building permits issued by a city or county.",
+    "(2) Prior underproduction of housing in a city or county from the previous regional housing need allocation, as determined by each jurisdiction’s annual production report submitted pursuant to subparagraph (H) of paragraph (2) of subdivision (a) of Section 65400.",
+    "(3) Stable population numbers in a city or county from the previous regional housing needs cycle.",
+    "(h) Following the conclusion of the public comment period described in subdivision (d) on the proposed allocation methodology, and after making any revisions deemed appropriate by the council of governments, or delegate subregion, as applicable, as a result of comments received during the public comment period, and as a result of consultation with the department, each council of governments, or delegate subregion, as applicable, shall publish a draft allocation methodology on its internet website and submit the draft allocation methodology, along with the information required pursuant to subdivision (e), to the department.",
+    "(i) Within 60 days, the department shall review the draft allocation methodology and report its written findings to the council of governments, or delegate subregion, as applicable. In its written findings the department shall determine whether the methodology furthers the objectives listed in subdivision (d) of Section 65584. If the department determines that the methodology is not consistent with subdivision (d) of Section 65584, the council of governments, or delegate subregion, as applicable, shall take both of the following actions:",
+    "(1) Revise the methodology, in consultation with the department, to further the objectives listed in subdivision (d) of Section 65584 within 45 days.",
+    "(2) Receive department acceptance that the revised methodology furthers the objectives listed in subdivision (d) of Section 65584 and adopt a final regional, or subregional, housing need allocation methodology.",
+    "(j) If the department’s findings are not available within the time limits set by subdivision (i), the council of governments, or delegate subregion, may act without them.",
+    "(k) After taking action pursuant to subdivision (i), the council of governments, or delegate subregion, shall provide notice of the adoption of the methodology to the jurisdictions within the region, or delegate subregion, as applicable, and to the department, and shall publish the adopted allocation methodology, along with its resolution and any adopted written findings, on its internet website.",
+    "(l) The department may, within 45 days, review the adopted methodology and report its findings to the council of governments, or delegate subregion.",
+    "(m) (1) It is the intent of the Legislature that housing planning be coordinated and integrated with the regional transportation plan. To achieve this goal, the allocation plan shall be informed by the development pattern included in the sustainable communities strategy.",
+    "(2) (A) The final allocation plan shall ensure that the total regional housing need, by income category, as determined under Section 65584, is maintained, and that each jurisdiction in the region receive an allocation of units for low- and very low income households.",
+    "(B) For the seventh and subsequent revisions of the housing element, the allocation to each region required under subparagraph (A) shall also include an allocation of units for acutely low and extremely low income households.",
+    "(3) The resolution approving the final housing need allocation plan shall demonstrate that the plan is informed by the sustainable communities strategy in the regional transportation plan and furthers the objectives listed in subdivision (d) of Section 65584.",
+    "(n) This section shall become operative on January 1, 2025."
+   ],
+   "sec": "65584.04",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.04 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) At least two years before a scheduled revision required by Section 65588, each council of governments, or delegate subregion as applicable, shall develop, in consultation with the department, a proposed methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, where applicable pursuant to this section. The methodology shall further the objectives listed in subdivision (d) of Section 65584.",
+    "(b) (1) No more than six months before the development of a proposed methodology for distributing the existing and projected housing need, each council of governments shall survey each of its member jurisdictions to request, at a minimum, information regarding the factors listed in subdivision (e) that will allow the development of a methodology based upon the factors established in subdivision (e).",
+    "(2) With respect to the objective in paragraph (5) of subdivision (d) of Section 65584, the survey shall review and compile information that will allow the development of a methodology based upon the issues, strategies, and actions that are included, as available, in an Analysis of Impediments to Fair Housing Choice or an Assessment of Fair Housing completed by any city or county or the department that covers communities within the area served by the council of governments, and in housing elements adopted pursuant to this article by cities and counties within the area served by the council of governments.",
+    "(3) The council of governments shall seek to obtain the information in a manner and format that is comparable throughout the region and use readily available data to the extent possible.",
+    "(4) The information provided by a local government pursuant to this section shall be used, to the extent possible, by the council of governments, or delegate subregion as applicable, as source information for the methodology developed pursuant to this section. The survey shall state that none of the information received may be used as a basis for reducing the total housing need established for the region pursuant to Section 65584.01.",
+    "(5) If the council of governments fails to conduct a survey pursuant to this subdivision, a city, county, or city and county may submit information related to the items listed in subdivision (e) before the public comment period provided for in subdivision (d).",
+    "(c) The council of governments shall electronically report the results of the survey of fair housing issues, strategies, and actions compiled pursuant to paragraph (2) of subdivision (b). The report shall describe common themes and effective strategies employed by cities and counties within the area served by the council of governments, including common themes and effective strategies around avoiding the displacement of lower income households. The council of governments shall also identify significant barriers to affirmatively furthering fair housing at the regional level and may recommend strategies or actions to overcome those barriers. A council of governments or metropolitan planning organization, as appropriate, may use this information for any other purpose, including publication within a regional transportation plan adopted pursuant to Section 65080 or to inform the land use assumptions that are applied in the development of a regional transportation plan.",
+    "(d) Public participation and access shall be required in the development of the methodology and in the process of drafting and adoption of the allocation of the regional housing needs. Participation by organizations other than local jurisdictions and councils of governments shall be solicited in a diligent effort to achieve public participation of all economic segments of the community as well as members of protected classes under Section 12955 and households with special housing needs under paragraph (7) of subdivision (a) of Section 65583. The proposed methodology, along with any relevant underlying data and assumptions, an explanation of how information about local government conditions gathered pursuant to subdivision (b) has been used to develop the proposed methodology, how each of the factors listed in subdivision (e) is incorporated into the methodology, and how the proposed methodology furthers the objectives listed in subdivision (d) of Section 65584, shall be distributed to all cities, counties, any subregions, and members of the public who have made a written or electronic request for the proposed methodology and published on the council of governments’, or delegate subregion’s, internet website. The council of governments, or delegate subregion, as applicable, shall conduct at least one public hearing to receive oral and written comments on the proposed methodology.",
+    "(e) To the extent that sufficient data is available from local governments pursuant to subdivision (b) or other sources, each council of governments, or delegate subregion as applicable, shall consider including the following factors in developing the methodology that allocates regional housing needs:",
+    "(1) Each member jurisdiction’s existing and projected jobs and housing relationship. This shall include an estimate based on readily available data on the number of low-wage jobs within the jurisdiction and how many housing units within the jurisdiction are affordable to low-wage workers as well as an estimate based on readily available data, of projected job growth and projected household growth by income level within each member jurisdiction during the planning period.",
+    "(2) The opportunities and constraints to development of additional housing in each member jurisdiction, including all of the following:",
+    "(A) Lack of capacity for sewer or water service due to federal or state laws, regulations or regulatory actions, or supply and distribution decisions made by a sewer or water service provider other than the local jurisdiction that preclude the jurisdiction from providing necessary infrastructure for additional development during the planning period.",
+    "(B) The availability of land suitable for urban development or for conversion to residential use, the availability of underutilized land, and opportunities for infill development and increased residential densities. The council of governments may not limit its consideration of suitable housing sites or land suitable for urban development to existing zoning ordinances and land use restrictions of a locality, but shall consider the potential for increased residential development under alternative zoning ordinances and land use restrictions. The determination of available land suitable for urban development may exclude lands where the Federal Emergency Management Agency (FEMA) or the Department of Water Resources has determined that the flood management infrastructure designed to protect that land is not adequate to avoid the risk of flooding.",
+    "(C) Lands preserved or protected from urban development under existing federal or state programs, or both, designed to protect open space, farmland, environmental habitats, and natural resources on a long-term basis, including land zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(D) County policies to preserve prime agricultural land, as defined pursuant to Section 56064, within an unincorporated area and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts its conversion to nonagricultural uses.",
+    "(E) Emergency evacuation route capacity, wildfire risk, sea level rise, and other impacts caused by climate change.",
+    "(3) The distribution of household growth assumed for purposes of a comparable period of regional transportation plans and opportunities to maximize the use of public transportation and existing transportation infrastructure.",
+    "(4) Agreements between a county and cities in a county to direct growth toward incorporated areas of the county and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of the jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(5) The loss of units contained in assisted housing developments, as defined in paragraph (9) of subdivision (a) of Section 65583, that changed to non-low-income use through mortgage prepayment, subsidy contract expirations, or termination of use restrictions.",
+    "(6) The percentage of existing households at each of the income levels listed in subdivision (f) of Section 65584 that are paying more than 30 percent and more than 50 percent of their income in rent.",
+    "(7) The rate of overcrowding.",
+    "(8) The housing needs of farmworkers.",
+    "(9) (A) The housing needs generated by the presence of a private university or a campus of the California State University or the University of California within any member jurisdiction, the distribution of those students among jurisdictions within the region, and for a campus of the California State University or the University of California, the optimization of transit, pedestrian, and other nonvehicle trip efficiency by students to the campus, including off-campus facilities.",
+    "(B) (i) No more than six months before the development of the methodology, the Regents of the University of California are requested to, and the Trustees of the California State University shall, provide to each council of governments a forecast of changes in enrollment levels at its campuses, including off-campus facilities, within the region, based on factors including, but not limited to, (I) cohort progression projections, (II) improvements in the percentage of California residents meeting university admission and transfer standards, and (III) improvements in degree completion by noncohort students. The forecast shall not be limited to students who will be recent high school graduates. The Regents of the University of California are requested to, and the Trustees of the California State University shall, provide copies of the forecast to the Director of Finance, the Director of Housing and Community Development, and the Chairperson of the Joint Legislative Budget Committee.",
+    "(ii) Clause (i) shall apply to the seventh and each subsequent housing element cycle, except as specified in clause (iii).",
+    "(iii) With respect to all of the following councils of governments, clause (i) shall apply to the eighth and each subsequent housing element cycles:",
+    "(I) The Humboldt County Association of Governments.",
+    "(II) The Lake Area Planning Council.",
+    "(III) The Mendocino Council of Governments.",
+    "(C) The Regents of the University of California are requested to, and the Trustees of the California State University shall, provide trip and travel data to the council of governments upon request.",
+    "(10) The housing needs of individuals and families experiencing homelessness. If a council of governments has surveyed each of its member jurisdictions pursuant to subdivision (b) on or before January 1, 2020, this paragraph shall apply only to the development of methodologies for the seventh and subsequent revisions of the housing element.",
+    "(11) The loss of units during a state of emergency that was declared by the Governor pursuant to the California Emergency Services Act (Chapter 7 (commencing with Section 8550) of Division 1 of Title 2), during the planning period immediately preceding the relevant revision pursuant to Section 65588 that have yet to be rebuilt or replaced at the time of the analysis.",
+    "(12) The region’s greenhouse gas emissions targets provided by the State Air Resources Board pursuant to Section 65080.",
+    "(13) The development pattern set forth in the region’s sustainable communities strategy of its regional transportation plan.",
+    "(14) Any other factors adopted by the council of governments, that further the objectives listed in subdivision (d) of Section 65584, provided that the council of governments specifies which of the objectives each additional factor is necessary to further. The council of governments may include additional factors unrelated to furthering the objectives listed in subdivision (d) of Section 65584 so long as the additional factors do not undermine the objectives listed in subdivision (d) of Section 65584 and are applied equally across all household income levels as described in subdivision (f) of Section 65584 and the council of governments makes a finding that the factor is necessary to address significant health and safety conditions.",
+    "(f) The council of governments, or delegate subregion, as applicable, shall explain in writing how each of the factors described in subdivision (e) was incorporated into the methodology and how the methodology furthers the objectives listed in subdivision (d) of Section 65584. The methodology may include numerical weighting. This information, and any other supporting materials used in determining the methodology, shall be posted on the council of governments’, or delegate subregion’s, internet website.",
+    "(g) The following criteria shall not be a justification for a determination or a reduction in a jurisdiction’s share of the regional housing need:",
+    "(1) Any ordinance, policy, voter-approved measure, or standard of a city or county that directly or indirectly limits the number of residential building permits issued by a city or county.",
+    "(2) Prior underproduction of housing in a city or county from the previous regional housing need allocation, as determined by each jurisdiction’s annual production report submitted pursuant to subparagraph (H) of paragraph (2) of subdivision (a) of Section 65400.",
+    "(3) Stable population numbers in a city or county from the previous regional housing needs cycle.",
+    "(h) Following the conclusion of the public comment period described in subdivision (d) on the proposed allocation methodology, and after making any revisions deemed appropriate by the council of governments, or delegate subregion, as applicable, as a result of comments received during the public comment period, and as a result of consultation with the department, each council of governments, or delegate subregion, as applicable, shall publish a draft allocation methodology on its internet website and submit the draft allocation methodology, along with the information required pursuant to subdivision (e), to the department.",
+    "(i) Within 60 days, the department shall review the draft allocation methodology and report its written findings to the council of governments, or delegate subregion, as applicable. In its written findings the department shall determine whether the methodology furthers the objectives listed in subdivision (d) of Section 65584. If the department determines that the methodology is not consistent with subdivision (d) of Section 65584, the council of governments, or delegate subregion, as applicable, shall take both of the following actions:",
+    "(1) Revise the methodology, in consultation with the department, to further the objectives listed in subdivision (d) of Section 65584 within 45 days.",
+    "(2) Receive department acceptance that the revised methodology furthers the objectives listed in subdivision (d) of Section 65584 and adopt a final regional, or subregional, housing need allocation methodology.",
+    "(j) If the department’s findings are not available within the time limits set by subdivision (i), the council of governments, or delegate subregion, may act without them.",
+    "(k) After taking action pursuant to subdivision (i), the council of governments, or delegate subregion, shall provide notice of the adoption of the methodology to the jurisdictions within the region, or delegate subregion, as applicable, and to the department, and shall publish the adopted allocation methodology, along with its resolution and any adopted written findings, on its internet website.",
+    "(l) The department may, within 45 days, review the adopted methodology and report its findings to the council of governments, or delegate subregion.",
+    "(m) (1) It is the intent of the Legislature that housing planning be coordinated and integrated with the regional transportation plan. To achieve this goal, the allocation plan shall be informed by the development pattern included in the sustainable communities strategy.",
+    "(2) (A) The final allocation plan shall ensure that the total regional housing need, by income category, as determined under Section 65584, is maintained, and that each jurisdiction in the region receive an allocation of units for low- and very low income households.",
+    "(B) For the seventh and subsequent revisions of the housing element, the allocation to each region required under subparagraph (A) shall also include an allocation of units for acutely low and extremely low income households.",
+    "(3) The resolution approving the final housing need allocation plan shall demonstrate that the plan is informed by the sustainable communities strategy in the regional transportation plan and furthers the objectives listed in subdivision (d) of Section 65584.",
+    "(n) This section shall become operative on January 1, 2025."
+   ],
+   "sec": "65584.04",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.04 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) At least two and one-half years before a scheduled revision required by Section 65588, each council of governments, or delegate subregion as applicable, shall develop, in consultation with the department, a proposed methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, where applicable pursuant to this section. The methodology shall further the objectives listed in subdivision (d) of Section 65584.",
+    "(b) (1) No more than six months before the development of a proposed methodology for distributing the existing and projected housing need, each council of governments shall survey each of its member jurisdictions to request, at a minimum, information regarding the factors listed in subdivision (e) that will allow the development of a methodology based upon the factors established in subdivision (e).",
+    "(2) With respect to the objective in paragraph (5) of subdivision (d) of Section 65584, the survey shall review and compile information that will allow the development of a methodology based upon the issues, strategies, and actions that are included, as available, in an Analysis of Impediments to Fair Housing Choice or an Assessment of Fair Housing completed by any city or county or the department that covers communities within the area served by the council of governments, and in housing elements adopted pursuant to this article by cities and counties within the area served by the council of governments.",
+    "(3) The council of governments shall seek to obtain the information in a manner and format that is comparable throughout the region and utilize readily available data to the extent possible.",
+    "(4) The information provided by a local government pursuant to this section shall be used, to the extent possible, by the council of governments, or delegate subregion as applicable, as source information for the methodology developed pursuant to this section. The survey shall state that none of the information received may be used as a basis for reducing the total housing need established for the region pursuant to Section 65584.01.",
+    "(5) If the council of governments fails to conduct a survey pursuant to this subdivision, a city, county, or city and county may submit information related to the items listed in subdivision (e) before the public comment period provided for in subdivision (d).",
+    "(c) The council of governments shall electronically report the results of the survey of fair housing issues, strategies, and actions compiled pursuant to paragraph (2) of subdivision (b). The report shall describe common themes and effective strategies employed by cities and counties within the area served by the council of governments, including common themes and effective strategies around avoiding the displacement of lower income households. The council of governments shall also identify significant barriers to affirmatively furthering fair housing at the regional level and may recommend strategies or actions to overcome those barriers. A council of governments or metropolitan planning organization, as appropriate, may use this information for any other purpose, including publication within a regional transportation plan adopted pursuant to Section 65080 or to inform the land use assumptions that are applied in the development of a regional transportation plan.",
+    "(d) Public participation and access shall be required in the development of the methodology and in the process of drafting and adoption of the allocation of the regional housing needs. Participation by organizations other than local jurisdictions and councils of governments shall be solicited in a diligent effort to achieve public participation of all economic segments of the community as well as members of protected classes under Section 12955 and households with special housing needs under paragraph (7) of subdivision (a) of Section 65583. The proposed methodology, along with any relevant underlying data and assumptions, an explanation of how information about local government conditions gathered pursuant to subdivision (b) has been used to develop the proposed methodology, how each of the factors listed in subdivision (e) is incorporated into the methodology, and how the proposed methodology furthers the objectives listed in subdivision (d) of Section 65584, shall be distributed to all cities, counties, any subregions, and members of the public who have made a written or electronic request for the proposed methodology and published on the council of governments’, or delegate subregion’s, internet website. The council of governments, or delegate subregion, as applicable, shall conduct at least one public hearing to receive oral and written comments on the proposed methodology.",
+    "(e) To the extent that sufficient data is available from local governments pursuant to subdivision (b) or other sources, each council of governments, or delegate subregion as applicable, shall consider including the following factors in developing the methodology that allocates regional housing needs:",
+    "(1) Each member jurisdiction’s existing and projected jobs and housing relationship. This shall include an estimate based on readily available data on the number of low-wage jobs within the jurisdiction and how many housing units within the jurisdiction are affordable to low-wage workers as well as an estimate based on readily available data, of projected job growth and projected household growth by income level within each member jurisdiction during the planning period.",
+    "(2) The opportunities and constraints to development of additional housing in each member jurisdiction, including all of the following:",
+    "(A) Lack of capacity for sewer or water service due to federal or state laws, regulations or regulatory actions, or supply and distribution decisions made by a sewer or water service provider other than the local jurisdiction that preclude the jurisdiction from providing necessary infrastructure for additional development during the planning period.",
+    "(B) The availability of land suitable for urban development or for conversion to residential use, the availability of underutilized land, and opportunities for infill development and increased residential densities. The council of governments may not limit its consideration of suitable housing sites or land suitable for urban development to existing zoning ordinances and land use restrictions of a locality, but shall consider the potential for increased residential development under alternative zoning ordinances and land use restrictions. The determination of available land suitable for urban development may exclude lands where the Federal Emergency Management Agency (FEMA) or the Department of Water Resources has determined that the flood management infrastructure designed to protect that land is not adequate to avoid the risk of flooding.",
+    "(C) Lands preserved or protected from urban development under existing federal or state programs, or both, designed to protect open space, farmland, environmental habitats, and natural resources on a long-term basis, including land zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(D) County policies to preserve prime agricultural land, as defined pursuant to Section 56064, within an unincorporated area and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts its conversion to nonagricultural uses.",
+    "(E) Emergency evacuation route capacity, wildfire risk, sea level rise, and other impacts caused by climate change.",
+    "(3) The distribution of household growth assumed for purposes of a comparable period of regional transportation plans and opportunities to maximize the use of public transportation and existing transportation infrastructure.",
+    "(4) Agreements between a county and cities in a county to direct growth toward incorporated areas of the county and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of the jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(5) The loss of units contained in assisted housing developments, as defined in paragraph (9) of subdivision (a) of Section 65583, that changed to non-low-income use through mortgage prepayment, subsidy contract expirations, or termination of use restrictions.",
+    "(6) The percentage of existing households at each of the income levels listed in subdivision (f) of Section 65584 that are paying more than 30 percent and more than 50 percent of their income in rent.",
+    "(7) The rate of overcrowding.",
+    "(8) The housing needs of farmworkers.",
+    "(9) The housing needs generated by the presence of a private university or a campus of the California State University or the University of California within any member jurisdiction.",
+    "(10) The housing needs of individuals and families experiencing homelessness. If a council of governments has surveyed each of its member jurisdictions pursuant to subdivision (b) on or before January 1, 2020, this paragraph shall apply only to the development of methodologies for the seventh and subsequent revisions of the housing element.",
+    "(11) The loss of units during a state of emergency that was declared by the Governor pursuant to the California Emergency Services Act (Chapter 7 (commencing with Section 8550) of Division 1 of Title 2), during the planning period immediately preceding the relevant revision pursuant to Section 65588 that have yet to be rebuilt or replaced at the time of the analysis.",
+    "(12) The region’s greenhouse gas emissions targets provided by the State Air Resources Board pursuant to Section 65080.",
+    "(13) The development pattern set forth in the region’s sustainable communities strategy of its regional transportation plan.",
+    "(14) Any other factors adopted by the council of governments, that further the objectives listed in subdivision (d) of Section 65584, provided that the council of governments specifies which of the objectives each additional factor is necessary to further. The council of governments may include additional factors unrelated to furthering the objectives listed in subdivision (d) of Section 65584 so long as the additional factors do not undermine the objectives listed in subdivision (d) of Section 65584 and are applied equally across all household income levels as described in subdivision (f) of Section 65584 and the council of governments makes a finding that the factor is necessary to address significant health and safety conditions.",
+    "(f) The council of governments, or delegate subregion, as applicable, shall explain in writing how each of the factors described in subdivision (e) was incorporated into the methodology and how the methodology furthers the objectives listed in subdivision (d) of Section 65584. The methodology may include numerical weighting. This information, and any other supporting materials used in determining the methodology, shall be posted on the council of governments’, or delegate subregion’s, internet website.",
+    "(g) The following criteria shall not be a justification for a determination or a reduction in a jurisdiction’s share of the regional housing need:",
+    "(1) Any ordinance, policy, voter-approved measure, or standard of a city or county that directly or indirectly limits the number of residential building permits issued by a city or county.",
+    "(2) Prior underproduction of housing in a city or county from the previous regional housing need allocation, as determined by each jurisdiction’s annual production report submitted pursuant to subparagraph (H) of paragraph (2) of subdivision (a) of Section 65400.",
+    "(3) Stable population numbers in a city or county from the previous regional housing needs cycle.",
+    "(h) Following the conclusion of the public comment period described in subdivision (d) on the proposed allocation methodology, and after making any revisions deemed appropriate by the council of governments, or delegate subregion, as applicable, as a result of comments received during the public comment period, and as a result of consultation with the department, each council of governments, or delegate subregion, as applicable, shall publish a draft allocation methodology on its internet website and submit the draft allocation methodology, along with the information required pursuant to subdivision (e), to the department.",
+    "(i) Within 60 days, the department shall review the draft allocation methodology and report its written findings to the council of governments, or delegate subregion, as applicable. In its written findings the department shall determine whether the methodology furthers the objectives listed in subdivision (d) of Section 65584. If the department determines that the methodology is not consistent with subdivision (d) of Section 65584, the council of governments, or delegate subregion, as applicable, shall take both of the following actions:",
+    "(1) Revise the methodology, in consultation with the department, to further the objectives listed in subdivision (d) of Section 65584 within 45 days.",
+    "(2) Receive department acceptance that the revised methodology furthers the objectives listed in subdivision (d) of Section 65584 and adopt a final regional, or subregional, housing need allocation methodology.",
+    "(j) If the department’s findings are not available within the time limits set by subdivision (i), the council of governments, or delegate subregion, may act without them.",
+    "(k) After taking action pursuant to subdivision (i), the council of governments, or delegate subregion, shall provide notice of the adoption of the methodology to the jurisdictions within the region, or delegate subregion, as applicable, and to the department, and shall publish the adopted allocation methodology, along with its resolution and any adopted written findings, on its internet website.",
+    "(l) The department may, within 45 days, review the adopted methodology and report its findings to the council of governments, or delegate subregion.",
+    "(m) (1) It is the intent of the Legislature that housing planning be coordinated and integrated with the regional transportation plan. To achieve this goal, the allocation plan shall be informed by the development pattern included in the sustainable communities strategy.",
+    "(2) (A) The final allocation plan shall ensure that the total regional housing need, by income category, as determined under Section 65584, is maintained, and that each jurisdiction in the region receive an allocation of units for low- and very low income households.",
+    "(B) For the seventh and subsequent revisions of the housing element, the allocation to each region required under subparagraph (A) shall also include an allocation of units for acutely low and extremely low income households.",
+    "(3) The resolution approving the final housing need allocation plan shall demonstrate that the plan is informed by the sustainable communities strategy in the regional transportation plan and furthers the objectives listed in subdivision (d) of Section 65584.",
+    "(n) This section shall become operative on January 1, 2025.",
+    "(o) For the seventh housing element cycle, the changes to this section made by the act adding this subdivision shall not apply to councils of governments with a housing element revision due date during the 2027 calendar year."
+   ],
+   "sec": "65584.04",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.04 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) At least two and one-half years before a scheduled revision required by Section 65588, each council of governments, or delegate subregion as applicable, shall develop, in consultation with the department, a proposed methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, where applicable pursuant to this section. The methodology shall further the objectives listed in subdivision (d) of Section 65584.",
+    "(b) (1) No more than six months before the development of a proposed methodology for distributing the existing and projected housing need, each council of governments shall survey each of its member jurisdictions to request, at a minimum, information regarding the factors listed in subdivision (e) that will allow the development of a methodology based upon the factors established in subdivision (e).",
+    "(2) With respect to the objective in paragraph (5) of subdivision (d) of Section 65584, the survey shall review and compile information that will allow the development of a methodology based upon the issues, strategies, and actions that are included, as available, in an Analysis of Impediments to Fair Housing Choice or an Assessment of Fair Housing completed by any city or county or the department that covers communities within the area served by the council of governments, and in housing elements adopted pursuant to this article by cities and counties within the area served by the council of governments.",
+    "(3) The council of governments shall seek to obtain the information in a manner and format that is comparable throughout the region and use readily available data to the extent possible.",
+    "(4) The information provided by a local government pursuant to this section shall be used, to the extent possible, by the council of governments, or delegate subregion as applicable, as source information for the methodology developed pursuant to this section. The survey shall state that none of the information received may be used as a basis for reducing the total housing need established for the region pursuant to Section 65584.01.",
+    "(5) If the council of governments fails to conduct a survey pursuant to this subdivision, a city, county, or city and county may submit information related to the items listed in subdivision (e) before the public comment period provided for in subdivision (d).",
+    "(c) The council of governments shall electronically report the results of the survey of fair housing issues, strategies, and actions compiled pursuant to paragraph (2) of subdivision (b). The report shall describe common themes and effective strategies employed by cities and counties within the area served by the council of governments, including common themes and effective strategies around avoiding the displacement of lower income households. The council of governments shall also identify significant barriers to affirmatively furthering fair housing at the regional level and may recommend strategies or actions to overcome those barriers. A council of governments or metropolitan planning organization, as appropriate, may use this information for any other purpose, including publication within a regional transportation plan adopted pursuant to Section 65080 or to inform the land use assumptions that are applied in the development of a regional transportation plan.",
+    "(d) Public participation and access shall be required in the development of the methodology and in the process of drafting and adoption of the allocation of the regional housing needs. Participation by organizations other than local jurisdictions and councils of governments shall be solicited in a diligent effort to achieve public participation of all economic segments of the community as well as members of protected classes under Section 12955 and households with special housing needs under paragraph (7) of subdivision (a) of Section 65583. The proposed methodology, along with any relevant underlying data and assumptions, an explanation of how information about local government conditions gathered pursuant to subdivision (b) has been used to develop the proposed methodology, how each of the factors listed in subdivision (e) is incorporated into the methodology, and how the proposed methodology furthers the objectives listed in subdivision (d) of Section 65584, shall be distributed to all cities, counties, any subregions, and members of the public who have made a written or electronic request for the proposed methodology and published on the council of governments’, or delegate subregion’s, internet website. The council of governments, or delegate subregion, as applicable, shall conduct at least one public hearing to receive oral and written comments on the proposed methodology.",
+    "(e) To the extent that sufficient data is available from local governments pursuant to subdivision (b) or other sources, each council of governments, or delegate subregion as applicable, shall consider including the following factors in developing the methodology that allocates regional housing needs:",
+    "(1) Each member jurisdiction’s existing and projected jobs and housing relationship. This shall include an estimate based on readily available data on the number of low-wage jobs within the jurisdiction and how many housing units within the jurisdiction are affordable to low-wage workers as well as an estimate based on readily available data, of projected job growth and projected household growth by income level within each member jurisdiction during the planning period.",
+    "(2) The opportunities and constraints to development of additional housing in each member jurisdiction, including all of the following:",
+    "(A) Lack of capacity for sewer or water service due to federal or state laws, regulations or regulatory actions, or supply and distribution decisions made by a sewer or water service provider other than the local jurisdiction that preclude the jurisdiction from providing necessary infrastructure for additional development during the planning period.",
+    "(B) The availability of land suitable for urban development or for conversion to residential use, the availability of underutilized land, and opportunities for infill development and increased residential densities. The council of governments may not limit its consideration of suitable housing sites or land suitable for urban development to existing zoning ordinances and land use restrictions of a locality, but shall consider the potential for increased residential development under alternative zoning ordinances and land use restrictions. The determination of available land suitable for urban development may exclude lands where the Federal Emergency Management Agency (FEMA) or the Department of Water Resources has determined that the flood management infrastructure designed to protect that land is not adequate to avoid the risk of flooding.",
+    "(C) Lands preserved or protected from urban development under existing federal or state programs, or both, designed to protect open space, farmland, environmental habitats, and natural resources on a long-term basis, including land zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(D) County policies to preserve prime agricultural land, as defined pursuant to Section 56064, within an unincorporated area and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts its conversion to nonagricultural uses.",
+    "(E) Emergency evacuation route capacity, wildfire risk, sea level rise, and other impacts caused by climate change.",
+    "(3) The distribution of household growth assumed for purposes of a comparable period of regional transportation plans and opportunities to maximize the use of public transportation and existing transportation infrastructure.",
+    "(4) Agreements between a county and cities in a county to direct growth toward incorporated areas of the county and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of the jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(5) The loss of units contained in assisted housing developments, as defined in paragraph (9) of subdivision (a) of Section 65583, that changed to non-low-income use through mortgage prepayment, subsidy contract expirations, or termination of use restrictions.",
+    "(6) The percentage of existing households at each of the income levels listed in subdivision (f) of Section 65584 that are paying more than 30 percent and more than 50 percent of their income in rent.",
+    "(7) The rate of overcrowding.",
+    "(8) The housing needs of farmworkers.",
+    "(9) (A) The housing needs generated by the presence of a private university or a campus of the California State University or the University of California within any member jurisdiction, the distribution of those students among jurisdictions within the region, and for a campus of the California State University or the University of California, the optimization of transit, pedestrian, and other nonvehicle trip efficiency by students to the campus, including off-campus facilities.",
+    "(B) (i) No more than six months before the development of the methodology, the Regents of the University of California are requested to, and the Trustees of the California State University shall, provide to each council of governments a forecast of changes in enrollment levels at its campuses, including off-campus facilities, within the region, based on factors including, but not limited to, (I) cohort progression projections, (II) improvements in the percentage of California residents meeting university admission and transfer standards, and (III) improvements in degree completion by noncohort students. The forecast shall not be limited to students who will be recent high school graduates. The Regents of the University of California are requested to, and the Trustees of the California State University shall, provide copies of the forecast to the Director of Finance, the Director of Housing and Community Development, and the Chairperson of the Joint Legislative Budget Committee.",
+    "(ii) Clause (i) shall apply to the seventh and each subsequent housing element cycle, except as specified in clause (iii).",
+    "(iii) With respect to all of the following councils of governments, clause (i) shall apply to the eighth and each subsequent housing element cycles:",
+    "(I) The Humboldt County Association of Governments.",
+    "(II) The Lake Area Planning Council.",
+    "(III) The Mendocino Council of Governments.",
+    "(C) The Regents of the University of California are requested to, and the Trustees of the California State University shall, provide trip and travel data to the council of governments upon request.",
+    "(10) The housing needs of individuals and families experiencing homelessness. If a council of governments has surveyed each of its member jurisdictions pursuant to subdivision (b) on or before January 1, 2020, this paragraph shall apply only to the development of methodologies for the seventh and subsequent revisions of the housing element.",
+    "(11) The loss of units during a state of emergency that was declared by the Governor pursuant to the California Emergency Services Act (Chapter 7 (commencing with Section 8550) of Division 1 of Title 2), during the planning period immediately preceding the relevant revision pursuant to Section 65588 that have yet to be rebuilt or replaced at the time of the analysis.",
+    "(12) The region’s greenhouse gas emissions targets provided by the State Air Resources Board pursuant to Section 65080.",
+    "(13) The development pattern set forth in the region’s sustainable communities strategy of its regional transportation plan.",
+    "(14) Any other factors adopted by the council of governments, that further the objectives listed in subdivision (d) of Section 65584, provided that the council of governments specifies which of the objectives each additional factor is necessary to further. The council of governments may include additional factors unrelated to furthering the objectives listed in subdivision (d) of Section 65584 so long as the additional factors do not undermine the objectives listed in subdivision (d) of Section 65584 and are applied equally across all household income levels as described in subdivision (f) of Section 65584 and the council of governments makes a finding that the factor is necessary to address significant health and safety conditions.",
+    "(f) The council of governments, or delegate subregion, as applicable, shall explain in writing how each of the factors described in subdivision (e) was incorporated into the methodology and how the methodology furthers the objectives listed in subdivision (d) of Section 65584. The methodology may include numerical weighting. This information, and any other supporting materials used in determining the methodology, shall be posted on the council of governments’, or delegate subregion’s, internet website.",
+    "(g) The following criteria shall not be a justification for a determination or a reduction in a jurisdiction’s share of the regional housing need:",
+    "(1) Any ordinance, policy, voter-approved measure, or standard of a city or county that directly or indirectly limits the number of residential building permits issued by a city or county.",
+    "(2) Prior underproduction of housing in a city or county from the previous regional housing need allocation, as determined by each jurisdiction’s annual production report submitted pursuant to subparagraph (H) of paragraph (2) of subdivision (a) of Section 65400.",
+    "(3) Stable population numbers in a city or county from the previous regional housing needs cycle.",
+    "(h) Following the conclusion of the public comment period described in subdivision (d) on the proposed allocation methodology, and after making any revisions deemed appropriate by the council of governments, or delegate subregion, as applicable, as a result of comments received during the public comment period, and as a result of consultation with the department, each council of governments, or delegate subregion, as applicable, shall publish a draft allocation methodology on its internet website and submit the draft allocation methodology, along with the information required pursuant to subdivision (e), to the department.",
+    "(i) Within 60 days, the department shall review the draft allocation methodology and report its written findings to the council of governments, or delegate subregion, as applicable. In its written findings the department shall determine whether the methodology furthers the objectives listed in subdivision (d) of Section 65584. If the department determines that the methodology is not consistent with subdivision (d) of Section 65584, the council of governments, or delegate subregion, as applicable, shall take both of the following actions:",
+    "(1) Revise the methodology, in consultation with the department, to further the objectives listed in subdivision (d) of Section 65584 within 45 days.",
+    "(2) Receive department acceptance that the revised methodology furthers the objectives listed in subdivision (d) of Section 65584 and adopt a final regional, or subregional, housing need allocation methodology.",
+    "(j) If the department’s findings are not available within the time limits set by subdivision (i), the council of governments, or delegate subregion, may act without them.",
+    "(k) After taking action pursuant to subdivision (i), the council of governments, or delegate subregion, shall provide notice of the adoption of the methodology to the jurisdictions within the region, or delegate subregion, as applicable, and to the department, and shall publish the adopted allocation methodology, along with its resolution and any adopted written findings, on its internet website.",
+    "(l) The department may, within 45 days, review the adopted methodology and report its findings to the council of governments, or delegate subregion.",
+    "(m) (1) It is the intent of the Legislature that housing planning be coordinated and integrated with the regional transportation plan. To achieve this goal, the allocation plan shall be informed by the development pattern included in the sustainable communities strategy.",
+    "(2) (A) The final allocation plan shall ensure that the total regional housing need, by income category, as determined under Section 65584, is maintained, and that each jurisdiction in the region receive an allocation of units for low- and very low income households.",
+    "(B) For the seventh and subsequent revisions of the housing element, the allocation to each region required under subparagraph (A) shall also include an allocation of units for acutely low and extremely low income households.",
+    "(3) The resolution approving the final housing need allocation plan shall demonstrate that the plan is informed by the sustainable communities strategy in the regional transportation plan and furthers the objectives listed in subdivision (d) of Section 65584.",
+    "(n) This section shall become operative on January 1, 2025.",
+    "(o) For the seventh housing element cycle, the changes to this section made by the act adding this subdivision shall not apply to councils of governments with a housing element revision due date during the 2027 calendar year."
+   ],
+   "sec": "65584.04",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Regional housing needs: regional transportation plan.",
+ "title": "An act to amend Sections 65584, 65584.01, 65584.03, and 65584.04 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB127599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB127598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-24",
+   "id": "20250AB127597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-04",
+   "id": "20250AB127596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-05",
+   "id": "20250AB127595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250AB127594ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250AB127593CHP",
+   "num": "93"
+  }
+ ]
+}

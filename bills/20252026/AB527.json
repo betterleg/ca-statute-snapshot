@@ -1,0 +1,326 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Papan",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rogers",
+   "primary": false
+  }
+ ],
+ "bill": "AB527",
+ "bill_id": "202520260AB527",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if the lead agency finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "Existing law establishes the Geologic Energy Management Division in the Department of Conservation, under the direction of the State Oil and Gas Supervisor, who is required to supervise the drilling, operation, maintenance, and abandonment of wells so as to permit the owners or operators of those wells to use all methods and practices known to the industry for the purpose of increasing the ultimate recovery of geothermal resources, as provided. Existing law requires the division to be the lead agency for all geothermal exploratory projects for purposes of CEQA, as specified, and authorizes the division to delegate its lead agency responsibility for geothermal exploratory projects to a county that has adopted a geothermal element for its general plan. Existing law also requires the county in which a geothermal project is located to assume the responsibilities of a lead agency for a geothermal exploratory project upon the request of an applicant, as specified. Existing law defines “geothermal exploratory project” in part as a project composed of not more than 6 wells and associated drilling and testing equipment whose chief and original purpose is to evaluate the presence and characteristics of geothermal resources. Existing law requires wells included within a geothermal exploratory project to be located at least one-half mile from geothermal development wells that are capable of producing geothermal resources in commercial quantities. Existing law requires the owner or operator of a well to keep, or to cause to be kept, a careful and accurate log, core record, and history of drilling the well and requires the log to show, among other things, the character and depth of the formation passed through or encountered in the drilling of the well. Upon completion or abandonment of a well, or upon the suspension of operations of a well, existing law requires true copies of the log, core record, and history to be filed with the district deputy of an oil and gas district, as specified.",
+  "This bill would expressly include as part of a geothermal exploratory project, among other things, equipment and activities necessary to establish interconnectivity between wells and reservoirs. The bill would exclude certain wells connecting to geothermal reservoirs from the one-half mile limit described above. The bill would require the log for a well that is part of a geothermal exploratory project that is exempt from CEQA, as described below, to include the chemical and physical characteristics of well stimulation fluids. Upon completion or abandonment of a well, or upon the suspension of operations of a well, that is part of a geothermal exploratory project that is exempt from CEQA, as described below, the bill would require a project developer to disclose the composition of fluids used in all relevant hydraulic fracturing operations with the log for a well and would require the project developer to file a copy of the disclosure with the lead agency.",
+  "This bill would, until January 1, 2031, exempt from CEQA geothermal exploratory projects that meet specified conditions and for which the county or the Geologic Energy Management Division is the lead agency. The bill would require a project developer to conduct a reconnaissance survey, that includes certain information, and to supply the lead agency with the reconnaissance survey when applying for an exemption from CEQA. The bill would require the lead agency to engage in a scoping consultation with any California Native American tribe that is traditionally and culturally affiliated with the geographic area of the proposed project, as provided. The bill would authorize the lead agency to require the project applicant to file an indemnity bond, as specified, before the lead agency determines that a geothermal exploratory project is exempt from CEQA. The bill would require a geothermal exploratory project that is exempt from CEQA to include full reclamation of the project site, as provided. The bill would require the lead agency, at least 30 days before making a determination to approve a geothermal exploratory project as exempt from CEQA pursuant to this exemption, to post a written notice of the intent to apply the exemption at the project site and to post a written notice of the intent to apply the exemption and the entire project application on its internet website. If the lead agency determines that the project is exempt from CEQA, the bill would require the lead agency to file a notice with the State Clearinghouse in the Office of Land Use and Climate Innovation and with the county clerk of the county in which the project is located, as provided, and to provide a copy of the notice to specified entities. Because the exemption would apply to projects where the county is the lead agency and the county would be required to engage in a scoping consultation and determine if a project qualifies for this exemption, the bill would impose a state-mandated local program.",
+  "This bill would require a geothermal field development project located on a site where a geothermal exploratory project was deployed pursuant to the above-described CEQA exemption to use a baseline for CEQA review that reflects the site before the geothermal exploratory project occurred.",
+  "Existing law requires the owner or operator of a well to file a written notice of intention to commence drilling with, and prohibits any drilling until approval is given by, the supervisor or district deputy.",
+  "This bill would require, on or before January 1, 2029, the Geologic Energy Management Division to promulgate regulations for enhanced geothermal system wells, as provided. Before the promulgation and implementation of those regulations, the bill would require an operator to provide specified information to the supervisor when the operator files the notice of intent to commence drilling for a well in a CEQA-exempt geothermal exploratory project that employs enhanced geothermal system technology.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "eb947a5083187aa6",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-10"
+  },
+  {
+   "action": "From printer. May be heard in committee March 13.",
+   "date": "2025-02-11"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-03-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 14. Noes 0.) (April 28).",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-05-06"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 76. Noes 0. Page 1729.)",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and N.R. & W.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E.Q.",
+   "date": "2025-06-24"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on N.R. & W. (Ayes 6. Noes 1.) (July 2).",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on N.R. & W.",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (July 16).",
+   "date": "2025-07-23"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-23"
+  },
+  {
+   "action": "In committee: Referred to suspense file.",
+   "date": "2025-08-18"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 36. Noes 0. Page 2739.).",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 3196.).",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2025-09-22"
+  },
+  {
+   "action": "Vetoed by Governor.",
+   "date": "2025-10-06"
+  },
+  {
+   "action": "Consideration of Governor's veto pending.",
+   "date": "2025-10-06"
+  },
+  {
+   "action": "Consideration of Governor's veto stricken from file.",
+   "date": "2026-01-22"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Enrolled",
+  "date": "2025-09-12",
+  "id": "20250AB52791ENR",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21065.5 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "“Geothermal exploratory project” means a project as defined in Section 21065 composed of not more than six wells and associated drilling and testing equipment, including equipment and activities necessary to establish interconnectivity between wells and reservoirs, temporary roads, electric distribution lines, and infrastructure to provide power for drilling and testing equipment, whose chief and original purpose is to evaluate the presence and characteristics of geothermal resources before commencement of a geothermal field development project as defined in Section 65928.5 of the Government Code. Wells included within a geothermal exploratory project, excluding wells connecting to geothermal reservoirs whose permeability or capacity to allow the flow of geothermal fluids, including water, has been increased from its natural or original state through stimulation, horizontal drilling, the use of closed-loop configurations, or other techniques, shall be located at least one-half mile from geothermal development wells that are capable of producing geothermal resources in commercial quantities."
+   ],
+   "sec": "21065.5",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.67 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) This division does not apply to a geothermal exploratory project, as defined in Section 21065.5, for which a county or the Geologic Energy Management Division is the lead agency pursuant to Section 3715.5, including any permit, funding, or other approval by a state or local agency for the geothermal exploratory project as may be required by this division, if the lead agency determines that the geothermal exploratory project meets all of the following conditions:",
+    "(1) The project does not include the production of geothermal resources in commercial quantities.",
+    "(2) The project site is not more than 20 acres total at the surface and the project site does not disturb more than 12 acres of previously undisturbed ground at the surface. For purposes of this paragraph, “undisturbed” means in a natural state without industrial or other development.",
+    "(3) The project site does not include, or lie within 100 feet of, any of the following:",
+    "(A) A site that is included on any list compiled pursuant to Section 65962.5 of the Government Code.",
+    "(B) Rivers, streams, or riparian corridors, except temporary road or electric distribution line crossings. Temporary road or electrical distribution line crossings shall be undertaken pursuant to an agreement issued by the Department of Fish and Wildlife pursuant to Chapter 6 (commencing with Section 1600) of Division 2 of the Fish and Game Code, as applicable.",
+    "(C) Lands identified for conservation in an adopted natural community conservation plan pursuant to the Natural Community Conservation Planning Act (Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code) or a habitat conservation plan pursuant to the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), or other adopted natural resource protection plan.",
+    "(D) Identified habitat for species of special status identified by state or federal agencies, including species protected under the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code), and any species identified as fully protected pursuant to Sections 3511, 4700, 5050, and 5515 of the Fish and Game Code.",
+    "(E) Lands with a conservation easement unless consistent with the terms or requirements of the easement.",
+    "(4) The project site does not include, or lie within, 300 feet of wetlands, as described in subdivision (l) of Section 21067.5.",
+    "(5) Wells included within the project are set back at the surface at least 100 feet from a public road and at least 300 feet from a building that is open to the public, if present, and the property line of any adjacent properties that are not affiliated with the project or the project applicant.",
+    "(6) The project will not result in significant adverse impacts to any of the following:",
+    "(A) Natural resources, including sensitive habitats and any species of special status identified by state or federal agencies, including species protected under the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code), and any species identified as fully protected pursuant to Sections 3511, 4700, 5050, and 5515 of the Fish and Game Code.",
+    "(B) Hydrological resources, including rivers, streams, wetlands, groundwater wells, springs, and aquifers.",
+    "(C) Tribal, historical, and other cultural resources.",
+    "(7) The project applicant has provided to the lead agency a legally binding commitment to comply with Section 21183.5.",
+    "(8) The project applicant has submitted to the lead agency a preliminary description of the anticipated composition of fluids to be used for any hydraulic fracturing operations expected to occur in the geothermal exploratory project, if applicable.",
+    "(9) Unusual circumstances do not exist that would cause the project to have a significant adverse impact on the environment.",
+    "(b) (1) The project developer shall conduct a reconnaissance survey using best practices, including the identification of relevant protocols and guidelines used in conducting the survey, and shall supply the lead agency with the reconnaissance survey when applying for an exemption from this division pursuant to this section. The reconnaissance survey shall include, but is not limited to, all of the following information:",
+    "(A) The identification of natural resources including sensitive species of flora and fauna, sensitive habitats and hydrological resources including rivers, streams, wetlands, groundwater wells, springs, and aquifers. The reconnaissance survey shall include a biological resources survey that shall, at a minimum, identify any species of special status identified by state or federal agencies, including species protected under the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code), and any species identified as fully protected pursuant to Sections 3511, 4700, 5050, and 5515 of the Fish and Game Code.",
+    "(B) The identification of any tribal, historical, and other cultural resources.",
+    "(2) For purposes of this subdivision, “reconnaissance survey” means a survey of a proposed geothermal exploratory project site conducted before applying for an exemption from this division pursuant to this section. A reconnaissance survey does not need to include the level of detail required in an initial study.",
+    "(c) (1) Upon receipt of an application for a project pursuant to this section, the lead agency shall engage in a scoping consultation regarding the proposed development with a California Native American tribe that is traditionally and culturally affiliated with the geographic area, as described in Section 21080.3.1, of the proposed geothermal exploratory project in order to determine whether the project will result in significant adverse impacts to a tribal cultural resource. In order to expedite compliance with this subdivision, the lead agency shall contact the Native American Heritage Commission for assistance in identifying any California Native American tribe that is traditionally and culturally affiliated with the geographic area of the proposed geothermal exploratory project.",
+    "(2) The timeline for noticing and commencing a scoping consultation pursuant to this section shall be as follows:",
+    "(A) The lead agency shall provide a formal notice of an application pursuant to this section to each California Native American tribe that is traditionally and culturally affiliated with the geographic area of the proposed development within 30 days of receiving that application.",
+    "(B) Each California Native American tribe that receives a formal notice shall have 30 days from the receipt of that notice to accept the invitation to engage in a scoping consultation.",
+    "(C) If the lead agency receives a response accepting an invitation to engage in a scoping consultation, the lead agency shall commence the scoping consultation within 30 days of receiving that response.",
+    "(3) The scoping consultation shall recognize that California Native American tribes traditionally and culturally affiliated with a geographic area have knowledge and expertise concerning the resources at issue and shall take into account the cultural significance of the resources to the culturally affiliated California Native American tribe.",
+    "(4) (A) The parties to a scoping consultation conducted pursuant to this subdivision shall be the lead agency and any California Native American tribe traditionally and culturally affiliated with the geographic area of the proposed geothermal exploratory project.",
+    "(B) More than one California Native American tribe traditionally and culturally affiliated with the geographic area of the proposed geothermal exploratory project may participate in the scoping consultation. Upon request by any of the participating California Native American tribes, the lead agency shall engage in a separate scoping consultation with that California Native American tribe.",
+    "(5) The applicant and the applicant’s consultants may participate in a scoping consultation process conducted pursuant to this subdivision if all of the following conditions are met:",
+    "(A) The applicant and the applicant’s consultants agree to respect the principles set forth in this subdivision.",
+    "(B) The applicant and the applicant’s consultants engage in the scoping consultation in good faith.",
+    "(C) The California Native American tribe participating in the scoping consultation approves the participation of the applicant and the applicant’s consultants. The California Native American tribe may rescind its approval at any time during the scoping consultation, either for the duration of the scoping consultation or for any particular meeting or discussion held as part of the scoping consultation.",
+    "(6) The participants to a scoping consultation pursuant to this subdivision shall comply with the following confidentiality requirements:",
+    "(A) Section 7927.000 of the Government Code.",
+    "(B) Section 7927.005 of the Government Code.",
+    "(C) Subdivision (c) of Section 21082.3.",
+    "(D) Subdivision (d) of Section 15120 of Title 14 of the California Code of Regulations.",
+    "(E) Any additional confidentiality standards adopted by the California Native American tribe participating in the scoping consultation.",
+    "(7) A scoping consultation pursuant to this subdivision shall be deemed to be concluded if either of the following occurs:",
+    "(A) The parties to the scoping consultation document an enforceable agreement concerning methods, measures, and conditions to avoid or address potential impacts to tribal cultural resources that are or may be present.",
+    "(B) One or more parties to the scoping consultation, acting in good faith and after reasonable effort, conclude that a mutual agreement on methods, measures, and conditions to avoid or address impacts to tribal cultural resources that are or may be present cannot be reached.",
+    "(8) This division shall not apply to a scoping consultation pursuant to this subdivision.",
+    "(9) For purposes of this subdivision, the following definitions apply:",
+    "(A) “Consultation” means the meaningful and timely process of seeking, discussing, and considering carefully the views of others, in a manner that is cognizant of all parties’ cultural values and, where feasible, seeking agreement. Consultation between local governments and California Native American tribes shall be conducted in a way that is mutually respectful of each party’s sovereignty. Consultation shall also recognize the tribes’ potential needs for confidentiality with respect to places that have traditional tribal cultural importance. A lead agency shall consult the tribal consultation best practices described in the “State of California Tribal Consultation Guidelines: Supplement to General Plan Guidelines” prepared by the former Office of Planning and Research.",
+    "(B) “Scoping” means the act of participating in early discussions or investigations between a local government and a California Native American tribe, and the development proponent if authorized by the California Native American tribe, regarding the potential effects a proposed development could have on a potential tribal cultural resource, as defined in Section 21074, or California Native American tribe as defined in Section 21073.",
+    "(C) “Tribal cultural resource” means a site, feature, place, cultural landscape, sacred place, including a Native American sanctified cemetery, Indian cemetery, or Indian burial area, or an object with cultural value to a California Native American tribe that is any of the following:",
+    "(i) Included or eligible for inclusion in the California Register of Historical Resources or the National Register of Historic Places.",
+    "(ii) Included in a local register of historical resources as defined in subdivision (k) of Section 5020.1.",
+    "(iii) Included in a tribal government register maintained by a Tribal Historic Preservation Officer approved by the Secretary of the Interior pursuant to Section 101 of the federal National Historic Preservation Act (54 U.S.C. Sec. 300101 et seq.).",
+    "(iv) Identified by the Native American Heritage Commission as a sacred place pursuant to Section 5097.94 or 5097.96.",
+    "(d) If the lead agency determines that a project is not subject to this division pursuant to this section, the requirements of Section 21183.5 shall apply.",
+    "(e) (1) The lead agency may require the project applicant to file an indemnity bond before it makes its determination pursuant to subdivision (a). The bond, in a form and manner prescribed by the lead agency, shall be in an amount sufficient to secure any supplemental costs beyond the applicant’s bonding requirements with the Geologic Energy Management Division, pursuant to Section 3725, to secure full reclamation of the project site.",
+    "(2) If a project is not subject to this division pursuant to this section, the project shall include full reclamation of all well pads, temporary routes, and other disturbances, including the reestablishment of vegetative cover with native plants, unless those disturbances are incorporated into a subsequent geothermal field development project, as defined in Section 65928.5 of the Government Code.",
+    "(f) At least 30 days before making a determination to approve a geothermal exploratory project as exempt from this division pursuant to this section, the lead agency shall post a written notice of the intent to apply the exemption at the project site and post a written notice of the intent to apply the exemption and the entire project application on its internet website.",
+    "(g) If the lead agency determines that a project is not subject to this division pursuant to this section, and the lead agency determines to approve or carry out the project, the lead agency shall file a notice with the State Clearinghouse in the Office of Land Use and Climate Innovation and with the county clerk of the county in which the project is located in accordance with subdivisions (b), (c), and (d) of Section 21152. The lead agency shall provide a copy of the notice filed with the State Clearinghouse to the Department of Fish and Wildlife and the relevant California regional water quality control board.",
+    "(h) If a project is not subject to this division pursuant to this section, when making a filing pursuant to Section 3735 to the Geologic Energy Management Division of the Department of Conservation, the project developer shall include a disclosure of the composition of fluids used in all relevant hydraulic fracturing operations, and shall file a copy of the disclosure with the lead agency, if applicable.",
+    "(i) For purposes of this section, “project site” means land that is altered at the surface for a geothermal exploratory project that is seeking an exemption from this division pursuant to this section. “Project site” shall not necessarily include the entire property on which the project is located.",
+    "(j) This section is not intended, and shall not be construed, to limit consultation and discussion between a local agency and a California Native American tribe pursuant to other applicable law, confidentiality provisions pursuant to other applicable law, the protection of religious exercise to the fullest extent permitted pursuant to state and federal law, or the ability of a California Native American tribe to submit information to the local agency or participate in any process of the local agency.",
+    "(k) This section shall remain in effect only until January 1, 2031, and as of that date is repealed."
+   ],
+   "sec": "21080.67",
+   "verb": "added"
+  },
+  {
+   "action": "Section 21080.71 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "A geothermal field development project located on a site where a geothermal exploratory project was deployed pursuant to Section 21080.67 shall use a baseline for review pursuant to this division that reflects the site before the deployment of the geothermal exploratory project as identified in subdivision (b) of Section 21080.67."
+   ],
+   "sec": "21080.71",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Vetoed",
+ "subject": "California Environmental Quality Act: geothermal exploratory projects: geothermal field development projects: enhanced geothermal system wells.",
+ "title": "An act to amend Sections 3731 and 21065.5 of, to add Sections 3738 and 21080.71 to, and to add and repeal Section 21080.67 of, the Public Resources Code, relating to geothermal resources.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-10",
+   "id": "20250AB52799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB52798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-21",
+   "id": "20250AB52797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-05",
+   "id": "20250AB52796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-06-24",
+   "id": "20250AB52795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-07",
+   "id": "20250AB52794AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-23",
+   "id": "20250AB52793AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-05",
+   "id": "20250AB52792AMD",
+   "num": "92"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250AB52791ENR",
+   "num": "91"
+  }
+ ]
+}

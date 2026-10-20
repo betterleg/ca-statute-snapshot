@@ -1,0 +1,220 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ávila Farías",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Caballero",
+   "primary": false
+  }
+ ],
+ "bill": "AB2689",
+ "bill_id": "202520260AB2689",
+ "chapter": {
+  "num": "958",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, provides for the creation of an accessory dwelling unit by local ordinance or, if a local agency has not adopted an ordinance, by ministerial approval, in accordance with specified standards. Existing law prohibits an accessory dwelling unit from being sold or otherwise conveyed separate from the primary residence, except under certain conditions, including if a local agency adopts a local ordinance to allow the separate conveyance of the primary dwelling unit and accessory dwelling unit or units as condominiums, subject to certain requirements. Among these requirements, the ordinance must require a safety inspection of the accessory dwelling unit, as specified, before recordation of the condominium plan.",
+  "This bill would remove the above-described requirement for a safety inspection before recordation of the condominium plan in connection with the separate conveyance of an accessory dwelling unit under these provisions. The bill would authorize a condominium plan to be submitted with a parcel map or a tentative and final map and, after the recordation of the condominium plan, would authorize that portion of the parcel, including the accessory dwelling unit to be sold or otherwise conveyed separate from the primary residence."
+ ],
+ "hash": "63d70cfaa5636a85",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2026-02-21"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-04-07"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 1.) (April 29).",
+   "date": "2026-04-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-04-30"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 68. Noes 1. Page 5549.)",
+   "date": "2026-05-28"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and JUD.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (June 16). Re-referred to Com. on JUD.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 11. Noes 0.) (June 30).",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0.).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 69. Noes 2. Page 6884.).",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2026-09-10"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 958, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250AB268993CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66342 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) In addition to the requirement that a local agency allow the separate sale or conveyance of an accessory dwelling unit pursuant to Section 66341, a local agency may also adopt a local ordinance to allow the separate conveyance of the primary dwelling unit and accessory dwelling unit or units as condominiums. An ordinance shall include all of the following requirements:",
+    "(1) The condominiums shall be created pursuant to the Davis-Stirling Common Interest Development Act (Part 5 (commencing with Section 4000) of Division 4 of the Civil Code).",
+    "(2) The condominiums shall be created in conformance with all applicable objective requirements of the Subdivision Map Act (Division 2 (commencing with Section 66410)) and all objective requirements of a local subdivision ordinance.",
+    "(3) (A) A subdivision map or a condominium plan shall not be recorded with the county recorder in the county where the real property is located without each lienholder’s consent. The following shall apply to the consent of a lienholder:",
+    "(i) A lienholder may refuse to give consent.",
+    "(ii) A lienholder may consent provided that any terms and conditions required by the lienholder are satisfied.",
+    "(B) Prior to recordation of the initial or any subsequent modifications to the condominium plan, written evidence of the lienholder’s consent shall be provided to the county recorder along with a signed statement from each lienholder that states as follows:",
+    "“(Name of lienholder) hereby consents to the recording of this condominium plan in their sole and absolute discretion and the borrower has or will satisfy any additional terms and conditions the lienholder may have.”",
+    "(C) The lienholder’s consent shall be included on the condominium plan or a separate form attached to the condominium plan that includes the following information:",
+    "(i) The lienholder’s signature.",
+    "(ii) The name of the record owner or ground lessee.",
+    "(iii) The legal description of the real property.",
+    "(iv) The identities of all parties with an interest in the real property as reflected in the real property records.",
+    "(v) The lienholder’s consent shall be recorded in the office of the county recorder of the county in which the real property is located.",
+    "(4) The local agency shall include the following notice to consumers on any accessory dwelling or junior accessory dwelling unit submittal checklist or public information issued describing requirements and permitting for accessory dwelling units, including as standard condition of any accessory dwelling unit building permit or condominium plan approval:",
+    "“NOTICE: If you are considering establishing your primary dwelling unit and accessory dwelling unit as a condominium, please ensure that your building permitting agency allows this practice. If you decide to establish your primary dwelling unit and accessory dwelling unit as a condominium, your condominium plan or any future modifications to the condominium plan must be recorded with the County Recorder. Prior to recordation or modification of your subdivision map and condominium plan, any lienholder with a lien on your title must provide a form of written consent either on the condominium plan, or on the lienholder’s consent form attached to the condominium plan, with text that clearly states that the lender approves recordation of the condominium plan and that you have satisfied their terms and conditions, if any.",
+    "In order to secure lender consent, you may be required to follow additional lender requirements, which may include, but are not limited to, one or more of the following:",
+    "(a) Paying off your current lender.",
+    "You may pay off your mortgage and any liens through a refinance or a new loan. Be aware that refinancing or using a new loan may result in changes to your interest rate or tax basis. Also, be aware that any subsequent modification to your subdivision map or condominium plan must also be consented to by your lender, which consent may be denied.",
+    "(b) Securing your lender’s approval of a modification to their loan collateral due to the change of your current property legal description into one or more condominium parcels.",
+    "(c) Securing your lender’s consent to the details of any construction loan or ground lease.",
+    "This may include a copy of the improvement contract entered in good faith with a licensed contractor, evidence that the record owner or ground lessee has the funds to complete the work, and a signed statement made by the record owner or ground lessor that the information in the consent above is true and correct.”",
+    "(5) If an accessory dwelling unit is established as a condominium, the local government shall require the homeowner to notify providers of utilities, including water, sewer, gas, and electricity, of the condominium creation and separate conveyance.",
+    "(6) (A) The owner of a property or a separate interest within an existing planned development that has an existing association, as defined in Section 4080 of the Civil Code, shall not record a condominium plan to create a common interest development under Section 4100 of the Civil Code without the express written authorization by the existing association.",
+    "(B) For purposes of this paragraph, written authorization by the existing association means approval by the board at a duly noticed board meeting, as defined in Section 4090 of the Civil Code, and if needed pursuant to the existing association’s governing documents, membership approval of the existing association.",
+    "(b) (1) The ordinance may authorize a condominium plan to be submitted with a parcel map or a tentative and final map.",
+    "(2) After the recordation of the condominium plan submitted pursuant to paragraph (1), the portion of the parcel including the accessory dwelling unit may be sold or otherwise conveyed separate from the primary residence.",
+    "(c) An accessory dwelling unit shall be sold or otherwise conveyed separate from the primary residence only under the conditions outlined in this section or pursuant to this article."
+   ],
+   "sec": "66342",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Low-income housing tax credits: lease nonrenewal: good cause.",
+ "title": "An act to amend Section 66342 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250AB268999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-19",
+   "id": "20250AB268998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-06",
+   "id": "20250AB268997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-30",
+   "id": "20250AB268996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-22",
+   "id": "20250AB268995AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-03",
+   "id": "20250AB268994ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250AB268993CHP",
+   "num": "93"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Johnson",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Patterson",
+   "primary": false
+  }
+ ],
+ "bill": "AB2127",
+ "bill_id": "202520260AB2127",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, among other things, provides for the creation by ordinance, or by ministerial approval if the local agency has not adopted an ordinance, of an accessory dwelling unit in accordance with specified standards and conditions. Existing law requires the ordinance, if adopted, to meet certain requirements, including designating areas within the jurisdiction where accessory dwelling units may be permitted. Existing law authorizes the designation of areas to be based on the adequacy of water and sewer services and the impact of accessory dwelling units on traffic flow and public safety. Existing law also requires the ordinance to require approval by the local health officer where a private sewage disposal system is being used, if required.",
+  "This bill would prohibit a local agency from prohibiting an accessory dwelling unit in an area solely because the lots are served by private sewage disposal systems. The bill would prohibit a local health officer from withholding approval based on a minimum lot size requirement if the private sewage disposal system meets certain operating requirements established by the State Water Resources Control Board and the regional water quality control board for that lot size, as provided. The bill would prohibit the local health officer from requiring the installation of a new or alternative system as a condition of approval if the local health officer determines that an existing private sewage disposal system is verified to be functioning properly and has the capacity to serve the additional load of an accessory dwelling unit, except as specified. By imposing new duties on local agencies relating to the approval of accessory dwelling units, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "ff5702c44763404c",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be heard in committee March 21.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-04-07"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (April 15). Re-referred to Com. on L. GOV.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "From committee: Do pass. To Consent Calendar. (Ayes 14. Noes 0.) (May 6).",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2026-05-07"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 77. Noes 0. Page 5054.)",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and L. GOV.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "date": "2026-06-08"
+  },
+  {
+   "action": "In committee: Set, second hearing. Hearing canceled at the request of author.",
+   "date": "2026-06-15"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-06-08",
+  "id": "20250AB212796AMD",
+  "num": "96"
+ },
+ "location": "CS75",
+ "sections": [
+  {
+   "action": "Section 66314 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "A local agency may, by ordinance, provide for the creation of accessory dwelling units in areas zoned to allow single-family or multifamily dwelling residential use. The ordinance shall do all of the following:",
+    "(a) (1) Designate areas within the jurisdiction of the local agency where accessory dwelling units may be permitted. The designation of areas may be based on the adequacy of water and sewer services and the impact of accessory dwelling units on traffic flow and public safety. A local agency that does not provide water or sewer services shall consult with the local water or sewer service provider regarding the adequacy of water and sewer services before designating an area where accessory dwelling units may be permitted.",
+    "(2) Notwithstanding paragraph (1), a local agency shall not prohibit an accessory dwelling unit in an area solely because the lots are served by private sewage disposal systems rather than by a public sewer system.",
+    "(b) (1) Impose objective standards on accessory dwelling units that include, but are not limited to, parking, height, setback, landscape, architectural review, maximum size of a unit, and standards that prevent adverse impacts on any real property that is listed in the California Register of Historical Resources. These standards shall not include requirements on minimum lot size.",
+    "(2) Notwithstanding paragraph (1), a local agency may reduce or eliminate parking requirements for any accessory dwelling unit located within its jurisdiction.",
+    "(c) Provide that accessory dwelling units do not exceed the allowable density for the lot upon which the accessory dwelling unit is located, and that accessory dwelling units are a residential use that is consistent with the existing general plan and zoning designation for the lot.",
+    "(d) Require the accessory dwelling units to comply with all of the following:",
+    "(1) Except as provided in Article 4 (commencing with Section 66340), the accessory dwelling unit may be rented separate from the primary residence, but shall not be sold or otherwise conveyed separate from the primary residence.",
+    "(2) The lot is zoned to allow single-family or multifamily dwelling residential use and includes a proposed or existing dwelling.",
+    "(3) The accessory dwelling unit is either attached to, or located within, the proposed or existing primary dwelling, including attached garages, storage areas or similar uses, or an accessory structure or detached from the proposed or existing primary dwelling and located on the same lot as the proposed or existing primary dwelling, including detached garages.",
+    "(4) If there is an existing primary dwelling, the total floor area of an attached accessory dwelling unit shall not exceed 50 percent of the existing primary dwelling.",
+    "(5) The total floor area for a detached accessory dwelling unit shall not exceed 1,200 square feet.",
+    "(6) No passageway shall be required in conjunction with the construction of an accessory dwelling unit.",
+    "(7) No setback shall be required for an existing living area or accessory structure or a structure constructed in the same location and to the same dimensions as an existing structure that is converted to an accessory dwelling unit or to a portion of an accessory dwelling unit, and a setback of no more than four feet from the side and rear lot lines shall be required for an accessory dwelling unit that is not converted from an existing structure or a new structure constructed in the same location and to the same dimensions as an existing structure.",
+    "(8) Local building code requirements that apply to detached dwellings, except that the construction of an accessory dwelling unit shall not constitute a Group R occupancy change under the local building code, as described in Section 310 of the California Building Code (Title 24 of the California Code of Regulations), unless the building official or enforcement agency of the local agency makes a written finding based on substantial evidence in the record that the construction of the accessory dwelling unit could have a specific, adverse impact on public health and safety. Nothing in this paragraph shall be interpreted to prevent a local agency from changing the occupancy code of a space that was uninhabitable space or was only permitted for nonresidential use and was subsequently converted for residential use pursuant to this article.",
+    "(9) \"?>Approval by the local health officer where a private sewage disposal system is being used, if required.",
+    "(A) The local health officer shall not withhold approval based on a minimum lot size requirement if the private sewage disposal system meets the operating requirements established by the State Water Resources Control Board pursuant to Section 13291 of the Water Code, including the local agency management program approved by the regional water quality control board, for that lot size.",
+    "(B) If the local health officer determines that an existing private sewage disposal system is verified to be functioning properly and has the capacity to serve the additional load of an accessory dwelling unit, pursuant to the operating requirements described in subparagraph (A), the local health officer shall not require the installation of a new or alternative system as a condition of approval, unless there is substantial evidence that approving the accessory dwelling unit would create a risk to public health or water quality.",
+    "(10) (A) Parking requirements for accessory dwelling units shall not exceed one parking space per accessory dwelling unit or per bedroom, whichever is less. These spaces may be provided as tandem parking on a driveway.",
+    "(B) Off­street parking shall be permitted in setback areas in locations determined by the local agency or through tandem parking, unless specific findings are made that parking in setback areas or tandem parking is not feasible based upon specific site or regional topographical or fire and life safety conditions.",
+    "(C) This subparagraph shall not apply to an accessory dwelling unit that is described in Section 66322.",
+    "(11) When a garage, carport, covered parking structure, or uncovered parking space is demolished in conjunction with the construction of an accessory dwelling unit or converted to an accessory dwelling unit, the local agency shall not require that those offstreet parking spaces be replaced.",
+    "(12) Accessory dwelling units shall not be required to provide fire sprinklers if they are not required for the primary residence. The construction of an accessory dwelling unit shall not trigger a requirement for fire sprinklers to be installed in the existing primary dwelling.",
+    "(e) Require that a demolition permit for a detached garage that is to be replaced with an accessory dwelling unit be reviewed with the application for the accessory dwelling unit and issued at the same time.",
+    "(f) An accessory dwelling unit ordinance shall not require, and the applicant shall not be otherwise required, to provide written notice or post a placard for the demolition of a detached garage that is to be replaced with an accessory dwelling unit, unless the property is located within an architecturally and historically significant historic district."
+   ],
+   "sec": "66314",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Accessory dwelling units: private sewage disposal systems.",
+ "title": "An act to amend Section 66314 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250AB212799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-19",
+   "id": "20250AB212798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-06",
+   "id": "20250AB212797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-08",
+   "id": "20250AB212796AMD",
+   "num": "96"
+  }
+ ]
+}

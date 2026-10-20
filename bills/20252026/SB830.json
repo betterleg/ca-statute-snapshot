@@ -1,0 +1,456 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Becker",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ahrens",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ávila Farías",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bennett",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Berman",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bonta",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ortega",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Pellerin",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Stefani",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wilson",
+   "primary": false
+  }
+ ],
+ "bill": "SB830",
+ "bill_id": "202520260SB830",
+ "chapter": {
+  "num": "101",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA establishes administrative procedures for the review and certification of the EIR for a project and judicial review procedures for any action or proceeding brought to challenge the lead agency’s decision to certify the EIR or to grant project approvals.",
+  "This bill would establish streamlined procedures for the administrative and judicial review of the environmental review and approvals granted for an environmental leadership hospital campus project, defined by the bill as a construction project of a hospital campus in the City of Emeryville, under certain conditions, some unspecified. The bill would require the city council of the City of Emeryville, as the lead agency for the hospital campus project, to certify the project for the streamlined judicial review, as specified, if it finds the project will meet those conditions. The bill would require the project applicant of the environmental leadership hospital campus project to take certain actions in order for those specified procedures to apply to the project. The bill would require the Judicial Council, on or before July 1, 2026, to adopt rules of court establishing procedures requiring actions or proceedings seeking judicial review of the certification of an environmental impact report for an environmental leadership hospital campus project or the granting of any project approval, including any appeals to the court of appeal or the Supreme Court, to be resolved, to the extent feasible, within 270 calendar days of the filing of the certified record of proceedings with the court. The bill would require the lead agency to concurrently prepare of the record of proceedings with the environmental review, as provided.",
+  "Because the bill would impose additional duties on a local agency, this bill would impose a state-mandated local program.",
+  "This bill would make legislative findings and declarations as to the necessity of a special statute for the City of Emeryville.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "5c8e1679f93c2374",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Coms. on PUB. S. and JUD.",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Set for hearing April 8.",
+   "date": "2025-03-27"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. with recommendation: To consent calendar. (Ayes 6. Noes 0. Page 709.) (April 8). Re-referred to Com. on JUD.",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8 and ordered to consent calendar.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 37. Noes 0. Page 888.) Ordered to the Assembly.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Referred to Com. on PUB. S.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "June 17 set for first hearing canceled at the request of author.",
+   "date": "2025-06-11"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.",
+   "date": "2025-06-23"
+  },
+  {
+   "action": "Re-referred to Coms. on NAT. RES. and JUD. pursuant to Assembly Rule 96.",
+   "date": "2025-06-27"
+  },
+  {
+   "action": "Assembly Rule 56 suspended.",
+   "date": "2025-07-10"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on NAT. RES.",
+   "date": "2025-07-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 13. Noes 0.) (July 14). Re-referred to Com. on JUD.",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (July 15). Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 79. Noes 0. Page 3012.) Ordered to the Senate.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "From committee: Be re-referred to Com. on E.Q. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0. Page 2641.) Re-referred to Com. on E.Q.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "From committee: That the Assembly amendments be concurred in. (Ayes 5. Noes 0. Page 2844.)",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Ordered to inactive file on request of Senator Arreguín.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "From inactive file on motion of Senator Arreguín.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Ordered to the Assembly.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "In Assembly. Held at Desk.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Action rescinded whereby bill was read third time, passed, and ordered to the Senate.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "Re-referred to Com. on ELECTIONS pursuant to Assembly Rule 77.2.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 6. Noes 0.) (June 17).",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 56. Noes 15. Page 5930.) Ordered to the Senate.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "From committee: Be re-referred to Com. on E. & C.A. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0. Page 5089.) Re-referred to Com. on E. & C.A.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "Set for hearing June 30.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "From committee: That the Assembly amendments be concurred in. (Ayes 4. Noes 0. Page 5119.)",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "Urgency clause adopted.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 29. Noes 5. Page 5189.) Ordered to engrossing and enrolling.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 11 a.m.",
+   "date": "2026-07-15"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-07-16"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 101, Statutes of 2026.",
+   "date": "2026-07-16"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-07-16",
+  "id": "20250SB83091CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21168.6.5 is added to the Public Resources Code , immediately following Section 21168.6 , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, the following terms have the following meanings:",
+    "(1) “City” means the City of Emeryville.",
+    "(2) “Environmental leadership hospital campus project” or “project” means a project for the construction of a hospital campus that is located within the city on a site that has been previously developed, or on a vacant site where at least 75 percent of the perimeter of the site adjoins, or is separated only by an improved public right-of-way from, parcels that are developed with qualified urban uses.",
+    "(b) The city council of the city, as the lead agency for the project, shall certify an environmental leadership hospital campus project for streamlining pursuant to this section if it finds that all of the following conditions will be met:",
+    "(1) The project will result in an investment of at least one billion dollars ($1,000,000,000) in California upon completion of the construction.",
+    "(2) All new buildings within the project will use electricity for the buildings’ energy needs.",
+    "(3) The project applicant has provided the lead agency with a binding commitment for both of the following:",
+    "(A) The energy demand of the hospital facility will be met by carbon-free energy resources.",
+    "(B) The purchase of ____ electric buses for use by local transit providers.",
+    "(4) The project provides an amount of electric vehicle charging stations that meets or exceeds the amount required by law and that will provide charging for electric vehicles free of charge.",
+    "(5) The project has a transportation management program that, upon full implementation, will achieve and maintain a 15 percent reduction in the number of vehicle trips by employees as compared to operations of the hospital campus absent the transportation demand management program.",
+    "(6) The project will obtain certification as Leadership in Energy and Environmental Design (LEED) gold standard or better from the United States Green Building Council for all new construction that is eligible for LEED certification.",
+    "(7) The project will generate at least ____ jobs during construction.",
+    "(8) (A) (i) The project creates high-wage, highly skilled jobs that pay prevailing wages and living wages, employs a skilled and trained workforce, as defined in subdivision (d) of Section 2601 of the Public Contract Code, provides construction jobs and permanent jobs for Californians, and helps reduce unemployment. For purposes of this subdivision, “jobs that pay prevailing wages” means that all construction workers employed in the execution of the project will receive at least the general prevailing rate of per diem wages for the type of work and geographic area, as determined by the Director of Industrial Relations pursuant to Sections 1773 and 1773.9 of the Labor Code. If the project is certified for streamlining, the project applicant shall include this requirement in all contracts for the performance of the work.",
+    "(ii) Clause (i) does not apply to a contractor or subcontractor performing the work on the project that is subject to a project labor agreement requiring the payment of prevailing wages to all construction workers employed in the execution of the project and providing for enforcement of that obligation through an arbitration procedure. For purposes of this clause, “project labor agreement” has the same meaning as set forth in paragraph (1) of subdivision (b) of Section 2500 of the Public Contract Code.",
+    "(B) (i) If the project is certified pursuant to this subdivision, contractors and subcontractors shall pay to all construction workers employed in the execution of the project at least the general prevailing rate of per diem wages.",
+    "(ii) Except as provided in clause (iii), the obligation of the contractors and subcontractors to pay prevailing wages pursuant to subparagraph (A) may be enforced by the Labor Commissioner through the issuance of a civil wage and penalty assessment pursuant to Section 1741 of the Labor Code, which may be reviewed pursuant to Section 1742 of the Labor Code, within 18 months after the completion of the project, or by an underpaid worker through an administrative complaint or civil action. If a civil wage and penalty assessment is issued, the contractor, subcontractor, and surety on a bond or bonds issued to secure the payment of wages covered by the assessment shall be liable for liquidated damages pursuant to Section 1742.1 of the Labor Code.",
+    "(iii) Clause (ii) does not apply if all contractors and subcontractors performing work on the project are subject to a project labor agreement that requires the payment of prevailing wages to all construction workers employed in the execution of the project and provides for enforcement of that obligation through an arbitration procedure. For purposes of this subparagraph, “project labor agreement” has the same meaning as set forth in paragraph (1) of subdivision (b) of Section 2500 of the Public Contract Code.",
+    "(9) The project applicant demonstrates compliance with the requirements of Chapters 12.8 (commencing with Section 42649) and 12.9 (commencing with Section 42649.8) of Part 3 of Division 30, as applicable.",
+    "(10) The project applicant agrees that all mitigation measures required pursuant to this division and any other environmental measures required by this section to certify the project under this section shall be conditions of approval of the project, and those conditions will be fully enforceable by the lead agency or another agency designated by the lead agency. In the case of environmental mitigation measures and any other environmental measures required by this section, the project applicant agrees, as an ongoing obligation, that those measures will be monitored and enforced by the lead agency for the life of the obligation. The project applicant shall submit to the lead agency an annual status report on the implementation of the environmental mitigation measures and any other environmental measures required by this section.",
+    "(11) The project applicant agrees to pay any additional costs incurred by the courts in hearing and deciding any case subject to this section, including payment of the costs for the appointment of a special master if deemed appropriate by the court, in a form and manner specified by the Judicial Council, as provided in the California Rules of Court adopted by the Judicial Council.",
+    "(12) The project applicant agrees to pay the costs of preparing the record of proceedings for the project concurrent with review and consideration of the project pursuant to this division, in a form and manner specified by the lead agency for the project.",
+    "(c) (1) An environmental impact report prepared for an environmental leadership hospital campus project certified pursuant to this section is required to examine only environmental effects related to air quality, cultural resources, emissions of greenhouse gases, noise, transportation, and tribal cultural resources, and is not required to include any discussion of other environmental effects.",
+    "(2) An environmental impact report prepared for an environmental leadership hospital campus project certified pursuant to this section is not required to include any discussion of alternatives to the project, cumulative impacts of the project, or the growth-inducing impacts of the project.",
+    "(d) On or before July 1, 2026, the Judicial Council shall adopt rules of court that apply to any action or proceeding brought to attack, review, set aside, void, or annul the certification of an environmental impact report for an environmental leadership hospital campus project or the granting of any project approval that requires the action or proceeding, including any potential appeals to the court of appeal or the Supreme Court, to be resolved, to the extent feasible, within 270 calendar days of the filing of the certified record of proceedings with the court.",
+    "(e) (1) The draft and final environmental impact report for an environmental leadership hospital campus project shall include a notice in not less than 12-point type stating the following:",
+    "THIS ENVIRONMENTAL IMPACT REPORT IS SUBJECT TO SECTION 21168.6.5 OF THE PUBLIC RESOURCES CODE, WHICH PROVIDES, AMONG OTHER THINGS, THAT THE LEAD AGENCY NEED NOT CONSIDER CERTAIN COMMENTS FILED AFTER THE CLOSE OF THE PUBLIC COMMENT PERIOD, IF ANY, FOR THE DRAFT ENVIRONMENTAL IMPACT REPORT. ANY JUDICIAL ACTION CHALLENGING THE CERTIFICATION OR ADOPTION OF THE ENVIRONMENTAL IMPACT REPORT OR THE APPROVAL OF THE PROJECT DESCRIBED IN SECTION 21168.6.5 OF THE PUBLIC RESOURCES CODE IS SUBJECT TO THE PROCEDURES SET FORTH IN THAT SECTION. A COPY OF SECTION 21168.6.5 OF THE PUBLIC RESOURCES CODE IS INCLUDED IN THE APPENDIX TO THIS ENVIRONMENTAL IMPACT REPORT.",
+    "(2) The draft environmental impact report and final environmental impact report shall contain, as an appendix, the full text of this section.",
+    "(3) The lead agency need not consider written comments on the draft environmental impact report submitted after the close of the public comment period, unless those comments address any of the following:",
+    "(A) New issues raised in the response to comments by the lead agency.",
+    "(B) New information released by the lead agency subsequent to the release of the draft environmental impact report, such as new information set forth or embodied in a staff report, proposed permit, proposed resolution, ordinance, or similar documents.",
+    "(C) Changes made to the project after the close of the public comment period.",
+    "(D) Proposed conditions for approval, mitigation measures, or proposed findings required by Section 21081 or a proposed reporting or monitoring program required by paragraph (1) of subdivision (a) of Section 21081.6, if the lead agency releases those documents subsequent to the release of the draft environmental impact report.",
+    "(E) New information that was not reasonably known and could not have been reasonably known during the public comment period.",
+    "(4) The lead agency shall file the notice required by subdivision (a) of Section 21152 within five working days after the last initial project approval.",
+    "(f) Notwithstanding any other law, the preparation and certification of the record of proceedings for an environmental leadership hospital campus project certified pursuant to this section shall be performed in the following manner:",
+    "(1) The lead agency for the project shall prepare the record of proceedings concurrently with the administrative process.",
+    "(2) Commencing with the date of the release of the draft environmental impact report, all documents and other materials placed in the record of proceedings shall be posted on, and be downloadable from, an internet website maintained by the lead agency.",
+    "(3) The lead agency shall make available to the public in a readily accessible electronic format the draft environmental impact report and all other documents submitted to, or relied on by, the lead agency for purposes of preparing the draft environmental impact report.",
+    "(4) Any document prepared by the lead agency or submitted by the applicant after the date of the release of the draft environmental impact report that is a part of the record of the proceedings shall be made available to the public in a readily accessible electronic format within 30 days after the document is released or received by the lead agency.",
+    "(5) The lead agency shall encourage written comments on the project to be submitted in a readily accessible electronic format, and shall make any comment available to the public in a readily accessible electronic format within 30 days of its receipt.",
+    "(6) Within 30 days after the receipt of any comment that is not in an electronic format, the lead agency shall convert that comment into a readily accessible electronic format and make it available to the public in that format.",
+    "(7) Notwithstanding paragraphs (2) to (6), inclusive, documents submitted to or relied on by the lead agency that were not prepared specifically for the project and are copyright protected are not required to be made readily accessible in an electronic format. For those copyright-protected documents, the lead agency shall make an index of these documents available in an electronic format no later than the date of the release of the draft environmental impact report, or within 30 days if the document is received or relied on by the lead agency after the release of the draft environmental impact report. The index must specify the libraries or lead agency offices in which hardcopies of the copyrighted materials are available for public review.",
+    "(8) The lead agency shall certify the final record of proceedings within five days of its approval of the project.",
+    "(9) Any dispute arising from the record of proceedings shall be resolved by the superior court. Unless the superior court directs otherwise, a party disputing the content of the record shall file a motion to augment the record at the time it files its initial brief.",
+    "(10) The record of proceedings shall include, but is not limited to, all of the following:",
+    "(A) All project application materials.",
+    "(B) All staff reports and related documents prepared by the lead agency with respect to its compliance with the substantive and procedural requirements of this division and with respect to the action on the project.",
+    "(C) All staff reports and related documents prepared by the lead agency and written testimony or documents submitted by any person relevant to any findings or statement of overriding considerations adopted by the lead agency pursuant to this division.",
+    "(D) Any transcript or minutes of the proceedings at which the decisionmaking body of the lead agency heard testimony on, or considered any environmental document on, the project, and any transcript or minutes of proceedings before any advisory body to the lead agency that were presented to the decisionmaking body before action on the environmental documents or on the project.",
+    "(E) All notices issued by the lead agency to comply with this division or with any other law governing the processing and approval of the project.",
+    "(F) All written comments received in response to, or in connection with, environmental documents prepared for the project, including responses to the notice of preparation.",
+    "(G) All written evidence or correspondence submitted to, or transferred from, the lead agency with respect to compliance with this division or with respect to the project.",
+    "(H) Any proposed decisions or findings submitted to the decisionmaking body of the lead agency by its staff, or the project proponent, project opponents, or other persons.",
+    "(I) The documentation of the final lead agency decision, including the final environmental impact report and all documents, in addition to those referenced in subparagraph (C), cited or relied on in the findings or in a statement of overriding considerations, if any, adopted pursuant to this division.",
+    "(J) Any other written materials relevant to the lead agency’s compliance with this division or to its decision on the merits of the project, including the initial study, any drafts of any environmental document, or portions of the initial study or drafts, that have been released for public review, and copies of studies or other documents relied upon in any environmental document prepared for the project and either made available to the public during the public review period or included in the respondent public agency’s files on the project, and all internal agency communications, including memoranda related to the project or to compliance with this division, but not including communications that are of a logistical nature, such as meeting invitations and scheduling communications, except that any material that is subject to privileges contained in the Evidence Code, or exemptions contained in the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code), shall not be included in the record of proceedings under this paragraph, consistent with existing law. For purposes of this subparagraph, internal agency communications do not include electronic internal agency communications, including emails, that were not presented to the final decisionmaking body. The public agency may, but is not required to, include any documents in the record of proceedings that are not specifically set forth in this subparagraph."
+   ],
+   "sec": "21168.6.5",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Public Transit Revenue Measure District: revenue measure: election procedures.",
+ "title": "An act to add Section 21168.6.5 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB83099INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-24",
+   "id": "20250SB83098AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-23",
+   "id": "20250SB83097AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-10",
+   "id": "20250SB83096AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-02",
+   "id": "20250SB83095AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-04",
+   "id": "20250SB83094AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-18",
+   "id": "20250SB83093AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-07-07",
+   "id": "20250SB83092ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-07-16",
+   "id": "20250SB83091CHP",
+   "num": "91"
+  }
+ ]
+}

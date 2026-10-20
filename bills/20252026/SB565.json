@@ -1,0 +1,118 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Cervantes",
+   "primary": true
+  }
+ ],
+ "bill": "SB565",
+ "bill_id": "202520260SB565",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing federal law governing immigration authorizes the importation of an alien as a nonimmigrant agricultural worker, known as an H-2A worker, if specified requirements are met, including that the employer furnish housing, as provided.",
+  "Existing state law, the Employee Housing Act, requires a person operating employee housing, as defined, to obtain a permit to operate that housing from the agency that enforces the act, which can either be the Department of Housing and Community Development or a city, county, or city and county that assumes responsibility for enforcing the act. The act requires the enforcement agency to annually enter and inspect all employee housing for compliance with the act, as provided.",
+  "This bill would require, for employee housing that houses an H-2A worker, the enforcement agency to conduct the above-described inspection in person, as defined, and to post the results of that inspection on its internet website. The bill would prohibit a person operating employee housing that houses an H-2A worker from receiving a permit to operate employee housing without passing that inspection.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "f9389231022b1002",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on HOUSING.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-04-03",
+  "id": "20250SB56597AMD",
+  "num": "97"
+ },
+ "location": "CS75",
+ "sections": [
+  {
+   "action": "Section 17030 of the Health and Safety Code is amended to read:",
+   "code": "HSC",
+   "paras": [
+    "(a) Every person operating employee housing shall obtain a permit to operate that employee housing from the enforcement agency, unless otherwise exempted by this part. It shall be unlawful for any person to operate employee housing without a valid permit to operate issued by the enforcement agency, as required by this part. Permits to operate shall be issued annually by the enforcement agency, except as provided in this section and Section 17030.5.",
+    "(b) Employee housing on a dairy farm which meets the requirements of Section 32505 of the Food and Agricultural Code, consisting only of permanent single-family employee housing, may be exempted from the requirement of obtaining a permit to operate employee housing, as provided in Section 17031. This housing shall meet the requirements of the State Housing Law before an exemption is granted.",
+    "(c) A person operating employee housing that houses an agricultural worker with a federal H-2A visa, as described in Section 1188 of Title 8 of the United States Code, shall not receive a permit to operate employee housing without passing the annual inspection by the enforcement agency required by subdivision (c) of Section 17052.",
+    "(d) A permit to operate shall be valid from the date of issuance through December 31 of the year of issuance, or December 31 of the year designated by the enforcement agency for permanent single-family employee housing. Permits to operate employee housing may prescribe conditions on the use or occupancy of the employee housing.",
+    "(e) The Department of Housing and Community Development shall be the enforcement agency for any employee housing owned or operated by a railroad corporation."
+   ],
+   "sec": "17030",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 17052 of the Health and Safety Code is amended to read:",
+   "code": "HSC",
+   "paras": [
+    "(a) The enforcement agency shall annually enter and inspect, and reinspect as necessary, all employee housing accommodations for compliance with the provisions of this part and regulations adopted pursuant to this part, except:",
+    "(1) Accommodations for employee housing consisting only of permanent single family housing that have been granted an exemption as provided in Section 17031.",
+    "(2) Accommodations for employee housing that have been issued a multiyear permit to operate pursuant to Section 17030.5.",
+    "(3) Accommodations for employee housing that are inactive.",
+    "(4) Accommodations for employee housing inspected in the prior calendar year with no violations identified or complaints received by the enforcement agency, which shall be inspected at least biennially.",
+    "(b) The enforcement agency shall make every effort to complete the inspection prior to the occupancy of the employee housing.",
+    "(c) (1) For employee housing that houses an agricultural worker with a federal H-2A visa, as described in Section 1188 of Title 8 of the United States Code, the enforcement agency shall conduct an inspection required by subdivision (a) in person. For the purposes of this subdivision, “in person” shall not include an inspection conducted via video call.",
+    "(2) The enforcement agency shall post the result of an inspection conducted pursuant to paragraph (1) on its internet website."
+   ],
+   "sec": "17052",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Employee housing: H-2A agricultural workers: inspections.",
+ "title": "An act to amend Sections 17030 and 17052 of the Health and Safety Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250SB56599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-24",
+   "id": "20250SB56598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-03",
+   "id": "20250SB56597AMD",
+   "num": "97"
+  }
+ ]
+}

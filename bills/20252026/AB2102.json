@@ -1,0 +1,75 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "DeMaio",
+   "primary": true
+  }
+ ],
+ "bill": "AB2102",
+ "bill_id": "202520260AB2102",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "(1) Existing law establishes in the Natural Resources Agency the Department of Forestry and Fire Protection, and requires the department to be responsible for, among other things, fire protection and prevention, as provided. Existing law describes state responsibility areas as areas of the state in which the financial responsibility of preventing and suppressing fires has been determined by the State Board of Forestry and Fire Protection to be primarily the responsibility of the state. Existing law requires the State Fire Marshal to classify lands within state responsibility areas into fire hazard severity zones and, by regulation, designate fire hazard severity zones and assign to each zone a rating reflecting the degree of severity of fire hazard that is expected to prevail in the zone, as provided. Existing law also requires the State Fire Marshal to identify areas of the state as moderate, high, and very high fire hazard severity zones based on specified criteria. Existing law requires, within 120 days of receiving a recommendation from the State Fire Marshal that identifies fire hazard severity zones, described above, a local agency to designate, by ordinance, fire hazard severity zones in its jurisdiction, as provided.",
+  "This bill would, on or before January 1, 2028, and every 2 years thereafter, require the department or a local entity to conduct an assessment, as provided, of all undeveloped public lands for which it is primarily responsible for preventing and suppressing fires to ensure that the public land is not a severe fire hazard. The bill would require this assessment to be posted on the department’s and local entity’s internet website and would require a local entity conducting the assessment to submit its assessment to the department. The bill would require all public lands, on or before January 1, 2028, to have 200-foot firebreaks on all borders with private property.",
+  "This bill would, when the department or local entity acquires private undeveloped land, require the department or a local entity that is primarily responsible for preventing and suppressing fires on that land to create a plan on how the land will be managed with regard to fire prevention, and to report the cost of keeping the land managed. The bill would require the department and the local entity to post this information on its respective internet website and would require a local entity preparing this information to submit it to the department.",
+  "To the extent that this bill would impose new duties on local government agencies, the bill would create a state-mandated local program.",
+  "(2) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if the lead agency finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would authorize property owners to conduct wildfire fuel reduction activities, as described, on their own private property if the activities comply with specified guidelines. The bill would require fire chiefs of a county with jurisdiction over that private property in which the activities are conducted to establish these guidelines, as provided. The bill would exempt from CEQA these activities regardless of the acreage involved, if the activity is conducted solely for wildfire fuel reduction and not for development purposes. The bill would prohibit state agencies from imposing additional requirements on these activities, as provided.",
+  "By imposing new duties on county fire chiefs, and because a lead agency would be required to determine whether a project qualifies for this exemption, the bill would create a state-mandated local program.",
+  "(3) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "fada3d5ec710d43a",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be heard in committee March 21.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and E.M.",
+   "date": "2026-03-09"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2026-02-18",
+  "id": "20250AB210299INT",
+  "num": "99"
+ },
+ "location": "CX16",
+ "sections": [
+  {
+   "action": "Section 21080.36 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "This division shall not apply to wildfire fuel reduction activities pursuant to Section 4970 regardless of the acreage involved, if the activity is conducted solely for wildfire fuel reduction and not for development purposes."
+   ],
+   "sec": "21080.36",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Wildfire: vegetation management: fuel reduction activities.",
+ "title": "An act to add Section 21080.36 to, to add Article 3.5 (commencing with Section 4138) to Chapter 1 of Part 2 of Division 4 of, and to add Part 5 (commencing with Section 4970) to Division 4 of, the Public Resources Code, relating to wildfire.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250AB210299INT",
+   "num": "99"
+  }
+ ]
+}

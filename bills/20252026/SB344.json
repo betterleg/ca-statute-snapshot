@@ -1,0 +1,244 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Weber Pierson",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Padilla",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ward",
+   "primary": false
+  }
+ ],
+ "bill": "SB344",
+ "bill_id": "202520260SB344",
+ "chapter": {
+  "num": "786",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would provide that a specified City of San Diego environmental impact report for a mixed-use development project, known as the Midway Rising project, is deemed sufficient, adequate, and complete for full compliance with CEQA and that any approval of the project may rely conclusively on that report for compliance with CEQA. The bill would require that all mitigation measures adopted by the City of San Diego as the lead agency be conditions of approval of the project. The bill would require the lead agency to monitor and enforce those conditions for the life of each applicable obligation. To the extent this requirement would impose new duties on a local agency, the bill would impose a state-mandated local program. The bill would require the project applicant to submit to the lead agency an annual status report on the implementation of those conditions. The bill would make its provisions operative upon the effective date of the bill or on the date the City Council of the City of San Diego certifies the report, whichever occurs later.",
+  "This bill would make legislative findings and declarations as to the necessity of a special statute for the City of San Diego.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "7aa07a90d1aada89",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-12"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 15.",
+   "date": "2025-02-13"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Re-referred to Com. on B. P. & E.D.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 28.",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 11. Noes 0. Page 916.) (April 28). Re-referred to Com. on APPR.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "Set for hearing May 12.",
+   "date": "2025-05-02"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8 and ordered to consent calendar.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2025-05-13"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 34. Noes 0. Page 1090.) Ordered to the Assembly.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Referred to Com. on B. & P.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 17. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+   "date": "2025-07-01"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 13. Noes 0.) (July 16).",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Ordered to inactive file on request of Assembly Member Garcia.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Notice of intention to remove from inactive file given by Assembly Member Ward.",
+   "date": "2026-08-12"
+  },
+  {
+   "action": "From inactive file.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Joint Rule 61(b)(16) suspended. (Ayes 61. Noes 0. Page 6562.)",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES. pursuant to Assembly Rule 77.2.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Joint Rule 62(a) suspended. (Ayes 61. Noes 0. Page 6562.)",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 0.) (August 27).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on NAT. RES.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 72. Noes 2. Page 6860.) Ordered to the Senate.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 786, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250SB34494CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.77 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) The Legislature finds and declares all of the following:",
+    "(1) The City of San Diego has approved, or may approve, a mixed-use development project known as the Midway Rising project, consisting of approximately 4,254 new homes, of which 2,000 are deed-restricted affordable homes at or below 80 percent of area median income, up to 130,000 square feet of commercial uses, approximately 14.5 acres of public parks and open space, and a new 16,000-seat multipurpose entertainment center.",
+    "(2) The scale of the Midway Rising project makes the project one of the largest mixed-income housing communities on the west coast and the single largest affordable housing development in California’s history.",
+    "(3) The Midway Rising project developer intends to have the construction work performed pursuant to a project labor agreement that would provide for the payment of prevailing wages and use of apprentices registered in state-approved programs.",
+    "(4) In connection with the approval of the Midway Rising project, the City of San Diego has certified, or may certify, the Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451) pursuant to this division. The City of San Diego’s Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451) imposes comprehensive mitigation measures to address potential environmental impacts associated with the development of the Midway Rising project. The City of San Diego Planning Commission reviewed and considered the Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451) pursuant to this division on September 25, 2025, and voted unanimously to recommend that the City Council of the City of San Diego certify the report and adopt the associated findings pursuant to this division.",
+    "(b) The City of San Diego’s Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451) considered by the City of San Diego Planning Commission, including technical corrections or clarifications made by the City Council of the City of San Diego in connection with the report’s certification that do not affect the comprehensive mitigation measures recommended by the City of San Diego Planning Commission, is deemed sufficient, adequate, and complete for full compliance with this division and shall be final and conclusive for purposes of reliance on that report. Any approval of the project reviewed in the Midway Rising Specific Plan Subsequent Final Environmental Impact Report may rely conclusively on that report for compliance with this division.",
+    "(c) All mitigation measures required pursuant to this division adopted by the City of San Diego as the lead agency, and incorporated into the Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451), including the Mitigation Monitoring and Reporting Program, shall be conditions of approval of the project. Those conditions shall be fully enforceable by the lead agency or another agency designated by the lead agency and shall be monitored and enforced by the lead agency for the life of each applicable obligation. The project applicant shall submit to the lead agency an annual status report on the implementation of those mitigation measures.",
+    "(d) This section shall become operative upon the effective date of this section or on the date the City Council of the City of San Diego certifies the Midway Rising Specific Plan Subsequent Final Environmental Impact Report (SCH No. 2023120451), whichever occurs later."
+   ],
+   "sec": "21080.77",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: City of San Diego: mixed-use development project.",
+ "title": "An act to add Section 21080.77 to the Public Resources Code, relating to environmental quality, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-12",
+   "id": "20250SB34499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-20",
+   "id": "20250SB34498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-26",
+   "id": "20250SB34497AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-27",
+   "id": "20250SB34496AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-01",
+   "id": "20250SB34495ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250SB34494CHP",
+   "num": "94"
+  }
+ ]
+}

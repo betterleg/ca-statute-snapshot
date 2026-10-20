@@ -1,0 +1,141 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Laird",
+   "primary": true
+  }
+ ],
+ "bill": "SB1216",
+ "bill_id": "202520260SB1216",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. Existing law requires the Department of Housing and Community Development to determine whether the housing element is in substantial compliance with those provisions, as provided. Existing law requires the department to designate jurisdictions as prohousing pursuant to emergency regulations adopted by the department, as prescribed, and requires that jurisdictions that are prohousing and that are in substantial compliance with specified provisions be awarded additional points or preference in the scoring of applications for specified state programs.",
+  "This bill would require the department, on or before July 1 of each year, to publish a list of housing leadership designated jurisdictions on its internet website. To qualify for a housing leadership designation, the bill would require that the jurisdiction have submitted a complete annual progress report for the preceding 5 years and, as applicable, that it meet specified requirements relating to housing production that vary based on whether the jurisdiction is an affordable jurisdiction, an unaffordable jurisdiction, or an extremely unaffordable jurisdiction, as those terms are defined. The bill would also require the department to publish a list of the affordability designation for each jurisdiction that has submitted a complete annual progress report, as provided. The bill would authorize a jurisdiction with a housing leadership designation to take prescribed actions, including to establish by ordinance an exemption or modification of specified provisions of the Planning and Zoning Law. The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
+ ],
+ "hash": "a80e2beb905ba9eb",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 22.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Com. on HOUSING.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-07"
+  },
+  {
+   "action": "April 15 set for first hearing canceled at the request of author.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2026-04-13"
+  },
+  {
+   "action": "April 21 set for second hearing canceled at the request of author.",
+   "date": "2026-04-20"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Re-referred to Com. on B. & F. R.",
+   "date": "2026-06-15"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-06-11",
+  "id": "20250SB121697AMD",
+  "num": "97"
+ },
+ "location": "CS62",
+ "sections": [
+  {
+   "action": "Section 65589.10 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) It is the intent of the Legislature to create incentives for jurisdictions that demonstrate exceptional housing production outcomes beyond compliance with housing element requirements and enactment of prohousing local policies. It is the intent of the Legislature that these incentives be in the form of enhanced funding benefits and regulatory relief from state housing mandates. It is the intent of the Legislature that, in adopting regulations related to housing leadership designation criteria, the department shall create production thresholds that consider the differing housing affordability challenges faced by jurisdictions across California and how those challenges may require different performance standards.",
+    "(b) A jurisdiction with a housing leadership designation pursuant to this section may do any of the following:",
+    "(1) Notwithstanding the requirements of Section 65852.21, establish by ordinance an exemption from the requirements of that section.",
+    "(2) Notwithstanding the requirements of Section 66411.7, establish by ordinance an exemption from, or modification of, any of the following:",
+    "(A) Minimum lot sizes established by paragraph (2) of subdivision (a) of Section 66411.7, provided that the jurisdiction continues to allow ministerial approval of at least two units on parcels that meet locally established criteria.",
+    "(B) Setback requirements, including front, side, and rear setbacks, established by paragraph (3) of subdivision (c) of Section 66411.7.",
+    "(C) Objective design review standard requirements, including building height, floor area ratio, and architectural requirements, established by paragraphs (1) and (2) of subdivision (c) of Section 66411.7.",
+    "(3) Notwithstanding clause (i) of subparagraph (A) of paragraph (2) of subdivision (b) of Section 65914.2, if the jurisdiction is a local agency that has received written communication from the Attorney General or the department advising that the local agency’s decision, action, or inaction would represent a violation of a specific housing reform law, cure the violation within 90 days from the date of receipt of that communication before any fines may be imposed under Section 65914.2. If the jurisdiction cures the violation within the 90-day period, a fine shall not be imposed for that violation.",
+    "(4) Notwithstanding Section 65915, establish by ordinance height limitations as a waiver or reduction of development standards under subdivision (e) of Section 65915, provided that the jurisdiction continues to grant a minimum density bonus consistent with the requirements of subdivision (f) of Section 65915 for qualifying housing developments.",
+    "(c) (1) On or before July 1 of each year, the department shall do both of the following:",
+    "(A) Publish a list specifying the affordability designation for each jurisdiction that has submitted a complete annual progress report under subdivision (d) on its internet website for the applicable year.",
+    "(B) Publish a list of housing leadership designated jurisdictions on its internet website.",
+    "(2) The department shall not condition housing leadership designation on the receipt of any application or conditions not described in this section.",
+    "(3) The department shall report the designations pursuant to subparagraph (A) of paragraph (1) to the Office of Land Use and Climate Innovation, and, upon request, any other applicable agency or department, annually.",
+    "(d) To qualify for a housing leadership designation, a jurisdiction shall meet the following requirements:",
+    "(1) The jurisdiction has submitted a complete annual progress report for the preceding five years.",
+    "(2) The jurisdiction meets the applicable of the following conditions:",
+    "(A) For an affordable jurisdiction, the jurisdiction has permitted an average of at least five housing units per 1,000 residents net of demolition permits issued each year over the preceding five years.",
+    "(B) For an unaffordable jurisdiction, the jurisdiction has permitted an average of at least 7.5 housing units per 1,000 residents net of demolition permits issued each year over the preceding five years.",
+    "(C) For an extremely unaffordable jurisdiction, the jurisdiction has permitted an average of at least 10 housing units per 1,000 residents net of demolition permits issued each year over the preceding five years.",
+    "(e) (1) On or before July 1, 2027, the department, in consultation with stakeholders, shall adopt emergency regulations to implement this section, including procedures for jurisdictions to apply for a housing leadership designation, methods for calculating and verifying production thresholds, and criteria for determining approval rates and approval timelines.",
+    "(2) Notwithstanding Section 11346.1, the emergency regulations adopted pursuant to this subdivision shall remain in effect until the date that permanent regulations to implement this section become effective.",
+    "(f) For purposes of this section:",
+    "(1) “Affordable jurisdiction” means a city, county, or a city and county where the ratio of the median purchase price of a home in the jurisdiction, as the numerator, to the area median household income, as the denominator, is less than five.",
+    "(2) “Area median household income” means the median family income for an area, as determined by the United States Department of Housing and Urban Development, with respect to the standard metropolitan statistical area. For a jurisdiction located outside a standard metropolitan statistical area, “median household income” means the countywide median household income.",
+    "(3) “Extremely unaffordable jurisdiction” means a city, county, or a city and county where the ratio of the median purchase price of a home in the jurisdiction, as the numerator, to the area median household income, as the denominator, is greater than 10.",
+    "(4) “Unaffordable jurisdiction” means a city, county, or a city and county where the ratio of the median purchase price of a home in the jurisdiction, as the numerator, to the area median household income, as the denominator, is greater than or equal to 5 but less than or equal to 10."
+   ],
+   "sec": "65589.10",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Budget Act of 2026.",
+ "title": "An act to add Section 65589.10 to the Government Code, relating to housing.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250SB121699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-13",
+   "id": "20250SB121698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-11",
+   "id": "20250SB121697AMD",
+   "num": "97"
+  }
+ ]
+}

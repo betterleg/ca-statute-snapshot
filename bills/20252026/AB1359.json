@@ -1,0 +1,250 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ahrens",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bryan",
+   "primary": false
+  }
+ ],
+ "bill": "AB1359",
+ "bill_id": "202520260AB1359",
+ "chapter": {
+  "num": "195",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires a city or county to adopt a general plan for land use development within its boundaries that includes, among other things, a housing element. The housing element is required to be updated at specified intervals, and when updating the housing element, the local government is required to take into account regional housing needs for various income levels, as specified. Existing law requires the Department of Housing and Community Development (HCD) to determine whether the housing element is in substantial compliance with specified provisions of the Planning and Zoning Law, and requires HCD to designate jurisdictions as prohousing, as prescribed.",
+  "The Planning and Zoning Law also provides for the creation of an accessory dwelling unit by local ordinance, or, if a local agency has not adopted an ordinance, by ministerial approval, in accordance with specified standards. The law prohibits a local agency from imposing certain standards, except as specified, when evaluating a proposed accessory dwelling unit.",
+  "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development, as defined, within the city or county with a density bonus, waivers or reductions of development standards and parking ratios, and other incentives or concessions, as specified, if the developer agrees to construct, among other options, specified percentages of units for lower income households or very low income households, and meets other requirements.",
+  "This bill would authorize a housing-forward jurisdiction, defined to mean a city, county, or city and county that is designated as a prohousing jurisdiction by HCD and has met or exceeded its share of the regional housing need allocation, as provided, to impose certain conditions on a development project, including prohibiting a developer from using a density bonus benefit, as defined, to reduce the number of bicycle parking or storage spaces, and requiring an impact fee for specified accessory dwelling units."
+ ],
+ "hash": "54b445631ab42015",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-03-28"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-03-28"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-04-01"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on JUD. pursuant to Assembly Rule 96.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (January 13). Re-referred to Com. on APPR.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Page 3806.)",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to suspense file.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 13. Noes 1.) (January 22).",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 73. Noes 1. Page 3837.)",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-01-27"
+  },
+  {
+   "action": "Referred to Com. on JUD.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (June 16). Re-referred to Com. on APPR.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0.).",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 75. Noes 0. Page 6313.).",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-14"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 195, Statutes of 2026.",
+   "date": "2026-09-14"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-14",
+  "id": "20250AB135993CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65914.91 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Beginning on January 1, 2026, a housing-forward jurisdiction, notwithstanding any other law, may place any of the following reasonable conditions on a development project when approving the development application:",
+    "(1) If the applicable objective standards require a commercial ground floor use, the housing-forward jurisdiction may prohibit a developer from using a density bonus benefit to reduce the commercial ground floor use to the lesser of either of the following:",
+    "(A) The commercial ground floor square footage required by the jurisdiction’s objective standards.",
+    "(B) One-half of the ground floor area.",
+    "(2) If applicable objective standards require bicycle parking or storage, the housing-forward jurisdiction may prohibit a developer from using a density bonus benefit to reduce the number of bicycle parking or storage spaces in the development plan to the lesser of either of the following:",
+    "(A) The number of bicycle parking spaces required by the applicable objective standard.",
+    "(B) One long-term bicycle parking space per unit plus one short-term bicycle parking space per four units, where additional long-term spaces may be provided in lieu of short-term spaces on a one-to-one basis.",
+    "(3) If applicable objective standards include a requirement for a mixed-use development with a commercial or industrial component to provide showers, the housing-forward jurisdiction may prohibit a developer from using a density bonus benefit to reduce the number of showers to the lesser of either of the following:",
+    "(A) The number of showers required by the applicable objective standard.",
+    "(B) The number of showers required by the following:",
+    "Gross Floor Area of New Construction (in square feet)Number of showers required",
+    "0-12,4990",
+    "12,500-29,9991",
+    "30,000-49,9992",
+    "50,000 or greater4",
+    "0-24,4990",
+    "25,000-99,9991",
+    "1000,000 or greater2",
+    "(4) If the project involves multifamily housing and accessory dwelling units are proposed on the project site, the jurisdiction may require that impact fees be paid for the accessory dwelling units, including accessory dwelling units that are less than 750 square feet, subject to all of the following:",
+    "(A) The accessory dwelling unit impact fee shall not exceed the impact fee for a multifamily unit, or for a single-family unit if the housing-forward jurisdiction’s fees do not distinguish between multifamily units and single-family units.",
+    "(B) This paragraph does not authorize a housing-forward jurisdiction to impose an impact fee on a junior accessory dwelling unit, unless otherwise authorized by law.",
+    "(C) This paragraph does not authorize a housing-forward jurisdiction to impose an impact fee on accessory dwelling units added to individually owned parcels, such as a townhouse, or within an individually owned airspace, such as a condominium. For purposes of this subparagraph, “individually owned” means the individual or entity that owns the parcel or airspace owns five or fewer parcels in the housing-forward jurisdiction.",
+    "(b) This section shall apply to all housing development applications, regardless of whether they are submitted through a streamlined, ministerial approval process, through a conditional use permit, or through any other nonlegislative discretionary approval.",
+    "(c) For purposes of this section, the following definitions shall apply:",
+    "(1) “Density bonus benefit” means any concession or incentive, or waiver or reduction, of development standards authorized or required pursuant to Chapter 4.3 (commencing with Section 65915).",
+    "(2) “Housing-forward jurisdiction” means a city, county, or city and county that meets all of the following requirements:",
+    "(A) Met or exceeded applicable regional housing needs assessment targets in the most recent prior planning cycle for each income level specified.",
+    "(B) Met or exceeded its share of the regional housing need, determined pursuant to Section 65584, for each income level specified.",
+    "(C) Is designated as a prohousing jurisdiction pursuant to Section 65589.9.",
+    "(3) “Long-term bicycle parking” means a locker, individually locked enclosure, or other supervised or secured area within a building that provides protection for each bicycle from theft, vandalism, and weather.",
+    "(4) “Regional housing needs assessment” or “RHNA” means a representation of housing needs for all income levels in a jurisdiction pursuant to Article 10.6 (commencing with Section 65580) of Chapter 3.",
+    "(5) “Short-term bicycle parking” means a bicycle rack constructed to enable the bicycle to have at least two points of contact with the rack and allows the user to secure the bicycle by locking the frame and one wheel."
+   ],
+   "sec": "65914.91",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Jury service exemptions.",
+ "title": "An act to add Section 65914.91 to the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB135999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-28",
+   "id": "20250AB135998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-01-05",
+   "id": "20250AB135997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-01",
+   "id": "20250AB135996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-13",
+   "id": "20250AB135995AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-24",
+   "id": "20250AB135994ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-14",
+   "id": "20250AB135993CHP",
+   "num": "93"
+  }
+ ]
+}

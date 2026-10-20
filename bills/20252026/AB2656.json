@@ -1,0 +1,196 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Petrie-Norris",
+   "primary": true
+  }
+ ],
+ "bill": "AB2656",
+ "bill_id": "202520260AB2656",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The Planning and Zoning Law enacts various laws relating to land use, including statewide land use planning, transportation planning, local planning, zoning regulations, and housing development, among other things. Existing law makes formal rules of evidence or procedure applicable in judicial actions and proceedings inapplicable to any proceeding subject to that law, except to the extent that a public agency otherwise provides by charter, ordinance, resolution, or rule of procedure.",
+  "This bill would make a nonsubstantive change to the latter provision."
+ ],
+ "hash": "54c7c970bf769981",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2026-02-21"
+  },
+  {
+   "action": "Referred to Coms. on P. E. & R. and P. & C.P.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. E. & R. Read second time and amended.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "Re-referred to Com. on P. E. & R.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-04-03"
+  },
+  {
+   "action": "Re-referred to Coms. on P. & C.P. and P. E. & R. pursuant to Assembly Rule 96.",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "Re-referred to Com. on P. & C.P.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on P. E. & R. (Ayes 14. Noes 1.) (April 16). Re-referred to Com. on P. E. & R.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 72. Noes 2. Page 5396.)",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "Referred to Coms. on L., P.E. & R. and P., D.T., & C.P.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on P., D.T., & C.P. (Ayes 5. Noes 0.) (June 17). Re-referred to Com. on P., D.T., & C.P.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2026-06-19"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (June 29).",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 74. Noes 2. Page 6490.).",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Vetoed by Governor.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Enrolled",
+  "date": "2026-08-27",
+  "id": "20250AB265695ENR",
+  "num": "95"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65010 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The formal rules of evidence or procedure applicable in judicial actions and proceedings shall not apply in any proceeding subject to this title except to the extent that a public agency otherwise provides by charter, ordinance, resolution, or rule of procedure.",
+    "(b) No action, inaction, or recommendation by any public agency or its legislative body or any of its administrative agencies or officials on any matter subject to this title shall be held invalid or set aside by any court on the ground of the improper admission or rejection of evidence or by reason of any error, irregularity, informality, neglect, or omission (hereafter, error) as to any matter pertaining to petitions, applications, notices, findings, records, hearings, reports, recommendations, appeals, or any matters of procedure subject to this title, unless the court finds that the error was prejudicial and that the party complaining or appealing suffered substantial injury from that error and that a different result would have been probable if the error had not occurred. There shall be no presumption that error is prejudicial or that injury was done if the error is shown."
+   ],
+   "sec": "65010",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Vetoed",
+ "subject": "Public employees: notice: artificial intelligence performing service within scope of work.",
+ "title": "An act to amend Section 65010 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250AB265699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-19",
+   "id": "20250AB265698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-14",
+   "id": "20250AB265697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-01",
+   "id": "20250AB265696AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-27",
+   "id": "20250AB265695ENR",
+   "num": "95"
+  }
+ ]
+}

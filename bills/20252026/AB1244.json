@@ -1,0 +1,165 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": false
+  }
+ ],
+ "bill": "AB1244",
+ "bill_id": "202520260AB1244",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "Under existing law, the Transit-Oriented Development Implementation Program is administered by the Department of Housing and Community Development to provide local assistance to developers for the purpose of developing higher density uses within close proximity to transit stations as provided. Existing law, establishes the Transit-Oriented Development Implementation Fund and, to the extent funds are available, requires the department to make loans for the development and construction of housing development projects within close proximity to a transit station that meet specified criteria.",
+  "This bill would authorize a project, to the extent that the project is required to mitigate transportation impacts under CEQA, to satisfy the mitigation requirement by electing to contribute an amount of money, at a price per vehicle mile traveled, as determined by the Office of Land Use and Climate Innovation, to the Transit-Oriented Development Implementation Fund for the purposes of the Transit-Oriented Development Implementation Program, as provided. The bill would require the office, on or before July 1, 2029, and at least once every 3 years thereafter, to update the price per vehicle mile traveled based on specified factors. The bill would require, upon appropriation by the Legislature, the contributions to be available to the department to fund developments located in the same region, as defined, with preference given to specified projects. The bill would require the department to, for each award, confirm the estimated reduction in vehicle miles traveled, as provided, and would require the department to post specified information on its internet website."
+ ],
+ "hash": "364c10991b4c5190",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and H. & C.D.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1163.)",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "(Pending re-refer to Com. on H. & C. D.)",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on H. & C.D. (Ayes 14. Noes 0.) (April 21).",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 76. Noes 0. Page 1884.)",
+   "date": "2025-06-02"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and HOUSING.",
+   "date": "2025-06-11"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2025-07-02"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-04-23",
+  "id": "20250AB124497AMD",
+  "num": "97"
+ },
+ "location": "CS64",
+ "sections": [
+  {
+   "action": "Section 21080.43 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, “region” means the territory of the regional transportation planning agency with jurisdiction over the project.",
+    "(b) (1) To the extent that a project is required to mitigate transportation impacts as determined by vehicle miles traveled metrics pursuant to this division, a project may satisfy the mitigation requirement by electing to contribute an amount, at a price per vehicle mile traveled that shall be determined, on or before July 1, 2026, by the Office of Land Use and Climate Innovation, to the Transit-Oriented Development Implementation Fund established in Section 53561 of the Health and Safety Code for the purposes of the Transit-Oriented Development Implementation Program established pursuant to Part 13 (commencing with Section 53560) of Division 31 of the Health and Safety Code.",
+    "(2) On or before July 1, 2029, and at least once every three years thereafter, the Office of Land Use and Climate Innovation shall update the price per vehicle mile traveled pursuant to paragraph (1) based on housing project costs and awards, vehicle miles traveled mitigated, and other factors relevant to housing projects funded by either the Transit-Oriented Development Implementation Program or the Affordable Housing and Sustainable Communities Program.",
+    "(c) The moneys contributed pursuant to paragraph (1) of subdivision (b) shall be available to the Department of Housing and Community Development, upon appropriation by the Legislature, to fund developments located within the same region as the project, in the following priority order:",
+    "(1) First priority to developments within the same city as the project or for projects in unincorporated areas to developments in the same county.",
+    "(2) Second priority to developments in the same county.",
+    "(d) For each award using moneys contributed pursuant to paragraph (1) of subdivision (b), the Department of Housing and Community Development shall confirm the estimated reduction in vehicle miles traveled attributable to the award using the same method as that employed for the Affordable Housing and Sustainable Communities Program.",
+    "(e) The Department of Housing and Community Development shall post on its internet website, as part of the list of Transit-Oriented Development Implementation Program awards posted to its internet website at the conclusion of each funding round, all of the following information:",
+    "(1) The name, location, and number of units in each development funded.",
+    "(2) The total development cost and the amount of funds awarded to each development, including, but not limited to, the amount of funds contributed pursuant to this section.",
+    "(3) The reduction in vehicle miles traveled estimated for each development and attributable to the award using the same method as that employed for the Affordable Housing and Sustainable Communities Program.",
+    "(4) The vehicle miles traveled mitigation obligations of each project that contributed funds pursuant to this section awarded during that round."
+   ],
+   "sec": "21080.43",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: transportation impact mitigation: Transit-Oriented Development Implementation Program.",
+ "title": "An act to add Section 21080.43 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB124499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB124498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-23",
+   "id": "20250AB124497AMD",
+   "num": "97"
+  }
+ ]
+}

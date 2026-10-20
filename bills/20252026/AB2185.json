@@ -1,0 +1,182 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Quirk-Silva",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  }
+ ],
+ "bill": "AB2185",
+ "bill_id": "202520260AB2185",
+ "chapter": {
+  "num": "784",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires a city or county to adopt a general plan for the land use and development of the county or city that includes, among other things, a housing element.",
+  "Existing law expresses the intent of the Legislature, in enacting the housing element requirement, to accomplish various objectives relating to the attainment of the state housing goal and regional housing needs.",
+  "This bill would make a nonsubstantive change to those provisions."
+ ],
+ "hash": "adfba1aa63102ce0",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Com. on H. & C.D.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 13).",
+   "date": "2026-05-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 74. Noes 0. Page 5183.)",
+   "date": "2026-05-21"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-21"
+  },
+  {
+   "action": "Referred to Com. on HOUSING.",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (June 24). Re-referred to Com. on APPR.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 38. Noes 0.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 6641.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-03"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 784, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250AB218595CHP",
+  "num": "95"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65581 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "It is the intent of the Legislature in enacting this article:",
+    "(a) To assure that counties and cities recognize their responsibilities in contributing to the attainment of the state housing goal.",
+    "(b) To assure that counties and cities will prepare and implement housing elements which, along with federal and state programs, will move toward attainment of the state housing goal.",
+    "(c) To recognize that each locality is best capable of determining what efforts are required by it to contribute to the attainment of the state housing goal, provided such a determination is compatible with the state housing goal and regional housing needs.",
+    "(d) To ensure that each local government cooperates with other local governments to address regional housing needs."
+   ],
+   "sec": "65581",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing: multifamily affordable housing programs.",
+ "title": "An act to amend Section 65581 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250AB218599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-19",
+   "id": "20250AB218598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-13",
+   "id": "20250AB218597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-30",
+   "id": "20250AB218596ENR",
+   "num": "96"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250AB218595CHP",
+   "num": "95"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": true
+  }
+ ],
+ "bill": "AB1553",
+ "bill_id": "202520260AB1553",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA requires a lead agency that is preparing an environmental impact report, a negative declaration, or making other determinations, to provide public notice of that fact within a reasonable period of time, as provided. CEQA requires a lead agency to give notice to the last known name and address of all organizations and individuals who have previously requested notice, and to give notice by posting the notice on the internet website of the lead agency, and to give notice through one of 3 different procedures, including direct mailing to the owners and occupants of contiguous property shown on the latest equalized assessment roll. Existing law also requires, for a project involving the burning of municipal wastes, hazardous waste, or refuse-derived fuel, to give notice by direct mailing to the owners and occupants of property within 14 of a mile of any parcel or parcels, as specified.",
+  "This bill would authorize a lead agency to satisfy the direct mailing requirements listed above by electronic mail if the recipient affirmatively requested to receive notice by electronic mail."
+ ],
+ "hash": "7d6245a55ae4ce7f",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-01-08"
+  },
+  {
+   "action": "From printer. May be heard in committee February 8.",
+   "date": "2026-01-09"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2026-03-17"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2026-03-16",
+  "id": "20250AB155398AMD",
+  "num": "98"
+ },
+ "location": "CX16",
+ "sections": [
+  {
+   "action": "Section 21092 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) A lead agency that is preparing an environmental impact report, a negative declaration, or making a determination pursuant to subdivision (c) of Section 21157.1 shall provide public notice of that fact within a reasonable period of time before certification of the environmental impact report, adoption of the negative declaration, or making the determination pursuant to subdivision (c) of Section 21157.1.",
+    "(b) (1) The notice shall specify the period during which comments will be received on the draft environmental impact report or negative declaration, and shall include the date, time, and place of any public meetings or hearings on the proposed project, a brief description of the proposed project and its location, the significant effects on the environment, if any, anticipated as a result of the project, the address where copies of the draft environmental impact report or negative declaration, and all documents referenced in the draft environmental impact report or negative declaration, are available for review, and a description of how the draft environmental impact report or negative declaration can be provided in an electronic format.",
+    "(2) This section shall not be construed in any manner that results in the invalidation of an action because of the alleged inadequacy of the notice content if there has been substantial compliance with the notice content requirements of this section.",
+    "(3) The notice required by this section shall be given to the last known name and address of all organizations and individuals who have previously requested notice, and shall also be given by posting the notice on the internet website of the lead agency and by at least one of the following procedures:",
+    "(A) Publication, no fewer times than required by Section 6061 of the Government Code, by the public agency in a newspaper of general circulation in the area affected by the proposed project. If more than one area will be affected, the notice shall be published in the newspaper of largest circulation from among the newspapers of general circulation in those areas.",
+    "(B) Posting of notice by the lead agency on- and off-site in the area where the project is to be located.",
+    "(C) Direct mailing to the owners and occupants of contiguous property shown on the latest equalized assessment roll.",
+    "(c) For a project involving the burning of municipal wastes, hazardous waste, or refuse-derived fuel, including, but not limited to, tires, meeting the qualifications of subdivision (d), notice shall be given to all organizations and individuals who have previously requested notice and shall also be given by at least the procedures specified in subparagraphs (A), (B), and (C) of paragraph (3) of subdivision (b). In addition, notification shall be given by direct mailing to the owners and occupants of property within one-fourth of a mile of any parcel or parcels on which is located a project subject to this subdivision.",
+    "(d) The notice requirements of subdivision (c) apply to both of the following:",
+    "(1) The construction of a new facility.",
+    "(2) The expansion of an existing facility that burns hazardous waste which would increase its permitted capacity by more than 10 percent. For purposes of this paragraph, the amount of expansion of an existing facility shall be calculated by comparing the proposed facility capacity with whichever of the following is applicable:",
+    "(A) The facility capacity approved in the facility’s hazardous waste facilities permit pursuant to Section 25200 of the Health and Safety Code or its grant of interim status pursuant to Section 25200.5 of the Health and Safety Code, or the facility capacity authorized in any state or local agency permit allowing the construction or operation of a facility for the burning of hazardous waste, granted before January 1, 1990.",
+    "(B) The facility capacity authorized in the facility’s original hazardous waste facilities permit, grant of interim status, or any state or local agency permit allowing the construction or operation of a facility for the burning of hazardous waste, granted on or after January 1, 1990.",
+    "(e) The notice requirements specified in subdivision (b) or (c) shall not preclude a public agency from providing additional notice by other means if the agency so desires, or from providing the public notice required by this section at the same time and in the same manner as public notice otherwise required by law for the project.",
+    "(f) A lead agency may satisfy a direct mailing notice requirement pursuant to this section by electronic mail if the recipient has affirmatively requested to receive notices pursuant to this section by electronic mail."
+   ],
+   "sec": "21092",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: notice: direct mailing: electronic mail.",
+ "title": "An act to amend Section 21092 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-01-08",
+   "id": "20250AB155399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-16",
+   "id": "20250AB155398AMD",
+   "num": "98"
+  }
+ ]
+}

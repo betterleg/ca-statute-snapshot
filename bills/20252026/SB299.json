@@ -1,0 +1,287 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Cabaldon",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Pérez",
+   "primary": false
+  }
+ ],
+ "bill": "SB299",
+ "bill_id": "202520260SB299",
+ "chapter": {
+  "num": "413",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "Existing law exempts specified projects from CEQA, including a project that consists exclusively of a day care center, as defined, that is not located in a residential area.",
+  "This bill would exempt from CEQA a project that consists exclusively of a day care center, as defined, that is located in a residential area, except as provided. By imposing additional duties on a lead agency to determine the applicability of these exemptions, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "5bc2062cf9383eb1",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-10"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 13.",
+   "date": "2025-02-11"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and E.Q.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "Set for hearing April 2.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "April 2 set for first hearing canceled at the request of author.",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "Set for hearing April 23.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "Set for hearing April 30 in E.Q. pending receipt.",
+   "date": "2025-04-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.Q. (Ayes 4. Noes 3. Page 871.) (April 23). Re-referred to Com. on E.Q.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 6. Noes 1. Page 963.) (April 30).",
+   "date": "2025-05-06"
+  },
+  {
+   "action": "Read second time and amended. Ordered to third reading.",
+   "date": "2025-05-07"
+  },
+  {
+   "action": "Ordered to inactive file on request of Senator Cabaldon.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "From inactive file.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "(Corrected August 24.)",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-06"
+  },
+  {
+   "action": "Set for hearing January 12 in HUMAN S. pending receipt.",
+   "date": "2026-01-07"
+  },
+  {
+   "action": "Set for hearing January 13 in E.Q. pending receipt.",
+   "date": "2026-01-07"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(c) .",
+   "date": "2026-01-08"
+  },
+  {
+   "action": "Re-referred to Coms. on HUMAN S. and E.Q.",
+   "date": "2026-01-08"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.Q. (Ayes 5. Noes 0. Page 3204.) (January 12). Re-referred to Com. on E.Q.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 3212.) (January 13).",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "Set for hearing January 20.",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-01-20"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 3285.) Ordered to the Assembly.",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (June 22).",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (August 5).",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 76. Noes 0. Page 6518.) Ordered to the Senate.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2026-09-02"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-20"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 413, Statutes of 2026.",
+   "date": "2026-09-20"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-20",
+  "id": "20250SB29992CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.68 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) This division does not apply to",
+    "a project that consists exclusively of a day care center, as defined in Section 1596.76 of the Health and Safety Code, that is located in a residential area.",
+    "(b) This section does not apply to a project located within 3,200 feet of a facility that actively extracts or refines oil or natural gas.",
+    "(c) This section does not apply to a project located on natural and protected lands, as defined pursuant to Section 21067.5."
+   ],
+   "sec": "21080.68",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: exemption: day care center: zoning.",
+ "title": "An act to add Section 21080.68 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-10",
+   "id": "20250SB29999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-07",
+   "id": "20250SB29998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-01-05",
+   "id": "20250SB29997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-01-14",
+   "id": "20250SB29996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-29",
+   "id": "20250SB29995AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-21",
+   "id": "20250SB29994AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-30",
+   "id": "20250SB29993ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-20",
+   "id": "20250SB29992CHP",
+   "num": "92"
+  }
+ ]
+}

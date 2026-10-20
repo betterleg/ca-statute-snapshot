@@ -1,0 +1,89 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "DeMaio",
+   "primary": true
+  }
+ ],
+ "bill": "AB2057",
+ "bill_id": "202520260AB2057",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The Planning and Zoning Law enacts various laws relating to land use, including statewide land use planning, transportation planning, local planning, zoning regulations, and housing development, among other things.",
+  "This bill would prohibit state agencies and local governments from adopting or enforcing a rule, regulation, resolution, or ordinance that directly or indirectly results in prohibiting the use of gas appliances in residential or nonresidential buildings.",
+  "Existing law, the California Building Standards Law, establishes the California Building Standards Commission (commission) within the Department of General Services. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code (code). Existing law, the State Housing Law, establishes statewide construction and occupancy standards for buildings used for human habitation.",
+  "Existing law requires the building standards adopted and submitted by the department for approval by the commission, as specified, to be adopted by reference, with certain exceptions. Existing law authorizes any city or county to make modifications or changes in those building standards that are published in the code, including to green building standards, upon making an express finding that those modifications or changes are reasonably necessary because of local climatic, geological, or topographical conditions. Existing law requires a copy of those findings, together with the modification or change, to be filed with the commission. Existing law, from June 1, 2025, until June 1, 2031, inclusive, prohibits a city or county from making a modification or change to the building standards described above that are applicable to residential units, unless one of specified conditions are met, and requires the commission to reject a modification or change to any building standard affecting a residential unit and filed by the governing body of a city or county, unless one of those specified conditions are met.",
+  "This bill would prohibit a city or county from making a change or modification to the above-described building standards that prohibits the use of natural gas in a residential unit. The bill would also require the commission to reject a modification or change to any building standard affecting a residential unit and filed by the governing body of a city or county that prohibits the use of natural gas in that residential unit.",
+  "This bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
+ ],
+ "hash": "befbe524697814aa",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be heard in committee March 21.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and U. & E.",
+   "date": "2026-03-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-03-12"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-04-09"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2026-03-12",
+  "id": "20250AB205798AMD",
+  "num": "98"
+ },
+ "location": "CX10",
+ "sections": [
+  {
+   "action": "Chapter 15 (commencing with Section 66347) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "A state agency or local government, including a charter city, shall not adopt or enforce a rule, regulation, resolution, or ordinance, including, but not limited to, an ordinance prohibiting natural gas hookups for new buildings, that directly or indirectly results in prohibiting the use of gas appliances in residential or nonresidential buildings."
+   ],
+   "sec": "66347",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Natural gas: appliances.",
+ "title": "An act to add Chapter 15 (commencing with Section 66347) to Division 1 of Title 7 of the Government Code, and to amend Sections 17958.5 and 17958.7 of the Health and Safety Code, relating to natural gas.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250AB205799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-12",
+   "id": "20250AB205798AMD",
+   "num": "98"
+  }
+ ]
+}

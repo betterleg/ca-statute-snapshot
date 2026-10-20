@@ -1,0 +1,187 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schiavo",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lee",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ahrens",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Stefani",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Becker",
+   "primary": false
+  }
+ ],
+ "bill": "AB1914",
+ "bill_id": "202520260AB1914",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The Planning and Zoning Law requires the legislative body of a city or county to adopt a comprehensive, long-term general plan that includes various elements, including, among others, a land use, circulation, housing, safety, and environmental justice element. Existing law requires a city or county to update its general plan elements subject to certain criteria and timelines.",
+  "This bill would require a city, county, or city and county, no later than January 1, 2033, to prepare and adopt a childcare plan or integrate a childcare plan into the next adoption of the city, county, or city and county’s general plan to address the childcare needs of the jurisdiction, as specified.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "f76626448d3cf54e",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-12"
+  },
+  {
+   "action": "From printer. May be heard in committee March 15.",
+   "date": "2026-02-13"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and HUM. S.",
+   "date": "2026-03-02"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on HUM. S. (Ayes 8. Noes 1.) (April 15).",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-20"
+  },
+  {
+   "action": "Re-referred to Com. on HUM. S.",
+   "date": "2026-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 1.) (April 23).",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-04-28"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 10. Noes 2.) (May 6).",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-07"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 59. Noes 9. Page 5179.)",
+   "date": "2026-05-21"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-21"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and HUMAN S.",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L. GOV.",
+   "date": "2026-06-08"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HUMAN S. (Ayes 5. Noes 1.) (June 17). Re-referred to Com. on HUMAN S.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 3. Noes 1.) (June 29). Re-referred to Com. on APPR.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2026-08-13"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-06-08",
+  "id": "20250AB191496AMD",
+  "num": "96"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 65302.03 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section, the following definitions apply:",
+    "(1) “Childcare” means license-exempt childcare, childcare and development services, and childcare and development programs, for children up to 13 years of age, including children with exceptional needs and children from all linguistic and cultural backgrounds.",
+    "(2) “Childcare plan” means a plan developed by a city, county, or city and county to address the childcare needs of the jurisdiction.",
+    "(3) “Childcare and development programs” has the same meaning as defined in Section 10213.5 of the Welfare and Institutions Code.",
+    "(4) “Childcare and development services” has the same meaning as defined in Section 10213.5 of the Welfare and Institutions Code.",
+    "(5) “License-exempt childcare” has the same meaning as described in Section 1596.792 of the Health and Safety Code, as it relates to childcare.",
+    "(b) No later than January 1, 2033, each city, county, or city and county shall prepare and adopt a childcare plan or integrate a child care plan into the next adoption of the city, county, or city and county’s general plan to address the childcare needs of the jurisdiction.",
+    "(c) If a city, county, or city and county has already adopted a similar childcare plan in its general plan or apart from the general plan, that meets the requirements of this section, the city, county, or city and county may designate that childcare plan to comply with this section."
+   ],
+   "sec": "65302.03",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "General plan elements: childcare.",
+ "title": "An act to add Section 65302.03 to the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-12",
+   "id": "20250AB191499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-20",
+   "id": "20250AB191498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-27",
+   "id": "20250AB191497AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-08",
+   "id": "20250AB191496AMD",
+   "num": "96"
+  }
+ ]
+}

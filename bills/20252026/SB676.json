@@ -1,0 +1,330 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Limón",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Blakespear",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Cervantes",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Cortese",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Richardson",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Stern",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Archuleta",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Caballero",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Pérez",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Reyes",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Umberg",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bryan",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Macedo",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Pacheco",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Sanchez",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": false
+  }
+ ],
+ "bill": "SB676",
+ "bill_id": "202520260SB676",
+ "chapter": {
+  "num": "550",
+  "year": "2025"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would require, on and after January 1, 2027, for a project, located in a geographic area for which the Governor declared a state of emergency on or after January 1, 2023, that is to maintain, repair, restore, demolish, or replace property or facilities damaged or destroyed by wildfire, and the project is not otherwise exempt from CEQA, as specified, the lead agency to prepare the record of proceeding concurrently with the administrative process. The bill would also require an action or proceeding brought to attack, review, set aside, void, or annul the certification of an environmental impact report, or the adoption of a negative declaration or mitigated negative declaration, for the project to be resolved, to the extent feasible, within 270 calendar days of the filing of the certified record of proceedings. The bill would require an applicant to agree to pay the costs of the trial court and court of appeal in hearing and deciding any action or proceeding brought under these provisions, as provided. The bill would require the Judicial Council to adopt rules of court to implement these requirements. The bill would require the project to be consistent with the applicable zoning and land use ordinances. By requiring a lead agency to prepare the record of proceedings concurrently with the administrative process, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "4af0464f5ce4d9d8",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on E.Q.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "Set for hearing April 2.",
+   "date": "2025-03-11"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.Q.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on RLS. (Ayes 8. Noes 0. Page 635.) (April 2). Re-referred to Com. on RLS.",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "Re-referred to Com. on JUD.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 13. Noes 0. Page 836.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Set for hearing May 5.",
+   "date": "2025-04-25"
+  },
+  {
+   "action": "May 5 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-16"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 6. Noes 0. Page 1209.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "From special consent calendar on motion of Senator Gonzalez.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 1453.) Ordered to the Assembly.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and JUD.",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on JUD. (Ayes 12. Noes 0.) (July 7).",
+   "date": "2025-07-08"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on JUD.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (July 15). Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 79. Noes 0. Page 3008.) Ordered to the Senate.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 2717.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-17"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 550, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB67694CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21168.6.2 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) On and after January 1, 2027, and subject to subdivisions (b) and (c), for a project, located in a geographic area for which the Governor declared a state of emergency pursuant to Chapter 7 (commencing with Section 8550) of Division 1 of Title 2 of the Government Code, that is to maintain, repair, restore, demolish, or replace property or facilities damaged or destroyed by wildfire, and the project is not otherwise exempt from this division by paragraph (3) of subdivision (b) of Section 21080 or by a Governor’s executive order, all of the following shall apply:",
+    "(1) The record of proceedings shall be prepared in accordance with the manner specified in subdivision (a) of Section 21167.6.2.",
+    "(2) (A) An action or proceeding brought to attack, review, set aside, void, or annul the certification of an environmental impact report, or the adoption of a negative declaration or mitigated negative declaration, for the project or the granting of any project approval, including any potential appeals to the court of appeal or the Supreme Court, shall, to the extent feasible, be resolved within 270 calendar days of the filing of the certified record of proceedings with the court.",
+    "(B) The Judicial Council shall adopt rules of court to implement subparagraph (A).",
+    "(3) The applicant shall agree to pay the costs of the trial court and the court of appeal in hearing and deciding any action or proceeding brought under this section in a form and manner as provided in a rule of court, that the Judicial Council shall adopt, which shall include, but not be limited to, the costs for the appointment of a special master if deemed appropriate by the court.",
+    "(b) (1) Subdivision (a) only applies to a project that is consistent with the applicable zoning and land use ordinances.",
+    "(2) Subdivision (a) does not apply to a project that is proposed after the Governor rescinds the declaration of the state of emergency for that geographic area.",
+    "(c) This section applies to projects in a geographic area that was damaged by fire for which the Governor has declared a state of emergency on or after January 1, 2023."
+   ],
+   "sec": "21168.6.2",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: judicial streamlining: state of emergency: wildfire.",
+ "title": "An act to add Section 21168.6.2 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB67699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-24",
+   "id": "20250SB67698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-09",
+   "id": "20250SB67697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-02",
+   "id": "20250SB67696AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250SB67695ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB67694CHP",
+   "num": "94"
+  }
+ ]
+}

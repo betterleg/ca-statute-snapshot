@@ -1,0 +1,241 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Gallagher",
+   "primary": true
+  }
+ ],
+ "bill": "AB975",
+ "bill_id": "202520260AB975",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would provide an exemption from CEQA those projects or actions taken for the installation, maintenance, repair, or replacement of culverts and those projects or actions taken for the repair or replacement of a bridge with a span of 200 feet or less.",
+  "Because the bill would require a local agency to determine the applicability of the above exemptions, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "af511c51a54d7199",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-03-19"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Re-referred to Com. on W. P., & W. pursuant to Assembly Rule 96.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (April 29).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 72. Noes 0. Page 1655.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Referred to Com. on N.R. & W.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (July 16).",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "From Consent Calendar.",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2701.).",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Joint Rules 61(a)(14) and 51(a)(4) suspended. (Ayes 59. Noes 20. Page 3413.)",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 73. Noes 0. Page 3493.).",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2025-09-24"
+  },
+  {
+   "action": "Vetoed by Governor.",
+   "date": "2025-10-01"
+  },
+  {
+   "action": "Consideration of Governor's veto pending.",
+   "date": "2025-10-01"
+  },
+  {
+   "action": "Consideration of Governor's veto stricken from file.",
+   "date": "2026-01-22"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Enrolled",
+  "date": "2025-09-16",
+  "id": "20250AB97592ENR",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.62 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "This division does not apply to a project or action taken for the installation, maintenance, repair, or replacement of culverts."
+   ],
+   "sec": "21080.62",
+   "verb": "added"
+  },
+  {
+   "action": "Section 21080.63 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "This division does not apply to a project or action taken for the repair or replacement of a bridge with span of 200 feet or less."
+   ],
+   "sec": "21080.63",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Vetoed",
+ "subject": "Lake and streambed alteration agreements: exemptions: culverts and bridges.",
+ "title": "An act to add Sections 21080.62 and 21080.63 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB97599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-18",
+   "id": "20250AB97598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB97597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-21",
+   "id": "20250AB97596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-01",
+   "id": "20250AB97595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-17",
+   "id": "20250AB97594AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-02",
+   "id": "20250AB97593AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-16",
+   "id": "20250AB97592ENR",
+   "num": "92"
+  }
+ ]
+}

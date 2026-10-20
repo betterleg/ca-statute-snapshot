@@ -1,0 +1,76 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ta",
+   "primary": true
+  }
+ ],
+ "bill": "AB1494",
+ "bill_id": "202520260AB1494",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city and of any land outside its boundaries that bears relation to its planning. That law further requires the planning agency having jurisdiction over a general plan to render a report as to conformity with the adopted general plan before, among other things, the acquisition or disposition of real property or the construction or authorization of a public building or structure impacting the general plan, except as specified.",
+  "This bill would make nonsubstantive changes to these provisions."
+ ],
+ "hash": "f3be52e7f58c965d",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Died at Desk.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2025-02-21",
+  "id": "20250AB149499INT",
+  "num": "99"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65402 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) If a general plan or part thereof has been adopted, no real property shall be acquired by dedication or otherwise for street, square, park, or other public purposes, and no real property shall be disposed of, no street shall be vacated or abandoned, and no public building or structure shall be constructed or authorized, if the adopted general plan or part thereof applies thereto, until the location, purpose, and extent of the acquisition or disposition, the street vacation or abandonment, or the public building or structure have been submitted to and reported upon by the planning agency as to conformity with the adopted general plan or part thereof. The planning agency shall render its report as to conformity with the adopted general plan or part thereof within 40 days after the matter was submitted to it, or a longer period of time as may be designated by the legislative body.",
+    "(2) If the legislative body so provides, by ordinance or resolution, this subdivision shall not apply to: (A) the disposition of the remainder of a larger parcel that was acquired and used in part for street purposes; (B) acquisitions, dispositions, or abandonments for street widening; or (C) alignment projects, provided these dispositions for street purposes, acquisitions, dispositions, or abandonments for street widening, or alignment projects are of a minor nature.",
+    "(b) (1) A county shall not acquire real property for any of the purposes specified in subdivision (a), nor dispose of any real property, nor construct or authorize a public building or structure, in another county or within the corporate limits of a city, if the city or other county has adopted a general plan or part thereof and the general plan or part thereof is applicable thereto, and a city shall not acquire real property for any of the purposes specified in subdivision (a), nor dispose of any real property, nor construct or authorize a public building or structure, in another city or in unincorporated territory, if the other city or the county in which the unincorporated territory is situated has adopted a general plan or part thereof and the general plan or part thereof is applicable thereto, until the location, purpose, and extent of the acquisition, disposition, or the public building or structure have been submitted to and reported upon by the planning agency having jurisdiction, as to conformity with the adopted general plan or part thereof. Failure of the planning agency to report within 40 days after the matter has been submitted to it shall be conclusively deemed a finding that the proposed acquisition, disposition, or public building or structure is in conformity with the adopted general plan or part thereof.",
+    "(2) This subdivision shall not apply to acquisition or abandonment for street widening or alignment projects of a minor nature if the legislative body having the real property within its boundaries so provides by ordinance or resolution.",
+    "(c) (1) A local agency shall not acquire real property for any of the purposes specified in subdivision (a) nor dispose of any real property, nor construct or authorize a public building or structure, in any county or city, if the county or city has adopted a general plan or part thereof and the general plan or part thereof is applicable thereto, until the location, purpose, and extent of the acquisition, disposition, or the public building or structure have been submitted to and reported upon by the planning agency having jurisdiction, as to conformity with the adopted general plan or part thereof. Failure of the planning agency to report within 40 days after the matter has been submitted to it shall be conclusively deemed a finding that the proposed acquisition, disposition, or public building or structure is in conformity with the adopted general plan or part thereof. If the planning agency disapproves the location, purpose, or extent of the acquisition, disposition, or the public building or structure, the disapproval may be overruled by the local agency.",
+    "(2) “Local agency,” as used in this subdivision, means an agency of the state for the local performance of governmental or proprietary functions within limited boundaries. Local agency does not include the state, or county, or a city."
+   ],
+   "sec": "65402",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "General plans.",
+ "title": "An act to amend Section 65402 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB149499INT",
+   "num": "99"
+  }
+ ]
+}

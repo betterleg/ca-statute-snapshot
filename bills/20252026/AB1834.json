@@ -1,0 +1,143 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Patel",
+   "primary": true
+  }
+ ],
+ "bill": "AB1834",
+ "bill_id": "202520260AB1834",
+ "chapter": {
+  "num": "43",
+  "year": "2026"
+ },
+ "digest": [
+  "The Subdivision Map Act requires a tentative and final map for specified subdivisions, including subdivisions of 5 or more parcels or condominiums, except under certain circumstances, including if the land consists of a parcel or parcels of land having approved access to a public street or highway, which comprises part of a tract of land zoned for industrial or commercial development, and which has the approval of the governing body as to street alignments and widths. Existing law requires a subdivision that qualifies for one of those exceptions to file a parcel map instead.",
+  "This bill would expand the exception described above to additionally include land that comprises part of a tract of land zoned for mixed-use development, inclusive of mixed-use developments containing residential uses, and that satisfies the other requirements contained in that exception."
+ ],
+ "hash": "e11d3317c85e719f",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "From printer. May be heard in committee March 14.",
+   "date": "2026-02-12"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-03-09"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. To Consent Calendar. (Ayes 10. Noes 0.) (March 25).",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 64. Noes 0. Page 4556.)",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Do pass. To Consent Calendar. (Ayes 7. Noes 0.) (June 10).",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 4860.).",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "In Assembly. Ordered to Engrossing and Enrolling.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 11:30 a.m.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 43, Statutes of 2026.",
+   "date": "2026-06-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-06-30",
+  "id": "20250AB183496CHP",
+  "num": "96"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66426 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A tentative and final map shall be required for all subdivisions creating five or more parcels, five or more condominiums as defined in Section 783 of the Civil Code, a community apartment project containing five or more parcels, or for the conversion of a dwelling to a stock cooperative containing five or more dwelling units, except if any one of the following occurs:",
+    "(1) The land before division contains less than five acres, each parcel created by the division abuts upon a maintained public street or highway, and no dedications or improvements are required by the legislative body.",
+    "(2) Each parcel created by the division has a gross area of 20 acres or more and has an approved access to a maintained public street or highway.",
+    "(3) The land consists of a parcel or parcels of land having approved access to a public street or highway, which comprises part of a tract of land zoned for industrial, commercial, or mixed-use development, inclusive of mixed-use developments containing residential uses, and which has the approval of the governing body as to street alignments and widths.",
+    "(4) Each parcel created by the division has a gross area of not less than 40 acres or is not less than a quarter of a quarter section.",
+    "(5) The land being subdivided is solely for the creation of an environmental subdivision pursuant to Section 66418.2.",
+    "(b) A parcel map shall be required for those subdivisions described in paragraphs (1) to (5), inclusive, of subdivision (a)."
+   ],
+   "sec": "66426",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Subdivisions: tentative and final map: exceptions.",
+ "title": "An act to amend Section 66426 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-11",
+   "id": "20250AB183499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-26",
+   "id": "20250AB183498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-06-22",
+   "id": "20250AB183497ENR",
+   "num": "97"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-06-30",
+   "id": "20250AB183496CHP",
+   "num": "96"
+  }
+ ]
+}

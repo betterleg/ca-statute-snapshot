@@ -1,0 +1,244 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wilson",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rivas",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Aguiar-Curry",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Carrillo",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hoover",
+   "primary": false
+  }
+ ],
+ "bill": "AB2059",
+ "bill_id": "202520260AB2059",
+ "chapter": {
+  "num": "576",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA requires the Office of Land Use and Climate Innovation to prepare, develop, and transmit to the Secretary of the Natural Resources Agency for certification and adoption proposed revisions to the CEQA implementation guidelines to establish criteria for determining the significance of transportation impacts of projects within transit priority areas, and requires the criteria to promote the reduction of greenhouse gas emissions, the development of multimodal transportation networks, and a diversity of land uses. CEQA requires the office to recommend potential metrics, including, among other metrics, vehicle miles traveled, to measure these transportation impacts.",
+  "This bill would require the Department of Transportation, in consultation with specified entities, to, on or before December 31, 2030, develop guidance on vehicle-miles-travel mitigation measures for transportation projects in nonmetropolitan counties, as provided. The bill would require the department to publish the guidance on its internet website and add the guidance as an addendum to the Transportation Analysis Framework and the Transportation Analysis under CEQA. The bill would specify that a transportation project for which the lead agency has issued a notice of preparation for the project’s environmental impact report on or before December 31, 2031 is presumed to have a less than significant transportation impact as determined by the vehicle-miles-traveled metric if at least 70% of the project lies within one or more nonmetropolitan counties. Because the bill would impose additional duties on a lead agency in its analysis of significant transportation impacts, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "3c3b4c71fa556ddf",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be heard in committee March 21.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 14. Noes 0.) (April 20).",
+   "date": "2026-04-21"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 13).",
+   "date": "2026-05-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 72. Noes 0. Page 5134.)",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Referred to Com. on E.Q.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-06-12"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 76. Noes 0. Page 7005.).",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2026-09-15"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-27"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 576, Statutes of 2026.",
+   "date": "2026-09-27"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-27",
+  "id": "20250AB205993CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21081.4 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, the following definitions apply:",
+    "(1) “Demonstrated evacuation need” means a project that is specifically identified as necessary to provide evacuation capacity for the affected area in an adopted local hazard mitigation plan, general plan safety element, local emergency operations plan, or other local or regional emergency evacuation plan approved by a city, county, or regional planning agency through a public process.",
+    "(2) “Demonstrated safety need” means a project for which the lead agency demonstrates, through documented collision, injury, or fatality data specific to the project location, or through a risk-based or systemic safety analysis consistent with state and federal guidance, that the proposed project includes safety countermeasures that are necessary to reduce the number and severity of injuries or the number of fatalities, including reducing specific risks to vulnerable road users.",
+    "(3) “Nonmetropolitan county” means a nonmetropolitan county designated by the Methodology for Determining Rural Status of Project Site for 2025 Applications issued by the California Tax Credit Allocation Committee on January 1, 2025.",
+    "(4) “Transportation project” means a project undertaken by a public agency that consists of the planning, design, construction, reconstruction, rehabilitation, improvement, expansion, or operation of a highway, road, bridge, transit facility, rail facility, bicycle or pedestrian facility, or other public transportation infrastructure.",
+    "(b) (1) The Department of Transportation, in consultation with the Office of Land Use and Climate Innovation and the SB 743 Implementation Working Group Rural VMT Action Subcommittee, shall, on or before December 31, 2030, develop guidance on vehicle-miles-travel mitigation measures for transportation projects in nonmetropolitan counties. The guidance shall include all of the following:",
+    "(A) Case studies exemplifying the range of costs of vehicle-miles-travel mitigation measures for transportation projects in nonmetropolitan counties compared to the costs in metropolitan counties.",
+    "(B) A review of direct and indirect vehicle-miles-travel mitigation measures and examples of direct and indirect vehicle-miles-travel mitigation measures that have been used for transportation projects in nonmetropolitan counties.",
+    "(C) Identification of barriers to implementing vehicle-miles-travel mitigation measures for transportation projects in nonmetropolitan counties.",
+    "(D) Recommendations for processes for lead agencies and project developers to identify and implement appropriate vehicle-miles-travel mitigation measures for transportation projects in nonmetropolitan areas, including recommendations for processes of consultation with stakeholders, coordination with local jurisdiction and regional transportation planning organizations, and engaging with the community, as appropriate.",
+    "(E) Recommendations for appropriate vehicle-miles-travel significance thresholds for transportation projects in nonmetropolitan areas that do not add general purpose lanes to the state highway system unless there is a demonstrated safety or evacuation need for the project.",
+    "(2) The Department of Transportation shall publish the guidance on its internet website. The guidance shall also be added as an addendum to the Transportation Analysis Framework and the Transportation Analysis under CEQA.",
+    "(c) (1) A transportation project is presumed to have a less than significant transportation impact as determined by the vehicle-miles-traveled metric developed pursuant to Section 21099 if at least 70 percent of the project lies within one or more nonmetropolitan counties.",
+    "(2) Paragraph (1) does not apply to a transportation project that adds one or more general purpose lanes to the state highway system unless there is a demonstrated safety or evacuation need for the project.",
+    "(3) The presumption pursuant to paragraph (1) shall only apply to an eligible project for which the lead agency issues a notice of preparation for the project’s environmental impact report on or before December 31, 2031."
+   ],
+   "sec": "21081.4",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: transportation impacts: vehicle miles traveled: mitigation.",
+ "title": "An act to add Section 21081.4 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250AB205999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-19",
+   "id": "20250AB205998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-22",
+   "id": "20250AB205997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-13",
+   "id": "20250AB205996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-25",
+   "id": "20250AB205995AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-04",
+   "id": "20250AB205994ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-27",
+   "id": "20250AB205993CHP",
+   "num": "93"
+  }
+ ]
+}

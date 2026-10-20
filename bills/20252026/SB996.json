@@ -1,0 +1,302 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Padilla",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Caballero",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Reyes",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Wahab",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Quirk-Silva",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lee",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  }
+ ],
+ "bill": "SB996",
+ "bill_id": "202520260SB996",
+ "chapter": {
+  "num": "995",
+  "year": "2026"
+ },
+ "digest": [
+  "The Manufactured Housing Act of 1980 sets forth various standards relating to manufactured homes, mobilehomes, special purpose commercial coaches, and commercial coaches, including, but not limited to, construction and alteration of those homes. Existing law, including the Manufactured Housing Act of 1980 and the Uniform Commercial Code–Secured Transactions, defines the term “manufactured home” for various purposes to mean a structure that, among other things, is transportable in one or more sections, is 8 body feet or more in width, or 40 body feet or more in length, in the traveling mode, or, when erected on site, is 320 or more square feet, and is built on a permanent chassis.",
+  "This bill would modify that definition to mean a structure that was constructed on or after June 15, 1976, with or without a foundation system, and has the same meaning as defined in specified federal law.",
+  "Existing law, pursuant to the National Manufactured Housing Construction and Safety Standards Act of 1974, authorizes the Department of Housing and Community Development to assume responsibility for the enforcement of manufactured home and mobilehome construction and safety standards relating to any issue with respect to which a federal standard has been established. Existing law also authorizes the department to adopt regulations to ensure acceptance by the United States Secretary of Housing and Urban Development of California’s plan for the administration and enforcement of federal manufactured home and mobilehome safety and construction standards. Existing law makes any person who knowingly violates any provision of the Manufactured Housing Act of 1980 or any rule or regulation issued pursuant to that act, except as specified, guilty of a misdemeanor.",
+  "This bill would require the department, by July 1, 2027, to review, revise, and adopt regulations to permit the construction, installation, sale, and occupancy of a manufactured home built without a permanent chassis in parity with those applicable to a manufactured home built with a permanent chassis. The bill would exempt those regulations from the rulemaking provisions of the Administrative Procedure Act. The bill would also require the department to report to the Legislature by July 1, 2027, on the status of the above-described regulations.",
+  "This bill would require the department, by July 1, 2029, to prepare and submit a report to the Legislature evaluating the statutory and administrative changes necessary to regulate, finance, title, tax, and protect homeowners in divided-tenure and leasehold homeownership arrangements, as specified, and to contract with appropriate outside parties who shall consult with certain entities, including county assessors and recorders, in preparing that report.",
+  "By imposing additional duties on local officials, and by expanding the scope of a crime, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "608a2b7abd573676",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-09"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 12.",
+   "date": "2026-02-10"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and REV. & TAX.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "Set for hearing March 17.",
+   "date": "2026-03-03"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on REV. & TAX. (Ayes 10. Noes 0. Page 3589.) (March 17).",
+   "date": "2026-03-18"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on REV. & TAX.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "Set for hearing April 8.",
+   "date": "2026-03-27"
+  },
+  {
+   "action": "April 8 set for first hearing canceled at the request of author.",
+   "date": "2026-04-01"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on REV. & TAX.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Set for hearing May 4.",
+   "date": "2026-04-24"
+  },
+  {
+   "action": "May 4 hearing: Placed on APPR. suspense file.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-08"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 7. Noes 0. Page 4260.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 37. Noes 0. Page 4448.) Ordered to the Assembly.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "Referred to Com. on H. & C.D.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "date": "2026-06-16"
+  },
+  {
+   "action": "June 24 hearing postponed by committee.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "August 5 set for first hearing. Placed on suspense file.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 77. Noes 1. Page 6497.) Ordered to the Senate.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2026-09-02"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 995, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250SB99691CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 18007 of the Health and Safety Code is amended to read:",
+   "code": "HSC",
+   "paras": [
+    "(a) “Manufactured home,” for the purposes of this part, means a structure that was constructed on or after June 15, 1976, with or without a foundation system, and has the same meaning as defined in Section 5402 of Title 42 of the United States Code.",
+    "(b) Notwithstanding any other provision of law, if a codified provision of state law uses the term “manufactured home,” and it clearly appears from the context that the term “manufactured home” should apply only to manufactured homes, as defined under subdivision (a), the codified provision shall apply only to those manufactured homes. If any codified provision of state law, by its context, requires that the term applies to manufactured homes or mobilehomes without regard to the date of construction, the codified provision shall apply to both manufactured homes, as defined under subdivision (a), and mobilehomes as defined under Section 18008.",
+    "(c) “Manufactured home” does not include a commercial modular, as defined in Section 18001.8, factory-built housing, as defined in Section 19971, a mobilehome, as defined in Section 18008, a multifamily manufactured home, as defined in Section 18008.7, or a recreational vehicle, as defined in Section 18010."
+   ],
+   "sec": "18007",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Manufactured housing: conformity.",
+ "title": "An act to amend Section 9102 of the Commercial Code, and to amend Section 18007 of, and to add Sections 18025.7 and 18025.8 to, the Health and Safety Code, relating to manufactured housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-09",
+   "id": "20250SB99699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-19",
+   "id": "20250SB99698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-15",
+   "id": "20250SB99697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-05-14",
+   "id": "20250SB99696AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-16",
+   "id": "20250SB99695AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-13",
+   "id": "20250SB99694AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-20",
+   "id": "20250SB99693AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-30",
+   "id": "20250SB99692ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250SB99691CHP",
+   "num": "91"
+  }
+ ]
+}

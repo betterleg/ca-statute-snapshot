@@ -1,0 +1,203 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Reyes",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ward",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Seyarto",
+   "primary": false
+  }
+ ],
+ "bill": "SB686",
+ "bill_id": "202520260SB686",
+ "chapter": {
+  "num": "523",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Zenovich-Moscone-Chacon Housing and Home Finance Act, among other things, establishes the Department of Housing and Community Development and requires it to administer various programs intended to promote the development of housing and to provide housing assistance and home loans. Existing law sets forth various general powers of the department in implementing these programs, including authorizing the department to enter into long-term contracts or agreements of up to 30 years for the purpose of servicing loans or grants or enforcing regulatory agreements or other security documents.",
+  "Existing law, unless an extension of a department loan, the reinstatement of a qualifying unpaid matured loan, the subordination of a department loan to new debt, or an investment of tax credit equity would result in a rent increase for tenants of a development, authorizes the Department of Housing and Community Development to approve an extension, reinstatement, subordination, or investment pursuant to specified rental housing finance programs, as specified, or if the department determines that a project has, or will have after rehabilitation or repairs, a potential remaining useful life equal to or greater than the term of the restructured loan. Existing law authorizes the department to charge a monitoring fee to cover the aggregate monitoring costs in years the loan is extended and a transaction fee to cover its costs for processing restructuring transactions, and requires developer fee limitations to be consistent with specified laws and regulations, including regulations by the California Tax Credit Allocation Committee.",
+  "This bill would revise and recast these provisions, including additionally authorizing the department to approve the payoff of a department loan in whole or part before the end of its term and the extraction of equity from a development for purposes approved by the department. The bill would specify eligible uses of loan and equity sources, if the department determines that a project has, or will have after rehabilitation or repairs, a potential remaining useful life equal to or greater than the term of the department’s regulatory agreement for purposes of approving an extension, reinstatement, subordination, payoff, extraction, or investment, as described above. The bill would prohibit the extension, reinstatement, subordination, payoff, extraction, or investment, as described above, if it would result in a rent increase for tenants of a development over and above the annual adjustment to the tenants’ rents under the department’s regulatory agreement.",
+  "This bill would recast certain provisions related to regulatory agreements, including authorizing the department to add another regulatory agreement and authorizing the department to waive specified requirements in the regulatory agreement if the loan is paid off, including requiring occupancy and financial reports. The bill would authorize the department to charge additional fees as necessary to cover its costs for processing restructuring transactions, and would provide that the monitoring fees continue until the end of the term of the department’s regulatory agreement, as specified. The bill would limit developer fees to the amount allowed by the California Tax Credit Allocation Committee or to 25% of actual rehabilitation costs, as applicable.",
+  "Existing law, known as the No Place Like Home Program, requires the department to award up to $2,000,000,000 among counties to finance capital costs, including, but not limited to, acquisition, design, construction, rehabilitation, or preservation, and to capitalize operating reserves, of permanent supportive housing for the target population, as specified.",
+  "This bill would define “capitalized operating reserves” for purposes of the Zenovich-Moscone-Chacon Housing and Home Finance Act and the No Place Like Home Program."
+ ],
+ "hash": "a9f37f213f228e8f",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on HOUSING.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "Set for hearing April 1.",
+   "date": "2025-03-13"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 11. Noes 0. Page 609.) (April 1). Re-referred to Com. on APPR.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "April 21 hearing: Placed on APPR. suspense file.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-16"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 6. Noes 0. Page 1209.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 38. Noes 0. Page 1328.) Ordered to the Assembly.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Referred to Com. on H. & C.D.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 12. Noes 0.) (July 16). Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 15. Noes 0.) (August 20).",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 74. Noes 0. Page 2777.) Ordered to the Senate.",
+   "date": "2025-08-28"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-08-28"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 2927.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-22"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 523, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB68696CHP",
+  "num": "96"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 50058.8 is added to the Health and Safety Code , to read:",
+   "code": "HSC",
+   "paras": [
+    "“Capitalized operating reserves” means capitalized funds for assisted units for the purpose of covering potential or projected operating deficits over time, including, but not limited to, operations, supportive services, and rent subsidies."
+   ],
+   "sec": "50058.8",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing programs: financing.",
+ "title": "An act to amend Sections 50560, 50561, and 50562 of, and to add Section 50058.8 to, the Health and Safety Code, and to amend Section 5849.2 of the Welfare and Institutions Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB68699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-07",
+   "id": "20250SB68698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-16",
+   "id": "20250SB68697ENR",
+   "num": "97"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB68696CHP",
+   "num": "96"
+  }
+ ]
+}

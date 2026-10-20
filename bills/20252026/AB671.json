@@ -1,0 +1,294 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Gabriel",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Mark González",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Blanca Rubio",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ward",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": false
+  }
+ ],
+ "bill": "AB671",
+ "bill_id": "202520260AB671",
+ "chapter": {
+  "num": "470",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the California Building Standards Law, establishes the California Building Standards Commission within the Department of General Services. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code. Existing law authorizes local governments to enact ordinances or regulations that make building standards amendments to the California Building Standards Code, as specified.",
+  "This bill would establish a streamlined approval process for a local permit for a tenant improvement, as defined, relating to a restaurant. In this regard, the bill would require a local building department, upon the request and at the expense of the permit applicant, to allow a qualified professional certifier, defined as a licensed architect or engineer who meets certain requirements, to certify that the plans and specifications of the tenant improvement comply with all applicable building, health, and safety codes, as specified. The bill would require a qualified professional certifier, or the applicant, as applicable, to prepare certain affidavits related to the tenant improvement under penalty of perjury. The bill would require the local building department to approve or deny the permit application within 20 business days of receiving a complete application and would deem the plan approved for permitting purposes if the local building department does not approve or deny the application within that timeframe. The bill would also authorize the applicant to resubmit corrected plans addressing the deficiencies identified in the initial denial, would limit the local building department’s review of each subsequent resubmission to the deficiencies identified in the initial denial, and would require the local building department to approve or deny each subsequent resubmission within 10 business days of receipt. The bill would require each local building department to conduct audits of tenant improvements submitted for certification, as specified. The bill would authorize a city or county to adopt additional qualifications or requirements for qualified professional certifiers, including penalties or reasonable administrative fines for certain actions. The bill would make qualified professional certifiers liable for any damages arising from negligent plan review. The bill would also require the applicant to indemnify the local agency from any property damage or personal injury arising from construction permitted under the above-described provisions.",
+  "Existing law establishes the California Architects Board and the Board for Professional Engineers, Land Surveyors, and Geologists to administer the licensure and regulation of architects and engineers, respectively. Existing law specifies grounds for disciplinary action by the boards.",
+  "This bill would deem making a false statement in a certification described above to be grounds for disciplinary action against a licensee who serves as a qualified professional certifier.",
+  "Existing law, the Government Claims Act, establishes the liability and immunity of a public entity for its acts or omissions that cause harm to persons. Where a public entity is under a mandatory duty imposed by an enactment that is designed to protect against the risk of a particular kind of injury, the act makes the public entity liable for an injury of that kind proximately caused by its failure to discharge the duty unless the public entity establishes that it exercised reasonable diligence to discharge the duty.",
+  "This bill, notwithstanding the above-described liability of a public entity for failure to discharge certain mandatory duties, would provide that a public entity or public employee is not liable for an injury caused by their discretionary or ministerial acts or omissions relating to the issuance or denial of a permit pursuant to the bill’s provisions.",
+  "Existing law, the California Retail Food Code, establishes uniform health and sanitation standards for retail food facilities for regulation by the State Department of Public Health, and requires local enforcement agencies to enforce those provisions. The California Retail Food Code requires a person proposing to build or remodel a food facility to submit complete, easily readable plans drawn to scale, and specifications to the enforcement agency for review, and to receive plan approval before starting any new construction or remodeling of a facility for use as a retail food facility. The California Retail Food Code requires the plans to be approved or rejected within 20 working days after receipt by the enforcement agency and, unless the plans are approved or rejected within 20 working days, deems those plans approved. A violation of the California Retail Food Code is generally a misdemeanor.",
+  "This bill would require that a tenant improvement plan for a restaurant be deemed approved for permitting purposes if the enforcement agency does not approve or deny the application within 20 business days of receiving a complete plan. The bill would also authorize the applicant to resubmit a corrected plan addressing the deficiencies identified in the initial denial, would limit the enforcement agency’s review of each subsequent resubmission to the deficiencies identified in the initial denial, and would require the enforcement agency to approve or deny each subsequent resubmission within 10 business days.",
+  "Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA does not apply to the approval of ministerial projects.",
+  "To the extent that the streamlined, ministerial review processes established by the bill would apply to final, discretionary approval of a tenant improvement, the bill would exempt those projects from CEQA.",
+  "This bill would also make related findings and declarations.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "By adding to the duties of local officials with respect to the review and approval of tenant improvements for restaurants, and by expanding the scope of various crimes related to these provisions, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "hash": "cb39b0479706d2b0",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-14"
+  },
+  {
+   "action": "From printer. May be heard in committee March 17.",
+   "date": "2025-02-15"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and B. & P.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on B. & P. (Ayes 10. Noes 0.) (April 23).",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Re-referred to Com. on B. & P.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 17. Noes 0.) (April 29). Re-referred to Com. on APPR.",
+   "date": "2025-04-29"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 15. Noes 0.) (May 21).",
+   "date": "2025-05-21"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-05-22"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 72. Noes 0. Page 1772.)",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and B. P. & E.D.",
+   "date": "2025-06-11"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L. GOV.",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. P. & E.D.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on B. P. & E.D. (Ayes 7. Noes 0.) (July 9). Re-referred to Com. on B. P. & E.D.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (July 14).",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-26"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2397.).",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 80. Noes 0. Page 3094.).",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Enrolled measure version corrected.",
+   "date": "2025-09-15"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2025-09-23"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-09"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 470, Statutes of 2025.",
+   "date": "2025-10-09"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-09",
+  "id": "20250AB67190CHP",
+  "num": "90"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Chapter 14 (commencing with Section 66345) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "The Legislature finds and declares all of the following:",
+    "(a) Small, independent restaurants are essential to California’s identity as a world-renowned culinary destination and reflect the state’s diversity, agricultural abundance, and tradition of culinary innovation.",
+    "(b) Family-owned restaurants serve as cultural anchors in their communities, preserving and sharing diverse food traditions across generations while creating spaces for community gathering and celebration.",
+    "(c) The restaurant industry is one of California’s largest small business employers, providing critical first jobs, career advancement opportunities, and pathways to business ownership for immigrant entrepreneurs and historically underserved communities.",
+    "(d) California’s restaurant sector is a vital component of the state’s tourism industry, with food tourism generating substantial economic activity in communities throughout the state.",
+    "(e) Local restaurants play a crucial role in supporting California’s agricultural sector by sourcing ingredients from local farms and food producers, contributing to the state’s farm-to-table movement and sustainable food systems.",
+    "(f) Delays in municipal building plan review processes can create significant economic hardship for small business owners.",
+    "(g) Qualified licensed architects and engineers can supplement municipal plan review capacity while maintaining public safety standards.",
+    "(h) An expedited review process for food service establishments will promote economic development while ensuring compliance with all applicable health and safety requirements."
+   ],
+   "sec": "66345",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Accelerated restaurant building plan approval: California Retail Food Code: tenant improvements.",
+ "title": "An act to amend Section 6775 of, and to add Section 5586.5 to, the Business and Professions Code, to add Chapter 14 (commencing with Section 66345) to Division 1 of Title 7 of the Government Code, and to amend Section 114380 of the Health and Safety Code, relating to restaurants.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-14",
+   "id": "20250AB67199INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB67198AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-24",
+   "id": "20250AB67197AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-22",
+   "id": "20250AB67196AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-02",
+   "id": "20250AB67195AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-09",
+   "id": "20250AB67194AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-16",
+   "id": "20250AB67193AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-08-25",
+   "id": "20250AB67192AMD",
+   "num": "92"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-11",
+   "id": "20250AB67191ENR",
+   "num": "91"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-09",
+   "id": "20250AB67190CHP",
+   "num": "90"
+  }
+ ]
+}

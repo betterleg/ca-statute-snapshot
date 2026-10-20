@@ -1,0 +1,372 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Ashby",
+   "primary": true
+  }
+ ],
+ "bill": "SB1283",
+ "bill_id": "202520260SB1283",
+ "chapter": {
+  "num": "347",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law requires a city, county, or city and county (local government) to administratively approve an application to install an electric vehicle charging station (EV station) through the issuance of a building permit or similar nondiscretionary permit. Existing law requires those EV stations to meet all applicable safety and performance standards established by specified entities.",
+  "This bill would require this administrative approval to extend to EV stations with a canopy, as defined, or onsite energy storage systems sized to support charging. This bill would also require any electric vehicle supply equipment installed at the EV station to meet all applicable safety and performance standards.",
+  "Existing law requires every local government to adopt, pursuant to specified deadlines, an ordinance that creates an expedited, streamlined permitting process for EV stations. Existing law requires the local government to adopt a checklist of all requirements with which the EV stations must comply with for expedited review.",
+  "This bill would require the ordinance to also address expedited streamlining for any supporting infrastructure necessary for or accessory to the operation of EV stations, as described, and would clarify that the checklist may be amended. The bill would require the ordinance and checklist to be amended to implement the bill’s provisions no later than December 31, 2027.",
+  "This bill would further provide that if the local government has not adopted or amended such a checklist, an application to install an EV station must contain specified information about the proposed project to the building official of the local government, including, but not limited to, the specific location of the EV station. The bill would require the Governor’s Office of Business and Economic Development (GO-Biz) to develop and publicly post a standardized form that applicants may use and submit to the local government for purposes of satisfying this requirement. The bill would also require GO-Biz to develop and publicly post an optional template that applicants may use to document their application’s compliance with specified provisions relating to the submittal of their EV station application.",
+  "This bill would require a local government to provide, no later than 30 days after an application has been deemed approved, a written notice to the applicant of the date the application was deemed approved and identify all permits and authorizations that have been granted. The bill would authorize an applicant to proceed with project construction following that notice, as described.",
+  "This bill would prohibit its provisions from being construed to limit a local agency’s ability to, among other things, require plans or supporting documentation that are necessary to verify an electric vehicle charging station, including supporting infrastructure, meets all health and safety requirements of local, state, and federal law, as provided.",
+  "This bill would make conforming changes and revise various definitions in these provisions, including by redefining an EV station for purposes of these provisions to mean a physical site where one or more devices with one or more charging ports and connectors for charging electric vehicles are available for use.",
+  "By imposing additional duties on local agencies, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "ced57dba291cbea9",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Com. on JUD.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2026-03-24"
+  },
+  {
+   "action": "Re-referred to Coms. on L. GOV. and JUD.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 6. Noes 0. Page 3904.) (April 15). Re-referred to Com. on JUD.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0. Page 3979.) (April 21).",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "May 11 hearing: Placed on APPR. suspense file.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 5. Noes 2. Page 4271.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 31. Noes 4. Page 4450.) Ordered to the Assembly.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 1.) (August 5).",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 71. Noes 0. Page 6376.) Ordered to the Senate.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 32. Noes 5.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 6 p.m.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-20"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 347, Statutes of 2026.",
+   "date": "2026-09-20"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-20",
+  "id": "20250SB128392CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65850.7 of the Government Code , as amended by Section 1 of Chapter 607 of the Statutes of 2024, is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The Legislature finds and declares all of the following:",
+    "(1) The implementation of consistent statewide standards to achieve the timely and cost-effective installation of electric vehicle charging stations and hydrogen-fueling stations is not a municipal affair, as that term is used in Section 5 of Article XI of the California Constitution, but is instead a matter of statewide concern. Therefore, this section applies to all cities, including charter cities.",
+    "(2) It is the intent of the Legislature that local agencies not adopt ordinances that create unreasonable barriers to the installation of zero-emission vehicle infrastructure and not unreasonably restrict the ability of homeowners and agricultural and business concerns to install electric vehicle charging and hydrogen-fueling stations.",
+    "(3) It is the policy of the state to promote and encourage the use of electric vehicle charging stations and hydrogen-fueling stations and to limit obstacles to their use.",
+    "(4) It is the intent of the Legislature that local agencies comply not only with the language of this section, but also the legislative intent to encourage the installation of electric vehicle charging stations and hydrogen-fueling stations by removing obstacles to, and minimizing costs of, permitting for charging and hydrogen-fueling stations so long as the action does not supersede the building official’s authority to identify and address higher priority life-safety situations.",
+    "(b) (1) A city, county, or city and county shall administratively approve an application to install electric vehicle charging stations through the issuance of a building permit or similar nondiscretionary permit, including, but not limited to, an electric vehicle charging station with a canopy or onsite energy storage systems sized to support charging.",
+    "(2) A city, county, or city and county shall administratively approve an application to install hydrogen-fueling stations through the issuance of a building permit or similar nondiscretionary permit. This paragraph shall only apply to an application to install hydrogen-fueling stations on a parcel that satisfies either of the following:",
+    "(A) It is zoned for industrial or commercial development and does not contain any residential units.",
+    "(B) It was previously developed with a service station. For purposes of this subparagraph, “service station” means any establishment which offers for sale or sells gasoline or other motor vehicle fuel to the public.",
+    "(3) Review of an application to install an electric vehicle charging station or hydrogen-fueling station shall be limited to the building official’s review of whether it meets all health and safety requirements of local, state, and federal law. The requirements of local law shall be limited to those standards and regulations necessary to ensure that the electric vehicle charging station or hydrogen-fueling station will not have a specific, adverse impact upon the public health or safety. However, if the building official of the city, county, or city and county makes a finding, based on substantial evidence, that the electric vehicle charging station or hydrogen-fueling station could have a specific, adverse impact upon the public health or safety, the city, county, or city and county may require the applicant to apply for a use permit.",
+    "(c) A city, county, or city and county may not deny an application for a use permit to install an electric vehicle charging station or hydrogen-fueling station unless it makes written findings based upon substantial evidence in the record that the proposed installation would have a specific, adverse impact upon the public health or safety, and there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact. The findings shall include the basis for the rejection of potential feasible alternatives of preventing the adverse impact.",
+    "(d) The decision of the building official pursuant to subdivisions (b) and (c) may be appealed to the planning commission of the city, county, or city and county.",
+    "(e) Any conditions imposed on an application to install an electric vehicle charging station or hydrogen-fueling station shall be designed to mitigate the specific, adverse impact upon the public health or safety at the lowest cost possible.",
+    "(f) (1) An electric vehicle charging station or hydrogen-fueling station shall meet applicable health and safety standards and requirements imposed by state and local permitting authorities.",
+    "(2) Any electric vehicle supply equipment installed at an electric vehicle charging station shall meet all applicable safety and performance standards established by the California Electrical Code, the Society of Automotive Engineers, the National Electrical Manufacturers Association, and accredited testing laboratories such as Underwriters Laboratories and, where applicable, rules of the Public Utilities Commission regarding safety and reliability, or rules of the Department of Food and Agriculture regarding safety, reliability, weights, and measures.",
+    "(3) A hydrogen-fueling station shall meet all of the following, as applicable:",
+    "(A) Safety and performance standards established by the Society of Automotive Engineers and accredited nationally recognized testing laboratories.",
+    "(B) All applicable state laws and regulations pertaining to hydrogen fueling, including any rules established by the State Air Resources Board, Energy Commission, or Department of Food and Agriculture regarding safety, reliability, weights, and measures.",
+    "(C) Guidance established by the Governor’s Office of Business and Economic Development, as outlined in the Hydrogen Station Permitting Guidebook.",
+    "(g) (1) (A) On or before September 30, 2016, every city, county, or city and county with a population of 200,000 or more residents, and, on or before September 30, 2017, every city, county, or city and county with a population of less than 200,000 residents, shall, in consultation with the local fire department or district and the utility director, if the city, county, or city and county operates a utility, adopt an ordinance, consistent with the goals and intent of this section, that creates an expedited, streamlined permitting process for electric vehicle charging stations, including any supporting infrastructure necessary for or accessory to the operation of the station. That supporting infrastructure includes, but is not limited to, any paving, concrete pad, utility trench, canopy, or onsite energy storage system sized to support electric vehicle charging. In developing an expedited permitting process, the city, county, or city and county shall adopt or amend a checklist of all requirements with which electric vehicle charging stations shall comply to be eligible for expedited review.",
+    "(B) On or before September 30, 2025, every city, county, or city and county with a population of 250,000 or more residents, and, on or before September 30, 2028, every city, county, or city and county with a population of fewer than 250,000 residents, shall, in consultation with the local fire department or district and the utility director, if the city, county, or city and county operates a utility, adopt an ordinance, consistent with the goals and intent of this section, that creates an expedited, streamlined permitting process for hydrogen-fueling stations that meet the requirements of paragraph (2) of subdivision (b). In developing an expedited permitting process, the city, county, or city and county shall adopt a checklist of all requirements with which hydrogen-fueling stations shall comply to be eligible for expedited review.",
+    "(C) Amendments to ordinances and checklists to implement the amendments to this section made by the act that added this subparagraph shall be completed no later than December 31, 2027.",
+    "(2) An application that satisfies the information requirements in either checklist adopted pursuant to paragraph (1), as determined by the city, county, or city and county, shall be deemed complete. Upon confirmation by the city, county, or city and county of the application and supporting documents being complete and meeting the requirements of the checklist, and consistent with the ordinance, a city, county, or city and county shall, consistent with subdivision (b), approve the application and issue all required permits or authorizations. However, the city, county, or city and county may establish a process to prioritize competing applications for expedited permits. Upon receipt of an incomplete application, a city, county, or city and county shall issue a written correction notice detailing all deficiencies in the application and any additional information required to be eligible for expedited permit issuance. An application submitted to a city, county, or city and county that owns and operates an electric utility shall demonstrate compliance with the utility’s interconnection policies prior to approval.",
+    "(3) Each checklist and required permitting documentation shall be published on a publicly accessible internet website, if the city, county, or city and county has an internet website, and the city, county, or city and county shall allow for electronic submittal of a permit application and associated documentation, and shall authorize the electronic signature on all forms, applications, and other documentation in lieu of a wet signature by an applicant. In developing the ordinance, the city, county, or city and county may refer to the recommendations contained in the most current version of the “Electric Vehicle Charging Station Permitting Guidebook” or the “Hydrogen Station Permitting Guidebook” published by the Governor’s Office of Business and Economic Development. A city, county, or city and county may adopt an ordinance that modifies the checklists and standards found in the guidebooks due to unique climactic, geological, seismological, or topographical conditions. If a city, county, or city and county determines that it is unable to authorize the acceptance of an electronic signature on all forms, applications, and other documents in lieu of a wet signature by an applicant, the city, county, or city and county shall state, in the ordinance required under this subdivision, the reasons for its inability to accept electronic signatures and acceptance of an electronic signature shall not be required.",
+    "(h) A city, county, or city and county shall not condition approval for any electric vehicle charging station or hydrogen-fueling station permit on the approval of the station by an association, as that term is defined in Section 4080 of the Civil Code.",
+    "(i) Nothing in this section or Section 65850.71 shall be construed to limit a local agency’s ability to do either of the following for an electric vehicle charging station and any supporting infrastructure necessary for the operation of the electric vehicle charging station, including, but not limited to, a canopy or onsite energy storage system:",
+    "(1) (A) Require plans or supporting documentation that are necessary to verify the electric vehicle charging station, including supporting infrastructure, meets all health and safety requirements of local, state, and federal law.",
+    "(B) Plan checking and document review for an electric vehicle charging station, including supporting infrastructure necessary for the operation of the electric vehicle charging station, including, but not limited to, a canopy or onsite energy storage system, shall be conducted, completed, and approved in accordance with the expedited, streamlined permitting process established in this section and Section 65850.71.",
+    "(2) Conduct inspections or require the electric vehicle charging station, including supporting infrastructure, as built, to comply with all health and safety requirements of local, state, and federal law.",
+    "(j) The following definitions shall apply to this section:",
+    "(1) “A feasible method to satisfactorily mitigate or avoid the specific, adverse impact” includes, but is not limited to, any cost-effective method, condition, or mitigation imposed by a city, county, or city and county on another similarly situated application in a prior successful application for a permit.",
+    "(2) “Canopy” means an overhead covering structure with a clearance height of 17 feet or less, measured from ground level to the underside of the canopy, a canopy fascia width of 4 feet or less, and a coverage area of 5,000 square feet or less.",
+    "(3) “Electronic submittal” means the utilization of one or more of the following:",
+    "(A) Email.",
+    "(B) The internet.",
+    "(C) Facsimile.",
+    "(4) “Electric vehicle charging station” or “charging station” means a physical site where one or more EVSEs are available for use.",
+    "(5) “Electric vehicle supply equipment” or “EVSE” means a device with one or more charging ports and connectors for charging electric vehicles.",
+    "(6) “Hydrogen-fueling station” means the equipment and structural design components necessary to ensure the safety of the fueling station, including hydrogen-refueling canopies, that are used to store and dispense hydrogen fuel to vehicles according to industry codes and standards that are open to the public.",
+    "(7) “Specific, adverse impact” means a significant, quantifiable, direct, and unavoidable impact, based on objective, identified, and written public health or safety standards, policies, or conditions as they existed on the date the application was deemed complete.",
+    "(k) This section shall remain in effect only until January 1, 2030, and as of that date is repealed."
+   ],
+   "sec": "65850.7",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65850.7 of the Government Code , as amended by Section 2 of Chapter 607 of the Statutes of 2024, is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The Legislature finds and declares all of the following:",
+    "(1) The implementation of consistent statewide standards to achieve the timely and cost-effective installation of electric vehicle charging stations is not a municipal affair, as that term is used in Section 5 of Article XI of the California Constitution, but is instead a matter of statewide concern. Therefore, this section applies to all cities, including charter cities.",
+    "(2) It is the intent of the Legislature that local agencies not adopt ordinances that create unreasonable barriers to the installation of electric vehicle charging stations and not unreasonably restrict the ability of homeowners and agricultural and business concerns to install electric vehicle charging stations.",
+    "(3) It is the policy of the state to promote and encourage the use of electric vehicle charging stations and to limit obstacles to their use.",
+    "(4) It is the intent of the Legislature that local agencies comply not only with the language of this section, but also the legislative intent to encourage the installation of electric vehicle charging stations by removing obstacles to, and minimizing costs of, permitting for charging stations so long as the action does not supersede the building official’s authority to identify and address higher priority life-safety situations.",
+    "(b) A city, county, or city and county shall administratively approve an application to install an electric vehicle charging station through the issuance of a building permit or similar nondiscretionary permit, including, but not limited to, an electric vehicle charging station with a canopy or onsite energy storage systems sized to support charging. Review of the application to install an electric vehicle charging station shall be limited to the building official’s review of whether it meets all health and safety requirements of local, state, and federal law. The requirements of local law shall be limited to those standards and regulations necessary to ensure that the electric vehicle charging station will not have a specific, adverse impact upon the public health or safety. However, if the building official of the city, county, or city and county makes a finding, based on substantial evidence, that the electric vehicle charging station could have a specific, adverse impact upon the public health or safety, the city, county, or city and county may require the applicant to apply for a use permit.",
+    "(c) A city, county, or city and county may not deny an application for a use permit to install an electric vehicle charging station unless it makes written findings based upon substantial evidence in the record that the proposed installation would have a specific, adverse impact upon the public health or safety, and there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact. The findings shall include the basis for the rejection of potential feasible alternatives of preventing the adverse impact.",
+    "(d) The decision of the building official pursuant to subdivisions (b) and (c) may be appealed to the planning commission of the city, county, or city and county.",
+    "(e) Any conditions imposed on an application to install an electric vehicle charging station shall be designed to mitigate the specific, adverse impact upon the public health or safety at the lowest cost possible.",
+    "(f) (1) An electric vehicle charging station shall meet applicable health and safety standards and requirements imposed by state and local permitting authorities.",
+    "(2) Any electric vehicle supply equipment installed at the electric vehicle charging station shall meet all applicable safety and performance standards established by the California Electrical Code, the Society of Automotive Engineers, the National Electrical Manufacturers Association, and accredited testing laboratories such as Underwriters Laboratories and, where applicable, rules of the Public Utilities Commission regarding safety and reliability, or rules of the Department of Food and Agriculture regarding safety, reliability, weights, and measures.",
+    "(g) (1) (A) On or before September 30, 2016, every city, county, or city and county with a population of 200,000 or more residents, and, on or before September 30, 2017, every city, county, or city and county with a population of less than 200,000 residents, shall, in consultation with the local fire department or district and the utility director, if the city, county, or city and county operates a utility, adopt an ordinance, consistent with the goals and intent of this section, that creates an expedited, streamlined permitting process for electric vehicle charging stations, including any supporting infrastructure necessary for or accessory to the operation of the station. That supporting infrastructure includes, but is not limited to, any paving, concrete pad, utility trench, canopy, or onsite energy storage system sized to support electric vehicle charging.",
+    "(B) In developing an expedited permitting process, the city, county, or city and county shall adopt or amend a checklist of all requirements with which electric vehicle charging stations shall comply to be eligible for expedited review. An application that satisfies the information requirements in the checklist, as determined by the city, county, or city and county, shall be deemed complete. Upon confirmation by the city, county, or city and county of the application and supporting documents being complete and meeting the requirements of the checklist, and consistent with the ordinance, a city, county, or city and county shall, consistent with subdivision (b), approve the application and issue all required permits or authorizations. However, the city, county, or city and county may establish a process to prioritize competing applications for expedited permits. Upon receipt of an incomplete application, a city, county, or city and county shall issue a written correction notice detailing all deficiencies in the application and any additional information required to be eligible for expedited permit issuance. An application submitted to a city, county, or city and county that owns and operates an electric utility shall demonstrate compliance with the utility’s interconnection policies prior to approval.",
+    "(C) Amendments to ordinances and checklists to implement the amendments to this section made by the act that added this subparagraph shall be completed no later than December 31, 2027.",
+    "(2) The checklist and required permitting documentation shall be published on a publicly accessible internet website, if the city, county, or city and county has an internet website, and the city, county, or city and county shall allow for electronic submittal of a permit application and associated documentation, and shall authorize the electronic signature on all forms, applications, and other documentation in lieu of a wet signature by an applicant. In developing the ordinance, the city, county, or city and county may refer to the recommendations contained in the most current version of the “Electric Vehicle Charging Station Permitting Guidebook” published by the Governor’s Office of Business and Economic Development. A city, county, or city and county may adopt an ordinance that modifies the checklists and standards found in the guidebook due to unique climactic, geological, seismological, or topographical conditions. If a city, county, or city and county determines that it is unable to authorize the acceptance of an electronic signature on all forms, applications, and other documents in lieu of a wet signature by an applicant, the city, county, or city and county shall state, in the ordinance required under this subdivision, the reasons for its inability to accept electronic signatures and acceptance of an electronic signature shall not be required.",
+    "(h) A city, county, or city and county shall not condition approval for any electric vehicle charging station permit on the approval of an electric vehicle charging station by an association, as that term is defined in Section 4080 of the Civil Code.",
+    "(i) Nothing in this section or Section 65850.71 shall be construed to limit a local agency’s ability to do either of the following for an electric vehicle charging station and any supporting infrastructure necessary for the operation of the electric vehicle charging station, including, but not limited to, a canopy or onsite energy storage system:",
+    "(1) (A) Require plans or supporting documentation that are necessary to verify the electric vehicle charging station, including supporting infrastructure, meets all health and safety requirements of local, state, and federal law.",
+    "(B) Plan checking and document review for an electric vehicle charging station, including supporting infrastructure necessary for the operation of the electric vehicle charging station, including, but not limited to, a canopy or onsite energy storage system, shall be conducted, completed, and approved in accordance with the expedited, streamlined permitting process established in this section and Section 65850.71.",
+    "(2) Conduct inspections or require the electric vehicle charging station, including supporting infrastructure, as built, to comply with all health and safety requirements of local, state, and federal law.",
+    "(j) The following definitions shall apply to this section:",
+    "(1) “A feasible method to satisfactorily mitigate or avoid the specific, adverse impact” includes, but is not limited to, any cost-effective method, condition, or mitigation imposed by a city, county, or city and county on another similarly situated application in a prior successful application for a permit.",
+    "(2) “Canopy” means an overhead covering structure with a clearance height of 17 feet or less, measured from ground level to the underside of the canopy, a canopy fascia width of 4 feet or less, and a coverage area of 5,000 square feet or less.",
+    "(3) “Electronic submittal” means the utilization of one or more of the following:",
+    "(A) Email.",
+    "(B) The internet.",
+    "(C) Facsimile.",
+    "(4) “Electric vehicle charging station” or “charging station” means a physical site where one or more EVSEs are available for use.",
+    "(5) “Electric vehicle supply equipment” or “EVSE” means a device with one or more charging ports and connectors for charging electric vehicles.",
+    "(6) “Specific, adverse impact” means a significant, quantifiable, direct, and unavoidable impact, based on objective, identified, and written public health or safety standards, policies, or conditions as they existed on the date the application was deemed complete.",
+    "(k) This section shall become operative on January 1, 2030."
+   ],
+   "sec": "65850.7",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65850.71 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The Legislature finds and declares both of the following:",
+    "(1) An electric vehicle charging station has a significant economic impact in California and is not a municipal affair, as that term is used in Section 5 of Article XI of the California Constitution, but is instead a matter of statewide concern. Therefore, this section applies to all cities, including charter cities.",
+    "(2) Table 3 of the Governor’s Office of Business and Economic Development (GO-Biz) Electric Vehicle Charging Station Permitting Guidebook, published July 2019, recommends best practices for electric vehicle supply equipment permitting that would establish a 15-day timeline and satisfy the intent of Assembly Bill 1236 (Chapter 598 of the Statutes of 2015).",
+    "(b) (1) An application to install an electric vehicle charging station submitted to the building official of a city, county, or city and county shall be deemed complete if, after the applicable time period described in paragraph (2) has elapsed, both of the following are true:",
+    "(A) The building official of the city, county, or city and county has not deemed the application complete, consistent with the checklist adopted by the city, county, or city and county pursuant to subdivision (g) of Section 65850.7, or if none has been adopted, consistent with the information listed in subdivision (f).",
+    "(B) The building official of the city, county, or city and county has not issued a written correction notice detailing all deficiencies in the application and identifying any additional information explicitly necessary for the building official to complete a review limited to whether the electric vehicle charging station meets all health and safety requirements of local, state, and federal law, consistent with subdivisions (b) and (g) of Section 65850.7.",
+    "(2) For purposes of paragraph (1), “applicable time period means” either of the following:",
+    "(A) Five business days after submission of the application to the city, county, or city and county, if the application is for at least 1, but not more than 25 EVSEs at a single site.",
+    "(B) Ten business days after submission of the application to the city, county, or city and county, if the application is for more than 25 EVSEs at a single site.",
+    "(c) (1) Notwithstanding subdivision (g), an application to install an electric vehicle charging station shall be deemed approved, with no notice or public hearing required, if the applicable time period described in paragraph (2) has elapsed and all of the following are true:",
+    "(A) The building official of the city, county, or city and county has not administratively approved the application pursuant to subdivision (b) of Section 65850.7.",
+    "(B) The building official of the city, county, or city and county has not made a finding, based on substantial evidence, that the electric vehicle charging station could have a specific adverse impact upon the public health or safety or required the applicant to apply for a use permit pursuant to subdivision (b) of Section 65850.7.",
+    "(C) The building official of the city, county, or city and county has not denied the permit pursuant to subdivision (c) of Section 65850.7.",
+    "(D) An appeal has not been made to the planning commission of the city, county, or city and county, pursuant to subdivision (d) of Section 65850.7.",
+    "(2) For purposes of paragraph (1), “applicable time period means” either of the following:",
+    "(A) Twenty business days after the application was deemed complete, if the application is for at least 1, but not more than 25 EVSEs at a single site.",
+    "(B) Forty business days after the application was deemed complete, if the application is for more than 25 EVSEs at a single site.",
+    "(d) If an electric vehicle charging station and any associated equipment interfere with, reduce, eliminate, or in any way impact the required parking spaces for existing uses, the city, county, or city and county shall reduce the number of required parking spaces for the existing uses by the amount necessary to accommodate the electric vehicle charging station and any associated equipment.",
+    "(e) If the electric vehicle charging station is being installed in an area that receives electrical service from a local publicly owned electric utility, this section does not expand or restrict the local publicly owned electric utility’s role and responsibility in providing new electric service to the electric vehicle charging station in a manner consistent with safety, reliability, and engineering requirements.",
+    "(f) (1) If a city, county, or city and county has not adopted or amended an ordinance or checklist pursuant to subdivision (g) of Section 65850.7, an application to install an electric vehicle charging station shall contain all of the following information about the proposed project to the building official of the city, county, or city and county:",
+    "(A) The specific location, including parcel numbers, a legal description, and site address, if applicable.",
+    "(B) The number of EVSE units proposed to be installed.",
+    "(C) Contact information for the applicant and the property owner.",
+    "(D) The proposed input and output voltage or, if applicable, the voltage range for each proposed EVSE model.",
+    "(E) The maximum output power of each proposed EVSE model in kilowatts.",
+    "(F) The manufacturer and model number of each proposed EVSE model.",
+    "(G) The system voltage or, if applicable, voltages for the electric vehicle charging station project.",
+    "(H) The rating of existing main electrical service equipment in amperes.",
+    "(I) The rating of circuit for EVSE in volts, amperes, and poles.",
+    "(J) The ampere-interrupting capacity for EVSE circuit breakers.",
+    "(K) The connected load, calculated load, or demand load of existing panel supplying EVSE in amperes.",
+    "(L) Total existing load plus total new EVSE load in amperes.",
+    "(M) Maximum site grade in percentages.",
+    "(N) If present, canopy area in square feet, canopy clearance height in feet, and total canopy height in feet.",
+    "(O) If proposed, the total energy capacity in kilowatthours of any onsite energy storage system supporting EVSE.",
+    "(P) Documentation demonstrating compliance with the requirements of subdivisions (b) and (f) of Section 65850.7, as applicable.",
+    "(2) Paragraph (1) shall also apply in cases where the ordinance or checklist have not been amended, whether before or after December 31, 2027, to implement the changes described in subparagraph (C) of paragraph (1) of subdivision (g) of Section 65850.7.",
+    "(3) (A) The Governor’s Office of Business and Economic Development shall adopt a standardized form that applicants for electric vehicle charging stations may use for purposes of satisfying the requirements for submittal specified in paragraph (1).",
+    "(B) The Governor’s Office of Business and Economic Development shall also develop and publicly post a template that applicants may use to document their application’s compliance with subdivisions (b) and (c) and submit to the applicable city, county, or city and county. However, submittal of this document is voluntary and is not a prerequisite for the requirements of subdivision (g) to apply.",
+    "(g) No later than 30 days after an application has been deemed approved pursuant to subdivision (c), the applicable city, county, or city and county shall provide written notice to the applicant of the date the application was deemed approved in accordance with paragraph (1) of subdivision (c) and identify all permits and authorizations that have been granted accordingly. An applicant may proceed with construction of the project described in a deemed approved application prior to receipt of this letter.",
+    "(h) For purposes of this section, “EVSE” has the same meaning as defined in Section 65850.7.",
+    "(i) (1) This section shall become operative on January 1, 2022, but for every city, county, or city and county with a population of less than 200,000 residents, this section shall apply beginning on January 1, 2023.",
+    "(2) The amendments made by the act that added this paragraph shall become operative on January 1, 2027."
+   ],
+   "sec": "65850.71",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Electric vehicle charging stations: installation: permits.",
+ "title": "An act to amend Sections 65850.7 and 65850.71 of the Government Code, relating to electric vehicle charging stations.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB128399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-23",
+   "id": "20250SB128398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-08",
+   "id": "20250SB128397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-23",
+   "id": "20250SB128396AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-05-14",
+   "id": "20250SB128395AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-19",
+   "id": "20250SB128394AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-27",
+   "id": "20250SB128393ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-20",
+   "id": "20250SB128392CHP",
+   "num": "92"
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bryan",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Stefani",
+   "primary": false
+  }
+ ],
+ "bill": "AB1573",
+ "bill_id": "202520260AB1573",
+ "chapter": {
+  "num": "524",
+  "year": "2026"
+ },
+ "digest": [
+  "The Planning and Zoning Law requires a city or county to adopt a general plan for land use development that includes, among other things, a housing element containing specified information, including an analysis of its special housing, emergency shelter, and supportive housing needs, as defined. Existing law defines the term “target population” for purposes of requirements applicable to the housing element to include certain persons, including persons with low incomes who have one or more disabilities and individuals eligible for specified developmental disability services.",
+  "This bill, the Unseen and Unheard Housing Act, would provide that the definition of the term “target population” for the purposes of requirements applicable to the housing element, as described above, may include victims of domestic violence, victims of sexual assault, and victims of human trafficking, as specified."
+ ],
+ "hash": "88e7bbb4d18a1dfb",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-01-12"
+  },
+  {
+   "action": "From printer. May be heard in committee February 12.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-02-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-03-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (March 25). Re-referred to Com. on L. GOV.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "From committee: Do pass. To Consent Calendar. (Ayes 10. Noes 0.) (April 22).",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 73. Noes 0. Page 4918.)",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-05"
+  },
+  {
+   "action": "Referred to Com. on HOUSING.",
+   "date": "2026-05-13"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 10. Noes 0.) (June 10).",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0.).",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0. Page 6400.).",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3:30 p.m.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-27"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 524, Statutes of 2026.",
+   "date": "2026-09-27"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-27",
+  "id": "20250AB157395CHP",
+  "num": "95"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65582 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "As used in this article, the following definitions apply unless specified otherwise:",
+    "(a) “Above moderate income” means income exceeding the moderate-income level described in Section 50093 of the Health and Safety Code.",
+    "(b) “Acutely low income” has the same meaning as in Section 50063.5 of the Health and Safety Code.",
+    "(c) “All income levels” or “all household income levels” means lower income, moderate income, and above moderate income levels.",
+    "(d) “Community,” “locality,” “local government,” or “jurisdiction” means a city, city and county, or county.",
+    "(e) “Council of governments” means a single or multicounty council created by a joint powers agreement pursuant to Chapter 5 (commencing with Section 6500) of Division 7 of Title 1.",
+    "(f) “Department” means the Department of Housing and Community Development.",
+    "(g) “Emergency shelter” has the same meaning as defined in subdivision (e) of Section 50801 of the Health and Safety Code.",
+    "(h) “Extremely low income” means the income for households exceeding the income limit for acutely low income households, as defined in this section, and does not exceed the limit for extremely low income households, as defined in Section 50106 of the Health and Safety Code.",
+    "(i) “Frequent user coordinated care housing services” means housing combined with other supportive services for homeless persons identified by a city or county as the most costly, frequent users of publicly funded emergency services.",
+    "(j) “Housing element” or “element” means the housing element of the community’s general plan, as required pursuant to this article and subdivision (c) of Section 65302.",
+    "(k) “Low income” means the income for households exceeding the income limit for very low income households, as defined in this section, and does not exceed the income limit for lower income households, as defined in subdivision (a) of Section 50079.5 of the Health and Safety Code.",
+    "(l) “Lower income” means income that is low income, very low income, extremely low income, or acutely low income.",
+    "(m) “Moderate income” means the income for households exceeding the limit for lower income households, as defined in this section, and does not exceed the income limit for moderate-income households, as defined in Section 50093 of the Health and Safety Code.",
+    "(n) “Supportive housing” means housing with no limit on length of stay, that is occupied by the target population, and that is linked to an onsite or offsite service that assists the supportive housing resident in retaining the housing, improving their health status, and maximizing their ability to live and, when possible, work in the community.",
+    "(o) “Supportive services” include, but are not limited to, a combination of subsidized, permanent housing, intensive case management, medical and mental health care, substance abuse treatment, employment services, and benefits advocacy.",
+    "(p) “Target population” means persons with low incomes who have one or more disabilities, including mental illness, HIV or AIDS, substance abuse, or other chronic health conditions, or individuals eligible for services provided pursuant to the Lanterman Developmental Disabilities Services Act (Division 4.5 (commencing with Section 4500) of the Welfare and Institutions Code), and may include, among other populations, adults, emancipated minors, families with children, elderly persons, young adults aging out of the foster care system, individuals exiting from institutional settings, veterans, victims of domestic violence, as defined in Section 6211 of the Family Code, victims of crimes involving sexual assault, as described in Section 261, 261.5, 286, 287, or 289 of the Penal Code, or victims of human trafficking, as that crime is described in Section 236.1 of the Penal Code, and homeless people.",
+    "(q) “Transitional housing” means buildings configured as rental housing developments, but operated under program requirements that require the termination of assistance and recirculating of the assisted unit to another eligible program recipient at a predetermined future point in time that shall be no less than six months from the beginning of the assistance.",
+    "(r) “Very low income” means income for households exceeding the income limit for extremely low income households, as defined in this section, and does not exceed the income limit for very low income households, as defined in Section 50105 of the Health and Safety Code."
+   ],
+   "sec": "65582",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Land use: housing elements: target population.",
+ "title": "An act to amend Section 65582 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-01-12",
+   "id": "20250AB157399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-16",
+   "id": "20250AB157398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-01",
+   "id": "20250AB157397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-26",
+   "id": "20250AB157396ENR",
+   "num": "96"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-27",
+   "id": "20250AB157395CHP",
+   "num": "95"
+  }
+ ]
+}

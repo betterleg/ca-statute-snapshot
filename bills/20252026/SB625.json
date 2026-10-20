@@ -1,0 +1,284 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wahab",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Richardson",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Archuleta",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Caballero",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Cervantes",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Cortese",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Pérez",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Reyes",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Umberg",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Laird",
+   "primary": false
+  }
+ ],
+ "bill": "SB625",
+ "bill_id": "202520260SB625",
+ "chapter": {
+  "num": "548",
+  "year": "2025"
+ },
+ "digest": [
+  "(1) Existing law, the Davis-Stirling Common Interest Development Act, governs the management and operation of common interest developments. Existing law makes any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that either effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use, as specified, void and unenforceable. If the governing documents require association approval before a member may make a physical change to the member’s separate interest or to the common area, existing law requires an association to satisfy specified requirements, including to provide a fair, reasonable, and expeditious procedure for making its decision in reviewing and approving or disapproving a proposed physical change, as described above.",
+  "This bill would make any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument, and any provision of a governing document, void and unenforceable to the extent that it prohibits, or includes conditions that have the effect of prohibiting, a substantially similar reconstruction of a residential structure, as specified, that was destroyed or damaged in a disaster, as defined. The bill would require a court to award reasonable attorney’s fees to the owner of a separate interest in a common interest development who prevails in an action to enforce the above-described provisions.",
+  "This bill would require any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument, and any provision of a governing document that subjects a substantially similar reconstruction of a residential structure that was destroyed or damaged in a disaster to review by a body to be processed and approved, as specified. The bill would defined various terms for these purposes. The bill would require the body to, among other things, determine whether an application is complete or incomplete and to provide written notice of this determination to the applicant no later than 30 calendar days after the body receives the application. Once an application is deemed complete, the bill would require the body to conduct any review of the proposed modification to the separate interest within 45 calendar days, as specified. If a body finds that a complete application is noncompliant, the bill would require the body to provide the applicant with a list of items that are noncompliant and a description of how the application can be remedied by the applicant, as described. If an application is determined to be incomplete or noncompliant, the bill would require the body to provide a process for the applicant to appeal that decision, as specified. The bill would require a court to award reasonable attorney’s fees to the applicant who prevails in an action to enforce the above-described provisions.",
+  "(2) Existing law, the Planning and Zoning Law, authorizes a development proponent to submit an application for a development that is subject to a specified streamlined, ministerial approval process if the development satisfies certain objective planning standards and certain procedures are followed, including that the proponent of the development project requires in contracts with construction contractors that specified standards will be met in project construction, as specified. Existing law requires the proponent of the development project to make a specified certification that certain labor standards will be met and requires the prime contractor to provide an affidavit under penalty of perjury, as specified.",
+  "This bill would authorize a housing development proponent to submit an application for a housing development that is subject to a specified streamlined, ministerial approval process if the housing development satisfies certain objective standards, including that the housing development is located on a parcel on which a residential structure was destroyed or damaged in a disaster. The bill would require a local government to approve the development within 90 days of the submittal of the development if the local government’s planning director or equivalent position determines that the development is consistent with specified objective planning standards. If the development is determined to be in conflict with those standards, the bill would require the local government staff or relevant local planning and permitting department that made the determination to provide the development proponent written documentation of which standard or standards the development conflicts with, and an explanation for the reason or reasons the development conflicts with that standard or standards, as specified. By mandating a higher level of service on local agencies, this bill would impose a state-mandated local program. The bill would provide that an ordinance that precludes specified placements and uses of manufactured homes, mobilehomes, or recreational vehicles for use during the reconstruction or repair of any home damaged or destroyed in a disaster is unenforceable for a period of 3 years following the disaster declaration. The bill would require the housing development proponent to comply with certain labor standards, including that the housing development proponent will comply with the above-described labor standards, including the requirements that the development proponent make the specified certification and that the prime contractor provide an affidavit under penalty of perjury.",
+  "By imposing certification and penalty of perjury requirements, this bill would expand the crime of perjury, thereby imposing a state-mandated local program.",
+  "(3) Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment, or to adopt a negative declaration if it determines that the project would not have that effect, as provided. CEQA does not apply to the approval of ministerial projects.",
+  "This bill would provide that its streamlined, ministerial approval process for a housing development, as described above, offers an optional streamlined, ministerial approval process and does not affect the availability, applicability, or use of any other exemption from CEQA. To the extent that the streamlined, ministerial review process established by the bill would apply to the approval of a housing development that would otherwise be discretionary, the bill would expand the exemption for the ministerial approval of projects under CEQA.",
+  "(4) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(5) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "hash": "5b254ec700962870",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "Re-referred to Coms. on HOUSING and JUD.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-04-07"
+  },
+  {
+   "action": "Set for hearing April 29 in JUD. pending receipt.",
+   "date": "2025-04-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 11. Noes 0. Page 832.) (April 22). Re-referred to Com. on JUD.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0. Page 942.) (April 29). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Set for hearing May 12.",
+   "date": "2025-05-02"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-13"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 1454.) Ordered to the Assembly.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and JUD.",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "date": "2025-06-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 12. Noes 0.) (July 2). Re-referred to Com. on JUD.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (July 15).",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (August 20).",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 78. Noes 0. Page 2985.) Ordered to the Senate.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 2743.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-17"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 548, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB62592CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Chapter 4.2.2 (commencing with Section 65914.200) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this chapter, “disaster” means a declared disaster or state of emergency, including, but not limited to, any of the following:",
+    "(1) A state of disaster or emergency declared by the federal government.",
+    "(2) A state of emergency proclaimed by the Governor pursuant to Section 8625.",
+    "(3) A local emergency proclaimed by a local governing body or official pursuant to Section 8630.",
+    "(b) The Legislature finds and declares that this chapter addresses a matter of statewide concern rather than a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this chapter applies to all cities, including charter cities."
+   ],
+   "sec": "65914.200",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing developments: disasters: reconstruction of destroyed or damaged structures.",
+ "title": "An act to add Sections 4752 and 4766 to the Civil Code, and to add Chapter 4.2.2 (commencing with Section 65914.200) to Division 1 of Title 7 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250SB62599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-26",
+   "id": "20250SB62598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-07",
+   "id": "20250SB62597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-23",
+   "id": "20250SB62596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-17",
+   "id": "20250SB62595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-02",
+   "id": "20250SB62594AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250SB62593ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB62592CHP",
+   "num": "92"
+  }
+ ]
+}

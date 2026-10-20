@@ -1,0 +1,346 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hoover",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Seyarto",
+   "primary": false
+  }
+ ],
+ "bill": "AB2118",
+ "bill_id": "202520260AB2118",
+ "chapter": {
+  "num": "579",
+  "year": "2026"
+ },
+ "digest": [
+  "The Affordable Housing and High Road Jobs Act of 2022, until January 1, 2033, authorizes a development proponent to submit an application for a mixed-income housing development along a commercial corridor that satisfies specified site criteria, affordability criteria, and objective development standards, and deems a housing development that meets those requirements a use by right and subject to streamlined, ministerial review. Existing law prohibits the objective standards from precluding a development from being built at specified residential density required and from requiring the development to reduce unit size to meet the objective standards.",
+  "This bill would also prohibit the objective standards from prohibiting or otherwise limiting mixed-use development, as defined, in a housing development project. By changing the criteria local agencies must follow for the approval of certain development projects, the bill would impose a state-mandated local program.",
+  "The Affordable Housing and High Road Jobs Act of 2022 defines various terms for purposes of the act.",
+  "This bill would make nonsubstantive changes to those definition provisions.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "f9ccf3a9fef5fc5b",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be heard in committee March 21.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and NAT. RES.",
+   "date": "2026-03-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on NAT. RES. (Ayes 12. Noes 0.) (April 8). Re-referred to Com. on NAT. RES.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (April 20).",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-04-28"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 6).",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-07"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 73. Noes 1. Page 5440.)",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-28"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and L. GOV.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 10. Noes 0.) (June 16). Re-referred to Com. on L. GOV.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (June 23).",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2026-08-04"
+  },
+  {
+   "action": "From Consent Calendar.",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 74. Noes 1. Page 6781.).",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3:30 p.m.",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-27"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 579, Statutes of 2026.",
+   "date": "2026-09-27"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-27",
+  "id": "20250AB211894CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65912.101 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this chapter:",
+    "(a) “Base units” has the same meaning as “total units” as defined in subparagraph (A) of paragraph (8) of subdivision (o) of Section 65915.",
+    "(b) “Campus development zone” means the set of parcels that are contained either wholly or partially within a one-half mile radius of a “main campus,” as defined by Section 94849 of the Education Code, of the University of California, the California State University, or the California Community Colleges.",
+    "(c) “Commercial corridor” means a street that is not a freeway and that has a right-of-way of at least 70 and not greater than 150 feet.",
+    "(d) “Development proponent” means a developer who submits a housing development project application to a local government under the streamlined, ministerial review process pursuant to this chapter.",
+    "(e) “Extremely low income faculty or staff” means an employee of the University of California, the California State University, or the California Community Colleges who satisfies the requirements of Section 50106 of the Health and Safety Code.",
+    "(f) “Extremely low income households” has the same meaning as defined in Section 50106 of the Health and Safety Code.",
+    "(g) “Freeway” has the same meaning as defined in Section 332 of the Vehicle Code, except it does not include the portion of a freeway that is an on ramp or off ramp that serves as a connector between the freeway and other roadways that are not freeways.",
+    "(h) “Health care expenditures” include contributions under Sections 501(c) or (d) or 401(a) of the Internal Revenue Code and payments toward “medical care” as defined under Section 213(d)(1) of the Internal Revenue Code.",
+    "(i) “Housing development project” has the same meaning as defined in Section 65589.5.",
+    "(j) “Industrial use” means utilities, manufacturing, transportation storage and maintenance facilities, warehousing uses, and any other use that is a source that is subject to permitting by a district, as defined in Section 39025 of the Health and Safety Code, pursuant to Division 26 (commencing with Section 39000) of the Health and Safety Code or the federal Clean Air Act (42 U.S.C. Sec. 7401 et seq.). “Industrial use” does not include any of the following:",
+    "(1) Power substations or utility conveyances such as power lines, broadband wires, and pipes.",
+    "(2) A use where the only source permitted by a district is an emergency backup generator.",
+    "(3) Self-storage for the residents of a building.",
+    "(k) “Local affordable housing requirement” means either of the following:",
+    "(1) A local government requirement, as a condition of development of residential units, that a housing development project include a certain percentage of units affordable to, and occupied by, extremely low, very low, lower, or moderate-income households as a condition of development of residential units.",
+    "(2) A local government requirement allowing a housing development project to be a use by right if the project includes a certain percentage of units affordable to, and occupied by, extremely low, very low, lower, or moderate-income households as a condition of development of residential units.",
+    "(l) “Local government” means a city, including a charter city, a county, including a charter county, or a city and county, including a charter city and county.",
+    "(m) “Lower income faculty or staff” means an employee of the University of California, the California State University, or the California Community Colleges who satisfies the requirements of Section 50079.5 of the Health and Safety Code.",
+    "(n) “Lower income households” has the same meaning as defined in Section 50079.5 of the Health and Safety Code.",
+    "(o) (1) “Lower income student” means any of the following:",
+    "(A) A student who has a household income and asset level that does not exceed either of the following:",
+    "(i) The level for Cal Grant A or Cal Grant B award recipients as set forth in subdivision (k) of Section 69432.7 of the Education Code.",
+    "(ii) The level for the California College Promise Grant as set forth in clause (ii) of subparagraph (B) of paragraph (1) of subdivision (g) of Section 76300 of the Education Code.",
+    "(B) A student who otherwise qualifies for the California College Promise Grant as set forth in subparagraph (B) of paragraph (1) of subdivision (g) of Section 76300 of the Education Code.",
+    "(C) A student who qualifies for Federal Pell Grant financial aid pursuant to Section 1070a of Title 20 of the United States Code.",
+    "(D) A student who qualifies for an exemption from paying nonresident tuition pursuant to Section 68130.5 of the Education Code, provided that the student also meets income criteria in subparagraph (A) or (B).",
+    "(E) A graduate student with income and asset levels that would qualify for one or more of the benefits in subparagraphs (A) to (D), inclusive, as determined by the campus at which the student is enrolled.",
+    "(2) The eligibility of a student to occupy a unit for lower income students under this subdivision shall be verified by an affidavit, award letter, or letter of eligibility demonstrating that the student is eligible for financial aid, including an institutional grant or fee waiver, provided by the institution of higher education in which the student is enrolled, by the Student Aid Commission, or by the federal government.",
+    "(p) “Major transit stop” has the same meaning as defined in subdivision (b) of Section 21155 of the Public Resources Code.",
+    "(q) “Minimum efficiency reporting value” or “MERV” means the measurement scale developed by the American Society of Heating, Refrigerating and Air-Conditioning Engineers used to report the effectiveness of air filters.",
+    "(r) “Moderate-income households” means households of persons and families of moderate income, as defined in Section 50093 of the Health and Safety Code.",
+    "(s) “Multifamily” means a property with five or more housing units for sale or for rent.",
+    "(t) “Neighborhood plan” means a specific plan adopted pursuant to Article 8 (commencing with Section 65450) of Chapter 3, an area plan, precise plan, community plan, urban village plan, or master plan. To qualify as a neighborhood plan, the plan must have been adopted by a local government before January 1, 2024, and within 25 years of the date that a development proponent submits an application pursuant to this chapter. A neighborhood plan does not include a community plan or plans where the cumulative area covered by the community plans in the jurisdiction is more than one-half of the area of the jurisdiction.",
+    "(u) “Principally permitted use” means a use that, as of January 1, 2023, or thereafter, may occupy more than one-third of the square footage of designated use on the site and does not require a conditional use permit, except that parking uses are considered principally permitted whether or not they require a conditional use permit.",
+    "(v) “Regional mall” means a site that meets all of the following criteria on the date that a development proponent submits an application pursuant to this chapter:",
+    "(1) The permitted uses on the site include at least 250,000 square feet of retail use.",
+    "(2) At least two-thirds of the permitted uses on the site are retail uses.",
+    "(3) At least two of the permitted retail uses on the site are at least 10,000 square feet.",
+    "(w) “Street” has the same meaning as defined in Section 590 of the Vehicle Code, and includes sidewalks, as defined in Section 555 of the Vehicle Code.",
+    "(x) “Urban uses” means any current or former residential, commercial, public institutional, public park that is surrounded by other urban uses, parking lot or structure, transit or transportation passenger facility, or retail use, or any combination of those uses.",
+    "(y) “Use by right” means a development project for which both of the following are true:",
+    "(1) The development project is not subject to a conditional use permit, planned unit development permit, or any other discretionary local government approval, permit, or review process.",
+    "(2) Any aspect of the development project, including any permits required for the development project, is not a “project” for purposes of Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(z) “Very low income faculty or staff” means an employee of the University of California, the California State University, or the California Community Colleges who satisfies the requirements of Section 50105 of the Health and Safety Code.",
+    "(aa) “Very low income households” has the same meaning as defined in Section 50105 of the Health and Safety Code.",
+    "(ab) “Very low vehicle travel area” has the same meaning as defined in paragraph (6) of subdivision (b) of Section 65589.5.1."
+   ],
+   "sec": "65912.101",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65912.123 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "A development project shall not be subject to the streamlined, ministerial review process provided by Section 65912.124 unless the development project meets all of the following objective development standards:",
+    "(a) The development shall be a multifamily housing development project.",
+    "(b) The residential density for the development, prior to the award of any eligible density bonus pursuant to Section 65915, shall be determined as follows:",
+    "(1) In a metropolitan jurisdiction, as determined pursuant to subdivisions (d) and (e) of Section 65583.2, the allowable residential density for the development shall be the greater of the following:",
+    "(A) The maximum allowable residential density, as defined in paragraph (6) of subdivision (o) of Section 65915, allowed on the parcel by the local government.",
+    "(B) For sites of less than one acre in size, 30 units per acre.",
+    "(C) For sites of one acre in size or greater located on a commercial corridor of less than 100 feet in width, 40 units per acre.",
+    "(D) For sites of one acre in size or greater located on a commercial corridor of 100 feet in width or greater, 60 units per acre.",
+    "(E) Notwithstanding subparagraph (B), (C), or (D), for sites within a very low vehicle travel area, within one-half mile of a major transit stop, or within a campus development zone, 80 units per acre.",
+    "(2) In a jurisdiction that is not a metropolitan jurisdiction, as determined pursuant to subdivisions (d) and (e) of Section 65583.2, the allowable residential density for the development shall be the greater of the following:",
+    "(A) The maximum allowable residential density, as defined in paragraph (6) of subdivision (o) of Section 65915, allowed on the parcel by the local government.",
+    "(B) For sites of less than one acre in size, 20 units per acre.",
+    "(C) For sites of one acre in size or greater located on a commercial corridor of less than 100 feet in width, 30 units per acre.",
+    "(D) For sites of one acre in size or greater located on a commercial corridor of 100 feet in width or greater, 50 units per acre.",
+    "(E) Notwithstanding subparagraph (B), (C), or (D), for sites within a very low vehicle travel area, within one-half mile of a major transit stop, or within a campus development zone, 70 units per acre.",
+    "(3) (A) For a housing development project application that has been determined to be consistent with the objective planning standards specified in this article, pursuant to subdivision (a) of Section 65912.124, before January 1, 2027, the development project shall be developed at a density as follows:",
+    "(i) Except as provided in clause (ii), 50 percent or greater of the applicable allowable residential density contained in subparagraphs (B) to (E), inclusive, of paragraph (1) or subparagraphs (B) to (E), inclusive, of paragraph (2), as applicable.",
+    "(ii) For a site within one-half mile of an existing passenger rail or bus rapid transit station, 75 percent or greater of the applicable allowable residential density contained in subparagraphs (B) to (E), inclusive, of paragraph (1) or subparagraphs (B) to (E), inclusive, of paragraph (2), as applicable.",
+    "(iii) For a site within a campus development zone, 75 percent or greater of the applicable allowable residential density contained in subparagraph (E) of paragraph (2).",
+    "(B) For a housing development project application that has been determined to be consistent with the objective planning standards specified in this article, pursuant to subdivision (a) of Section 65912.124, on or after January 1, 2027, the development project shall be developed at a density that is 75 percent or greater of the applicable allowable residential density contained in subparagraphs (B) to (E), inclusive, of paragraph (1) or subparagraphs (B) to (E), inclusive, of paragraph (2), as applicable.",
+    "(4) Notwithstanding paragraphs (1) and (2), a development project shall not be subject to any density limitation if the development project is a conversion of existing buildings into residential use, unless the development project includes additional new square footage that is more than 20 percent of the overall square footage of the project.",
+    "(c) The height limit applicable to the housing development shall be the greater of the following:",
+    "(1) The height allowed on the parcel by the local government.",
+    "(2) For sites on a commercial corridor of less than 100 feet in width, 35 feet.",
+    "(3) For sites on a commercial corridor of 100 feet in width or greater, 45 feet.",
+    "(4) Notwithstanding paragraphs (2) and (3), 65 feet for sites that meet all of the following criteria:",
+    "(A) They are within one-half mile of a major transit stop.",
+    "(B) They are within a city with a population of greater than 100,000.",
+    "(C) They are not within a coastal zone, as defined in Division 20 (commencing with Section 30000) of the Public Resources Code.",
+    "(5) For sites in a campus development zone, either of the following:",
+    "(A) Forty-five feet, if not located in a metropolitan jurisdiction, as determined pursuant to subdivisions (d) and (e) of Section 65583.2.",
+    "(B) Sixty-five feet, if located in a metropolitan jurisdiction, as determined pursuant to subdivisions (d) and (e) of Section 65583.2.",
+    "(d) The development project meets the following standards:",
+    "(1) For the portion of the property that fronts a commercial corridor or for a property in a campus development zone, the following shall occur:",
+    "(A) No setbacks shall be required.",
+    "(B) All aboveground parking must be set back at least 25 feet.",
+    "(C) On the ground floor, a building or buildings must abut within 10 feet of the street for at least 80 percent of the frontage.",
+    "(2) For the portion of the property that abuts an adjoining property that also abuts the same commercial corridor as the property, no setbacks are required unless the adjoining property contains a residential use that was constructed prior to the enactment of this chapter, in which case the requirements of subparagraph (A) of paragraph (3) apply.",
+    "(3) For the portion of the property line that does not abut or lie within a commercial corridor, or an adjoining property that also abuts the same commercial corridor as the property, the following shall occur:",
+    "(A) Along property lines that abut a property that contains a residential use, the following shall occur:",
+    "(i) The ground floor of the development project shall be set back at 10 feet. The amount required to be set back may be decreased by the local government.",
+    "(ii) Starting with the second floor of the property, each subsequent floor of the development project shall be stepped back in an amount equal to seven feet multiplied by the floor number. For purposes of this paragraph, the ground floor counts as the first floor. The amount required to be stepped back may be decreased by the local government.",
+    "(B) Along property lines that abut a property that does not contain a residential use, the development shall be set back 15 feet. The amount required to be stepped back may be decreased by the local government.",
+    "(4) For a development project at a regional mall, all of the following requirements apply:",
+    "(A) The average size of a block shall not exceed three acres. For purposes of this subparagraph, a “block” means an area fully surrounded by streets, pedestrian paths, or a combination of streets and pedestrian paths that are each at least 40 feet in width.",
+    "(B) At least 5 percent of the site shall be dedicated to open space.",
+    "(C) For the portion of the property that fronts a street that is newly created by the project and is not a commercial corridor, a building shall abut within 10 feet of the street for at least 60 percent of the frontage.",
+    "(e) No parking shall be required, including replacement parking, except that this article shall not reduce, eliminate, or preclude the enforcement of any requirement imposed on a new multifamily residential or nonresidential development to provide bicycle parking, electric vehicle supply equipment installed parking spaces, or parking spaces that are accessible to persons with disabilities that would have otherwise applied to the development if this article did not apply.",
+    "(f) For any housing on the site located within 500 feet of a freeway, all of the following shall apply:",
+    "(1) The building shall have a centralized heating, ventilation, and air-conditioning system.",
+    "(2) The outdoor air intakes for the heating, ventilation, and air-conditioning system shall face away from the freeway.",
+    "(3) The building shall provide air filtration media for outside and return air that provide a minimum efficiency reporting value of 16.",
+    "(4) The air filtration media shall be replaced at the manufacturer’s designated interval.",
+    "(5) The building shall not have any balconies facing the freeway.",
+    "(g) None of the housing on the site is located within 3,200 feet of a facility that actively extracts or refines oil or natural gas.",
+    "(h) (1) The development proponent shall provide written notice of the pending application to each commercial tenant on the parcel when the application is submitted.",
+    "(2) The development proponent shall provide relocation assistance to each eligible commercial tenant located on the site as follows:",
+    "(A) For a commercial tenant operating on the site for at least one year but less than five years, the relocation assistance shall be equivalent to six months’ rent.",
+    "(B) For a commercial tenant operating on the site for at least 5 years but less than 10 years, the relocation assistance shall be equivalent to nine months’ rent.",
+    "(C) For a commercial tenant operating on the site for at least 10 years but less than 15 years, the relocation assistance shall be equivalent to 12 months’ rent.",
+    "(D) For a commercial tenant operating on the site for at least 15 years but less than 20 years, the relocation assistance shall be equivalent to 15 months’ rent.",
+    "(E) For a commercial tenant operating on the site for at least 20 years, the relocation assistance shall be equivalent to 18 months’ rent.",
+    "(3) The relocation assistance shall be provided to an eligible commercial tenant upon expiration of the lease of that commercial tenant.",
+    "(4) For purposes of this subdivision, a commercial tenant is eligible for relocation assistance if the commercial tenant meets all of the following criteria:",
+    "(A) The commercial tenant is an independently owned and operated business with its principal office located in the county in which the property on the site that is leased by the commercial tenant is located.",
+    "(B) The commercial tenant’s lease expired and was not renewed by the property owner.",
+    "(C) The commercial tenant’s lease expired within the three years following the development proponent’s submission of the application for a housing development pursuant to this article.",
+    "(D) The commercial tenant employs 20 or fewer employees and has annual average gross receipts under one million dollars ($1,000,000) for the three-taxable-year period ending with the taxable year that precedes the expiration of their lease.",
+    "(E) The commercial tenant is still in operation on the site at the time of the expiration of its lease.",
+    "(5) Notwithstanding paragraph (4), for purposes of this subdivision, a commercial tenant is ineligible for relocation assistance if the commercial tenant meets both of the following criteria:",
+    "(A) The commercial tenant entered into a lease on the site after the development proponent’s submission of the application for a housing development pursuant to this article.",
+    "(B) The commercial tenant had not previously entered into a lease on the site.",
+    "(6) (A) The commercial tenant shall utilize the funds provided by the development proponent to relocate the business or for costs of a new business.",
+    "(B) Notwithstanding paragraph (2), if the commercial tenant elects not to use the funds provided as required by subparagraph (A), the development proponent shall provide only assistance equal to three months’ rent, regardless of the duration of the commercial tenant’s lease.",
+    "(7) For purposes of this subdivision, monthly rent is equal to one-twelfth of the total amount of rent paid by the commercial tenant in the last 12 months.",
+    "(i) For any project that is the conversion of an existing building for nonresidential use building to residential use, the local government shall not require the provision of common open space beyond what is required for the existing project site.",
+    "(j) Objective zoning standards, objective subdivision standards, and objective design review standards not specified elsewhere in this section, as follows:",
+    "(1) The applicable objective standards shall be those for the closest zone in the city, county, or city and county that allows multifamily residential use at the residential density proposed by the project. If no zone exists that allows the residential density proposed by the project, the applicable objective standards shall be those for the zone that allows the greatest density within the city, county, or city and county.",
+    "(2) The applicable objective standards shall be those in effect at the time that the development application is submitted to the local government pursuant to this article.",
+    "(3) The objective standards shall not do any of the following:",
+    "(A) Preclude a development from being built at the residential density required pursuant to subdivision (b).",
+    "(B) Require the development to reduce unit size to meet the objective standards.",
+    "(C) (i) Prohibit or otherwise limit mixed-use development in a housing development project.",
+    "(ii) For the purposes of this subparagraph, “mixed-use development” means a mix of residential and any of the following uses:",
+    "(I) Office, retail, or restaurant uses.",
+    "(II) Uses authorized by the zoning standards applicable to the parcel.",
+    "(4) The applicable objective standards may include a requirement that up to one-half of the ground floor of the housing development project be dedicated to retail use.",
+    "(5) For purposes of this section, “objective zoning standards,” “objective subdivision standards,” and “objective design review standards” mean standards that involve no personal or subjective judgment by a public official and are uniformly verifiable by reference to an external and uniform benchmark or criterion available and knowable by both the development applicant or proponent and the public official before submittal. These standards may be embodied in alternative objective land use specifications adopted by a city or county, and may include, but are not limited to, housing overlay zones, specific plans, inclusionary zoning ordinances, and density bonus ordinances. In the event that objective zoning, general plan, subdivision, or design review standards are mutually inconsistent, a development shall be deemed consistent with the objective zoning and subdivision standards pursuant to this subdivision if the development is consistent with the standards set forth in the general plan."
+   ],
+   "sec": "65912.123",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Affordable Housing and High Road Jobs Act of 2022: use by right: objective standards.",
+ "title": "An act to amend Sections 65912.101 and 65912.123 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250AB211899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-27",
+   "id": "20250AB211898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-29",
+   "id": "20250AB211897AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB211896AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-02",
+   "id": "20250AB211895ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-27",
+   "id": "20250AB211894CHP",
+   "num": "94"
+  }
+ ]
+}

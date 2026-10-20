@@ -1,0 +1,351 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": true
+  }
+ ],
+ "bill": "AB1156",
+ "bill_id": "202520260AB1156",
+ "chapter": {
+  "num": "875",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Land Conservation Act of 1965, otherwise known as the Williamson Act, authorizes a city or county to contract with a landowner to limit the use of agricultural land to agricultural use if the land is located in an agricultural preserve designated by the city or county, as specified. The act authorizes the parties to mutually agree to rescind the contract in order to simultaneously enter into a solar-use easement if approved by the Department of Conservation, as specified. Existing law defines the term “solar-use easement” for these purposes to mean any right or interest acquired by a county, or city in a parcel or parcels determined to be eligible, as provided, where the deed or other instrument granting the right or interest imposes certain restrictions that effectively restrict the use of the land to photovoltaic solar facilities for the purpose of providing for the collection and distribution of solar energy and certain other incidental or subordinate uses or other alternative renewable energy facilities.",
+  "This bill would revise the definition of the term “solar-use easement” to, among other changes, include a right or interest acquired by the Energy Commission, and to expand the authorized uses of the land under the easement to include solar energy storage and appurtenant renewable energy facilities. The bill would make various conforming changes in this regard. The bill would revise the conditions under which the land subject to a Williamson Act contract may be subject to a solar-use easement, as described above, to instead require the suspension of the Williamson Act contract for the term of the solar-use easement, rather than the rescission of the contract, if the Department of Conservation determines that the parcel is eligible to be placed in the easement, as specified.",
+  "Under existing law, the Department of Conservation, in consultation with the Department of Food and Agriculture, and upon a request from a city or county, may determine that a parcel is eligible for rescission of a Williamson Act contract for placement into a solar-use easement, as provided. Existing law requires that the parcel meet certain criteria in order to be eligible under these provisions, including that the land meet 1 of 2 specified alternative criteria relating to the use of the land for agricultural purposes and the parcel not be located on lands designated as prime farmland, unique farmland, or farmland of statewide importance, as specified.",
+  "This bill would revise these provisions to authorize the Department of Conservation to determine that a parcel is eligible for suspension, as described above, upon the request of the landowner, instead of a request from a county or city, and would require the department to additionally make that determination in consultation with any applicable groundwater sustainability agency or services. The bill would revise the eligibility criteria for a parcel to be deemed eligible under these provisions by (1) additionally authorizing land for which there are or will be insufficient surface water or groundwater rights associated with the land to support commercially viable irrigated agricultural use; (2) deleting the requirement that the land not be located on lands designated as prime farmland, unique farmland, or farmland of statewide importance; and (3) additionally requiring that the land meet certain additional requirements relating to the land’s historical use as cropland and whether it is encumbered by a conservation easement or enrolled in a land conservation program, as specified. The bill would also require the Department of Conservation to issue its determination of eligibility within 120 days following submission of a completed application package, and would deem any application not rejected within this 120-day period to be approved.",
+  "Existing law authorizes a county or city to require a solar-use easement deed or restriction to contain any restrictions, conditions, or covenants as are necessary or desirable to restrict the use of the land to photovoltaic solar facilities. Under existing law, these restrictions, conditions, or covenants may include, among other things, mitigation measures on the land that is subject to the solar-use easement and mitigation measures beyond the land that is subject to the solar-use easement. For term easements or self-renewing easements, existing law requires that the restrictions, conditions, or covenants include a requirement for the landowner to post a performance bond or other securities to fund the restoration of the land that is subject to the easement to the conditions that existed before the approval or acceptance of the easement by the time the easement is extinguished.",
+  "This bill would delete the above-described provisions relating to mitigation measures on or beyond the land that is subject to a solar-use easement. The bill would also delete the above-described requirement that a landowner post a performance bond or other securities in relation to a term easement or self-renewing easement.",
+  "Existing law, during the term of a solar-use easement, prohibits the approval of any land use on the land covered by the easement and the issuance of a building permit for a structure that would violate the easement. Existing law requires the county or city to seek an injunction against any construction or other development or activity that would violate the easement and, if the county or city fails to do so or if the county or city engages in specified activity in violation of the easement, authorizes a person or entity to seek an injunction. Existing law authorizes a court to award a plaintiff who prevails in an action under these provisions the costs of their litigation, including reasonable attorney’s fees.",
+  "This bill would additionally prohibit the issuance of a construction notice to proceed that would violate the easement. The bill would also remove the above-described authorization of a person or entity to seek the injunction. The bill would also delete the authority of the court to award litigation costs to a prevailing plaintiff.",
+  "Existing law authorizes a solar-use easement to be extinguished by nonrenewal, termination, or returning the land to the previous Williamson Act contract. If the landowner or the county or city desires in any year not to renew the solar-use easement on all or a portion of a parcel, existing law requires that party to serve written notice of nonrenewal of the easement, as specified. If the county, city, or the landowner serves notice of intent in any year not to renew the solar-use easement, existing law provides that the existing solar-use easement remains in effect for the balance of the period remaining since the original execution or the last renewal of the solar-use easement, as the case may be.",
+  "The bill would additionally authorize the termination of a solar-use easement by mutual consent, and would make various conforming changes in that regard. The bill would also revise the above-described provisions relating to service of written notice to instead only require a landowner to issue that notice. The bill would delete the above-described provisions relating to the remaining effect of the easement following service of a notice of intent.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA exempts from its provisions various activities, including ministerial projects proposed to be carried out or approved by public agencies.",
+  "This bill would exempt entry into or recordation of a solar-use easement under the above-described provisions from CEQA."
+ ],
+ "hash": "da613c1b6d9da7cd",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and AGRI.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1114.)",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "(Pending re-refer to Com. on U. & E.).)",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on U. & E. (Ayes 9. Noes 0.) (April 23). Re-referred to Com. on U. & E.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on AGRI. (Ayes 16. Noes 0.) (April 23). Re-referred to Com. on AGRI.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 6. Noes 1.) (April 30).",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-05-06"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2025-05-21"
+  },
+  {
+   "action": "Joint Rule 62(a), file notice suspended. (Page 1627.)",
+   "date": "2025-05-21"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Ayes 51. Noes 16. Page 1644.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 1.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 66. Noes 5. Page 2015.)",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and E.Q.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.Q. (Ayes 5. Noes 0.) (July 9). Re-referred to Com. on E.Q.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 0.) (July 16).",
+   "date": "2025-07-22"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-22"
+  },
+  {
+   "action": "In committee: Referred to suspense file.",
+   "date": "2025-08-18"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 5. Noes 1.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Joint Rule 61(a)(13) suspended. (Ayes 28. Noes 8. Page 2568.)",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 25. Noes 8. Page 2963.).",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Page 3477.)",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "Ordered to inactive file at the request of Assembly Member Wicks.",
+   "date": "2025-09-13"
+  },
+  {
+   "action": "From inactive file.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "Ordered to the Senate.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "In Senate. Held at Desk.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "Action rescinded whereby the bill was read third time, passed, and to Assembly.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "(Ayes 30. Noes 10.)",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10 (b).",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "From committee: That the measure be returned to Senate Floor for consideration. (Ayes 5. Noes 1.) (August 28)",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "From committee: Be re-referred to Com. on L. GOV. pursuant to Senate Rule 29.10 (b). (Ayes 5. Noes 0.) Re-referred to Com. on L. GOV.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 21. Noes 14.).",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Page 7068.)",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 56. Noes 6. Page 7068.).",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 1:30 p.m.",
+   "date": "2026-09-14"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 875, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250AB115691CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Except as otherwise provided in this division, this division shall apply to discretionary projects proposed to be carried out or approved by public agencies, including, but not limited to, the enactment and amendment of zoning ordinances, the issuance of zoning variances, the issuance of conditional use permits, and the approval of tentative subdivision maps unless the project is exempt from this division.",
+    "(b) This division does not apply to any of the following activities:",
+    "(1) Ministerial projects proposed to be carried out or approved by public agencies.",
+    "(2) Emergency repairs to public service facilities necessary to maintain service.",
+    "(3) Projects undertaken, carried out, or approved by a public agency to maintain, repair, restore, demolish, or replace property or facilities damaged or destroyed as a result of a disaster in a disaster-stricken area in which a state of emergency has been proclaimed by the Governor pursuant to Chapter 7 (commencing with Section 8550) of Division 1 of Title 2 of the Government Code.",
+    "(4) Specific actions necessary to prevent or mitigate an emergency.",
+    "(5) Projects that a public agency rejects or disapproves.",
+    "(6) Actions undertaken by a public agency relating to any thermal powerplant site or facility, including the expenditure, obligation, or encumbrance of funds by a public agency for planning, engineering, or design purposes, or for the conditional sale or purchase of equipment, fuel, water (except groundwater), steam, or power for a thermal powerplant, if the powerplant site and related facility will be the subject of an environmental impact report, negative declaration, or other document, prepared pursuant to a regulatory program certified pursuant to Section 21080.5, which will be prepared by the State Energy Resources Conservation and Development Commission, by the Public Utilities Commission, or by the city or county in which the powerplant and related facility would be located if the environmental impact report, negative declaration, or document includes the environmental impact, if any, of the action described in this paragraph.",
+    "(7) Activities or approvals necessary to the bidding for, hosting or staging of, and funding or carrying out of, an Olympic Games under the authority of the International Olympic Committee, except for the construction of facilities necessary for the Olympic Games.",
+    "(8) The establishment, modification, structuring, restructuring, or approval of rates, tolls, fares, or other charges by public agencies that the public agency finds are for the purpose of: (A) meeting operating expenses, including employee wage rates and fringe benefits; (B) purchasing or leasing supplies, equipment, or materials; (C) meeting financial reserve needs and requirements; (D) obtaining funds for capital projects necessary to maintain service within existing service areas; or (E) obtaining funds necessary to maintain those intracity transfers as are authorized by city charter. The public agency shall incorporate written findings in the record of any proceeding in which an exemption under this paragraph is claimed setting forth with specificity the basis for the claim of exemption.",
+    "(9) All classes of projects designated pursuant to Section 21084.",
+    "(10) A project for the institution or increase of passenger or commuter services on rail or highway rights-of-way already in use, including modernization of existing stations and parking facilities. For purposes of this paragraph, “highway” has the same meaning as defined in Section 360 of the Vehicle Code.",
+    "(11) A project for the institution or increase of passenger or commuter service on high-occupancy vehicle lanes already in use, including the modernization of existing stations and parking facilities.",
+    "(12) Facility extensions not to exceed four miles in length that are required for the transfer of passengers from or to exclusive public mass transit guideway or busway public transit services.",
+    "(13) A project for the development of a regional transportation improvement program, the state transportation improvement program, or a congestion management program prepared pursuant to Section 65089 of the Government Code.",
+    "(14) A project or portion of a project located in another state that will be subject to environmental impact review pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) or similar state laws of that state. Any emissions or discharges that would have a significant effect on the environment in this state are subject to this division.",
+    "(15) Projects undertaken by a local agency to implement a rule or regulation imposed by a state agency, board, or commission under a certified regulatory program pursuant to Section 21080.5. Any site-specific effect of the project that was not analyzed as a significant effect on the environment in the plan or other written documentation required by Section 21080.5 is subject to this division.",
+    "(16) Approval by the Department of Pesticide Regulation of a pesticide emergency exemption pursuant to Section 136p of Title 7 of the United States Code.",
+    "(17) The entry into or recordation of a solar-use easement pursuant to Chapter 6.9 (commencing with Section 51190) of Part 1 of Division 1 of Title 5 of the Government Code.",
+    "(c) If a lead agency determines that a proposed project, not otherwise exempt from this division, would not have a significant effect on the environment, the lead agency shall adopt a negative declaration to that effect. The negative declaration shall be prepared for the proposed project in either of the following circumstances:",
+    "(1) There is no substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment.",
+    "(2) An initial study identifies potentially significant effects on the environment, but: (A) revisions in the project plans or proposals made by, or agreed to by, the applicant before the proposed negative declaration and initial study are released for public review would avoid the effects or mitigate the effects to a point where clearly no significant effect on the environment would occur; and (B) there is no substantial evidence, in light of the whole record before the lead agency, that the project, as revised, may have a significant effect on the environment.",
+    "(d) If there is substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment, an environmental impact report shall be prepared.",
+    "(e) (1) For purposes of this section and this division, substantial evidence includes fact, a reasonable assumption predicated upon fact, or expert opinion supported by fact.",
+    "(2) Substantial evidence is not argument, speculation, unsubstantiated opinion or narrative, evidence that is clearly inaccurate or erroneous, or evidence of social or economic impacts that do not contribute to, or are not caused by, physical impacts on the environment.",
+    "(f) As a result of the public review process for a mitigated negative declaration, including administrative decisions and public hearings, the lead agency may conclude that certain mitigation measures identified pursuant to paragraph (2) of subdivision (c) are infeasible or otherwise undesirable. In those circumstances, the lead agency, before approving the project, may delete those mitigation measures and substitute for them other mitigation measures that the lead agency finds, after holding a public hearing on the matter, are equivalent or more effective in mitigating significant effects on the environment to a less than significant level and that do not cause any potentially significant effect on the environment. If those new mitigation measures are made conditions of project approval or are otherwise made part of the project approval, the deletion of the former measures and the substitution of the new mitigation measures shall not constitute an action or circumstance requiring recirculation of the mitigated negative declaration.",
+    "(g) This section does not preclude a project applicant or any other person from challenging, in an administrative or judicial proceeding, the legality of a condition of project approval imposed by the lead agency. If, however, any condition of project approval set aside by either an administrative body or court was necessary to avoid or lessen the likelihood of the occurrence of a significant effect on the environment, the lead agency’s approval of the negative declaration and project shall be invalid and a new environmental review process shall be conducted before the project can be reapproved, unless the lead agency substitutes a new condition that the lead agency finds, after holding a public hearing on the matter, is equivalent to, or more effective in, lessening or avoiding significant effects on the environment and that does not cause any potentially significant effect on the environment."
+   ],
+   "sec": "21080",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Williamson Act contracts: cancellation fees: photovoltaic solar facilities.",
+ "title": "An act to amend Sections 51190, 51191, 51191.1, 51191.2, 51191.3, 51191.4, 511991.5, 51192, and 51192.1 of, to repeal Section 51192.2 of, and to repeal and add Section 51255.1 of, the Government Code, and to amend Section 21080 of the Public Resources Code, relating to solar-use easements.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB115699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-20",
+   "id": "20250AB115698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-05",
+   "id": "20250AB115697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-23",
+   "id": "20250AB115696AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-22",
+   "id": "20250AB115695AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-09",
+   "id": "20250AB115694AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-27",
+   "id": "20250AB115693AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-04",
+   "id": "20250AB115692ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250AB115691CHP",
+   "num": "91"
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Durazo",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  }
+ ],
+ "bill": "AB2181",
+ "bill_id": "202520260AB2181",
+ "chapter": {
+  "num": "924",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development, as defined, within the city or county with a density bonus, other incentives or concessions, and waivers or reductions of development standards, as specified, if the developer agrees to construct, among other options, specified units and meets other requirements.",
+  "This bill would prohibit land improved with an operating hotel or motel from being valued, for purposes of establishing, adjusting, or resetting ground rent under an existing lease, based on density bonuses, concessions or incentives, or waivers, as specified, unless those density increases are entitled and vested as of the valuation date, as provided. The bill would also prohibit its provisions from being construed to alter the requirements for obtaining a density bonus, as specified."
+ ],
+ "hash": "a2fa72a854f9a27d",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Com. on U. & E.",
+   "date": "2026-03-02"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 18. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "From committee: Do pass. To Consent Calendar. (Ayes 15. Noes 0.) (May 13).",
+   "date": "2026-05-13"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 68. Noes 0. Page 5229.)",
+   "date": "2026-05-21"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-21"
+  },
+  {
+   "action": "Referred to Com. on E., U & C.",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E., U & C.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-06-12"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2026-06-12"
+  },
+  {
+   "action": "Re-referred to Coms. on HOUSING and L. GOV.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 10. Noes 0.) (June 24). Re-referred to Com. on L. GOV.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0.) (July 1).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Joint Rule 62(a), file notice suspended. (Page 6646.)",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D. pursuant to Assembly Rule 77.2.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee: That the Senate amendments be concurred in. (Ayes 12. Noes 0.) (August 27).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 77. Noes 0. Page 6745.).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-04"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 924, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250AB218195CHP",
+  "num": "95"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65915.9 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding Section 65915, land improved with an operating hotel or motel shall not be valued, for purposes of establishing, adjusting, or resetting ground rent under an existing lease, based on density bonuses, concessions or incentives, or waivers pursuant to Section 65915, unless those density increases are entitled and vested as of the valuation date, including the issuance of all required discretionary land use approvals and permits.",
+    "(b) Nothing in this section shall be construed to alter the requirements for obtaining a density bonus pursuant to Section 65915."
+   ],
+   "sec": "65915.9",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing development: density bonuses: rent.",
+ "title": "An act to add Section 65915.9 to the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250AB218199INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-11",
+   "id": "20250AB218198AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB218197AMD",
+   "num": "97"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-01",
+   "id": "20250AB218196ENR",
+   "num": "96"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250AB218195CHP",
+   "num": "95"
+  }
+ ]
+}

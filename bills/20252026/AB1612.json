@@ -1,0 +1,150 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alanis",
+   "primary": true
+  }
+ ],
+ "bill": "AB1612",
+ "bill_id": "202520260AB1612",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Uniform Controlled Substances Act, authorizes the forfeiture and seizure of property involved in, or purchased with the proceeds from, a controlled substance offense.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would authorize a local police department, sheriff’s office, or state law enforcement agency to purchase and install an incinerator for the sole purpose of destroying seized controlled substances, as provided. The bill would require the local police department, sheriff’s office, or state law enforcement agency to follow specified federal regulations and to notify the State Air Resources Board and the local air quality management district or local air pollution control district of the project, as specified. The bill would authorize multiple law enforcement agencies to purchase and install an incinerator for these purposes through a memorandum of understanding that details cost sharing. The bill would exempt a project to purchase and install an incinerator that complies with these requirements from CEQA. Because a lead agency would be required to determine the applicability of this exemption, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "3b8f5368d1776920",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-01-21"
+  },
+  {
+   "action": "From printer. May be heard in committee February 21.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and E.S & T.M.",
+   "date": "2026-03-02"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 4433.)",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "(Pending re-refer to Com. on E.S. & T.M.)",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2026-04-07"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Re-referred to Coms. on E.S & T.M. and PUB. S. pursuant to Assembly Rule 96.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on PUB. S. (Ayes 7. Noes 0.) (April 14). Re-referred to Com. on PUB. S.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 9. Noes 0.) (April 21). Re-referred to Com. on APPR.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 77. Noes 0. Page 5468.)",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-28"
+  },
+  {
+   "action": "Referred to Com. on PUB. S.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (June 30). Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2026-08-13"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2026-05-18",
+  "id": "20250AB161297AMD",
+  "num": "97"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 21080.82 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "This division does not apply to a project that consists of the purchase and installation of an incinerator if the incinerator is being purchased and installed by a local police department, sheriff’s office, or state law enforcement agency for the sole purpose of incinerating seized controlled substances and complies with Section 41984 of the Health and Safety Code."
+   ],
+   "sec": "21080.82",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Disposition of controlled substances.",
+ "title": "An act to add Article 7.5 (commencing with Section 41984) to Chapter 3 of Part 4 of Division 26 of the Health and Safety Code, and to add Section 21080.82 to the Public Resources Code, relating to environmental hazards.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-01-21",
+   "id": "20250AB161299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-07",
+   "id": "20250AB161298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-18",
+   "id": "20250AB161297AMD",
+   "num": "97"
+  }
+ ]
+}

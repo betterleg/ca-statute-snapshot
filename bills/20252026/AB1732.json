@@ -1,0 +1,338 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alvarez",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ahrens",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alanis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ávila Farías",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Muratsuchi",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Michelle Rodriguez",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schultz",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": false
+  }
+ ],
+ "bill": "AB1732",
+ "bill_id": "202520260AB1732",
+ "chapter": {
+  "num": "792",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA, until January 1, 2033, exempts from its requirements certain actions for affordable housing projects that meet specified requirements, including confirmation by a public agency that, among other things, the project site satisfies specified requirements and a vacant project site does not contain tribal cultural resources that could be affected by the development that were found pursuant to a consultation and the effects of which cannot be mitigated, as provided.",
+  "This bill would extend the operation of the above-described exemption to January 1, 2037, and would expand the exemption to also include a public university or public college housing project, as defined, that meets specified requirements. Because the bill would extend the operation of the exemption and would increase duties on a lead agency related to the expansion of this exemption, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "6e53ed43daaed2c2",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-05"
+  },
+  {
+   "action": "From printer. May be heard in committee March 8.",
+   "date": "2026-02-06"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and H. & C.D.",
+   "date": "2026-03-02"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on H. & C.D. (Ayes 13. Noes 0.) (April 13).",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (April 22).",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-04-28"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 14. Noes 0.) (May 13).",
+   "date": "2026-05-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time and amended. Ordered to third reading. (Page 5167.)",
+   "date": "2026-05-20"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 78. Noes 0. Page 5442.)",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-28"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and HOUSING.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 7. Noes 0.) (June 24). Re-referred to Com. on HOUSING.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (June 30). Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-07-29"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-10"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2026-08-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 77. Noes 0. Page 6482.).",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 792, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250AB173292CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.40 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, the following definitions apply:",
+    "(1) “Affordable housing project” means a project consisting of multifamily residential uses only or a mix of multifamily residential and nonresidential uses, with at least two-thirds of the square footage of the project designated for residential use, and that satisfies all of the following requirements:",
+    "(A) The project meets either of the following:",
+    "(i) All of the residential units within the project, excluding managers’ units, are dedicated to lower income households, as defined by Section 50079.5 of the Health and Safety Code.",
+    "(ii) The project complies with all of the requirements of Section 65914.7 of the Government Code.",
+    "(B) (i) The project meets the labor standards set forth in Section 65912.130 of the Government Code.",
+    "(ii) In addition to clause (i), for a project with 50 or more residential units, the project meets the labor standards set forth in Section 65912.131 of the Government Code.",
+    "(C) The project is located on a legal parcel or parcels in any of the following locations:",
+    "(i) In a city where the city boundaries include some portion of either an urbanized area or urban cluster, as designated by the United States Census Bureau, or in an unincorporated area, and the legal parcel or parcels are wholly within the boundaries of an urbanized area or urban cluster, as designated by the United States Census Bureau.",
+    "(ii) Within one-half mile walking distance to either a high-quality transit corridor or a major transit stop.",
+    "(iii) In a very low vehicle travel area.",
+    "(iv) Proximal to six or more amenities pursuant to paragraph (3) as of the date of submission of the application for the project.",
+    "(D) Parcels that are developed with urban uses adjoin at least 75 percent of the perimeter of the project site or at least three sides of a four-sided project site. For purposes of this subparagraph, parcels that are only separated by a street or highway shall be considered to be adjoined.",
+    "(2) “High-quality transit corridor” has the same meaning as set forth in subdivision (b) of Section 21155.",
+    "(3) “Proximal” to an amenity means either of the following:",
+    "(A) Within one-half mile of any of the following amenities:",
+    "(i) A bus station.",
+    "(ii) A ferry terminal.",
+    "(iii) A shuttle or bus stop operated by a public university or public college.",
+    "(B) Within one mile, or for a parcel in a rural area, as defined in Section 50199.21 of the Health and Safety Code, within two miles, of any of the following amenities:",
+    "(i) A supermarket or grocery store.",
+    "(ii) A public park.",
+    "(iii) A community center.",
+    "(iv) A pharmacy or drugstore.",
+    "(v) A medical clinic or hospital.",
+    "(vi) A public library.",
+    "(vii) A school that maintains a kindergarten or any of grades 1 to 12, inclusive.",
+    "(4) “Public university or public college housing project” means one or more housing facilities to be occupied by students, faculty, or staff of one or more campuses of the University of California, California State University, or California Community Colleges, including dining, academic, student support service spaces, and other necessary and usual attendant and related facilities and equipment, and that satisfies all of the following requirements:",
+    "(A) (i) The project meets the labor standards set forth in Section 65912.130 of the Government Code.",
+    "(ii) In addition to clause (i), for a project with 50 or more residential units, the project meets the labor standards set forth in Section 65912.131 of the Government Code.",
+    "(B) The project is located on a legal parcel or parcels in any of the following locations:",
+    "(i) In a city where the city boundaries include some portion of either an urbanized area or urban cluster, as designated by the United States Census Bureau, or in an unincorporated area, and the legal parcel or parcels are wholly within the boundaries of an urbanized area or urban cluster, as designated by the United States Census Bureau.",
+    "(ii) Within one-half mile walking distance to either a high-quality transit corridor or a major transit stop.",
+    "(iii) In a very low vehicle travel area.",
+    "(iv) Proximal to six or more amenities pursuant to subparagraph (B) of paragraph (3) as of the date of submission of the application for the project.",
+    "(C) Parcels that are developed with urban uses adjoin at least 75 percent of the perimeter of the project site or at least three sides of a four-sided project site. For purposes of this subparagraph, parcels that are only separated by a street or highway shall be considered to be adjoined.",
+    "(5) “Vacant site” means a site without any houses, offices, buildings, or other significant improvements on it.",
+    "(6) (A) “Very low vehicle travel area” means an urbanized area, as designated by the United States Census Bureau, where the existing residential development generates vehicle miles traveled per capita that is below 85 percent of either regional vehicle miles traveled per capita or city vehicle miles traveled per capita.",
+    "(B) For purposes of subparagraph (A), “area” may include a travel analysis zone, hexagon, or grid.",
+    "(C) For the purposes of determining “regional vehicle miles traveled per capita” pursuant to subparagraph (A), a “region” is the entirety of incorporated and unincorporated areas governed by a multicounty or single-county metropolitan planning organization, or the entirety of the incorporated and unincorporated areas of an individual county that is not part of a metropolitan planning organization.",
+    "(b) Subject to subdivision (c), this division does not apply to any of the following:",
+    "(1) The issuance of an entitlement by a public agency or lead agency for an affordable housing project or a public university or public college housing project.",
+    "(2) An action to lease, convey, or encumber land owned by a public agency or lead agency for an affordable housing project or a public university or public college housing project.",
+    "(3) An action to facilitate the lease, conveyance, or encumbrance of land owned or to be purchased by a public agency or lead agency for an affordable housing project or a public university or public college housing project.",
+    "(4) Rezoning, specific plan amendments, general plan amendments, or higher education land use plan amendments required specifically and exclusively to allow the construction of an affordable housing project or a public university or public college housing project.",
+    "(5) An action to provide financial assistance in furtherance of implementing an affordable housing project or a public university or public college housing project.",
+    "(c) Subdivision (b) applies if the action described in subdivision (b) requires the housing project to meet all of the following requirements:",
+    "(1) For an affordable housing project, the project will be subject to a recorded California Tax Credit Allocation Committee regulatory agreement. This requirement does not apply to affordable housing projects that comply with all of the requirements of Section 65914.7 of the Government Code.",
+    "(2) The housing project site can be adequately served by existing utilities or extensions.",
+    "(3) The lead agency confirms all of the following:",
+    "(A) The project site satisfies the requirements specified in subparagraphs (B) to (K), inclusive, of paragraph (6) of subdivision (a) of Section 65913.4 of the Government Code.",
+    "(B) For a vacant site, the project site does not contain tribal cultural resources that could be affected by the development that were found pursuant to a consultation described in Section 21080.3.1 and the effects of which cannot be mitigated pursuant to the process described in Section 21080.3.2.",
+    "(C) (i) The development proponent has completed a phase I environmental assessment, as defined in Section 78090 of the Health and Safety Code. If a recognized environmental condition is found, the development proponent shall undertake a preliminary endangerment assessment, as defined in Section 78095 of the Health and Safety Code, prepared by an environmental assessor to determine the existence of any release of a hazardous substance on the site and to determine the potential for exposure of future occupants to significant health hazards from any nearby property or activity.",
+    "(ii) If a release of a hazardous substance is found to exist on the site, the release shall be removed, or any significant effects of the release shall be mitigated to a level of insignificance in compliance with current state and federal requirements.",
+    "(iii) If a potential for exposure to significant hazards from surrounding properties or activities is found to exist, the effects of the potential exposure shall be mitigated to a level of insignificance in compliance with current state and federal requirements.",
+    "(D) For a project site where multifamily housing is not a permitted use, all of the following are met:",
+    "(i) None of the housing is located within 500 feet of a freeway, as defined in Section 332 of the Vehicle Code.",
+    "(ii) None of the housing is located within 3,200 feet of a facility that actively extracts or refines oil or natural gas.",
+    "(iii) The project site is not within a very high fire hazard severity zone, as indicated on maps adopted by the Department of Forestry and Fire Protection pursuant to Section 4202 or as designated pursuant to subdivisions (a) and (b) of Section 51179 of the Government Code.",
+    "(d) If a lead agency determines that an activity is not subject to this division pursuant to this section and determines to approve or carry out the activity, the lead agency shall file a notice of exemption with the Office of Planning and Research and the county clerk of the county in which the activity will occur in the manner specified in subdivisions (b) and (c) of Section 21108 or subdivisions (b) and (c) of Section 21152.",
+    "(e) This section shall remain in effect only until January 1, 2037, and as of that date is repealed."
+   ],
+   "sec": "21080.40",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: exemption: affordable housing projects: public university or public college housing projects.",
+ "title": "An act to amend Section 21080.40 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-05",
+   "id": "20250AB173299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-15",
+   "id": "20250AB173298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-27",
+   "id": "20250AB173297AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-14",
+   "id": "20250AB173296AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-20",
+   "id": "20250AB173295AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-03",
+   "id": "20250AB173294AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-27",
+   "id": "20250AB173293ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250AB173292CHP",
+   "num": "92"
+  }
+ ]
+}

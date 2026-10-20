@@ -1,0 +1,399 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Committee on Budget",
+   "primary": true
+  }
+ ],
+ "bill": "AB158",
+ "bill_id": "202520260AB158",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "(1) Existing law, the Governor’s Reorganization Plan No. 1 of 2025 (GRP), which became effective on July 5, 2025, reorganized specified state agencies and departments, including establishing the Housing Development and Finance Executive Committee (executive committee) within the Business, Consumer Services, and Housing Agency for the purpose of centralizing affordable housing finance policymaking across state government. The GRP requires the executive committee to, among other things, work to align state housing funding sources for the creation of a consolidated application for multifamily affordable housing developers and a coordinated review process for the application of funds. The GRP, beginning July 1, 2026, establishes the Housing Development and Finance Committee within the California Housing and Homelessness Agency, which the GRP also establishes, and transfers the executive committee to the Housing Development Finance Committee effective July 1, 2026.",
+  "This bill would state the intent of the Legislature that, in addition to the other duties required of the executive committee created by the GRP to align state housing funding sources, as described above, the executive committee be required to make recommendations to the Legislature regarding improvements the Department of Housing and Community Development may make to optimize loan administration, as specified.",
+  "(2) Existing law, the Planning and Zoning Law, requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. That law requires the planning agency of a city or county to provide by April 1 of each year an annual report to, among other entities, the Governor’s Office of Land Use and Climate Innovation, formerly known as the Office of Planning and Research, and the Department of Housing and Community Development.",
+  "This bill would require an annual report required by its provisions to be prepared using standards, forms, and definitions adopted by the Governor’s Office of Land Use and Climate Innovation, except as specified. The bill would also make a nonsubstantive change to update a reference to the Governor’s Office of Land Use and Climate Innovation in these provisions.",
+  "(3) The Permit Streamlining Act establishes requirements for the review and approval of applications for development projects by public agencies. Existing law defines “development project” for purposes of those provisions to include a housing development project that requires an entitlement from a local agency.",
+  "This bill would define “housing development project” for purposes of those provisions.",
+  "(4) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA, for various purposes, including for the purpose of limiting certain exemptions from CEQA, defines “natural and protected lands” to mean sites located within specified locations, including, among other locations, lands protected as preserve areas or reserve lands, as provided.",
+  "This bill would instead include in the definition of “natural and protected lands” for CEQA purposes lands that are identified for conservation in an adopted natural community conservation plan, as provided, or other adopted natural resource protection plan.",
+  "(5) Existing law exempts from CEQA specified new agricultural employee housing projects and projects consisting exclusively of the repair or maintenance of an existing farmworker housing project.",
+  "This bill would make a technical, nonsubstantive change by amending and renumbering the above-described section of law.",
+  "(6) CEQA exempts from its requirements housing projects that meet certain conditions. Under the exemption for housing projects, CEQA requires a local government to notify and consult, as specified, with each California Native American tribe that is traditionally and culturally affiliated with the project site on the proposed project, as specified. For a development project exempt from CEQA pursuant to this exemption, existing law, the Permit Streamlining Act, requires that a public agency that is the lead agency for the development project approve or disapprove the project within 30 days from the conclusion of the consultation process.",
+  "Existing law, the Housing Accountability Act (HAA), among other things, prohibits a local agency from disapproving a housing development project that complies with applicable objective general plan, zoning, and subdivision standards and criteria, or from imposing a condition that it be developed at a lower density, unless the local agency bases its decision on written findings supported by a preponderance of the evidence on the record that specified conditions exist, as provided. When a local agency makes a decision as described above, existing law requires the local agency to provide the applicant documentation describing the reason for the decision within a specified time period.",
+  "For a development project exempt from CEQA pursuant to the exemption for housing projects, this bill would instead require the public agency to approve or disapprove the project within 30 days from the later of the conclusion of the above-specified consultation process or the above-specified time period under the HAA.",
+  "(7) Existing law, for a proposed housing development project that would otherwise be exempt from CEQA pursuant to a statutory exemption or specified categorical exemptions, but for a single condition, limits the application of CEQA to the effects upon the environment that are caused by that single condition, except as provided.",
+  "This bill would exempt from that limited application of CEQA a housing development project that has a project site or parcel size that exceeds 4 acres, if the project is a builder’s remedy project, as defined, and the project applicant applied, as specified.",
+  "(8) Existing law exempts from CEQA any aspect of a housing development project, as defined, including any permits, approvals, or public improvements required for the housing development project, if the housing development project meets specified conditions, as provided. Existing law requires, as one of those conditions, that the project site or parcel size for a builder’s remedy project, as defined, not be more than 5 acres.",
+  "This bill would instead require, as part of those conditions, that the project site or parcel size for a builder’s remedy project not be more than 4 acres. The bill would require, if a lead agency determines that CEQA does not apply to an activity pursuant to the above-described exemption and determines to approve or carry out the activity, the lead agency to file a notice of exemption with the Governor’s Office of Land Use and Climate Innovation and the county clerk of the county in which the activity will occur, as specified.",
+  "(9) This bill, notwithstanding exemptions from CEQA or the limited application of CEQA to housing development projects, would apply CEQA to a housing development project that meets specified criteria, including, among other things, that the project is located in a city with a population of more than 85,000 but less than 95,000, as determined by the 2020 Census, and a portion of the parcel where the project is located is within a regulatory floodway, as provided.",
+  "(10) Existing law establishes the Homeless Housing, Assistance, and Prevention (HHAP) program for the purpose of providing jurisdictions with grant funds to support regional coordination and expand or develop local capacity to address their immediate homelessness challenges, as specified. Existing law provides for the allocation of funding under the program among continuums of care, cities, counties, and tribes in 6 rounds, with rounds 1 to 5, inclusive, administered by the Interagency Council on Homelessness and round 6 administered by the Department of Housing and Community Development, as provided. Existing law establishes a round 7 of the program and states the intent of the Legislature to enact future legislation that specifies the parameters, as specified. Existing law, effective July 1, 2026, appropriates $500,000,000, as specified, provided that these funds be disbursed in accordance with specified requirements. Existing law authorizes the Department of Finance to augment Item 2240-001-001 of the Budget Act of 2025 by $8,000,000 to prepare to administer round 7 of the program.",
+  "This bill would instead require the department, during fiscal year 2025–26, to prepare to administer round 7 of the program with the goal that initial round 7 disbursements will be available to grantees meeting the statutory provisions for disbursement beginning September 1, 2026, as specified.",
+  "(11) This bill would appropriate the sum of $2,106,000 from the General Fund to the Governor’s Office of Land Use and Climate Innovation to support implementation of SB 131 (Chapter 24 of the Statutes of 2025).",
+  "(12) By increasing the duties of local agencies, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason.",
+  "(13) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
+ ],
+ "hash": "eab5128dff034f44",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-01-08"
+  },
+  {
+   "action": "From printer. May be heard in committee February 8.",
+   "date": "2025-01-09"
+  },
+  {
+   "action": "Referred to Com. on BUDGET.",
+   "date": "2025-02-03"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "(Ayes 53. Noes 17. Page 643.)",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 53. Noes 17. Page 742.)",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Referred to Com. on B. & F. R.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Senate Rule 29.3(b) suspended. (Ayes 28. Noes 8. Page 2568.)",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "In committee: Set, first hearing. Testimony taken. Further hearing to be set.",
+   "date": "2025-09-10"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-09-09",
+  "id": "20250AB15898AMD",
+  "num": "98"
+ },
+ "location": "CS62",
+ "sections": [
+  {
+   "action": "Section 65400 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) After the legislative body has adopted all or part of a general plan, the planning agency shall do both of the following:",
+    "(1) Investigate and make recommendations to the legislative body regarding reasonable and practical means for implementing the general plan or element of the general plan so that it will serve as an effective guide for orderly growth and development, preservation and conservation of open-space land and natural resources, and the efficient expenditure of public funds relating to the subjects addressed in the general plan.",
+    "(2) Provide by April 1 of each year an annual report to the legislative body, the Governor’s Office of Land Use and Climate Innovation, and the Department of Housing and Community Development that includes all of the following:",
+    "(A) The status of the plan and progress in its implementation.",
+    "(B) (i) (I) The progress in meeting its share of regional housing needs determined pursuant to Section 65584, including the need for extremely low income households, as determined pursuant to Section 65583, and local efforts to remove governmental constraints to the maintenance, improvement, and development of housing pursuant to paragraph (3) of subdivision (c) of Section 65583.",
+    "(II) The annual report shall include the progress in meeting the city’s or county’s progress in meeting its share of regional housing need, as described in subclause (I), for the sixth and previous revisions of the housing element.",
+    "(ii) The housing element portion of the annual report, as required by this paragraph, shall be prepared through the use of standards, forms, and definitions adopted by the Department of Housing and Community Development. The department may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2. Before and after adoption of the forms, the housing element portion of the annual report shall include a section that describes the actions taken by the local government towards completion of the programs and status of the local government’s compliance with the deadlines in its housing element. The report shall be considered at an annual public meeting before the legislative body where members of the public shall be allowed to provide oral testimony and written comments.",
+    "(iii) The report may include the number of units that have been completed pursuant to subdivision (c) of Section 65583.1. For purposes of this paragraph, committed assistance may be executed throughout the planning period, and the program under paragraph (1) of subdivision (c) of Section 65583.1 shall not be required. The report shall document how the units meet the standards set forth in that subdivision.",
+    "(iv) The planning agency shall include the number of units in a student housing development for lower income students for which the developer of the student housing development was granted a density bonus pursuant to subparagraph (F) of paragraph (1) of subdivision (b) of Section 65915.",
+    "(C) The number of housing development applications received in the prior year, including whether each housing development application is subject to a ministerial or discretionary approval process.",
+    "(D) The number of units included in all development applications in the prior year.",
+    "(E) (i) The number of units approved and disapproved in the prior year, which shall include all of the following subcategories:",
+    "(I) The number of units located within an opportunity area.",
+    "(II) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for acutely low income households within each opportunity area.",
+    "(III) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for extremely low income households within each opportunity area.",
+    "(IV) The number of units approved and disapproved for very low income households within each opportunity area.",
+    "(V) The number of units approved and disapproved for lower income households within each opportunity area.",
+    "(VI) The number of units approved and disapproved for moderate-income households within each opportunity area.",
+    "(VII) The number of units approved and disapproved for above moderate-income households within each opportunity area.",
+    "(ii) For purposes of this subparagraph, “opportunity area” means a highest, high, moderate, or low resource area pursuant to the most recent “CTCAC/HCD Opportunity Map” published by the California Tax Credit Allocation Committee and the Department of Housing and Community Development.",
+    "(F) The degree to which its approved general plan complies with the guidelines developed and adopted pursuant to Section 65040.2 and the date of the last revision to the general plan.",
+    "(G) A listing of sites rezoned to accommodate that portion of the city’s or county’s share of the regional housing need for each income level that could not be accommodated on sites identified in the inventory required by paragraph (1) of subdivision (c) of Section 65583 and Section 65584.09. The listing of sites shall also include any additional sites that may have been required to be identified by Section 65863.",
+    "(H) (i) The number of units of housing demolished and new units of housing, including both rental housing and for-sale housing and any units that the County of Napa or the City of Napa may report pursuant to an agreement entered into pursuant to Section 65584.08, that have been issued a completed entitlement, a building permit, or a certificate of occupancy, thus far in the housing element cycle, and the income category, by area median income category, that each unit of housing satisfies. That production report shall do the following:",
+    "(I) For each income category described in this subparagraph, distinguish between the number of rental housing units and the number of for-sale units that satisfy each income category.",
+    "(II) For each entitlement, building permit, or certificate of occupancy, include a unique site identifier that must include the assessor’s parcel number, but may also include street address, or other identifiers.",
+    "(ii) For the County of Napa and the City of Napa, the production report may report units identified in the agreement entered into pursuant to Section 65584.08.",
+    "(I) The number of applications submitted pursuant to subdivision (a) of Section 65913.4, the location and the total number of developments approved pursuant to subdivision (c) of Section 65913.4, the total number of building permits issued pursuant to subdivision (c) of Section 65913.4, the total number of units including both rental housing and for-sale housing by area median income category constructed using the process provided for in subdivision (c) of Section 65913.4.",
+    "(J) If the city or county has received funding pursuant to the Local Government Planning Support Grants Program (Chapter 3.1 (commencing with Section 50515) of Part 2 of Division 31 of the Health and Safety Code), the information required pursuant to subdivision (a) of Section 50515.04 of the Health and Safety Code.",
+    "(K) The progress of the city or county in adopting or amending its general plan or local open-space element in compliance with its obligations to consult with California Native American tribes, and to identify and protect, preserve, and mitigate impacts to places, features, and objects described in Sections 5097.9 and 5097.993 of the Public Resources Code, pursuant to Chapter 905 of the Statutes of 2004.",
+    "(L) The following information with respect to density bonuses granted in accordance with Section 65915:",
+    "(i) The number of density bonus applications received by the city or county.",
+    "(ii) The number of density bonus applications approved by the city or county.",
+    "(iii) Data from all projects approved to receive a density bonus from the city or county, including, but not limited to, the percentage of density bonus received, the percentage of affordable units in the project, the number of other incentives or concessions granted to the project, and any waiver or reduction of parking standards for the project.",
+    "(M) The following information with respect to each application submitted pursuant to Chapter 4.1 (commencing with Section 65912.100):",
+    "(i) The location of the project.",
+    "(ii) The status of the project, including whether it has been entitled, whether a building permit has been issued, and whether or not it has been completed.",
+    "(iii) The number of units in the project.",
+    "(iv) The number of units in the project that are rental housing.",
+    "(v) The number of units in the project that are for-sale housing.",
+    "(vi) The household income category of the units, as determined pursuant to subdivision (f) of Section 65584.",
+    "(N) A list of all historic designations listed on the National Register of Historic Places, the California Register of Historic Resources, or a local register of historic places by the city or county in the past year, and the status of any housing development projects proposed for the new historic designations, including all of the following:",
+    "(i) Whether the housing development project has been entitled.",
+    "(ii) Whether a building permit has been issued for the housing development project.",
+    "(iii) The number of units in the housing development project.",
+    "(O) The following information with respect to housing development projects under Section 65913.16:",
+    "(i) The number of applications submitted under Section 65913.16.",
+    "(ii) The location and number of developments approved under Section 65913.16.",
+    "(iii) The total number of building permits issued pursuant to Section 65913.16.",
+    "(iv) The total number of units constructed under Section 65913.16 and the income category of those units.",
+    "(b) (1) (A) The department may request corrections to the housing element portion of an annual report submitted pursuant to paragraph (2) of subdivision (a) within 90 days of receipt. A planning agency shall make the requested corrections within 30 days after which the department may reject the report if the report is not in substantial compliance with the requirements of that paragraph.",
+    "(B) If the department rejects the housing element portion of an annual report as authorized by subparagraph (A), the department shall provide the reasons the report is inconsistent with paragraph (2) of subdivision (a) to the planning agency in writing.",
+    "(2) If a court finds, upon a motion to that effect, that a city, county, or city and county failed to submit, within 60 days of the deadline established in this section, the housing element portion of the report required pursuant to subparagraph (B) of paragraph (2) of subdivision (a) that substantially complies with the requirements of this section, the court shall issue an order or judgment compelling compliance with this section within 60 days. If the city, county, or city and county fails to comply with the court’s order within 60 days, the plaintiff or petitioner may move for sanctions, and the court may, upon that motion, grant appropriate sanctions. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If the court determines that its order or judgment is not carried out within 60 days, the court may issue further orders as provided by law to ensure that the purposes and policies of this section are fulfilled. This subdivision applies to proceedings initiated on or after the first day of October following the adoption of forms and definitions by the Department of Housing and Community Development pursuant to paragraph (2) of subdivision (a), but no sooner than six months following that adoption.",
+    "(c) The Department of Housing and Community Development shall post a report submitted pursuant to this section on its internet website within a reasonable time of receiving the report.",
+    "(d) Except for the housing element portion as provided in subparagraph (B) of paragraph (2) of subdivision (a), an annual report submitted pursuant to this section shall be prepared through the use of standards, forms, and definitions adopted by the Governor’s Office of Land Use and Climate Innovation. The office may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2."
+   ],
+   "sec": "65400",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65928 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) “Development project” means any project undertaken for the purpose of development. “Development project” includes a project involving the issuance of a permit for construction or reconstruction but not a permit to operate.",
+    "(b) (1) (A) Except as otherwise provided in subparagraph (B), “development project” does not include any ministerial projects proposed to be carried out or approved by public agencies.",
+    "(B) Notwithstanding subparagraph (A), “development project” includes a housing development project, as that term is defined in paragraph (3) of subdivision (b) of Section 65905.5, that requires an entitlement from a local agency, regardless of whether the process for permitting that entitlement is discretionary or ministerial.",
+    "(2) “Development project” does not include a postentitlement phase permit, as that term is defined in Section 65913.3."
+   ],
+   "sec": "65928",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65950 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A public agency that is the lead agency for a development project shall approve or disapprove the project within whichever of the following periods is applicable:",
+    "(1) One hundred eighty days from the date of certification by the lead agency of the environmental impact report, if an environmental impact report is prepared pursuant to Section 21100 or 21151 of the Public Resources Code for the development project.",
+    "(2) Ninety days from the date of certification by the lead agency of the environmental impact report, if an environmental impact report is prepared pursuant to Section 21100 or 21151 of the Public Resources Code for a development project defined in subdivision (c).",
+    "(3) Sixty days from the date of certification by the lead agency of the environmental impact report, if an environmental impact report is prepared pursuant to Section 21100 or 21151 of the Public Resources Code for a development project defined in subdivision (c) and all of the following conditions are met:",
+    "(A) At least 49 percent of the units in the development project are affordable to very low or low-income households, as defined by Sections 50105 and 50079.5 of the Health and Safety Code, respectively. Rents for the lower income units shall be set at an affordable rent, as that term is defined in Section 50053 of the Health and Safety Code, for at least 30 years. Owner-occupied units shall be available at an affordable housing cost, as that term is defined in Section 50052.5 of the Health and Safety Code.",
+    "(B) Prior to the application being deemed complete for the development project pursuant to Article 3 (commencing with Section 65940), the lead agency received written notice from the project applicant that an application has been made or will be made for an allocation or commitment of financing, tax credits, bond authority, or other financial assistance from a public agency or federal agency, and the notice specifies the financial assistance that has been applied for or will be applied for and the deadline for application for that assistance, the requirement that one of the approvals of the development project by the lead agency is a prerequisite to the application for or approval of the application for financial assistance, and that the financial assistance is necessary for the project to be affordable as required pursuant to subparagraph (A).",
+    "(C) There is confirmation that the application has been made to the public agency or federal agency prior to certification of the environmental impact report.",
+    "(4) Sixty days from the date of adoption by the lead agency of the negative declaration, if a negative declaration is completed and adopted for the development project.",
+    "(5) Sixty days from the determination by the lead agency that the project is exempt from the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code), if the project is exempt from that act.",
+    "(6) Except as provided in subdivision (a) of Section 65912.114 and subdivision (a) of Section 65912.124, sixty days from the date of receipt of a complete application if the project is subject to ministerial review by the public agency.",
+    "(7) If a development project is exempt from the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code) pursuant to Section 21080.66 of the Public Resources Code, 30 days from the later of the following dates:",
+    "(A) The conclusion of the process outlined in subdivision (b) of Section 21080.66 of the Public Resources Code.",
+    "(B) The expiration of the applicable time limit in paragraph (2) of subdivision (j) of Section 65589.5.",
+    "(b) This section does not preclude a project applicant and a public agency from mutually agreeing in writing to an extension of any time limit provided by this section pursuant to Section 65957.",
+    "(c) For purposes of paragraphs (2) and (3) of subdivision (a) and Section 65952, “development project” means a housing development project, as defined in paragraph (3) of subdivision (b) of Section 65905.5.",
+    "(d) For purposes of this section, “lead agency” and “negative declaration” have the same meaning as defined in Sections 21067 and 21064 of the Public Resources Code, respectively."
+   ],
+   "sec": "65950",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21067.5 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "“Natural and protected lands” means sites located within any of the following locations:",
+    "(a) The state park system, as described in Article 1 (commencing with Section 5001) of Chapter 1 of Division 5.",
+    "(b) A wilderness area, as defined in Section 5093.32.",
+    "(c) A marine protected area, as defined in Section 2852 of the Fish and Game Code.",
+    "(d) The national park system, as defined in Section 100102 of Title 54 of the United States Code.",
+    "(e) A national recreation area.",
+    "(f) A national monument.",
+    "(g) The national wild and scenic rivers system, as defined in Section 1273 of Title 16 of the United States Code.",
+    "(h) Any ecological reserve or wildlife management area acquired and managed by the Department of Fish and Wildlife pursuant to Article 2 (commencing with Section 1525) or Article 4 (commencing with Section 1580) of Chapter 5 of Division 2 of the Fish and Game Code.",
+    "(i) A hazardous waste site that is listed pursuant to Section 65962.5 of the Government Code or a hazardous waste site designated by the Department of Toxic Substances Control pursuant to Section 25356 of the Health and Safety Code, unless either of the following apply:",
+    "(1) The site is an underground storage tank site that received a uniform closure letter issued pursuant to subdivision (g) of Section 25296.10 of the Health and Safety Code based on closure criteria established by the State Water Resources Control Board for the use proposed by the project. This paragraph does not alter or change the conditions to remove a site from the list of hazardous waste sites listed pursuant to Section 65962.5 of the Government Code.",
+    "(2) The State Department of Public Health, State Water Resources Control Board, Department of Toxic Substances Control, or a local agency making a determination pursuant to subdivision (c) of Section 25296.10 of the Health and Safety Code has otherwise determined that the site is suitable for the use proposed by the project.",
+    "(j) Within a regulatory floodway as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency, unless the development has received a no-rise certification in accordance with Section 60.3(d)(3) of Title 44 of the Code of Federal Regulations.",
+    "(k) Lands under conservation easement.",
+    "(l) On, or within a 300-foot radius of, a wetland, as defined in the United States Fish and Wildlife Service Manual, Part 660 FW 2 (June 21, 1993).",
+    "(m) An environmentally sensitive area within the coastal zone, as defined in Section 30107.5.",
+    "(n) Lands identified for conservation in an adopted natural community conservation plan pursuant to the Natural Community Conservation Planning Act (Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code) or habitat conservation plan pursuant to the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), or other adopted natural resource protection plan.",
+    "(o) Within a very high fire hazard severity zone, as determined by the Department of Forestry and Fire Protection pursuant to Section 51178 of the Government Code, or within the state responsibility area, as defined in Section 4102. This subdivision does not apply to sites that have adopted fire hazard mitigation measures pursuant to existing building standards or state fire mitigation measures applicable to the development, including, but not limited to, standards established under all of the following provisions or their successor provisions:",
+    "(1) Section 4291 of this code or Section 51182 of the Government Code, as applicable.",
+    "(2) Section 4290.",
+    "(3) Chapter 7A (commencing with Section 701A.1) of Part 2 of Title 24 of the California Code of Regulations.",
+    "(p) Either prime farmland or farmland of statewide importance, as defined pursuant to the United States Department of Agriculture land inventory and monitoring criteria, as modified for California, and designated on the maps prepared by the Farmland Mapping and Monitoring Program of the Department of Conservation, or land zoned or designated for agricultural protection or preservation by a local ballot measure that was approved by the voters of that jurisdiction."
+   ],
+   "sec": "21067.5",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.1 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) The lead agency shall be responsible for determining whether the project is exempt from this division and whether an environmental impact report, a negative declaration, or a mitigated negative declaration shall be required for any project that is subject to this division. That determination shall be final and conclusive on all persons, including responsible agencies, unless challenged as provided in Section 21167.",
+    "(b) (1) If a proposed housing development project would otherwise be exempt from this division pursuant to a statutory exemption, or categorical exemption pursuant to Class 1 to 5, inclusive, 12, 15, 20, 27, 30, or 32 that is adopted before January 1, 2026, but for a single condition detailed in the statutory exemption or in Section 15300.2, 15301, 15302, 15303, 15304, 15305, 15312, 15315, 15320, 15322, 15327, 15330, or 15332 of Title 14 of the California Code of Regulations, as applicable, the application of this division to the approval of the proposed housing development project shall be limited to effects upon the environment that are caused solely by that single condition.",
+    "(2) An initial study or environmental impact report prepared for a housing development project subject to this subdivision is only required to examine those effects that the lead agency determines, based upon substantial evidence in the record, are caused solely by the single condition that makes the proposed housing development project ineligible for the statutory exemption or categorical exemption.",
+    "(3) An environmental impact report for a housing development project subject to this subdivision is not required to include any discussion of alternatives to the housing development project or the growth-inducing impacts of the housing development project.",
+    "(4) This subdivision does not apply to any of the following housing development projects:",
+    "(A) A proposed housing development project that is not similar in kind to the projects listed in the statutory or categorical exemption.",
+    "(B) A proposed housing development project that is ineligible for the statutory exemption or categorical exemption due to two or more conditions.",
+    "(C) A proposed housing development project that includes a distribution center or oil and gas infrastructure.",
+    "(D) (i) A proposed housing development project located on natural and protected lands, as defined pursuant to Section 21067.5.",
+    "(ii) The definition of “natural and protected lands” described in clause (i) does not include the lands described in subdivision (o) of Section 21067.5.",
+    "(E) The project site or the parcel size exceeds four acres, and either of the following occurred:",
+    "(i) The project is a builder’s remedy project, as defined in paragraph (11) of subdivision (h) of Section 65589.5 of the Government Code.",
+    "(ii) The project applicant applied pursuant to paragraph (5) of subdivision (d) of Section 65589.5 of the Government Code as it read before January 1, 2025.",
+    "(5) For purposes of this subdivision, the following definitions apply:",
+    "(A) “Condition” means a physical or regulatory feature of the project or its setting or an effect upon the environment caused by the project.",
+    "(B) “Housing development project” has the same meaning as defined in Section 65589.5 of the Government Code.",
+    "(c) In the case of a project described in subdivision (c) of Section 21065, the lead agency shall, upon the request of a potential applicant, provide for consultation before the filing of the application regarding the range of actions, potential alternatives, mitigation measures, and any potential and significant effects on the environment of the project."
+   ],
+   "sec": "21080.1",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.44 of the Public Resources Code , as added by Section 8 of Chapter 24 of the Statutes of 2025, is amended and renumbered to read:",
+   "code": "PRC",
+   "note": "section text not found in this bill section",
+   "paras": [],
+   "sec": "21080.44",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.66 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Without limiting any other statutory or categorical exemption, this division does not apply to any aspect of a housing development project, as defined in subdivision (b) of Section 65905.5 of the Government Code, including any permits, approvals, or public improvements required for the housing development project, as may be required by this division, if the housing development project meets all of the following conditions:",
+    "(1) (A) Except as provided in subparagraph (B), the project site is not more than 20 acres.",
+    "(B) The project site or the parcel size for a builder’s remedy project, as defined in paragraph (11) of subdivision (h) of Section 65589.5 of the Government Code, or the project site or the parcel size for a project that applied pursuant to paragraph (5) of subdivision (d) of Section 65589.5 of the Government Code as it read before January 1, 2025, is not more than four acres.",
+    "(2) The project site meets either of the following criteria:",
+    "(A) Is located within the boundaries of an incorporated municipality.",
+    "(B) Is located within an urban area, as defined by the United States Census Bureau.",
+    "(3) The project site meets any of the following criteria:",
+    "(A) Has been previously developed with an urban use.",
+    "(B) At least 75 percent of the perimeter of the site adjoins parcels that are developed with urban uses.",
+    "(C) At least 75 percent of the area within a one-quarter mile radius of the site is developed with urban uses.",
+    "(D) For sites with four sides, at least three out of four sides are developed with urban uses and at least two-thirds of the perimeter of the site adjoins parcels that are developed with urban uses.",
+    "(4) (A) The project is consistent with the applicable general plan and zoning ordinance, as well as any applicable local coastal program as defined in Section 30108.6. For purposes of this section, a housing development project shall be deemed consistent with the applicable general plan and zoning ordinance, and any applicable local coastal program, if there is substantial evidence that would allow a reasonable person to conclude that the housing development project is consistent.",
+    "(B) If the zoning and general plan are not consistent with one another, a project shall be deemed consistent with both if the project is consistent with one.",
+    "(C) The approval of a density bonus, incentives or concessions, waivers or reductions of development standards, and reduced parking ratios pursuant to Section 65915 of the Government Code shall not be grounds for determining that the project is inconsistent with the applicable general plan, zoning ordinance, or local coastal program.",
+    "(5) The project will be at least one-half of the applicable density specified in subparagraph (B) of paragraph (3) of subdivision (c) of Section 65583.2 of the Government Code.",
+    "(6) The project satisfies the requirements specified in paragraph (6) of subdivision (a) of Section 65913.4 of the Government Code.",
+    "(7) The project does not require the demolition of a historic structure that was placed on a national, state, or local historic register before the date a preliminary application was submitted for the project pursuant to Section 65941.1 of the Government Code.",
+    "(8) For a project that was deemed complete pursuant to paragraph (5) of subdivision (h) of Section 65589.5 of the Government Code on or after January 1, 2025, no portion of the project is designated for use as a hotel, motel, bed and breakfast inn, or other transient lodging. For the purposes of this section, “other transient lodging” does not include either of the following:",
+    "(A) A residential hotel, as defined in Section 50519 of the Health and Safety Code.",
+    "(B) After the issuance of a certificate of occupancy, a resident’s use or marketing of a unit as short-term lodging, as defined in Section 17568.8 of the Business and Professions Code, in a manner consistent with local law.",
+    "(b) (1) (A) A local government shall provide formal notification via certified mail and email to each California Native American tribe that is traditionally and culturally affiliated with the project site as an invitation to consult on the proposed project, its location, and the project’s potential effects on tribal cultural resources pursuant to one of the following deadlines:",
+    "(i) Within 14 days of the application for the project being deemed complete pursuant to paragraph (5) of subdivision (h) of Section 65589.5 of the Government Code.",
+    "(ii) For projects whose applications were deemed complete pursuant to paragraph (5) of subdivision (h) of Section 65589.5 of the Government Code before July 1, 2026, within 14 days of notifying the local government that the project is eligible to be exempt from this division pursuant to this section.",
+    "(B) The formal notification shall include all of the following:",
+    "(i) Detailed project information to help inform the consultation, including site maps, proposed project scope, and any known cultural resource studies.",
+    "(ii) Contact information for the local government.",
+    "(iii) Contact information for the project proponent.",
+    "(iv) Notice that the California Native American tribe has 60 days to request consultation with the local government pursuant to this subdivision.",
+    "(2) (A) Each California Native American tribe has 60 days to notify the local government that it accepts the invitation to consult.",
+    "(B) If a California Native American tribe chooses not to accept the invitation to consult, or does not notify the local government of its decision within 60 days, the consultation shall be considered to have concluded.",
+    "(3) (A) Within 14 days of receiving the notification that the California Native American tribe has elected to consult, pursuant to subparagraph (A) of paragraph (2), the local government shall initiate the consultation.",
+    "(B) During the consultation, the local government shall act in good faith to identify whether a tribal cultural resource could be affected by the proposed project and shall give deference to the tribal information, tribal knowledge and customs, and the significance of the resource to the California Native American tribe.",
+    "(C) The project proponent may participate in the consultation with the approval of the California Native American tribe if the project proponent agrees to engage in good faith and comply with the confidentiality requirements of Sections 7927.000 and 7927.005 of the Government Code, subdivision (d) of Section 21082.3, subdivision (d) of Section 15120 of Title 14 of the California Code of Regulations, and any confidentiality standards adopted by the California Native American tribe participating in the consultation.",
+    "(D) The consultation shall seek to find measures that would avoid significant impacts to a tribal cultural resource.",
+    "(E) The local government shall document the results of the consultation.",
+    "(F) The consultation shall conclude within 45 days of initiation, subject to a one-time 15-day extension upon request by a participating California Native American tribe.",
+    "(4) The local government shall include, as binding conditions of the project approval, all of the following:",
+    "(A) Any enforceable agreements reached during the project consultation.",
+    "(B) All of the following measures, unless there is mutual agreement between the California Native American tribe and the project proponent not to include the measure as a binding condition:",
+    "(i) Upon request by a California Native American tribe, the project shall include tribal monitoring during all ground-disturbing activities, as follows:",
+    "(I) The California Native American tribe shall designate the monitor.",
+    "(II) The tribal monitor shall comply with applicant’s site access and workplace safety requirements.",
+    "(III) The applicant shall compensate the tribal monitor at a reasonable rate, determined in good faith, that aligns with customary compensation for cultural resource monitoring, taking into account factors such as the scope and duration of the project.",
+    "(ii) Tribal cultural resources shall be avoided where feasible, in accordance with subdivision (a) of Section 21084.3. In furtherance of this requirement, where feasible, the project applicant shall provide deference to tribal preferences regarding access to spiritual, ceremonial, and burial sites, and incorporate tribal traditional knowledge in the protection and sustainable use of tribal cultural resources and landscapes.",
+    "(iii) All treatment and documentation of tribal cultural resources shall be conducted in a culturally appropriate manner, consistent with Section 21083.9.",
+    "(iv) A California Historical Resources Information System archaeological records search and a tribal cultural records search shall be completed for the project site.",
+    "(v) A Sacred Lands Inventory request shall be submitted to the Native American Heritage Commission.",
+    "(vi) The project shall comply with Section 7050.5 of the Health and Safety Code and Section 5097.98, including immediate work stoppage upon discovery of human remains or burial grounds, and treatment in accordance with applicable law and in consultation with the affected California Native American tribe.",
+    "(vii) An application of tribal ecological knowledge into habitat restoration efforts undertaken by the project as applicable to the specific environmental context and conditions of the project.",
+    "(5) For purposes of this subdivision, the following definitions apply:",
+    "(A) “California Native American tribe” has the same meaning as defined in Section 21073.",
+    "(B) “Enforceable agreement” means an agreement between the local government, project proponent, and any California Native American tribe that has engaged in consultation pursuant to this subdivision regarding the methods, measures, and conditions for tribal cultural resource identification, treatment, and protection, including consideration of avoidance. Compliance with the enforceable agreement shall be a required condition of approval for the project and its terms must be enforceable against the project proponent by the local government and the California Native American tribe.",
+    "(C) “Tribal cultural resource” means a site, feature, place, cultural landscape, sacred place, including a Native American sanctified cemetery, Indian cemetery, or Indian burial area, or an object with cultural value to a California Native American tribe that is any of the following:",
+    "(i) Included or eligible for inclusion in the California Register of Historical Resources or the National Register of Historic Places.",
+    "(ii) Included in a local register of historical resources as defined in subdivision (k) of Section 5020.1.",
+    "(iii) Identified by the Native American Heritage Commission as a sacred place pursuant to Section 5097.94 or 5097.96.",
+    "(iv) Included in a local tribal register.",
+    "(c) (1) (A) The local government shall, as a condition of approval for the development, require the development proponent to complete a phase I environmental assessment, as defined in Section 78090 of the Health and Safety Code.",
+    "(B) If a recognized environmental condition is found, the development proponent shall complete a preliminary endangerment assessment, as defined in Section 78095 of the Health and Safety Code, prepared by an environmental assessor to determine the existence of any release of a hazardous substance on the site and to determine the potential for exposure of future occupants to significant health hazards from any nearby property or activity.",
+    "(C) If a release of a hazardous substance is found to exist on the site, the release shall be removed or any effects of the release shall be mitigated to levels required by current federal and state statutory and regulatory standards before the local government issues a certificate of occupancy.",
+    "(D) If a potential for exposure to significant hazards from surrounding properties or activities is found to exist, the effects of the potential exposure shall be mitigated to levels required by current federal and state statutory and regulatory standards before the local government issues a certificate of occupancy.",
+    "(2) For any housing on the site located within 500 feet of a freeway, all of the following shall apply:",
+    "(A) The building shall have a centralized heating, ventilation, and air-conditioning system.",
+    "(B) The outdoor air intakes for the heating, ventilation, and air-conditioning system shall face away from the freeway.",
+    "(C) The building shall provide air filtration media for outside and return air that provides a minimum efficiency reporting value of 16.",
+    "(D) The air filtration media shall be replaced at the manufacturer’s designated interval.",
+    "(E) The building shall not have any balconies facing the freeway.",
+    "(d) (1) Notwithstanding any other law, all construction workers employed in the execution of a housing development project exempt from this division pursuant to this section where 100 percent of the units within the development project are dedicated to lower income households, as defined by Section 50079.5 of the Health and Safety Code, shall be paid at least the general prevailing rate of per diem wages for the type of work and geographic area, as determined by the Director of Industrial Relations pursuant to Sections 1773 and 1773.9 of the Labor Code, except that apprentices registered in programs approved by the Chief of the Division of Apprenticeship Standards may be paid at least the applicable apprentice prevailing rate, regardless of whether the housing development project is a public work.",
+    "(2) Notwithstanding any other law, the labor standards of paragraph (8) of subdivision (a) of Section 65913.4 of the Government Code shall apply to buildings over 85 feet in height above grade in any housing development project exempt from this division pursuant to this section.",
+    "(3) (A) Notwithstanding any other law, the labor standards of Article 4 (commencing with Section 65912.130) of Chapter 4.1 of Division 1 of Title 7 of the Government Code shall apply for projects of 50 units or greater in the City and County of San Francisco that are not covered by paragraph (2), for any construction craft where at least 50 percent of the units in market-rate multifamily housing projects that received their certificate of occupancy between 2022 and 2024, inclusive, were built by workers that were paid not less than the general prevailing rate of per diem wages.",
+    "(B) For purposes of this section, “market-rate multifamily housing development project” means a housing development project of greater than 10 units where less than 95 percent of the units are dedicated to lower income households, as defined by Section 50079.5 of the Health and Safety Code.",
+    "(C) (i) The eligibility of this subparagraph, by classification, will be determined by the Department of Industrial Relations and published on its internet website by January 1, 2026.",
+    "(ii) In making a determination of eligibility pursuant to this subparagraph, the Director of Industrial Relations shall obtain and consider data from the labor organizations and employers or employer associations concerned no later than October 1, 2025.",
+    "(iii) To determine the number of market-rate multifamily housing projects that received their certificate of occupancy in a given year, the Department of Industrial Relations shall use the annual progress report data as reported by the jurisdiction pursuant to Section 65400 of the Government Code.",
+    "(4) The provisions of Section 218.8 of the Labor Code shall extend to the development proponent in addition to the direct contractor or subcontractor. For purposes of this paragraph, “development proponent” shall mean a developer who submits the housing development project application to a local government that is exempt from this division pursuant to this section.",
+    "(5) (A) A joint labor-management cooperation committee established pursuant to the federal Labor Management Cooperation Act of 1978 (29 U.S.C. Sec. 175a) may undertake any of the following on a housing development project that is exempt from this division pursuant to this section:",
+    "(i) Bring an action in a court of competent jurisdiction against a contractor or subcontractor at any tier on behalf of construction workers employed by the contractor or subcontractor on a housing development project that is exempt from this division pursuant to this section to enforce Section 226 of the Labor Code. A contractor is not subject to an action pursuant to this subparagraph due to the failure of a subcontractor to comply with Section 226 of the Labor Code.",
+    "(ii) Bring an action in a court of competent jurisdiction on behalf of an affected employee against an employer for damages as if Division 4 (commencing with Section 3200) of the Labor Code did not apply, if the employer fails to secure the payment of compensation as required by Article 1 (commencing with Section 3700) of Chapter 4 of Part 1 of Division 4 of the Labor Code.",
+    "(iii) In addition to the remedies set forth in Section 7028.3 of the Business and Professions Code, on proper showing by a joint labor-management cooperation committee of a continuing violation of Chapter 9 (commencing with Section 7000) of Division 3 of the Business and Professions Code by a person who constructs a housing project and does not hold a state contractor’s license in any classification, an injunction shall issue by a court specified in Section 7028.3 of the Business and Professions Code at the request of the joint labor-management cooperation committee, prohibiting that violation.",
+    "(B) For any action brought pursuant to this paragraph, the court shall award a prevailing joint labor-management committee its reasonable attorney’s fees and costs incurred maintaining the action.",
+    "(C) An action brought pursuant to this paragraph shall be filed within one year of a local government issuing a certificate of occupancy for the housing development project or for the portion relating to the action.",
+    "(D) This paragraph shall apply only to violations that occur on the site of construction of the housing development project.",
+    "(e) This section does not affect the eligibility of a housing development project for a density bonus, incentives or concessions, waivers or reductions of development standards, and reduced parking ratios pursuant to Section 65915 of the Government Code.",
+    "(f) If a lead agency determines that this division does not apply to an activity pursuant to this section and determines to approve or carry out the activity, the lead agency shall file a notice of exemption with the Governor’s Office of Land Use and Climate Innovation and the county clerk of the county in which the activity will occur in the manner specified in subdivisions (b) and (c) of Section 21108 or subdivisions (b) and (c) of Section 21152, as applicable.",
+    "(g) For purposes of this section, the following terms apply:",
+    "(1) “Adjoins” includes parcels that are only separated by a street, pedestrian path, or bicycle path.",
+    "(2) “Construction worker” means one performing onsite work associated with construction, including work involving alteration, demolition, building, excavation, renovation, remodeling, maintenance, improvement, repair work, and any other work as described by Chapter 9 (commencing with Section 7000) of Division 3 of the Business and Professions Code, and other similar or related occupations or trades.",
+    "(3) “Urban use” means any current or previous residential or commercial development, public institution, or public park that is surrounded by other urban uses, parking lot or structure, transit or transportation passenger facility, or retail use, or any combination of those uses."
+   ],
+   "sec": "21080.66",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.73 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Notwithstanding any other law, a housing development project, as defined in paragraph (2) of subdivision (h) of Section 65589.5 of the Government Code, that meets the following criteria shall be considered a discretionary project, as that term is used in subdivision (a) of Section 21080, and shall not be exempt from this division:",
+    "(1) The project is located in a city with a population of more than 85,000 but less than 95,000, as determined by the 2020 Census.",
+    "(2) The project is located in a county with a population of more than 440,000 but less than 455,000, as determined by the 2020 Census.",
+    "(3) A portion of the parcel where the project is located is identified on a United States Fish and Wildlife Service map as freshwater forested or shrub wetland.",
+    "(4) A portion of the parcel where the project is located is within a regulatory floodway as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency.",
+    "(5) The project is located on a parcel adjacent to a California historical landmark on the California Register of Historic Places."
+   ],
+   "sec": "21080.73",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Land use.",
+ "title": "An act to amend Sections 65400, 65928, and 65950 of the Government Code, to amend Section 50245 of the Health and Safety Code, and to amend Sections 21067.5, 21080.1, and 21080.66 of, to amend and renumber Section 21080.44 of, and to add Section 21080.73 to, the Public Resources Code, relating to land use, and making an appropriation therefor, to take effect immediately, bill related to the budget.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-08",
+   "id": "20250AB15899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-09",
+   "id": "20250AB15898AMD",
+   "num": "98"
+  }
+ ]
+}

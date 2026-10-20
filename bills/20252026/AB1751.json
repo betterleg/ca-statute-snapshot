@@ -1,0 +1,303 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Quirk-Silva",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  }
+ ],
+ "bill": "AB1751",
+ "bill_id": "202520260AB1751",
+ "chapter": {
+  "num": "781",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, contains various provisions requiring a local government that receives an application for certain types of qualified housing developments to review the application under a streamlined, ministerial approval process, depending on the type of housing development, as specified. Existing law, the Subdivision Map Act, vests the authority to regulate and control the design and improvement of subdivisions in the legislative body of a local agency and sets forth procedures governing the local agency’s processing, approval, conditional approval or disapproval, and filing of tentative, final, and parcel maps, and the modification thereof. The act generally requires a subdivider to file a tentative map or vesting tentative map with the local agency, as specified, and the local agency, in turn, to approve, conditionally approve, or disapprove the map within a specified time period. Existing law, known as the Starter Home Revitalization Act of 2021, among other things, requires a local agency to ministerially consider, without discretionary review or a hearing, a parcel map or a tentative and final map for a housing development project that meets certain requirements, including that the housing development project on the lot proposed to be subdivided will contain 10 or fewer residential units, except as provided.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA does not apply to the approval of ministerial projects.",
+  "This bill, the Missing Middle Townhome Ownership Act, would authorize a development proponent to submit an application for a townhome development project that is subject to a prescribed ministerial approval process if the development complies with certain procedural requirements and satisfies specified objective planning standards. The bill would also require a local agency to ministerially consider, without discretionary review or a hearing, a tentative and final map for a townhome development project that meets specified requirements, including that the proposed subdivision complies with the requirements established by the bill for ministerial approval of a townhome development project, as described in the preceding sentence, and that the newly created parcels are no smaller than 600 square feet. The act would define “townhome” for these purposes to mean a single-family dwelling unit that is less than or equal to 3 stories of occupiable square footage and either shares a common wall, as specified, or is separated from one or more neighboring units by no more than a specified fire separation distance, and would define “townhome development project” to mean a housing development project that consists entirely of residential units that satisfy this definition of townhome and meets prescribed density requirements, size requirements, and unit limits. The bill would authorize a local agency to disapprove a townhome development project, or deny the issuance of a tentative map or a final map for a townhome development project, allowed under the bill’s provisions if it makes written findings based upon a preponderance of the evidence that the proposed townhome development project would have a specific, adverse impact, as provided in specified law, upon public health and safety and for which there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact. The bill would authorize a local agency to adopt an ordinance to implement its provisions and would provide that the adoption of such an ordinance is not a project under CEQA.",
+  "By establishing new ministerial approval processes relating to townhome development projects, as described above, this bill would expand the scope of the exemption from CEQA for ministerial projects. Further, by adding to the duties of local officials with respect to the review and approval of townhome development projects, the bill would impose a state-mandated local program.",
+  "This bill would exempt the City and County of San Francisco from its provisions.",
+  "The bill would make legislative findings and declarations as to the necessity of a special statute for the City and County of San Francisco.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities, except as provided.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "57ff398244a63a49",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-09"
+  },
+  {
+   "action": "From printer. May be heard in committee March 12.",
+   "date": "2026-02-10"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 12. Noes 0.) (April 15).",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 4663.)",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "(Pending re-refer to Com. on L. GOV.)",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2026-04-20"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2026-04-20"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2026-04-21"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 47. Noes 0. Page 5196.)",
+   "date": "2026-05-21"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-21"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and L. GOV.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 10. Noes 0.) (June 24).",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (July 1).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-07-29"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+   "date": "2026-08-04"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-08-10"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-11"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 36. Noes 2.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 0. Page 6635.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-03"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 781, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250AB175189CHP",
+  "num": "89"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65852.30 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A development proponent may submit an application for a townhome development project that meets the requirements of this section and Chapter 9 (commencing with Section 66499.45) of Division 2 of Title 7. A townhome development project application under this section includes any city, or for townhome development projects located in an unincorporated area of a county, land use and zoning approvals required to authorize construction and occupation of the townhome development project, including, but not limited to, subdivision, building, grading, and other permits.",
+    "(b) (1) For any townhome development project application submitted pursuant to this section, a local agency may impose objective general plan standards, objective zoning standards, objective subdivision standards, or objective design standards that are applicable to the townhome development project, and do not conflict with this section.",
+    "(2) Notwithstanding paragraph (1), a local agency shall not impose on a townhome development project an objective general plan standard, objective zoning standard, objective subdivision standard, or objective design standard that does or is any of the following:",
+    "(A) Physically precludes the development of a proposed townhome development project that complies with at least 75 percent of the applicable density specified in subparagraph (B) of paragraph (3) of subdivision (c) of Section 65583.2.",
+    "(B) (i) Except as provided in clause (ii), imposes any requirement that applies to a townhome development project solely or partially on the basis that the project receives approval pursuant to this section.",
+    "(ii) If the townhome development project is proposed on a site with a general plan designation or zoning classification that does not allow the density proposed by the townhome development project, the local agency may require the project to comply with the objective general plan standards, objective zoning standards, objective subdivision standards, and objective design standards that would have applied to the project had it been proposed on a site with a general plan designation and zoning classification that allow the density and unit type proposed by the applicant.",
+    "(C) Requires that parking be enclosed or covered or requires parking capacity or parking designs that are prohibited or restricted by other law.",
+    "(3) In addition to any other requirements imposed in accordance with this section, a local agency may require the construction or dedication of any improvements, facilities, infrastructure, or rights-of-way necessary for the townhome development project to be consistent with the local agency’s general plan.",
+    "(c) A local agency shall ministerially consider, without discretionary review or a hearing, an application submitted to a local agency pursuant to this section.",
+    "(d) A local agency may disapprove a townhome development project that meets the requirements of this section if it makes a written finding, based upon a preponderance of the evidence, that the proposed townhome development project would have a specific, adverse impact, as defined and determined in paragraph (2) of subdivision (d) of Section 65589.5, upon public health and safety and for which there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact.",
+    "(e) A local agency may adopt an ordinance to implement the provisions of this section. An ordinance adopted to implement this section shall not be considered a project under Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(f) A local agency shall follow the tribal consultation procedures described in subdivision (b) of Section 21080.66 of the Public Resources Code.",
+    "(g) Nothing in this section shall be construed to supersede or in any way alter or lessen the effect or application of the California Coastal Act of 1976 (Division 20 (commencing with Section 30000) of the Public Resources Code).",
+    "(h) This section shall not apply to the City and County of San Francisco.",
+    "(i) For purposes of this section:",
+    "(1) “Townhome” means a single-family dwelling unit that is less than or equal to three stories of occupiable square footage, and meets either of the following conditions:",
+    "(A) Shares a common wall with other single-family dwelling units on one or two sides.",
+    "(B) Is separated from one or more neighboring units by no more than the minimum fire separation distance as set forth in the building standards for residential buildings in Chapter 3 of Part 2.5 of Title 24 of the California Building Standards Code.",
+    "(2) “Townhome development project” means a housing development project, as defined in Section 65589.5, that consists entirely of residential units that satisfy the definition of a townhome, and that satisfies all of the following:",
+    "(A) The average total area of floorspace for the proposed townhomes in a townhome development project does not exceed 1,750 net habitable square feet. For purposes of this paragraph, “net habitable square feet” means the finished and heated floor area fully enclosed by the inside surface of walls, windows, doors, and partitions, and having a headroom of at least six and one-half feet, including working, living, eating, cooking, sleeping, stair, hall, service, and storage areas, but excluding garages, carports, parking spaces, cellars, half-stories, and unfinished attics and basements.",
+    "(B) It contains no more than 150 total units.",
+    "(C) It has at least 75 percent of the applicable density described in subparagraph (B) of paragraph (3) of subdivision (c) of Section 65583.2.",
+    "(D) If it includes 11 or more units, it meets the applicable of the following:",
+    "(i) At least 10 percent of the total units, as defined in subparagraph (A) of paragraph (9) of subdivision (o) of Section 65915, are dedicated to lower income households, as defined in Section 50079.5 of the Health and Safety Code. The lower income units shall have an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code, and the local agency shall ensure their continued affordability for a period of at least 45 years.",
+    "(ii) If a local inclusionary housing requirement mandates a higher percentage of affordable units than that described in clause (i), then the local policy shall apply rather than clause (i)."
+   ],
+   "sec": "65852.30",
+   "verb": "added"
+  },
+  {
+   "action": "Chapter 9 (commencing with Section 66499.45) is added to Division 2 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this chapter:",
+    "(a) “Townhome” has the same meaning as defined in Section 65852.30.",
+    "(b) “Townhome development project” has the same meaning as defined in Section 65852.30."
+   ],
+   "sec": "66499.45",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Missing Middle Townhome Ownership Act.",
+ "title": "An act to add Section 65852.30 to, and to add Chapter 9 (commencing with Section 66499.45) to Division 2 of Title 7 of, the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-09",
+   "id": "20250AB175199INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-16",
+   "id": "20250AB175198AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-20",
+   "id": "20250AB175197AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-18",
+   "id": "20250AB175196AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-17",
+   "id": "20250AB175195AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-29",
+   "id": "20250AB175194AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-02",
+   "id": "20250AB175193AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-04",
+   "id": "20250AB175192AMD",
+   "num": "92"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB175191AMD",
+   "num": "91"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-30",
+   "id": "20250AB175190ENR",
+   "num": "90"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250AB175189CHP",
+   "num": "89"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Valladares",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alvarez",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ávila Farías",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Flora",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hadwick",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hoover",
+   "primary": false
+  }
+ ],
+ "bill": "SB508",
+ "bill_id": "202520260SB508",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "If a lead agency determines that a project will have a significant transportation impact, existing law authorizes the lead agency to mitigate the transportation impact to a less than significant level by helping to fund or otherwise facilitating housing or related infrastructure projects, including by contributing an amount, to be determined pursuant to guidance issued by the Office of Land Use and Climate Innovation, to the Transit-Oriented Development Implementation Fund for purposes of the Transit-Oriented Development Implementation Program. Existing law authorizes the deposit of those contributions into the fund beginning on or before July 1, 2026, as determined by the Department of Housing and Community Development, and makes those moneys available to the department, upon appropriation by the Legislature, for the purpose of awarding funding for affordable housing or related infrastructure projects under the program in accordance with specified priorities. On or before July 1, 2026, and at least once every 3 years thereafter, existing law requires the office, in consultation with other state agencies, to issue guidance related to the implementation of these provisions, as provided. Existing law makes related findings and declarations.",
+  "This bill would require a contribution to the fund to be deemed full and complete mitigation for that portion of the project’s significant transportation impact mitigated by the contribution to the fund and a legally sufficient mitigation measure under CEQA. The bill would authorize the deposit of those contributions into the fund beginning on the date of the issuance of the initial guidance by the office. The bill would make additional related findings and declarations."
+ ],
+ "hash": "f0528f45e0e0fa66",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Com. on B. P. & E.D.",
+   "date": "2025-02-26"
+  },
+  {
+   "action": "Set for hearing April 7.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on B. P. & E.D.",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0. Page 680.) (April 7). Re-referred to Com. on APPR.",
+   "date": "2025-04-07"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 1252.) Ordered to the Assembly.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Referred to Com. on B. & P.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "July 1 set for first hearing canceled at the request of author.",
+   "date": "2025-07-01"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on B. & P.",
+   "date": "2025-09-09"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-09-09",
+  "id": "20250SB50897AMD",
+  "num": "97"
+ },
+ "location": "CX33",
+ "sections": [
+  {
+   "action": "Section 21080.43 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "The Legislature finds and declares all of the following:",
+    "(a) The Legislature reaffirms that the California Environmental Quality Act (CEQA) established longstanding legal requirements for the imposition of mitigation measures on projects.",
+    "(b) Specifically, CEQA requires that mitigation measures:",
+    "(1) Be feasible, meaning capable of being accomplished in a successful manner within a reasonable timeframe, taking into account economic, environmental, legal, social, and technological factors.",
+    "(2) Be roughly proportional to the impacts of the project.",
+    "(3) Be supported by substantial evidence demonstrating a reasonable relationship, or “nexus,” between the mitigation and the impact it is intended to address.",
+    "(c) The Legislature further reaffirms that mitigation frameworks, including those aimed at addressing cumulative impacts such as vehicle miles traveled, must comply with these longstanding requirements that provide legal certainty, and equitable treatment of projects.",
+    "(d) Guidelines shall be developed in a manner that reflects and upholds these established principles.",
+    "(e) Providing certainty and predictability in the CEQA process is essential to advancing timely and cost-effective project delivery, while also ensuring that significant environmental impacts are identified and mitigated to the extent feasible.",
+    "(f) The mitigation option authorized by Section 21080.44 is consistent with CEQA’s core purpose of reducing or avoiding significant environmental impacts whenever feasible, and that establishing a standardized, evidence-based approach to mitigation promotes transparency, accountability, and uniformity in the application of state environmental law.",
+    "(g) Project-by-project litigation challenging the legitimacy of a uniform mitigation framework undermines CEQA’s efficiency and predictability, imposes unnecessary costs on public agencies and project applicants, and delays projects that provide environmental, housing, mobility, and climate benefits.",
+    "(h) The Legislature further finds that existing guidance has been established in CEQA guidelines and subsequent technical advisories for addressing transportation impacts under CEQA. Impact analysis under CEQA is a dynamic process, continually informed by advancements in research, data, and practice. Currently, the Department of Transportation is developing updated methodologies for analyzing transportation impacts in rural settings, which are expected to be published on or before July 1, 2026. It is the intent of the Legislature that these ongoing efforts be integrated into relevant guidance for addressing transportation impacts that promote more effective practices statewide.",
+    "(i) It is the intent of Legislature that lead agencies ensure that vehicle miles traveled mitigation is achieved through a balanced approach by ensuring a project invests in multiple types of mitigation measures when working to reduce the vehicle miles traveled impacts of a project.",
+    "(j) It is the intent of the Legislature that this program serve as one optional strategy that a project applicant may use to mitigate a significant transportation impact under CEQA. The program established pursuant Section 21080.44 is intended to facilitate an existing category of mitigation, specifically, the development of vehicle miles traveled-efficient affordable housing or related infrastructure, by providing a streamlined and accessible mechanism through which applicants can contribute to eligible mitigation projects. This approach is consistent with established practices already used at the local and regional level across the state and provides project applicants an additional tool to support their mitigation efforts."
+   ],
+   "sec": "21080.43",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.44 of the Public Resources Code , as added by Section 58 of Chapter 22 of the Statutes of 2025, is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, all of the following definitions apply:",
+    "(1) “Department” means the Department of Housing and Community Development.",
+    "(2) “Office” means the Office of Land Use and Climate Innovation.",
+    "(3) “Region” means the territory of the metropolitan planning organization within which a project is located, or the territory of the regional transportation planning agency within which a project is located if the project is located outside of the boundaries of a metropolitan planning organization.",
+    "(4) “Transit-Oriented Development Implementation Fund” means the fund created pursuant to Section 53561 of the Health and Safety Code.",
+    "(5) “Transit-Oriented Development Implementation Program” means the program established pursuant to Part 13 (commencing with Section 53560) of Division 31 of the Health and Safety Code.",
+    "(b) (1) (A) (i) If a lead agency determines that a project will have a significant transportation impact pursuant to the metrics adopted pursuant to paragraph (1) of subdivision (b) of Section 21099, the lead agency may mitigate the transportation impact to a less than significant level by helping to fund or otherwise facilitating vehicle miles traveled-efficient affordable housing or related infrastructure projects, provided the projects meet the requirements of mitigation measures contained within this division and Chapter 3 of Division 6 of Title 14 of the California Code of Regulations, including by contributing an amount, to be determined pursuant to the office’s guidance issued pursuant to subdivision (d), to the Transit-Oriented Development Implementation Fund for purposes of the Transit-Oriented Development Implementation Program.",
+    "(ii) A contribution made pursuant to this section to the Transit-Oriented Development Implementation Fund, in the amount determined consistent with the office’s guidance issued pursuant to subdivision (d), shall be deemed full and complete mitigation for that portion of the project’s significant transportation impact mitigated by the contribution to the fund and a legally sufficient mitigation measure under this division.",
+    "(B) This section shall not preclude the lead agency’s use of other mitigation strategies, including, but not limited to, transportation demand management, transit improvements, active transportation infrastructure, road diets, or utilizing local or regional mitigation banks and exchanges.",
+    "(2) (A) Moneys may be deposited into the Transit-Oriented Development Implementation Fund pursuant to paragraph (1) beginning on the date of the issuance of the initial guidance pursuant to subdivision (d).",
+    "(B) It is the intent of the Legislature that the office issue the initial guidance pursuant to subdivision (d) on or before July 1, 2026.",
+    "(3) Consistent with paragraph (1), a project applicant may use the Transit-Oriented Development Implementation Fund as one optional strategy to mitigate a significant transportation impact under this division. The ultimate use of this mitigation option is subject to the discretion of the lead agency that retains full authority to determine the sufficiency of any proposed mitigation consistent with this division.",
+    "(c) (1) Moneys deposited into the Transit-Oriented Development Implementation Fund pursuant to subdivision (b) shall be available to the department, upon appropriation by the Legislature, for the purpose of awarding funding for affordable housing or related infrastructure projects, including infrastructure necessary for higher density uses, under the Transit-Oriented Development Implementation Program in the following priority order:",
+    "(A) First priority to affordable housing or related infrastructure projects in location-efficient areas, as defined in the office’s guidance issued pursuant to subdivision (d), within the same region as the project.",
+    "(B) Second priority to affordable housing or related infrastructure projects within the same region as the project.",
+    "(C) (i) Third priority to affordable housing or related infrastructure projects in location-efficient areas that are outside of the originating region but within an adjacent region, provided the project site is located within a defined proximity radius established by the office issued pursuant to clause (ii).",
+    "(ii) The proximity radius shall be specified in the office’s guidance and may vary based on regional characteristics such as population density and travel patterns. The intent of this provision is to support projects in neighboring regions that offer similar vehicle miles traveled-reducing benefits due to the project’s location efficiency, including access to high-quality transit, jobs, and essential services.",
+    "(2) Affordable housing or related infrastructure projects for which funding was applied from other state funding programs, but was not awarded due to limited program resources, or was awarded but a financing gap still exists, may be considered for funding pursuant to this subdivision. The applications for funding for these affordable housing or related infrastructure projects shall be eligible for consideration through a streamlined and expedited administrative review process to accelerate delivery.",
+    "(3) For each award of funding for affordable housing or related infrastructure projects pursuant to this subdivision, the department shall, in partnership with the office, confirm the estimated reduction in vehicle miles traveled associated with the affordable housing or related infrastructure project using the methodology established in the office’s guidance issued pursuant to subdivision (d).",
+    "(d) On or before July 1, 2026, and at least once every three years thereafter, the office, in consultation with other state agencies, as appropriate, shall issue guidance related to the implementation of this section. This guidance shall include all of the following:",
+    "(1) A methodology for determining the amounts that are required to be contributed to the Transit-Oriented Development Implementation Fund pursuant to subdivision (b) to mitigate the environmental impacts associated with vehicle miles traveled.",
+    "(2) A definition of location-efficient areas that reflects a reasonable nexus between the location of the transportation impact of the project and the location of the vehicle miles traveled-efficient affordable housing or related infrastructure project which shall consider the location efficient area’s consistency with an adopted sustainable communities strategy pursuant to Section 65080 of the Government Code, alternative planning strategy pursuant to Section 65080 of the Government Code, or other adopted regional growth plan intended to foster efficient land use.",
+    "(3) A process for validating a project’s vehicle miles traveled funding contribution, which shall be designed to provide certainty to the lead agency and project applicant that the contribution satisfies applicable mitigation requirements under this division for significant transportation impacts.",
+    "(4) A methodology for estimating the anticipated reduction in vehicle miles traveled associated with affordable housing or related infrastructure projects funded pursuant to subdivision (c). This methodology may consider existing methodologies, but shall be tailored to the specific purposes and structure of this section, including accounting for relevant factors influencing vehicle miles traveled reduction, including proximity to transit, job access, walkability, and the level of affordability, and the length of the affordability period, of the affordable housing or related infrastructure project.",
+    "(e) (1) (A) The initial guidance, which is required to be issued by the office on or before July 1, 2026, pursuant to subdivision (d), shall not be subject to the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).",
+    "(B) Before finalizing the initial guidance, the office shall provide public notice, make a draft version publicly available, and allow for a public comment period of at least 30 days. The office shall consider all comments received before issuing the final guidance.",
+    "(2) The office shall commence the regular rulemaking process for subsequent guidance on or before January 1, 2028, in compliance with the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).",
+    "(f) Beginning the year following the first distributions of funding pursuant to this section, the office, in consultation with the department, the Transportation Agency, and regions, shall evaluate the use of vehicle miles traveled mitigation resources allocated pursuant to this section. The evaluation shall assess the distribution of funds across project types, the effectiveness of supported projects in reducing vehicle miles traveled, the affordability of the housing units produced, and other relevant metrics that reflect program performance. Based on this assessment, the department, in consultation with the office and the Transportation Agency, may revise program guidelines to enhance outcomes.",
+    "(g) This section does not prevent a local agency from charging local impact fees based on vehicle miles traveled pursuant to the Mitigation Fee Act (Chapter 5 (commencing with Section 66000), Chapter 6 (commencing with Section 66010), Chapter 7 (commencing with Section 66012), Chapter 8 (commencing with Section 66016), and Chapter 9 (commencing with Section 66020) of Division 1 of Title 7 of the Government Code)."
+   ],
+   "sec": "21080.44",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: transportation impact mitigation.",
+ "title": "An act to amend Sections 21080.43 and 21080.44 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250SB50899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-03",
+   "id": "20250SB50898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-09",
+   "id": "20250SB50897AMD",
+   "num": "97"
+  }
+ ]
+}

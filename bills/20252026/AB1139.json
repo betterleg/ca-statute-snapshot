@@ -1,0 +1,210 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rogers",
+   "primary": true
+  }
+ ],
+ "bill": "AB1139",
+ "bill_id": "202520260AB1139",
+ "chapter": {
+  "num": "391",
+  "year": "2025"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA exempts from its requirements a change in use approved by a lead agency that is a park district or the Great Redwood Trail Agency to allow public access to preexisting paved and natural surface roads, preexisting trails, preexisting pathways, preexisting disturbed areas for vehicle parking, as specified, and rail lines converted by the Great Redwood Trail Agency into trails known as the Great Redwood Trail, in areas used exclusively for nonmotorized recreation, if certain conditions are met, including that the change in use is consistent with a plan adopted by the park district or the Great Redwood Trail Agency, as applicable, and does not involve a physical alteration of the affected area. Existing law requires, before making a determination to approve or carry out a change in use that is determined to be exempt from CEQA, the lead agency to, among other things, make a finding that the above-described criteria are met. Existing law requires the lead agency, if the lead agency determines that a change in use is not subject to CEQA pursuant to this exemption and determines to approve or carry out the activity, to file a notice with the State Clearinghouse in the Office of Land Use and Climate Innovation and with the county clerk of the county in which the land is located, as provided.",
+  "This bill would extend the above exemption to a lead agency that is a county park agency. The bill would remove the condition that the change in use is consistent with a plan adopted by the park district or the Great Redwood Trail Agency, as applicable, and would instead require the lead agency, before making the exemption determination, to adopt a natural resource management plan, or equivalent document, that includes appropriate identification of resources and management strategies for the affected area, as specified. The bill would instead require, as a condition of this exemption, that the change in use only involves minimal physical alterations and minimal improvements to the affected area, as specified. The bill would require the lead agency to make an additional finding that there is sufficient funding to implement the natural resource management plan, or equivalent document, and would require the finding, as well as the finding that the above-described criteria are met, to be based on substantial evidence. The bill would provide that its provisions do not apply where it is reasonably foreseeable that the provision of public access within a park or open space area will have a significant or cumulatively considerable effect on the environment. By imposing duties on public agencies related to the exemption, this bill would create a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "03836298a9694855",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and W. P., & W.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on W. P., & W. (Ayes 13. Noes 0.) (April 7).",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Re-referred to Com. on W. P., & W.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (April 29). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 70. Noes 0. Page 1656.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and N.R. & W.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on N.R. & W. (Ayes 8. Noes 0.) (July 2).",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on N.R. & W.",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (July 16). Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 2251.).",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-08-26"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 76. Noes 0. Page 2763.).",
+   "date": "2025-08-28"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-06"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 391, Statutes of 2025.",
+   "date": "2025-10-06"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-06",
+  "id": "20250AB113995CHP",
+  "num": "95"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.28.5 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) It is the intent of the Legislature in enacting this section to clarify the applicability of this division to the provision of public access within a park or open space area by a county park agency, a park district, or the Great Redwood Trail Agency in a manner that involves minimal physical alterations and minimal improvements to the affected area. This section is not intended to provide relief from any other law, regulation, or responsibility.",
+    "(b) (1) Subject to paragraph (2), this division does not apply to a change in use approved by a lead agency to allow public access to any of the following in an area used exclusively for nonmotorized recreation:",
+    "(A) Preexisting paved and natural surface roads.",
+    "(B) Preexisting trails.",
+    "(C) Preexisting pathways.",
+    "(D) Preexisting disturbed areas for vehicle parking, such as driveways, when the change of use does not involve new paving or grading.",
+    "(E) Rail lines converted by the Great Redwood Trail Agency into trails known as the Great Redwood Trail.",
+    "(2) The exemption in paragraph (1) only applies if all of the following criteria are met:",
+    "(A) The lead agency is a county park agency, a park district, or the Great Redwood Trail Agency.",
+    "(B) The area used for nonmotorized recreation is owned or managed by a county park agency, a park district, or the Great Redwood Trail Agency.",
+    "(C) The change in use is to provide public access for nonmotorized recreation.",
+    "(D) The change in use only involves minimal physical alterations and minimal improvements to the affected area. Minimal improvements shall only include signage, portable restrooms, sediment control, and other similar improvements that protect the environment in the context of public access.",
+    "(E) The change in use is not likely to result in either of the following:",
+    "(i) Significant adverse impacts to tribal cultural resources.",
+    "(ii) Significant adverse impacts to endangered, threatened, rare, or special status plant or animal species.",
+    "(c) Before making a determination to approve or carry out a change in use that is determined to be exempt from this division pursuant to subdivision (b), the lead agency shall do all of the following:",
+    "(1) Hold a public meeting to consider and solicit public input on the change in use under consideration.",
+    "(2) Post a written notice of the public meeting on the public agency’s internet website and at the project site at least 30 days before the public meeting. The written notice shall include a project description and the location and date of the public meeting.",
+    "(3) (A) Adopt a natural resource management plan, or equivalent document, that includes appropriate identification of resources and management strategies for the affected area, which may include, but is not limited to, all of the following:",
+    "(i) The identification of sensitive species of flora and fauna, sensitive habitats, sensitive soils and erosion considerations, sensitive coastal resources, hydrology, and fire ignition hazards.",
+    "(ii) The identification of tribal, historical, and other cultural resources.",
+    "(iii) The identification of avoidance strategies and mitigation measures for any impact to the resources described in clauses (i) and (ii).",
+    "(iv) The identification of ongoing maintenance and management needs.",
+    "(B) The adoption of a natural resource management plan, or equivalent document, for purposes of making an exemption determination pursuant to this section is not subject to this division.",
+    "(4) Make a finding based on substantial evidence that all of the criteria specified in paragraph (2) of subdivision (b) are met and that there is sufficient funding to implement the natural resource management plan or equivalent document.",
+    "(d) If the lead agency determines that a change in use is not subject to this division pursuant to this section, and the lead agency determines to approve or carry out the activity, the lead agency shall file a notice with the State Clearinghouse in the Office of Land Use and Climate Innovation and with the county clerk of the county in which the land is located in accordance with subdivisions (b), (c), and (d) of Section 21152.",
+    "(e) For purposes of this section, the following definitions apply:",
+    "(1) “Nonmotorized recreation” means low-impact recreational activities, including hiking, walking, bike riding, equestrian use, and nature viewing.",
+    "(2) “Park district” means a district, as defined in Section 5500, that is governed by an independent board.",
+    "(3) “Public access” means allowing visitors on public agency-managed park and open space in a manner that is consistent with the underlying conservation or park purposes for those lands.",
+    "(f) This section does not apply where it is reasonably foreseeable that the provision of public access within a park or open-space area will have a significant or cumulatively considerable effect on the environment.",
+    "(g) This section does not affect any land covenants, such as grant agreements, conservation easements, or deed restrictions, or a long-term management plan or habitat conservation plan, or alters any conditions of acquisition.",
+    "(h) This section shall remain in effect only until January 1, 2030, and as of that date is repealed."
+   ],
+   "sec": "21080.28.5",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: exemption: public access: nonmotorized recreation.",
+ "title": "An act to amend Section 21080.28.5 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB113999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-09",
+   "id": "20250AB113998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-07",
+   "id": "20250AB113997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-02",
+   "id": "20250AB113996ENR",
+   "num": "96"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-06",
+   "id": "20250AB113995CHP",
+   "num": "95"
+  }
+ ]
+}

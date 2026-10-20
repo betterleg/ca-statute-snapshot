@@ -1,0 +1,227 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Caballero",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wilson",
+   "primary": false
+  }
+ ],
+ "bill": "SB445",
+ "bill_id": "202520260SB445",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, sets forth various requirements relating to the review of development project permit applications and the issuance of development permits for specified classes of development projects.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA, until January 1, 2030, exempts from its requirements certain transportation-related projects if specified requirements are met. CEQA includes within these exempt transportation-related projects a public project for the institution or increase of bus rapid transit, bus, or light rail service, which will be exclusively used by low-emission or zero-emission vehicles, on existing public rights-of-way or existing highway rights-of-way.",
+  "This bill would require a lead agency to provide a written notice with specified information to a third-party entity, defined by the bill to mean a local agency, electrical corporation, or private telecommunications provider, regarding its need to use, relocate, alter, change, or otherwise improve facilities, publicly owned and managed utilities, public spaces, or other publicly or privately owned facilities under the third-party entity’s jurisdiction or ownership for the implementation of a sustainable transportation project. This bill would define “sustainable transportation project” to mean a project where the lead agency is a state agency, operator, or local agency that proposes the construction or modification of facilities meeting at least one of several specified criteria, including that it is exempt from CEQA pursuant to the above-described provisions. The bill would define “large sustainable transportation project” to mean a sustainable transportation project that, based on the project engineer’s cost estimate at the time the lead agency completes environmental review, costs more than $25,000,000, and meets other specified criteria.",
+  "This bill would require a lead agency to provide a written notice with specified information to a third-party entity regarding its need to use, relocate, alter, change, or otherwise improve facilities, publicly owned and managed utilities, public spaces, or other publicly or privately owned facilities under the third-party entity’s jurisdiction or ownership for the implementation of a sustainable transportation project. Within 30 calendar days of receiving that notice, the bill would require the third-party entity to provide a written response to the lead agency, as provided, and, within 30 calendar days of determining the notice is complete, would require the third-party entity to take certain actions, including providing as-built plans to the lead agency for all third-party entity facilities that will be impacted by the work described in the written notice. The bill would also prohibit a third-party entity from requiring, among other things, as a condition for issuance of certain permits, conformance with or the performance of any conditions, except under certain circumstances.",
+  "This bill would require a lead agency responsible for a large sustainable transportation project to seek to enter into a cooperative agreement with each third-party entity through which the project passes. The bill would also require the lead agency to provide a written notice with specified information to the third-party entity of its intent to enter into a cooperative agreement with the third-party entity. Within 30 calendar days of receiving the notice, the bill would require the third-party entity to provide a written response to the lead agency, as provided, and within 60 calendar days of determining the notice is complete, would require the third-party entity to enter into a cooperative agreement with the lead agency that contains certain provisions, including that it meets applicable federal requirements, standards, or guidelines. The bill would also prohibit a third-party entity from requiring, among other things, as a condition to the issuance of certain permits, conformance with or the performance of any conditions that the third-party entity could have lawfully imposed as a condition to the design or construction of the project after the process described above is completed.",
+  "By imposing additional duties on local entities, this bill would impose a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "881002dd561a3484",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-18"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 21.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "Referred to Coms. on TRANS. and L. GOV.",
+   "date": "2025-02-26"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 13. Noes 0. Page 842.) (April 22). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Set for hearing May 5.",
+   "date": "2025-04-25"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-06"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 34. Noes 1. Page 1296.) Ordered to the Assembly.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Referred to Coms. on TRANS., L. GOV., and U. & E.",
+   "date": "2025-06-30"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS.",
+   "date": "2025-06-30"
+  },
+  {
+   "action": "Assembly Rule 56 suspended.",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 10. Noes 3.) (July 14). Re-referred to Com. on L. GOV.",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on U. & E. (Ayes 8. Noes 2.) (July 16). Re-referred to Com. on U. & E.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Ayes 49. Noes 15. Page 2578.)",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 10. Noes 4.) (July 16).",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "August 29 hearing: Held in committee and under submission.",
+   "date": "2025-08-29"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-07-17",
+  "id": "20250SB44594AMD",
+  "num": "94"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Article 7 (commencing with Section 65964.60) is added to Chapter 4.5 of Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this article, the following definitions shall apply:",
+    "(a) (1) “Large sustainable transportation project” means a sustainable transportation project that, based on the project engineer’s cost estimate at the time the lead agency completes environmental review, costs more than twenty-five million dollars ($25,000,000), and that meets at least one of the following criteria:",
+    "(A) Be included in the most recently published State Rail Plan, pursuant to Section 14036, or the most recently published regional transportation plan, transportation improvement plan, or voter-approved local revenue measure expenditure plan of the regional or local jurisdiction or jurisdictions that the project passes through.",
+    "(B) Has completed environmental review pursuant to Division 13 (commencing with Section 21000) of the Public Resources Code, which may conclude with the adoption by the lead agency of a negative declaration, mitigated negative declaration, or determination of exemption from further environmental review.",
+    "(2) The cost estimate amount in paragraph (1) shall be adjusted pursuant to subdivision (j) of Section 21080.25 of the Public Resources Code.",
+    "(b) “Master permitting lead agency” means a lead agency that meets all of the following criteria:",
+    "(1) The lead agency has adopted a design criteria manual or design standards.",
+    "(2) The manual or standards described in paragraph (1) have been approved by relevant staff authorized by the Transportation Agency to approve the manual or standards.",
+    "(3) “Operator” has the same meaning as in Section 99210 of the Public Utilities Code.",
+    "(c) “Sustainable transportation project” means a project where the lead agency is a state agency, operator, or local agency that proposes the construction or modification of facilities that meet at least one of the following criteria:",
+    "(1) The project is exempt from Division 13 (commencing with Section 21000) of the Public Resources Code, pursuant to Section 21080.25 of the Public Resources Code.",
+    "(2) The project’s primary purpose is to create, maintain, or improve active transportation infrastructure, including pedestrian and bicycle infrastructure.",
+    "(3) The project’s primary purpose is to create, maintain, or improve public transit infrastructure, including, but not limited to, transit priority facilities, bus rapid transit facilities, or rail transit facilities, including facilities for rail transit, as defined in Section 99602 of the Public Utilities Code, commuter rail, regional rail, light rail transit, intercity rail, as defined in Section 99602 of the Public Utilities Code, or a rapid rail transit system, as defined in Section 92015.",
+    "(4) The project’s primary purpose is to create, maintain, or improve other publicly owned or operated rail infrastructure.",
+    "(d) “Third-party entity” means a local agency, electrical corporation, or private telecommunications provider.",
+    "(e) “Transit priority facility” means a roadway facility, treatment, or improvement that helps transit buses and other transit vehicles avoid traffic congestion, reduce signal delays, and move more predictably and reliably, including the following:",
+    "(1) Dedicated lanes reserved for the exclusive use of transit vehicles and emergency vehicles.",
+    "(2) High-occupancy vehicle lanes for buses, motorcycles, or vehicles with three or more occupants.",
+    "(3) Bus stop or station placements and physical configurations, including, but not limited to, level boarding or bus bulbs, which are designed to maximize boarding, alighting efficiency, and reduce delays, or sidewalks and crosswalks to provide safe access to and from transit stops and stations.",
+    "(4) Transit signal priority, retiming, and preemption that adjusts traffic signal timing in real time to minimize delay of transit vehicles, including, but not limited to, reducing the length of a red light for a transit vehicle or extending an existing green light for an approaching transit vehicle.",
+    "(5) Turn restrictions and exceptions designed to minimize disruption to transit movements or to give transit vehicles and emergency vehicles special privileges to make otherwise restricted turns.",
+    "(6) Queue jump lanes to help transit vehicles move to the front of traffic waiting at a signal.",
+    "(7) Payment systems that reduce boarding times."
+   ],
+   "sec": "65964.60",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "High-speed rail: third-party agreements, permits, and approvals: regulations.",
+ "title": "An act to add Article 7 (commencing with Section 65964.60) to Chapter 4.5 of Division 1 of Title 7 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-18",
+   "id": "20250SB44599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-09",
+   "id": "20250SB44598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-10",
+   "id": "20250SB44597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-30",
+   "id": "20250SB44596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-09",
+   "id": "20250SB44595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-17",
+   "id": "20250SB44594AMD",
+   "num": "94"
+  }
+ ]
+}

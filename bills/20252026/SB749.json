@@ -1,0 +1,235 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Wahab",
+   "primary": false
+  }
+ ],
+ "bill": "SB749",
+ "bill_id": "202520260SB749",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The Mobilehome Parks Act provides for the regulation of mobilehomes and related vehicle parks by the Department of Housing and Community Development. The Mobilehome Residency Law governs the terms and conditions of residency in mobilehome parks, and authorizes the management of a mobilehome park to terminate a tenancy for, among other reasons, a change of use of the park or any portion of the park if certain requirements are met. If the change of use does not require any local governmental permits, existing law requires the written notice of termination of tenancy to disclose and describe in detail the nature of the change of use, and to be given 12 months or more before the management’s determination that a change of use will occur.",
+  "The Planning and Zoning Law requires an owner of an assisted housing development, before the termination of a subsidy contract, the expiration of rental restrictions, or prepayment on an assisted housing development, to provide certain notices of the proposed change to each affected tenant household residing in the assisted housing development and affected public entities, as specified. Existing law defines “affected public entities” as the mayor or chair of the board of supervisors, as applicable, in which the assisted housing development is located, the appropriate local public housing authority, if any, and the Department of Housing and Community Development.",
+  "This bill would delete the above-described notification requirements applicable to a change of use of a mobilehome park that does not require any local governmental permits, and would revise the Planning and Zoning Law to, instead, require management, at least 12 months and at least 6 months prior to the anticipated date of closure, cessation, or change of use of a mobilehome park, to provide notices of the proposed change to each affected tenant, prospective tenant, and affected public entities, as provided. The bill would require the Director of Housing and Community Development to approve forms to be used by management to comply with these provisions, and would require management to use the approved forms once the director has approved the forms. The bill would provide for injunctive relief to any affected public entity or affected tenant, including a resident organization, as defined, who is aggrieved by a violation of these provisions.",
+  "The Planning and Zoning Law prohibits an owner from terminating a subsidy contract or prepayment of a mortgage unless the owner or its agent has provided specified entities an opportunity to submit an offer to purchase the development, as specified.",
+  "The Planning and Zoning Law also requires, before the conversion of a mobilehome park to another use, except as specified, or before closure of a mobilehome park or cessation of use of the land as a mobilehome park, the person or entity proposing the change in use to file a report on the impact of the conversion, closure, or cessation of use of the mobilehome park. Existing law requires the impact report to include a replacement and relocation plan that adequately mitigates the impact upon the ability of the displaced residents of the mobilehome park to find adequate housing in a mobilehome park. Existing law requires the person proposing the change in use to provide a copy of the report to a resident of each mobilehome in the mobilehome park at least 60 days before a hearing on the report, as specified.",
+  "The Mobilehome Residency Law requires management of a mobilehome park to offer the previous homeowner, as defined, a right of first refusal to a renewed tenancy in the park if the park is destroyed due to a fire or other natural disaster and management elects to rebuild the park in the same location.",
+  "This bill would revise the Planning and Zoning Law to prohibit management of a mobilehome park from pursuing closure, cessation, or change of use of the mobilehome park unless management has provided resident organizations and certain nonprofit organizations and public agencies an opportunity to submit an offer to purchase, according to specified procedures. The bill would require an entity to be certified by the Department of Housing and Community Development to qualify as a purchaser under these provisions, and would require the department to, among various other duties, establish a process for that certification and maintain and update a list of certified entities. The bill would require a qualified entity that elects to purchase the mobilehome park to make a bona fide offer within 270 days of the notice of the opportunity to submit an offer that, among other things, certifies under penalty of perjury that the entity has been certified by the department. By expanding the scope of the crime of perjury, this bill would impose a state-mandated local program. The bill would provide that any affected tenant, resident organization, qualified entity, or affected public entity, as specified, may enforce these provisions either in law or in equity.",
+  "The bill would provide that previous homeowners shall receive specified notices required under certain provisions of the Planning and Zoning Law, as revised by the bill as described above, the Mobilehome Residency Law, and the Mobilehome Parks Act, as applicable, in the same manner as a current homeowner of the mobilehome park. The bill would also provide that previous homeowners are not obligated to pay rent during the time at which they are unable to live in the mobilehome park following a wildfire or other natural disaster.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "fa271810518bb006",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Re-referred to Coms. on HOUSING and JUD.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "Set for hearing April 29 in JUD. pending receipt.",
+   "date": "2025-04-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 8. Noes 2. Page 832.) (April 22). Re-referred to Com. on JUD.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 2. Page 943.) (April 29). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Set for hearing May 12.",
+   "date": "2025-05-02"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-06"
+  },
+  {
+   "action": "May 12 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-16"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 5. Noes 1. Page 1211.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 27. Noes 10. Page 1395.) Ordered to the Assembly.",
+   "date": "2025-06-02"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and JUD.",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 4.) (July 2). Re-referred to Com. on JUD.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 2.) (July 8). Re-referred to Com. on APPR.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "August 29 hearing: Held in committee and under submission.",
+   "date": "2025-08-29"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-05-06",
+  "id": "20250SB74997AMD",
+  "num": "97"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Section 65863.15 is added to the Government Code , immediately following Section 65863.13 , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section, the following definitions apply:",
+    "(1) “Affected public entities” means all of the following:",
+    "(A) The mayor of the city in which the mobilehome park is located, or, if located in an unincorporated area, the chair of the board of supervisors of the county.",
+    "(B) The appropriate local public housing authority, if any.",
+    "(C) The Department of Housing and Community Development.",
+    "(2) “Affected tenant” means a homeowner, as defined in Section 798.9 of the Civil Code, who has tenancy in a mobilehome park at the time notice is required to be provided pursuant to this section.",
+    "(3) “Management” means the owner of a mobilehome park or an agent or representative authorized to act on their behalf in connection with matters related to the mobilehome park.",
+    "(4) “Offer to purchase” means an offer from a qualified or nonqualified entity that is nonbinding on management.",
+    "(5) “Qualified entity” means an entity that the Department of Housing and Community Development has certified as a qualified purchaser pursuant to paragraph (3) of subdivision (c).",
+    "(6) “Resident organization” means a group of tenants who have formed a nonprofit corporation, cooperative corporation, or other entity or organization, as described in Section 798.80 of the Civil Code.",
+    "(b) (1) At least 12 months prior to the anticipated date of closure, cessation, or change of use, management shall provide a notice of the proposed change to each affected tenant and to the affected public entities. The notice shall be in addition to any termination of tenancy notices required by subdivision (g) of Section 798.56 of the Civil Code, and shall contain all of the following:",
+    "(A) A statement that the owner intends to close, cease operations, or change the use of the mobilehome park.",
+    "(B) The anticipated date of closure, cessation, or change of use.",
+    "(C) A statement that a subsequent notice of the proposed change will be provided at least six months prior to the anticipated date of closure, cessation, or change of use.",
+    "(D) A statement that the notice of opportunity to submit an offer to purchase, pursuant to subdivision (c), has been sent to qualified entities, is attached to or included in the notice, and is posted in the common area of the mobilehome park.",
+    "(2) At least six months prior to the anticipated date of closure, cessation, or change of use, management shall provide a notice of the proposed change to each affected tenant and to the affected public entities. The notice shall contain all of the following:",
+    "(A) The anticipated date of closure, cessation, or change of use.",
+    "(B) A statement that a copy of the notice will be sent to the city, county, or city and county, where the mobilehome park is located, to the appropriate local public housing authority, if any, and to the Department of Housing and Community Development.",
+    "(C) The name and telephone number of the city, county, or city and county, the appropriate local public housing authority, if any, the Department of Housing and Community Development, and a legal services organization that can be contacted to request additional written information about an owner’s responsibilities and the rights and options of an affected tenant.",
+    "(D) In addition to the information provided in the notice to the affected tenant, the notice to the affected public entities shall contain information regarding the number of affected residents in the project, the number of spaces that are rent controlled or rent stabilized, and the ages and income of the affected tenants. The notice shall briefly describe the owner’s plans for the park, including any timetables or deadlines for actions to be taken and specific governmental approvals that are required to be obtained, the reason the owner seeks closure, cessation, or change of use, and any contacts management has made or is making with other governmental agencies or other interested parties in connection with the notice. The information contained in the notice shall be based on data that is reasonably available from existing written tenant and park records.",
+    "(3) The owner proposing the closure, cessation, or change of use shall provide additional notice of any significant changes to the notice required by paragraph (2) within seven business days to each affected tenant and to the affected public entities. For purposes of this paragraph, “significant changes” includes, but is not limited to, any changes to the date of closure, cessation, or change of use.",
+    "(4) This subdivision does not require management to obtain or acquire additional information that is not contained in the existing tenant and mobilehome park records, or to update any information in the mobilehome park’s records. Management shall not be held liable for any inaccuracies contained in these records or from other sources, and management shall not be liable to any party for providing this information.",
+    "(5) (A) For purposes of this subdivision, service of the notice to the affected tenants shall be made by first-class mail postage prepaid.",
+    "(B) For purposes of this subdivision, service of notice to the city, county, or city and county, the appropriate local public housing authority, if any, and the Department of Housing and Community Development shall be made by either first-class mail postage prepaid or electronically to any public entity that has provided an email address for that purpose.",
+    "(6) Any management who is subject to the requirements of this subdivision shall also provide a copy of any notices issued to affected tenant households pursuant to this subdivision to any prospective tenant at the time the prospective tenant is interviewed for eligibility.",
+    "(7) The Director of Housing and Community Development shall approve forms to be used by management to comply with paragraphs (1), (2), and (6). Once the director has approved the forms, management shall use the approved forms to comply with paragraphs (1), (2), and (6).",
+    "(8) Injunctive relief shall be available to any affected public entity or affected tenant, including, but not limited to, a group of affected tenants that meets the requirements of a resident organization, who is aggrieved by a violation of this subdivision. In a judicial action brought pursuant to this paragraph, the court may award attorney’s fees and costs to a prevailing plaintiff.",
+    "(c) (1) Owners of a mobilehome park shall not pursue closure, cessation, or change of use unless management has provided each qualified entity an opportunity to submit an offer to purchase the development, in compliance with paragraph (4).",
+    "(2) An entity is not eligible to be certified as a qualified entity pursuant to paragraph (3) unless it is any of the following:",
+    "(A) The resident organization of the mobilehome park.",
+    "(B) Local nonprofit organizations and public agencies.",
+    "(C) Regional or national nonprofit organizations and regional or national public agencies.",
+    "(3) (A) The Department of Housing and Community Development shall establish a process for certifying an entity listed in paragraph (2) as a qualified entity based on demonstrated relevant prior experience in California and current capacity, as capable of operating the housing and related facilities for its remaining useful life, either by itself or through an agent.",
+    "(B) The Department of Housing and Community Development shall maintain and update annually a list of entities that are certified pursuant to this paragraph.",
+    "(4) If the owner decides to pursue closure, cessation, or change of use, or otherwise dispose of the mobilehome park pursuant to this section, management shall first give notice of the opportunity to offer to purchase to each qualified entity in accordance with paragraph (5), as well as to those qualified entities that directly contact management. The notice of the opportunity to offer to purchase shall be given before or concurrently with the notice required pursuant to subdivision (b) for a period of at least 12 months. Management shall contact the department to obtain the list of qualified entities. The notice shall conform to the requirements of paragraph (5) and shall be sent to the entities by registered or certified mail, return receipt requested. Management shall also post a copy of the notice in a conspicuous place in the common area of the mobilehome park.",
+    "(5) The initial notice of a bona fide opportunity to submit an offer to purchase shall contain all of the following:",
+    "(A) A statement that each of the type of entities listed in paragraph (2), or any combination thereof, has the right to purchase the development under this subdivision.",
+    "(B) A statement that management will make available to each of the types of entities listed in paragraph (2), within 15 business days of receiving a request therefor, that includes all of the following:",
+    "(i) Itemized lists of monthly operating expenses for the property.",
+    "(ii) Capital improvements, as determined by the management, made within each of the two preceding calendar years at the park.",
+    "(iii) The amount of project property reserves.",
+    "(iv) Copies of the two most recent financial and physical inspection reports on the property, if any, filed with a federal, state, or local agency.",
+    "(v) The most recent rent roll for the property listing the rent paid for each unit.",
+    "(vi) A statement of the vacancy rate at the property for each of the two preceding calendar years.",
+    "(vii) The terms of assumable financing, if any, and proposed improvements to the property to be made by the management in connection with the sale, if any.",
+    "(C) A statement that management has satisfied all notice requirements pursuant to subdivision (a), unless the notice of opportunity to submit an offer to purchase is delivered more than 12 months before the anticipated date of closure, cessation, or change of use.",
+    "(6) If a qualified entity elects to purchase a mobilehome park, it shall make a bona fide offer to purchase the development at the market value determined pursuant to paragraph (7), subject to the requirements of this subdivision. A qualified entity’s bona fide offer to purchase shall be submitted within 270 days of the notice of the opportunity to submit an offer pursuant to paragraph (4), identify whether it is a resident organization, nonprofit organization, public agency, or profit-motivated organizations or individuals, and certify, under penalty of perjury, that it is qualified pursuant to paragraph (3). If management has received a bona fide offer from one or more qualified entities within the first 270 days from the date of an owner’s bona fide notice of the opportunity to submit an offer to purchase, management shall notify the Department of Housing and Community Development of all such offers within 90 days and accept a bona fide offer from a qualified entity to purchase and execute a purchase agreement.",
+    "(7) The market value of the property shall be determined by negotiation and agreement between the parties. If the parties fail to reach an agreement regarding the market value, the market value shall be determined by an appraisal process initiated by management’s receipt of the bona fide offer, which shall specifically reference the appraisal process provided by this paragraph as the means for determining the final purchase price. Either the owner or the qualified entity, or both, may request that the fair market value of the property’s highest and best use, based on current zoning, be determined by an independent appraiser qualified to perform mobilehome park appraisals, who shall be selected and paid by the requesting party. All appraisers shall possess qualifications equivalent to those required by the members of the Appraisal Institute and shall be certified by the Department of Housing and Community Development as having sufficient experience in appraising comparable properties in California.  If the appraisals differ by less than 5 percent, the market value and sales price shall be set at the higher appraised value. If the appraisals differ by more than 5 percent, the parties may elect to have the appraisers negotiate a mutually agreeable market value and sales price, or to jointly select a third appraiser, whose determination of market value and the sales price shall be binding.",
+    "(8) If management does not receive a bona fide offer from one or more qualified entities within the 270 days specified in paragraph (6), or if after the 270 days specified in paragraph (6) all bona fide offers are withdrawn, management may do any of the following:",
+    "(A) Sell the property to any buyer.",
+    "(B) Maintain ownership of the property and continue its operation as a mobilehome park.",
+    "(C) Pursue closure, cessation, or change of use of the mobilehome park pursuant to the requirements of this section, and all other applicable laws.",
+    "(9) The Department of Housing and Community Development shall undertake the following responsibilities and duties:",
+    "(A) Maintain a form containing a summary of rights and obligations under this subdivision and make that information available to owners of mobilehome parks as well as to resident organizations, local nonprofit organizations, regional or national nonprofit organizations, public agencies, and other entities with an interest in preserving the state’s mobilehome parks.",
+    "(B) Upon receipt of a notice of intent under subdivision (a), make the list of qualified entities created pursuant to paragraph (3) available to the management proposing the closure, cessation, or change of use. If the department does not make the list available at any time, management’s agent shall only be required to send a written copy of the opportunity to submit an offer to purchase notice to the qualified entities which directly contact management and to post a copy of the notice in the common area pursuant to paragraph (4).",
+    "(C) Monitor compliance with this subdivision by owners of mobilehome parks.",
+    "(D) Refer violations of this subdivision to the Attorney General for appropriate enforcement action.",
+    "(10) (A) The provisions of this subdivision may be enforced either in law or in equity by any affected tenant, any qualified entity entitled to exercise the opportunity to purchase and right of first refusal under this section, a group of affected tenants that meets the requirements of a resident organization, or any affected public entity that has been adversely affected by an owner’s failure to comply with this subdivision. In any judicial action brought pursuant to this paragraph, the court may waive any bond requirement and may award attorney’s fees and costs to a prevailing plaintiff.",
+    "(B) Management may rely on the statements, claims, or representations of any person or entity that the person or entity is a qualified entity as specified in paragraph (2), unless management has actual knowledge that the purchaser is not a qualified entity.",
+    "(C) If the person or entity is not an entity as specified in paragraph (2), that fact, in the absence of actual knowledge as described in subparagraph (B), shall not give rise to any claim against management for a violation of this subdivision.",
+    "(11) It is the intent of the Legislature that the provisions of this subdivision are in addition to, but not preemptive of, applicable federal laws governing the sale or other disposition of a development that would result in a discontinuance of its use as a mobilehome park.",
+    "(12) The Department of Housing and Community Development shall comply with any obligations under this subdivision through the use of standards, forms, and definitions adopted by the department. The department may review, adopt, amend, and repeal the standards, forms, or definitions to implement this subdivision. Any standards, forms, or definitions adopted to implement this subdivision shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2.",
+    "(d) Nothing in this section shall impair, preempt, or affect the authority of a local government to adopt, maintain, or enforce an ordinance, rule, regulation, or initiative measure that provides equal or greater protection to affected tenants."
+   ],
+   "sec": "65863.15",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Mobilehome parks: closure, cessation, or change of use.",
+ "title": "An act to amend Sections 798.56 and 798.62 of the Civil Code, and to add Section 65863.15 to the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB74999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-25",
+   "id": "20250SB74998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-06",
+   "id": "20250SB74997AMD",
+   "num": "97"
+  }
+ ]
+}

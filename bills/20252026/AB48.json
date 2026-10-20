@@ -1,0 +1,167 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alvarez",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Fong",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Muratsuchi",
+   "primary": false
+  }
+ ],
+ "bill": "AB48",
+ "bill_id": "202520260AB48",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "(1) The California Constitution prohibits the Legislature from creating a debt or liability that singly or in the aggregate with any previous debts or liabilities exceeds the sum of $300,000, except by an act that (A) authorizes the debt for a single object or work specified in the act, (B) has been passed by a 2/3 vote of all the Members elected to each house of the Legislature, (C) has been submitted to the people at a statewide general or primary election, and (D) has received a majority of all the votes cast for and against it at that election.",
+  "This bill would set forth the College Health and Safety Bond Act of 2026 as a state general obligation bond act that would provide $____ to construct and modernize education facilities, as specified. This bond act would become operative only if approved by the voters at the ____, statewide primary election. The bill would also provide for the submission of the bond act to the voters at that election.",
+  "(2) Existing law authorizes the governing board of a school district to impose, as specified, an alternative fee, charge, dedication, or requirement on developers to fund school facilities, until the date new construction bond proceeds authorized by the Preschool-College Public Education Bond Act of 2016 are expended, or December 31, 2020, whichever is earlier.",
+  "This bill would remove this authority beginning the earlier of an unspecified date or the date new construction bond proceeds authorized by the 2016 bond act are expended or apportioned, until an unspecified date. The bill would also exempt multifamily housing developments that are located no further than 12 mile from a major transit stop, and reduce by 20% from specified amounts for any other multifamily housing developments, as specified, from any fee, charge, dedication, or other requirement for the construction or reconstruction of school facilities, as provided.",
+  "(3) This bill, except for the provision making the provisions of the bill severable, would become effective upon the adoption of the College Health and Safety Bond Act of 2026 by the voters at the ____, statewide primary election."
+ ],
+ "hash": "a08d9873abd5ffeb",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2024-12-02"
+  },
+  {
+   "action": "From printer. May be heard in committee January 2.",
+   "date": "2024-12-03"
+  },
+  {
+   "action": "Referred to Coms. on HIGHER ED. and H. & C.D.",
+   "date": "2025-02-18"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HIGHER ED. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on HIGHER ED.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1163.)",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "(Pending re-refer to Com. on H. & C. D.)",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 6. Noes 2.) (April 22). Re-referred to Com. on H. & C.D.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 1.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to suspense file.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 11. Noes 3.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time and amended. Ordered to third reading. (Page 1787.)",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 68. Noes 9. Page 2075.)",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-05"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-05-29",
+  "id": "20250AB4897AMD",
+  "num": "97"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Chapter 4.95 (commencing with Section 65998.5) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Section 65995.7 shall be inoperative commencing on the earlier of January 1, ____, or the date the full amount of bonds authorized for new school facility construction pursuant to paragraph (1) of subdivision (a) of Section 101122 of the Education Code have been expended or apportioned, and shall remain inoperative until January 1, ____.",
+    "(b) Section 65995.7 shall again be operative on January 1, ____."
+   ],
+   "sec": "65998.5",
+   "verb": "added"
+  },
+  {
+   "action": "Chapter 4.97 (commencing with Section 65999) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding any other law, multifamily housing developments that are located no further than one-half mile from a major transit stop shall not be subject to any fee, charge, dedication, or other requirement for the construction or reconstruction of school facilities levied or imposed in connection with, or made a condition of, any legislative or adjudicative act, or both, by any state or local agency involving, but not limited to, the planning, use, or development of real property, or any change in governmental organization or reorganization, as defined in Section 56021 or 56073.",
+    "(b) Notwithstanding any other law, the maximum amount of any fee, charge, dedication, or other requirement for any multifamily housing development for which subdivision (a) does not apply shall be reduced by 20 percent from the amount calculated pursuant to Section 65995, 65995.5, or 65995.7, for the construction or reconstruction of school facilities levied or imposed in connection with, or made a condition of, any legislative or adjudicative act, or both, by any state or local agency involving, but not limited to, the planning, use or development of real property, or any change in governmental organization or reorganization, as defined in Section 56021 or 56073.",
+    "(c) For purposes of this chapter, the following definitions apply:",
+    "(1) “Major transit stop” has the same meaning as that term is defined in Section 21155 of the Public Resources Code.",
+    "(2) “Multifamily” means a structure containing more than one dwelling unit.",
+    "(d) This chapter shall become inoperative on January 1, ____, and as of June 1, ____, is repealed."
+   ],
+   "sec": "65999",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Pending Referral",
+ "subject": "Education finance: postsecondary education facilities: College Health and Safety Bond Act of 2026.",
+ "title": "An act to add Part 71 (commencing with Section 101200) to Division 14 of Title 3 of the Education Code, and to add Chapter 4.95 (commencing with Section 65998.5) to, and to add and repeal Chapter 4.97 (commencing with Section 65999) of, Division 1 of Title 7 of the Government Code, relating to education finance, by providing the funds necessary therefor through an election for the issuance and sale of bonds of the State of California and for the handling and disposition of these funds.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2024-12-02",
+   "id": "20250AB4899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB4898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-29",
+   "id": "20250AB4897AMD",
+   "num": "97"
+  }
+ ]
+}

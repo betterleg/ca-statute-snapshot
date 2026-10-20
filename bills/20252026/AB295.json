@@ -1,0 +1,121 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Macedo",
+   "primary": true
+  }
+ ],
+ "bill": "AB295",
+ "bill_id": "202520260AB295",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that the lead agency proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA establishes a procedure by which a person may seek judicial review of the decision of the lead agency made pursuant to CEQA.",
+  "The Jobs and Economic Improvement Through Environmental Leadership Act of 2021 authorizes the Governor, until January 1, 2032, to certify environmental leadership development projects that meet specified requirements for certain streamlining benefits related to CEQA. The act, among other things, requires a lead agency to prepare the record of proceedings for an environmental leadership development project, as provided, and to provide a specified notice within 10 days of the Governor certifying the project. The act is repealed by its own term on January 1, 2034.",
+  "This bill would extend the application of the act to water storage projects, water conveyance projects, and groundwater recharge projects that provide public benefits and drought preparedness. Because a lead agency would be required to prepare the record of proceedings for water storage projects, water conveyance projects, and groundwater recharge projects pursuant to the act, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "fae167c6144adb38",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-01-23"
+  },
+  {
+   "action": "From printer. May be heard in committee February 23.",
+   "date": "2025-01-24"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and W. P., & W.",
+   "date": "2025-02-10"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2025-01-23",
+  "id": "20250AB29599INT",
+  "num": "99"
+ },
+ "location": "CX16",
+ "sections": [
+  {
+   "action": "Section 21180 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "For purposes of this chapter, the following definitions apply:",
+    "(a) “Applicant” means a public or private entity or its affiliates, or a person or entity that undertakes a public works project, that proposes a project and its successors, heirs, and assignees.",
+    "(b) “Environmental leadership development project,” “leadership project,” or “project” means a project as described in Section 21065 that is one of the following:",
+    "(1) A residential, retail, commercial, sports, cultural, entertainment, or recreational use project that is certified as Leadership in Energy and Environmental Design (LEED) gold or better by the United States Green Building Council and, where applicable, that achieves a 15-percent greater standard for transportation efficiency than for comparable projects. These projects must be located on an infill site. For a project that is within a metropolitan planning organization for which a sustainable communities strategy or alternative planning strategy is in effect, the infill project shall be consistent with the general use designation, density, building intensity, and applicable policies specified for the project area in either a sustainable communities strategy or an alternative planning strategy, for which the State Air Resources Board has accepted a metropolitan planning organization’s determination, under subparagraph (H) of paragraph (2) of subdivision (b) of Section 65080 of the Government Code, that the sustainable communities strategy or the alternative planning strategy would, if implemented, achieve the greenhouse gas emission reduction targets.",
+    "(2) A clean renewable energy project that generates electricity exclusively through wind or solar, but not including waste incineration or conversion.",
+    "(3) A clean energy manufacturing project that manufactures products, equipment, or components used for renewable energy generation, energy efficiency, or for the production of clean alternative fuel vehicles.",
+    "(4) (A) A housing development project that meets all of the following conditions:",
+    "(i) The housing development project is located on an infill site.",
+    "(ii) For a housing development project that is located within a metropolitan planning organization for which a sustainable communities strategy or alternative planning strategy is in effect, the project is consistent with the general use designation, density, building intensity, and applicable policies specified for the project area in either a sustainable communities strategy or an alternative planning strategy, for which the State Air Resources Board has accepted a metropolitan planning organization’s determination, under subparagraph (H) of paragraph (2) of subdivision (b) of Section 65080 of the Government Code, that the sustainable communities strategy or the alternative planning strategy would, if implemented, achieve the greenhouse gas emission reduction targets.",
+    "(iii) Notwithstanding paragraph (1) of subdivision (a) of Section 21183, the housing development project will result in a minimum investment of fifteen million dollars ($15,000,000), but less than one hundred million dollars ($100,000,000), in California upon completion of construction.",
+    "(iv) (I) Except as provided in subclause (II), at least 15 percent of the housing development project is dedicated as housing that is affordable to lower income households, as defined in Section 50079.5 of the Health and Safety Code. Upon completion of a housing development project that is qualified under this paragraph and is certified by the Governor, the lead agency or applicant of the project shall notify the Office of Planning and Research of the number of housing units and affordable housing units established by the project.",
+    "(II) Notwithstanding subclause (I), if a local agency has adopted an inclusionary zoning ordinance that establishes a minimum percentage for affordable housing within the jurisdiction in which the housing development project is located that is higher than 15 percent, the percentage specified in the inclusionary zoning ordinance shall be the threshold for affordable housing.",
+    "(v) (I) Except for use as a residential hotel, as defined in Section 50519 of the Health and Safety Code, no part of the housing development project shall be used for a rental unit for a term shorter than 30 days, or designated for hotel, motel, bed and breakfast inn, or other transient lodging use.",
+    "(II) No part of the housing development project shall be used for manufacturing or industrial uses.",
+    "(B) For purposes of this paragraph, “housing development project” means a project for any of the following:",
+    "(i) Residential units only.",
+    "(ii) Mixed-use developments consisting of residential and nonresidential uses with at least two-thirds of the square footage designated for residential use.",
+    "(iii) Transitional housing or supportive housing.",
+    "(5) A water storage project, water conveyance project, or groundwater recharge project that provides public benefits and drought preparedness.",
+    "(c) “Infill site” has the same meaning as set forth in Section 21061.3.",
+    "(d) “Transportation efficiency” means the number of vehicle trips by employees, visitors, or customers of the residential, retail, commercial, sports, cultural, entertainment, or recreational use project divided by the total number of employees, visitors, and customers."
+   ],
+   "sec": "21180",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21183 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "The Governor may certify a leadership project for streamlining before a lead agency certifies a final environmental impact report for a project under this chapter if all the following conditions are met:",
+    "(a) (1) Except as provided in paragraph (2), the project will result in a minimum investment of one hundred million dollars ($100,000,000) in California upon completion of construction.",
+    "(2) Paragraph (1) does not apply to a leadership project described in paragraph (4) or (5) of subdivision (b) of Section 21180.",
+    "(b) The project creates high-wage, highly skilled jobs that pay prevailing wages and living wages, provides construction jobs and permanent jobs for Californians, helps reduce unemployment, and promotes apprenticeship training. For purposes of this subdivision, a project is deemed to create jobs that pay prevailing wages, create highly skilled jobs, and promote apprenticeship training if the applicant demonstrates to the satisfaction of the Governor that the project will comply with Section 21183.5.",
+    "(c) (1) For a project described in paragraph (1), (2), or (3) of subdivision (b) of Section 21180, the project does not result in any net additional emission of greenhouse gases, including greenhouse gas emissions from employee transportation. For purposes of this paragraph, a project is deemed to meet the requirements of this paragraph if the applicant demonstrates to the satisfaction of the Governor that the project will comply with Section 21183.6.",
+    "(2) For a project described in paragraph (4) of subdivision (b) of Section 21180, the project does not result in any net additional emission of greenhouse gases, including greenhouse gas emissions from employee transportation.",
+    "(d) The applicant demonstrates compliance with the requirements of Chapter 12.8 (commencing with Section 42649) and Chapter 12.9 (commencing with Section 42649.8) of Part 3 of Division 30, as applicable.",
+    "(e) The applicant has entered into a binding and enforceable agreement that all mitigation measures required under this division to certify the project under this chapter shall be conditions of approval of the project, and those conditions will be fully enforceable by the lead agency or another agency designated by the lead agency. In the case of environmental mitigation measures, the applicant agrees, as an ongoing obligation, that those measures will be monitored and enforced by the lead agency for the life of the obligation.",
+    "(f) The applicant agrees to pay the costs of the trial court and the court of appeal in hearing and deciding any case challenging a lead agency’s action on a certified project under this division, including payment of the costs for the appointment of a special master if deemed appropriate by the court, in a form and manner specified by the Judicial Council, as provided in the California Rules of Court adopted by the Judicial Council under Section 21185.",
+    "(g) The applicant agrees to pay the costs of preparing the record of proceedings for the project concurrent with review and consideration of the project under this division, in a form and manner specified by the lead agency for the project. The cost of preparing the record of proceedings for the project shall not be recoverable from the plaintiff or petitioner before, during, or after any litigation.",
+    "(h) For a project for which environmental review has commenced, the applicant demonstrates that the record of proceedings is being prepared in accordance with Section 21186."
+   ],
+   "sec": "21183",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "California Environmental Quality Act: environmental leadership development projects: water storage, water conveyance, and groundwater recharge projects: streamlined review.",
+ "title": "An act to amend Sections 21180 and 21183 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-23",
+   "id": "20250AB29599INT",
+   "num": "99"
+  }
+ ]
+}

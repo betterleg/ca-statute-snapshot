@@ -1,0 +1,191 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schultz",
+   "primary": true
+  }
+ ],
+ "bill": "AB902",
+ "bill_id": "202520260AB902",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law requires certain transportation planning agencies to prepare and adopt regional transportation plans directed at achieving a coordinated and balanced regional transportation system. Existing law requires that each regional transportation plan include a sustainable communities strategy prepared by each metropolitan planning organization in order to, among other things, achieve certain regional targets established by the State Air Resources Board for the reduction of greenhouse gas emissions from automobiles and light trucks in the region for 2020 and 2035, respectively.",
+  "This bill would require the regional transportation plan or sustainable communities strategy, upon the adoption or next revision on or after January 1, 2028, to, among other things, identify and analyze connectivity areas, permeability, and natural landscape areas that are partially or fully within the region of the metropolitan planning organization or transportation planning agency, and consider the impacts of development and the barriers caused by transportation infrastructure and development to wildlife and habitat connectivity. The bill would also require metropolitan planning organizations and regional transportation agencies, in implementing those requirements, to, among other things, incorporate appropriate standards, policies, and feasible implementation programs, consult with certain entities, and consider relevant best available science as appropriate. By imposing additional duties on local entities, the bill would impose a state-mandated local program.",
+  "The bill would authorize metropolitan planning organizations and regional transportation agencies, in implementing the above-described requirements, to consult with specified entities and incorporate relevant information, guidelines, and standards from specified sources.",
+  "Under existing law, the Department of Fish and Wildlife (DFW) has jurisdiction over the conservation, protection, and management of fish, wildlife, native plants, and habitat necessary for biologically sustainable populations of those species. Existing law authorizes DFW to approve compensatory mitigation credits for wildlife connectivity actions taken under specified programs.",
+  "This bill would require regional transportation agencies, in consultation with DFW, to perform an assessment, containing specified information, to identify potential wildlife connectivity barriers and any needs for improved permeability regarding any specified transportation infrastructure project located in a connectivity area beginning the project initiation phase on or after January 1, 2026, as provided. The bill would also require the regional transportation agency to submit the assessment to DFW, to remediate barriers to wildlife connectivity in conjunction with the project, as necessary, and to publish on its internet website a list of all of the transportation infrastructure projects that require remediation, as provided. By imposing additional duties on local entities, the bill would impose a state-mandated local program",
+  "This bill would authorize regional transportation agencies to use compensatory mitigation credits if DFW concurs with the use of those credits. The bill would also make related findings and declarations.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "3870d000457b353c",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on TRANS. and L. GOV.",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on TRANS. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on TRANS.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 11. Noes 2.) (April 21).",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Re-referred to Com. on APPR. pursuant to Assembly Rule 96.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Ayes 51. Noes 16. Page 1644.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 2.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 56. Noes 14. Page 1910.)",
+   "date": "2025-06-02"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "Referred to Coms. on TRANS. and N.R. & W.",
+   "date": "2025-06-11"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on N.R. & W. (Ayes 12. Noes 2.) (June 24). Re-referred to Com. on N.R. & W.",
+   "date": "2025-06-25"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 2.) (July 8).",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-10"
+  },
+  {
+   "action": "In committee: Referred to suspense file.",
+   "date": "2025-08-18"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2025-08-29"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-07-10",
+  "id": "20250AB90295AMD",
+  "num": "95"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 65080.10 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Upon the adoption or next revision of a regional transportation plan or sustainable communities strategy on or after January 1, 2028, the regional transportation plan or sustainable communities strategy shall be updated to:",
+    "(1) Identify and analyze connectivity areas, permeability, and natural landscape areas, as those terms are defined in Section 158 of the Streets and Highways Code, that are partially or fully within the region of the metropolitan planning organization or transportation planning agency.",
+    "(2) Identify and analyze existing or planned wildlife passage features, as defined in Section 158 of the Streets and Highways Code, that are partially or fully within the region of the metropolitan planning organization or transportation planning agency, including, but not limited to, wildlife passage features included in the inventory of connectivity needs on the state highway system, as described in Section 158.1 of the Streets and Highways Code, to ensure that planned transportation infrastructure or development does not undermine the effectiveness of existing and potential wildlife passage features.",
+    "(3) Consider the impacts of development and the barriers caused by transportation infrastructure and development to wildlife and habitat connectivity. For the purposes of this paragraph, “wildlife” has the same meaning as defined in Section 89.5 of the Fish and Game Code.",
+    "(4) Avoid, minimize, or mitigate impacts and barriers to wildlife movement.",
+    "(5) Analyze and consider opportunities to remediate existing barriers to wildlife connectivity and restore degraded habitat and open space.",
+    "(b) In implementing the requirements set forth in subdivision (a), the metropolitan planning organization or transportation planning agency shall:",
+    "(1) Incorporate appropriate standards, policies, and feasible implementation programs such as wildlife-friendly fencing and lighting, buffers from sensitive resources, prohibitions on invasive plants, habitat connectivity overlay zones, and compact development standards, or consider whether adoption of an ordinance is necessary to feasibly implement these standards, policies, and implementation programs, and include goals to adopt any necessary ordinance.",
+    "(2) Consult with the Department of Fish and Wildlife, any California Native American tribe that is on the contact list maintained by the Native American Heritage Commission and that has traditional lands located partially or fully within the region of the metropolitan planning organization or transportation planning agency, and any open-space district that owns lands designated for conservation within the metropolitan planning organization or regional transportation agency’s region. Upon receiving a request for consultation, the department, tribe, or district may, in its sole discretion, accept or refuse to consult, based on the priority of natural resources impacted or other factors.",
+    "(3) Consider relevant best available science as appropriate, including, but not limited to, peer-reviewed literature, citable publicly available datasets, publicly sourced online datasets, and information and reports from governmental agencies, California Native American tribes as specified in paragraph (2), and academic institutions.",
+    "(4) Consider the most appropriately scaled scientific information on linkages, corridors, and other locations that are essential to maintain landscape connectivity, including, but not limited to, any of the following:",
+    "(A) Habitat linkages and wildlife corridors, such as those identified and summarized in the Areas of Conservation Emphasis, as defined by subdivision (a) of Section 1851 of the Fish and Game Code, and in regional habitat connectivity assessments.",
+    "(B) Wildlife corridors, such as migration corridors identified by global positioning system collar studies.",
+    "(C) Wildlife movement barriers, such as connectivity areas, as defined by subdivision (a) of Section 158 of the Street and Highways Code, barriers identified by the Department of Fish and Wildlife’s Restoring California’s Wildlife Connectivity report, and other areas the Department of Fish and Wildlife determines are important for wildlife habitat and connectivity.",
+    "(D) Other connectivity considerations, such as those outlined in the State Wildlife Action Plan, habitat conservation plans approved pursuant to Section 1539 of Title 16 of the United States Code, natural community conservation plans approved pursuant to Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code, regional conservation investment strategies approved pursuant to Chapter 9 (commencing with Section 1850) of Division 2 of the Fish and Game Code, and other relevant plans, policies, and ordinances adopted by neighboring jurisdictions or regions.",
+    "(c) In implementing the requirements set forth in subdivisions (a) and (b), the metropolitan planning organization or transportation planning agency may do all of the following:",
+    "(1) Consult with cities or counties within or outside of their region, and appropriate local, state, or federal agencies, or academic institutions.",
+    "(2) Incorporate relevant information, guidelines, and standards from applicable conservation elements approved pursuant to Section 65302, applicable habitat conservation plans approved pursuant to Section 1539 of Title 16 of the United States Code, and natural community conservation plans approved pursuant to Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code.",
+    "(d) Nothing in this section shall be interpreted as superseding the exercise of the land use authority of cities and counties within the region."
+   ],
+   "sec": "65080.10",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Transportation projects: barriers to wildlife movement.",
+ "title": "An act to add Section 65080.10 to the Government Code, and to add Section 158.6 to the Streets and Highways Code, relating to transportation.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB90299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB90298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-23",
+   "id": "20250AB90297AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-23",
+   "id": "20250AB90296AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-10",
+   "id": "20250AB90295AMD",
+   "num": "95"
+  }
+ ]
+}

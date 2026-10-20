@@ -1,0 +1,377 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Papan",
+   "primary": true
+  }
+ ],
+ "bill": "AB2296",
+ "bill_id": "202520260AB2296",
+ "chapter": {
+  "num": "798",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, which includes, among other mandatory elements, a housing element. For the 4th and subsequent revisions of the housing element, existing law requires the Department of Housing and Community Development, in consultation with each council of governments, to determine each region’s existing and projected need for housing, and requires the appropriate council of governments, or the department for cities and counties without a council of governments, to adopt a final regional housing plan that allocates a share of the regional housing need to each city, county, or city and county, as provided.",
+  "Existing law authorizes at least 2 or more cities and a county, or counties, at least 28 months prior to the scheduled housing element revision, to form a subregional entity to allocate the subregion’s existing and projected housing need among its members. If the council of governments does not receive a notification of this formation at least 28 months prior to the update, existing law requires the council of governments to implement specified requirements regarding the regional housing need process. Existing law requires the council of governments to determine the share of regional housing need assigned to each delegate subregion at least 25 months prior to the scheduled revision.",
+  "This bill, except with respect to the 7th housing element cycle for councils of governments with a housing element revision due date during the calendar year 2027, 2028, or 2029, would extend the above-described timeline for cities and counties to form a subregional entity to allocate the subregion’s housing need, as provided, from 28 months to 34 months, and the above-described timeline for the council of governments to determine the share of regional housing need assigned to each subregion from 25 months to 31 months, respectively.",
+  "(2) Existing law, at least 2 years before a scheduled revision of the housing element, as specified, requires each council of governments, or delegate subregion as applicable, to develop, in consultation with the department, a proposed methodology for distributing the existing and projected regional housing need to jurisdictions, as specified. Existing law, at least 112 years before a scheduled revision of the housing element, as specified, requires each council of governments and delegate subregion, as applicable, to distribute a draft allocation of regional housing needs to each local government in the region or subregion, where applicable, and the department, as specified.",
+  "This bill, except with respect to the 7th housing element cycle for councils of governments with a housing element revision due date during the calendar year 2027, 2028, or 2029, would instead require that the above-described methodology be developed at least 212 years before a scheduled revision of the housing element, and that the distribution of the draft allocation plan be made at least 2 years before a scheduled revision of the housing element, respectively.",
+  "(3) Existing law requires each city, county, and city and county to, among other things, revise its housing element according to a specified schedule. Existing law generally requires local governments within the jurisdiction of certain metropolitan planning organizations or regional transportation planning agencies to update their housing elements 18 months after adoption of every 2nd regional transportation plan update, but not later than 8 years later than the deadline for adoption of the previous 8-year housing element, as specified. For subsequent revisions of the housing element after the 5th revision, existing law requires certain local governments to revise their housing elements at 5-year intervals, as specified. For the 7th revision and subsequent revisions of the housing element, existing law makes subsequent revisions due 24 months after the adoption of the 2nd regional transportation plan update for local governments within the jurisdiction of the Southern California Association of Governments, except as provided.",
+  "This bill would instead generally require local governments within the above-described metropolitan planning organizations or regional transportation planning agencies to update their housing elements 18 months after the estimated adoption date of every 2nd regional transportation plan update, as specified. The bill would require the 8th revision of the housing elements for the certain local governments previously at 5-year intervals for the 7th revision, to be due by June 30, 2032. The bill would also require, for the 9th and subsequent revisions of the housing elements for those local governments, to be due 18 months after adoption of every 2nd regional transportation plan update, as provided. For the 8th and subsequent revisions, the bill would require a local government within the Southern California Association of Governments to adopt the revised housing no later than 8 years later than the deadline for adoption of the previous 8-year housing element.",
+  "The housing element law requires a metropolitan planning organization or regional transportation planning agency that has an 8-year revision interval described above to notify the Department of Housing and Community Development and the Department of Transportation in writing of the estimated adoption date for its next regional transportation plan update at least 12 months before the estimated adoption date.",
+  "This bill would instead require the above-described notification 24 months before the estimated adoption date.",
+  "(4) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(5) By requiring local officials to provide a higher level of service, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "36b7e2ce00e1e379",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-03-19"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (April 15).",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 4663.)",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "(Pending re-refer to Com. on L. GOV.)",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2026-04-20"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 76. Noes 0. Page 5481.)",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-28"
+  },
+  {
+   "action": "Referred to Com. on HOUSING.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (June 24).",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-06-29"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-04"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 6643.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-03"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 798, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250AB229692CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65584.03 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) At least 34 months prior to the scheduled housing element update required by Section 65588, at least two or more cities and a county, or counties, may form a subregional entity for the purpose of allocation of the subregion’s existing and projected need for housing among its members in accordance with the allocation methodology established pursuant to Section 65584.04. The purpose of establishing a subregion shall be to recognize the community of interest and mutual challenges and opportunities for providing housing within a subregion. A subregion formed pursuant to this section may include a single county and each of the cities in that county or any other combination of geographically contiguous local governments and shall be approved by the adoption of a resolution by each of the local governments in the subregion as well as by the council of governments. All decisions of the subregion shall be approved by vote as provided for in rules adopted by the local governments comprising the subregion or shall be approved by vote of the county or counties, if any, and the majority of the cities with the majority of population within a county or counties.",
+    "(b) Upon formation of the subregional entity, the entity shall notify the council of governments of this formation. If the council of governments has not received notification from an eligible subregional entity at least 34 months prior to the scheduled housing element update required by Section 65588, the council of governments shall implement the provisions of Sections 65584 and 65584.04. The delegate subregion and the council of governments shall enter into an agreement that sets forth the process, timing, and other terms and conditions of the delegation of responsibility by the council of governments to the subregion.",
+    "(c) At least 31 months prior to the scheduled revision, the council of governments shall determine the share of regional housing need assigned to each delegate subregion. The share or shares allocated to the delegate subregion or subregions by a council of governments shall be in a proportion consistent with the subregion’s share of the current adopted final regional housing need allocation plan. Prior to allocating the regional housing needs to any delegate subregion or subregions, the council of governments shall hold at least one public hearing, and may consider requests for revision of the proposed allocation to a subregion. If a proposed revision is rejected, the council of governments shall respond with a written explanation of why the proposed revised share has not been accepted.",
+    "(d) Each delegate subregion shall fully allocate its share of the regional housing need to local governments within its subregion. If a delegate subregion fails to complete the regional housing need allocation process among its member jurisdictions in a manner consistent with this article and with the delegation agreement between the subregion and the council of governments, the allocations to member jurisdictions shall be made by the council of governments.",
+    "(e) For the seventh housing element cycle, the changes to this section made by the act adding this subdivision shall not apply to councils of governments with a housing element revision due date during the calendar year 2027, 2028, or 2029."
+   ],
+   "sec": "65584.03",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.04 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) At least two and one-half years before a scheduled revision required by Section 65588, each council of governments, or delegate subregion as applicable, shall develop, in consultation with the department, a proposed methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, where applicable pursuant to this section. The methodology shall further the objectives listed in subdivision (d) of Section 65584.",
+    "(b) (1) No more than six months before the development of a proposed methodology for distributing the existing and projected housing need, each council of governments shall survey each of its member jurisdictions to request, at a minimum, information regarding the factors listed in subdivision (e) that will allow the development of a methodology based upon the factors established in subdivision (e).",
+    "(2) With respect to the objective in paragraph (5) of subdivision (d) of Section 65584, the survey shall review and compile information that will allow the development of a methodology based upon the issues, strategies, and actions that are included, as available, in an Analysis of Impediments to Fair Housing Choice or an Assessment of Fair Housing completed by any city or county or the department that covers communities within the area served by the council of governments, and in housing elements adopted pursuant to this article by cities and counties within the area served by the council of governments.",
+    "(3) The council of governments shall seek to obtain the information in a manner and format that is comparable throughout the region and use readily available data to the extent possible.",
+    "(4) The information provided by a local government pursuant to this section shall be used, to the extent possible, by the council of governments, or delegate subregion as applicable, as source information for the methodology developed pursuant to this section. The survey shall state that none of the information received may be used as a basis for reducing the total housing need established for the region pursuant to Section 65584.01.",
+    "(5) If the council of governments fails to conduct a survey pursuant to this subdivision, a city, county, or city and county may submit information related to the items listed in subdivision (e) before the public comment period provided for in subdivision (d).",
+    "(c) The council of governments shall electronically report the results of the survey of fair housing issues, strategies, and actions compiled pursuant to paragraph (2) of subdivision (b). The report shall describe common themes and effective strategies employed by cities and counties within the area served by the council of governments, including common themes and effective strategies around avoiding the displacement of lower income households. The council of governments shall also identify significant barriers to affirmatively furthering fair housing at the regional level and may recommend strategies or actions to overcome those barriers. A council of governments or metropolitan planning organization, as appropriate, may use this information for any other purpose, including publication within a regional transportation plan adopted pursuant to Section 65080 or to inform the land use assumptions that are applied in the development of a regional transportation plan.",
+    "(d) Public participation and access shall be required in the development of the methodology and in the process of drafting and adoption of the allocation of the regional housing needs. Participation by organizations other than local jurisdictions and councils of governments shall be solicited in a diligent effort to achieve public participation of all economic segments of the community as well as members of protected classes under Section 12955 and households with special housing needs under paragraph (7) of subdivision (a) of Section 65583. The proposed methodology, along with any relevant underlying data and assumptions, an explanation of how information about local government conditions gathered pursuant to subdivision (b) has been used to develop the proposed methodology, how each of the factors listed in subdivision (e) is incorporated into the methodology, and how the proposed methodology furthers the objectives listed in subdivision (d) of Section 65584, shall be distributed to all cities, counties, any subregions, and members of the public who have made a written or electronic request for the proposed methodology and published on the council of governments’, or delegate subregion’s, internet website. The council of governments, or delegate subregion, as applicable, shall conduct at least one public hearing to receive oral and written comments on the proposed methodology.",
+    "(e) To the extent that sufficient data is available from local governments pursuant to subdivision (b) or other sources, each council of governments, or delegate subregion as applicable, shall consider including the following factors in developing the methodology that allocates regional housing needs:",
+    "(1) Each member jurisdiction’s existing and projected jobs and housing relationship. This shall include an estimate, based on readily available data, of the number of low-wage jobs within the jurisdiction and how many housing units within the jurisdiction are affordable to low-wage workers as well as an estimate, based on readily available data, of projected job growth and projected household growth by income level within each member jurisdiction during the planning period.",
+    "(2) The opportunities and constraints to development of additional housing in each member jurisdiction, including all of the following:",
+    "(A) Lack of capacity for sewer or water service due to federal or state laws, regulations or regulatory actions, or supply and distribution decisions made by a sewer or water service provider other than the local jurisdiction that preclude the jurisdiction from providing necessary infrastructure for additional development during the planning period.",
+    "(B) The availability of land suitable for urban development or for conversion to residential use, the availability of underutilized land, and opportunities for infill development and increased residential densities. The council of governments may not limit its consideration of suitable housing sites or land suitable for urban development to existing zoning ordinances and land use restrictions of a locality, but shall consider the potential for increased residential development under alternative zoning ordinances and land use restrictions. The determination of available land suitable for urban development may exclude lands where the Federal Emergency Management Agency (FEMA) or the Department of Water Resources has determined that the flood management infrastructure designed to protect that land is not adequate to avoid the risk of flooding.",
+    "(C) Lands preserved or protected from urban development under existing federal or state programs, or both, designed to protect open space, farmland, environmental habitats, and natural resources on a long-term basis, including land zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(D) County policies to preserve prime agricultural land, as defined pursuant to Section 56064, within an unincorporated area and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of that jurisdiction that prohibits or restricts its conversion to nonagricultural uses.",
+    "(E) Emergency evacuation route capacity, wildfire risk, sea level rise, and other impacts caused by climate change.",
+    "(3) The distribution of household growth assumed for purposes of a comparable period of regional transportation plans and opportunities to maximize the use of public transportation and existing transportation infrastructure.",
+    "(4) Agreements between a county and cities in a county to direct growth toward incorporated areas of the county and land within an unincorporated area zoned or designated for agricultural protection or preservation that is subject to a local ballot measure that was approved by the voters of the jurisdiction that prohibits or restricts conversion to nonagricultural uses.",
+    "(5) The loss of units contained in assisted housing developments, as defined in paragraph (9) of subdivision (a) of Section 65583, that changed to non-low-income use through mortgage prepayment, subsidy contract expirations, or termination of use restrictions.",
+    "(6) The percentage of existing households at each of the income levels listed in subdivision (f) of Section 65584 that are paying more than 30 percent and more than 50 percent of their income in rent.",
+    "(7) The rate of overcrowding.",
+    "(8) The housing needs of farmworkers.",
+    "(9) (A) The housing needs generated by the presence of a private university or a campus of the California State University or the University of California within any member jurisdiction, the distribution of those students among jurisdictions within the region, and for a campus of the California State University or the University of California, the optimization of transit, pedestrian, and other nonvehicle trip efficiency by students to the campus, including off-campus facilities.",
+    "(B) (i) No more than six months before the development of the methodology, the Regents of the University of California are requested to, and the Trustees of the California State University shall, provide to each council of governments a forecast of changes in enrollment levels at its campuses, including off-campus facilities, within the region, based on factors that include, but are not limited to, (I) cohort progression projections, (II) improvements in the percentage of California residents meeting university admission and transfer standards, and (III) improvements in degree completion by noncohort students. The forecast shall not be limited to students who will be recent high school graduates. The Regents of the University of California are requested to, and the Trustees of the California State University shall, provide copies of the forecast to the Director of Finance, the Director of Housing and Community Development, and the Chairperson of the Joint Legislative Budget Committee.",
+    "(ii) Clause (i) shall apply to the seventh and each subsequent housing element cycle, except as specified in clause (iii).",
+    "(iii) With respect to all of the following councils of governments, clause (i) shall apply to the eighth and each subsequent housing element cycle:",
+    "(I) The Humboldt County Association of Governments.",
+    "(II) The Lake Area Planning Council.",
+    "(III) The Mendocino Council of Governments.",
+    "(C) The Regents of the University of California are requested to, and the Trustees of the California State University shall, provide trip and travel data to the council of governments upon request.",
+    "(10) The housing needs of individuals and families experiencing homelessness. If a council of governments has surveyed each of its member jurisdictions pursuant to subdivision (b) on or before January 1, 2020, this paragraph shall apply only to the development of methodologies for the seventh and subsequent revisions of the housing element.",
+    "(11) The loss of units during a state of emergency that was declared by the Governor pursuant to the California Emergency Services Act (Chapter 7 (commencing with Section 8550) of Division 1 of Title 2), during the planning period immediately preceding the relevant revision pursuant to Section 65588 that have yet to be rebuilt or replaced at the time of the analysis.",
+    "(12) The region’s greenhouse gas emissions targets provided by the State Air Resources Board pursuant to Section 65080.",
+    "(13) The development pattern set forth in the region’s sustainable communities strategy of its regional transportation plan.",
+    "(14) Any other factors adopted by the council of governments that further the objectives listed in subdivision (d) of Section 65584, provided that the council of governments specifies which of the objectives each additional factor is necessary to further. The council of governments may include additional factors unrelated to furthering the objectives listed in subdivision (d) of Section 65584 so long as the additional factors do not undermine the objectives listed in subdivision (d) of Section 65584 and are applied equally across all household income levels as described in subdivision (f) of Section 65584 and the council of governments makes a finding that the factor is necessary to address significant health and safety conditions.",
+    "(f) The council of governments, or delegate subregion, as applicable, shall explain in writing how each of the factors described in subdivision (e) was incorporated into the methodology and how the methodology furthers the objectives listed in subdivision (d) of Section 65584. The methodology may include numerical weighting. This information, and any other supporting materials used in determining the methodology, shall be posted on the council of governments’, or delegate subregion’s, internet website.",
+    "(g) The following criteria shall not be a justification for a determination or a reduction in a jurisdiction’s share of the regional housing need:",
+    "(1) Any ordinance, policy, voter-approved measure, or standard of a city or county that directly or indirectly limits the number of residential building permits issued by a city or county.",
+    "(2) Prior underproduction of housing in a city or county from the previous regional housing need allocation, as determined by each jurisdiction’s annual production report submitted pursuant to subparagraph (H) of paragraph (2) of subdivision (a) of Section 65400.",
+    "(3) Stable population numbers in a city or county from the previous regional housing needs cycle.",
+    "(h) Following the conclusion of the public comment period described in subdivision (d) on the proposed allocation methodology, and after making any revisions deemed appropriate by the council of governments, or delegate subregion, as applicable, as a result of comments received during the public comment period, and as a result of consultation with the department, each council of governments, or delegate subregion, as applicable, shall publish a draft allocation methodology on its internet website and submit the draft allocation methodology, along with the information required pursuant to subdivision (e), to the department.",
+    "(i) Within 60 days, the department shall review the draft allocation methodology and report its written findings to the council of governments, or delegate subregion, as applicable. In its written findings, the department shall determine whether the methodology furthers the objectives listed in subdivision (d) of Section 65584. If the department determines that the methodology is not consistent with subdivision (d) of Section 65584, the council of governments, or delegate subregion, as applicable, shall take both of the following actions:",
+    "(1) Revise the methodology, in consultation with the department, to further the objectives listed in subdivision (d) of Section 65584 within 45 days.",
+    "(2) Receive department acceptance that the revised methodology furthers the objectives listed in subdivision (d) of Section 65584 and adopt a final regional, or subregional, housing need allocation methodology.",
+    "(j) If the department’s findings are not available within the time limits set by subdivision (i), the council of governments, or delegate subregion, may act without them.",
+    "(k) After taking action pursuant to subdivision (i), the council of governments, or delegate subregion, shall provide notice of the adoption of the methodology to the jurisdictions within the region, or delegate subregion, as applicable, and to the department, and shall publish the adopted allocation methodology, along with its resolution and any adopted written findings, on its internet website.",
+    "(l) The department may, within 45 days, review the adopted methodology and report its findings to the council of governments, or delegate subregion.",
+    "(m) (1) It is the intent of the Legislature that housing planning be coordinated and integrated with the regional transportation plan. To achieve this goal, the allocation plan shall be informed by the development pattern included in the sustainable communities strategy.",
+    "(2) (A) The final allocation plan shall ensure that the total regional housing need, by income category, as determined under Section 65584, is maintained, and that each jurisdiction in the region receives an allocation of units for low- and very low income households.",
+    "(B) For the seventh and subsequent revisions of the housing element, the allocation to each region required under subparagraph (A) shall also include an allocation of units for acutely low and extremely low income households.",
+    "(3) The resolution approving the final housing need allocation plan shall demonstrate that the plan is informed by the sustainable communities strategy in the regional transportation plan and furthers the objectives listed in subdivision (d) of Section 65584.",
+    "(n) This section shall become operative on January 1, 2025.",
+    "(o) For the seventh housing element cycle, the changes to this section made by the act adding this subdivision shall not apply to councils of governments with a housing element revision due date during the calendar year 2027, 2028, or 2029."
+   ],
+   "sec": "65584.04",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65584.05 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) At least two years before the scheduled revision required by Section 65588, each council of governments and delegate subregion, as applicable, shall distribute a draft allocation of regional housing needs to each local government in the region or subregion, where applicable, and the department, based on the methodology adopted pursuant to Section 65584.04, shall publish the draft allocation on its internet website. The council of governments may additionally distribute the draft allocation plan upon adoption of the final methodology reviewed and accepted by the department pursuant to paragraph (2) of subdivision (i) of Section 65584.04. The draft allocation shall include the underlying data and methodology on which the allocation is based, and a statement as to how it furthers the objectives listed in subdivision (d) of Section 65584. It is the intent of the Legislature that the draft allocation should be distributed before the completion of the update of the applicable regional transportation plan. The draft allocation shall distribute to localities and subregions, if any, within the region the entire regional housing need determined pursuant to Section 65584.01 or within subregions, as applicable, the subregion’s entire share of the regional housing need determined pursuant to Section 65584.03.",
+    "(b) Within 30 days following receipt of the draft allocation, a local government within the region or the delegate subregion, as applicable, or the department may appeal to the council of governments or the delegate subregion for a revision of the share of the regional housing need proposed to be allocated to one or more local governments. Appeals shall be based upon comparable data available for all affected jurisdictions and accepted planning methodology, and supported by adequate documentation, and shall include a statement as to why the revision is necessary to further the intent of the objectives listed in subdivision (d) of Section 65584. An appeal pursuant to this subdivision shall be consistent with, and not to the detriment of, the development pattern in an applicable sustainable communities strategy developed pursuant to paragraph (2) of subdivision (b) of Section 65080. Appeals shall be limited to any of the following circumstances:",
+    "(1) The council of governments or delegate subregion, as applicable, failed to adequately consider the information submitted pursuant to subdivision (b) of Section 65584.04.",
+    "(2) The council of governments or delegate subregion, as applicable, failed to determine the share of the regional housing need in accordance with the information described in, and the methodology established pursuant to, Section 65584.04, and in a manner that furthers, and does not undermine, the intent of the objectives listed in subdivision (d) of Section 65584.",
+    "(3) A significant and unforeseen change in circumstances has occurred in the local jurisdiction or jurisdictions that merits a revision of the information submitted pursuant to subdivision (b) of Section 65584.04. Appeals on this basis shall only be made by the jurisdiction or jurisdictions where the change in circumstances has occurred.",
+    "(c) At the close of the period for filing appeals pursuant to subdivision (b), the council of governments or delegate subregion, as applicable, shall notify all other local governments within the region or delegate subregion and the department of all appeals and shall make all materials submitted in support of each appeal available on a publicly available internet website. Local governments and the department may, within 45 days, comment on one or more appeals. If no appeals are filed, the draft allocation may be adopted pursuant to subdivision (g).",
+    "(d) No later than 30 days after the close of the comment period, and after providing all local governments within the region or delegate subregion, as applicable, at least 10 days prior notice, the council of governments or delegate subregion shall conduct one public hearing to consider all appeals filed pursuant to subdivision (b) and all comments received pursuant to subdivision (c).",
+    "(e) No later than 45 days after the public hearing pursuant to subdivision (d), the council of governments or delegate subregion, as applicable, shall do all of the following:",
+    "(1) Make a final determination that either accepts, rejects, or modifies each appeal for a revised share filed pursuant to subdivision (b). Final determinations shall be based upon the information and methodology described in Section 65584.04 and whether the revision is necessary to further the objectives listed in subdivision (d) of Section 65584. The final determination shall be in writing and shall include written findings as to how the determination is consistent with this article. The final determination on an appeal may require the council of governments or delegate subregion, as applicable, to adjust the share of the regional housing need allocated to one or more local governments that are not the subject of an appeal.",
+    "(2) Issue a proposed final allocation plan.",
+    "(3) Submit the proposed final allocation plan to the department.",
+    "(4) Set a date for a public hearing to adopt a final allocation plan pursuant to subdivision (g).",
+    "(f) In the proposed final allocation plan, the council of governments or delegate subregion, as applicable, shall adjust allocations to local governments based upon the results of the appeals process. If the adjustments total 7 percent or less of the regional housing need determined pursuant to Section 65584.01, or, as applicable, total 7 percent or less of the subregion’s share of the regional housing need as determined pursuant to Section 65584.03, then the council of governments or delegate subregion, as applicable, shall distribute the adjustments proportionally to all local governments. If the adjustments total more than 7 percent of the regional housing need, then the council of governments or delegate subregion, as applicable, shall develop a methodology to distribute the amount greater than the 7 percent to local governments. The total distribution of housing need shall not equal less than the regional housing need, as determined pursuant to Section 65584.01, nor shall the subregional distribution of housing need equal less than its share of the regional housing need as determined pursuant to Section 65584.03.",
+    "(g) Within 45 days after the issuance of the proposed final allocation plan by the council of governments and each delegate subregion, as applicable, the council of governments shall hold a public hearing to adopt a final allocation plan. To the extent that the final allocation plan fully allocates the regional share of statewide housing need, as determined pursuant to Section 65584.01, and has taken into account all appeals, the council of governments shall have final authority to determine the distribution of the region’s existing and projected housing need as determined pursuant to Section 65584.01. The council of governments shall submit its final allocation plan to the department within three days of adoption. Within 15 days after the department’s receipt of the final allocation plan adopted by the council of governments, the department shall determine if the final allocation plan is consistent with the existing and projected housing need for the region, as determined pursuant to Section 65584.01. The department may revise the determination of the council of governments if necessary to obtain this consistency.",
+    "(h) Any authority of the council of governments to review and revise the share of a city or county of the regional housing need under this section shall not constitute authority to revise, approve, or disapprove the manner in which the share of the city or county of the regional housing need is implemented through its housing program.",
+    "(i) Any time period in subdivision (d) or (e) may be extended by a council of governments or delegate subregion, as applicable, for up to 30 days. Any time period in subdivision (b), (c), (d), (e), or (g) may be reduced by a council of governments or delegate subregion, as applicable, to facilitate earlier adoption of the final allocation plan. No time period shall be reduced to fewer than a minimum of 10 days.",
+    "(j) The San Diego Association of Governments may follow the process in this section for the draft and final allocation plan for the sixth revision of the housing element notwithstanding such actions being carried out before the adoption of an updated regional transportation plan and sustainable communities strategy.",
+    "(k) For the seventh housing element cycle, the changes to this section made by the act adding this subdivision shall not apply to councils of governments with a housing element revision due date during the calendar year 2027, 2028, or 2029."
+   ],
+   "sec": "65584.05",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65588 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Each local government shall review its housing element as frequently as appropriate to evaluate all of the following:",
+    "(1) The appropriateness of the housing goals, objectives, and policies in contributing to the attainment of the state housing goal.",
+    "(2) The effectiveness of the housing element in attainment of the community’s housing goals and objectives.",
+    "(3) The progress of the city, county, or city and county in implementation of the housing element.",
+    "(4) The effectiveness of the housing element goals, policies, and related actions to meet the community’s needs, pursuant to paragraph (7) of subdivision (a) of Section 65583.",
+    "(b) The housing element shall be revised as appropriate, but no less often than required by subdivision (e), to reflect the results of this periodic review. Nothing in this section shall be construed to excuse the obligations of the local government to adopt a revised housing element in accordance with the schedule specified in this section.",
+    "(c) The review and revision of housing elements required by this section shall take into account any low- or moderate-income housing provided or required pursuant to Section 65590.",
+    "(d) The review pursuant to subdivision (c) shall include, but need not be limited to, the following:",
+    "(1) The number of new housing units approved for construction within the coastal zone after January 1, 1982.",
+    "(2) The number of housing units for persons and families of low or moderate income, as defined in Section 50093 of the Health and Safety Code, required to be provided in new housing developments either within the coastal zone or within three miles of the coastal zone pursuant to Section 65590.",
+    "(3) The number of existing residential dwelling units occupied by persons and families of low or moderate income, as defined in Section 50093 of the Health and Safety Code, that have been authorized to be demolished or converted since January 1, 1982, in the coastal zone.",
+    "(4) The number of residential dwelling units for persons and families of low or moderate income, as defined in Section 50093 of the Health and Safety Code, that have been required for replacement or authorized to be converted or demolished as identified in paragraph (3). The location of the replacement units, either onsite, elsewhere within the locality’s jurisdiction within the coastal zone, or within three miles of the coastal zone within the locality’s jurisdiction, shall be designated in the review.",
+    "(e) Each city, county, and city and county shall revise its housing element according to the following schedule:",
+    "(1) (A) Local governments within the regional jurisdiction of the Southern California Association of Governments: June 30, 2006, for the fourth revision.",
+    "(B) Local governments within the regional jurisdiction of the Association of Bay Area Governments: June 30, 2007, for the fourth revision.",
+    "(C) Local governments within the regional jurisdiction of the Council of Fresno County Governments, the Kern County Council of Governments, and the Sacramento Area Council of Governments: June 30, 2002, for the third revision, and June 30, 2008, for the fourth revision.",
+    "(D) Local governments within the regional jurisdiction of the Association of Monterey Bay Area Governments: December 31, 2002, for the third revision, and June 30, 2009, for the fourth revision.",
+    "(E) Local governments within the regional jurisdiction of the San Diego Association of Governments: June 30, 2005, for the fourth revision.",
+    "(F) All other local governments: December 31, 2003, for the third revision, and June 30, 2009, for the fourth revision.",
+    "(2) (A) All local governments within a metropolitan planning organization in a region classified as nonattainment for one or more pollutants regulated by the federal Clean Air Act (42 U.S.C. Sec. 7401), except those within the regional jurisdiction of the San Diego Association of Governments, shall adopt the fifth revision of the housing element no later than 18 months after adoption of the first regional transportation plan to be adopted after September 30, 2010.",
+    "(B) (i) All local governments within the regional jurisdiction of the San Diego Association of Governments shall adopt the fifth revision of the housing element no later than 18 months after adoption of the first regional transportation plan update to be adopted after September 30, 2010.",
+    "(ii) Before or concurrent with the adoption of the fifth revision of the housing element, each local government within the regional jurisdiction of the San Diego Association of Governments shall identify adequate sites in its inventory pursuant to Section 65583.2 or rezone adequate sites to accommodate a prorated portion of its share of the regional housing need for the projection period representing the period from July 1, 2010, to the deadline for housing element adoption described in clause (i).",
+    "(I) For the fifth revision, a local government within the jurisdiction of the San Diego Association of Governments that has not adopted a housing element for the fourth revision by January 1, 2009, shall revise its housing element not less than every four years, beginning on the date described in clause (i), in accordance with paragraph (4), unless the local government does both of the following:",
+    "(ia) Adopts a housing element for the fourth revision no later than March 31, 2010, that is in substantial compliance with this article.",
+    "(ib) Completes any rezoning contained in the housing element program for the fourth revision by June 30, 2010.",
+    "(II) A local government within the jurisdiction of the San Diego Association of Governments shall adopt the sixth revision of the housing element on or before April 30, 2021, using the final housing allocation adopted by the San Diego Association of Governments on or before November 1, 2019, although such action will not be carried out concurrently with adoption of an updated regional transportation plan and sustainable communities strategy.",
+    "(III) All local governments within the jurisdiction of the San Diego Association of Governments shall adopt the seventh revision of the housing element no later than 18 months after the association’s estimated adoption of its first regional transportation plan update in 2029.",
+    "(IV) For the eighth and subsequent revisions, a local government within the jurisdiction of the San Diego Association of Governments shall be subject to the dates described in clause (i) of subparagraph (A) of paragraph (3).",
+    "(C) All local governments within the regional jurisdiction of a metropolitan planning organization or a regional transportation planning agency that has made an election pursuant to subparagraph (M) of paragraph (2) of subdivision (b) of Section 65080 by June 1, 2009, shall adopt the fifth revision of the housing element no later than 18 months after adoption of the first regional transportation plan update following the election.",
+    "(D) All other local governments shall adopt the fifth revision of the housing element five years after the date specified in paragraph (1).",
+    "(3) Subsequent revisions of the housing element shall be due as follows:",
+    "(A) (i) Except as otherwise provided in clause (ii), for local governments described in subparagraphs (A), (B), and (C) of paragraph (2), 18 months after the estimated adoption date of every second regional transportation plan update, provided that the deadline for adoption is no more than eight years later than the deadline for adoption of the previous eight-year housing element, or as otherwise provided in law.",
+    "(ii) Notwithstanding clause (i), for local governments described in subparagraphs (A) and (C) of paragraph (2) that are within the regional jurisdiction of the Southern California Association of Governments, except the County of Orange and all local governments within the County of Orange, the County of Riverside and all local governments within the County of Riverside, the County of San Bernardino and all local governments within the County of San Bernardino, and the County of Ventura and all local governments within the County of Ventura, for the seventh revision of the housing element, 24 months after the estimated adoption date of every second regional transportation plan update. For the eighth and subsequent revisions, a local government within the Southern California Association of Governments shall adopt the revised housing element no later than eight years after the deadline for adoption of the previous eight-year housing element, or as otherwise provided in law.",
+    "(B) For all other local governments, previously at five-year intervals for the seventh revision, June 30, 2032, for the eighth revision. For the ninth and subsequent revisions, these local governments shall be subject to the dates described in clause (i) of subparagraph (A).",
+    "(C) If a metropolitan planning organization or a regional transportation planning agency subject to the five-year revision interval in subparagraph (B) makes an election pursuant to subparagraph (M) of paragraph (2) of subdivision (b) of Section 65080 after June 1, 2009, all local governments within the regional jurisdiction of that entity shall adopt the next housing element revision no later than 18 months after adoption of the first regional transportation plan update following the election. Subsequent revisions shall be due 18 months after adoption of every second regional transportation plan update, provided that the deadline for adoption is no more than eight years later than the deadline for adoption of the previous eight-year housing element.",
+    "(4) (A) A local government that does not adopt a housing element within 120 days of the applicable deadline described in subparagraph (A), (B), or (C) of paragraph (2) or subparagraph (A) or (C) of paragraph (3) shall revise its housing element not less than every four years until the due date for the sixth revision. The adoption of a sixth revision housing element that the department finds to be in substantial compliance with this article pursuant to Section 65585 shall be deemed to satisfy any obligation to adopt a four-year housing element, and a four-year housing element revision shall not be subsequently required.",
+    "(B) The deadline for adoption of every four-year revision shall be the same as the deadline for adoption for other local governments within the region.",
+    "(C) (i) For the adoption of the sixth revision, a local government that does not adopt a housing element that the department has found to be in substantial compliance with this article within 120 days of the applicable deadline described in subparagraph (A) or (C) of paragraph (3) shall comply with subparagraph (A) of paragraph (1) of subdivision (c) of Section 65583 and subdivision (c) of Section 65583.2 within one year of the statutory deadline to revise the housing element.",
+    "(ii) For the adoption of the seventh and each subsequent revision, a local government shall comply with subparagraph (A) of paragraph (1) of subdivision (c) of Section 65583 and subdivision (c) of Section 65583.2 no later than one year from the statutory deadline in this section for adoption of the housing element unless the local government complies with all of the following:",
+    "(I) The local government submits a draft element or draft amendment to the department for review pursuant to paragraph (1) of subdivision (b) of Section 65585 at least 90 days before the statutory deadline set forth in this section for adoption of the housing element.",
+    "(II) The local government receives from the department findings that the draft element or draft amendment substantially complies with this article pursuant to paragraph (3) of subdivision (b) of Section 65585 on or before the statutory deadline set forth in Section 65588 for adoption of the housing element.",
+    "(III) The local government adopts the draft element or draft amendment that the department found to substantially comply with this article no later than 120 days after the statutory deadline set forth in this section.",
+    "(iii) If a jurisdiction subject to this subparagraph fails to complete the required rezoning within the time period required, the jurisdiction’s adopted housing element shall be subject to subdivision (i) of Section 65585.",
+    "(iv) A jurisdiction that adopts a housing element more than one year after the statutory deadline described in subparagraph (A) or (C) of paragraph (3) shall not be found in substantial compliance with this article until it has completed the rezoning required by subparagraph (A) of paragraph (1) of subdivision (c) of Section 65583 and subdivision (c) of Section 65583.2.",
+    "(5) The metropolitan planning organization or a regional transportation planning agency for a region that has an eight-year revision interval pursuant to paragraph (3) shall notify the department and the Department of Transportation in writing of the estimated adoption date for its next regional transportation plan update at least 24 months before the estimated adoption date. The Department of Transportation shall maintain and publish on its internet website a current schedule of the estimated regional transportation plan adoption dates. The department shall maintain and publish on its internet website a current schedule of the estimated and actual housing element due dates. Each council of governments shall publish on its internet website the estimated and actual housing element due dates, as published by the department, for the jurisdictions within its region and shall send notice of these dates to interested parties. For purposes of determining the existing and projected need for housing within a region pursuant to Sections 65584 to 65584.07, inclusive, the date of the next scheduled revision of the housing element shall be deemed to be the estimated adoption date of the regional transportation plan update described in the notice provided to the Department of Transportation plus 18 months, provided that date is no more than eight years later than the deadline for adoption of the previous eight-year housing element.",
+    "(6) The new projection period shall begin on the date of December 31 or June 30 that most closely precedes the end of the previous projection period.",
+    "(f) For purposes of this article, the following terms have the following meanings:",
+    "(1) “Planning period” shall be the time period between the due date for one housing element and the due date for the next housing element for each revision according to the applicable schedule described in paragraphs (2) and (3) of subdivision (e).",
+    "(2) “Projection period” shall be the time period for which the regional housing need is calculated.",
+    "(g) For purposes of this section, “regional transportation plan update” shall mean a regional transportation plan adopted to satisfy the requirements of subdivision (d) of Section 65080."
+   ],
+   "sec": "65588",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Planning and zoning: housing element: regional housing needs allocation.",
+ "title": "An act to amend Sections 65584.03, 65584.04, 65584.05, and 65588 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250AB229699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-19",
+   "id": "20250AB229698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-16",
+   "id": "20250AB229697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-18",
+   "id": "20250AB229696AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-29",
+   "id": "20250AB229695AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB229694AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-30",
+   "id": "20250AB229693ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250AB229692CHP",
+   "num": "92"
+  }
+ ]
+}

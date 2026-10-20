@@ -1,0 +1,451 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Blakespear",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Cortese",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Laird",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "McGuire",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Pérez",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Reyes",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Addis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ahrens",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lee",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Pellerin",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schultz",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ward",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Kalra",
+   "primary": false
+  }
+ ],
+ "bill": "SB954",
+ "bill_id": "202520260SB954",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA defines various terms, including “natural and protected lands” for its purposes.",
+  "This bill would revise the definition of that term to include habitats for protected species identified as candidate, sensitive, or species of special status by state or federal agencies.",
+  "CEQA exempts from its requirement projects that consist exclusively of a day care center that is not located in a residential area and projects that consist exclusively of an advanced manufacturing facility located on a site zoned exclusively for industrial uses.",
+  "This bill would additionally exempt projects consisting exclusively of a family day care home, as defined. The bill would, for the exemption for the day care center and family day care home, instead require the projects for those facilities not be located in an area zoned for industrial use or within 3,200 feet of a facility that actively extracts or refines oil or natural gas in order for the exemption to apply. The bill would revise the exemption for advanced manufacturing facility projects to require those projects to be used exclusively for final tier manufacturing, as defined. The bill would require an applicant of an advanced manufacturing project that is exempted from CEQA under the bill’s requirement to enter into a bona fide community benefits agreement, as provided, and to comply with certain labor requirements, as provided. The bill would require the lead agency, before determining that an advanced manufacturing project is exempt from CEQA, to hold at least one public hearing on the project and to ensure that the applicant complies with the requirement to enter into a bona fide community benefits agreement and the labor requirements.",
+  "CEQA exempts from its requirements a rezoning that implements the schedule of actions contained in an approved housing element. CEQA specifies that this exemption does not apply to a rezoning that would allow for the construction of certain facilities, including oil and gas infrastructure. CEQA also specifies that this exemption does not apply rezoning that would allow for construction to occur within the boundaries of any natural and protected lands, except as provided.",
+  "This bill would repeal the exception from the CEQA exemption for rezoning that would allow for oil and gas infrastructure. The bill would specify that the definition of “natural and protected land” does not include habitats for protected species that would be added to that definition by this bill for purposes the exception for rezoning that would allow for construction to occur within the boundaries of any natural and protected lands to the CEQA exemption.",
+  "CEQA specifies, for a proposed housing development project that would otherwise be exempt from its requirements but for a single condition required for the exemption to apply, that the application of CEQA is limited to the effects upon the environment that are caused by that single condition. CEQA provides that this limited application of CEQA does not apply if the proposed housing project is located on natural and protected land, but does not include “natural and protected land” that is a site within a very high fire hazard severity zone or within the state responsibility area, except as provided.",
+  "This bill would additionally specify that “natural and protected land” does not include habitats for protected species that would be added to that definition by this bill.",
+  "Because the bill would impose additional duties on a lead agency, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "630493b72b4ac5b3",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-02"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 5.",
+   "date": "2026-02-03"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Re-referred to Coms. on E.Q. and L., P.E. & R.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "Set for hearing April 22 in L., P.E. & R. pending receipt.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on L., P.E. & R. (Ayes 5. Noes 2. Page 3899.) (April 15).",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L., P.E. & R.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 4. Noes 1. Page 4012.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Set for hearing May 4.",
+   "date": "2026-04-24"
+  },
+  {
+   "action": "May 4 hearing: Placed on APPR. suspense file.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-08"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 5. Noes 2. Page 4259.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 23. Noes 10. Page 4447.) Ordered to the Assembly.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and L. & E.",
+   "date": "2026-06-08"
+  },
+  {
+   "action": "Assembly Rule 56 suspended.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. & E. (Ayes 9. Noes 4.) (June 22). Re-referred to Com. on L. & E.",
+   "date": "2026-06-23"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 1.) (June 24). Re-referred to Com. on APPR.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "August 5 set for first hearing. Placed on suspense file.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 4.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 50. Noes 17. Page 6623.) Ordered to the Senate.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 28. Noes 10.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2026-09-04"
+  },
+  {
+   "action": "Vetoed by the Governor.",
+   "date": "2026-09-18"
+  },
+  {
+   "action": "In Senate. Consideration of Governor's veto pending.",
+   "date": "2026-09-18"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Enrolled",
+  "date": "2026-08-31",
+  "id": "20250SB95493ENR",
+  "num": "93"
+ },
+ "location": "Unfinished Business",
+ "sections": [
+  {
+   "action": "Section 21067.5 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "“Natural and protected lands” means sites located within any of the following locations:",
+    "(a) The state park system, as described in Article 1 (commencing with Section 5001) of Chapter 1 of Division 5.",
+    "(b) A wilderness area, as defined in Section 5093.32.",
+    "(c) A marine protected area, as defined in Section 2852 of the Fish and Game Code.",
+    "(d) The national park system, as defined in Section 100102 of Title 54 of the United States Code.",
+    "(e) A national recreation area.",
+    "(f) A national monument.",
+    "(g) The national wild and scenic rivers system, as defined in Section 1273 of Title 16 of the United States Code.",
+    "(h) Any ecological reserve or wildlife management area acquired and managed by the Department of Fish and Wildlife pursuant to Article 2 (commencing with Section 1525) or Article 4 (commencing with Section 1580) of Chapter 5 of Division 2 of the Fish and Game Code.",
+    "(i) A hazardous waste site that is listed pursuant to Section 65962.5 of the Government Code or a hazardous waste site designated by the Department of Toxic Substances Control pursuant to Section 25356 of the Health and Safety Code, unless either of the following apply:",
+    "(1) The site is an underground storage tank site that received a uniform closure letter issued pursuant to subdivision (g) of Section 25296.10 of the Health and Safety Code based on closure criteria established by the State Water Resources Control Board for the use proposed by the project. This paragraph does not alter or change the conditions to remove a site from the list of hazardous waste sites listed pursuant to Section 65962.5 of the Government Code.",
+    "(2) The State Department of Public Health, State Water Resources Control Board, Department of Toxic Substances Control, or a local agency making a determination pursuant to subdivision (c) of Section 25296.10 of the Health and Safety Code has otherwise determined that the site is suitable for the use proposed by the project.",
+    "(j) Within a regulatory floodway as determined by the Federal Emergency Management Agency in any official maps published by the Federal Emergency Management Agency, unless the development has received a no-rise certification in accordance with Section 60.3(d)(3) of Title 44 of the Code of Federal Regulations.",
+    "(k) Lands under conservation easement.",
+    "(l) On, or within a 300-foot radius of, a wetland, as defined in the United States Fish and Wildlife Service Manual, Part 660 FW 2 (June 21, 1993).",
+    "(m) An environmentally sensitive area within the coastal zone, as defined in Section 30107.5.",
+    "(n) Lands identified for conservation in an adopted natural community conservation plan pursuant to the Natural Community Conservation Planning Act (Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code) or habitat conservation plan pursuant to the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), or other adopted natural resource protection plan.",
+    "(o) Within a very high fire hazard severity zone, as determined by the Department of Forestry and Fire Protection pursuant to Section 51178 of the Government Code, or within the state responsibility area, as defined in Section 4102. This subdivision does not apply to sites that have adopted fire hazard mitigation measures pursuant to existing building standards or state fire mitigation measures applicable to the development, including, but not limited to, standards established under all of the following provisions or their successor provisions:",
+    "(1) Section 4291 of this code or Section 51182 of the Government Code, as applicable.",
+    "(2) Section 4290.",
+    "(3) Chapter 7A (commencing with Section 701A.1) of Part 2 of Title 24 of the California Code of Regulations.",
+    "(p) Either prime farmland or farmland of statewide importance, as defined pursuant to the United States Department of Agriculture land inventory and monitoring criteria, as modified for California, and designated on the maps prepared by the Farmland Mapping and Monitoring Program of the Department of Conservation, or land zoned or designated for agricultural protection or preservation by a local ballot measure that was approved by the voters of that jurisdiction.",
+    "(q) Habitat for protected species identified as candidate, sensitive, or species of special status by state or federal agencies, fully protected species, or species protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code)."
+   ],
+   "sec": "21067.5",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.085 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) This division does not apply to a rezoning that implements the schedule of actions contained in an approved housing element pursuant to subdivision (c) of Section 65583 of the Government Code.",
+    "(b) (1) Subdivision (a) does not apply to any of the following:",
+    "(A) A rezoning that would allow for the construction of a distribution center.",
+    "(B) (i) Except as provided in paragraph (2), a rezoning that would allow for construction to occur within the boundaries of any natural and protected lands.",
+    "(ii) For purposes of clause (i), “natural and protected lands” does not include lands described in subdivision (q) of Section 21067.5.",
+    "(2) (A) (i) Notwithstanding subparagraph (B) of paragraph (1), subdivision (a) applies to a rezoning that contains within its boundaries any natural and protected lands if those natural and protected lands are excluded from the rezoning.",
+    "(ii) “Natural and protected lands” described in clause (i) does not include the lands described in subdivision (p) of Section 21067.5.",
+    "(B) The rezoning of a parcel or portions of a parcel that is excluded from a rezoning under this paragraph shall be a separate project that is subject to this division."
+   ],
+   "sec": "21080.085",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.1 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) The lead agency shall be responsible for determining whether the project is exempt from this division and whether an environmental impact report, a negative declaration, or a mitigated negative declaration shall be required for any project that is subject to this division. That determination shall be final and conclusive on all persons, including responsible agencies, unless challenged as provided in Section 21167.",
+    "(b) (1) If a proposed housing development project would otherwise be exempt from this division pursuant to a statutory exemption, or categorical exemption pursuant to Class 1 to 5, inclusive, 12, 15, 20, 27, 30, or 32 that is adopted before January 1, 2026, but for a single condition detailed in the statutory exemption or in Section 15300.2, 15301, 15302, 15303, 15304, 15305, 15312, 15315, 15320, 15322, 15327, 15330, or 15332 of Title 14 of the California Code of Regulations, as applicable, the application of this division to the approval of the proposed housing development project shall be limited to effects upon the environment that are caused solely by that single condition.",
+    "(2) An initial study or environmental impact report prepared for a housing development project subject to this subdivision is only required to examine those effects that the lead agency determines, based upon substantial evidence in the record, are caused solely by the single condition that makes the proposed housing development project ineligible for the statutory exemption or categorical exemption.",
+    "(3) An environmental impact report for a housing development project subject to this subdivision is not required to include any discussion of alternatives to the housing development project or the growth-inducing impacts of the housing development project.",
+    "(4) This subdivision does not apply to any of the following housing development projects:",
+    "(A) A proposed housing development project that is not similar in kind to the projects listed in the statutory or categorical exemption.",
+    "(B) A proposed housing development project that is ineligible for the statutory exemption or categorical exemption due to two or more conditions.",
+    "(C) A proposed housing development project that includes a distribution center or oil and gas infrastructure.",
+    "(D) (i) A proposed housing development project located on natural and protected lands, as defined pursuant to Section 21067.5.",
+    "(ii) For purposes of this subparagraph, “natural and protected lands” does not include the lands described in subdivision (o) or (q) of Section 21067.5.",
+    "(E) The project site or the parcel size exceeds four acres, and either of the following occurred:",
+    "(i) The project is a builder’s remedy project, as defined in paragraph (11) of subdivision (h) of Section 65589.5 of the Government Code.",
+    "(ii) The project applicant applied pursuant to paragraph (5) of subdivision (d) of Section 65589.5 of the Government Code as it read before January 1, 2025.",
+    "(5) For purposes of this subdivision, the following definitions apply:",
+    "(A) “Condition” means a physical or regulatory feature of the project or its setting or an effect upon the environment caused by the project.",
+    "(B) “Housing development project” has the same meaning as defined in Section 65589.5 of the Government Code.",
+    "(c) In the case of a project described in subdivision (c) of Section 21065, the lead agency shall, upon the request of a potential applicant, provide for consultation before the filing of the application regarding the range of actions, potential alternatives, mitigation measures, and any potential and significant effects on the environment of the project."
+   ],
+   "sec": "21080.1",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080.69 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Except as provided in subdivision (b), this division does not apply to any of the following projects:",
+    "(1) A project that consists exclusively of either a day care center, as defined in Section 1596.76 of the Health and Safety Code, or a family daycare home, as defined in Section 1596.78 of the Health and Safety Code, and the project is not located in either of the following:",
+    "(A) An area zoned for industrial use.",
+    "(B) An area within 3,200 feet of a facility that actively extracts or refines oil or natural gas.",
+    "(2) A project that consists exclusively of a rural health clinic, as defined by Section 1396(d)(l)(1) of Title 42 of the United States Code, or a federally qualified health center, as defined by Section 1396(d)(l)(2) of Title 42 of the United States Code, if the facility is less than 50,000 square feet in total space.",
+    "(3) A project that consists exclusively of a nonprofit food bank or food pantry, defined as a nonprofit organization that is exempt from federal income taxation under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended (26 U.S.C. Sec. 501(c)(3)), that solicits, stores, and distributes sufficient food to their defined service area, if the project is located on a site that is zoned exclusively for industrial uses.",
+    "(b) This section does not apply to a project located on natural and protected lands, as defined pursuant to Section 21067.5."
+   ],
+   "sec": "21080.69",
+   "verb": "amended"
+  },
+  {
+   "action": "Chapter 8 (commencing with Section 21189.100) is added to Division 13 of the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "For purposes of this chapter, the following definitions apply:",
+    "(a) “Advanced manufacturing facility” means a facility used for advanced manufacturing, as defined in Section 26003, and is used exclusively for final tier manufacturing.",
+    "(b) “Advanced manufacturing facility project” or “project” means a project for the construction and operation of an advanced manufacturing facility.",
+    "(c) “Applicant” means a person, or a public or private entity or its affiliates, and its successors, heirs, or assignees, who undertakes or proposes an advanced manufacturing facility project.",
+    "(d) “Disadvantaged community” means any of the following:",
+    "(1) A disadvantaged community identified pursuant to Section 39711 of the Health and Safety Code.",
+    "(2) A disadvantaged unincorporated community as defined in Section 65302.10 of the Government Code.",
+    "(3) A census tract receiving the highest 15 percentile of the CalEnviroScreen Pollution Burden percentile score.",
+    "(e) (1) “Final tier manufacturing” means the stage of manufacturing that does any of the following:",
+    "(A) Performs the final assembly of components, subassembly, or materials into a completed, market-ready product.",
+    "(B) Integrates hardware or software, or other functional systems necessary for the product’s intended use.",
+    "(C) Conducts final quality control testing, inspection, certification, or validation required for sale or distribution.",
+    "(D) Packages or otherwise prepares the completed product for sale or distribution.",
+    "(2) “Final tier manufacturing” does not include any of the following:",
+    "(A) The production of or conversion of materials into fuels, feedstocks, or other raw materials.",
+    "(B) Disposal activities as described in subdivision (a) or (b) of Section 40192.",
+    "(C) The production of equipment designed and used primarily for the activities described in subparagraph (A).",
+    "(D) The manufacture of intermediate components or subassembly of intermediate components that are not sold or distributed as complete, end-use products.",
+    "(f) “Office” means the Office of Land Use and Climate Innovation.",
+    "(g) “Sensitive receptor” has the same meaning as set forth in Section 65098 of the Government Code."
+   ],
+   "sec": "21189.100",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Floor Process",
+ "subject": "California Environmental Quality Act: advanced manufacturing facilities: exemption.",
+ "title": "An act to amend Sections 21067.5, 21080.085, 21080.1, and 21080.69 of, and to add Chapter 8 (commencing with Section 21189.100) to Division 13 of, the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-02",
+   "id": "20250SB95499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB95498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-16",
+   "id": "20250SB95497AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-05-14",
+   "id": "20250SB95496AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-13",
+   "id": "20250SB95495AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-21",
+   "id": "20250SB95494AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-31",
+   "id": "20250SB95493ENR",
+   "num": "93"
+  }
+ ]
+}

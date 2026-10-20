@@ -1,0 +1,235 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": true
+  }
+ ],
+ "bill": "SB410",
+ "bill_id": "202520260SB410",
+ "chapter": {
+  "num": "516",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive general plan for the physical development of the county or city and of certain land outside its boundaries, and requires a county or city zoning ordinance to be consistent with the general plan if certain conditions are met. In the event that a zoning ordinance becomes inconsistent with a general plan by reason of amendment to the general plan, existing law requires the zoning ordinance to be amended within a reasonable time so that it is consistent with the general plan.",
+  "This bill would make a nonsubstantive change to the latter provision."
+ ],
+ "hash": "28470f3ecbbaa66e",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-14"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 17.",
+   "date": "2025-02-18"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-02-26"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Re-referred to Coms. on HOUSING and JUD.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "Set for hearing May 6 in JUD. pending receipt.",
+   "date": "2025-04-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. with recommendation: To consent calendar. (Ayes 11. Noes 0. Page 831.) (April 22). Re-referred to Com. on JUD.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass as amended. Ordered to consent calendar. (Ayes 12. Noes 0. Page 1026.) (May 6).",
+   "date": "2025-05-07"
+  },
+  {
+   "action": "Read second time and amended. Ordered to consent calendar.",
+   "date": "2025-05-08"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 34. Noes 0. Page 1090.) Ordered to the Assembly.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and JUD.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. with recommendation: To consent calendar. (Ayes 11. Noes 0.) (June 18). Re-referred to Com. on JUD.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "date": "2025-06-27"
+  },
+  {
+   "action": "From committee: Do pass as amended. Ordered to consent calendar. (Ayes 12. Noes 0.) (July 8).",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2025-07-10"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2025-07-14"
+  },
+  {
+   "action": "From consent calendar on motion of Assembly Member Garcia.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-08-26"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-08-26"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 79. Noes 0. Page 2978.) Ordered to the Senate.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 2818.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-17"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 516, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB41091CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65860 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) County or city zoning ordinances shall be consistent with the general plan of the county or city by January 1, 1974. A zoning ordinance shall be consistent with a city or county general plan only if both of the following conditions are met:",
+    "(1) The city or county has officially adopted a plan.",
+    "(2) The various land uses authorized by the ordinance are compatible with the objectives, policies, general land uses, and programs specified in the plan.",
+    "(b) A resident or property owner within a city or a county, as the case may be, may bring an action or proceeding in the superior court to enforce compliance with this section. An action or proceeding shall be governed by Chapter 2 (commencing with Section 1084) of Title 1 of Part 3 of the Code of Civil Procedure. An action or proceeding shall not be maintained pursuant to this section by a person unless the action or proceeding is commenced and service is made on the legislative body within 90 days of any of the following:",
+    "(1) The enactment of any new zoning ordinance.",
+    "(2) The amendment of any existing zoning ordinance.",
+    "(3) The failure of a local agency to comply with this section.",
+    "(c) (1) If a zoning ordinance becomes inconsistent with a general plan by reason of amendment to the general plan, or to any element of the plan, the zoning ordinance shall be amended within a reasonable time so that it is consistent with the general plan, as amended.",
+    "(2) If a zoning ordinance becomes inconsistent with the general plan due to amendment to the general plan or to any element of the general plan, and a local agency receives a development application for a project that is not subject to Section 65589.5 and that is consistent with the general plan, but inconsistent with the zoning ordinance, the local agency shall do one of the following:",
+    "(A) For any provision of the zoning ordinance that is applicable to the proposed development and inconsistent with the general plan, amend the zoning ordinance within 180 days from the receipt of the development application to be consistent with the general plan.",
+    "(B) Process the development application in accordance with all applicable laws. When processing the development application, the local agency shall apply the objective general plan standards, but not inconsistent zoning standards, to the proposed development project to facilitate and accommodate development at the density allowed on the site by the general plan. A proposed development shall not be deemed inconsistent with any zoning ordinance or related zoning standard or criteria and shall not be required to be rezoned to accommodate the proposed development, if there is substantial evidence that would allow a reasonable person to conclude that the proposed development is consistent with objective general plan standards and criteria but the zoning for the project site is inconsistent with the general plan. The objective general plan standards shall be applied to facilitate and accommodate development at the density allowed on the site by the general plan and proposed by the development project.",
+    "(3) If a local agency fails to amend the zoning ordinance within 180 days from the receipt of the development application pursuant to subparagraph (A) of paragraph (2), the local agency shall process the development application pursuant to subparagraph (B) of paragraph (2).",
+    "(d) Notwithstanding Section 65803, this section shall also apply to a charter city."
+   ],
+   "sec": "65860",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Common interest developments: association records: exterior elevated elements inspection.",
+ "title": "An act to amend Section 65860 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-14",
+   "id": "20250SB41099INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-20",
+   "id": "20250SB41098AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-08",
+   "id": "20250SB41097AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-27",
+   "id": "20250SB41096AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-10",
+   "id": "20250SB41095AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-08-26",
+   "id": "20250SB41094AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-02",
+   "id": "20250SB41093AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250SB41092ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB41091CHP",
+   "num": "91"
+  }
+ ]
+}

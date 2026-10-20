@@ -1,0 +1,229 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": true
+  }
+ ],
+ "bill": "SB1014",
+ "bill_id": "202520260SB1014",
+ "chapter": {
+  "num": "806",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Permit Streamlining Act (act), sets forth various procedures for the review and approval of development project applications, including, among other things, requiring each public agency to compile one or more lists that specify in detail the information that will be required from any applicant for a development project. The act also requires a city, county, or city and county to deem an applicant for a housing development project to have submitted a preliminary application upon providing specified information about the proposed project to the city, county, or city and county from which approval for the project is being sought.",
+  "This bill would permit an applicant who submits a preliminary application for a housing development project, as specified, or an application if a preliminary application is not submitted, to include in the preliminary application or application a request for a preliminary estimate of required improvements, as provided. The bill would require a city, county, or city and county that receives a request under these provisions to provide the preliminary estimate within 30 business days of the submission of the request, as provided. The bill would authorize, for improvements required by a public agency, as specified, the applicant to request, within 30 days of submission, a list of the types of improvements that may be required, as provided. The bill, within 30 business days of deeming an application for a postentitlement phase permit complete, would additionally require the city, county, or city and county to provide the applicant with an itemized list of all onsite and offsite improvements that will be required prior to issuance of, or otherwise in connection with, that permit, as provided. The bill would specify that its provisions do not relieve a city, county, or city and county of its obligation to comply with certain requirements before subjecting a housing development project to an improvement that was not in effect when a preliminary application was submitted, as provided. The bill would define various terms for these purposes.",
+  "By imposing new duties on local agencies, the bill would impose a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "a57defdfb5a3b758",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-10"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 13.",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and HOUSING.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-02"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 21 in HOUSING pending receipt.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 5. Noes 2. Page 3904.) (April 15). Re-referred to Com. on HOUSING.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 8. Noes 2. Page 3975.) (April 21).",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 30. Noes 9. Page 4339.) Ordered to the Assembly.",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-20"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 7. Noes 2.) (June 17). Re-referred to Com. on H. & C.D.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (June 24). Re-referred to Com. on APPR.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (August 5).",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 66. Noes 2. Page 6374.) Ordered to the Senate.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 30. Noes 10.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 6 p.m.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 806, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250SB101493CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65941.3 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section:",
+    "(1) “Housing development project” has the same meaning as defined in paragraph (3) of subdivision (b) of Section 65905.5, except that it also includes an application for a parcel map or tentative and final map for a housing development project submitted pursuant to Section 66499.41.",
+    "(2) “Improvement” includes any facilities or infrastructure for the delivery of public services such as police, fire protection, parks, recreation, emergency medical, public health, libraries, flood protection, streets or highways, public transit, railroad, airports and seaports, utility, common carrier, or other similar projects such as energy-related, communication-related, water-related, or wastewater-related facilities or infrastructure.",
+    "(3) “Postentitlement phase permit” has the same meaning as defined in paragraph (3) of subdivision (k) of Section 65913.3.",
+    "(4) (A) “Public agency” includes a special district.",
+    "(B) “Public agency” does not include a school district.",
+    "(b) (1) An applicant who submits a preliminary application for a housing development project providing the information required by subdivision (a) of Section 65941.1, or if a preliminary application is not submitted, an application for a housing development project that includes all of the information required to process the development application consistent with Sections 65940, 65941, and 65941.5, may include in the preliminary application or application a request for a preliminary estimate of required improvements, which the city, county, or city and county shall provide within 30 business days of the submission of the request.",
+    "(2) (A) The preliminary estimate of required improvements in paragraph (1) shall contain both of the following:",
+    "(i) A good faith estimate of the list of the types of onsite or offsite improvements that may be required in connection with the housing development project.",
+    "(ii) For any improvements that will be constructed or installed by the city, county, or city and county, a good faith estimate of the cost of those improvements if constructed or installed at the time the estimate is provided.",
+    "(B) Notwithstanding subparagraph (A), the preliminary estimate of required improvements shall not be required to include either of the following:",
+    "(i) Onsite or offsite improvements required by a public agency or utility other than the city, county, or city and county.",
+    "(ii) Onsite or offsite improvements imposed on a housing development project to comply with the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(3) For onsite and offsite improvements required by a public agency or utility, other than a city, county, or city and county, including requirements by a special district, the applicant may, within 30 days of submitting a preliminary application or an application for a housing development project pursuant to paragraph (1), request from the public agency or utility a list of the types of any onsite or offsite improvements that may be required in connection with the housing development project, and the public agency or utility shall provide the applicant with this information within 30 business days.",
+    "(4) Except for the provision of the estimates required under paragraphs (1) and (3), nothing in this subdivision shall create or affect any rights or obligations with respect to onsite or offsite improvements.",
+    "(5) The estimates provided under paragraphs (1) and (3) shall be for informational purposes only and shall not be legally binding or otherwise affect the scope, extent, or cost of any onsite or offsite improvements that are required or imposed pursuant to other provisions of law.",
+    "(c) (1) Within 30 business days of deeming an application for a postentitlement phase permit complete, the city, county, or city and county shall provide the applicant with an itemized list of all onsite and offsite improvements that will be required prior to issuance of, or otherwise in connection with, that permit.",
+    "(2) (A) Except as provided in subparagraph (B), the city, county, or city and county shall not require construction or installation of any onsite or offsite improvement prior to issuance of, or otherwise in connection with, a postentitlement phase permit, unless that improvement was included on the list provided under paragraph (1) for that permit.",
+    "(B) Notwithstanding subparagraph (A), the city, county, or city and county may require construction or installation of onsite or offsite improvements not included on the list provided under paragraph (1) under any of the following circumstances:",
+    "(i) If the city, county, or city and county finds, based upon substantial evidence, that the onsite or offsite improvement is necessary to mitigate or avoid a specific, adverse impact upon the public health or safety.",
+    "(ii) The developer changes or requests to change the construction or other work permitted by the postentitlement phase permit from the description provided in the application described in paragraph (1), and the requested onsite or offsite improvement is reasonably related to the expanded scope of the construction or other work permitted.",
+    "(iii) If the postentitlement permit is a discretionary building permit or other permit as described in clause (ii) of subparagraph (A) of paragraph (3) of subdivision (k) of Section 65913.3, the city, county, or city and county may require construction or installation of onsite or offsite improvements in order to mitigate potentially significant environmental effects, as required pursuant to the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(d) Nothing in this section shall be construed to relieve a city, county, or city and county of its obligation to comply with subdivision (o) of Section 65589.5 before subjecting a housing development project to an improvement that was not in effect when a preliminary application, including all of the information required by subdivision (a) of Section 65941.1, was submitted."
+   ],
+   "sec": "65941.3",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Development projects: preliminary estimate of required improvements: onsite and offsite improvements.",
+ "title": "An act to add Section 65941.3 to the Government Code, relating to development projects.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-10",
+   "id": "20250SB101499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-08",
+   "id": "20250SB101498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-23",
+   "id": "20250SB101497AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-03",
+   "id": "20250SB101496AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-17",
+   "id": "20250SB101495AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-28",
+   "id": "20250SB101494ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250SB101493CHP",
+   "num": "93"
+  }
+ ]
+}

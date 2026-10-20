@@ -1,0 +1,225 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Jones",
+   "primary": true
+  }
+ ],
+ "bill": "SB1256",
+ "bill_id": "202520260SB1256",
+ "chapter": {
+  "num": "1024",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA requires that an action or proceeding to attack, review, set aside, void, or annul specified acts or decisions of a public agency on the grounds of noncompliance with CEQA be commenced in accordance with specified timeframes.",
+  "Existing law, the Subdivision Map Act, vests the authority to regulate and control the design and improvement of subdivisions in the legislative body of a local agency and sets forth procedures governing the local agency’s processing, approval, conditional approval or disapproval, and filing of tentative, final, and parcel maps, and the modification thereof. The act requires an action or proceeding against a decision of a local agency taken pursuant to that act to be commenced within a certain time period, as specified.",
+  "This bill would prohibit an action or proceeding to enforce the Subdivision Map Act from being maintained if certain criteria exist, including that the action or proceeding to enforce the Subdivision Map Act includes substantially similar claims or issues to claims or issues raised in an action or proceeding to enforce CEQA and the defendant in the action or proceeding to enforce the Subdivision Map Act was the defendant in the action or proceeding to enforce CEQA. The bill would provide that its provisions do not prohibit or abrogate specified actions, including the filing of timely objections to an agency’s return to a writ seeking to enforce its specific mandates or timely filing of a separate action relating to the same project, as specified. The bill would repeal these provisions on January 1, 2032."
+ ],
+ "hash": "2ab11d170544dc4a",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 22.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and E., U & C.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "Set for hearing April 8.",
+   "date": "2026-03-10"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.Q.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "April 8 hearing postponed by committee.",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "Re-referred to Coms. on JUD. and L. GOV.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "date": "2026-04-10"
+  },
+  {
+   "action": "Set for hearing April 29 in L. GOV. pending receipt.",
+   "date": "2026-04-17"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To consent calendar. (Ayes 13. Noes 0. Page 3979.) (April 21). Re-referred to Com. on L. GOV.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 7. Noes 0. Page 4095.) (April 29).",
+   "date": "2026-04-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered to third reading.",
+   "date": "2026-04-30"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 33. Noes 0. Page 4481.) Ordered to the Assembly.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "Referred to Coms. on JUD. and L. GOV.",
+   "date": "2026-06-08"
+  },
+  {
+   "action": "June 16 set for first hearing canceled at the request of author.",
+   "date": "2026-06-12"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (June 23).",
+   "date": "2026-06-23"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 8. Noes 0.) (July 1).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 62. Noes 1. Page 6845.) Ordered to the Senate.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 39. Noes 1.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 1024, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250SB125693CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66499.39 is added to the Government Code , immediately following Section 66499.38 , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Any action or proceeding to enforce the Subdivision Map Act shall not be maintained if all of the following criteria exist:",
+    "(1) The action or proceeding to enforce the Subdivision Map Act includes substantially similar claims or issues to claims or issues raised in an action or proceeding to enforce the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(2) The defendant in the action or proceeding to enforce the Subdivision Map Act was the defendant in the action or proceeding to enforce the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(3) The action or proceeding to enforce the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code), was commenced prior to January 1, 2019, and has been fully adjudicated.",
+    "(4) The project that is the subject of the action or proceeding to enforce the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code) meets all of the following requirements:",
+    "(A) The project proposes at least 400 units of mixed-income housing.",
+    "(B) The project includes a project labor agreement.",
+    "(C) The project is located within the unincorporated area of a county that has a population of at least 3,000,000 and no greater than 4,000,000 residents.",
+    "(D) The project has been approved by the lead agency.",
+    "(5) The plaintiffs, petitioners, or real parties in interest in the action or proceeding to enforce the Subdivision Map Act are the same or in privity with the plaintiffs, petitioners, or real parties in interest in the action or proceeding to enforce the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(b) This section shall not be construed to do any of the following:",
+    "(1) Prohibit the filing of timely objections to an agency’s return to a writ seeking to enforce its specific mandates.",
+    "(2) Prohibit the timely filing of a separate action relating to the same project.",
+    "(3) Prohibit the timely filing of a Subdivision Map Act claim when necessary to enforce adherence to a mitigation measure identified in either of the following:",
+    "(A) An approved environmental impact report.",
+    "(B) A court order in, or an approved settlement of, an action or proceeding to enforce the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code).",
+    "(4) Abrogate a local agency’s obligation to comply with a procedural requirement of the Subdivision Map Act.",
+    "(c) This section shall remain in effect only until January 1, 2032, and as of that date is repealed."
+   ],
+   "sec": "66499.39",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Subdivision Map Act: action or proceeding.",
+ "title": "An act to add and repeal Section 66499.39 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250SB125699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB125698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-22",
+   "id": "20250SB125697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-30",
+   "id": "20250SB125696AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-24",
+   "id": "20250SB125695AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-02",
+   "id": "20250SB125694ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250SB125693CHP",
+   "num": "93"
+  }
+ ]
+}

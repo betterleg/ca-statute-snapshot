@@ -1,0 +1,240 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alvarez",
+   "primary": false
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Carrillo",
+   "primary": false
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Flora",
+   "primary": false
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Quirk-Silva",
+   "primary": false
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wilson",
+   "primary": false
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ávila Farías",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Harabedian",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hoover",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lee",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wallis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  }
+ ],
+ "bill": "AB609",
+ "bill_id": "202520260AB609",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA exempts from its requirements various projects, including, but not limited to, housing projects that meet certain requirements.",
+  "This bill would exempt from the requirements of CEQA a housing development project, as defined, that meets certain conditions relating to, for example, size, density, and location, including specific requirements for any housing on the project site located within 500 feet of a freeway. The bill would require a local government, as a condition of approval for the development, to require the development proponent to complete a specified environmental assessment regarding hazardous substance releases. If a recognized environmental condition is found, the bill would require the development proponent to complete a preliminary endangerment assessment and specified mitigation based on that assessment. Because a lead agency would be required to determine whether a housing development project qualifies for this exemption, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "5444adfdf5a022af",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-13"
+  },
+  {
+   "action": "From printer. May be heard in committee March 16.",
+   "date": "2025-02-14"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and H. & C.D.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1163.)",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "(Pending re-refer to Com. on H. & C. D.)",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on H. & C.D. (Ayes 12. Noes 0.) (April 21).",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (April 30).",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-05-06"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 67. Noes 0. Page 1603.)",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-20"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-05-05",
+  "id": "20250AB60996AMD",
+  "num": "96"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.66 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Without limiting any other statutory or categorical exemption, this division does not apply to a housing development project, as defined in subdivision (b) of Section 65905.5 of the Government Code, that meets the following conditions:",
+    "(1) The project site is not more than 20 acres.",
+    "(2) The project site meets either of the following criteria:",
+    "(A) Is located within the boundaries of an incorporated municipality.",
+    "(B) Is located within an urban area, as defined by the United States Census Bureau.",
+    "(3) The project site meets either of the following criteria:",
+    "(A) Has been previously developed with an urban use.",
+    "(B) At least 75 percent of the perimeter of the site adjoins parcels that are developed with urban uses. For purposes of this section, parcels that are only separated by a street, pedestrian path, or bicycle path shall be considered to be adjoined.",
+    "(4) (A) The project is consistent with the applicable general plan and zoning ordinance, as well as any applicable local coastal program as defined in Section 30108.6. For purposes of this section, a housing development project shall be deemed consistent with the applicable general plan and zoning ordinance, and any applicable local coastal program, if there is substantial evidence that would allow a reasonable person to conclude that the housing development project is consistent.",
+    "(B) If the zoning and general plan are not consistent with one another, a project shall be deemed consistent with both if the project is consistent with one.",
+    "(5) The project will be at least one-half of the applicable density specified in subparagraph (B) of paragraph (3) of subdivision (c) of Section 65583.2 of the Government Code.",
+    "(6) The project satisfies the requirements specified in paragraph (6) of subdivision (a) of Section 65913.4 of the Government Code.",
+    "(7) For a site not developed with urban uses, the project site does not contain tribal cultural resources, found pursuant to a consultation described in Section 21080.3.1, that could be affected by the development and the effects cannot be mitigated pursuant to the process described in Section 21080.3.2.",
+    "(8) The project does not require the demolition of a historic structure that was placed on a national, state, or local historic register.",
+    "(b) (1) (A) The local government shall, as a condition of approval for the development, require the development proponent to complete a phase I environmental assessment, as defined in Section 78090 of the Health and Safety Code.",
+    "(B) If a recognized environmental condition is found, the development proponent shall complete a preliminary endangerment assessment, as defined in Section 78095 of the Health and Safety Code, prepared by an environmental assessor to determine the existence of any release of a hazardous substance on the site and to determine the potential for exposure of future occupants to significant health hazards from any nearby property or activity.",
+    "(C) If a release of a hazardous substance is found to exist on the site, the release shall be removed or any effects of the release shall be mitigated to levels required by current federal and state statutory and regulatory standards before the local government issues a certificate of occupancy.",
+    "(D) If a potential for exposure to significant hazards from surrounding properties or activities is found to exist, the effects of the potential exposure shall be mitigated to levels required by current federal and state statutory and regulatory standards before the local government issues a certificate of occupancy.",
+    "(2) For any housing on the site located within 500 feet of a freeway, all of the following shall apply:",
+    "(A) The building shall have a centralized heating, ventilation, and air-conditioning system.",
+    "(B) The outdoor air intakes for the heating, ventilation, and air-conditioning system shall face away from the freeway.",
+    "(C) The building shall provide air filtration media for outside and return air that provides a minimum efficiency reporting value of 16.",
+    "(D) The air filtration media shall be replaced at the manufacturer’s designated interval.",
+    "(E) The building shall not have any balconies facing the freeway.",
+    "(c) A housing development proposed pursuant to this section shall be eligible for a density bonus, incentives or concessions, waivers or reductions of development standards, and parking ratios pursuant to Section 65915 of the Government Code.",
+    "(d) For purposes of this section, “urban use” means any current or previous residential or commercial development, public institution, or public park that is surrounded by other urban uses, parking lot or structure, transit or transportation passenger facility, or retail use, or any combination of those uses."
+   ],
+   "sec": "21080.66",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Pending Referral",
+ "subject": "California Environmental Quality Act: exemption: housing development projects.",
+ "title": "An act to add Section 21080.66 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-13",
+   "id": "20250AB60999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB60998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-24",
+   "id": "20250AB60997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-05",
+   "id": "20250AB60996AMD",
+   "num": "96"
+  }
+ ]
+}

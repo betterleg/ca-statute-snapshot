@@ -1,0 +1,164 @@
+{
+ "authors": [],
+ "bill": "GRP1",
+ "bill_id": "202520260GRP1",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Under existing law, the executive branch of state government includes the Business, Consumer Services, and Housing Agency.",
+  "This reorganization plan, as of July 1, 2026, would eliminate that agency and instead establish in state government the Business and Consumer Services Agency and the California Housing and Homelessness Agency, and would make conforming changes. The plan would provide that the California Housing and Homelessness Agency consists of specified departments. The plan would require the Secretary of California Housing and Homelessness to take various actions, including coordinating specified policies and programs, considering opportunities to align specified requirements and timelines, and coordinating with other departments and agencies, to achieve specified objectives. The plan would specify that the Business and Consumer Services Agency is headed by the Secretary of Business and Consumer Services, and require the California Housing and Homelessness Agency and the Business and Consumer Services Agency, as specified, to coordinate state policy, programs, and funding to help the state achieve its objectives related to housing, homelessness, and consumer protections and minimize service disruption due to the dissolution of the Business, Consumer Services, and Housing Agency, as provided.",
+  "This reorganization plan, as of July 1, 2026, would establish the Housing Development and Finance Committee within the California Housing and Homelessness Agency, headed by an executive director, and, upon appropriation, require all multifamily affordable housing programs, as defined, to be administered by the committee, as specified.",
+  "This reorganization plan would establish within the Business, Consumer Services, and Housing Agency a Housing Development and Finance Executive Committee for the purpose of centralizing affordable housing finance policymaking across state government. The plan would transfer the executive committee to the Housing Development Finance Committee effective July 1, 2026. The plan would require the executive committee to take various actions, including coordinating a cohesive and integrated housing finance system, overseeing the allocation of multifamily affordable housing programs, creating a consolidated application for multifamily affordable housing developers and a coordinated review process for the application of funds, and streamlining compliance monitoring of affordable multifamily rental housing developments, as specified.",
+  "Existing law requires the Governor to establish the Interagency Council on Homelessness and requires the council to consist of specified members. Under existing law, there is an executive officer of the council who is under the direction of the Secretary of Business, Consumer Services, and Housing and the council is required to be staffed by employees of the Business, Consumer Services, and Housing Agency.",
+  "This reorganization plan would establish the California Interagency Council on Homelessness as an independent entity within the California Housing and Homelessness Agency and would rename the existing council as the California Interagency Executive Council on Homelessness and establish it within the California Interagency Council on Homelessness.",
+  "This reorganization plan would authorize state agencies, departments, or entities to take actions prior to July 1, 2026, that are necessary to ensure that the provisions of the plan become operative on July 1, 2026, and are implemented in a timely fashion, as specified."
+ ],
+ "hash": "15df37724abbb912",
+ "history": [
+  {
+   "action": "Received by the Assembly. (Sixty day mandatory period ends July 4, 2025, pursuant to Government Code Section 12080.5).",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Received by the Senate. Sixty-day statutory period ends July 4, 2025. (Government Code Section 12080.5.)",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Senate – To Com. on RLS",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Statutory period expires pursuant to Government Code Section 12080.5",
+   "date": "2025-07-04"
+  },
+  {
+   "action": "Plan takes effect.",
+   "date": "2025-07-05"
+  }
+ ],
+ "house": "NULL",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2025-05-05",
+  "id": "20250GRP199INT",
+  "num": "99"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65040.12 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The office shall be the coordinating agency in state government for environmental justice programs.",
+    "(b) The director shall do all of the following:",
+    "(1) Consult with all of the following:",
+    "(A) The Secretary for Environmental Protection.",
+    "(B) The Secretary of the Natural Resources Agency.",
+    "(C) The Secretary of Transportation.",
+    "(D) The Secretary of Business, Consumer Services, and Housing.",
+    "(E) The Working Group on Environmental Justice established pursuant to Section 71113 of the Public Resources Code.",
+    "(F) Any other appropriate state agencies and all other interested members of the public and private sectors in this state.",
+    "(2) Coordinate the office’s efforts and share information regarding environmental justice programs with the Council on Environmental Quality, the United States Environmental Protection Agency, the General Accounting Office, the Office of Management and Budget, and other federal agencies.",
+    "(3) Review and evaluate any information from federal agencies that is obtained as a result of their respective regulatory activities under federal Executive Order 12898, and from the Working Group on Environmental Justice established pursuant to Section 71113 of the Public Resources Code.",
+    "(c) When it adopts its next edition of the general plan guidelines pursuant to Section 65040.2, but in no case later than July 1, 2003, the office shall include guidelines for addressing environmental justice matters in city and county general plans. The office shall hold at least one public hearing before the release of any draft guidelines, and at least one public hearing after the release of the draft guidelines. The hearings may be held at the regular meetings of the Planning Advisory and Assistance Council.",
+    "(d) The guidelines developed by the office pursuant to subdivision (c) shall recommend provisions for general plans to do all of the following:",
+    "(1) Propose methods for planning for the equitable distribution of new public facilities and services that increase and enhance community quality of life throughout the community, given the fiscal and legal constraints that restrict the siting of these facilities.",
+    "(2) Propose methods for providing for the location, if any, of industrial facilities and uses that, even with the best available technology, will contain or produce material that, because of its quantity, concentration, or physical or chemical characteristics, poses a significant hazard to human health and safety, in a manner that seeks to avoid overconcentrating these uses in proximity to schools or residential dwellings.",
+    "(3) Propose methods for providing for the location of new schools and residential dwellings in a manner that seeks to avoid locating these uses in proximity to industrial facilities and uses that will contain or produce material that because of its quantity, concentration, or physical or chemical characteristics, poses a significant hazard to human health and safety.",
+    "(4) Propose methods for promoting more livable communities by expanding opportunities for transit-oriented development so that residents minimize traffic and pollution impacts from traveling for purposes of work, shopping, schools, and recreation.",
+    "(e) (1) For purposes of this section, “environmental justice” means the fair treatment and meaningful involvement of people of all races, cultures, incomes, and national origins, with respect to the development, adoption, implementation, and enforcement of environmental laws, regulations, and policies.",
+    "(2) “Environmental justice” includes, but is not limited to, all of the following:",
+    "(A) The availability of a healthy environment for all people.",
+    "(B) The deterrence, reduction, and elimination of pollution burdens for populations and communities experiencing the adverse effects of that pollution, so that the effects of the pollution are not disproportionately borne by those populations and communities.",
+    "(C) Governmental entities engaging and providing technical assistance to populations and communities most impacted by pollution to promote their meaningful participation in all phases of the environmental and land use decisionmaking process.",
+    "(D) At a minimum, the meaningful consideration of recommendations from populations and communities most impacted by pollution into environmental and land use decisions.",
+    "(f) This section shall become inoperative on July 1, 2026, and, as of January 1, 2027, is repealed."
+   ],
+   "sec": "65040.12",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65040.12 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The office shall be the coordinating agency in state government for environmental justice programs.",
+    "(b) The director shall do all of the following:",
+    "(1) Consult with all of the following:",
+    "(A) The Secretary for Environmental Protection.",
+    "(B) The Secretary of the Natural Resources Agency.",
+    "(C) The Secretary of Transportation.",
+    "(D) The Secretary of California Housing and Homelessness.",
+    "(E) The Working Group on Environmental Justice established pursuant to Section 71113 of the Public Resources Code.",
+    "(F) Any other appropriate state agencies and all other interested members of the public and private sectors in this state.",
+    "(2) Coordinate the office’s efforts and share information regarding environmental justice programs with the Council on Environmental Quality, the United States Environmental Protection Agency, the General Accounting Office, the Office of Management and Budget, and other federal agencies.",
+    "(3) Review and evaluate any information from federal agencies that is obtained as a result of their respective regulatory activities under federal Executive Order 12898, and from the Working Group on Environmental Justice established pursuant to Section 71113 of the Public Resources Code.",
+    "(c) When it adopts its next edition of the general plan guidelines pursuant to Section 65040.2, but in no case later than July 1, 2003, the office shall include guidelines for addressing environmental justice matters in city and county general plans. The office shall hold at least one public hearing before the release of any draft guidelines, and at least one public hearing after the release of the draft guidelines. The hearings may be held at the regular meetings of the Planning Advisory and Assistance Council.",
+    "(d) The guidelines developed by the office pursuant to subdivision (c) shall recommend provisions for general plans to do all of the following:",
+    "(1) Propose methods for planning for the equitable distribution of new public facilities and services that increase and enhance community quality of life throughout the community, given the fiscal and legal constraints that restrict the siting of these facilities.",
+    "(2) Propose methods for providing for the location, if any, of industrial facilities and uses that, even with the best available technology, will contain or produce material that, because of its quantity, concentration, or physical or chemical characteristics, poses a significant hazard to human health and safety, in a manner that seeks to avoid overconcentrating these uses in proximity to schools or residential dwellings.",
+    "(3) Propose methods for providing for the location of new schools and residential dwellings in a manner that seeks to avoid locating these uses in proximity to industrial facilities and uses that will contain or produce material that because of its quantity, concentration, or physical or chemical characteristics, poses a significant hazard to human health and safety.",
+    "(4) Propose methods for promoting more livable communities by expanding opportunities for transit-oriented development so that residents minimize traffic and pollution impacts from traveling for purposes of work, shopping, schools, and recreation.",
+    "(e) (1) For purposes of this section, “environmental justice” means the fair treatment and meaningful involvement of people of all races, cultures, incomes, and national origins, with respect to the development, adoption, implementation, and enforcement of environmental laws, regulations, and policies.",
+    "(2) “Environmental justice” includes, but is not limited to, all of the following:",
+    "(A) The availability of a healthy environment for all people.",
+    "(B) The deterrence, reduction, and elimination of pollution burdens for populations and communities experiencing the adverse effects of that pollution, so that the effects of the pollution are not disproportionately borne by those populations and communities.",
+    "(C) Governmental entities engaging and providing technical assistance to populations and communities most impacted by pollution to promote their meaningful participation in all phases of the environmental and land use decisionmaking process.",
+    "(D) At a minimum, the meaningful consideration of recommendations from populations and communities most impacted by pollution into environmental and land use decisions.",
+    "(f) This section shall become operative on July 1, 2026."
+   ],
+   "sec": "65040.12",
+   "verb": "added"
+  },
+  {
+   "action": "Section 50093 of the Health and Safety Code is amended to read:",
+   "code": "HSC",
+   "paras": [
+    "“Persons and families of low or moderate income” means persons and families whose income does not exceed 120 percent of area median income, adjusted for family size by the department in accordance with adjustment factors adopted and amended from time to time by the United States Department of Housing and Urban Development pursuant to Section 8 of the United States Housing Act of 1937. However, the agency and the department jointly, or either acting with the concurrence of the Secretary of Business, Consumer Services and Housing, may permit the agency to use higher income limitations in designated geographic areas of the state, upon a determination that 120 percent of the median income in the particular geographic area is too low to qualify a substantial number of persons and families of low or moderate income who can afford rental or home purchase of housing financed pursuant to Part 3 (commencing with Section 50900) without subsidy.",
+    "“Persons and families of low or moderate income” includes very low income households, as defined in Section 50105, extremely low income households, as defined in Section 50106, and lower income households as defined in Section 50079.5, and includes persons and families of extremely low income, persons and families of very low income, persons and families of low income, persons and families of moderate income, and middle-income families. As used in this division:",
+    "(a) “Persons and families of low income” or “persons of low income” means persons or families who are eligible for financial assistance specifically provided by a governmental agency for the benefit of occupants of housing financed pursuant to this division.",
+    "(b) “Persons and families of moderate income” or “middle-income families” means persons and families of low or moderate income whose income exceeds the income limit for lower income households.",
+    "(c) “Persons and families of median income” means persons and families whose income does not exceed the area median income, as adjusted by the department for family size in accordance with adjustment factors adopted and amended from time to time by the United States Department of Housing and Urban Development pursuant to Section 8 of the United States Housing Act of 1937.",
+    "As used in this section, “area median income” means the median family income of a geographic area of the state, as annually estimated by the United States Department of Housing and Urban Development pursuant to Section 8 of the United States Housing Act of 1937. In the event these federal determinations of area median income are discontinued, the department shall establish and publish as regulations income limits for persons and families of median income for all geographic areas of the state at 100 percent of area median income, and for persons and families of low or moderate income for all geographic areas of the state at 120 percent of area median income. These income limits shall be adjusted for family size and shall be revised annually.",
+    "For purposes of this section, the department shall file, with the Office of Administrative Law, any changes in area median income and income limits determined by the United States Department of Housing and Urban Development, together with any consequent changes in other derivative income limits determined by the department pursuant to this section. These filings shall not be subject to Article 5 (commencing with Section 11346) or Article 6 (commencing with Section 11349) of Chapter 3.5 of Part 1 of Division 3 of Title 2 of the Government Code, but shall be effective upon filing with the Office of Administrative Law and shall be published as soon as possible in the California Regulatory Code Supplement and the California Code of Regulations.",
+    "The department shall establish and publish a general definition of income, including inclusions, exclusions, and allowances, for qualifying persons under the income limits of this section and Sections 50079.5, 50105, and 50106 to be used where no other federal or state definitions of income apply. This definition need not be established by regulation.",
+    "Nothing in this division shall prevent the agency or the department from adopting separate family size adjustment factors or programmatic definitions of income to qualify households, persons, and families for programs of the agency or department, as the case may be.",
+    "This section shall become inoperative on July 1, 2026, and, as of January 1, 2027, is repealed."
+   ],
+   "sec": "50093",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 50093 is added to the Health and Safety Code , to read:",
+   "code": "HSC",
+   "paras": [
+    "“Persons and families of low or moderate income” means persons and families whose income does not exceed 120 percent of area median income, adjusted for family size by the department in accordance with adjustment factors adopted and amended from time to time by the United States Department of Housing and Urban Development pursuant to Section 8 of the United States Housing Act of 1937. However, the agency and the department jointly, or either acting with the concurrence of the Secretary of California Housing and Homelessness, may permit the agency to use higher income limitations in designated geographic areas of the state, upon a determination that 120 percent of the median income in the particular geographic area is too low to qualify a substantial number of persons and families of low or moderate income who can afford rental or home purchase of housing financed pursuant to Part 3 (commencing with Section 50900) without subsidy.",
+    "“Persons and families of low or moderate income” includes very low income households, as defined in Section 50105, extremely low income households, as defined in Section 50106, and lower income households as defined in Section 50079.5, and includes persons and families of extremely low income, persons and families of very low income, persons and families of low income, persons and families of moderate income, and middle-income families. As used in this division:",
+    "(a) “Persons and families of low income” or “persons of low income” means persons or families who are eligible for financial assistance specifically provided by a governmental agency for the benefit of occupants of housing financed pursuant to this division.",
+    "(b) “Persons and families of moderate income” or “middle-income families” means persons and families of low or moderate income whose income exceeds the income limit for lower income households.",
+    "(c) “Persons and families of median income” means persons and families whose income does not exceed the area median income, as adjusted by the department for family size in accordance with adjustment factors adopted and amended from time to time by the United States Department of Housing and Urban Development pursuant to Section 8 of the United States Housing Act of 1937.",
+    "As used in this section, “area median income” means the median family income of a geographic area of the state, as annually estimated by the United States Department of Housing and Urban Development pursuant to Section 8 of the United States Housing Act of 1937. In the event these federal determinations of area median income are discontinued, the department shall establish and publish as regulations income limits for persons and families of median income for all geographic areas of the state at 100 percent of area median income, and for persons and families of low or moderate income for all geographic areas of the state at 120 percent of area median income. These income limits shall be adjusted for family size and shall be revised annually.",
+    "For purposes of this section, the department shall file, with the Office of Administrative Law, any changes in area median income and income limits determined by the United States Department of Housing and Urban Development, together with any consequent changes in other derivative income limits determined by the department pursuant to this section. These filings shall not be subject to Article 5 (commencing with Section 11346) or Article 6 (commencing with Section 11349) of Chapter 3.5 of Part 1 of Division 3 of Title 2 of the Government Code, but shall be effective upon filing with the Office of Administrative Law and shall be published as soon as possible in the California Regulatory Code Supplement and the California Code of Regulations.",
+    "The department shall establish and publish a general definition of income, including inclusions, exclusions, and allowances, for qualifying persons under the income limits of this section and Sections 50079.5, 50105, and 50106 to be used where no other federal or state definitions of income apply. This definition need not be established by regulation.",
+    "Nothing in this division shall prevent the agency or the department from adopting separate family size adjustment factors or programmatic definitions of income to qualify households, persons, and families for programs of the agency or department, as the case may be.",
+    "This section shall become operative on July 1, 2026."
+   ],
+   "sec": "50093",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "NULL",
+ "subject": "Governor’s reorganization plan: reorganization of executive branch of state government.",
+ "title": "An act to amend Sections 100, 10004, 10050, 19404, 23050, 23075, 26001, 26010, 26010.5, and 26040 of, and to amend and repeal Section 26180.5 of, the Business and Professions Code, to amend Sections 1916.12, 1918.5,1918.5, and 5405 of the Civil Code, to amend Sections 300, 1514, 14382, 14652.5, and 18022.5 of the Financial Code, to amend, repeal, and add Section 513 of the Food and Agricultural Code, to amend Sections 12895, 12896, and 12944 of, to amend and repeal Sections 12804, 12804.5, and 12856 of, to amend, repeal, and add Sections 8587.11, 8876.7, 11546.1, 11550, 12800, 12855, 12901, 14030, 15562.5, 15990, and 65040.12 of, to add Sections 12804.1, 12804.2, 12804.3, and 12804.4 to, and to add Part 5.1 (commencing with Section 14470) to Division 3 of Title 2 of, the Government Code, to amend Sections 35805 and 127501.4 of, to amend and repeal Section 50407.5 of, to amend, repeal, and add Sections 17974, 50093, 50150, 50151, 50153, 50154, 50210, 50216, 50230, 50250, 50400, 50423, 50462, 50900, 50901, 50913, 51005, 51624, 53524, and 54913 of, and to add Part 18 (commencing with Section 54920) to Division 31 of, the Health and Safety Code, to amend, repeal, and add Section 998.547 of the Military and Veterans Code, to amend, repeal, and add Section 75121 of the Public Resources Code, to amend Section 10200 of the Unemployment Insurance Code, and to amend Sections 8255, 8256, 8257, 8257.01, 8257.1, and 8257.2 of, to amend, repeal, and add Sections 4581, 9850, and 18901.59 of, to add Sections 8257.02, 8257.03, 8257.04, and 8257.05 to, and to repeal and add the heading of Chapter 6.5 (commencing with Section 8255) of Division 8 of, the Welfare and Institutions Code, relating to reorganization of the executive branch of state government.",
+ "urgency": "NULL",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-05-05",
+   "id": "20250GRP199INT",
+   "num": "99"
+  }
+ ]
+}

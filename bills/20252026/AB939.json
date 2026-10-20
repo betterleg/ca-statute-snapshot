@@ -1,0 +1,228 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schultz",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Solache",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  }
+ ],
+ "bill": "AB939",
+ "bill_id": "202520260AB939",
+ "chapter": {
+  "num": "790",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development, as defined, within the city or county with a density bonus, other incentives or concessions, and waivers or reductions of development standards, as specified, if the developer agrees to construct specified units and meets other requirements. Existing law, among other things, requires compliance with certain affordability requirements, including requiring that the applicant agree to ensure, and that the city, county, or city and county ensure, that a for-sale unit that qualified the applicant for the award of the density bonus is either (1) initially sold to and occupied by a person or family of very low, low, or moderate income, as specified, or (2) if the unit is not purchased by an income-qualified person or family within 180 days after the issuance of the certificate of occupancy, the unit is purchased by a qualified nonprofit housing corporation, as provided.",
+  "This bill would additionally allow the applicant and the city, county, or city and county to comply with the above-described affordability requirements with respect to a for-sale unit by ensuring that the unit is purchased by a nonprofit housing corporation, as specified, for properties to be sold to and occupied by extremely low, very low, or lower income families who participate in a below market interest rate loan program, as described. By adding to the duties of local agencies to implement the Density Bonus Law, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "416ca849b4785e91",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Com. on TRANS.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on TRANS. Read second time and amended.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on TRANS.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D. pursuant to Assembly Rule 96.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 10. Noes 1.) (January 14).",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-01-15"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-01-16"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 13. Noes 2.) (January 22).",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Page 3806.)",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 60. Noes 9. Page 3873.)",
+   "date": "2026-01-29"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-01-29"
+  },
+  {
+   "action": "Referred to Com. on HOUSING.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (June 10). Re-referred to Com. on APPR.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-06-23"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-18"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 33. Noes 1.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 67. Noes 6. Page 6685.).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-04"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 790, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250AB93993CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65915.4 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) Notwithstanding subparagraph (A) of paragraph (2) of subdivision (c) of Section 65915, an applicant may alternatively agree to ensure, and the city, county, or city and county shall ensure, that a for-sale unit that qualified the applicant for the award of the density bonus is purchased by a nonprofit housing corporation organized pursuant to Section 501(c)(3) of the Internal Revenue Code that receives a welfare exemption under Section 214.15 of the Revenue and Taxation Code for properties to be sold to, and occupied by, extremely low, very low, or lower income families who participate in a below market interest rate loan program that incorporates within their contracts for initial purchase a repurchase option that requires a subsequent purchaser of the property that desires to resell or convey the property to offer the nonprofit corporation the right to repurchase the property prior to selling or conveying that property to any other purchaser pursuant to an equity sharing agreement and affordability restrictions on the sale and conveyance of the property that ensure that the property will be preserved for lower income housing for at least 45 years for owner-occupied housing units and will be sold or resold only to persons or families of extremely low, very low, or lower income, as defined in Section 50052.5 of the Health and Safety Code.",
+    "(2) An equity sharing agreement under this section shall, at a minimum, include in the real property deed restriction a provision for homeowners to recover their investments in home maintenance or improvements, ensuring that the homeowner receives a minimum of 20 percent of the property value increase during their term of ownership.",
+    "(b) The local government shall enforce an equity sharing agreement required pursuant to this section, unless it is in conflict with the requirements of another public funding source or law or may defer to the recapture provisions of the public funding source. The following shall apply to the equity sharing agreement:",
+    "(1) Upon resale, the seller of the unit shall retain the value of any improvements, the downpayment, and the seller’s proportionate share of appreciation.",
+    "(2) Except as provided in paragraph (5), the local government shall recapture any initial subsidy, as defined in paragraph (3), and its proportionate share of appreciation, as defined in paragraph (4), which amount shall be used within five years for any of the purposes described in subdivision (e) of Section 33334.2 of the Health and Safety Code that promote home ownership.",
+    "(3) For purposes of this section, the local government’s initial subsidy shall be equal to the fair market value of the home at the time of initial sale minus the initial sale price to the moderate-income household, plus the amount of any downpayment assistance or mortgage assistance. If upon resale the market value is lower than the initial market value, then the value at the time of the resale shall be used as the initial market value.",
+    "(4) For purposes of this section, the local government’s proportionate share of appreciation shall be equal to the ratio of the local government’s initial subsidy to the fair market value of the home at the time of initial sale.",
+    "(5) If the unit is purchased or developed by a nonprofit housing corporation pursuant to this section, the local government may enter into a contract with the nonprofit housing corporation under which the qualified nonprofit housing corporation would recapture any initial subsidy and its proportionate share of appreciation if the nonprofit housing corporation is required to use 100 percent of the proceeds to promote home ownership for lower income households, as defined by Section 50079.5 of the Health and Safety Code within the jurisdiction of the local government."
+   ],
+   "sec": "65915.4",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing development: density bonuses: affordability of for-sale units.",
+ "title": "An act to add Section 65915.4 to the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB93999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-01-05",
+   "id": "20250AB93998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-01-15",
+   "id": "20250AB93997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-17",
+   "id": "20250AB93996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB93995AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-01",
+   "id": "20250AB93994ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250AB93993CHP",
+   "num": "93"
+  }
+ ]
+}

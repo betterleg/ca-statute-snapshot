@@ -1,0 +1,188 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Harabedian",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ward",
+   "primary": false
+  }
+ ],
+ "bill": "AB748",
+ "bill_id": "202520260AB748",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, provides for the adoption and administration of zoning laws, ordinances, rules and regulations by counties and cities and the implementation of those general plans as may be in effect in those counties or cities. In that regard, existing law requires each local agency, by January 1, 2025, to develop a program for the preapproval of accessory dwelling unit plans.",
+  "This bill would require each local agency, as defined, to develop a program for the preapproval of single-family and multifamily residential housing plans, whereby the local agency accepts single-family and multifamily plan submissions for preapproval and approves or denies the preapproval applications, as specified. The bill would require a large jurisdiction, as defined, to develop this program by July 1, 2027, and a small jurisdiction, as defined, to develop a program by January 1, 2029. The bill would require the local agency to post preapproved single-family or multifamily residential housing plans and the contact information of the applicant on the local agency’s internet website.",
+  "This bill would require a local agency to either approve or deny ministerially an application for a single-family or multifamily residential housing unit within 30 days if the lot meets certain conditions and the application utilizes specified plans that have been preapproved by the local agency or that are identical to a plan used in an application approved by the local agency. The bill would prohibit the preapproval program from applying to single-family or multifamily residential housing plans intended for use in certain communities and developments, as specified.",
+  "Existing law requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. That law requires the planning agency of a city or county to provide by April 1 of each year an annual report to, among other entities, the Office of Land Use and Climate Innovation. Existing law requires the annual report to include, among other things, the city’s or county’s progress in meeting its share of regional housing needs, as specified.",
+  "Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment. CEQA does not apply to the approval of ministerial projects.",
+  "To the extent that the ministerial review process established by the bill would apply to final, discretionary approval of an application for a single-family or multifamily housing unit, the bill would exempt those projects from CEQA.",
+  "This bill, beginning on April 1, 2028, for large jurisdictions and beginning on April 1, 2030, for small jurisdictions, would require the local agency to include in its annual report the number of units of residential housing that are approved using a preapproved housing plan pursuant to this act.",
+  "By imposing new duties on local agencies with regard to developing a preapproval program and its annual report, the bill would create a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "1ed176ac2efda1e4",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-18"
+  },
+  {
+   "action": "From printer. May be heard in committee March 21.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-01-06"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 3717.)",
+   "date": "2026-01-08"
+  },
+  {
+   "action": "(Pending re-refer to Com. on L. GOV.)",
+   "date": "2026-01-08"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (January 14). Re-referred to Com. on L. GOV.",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (January 14). Re-referred to Com. on APPR.",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Page 3806.)",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (January 22).",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 75. Noes 0. Page 3832.)",
+   "date": "2026-01-26"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-01-27"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and HOUSING.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 4. Noes 2.) (June 17). Re-referred to Com. on HOUSING.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 1.) (June 30). Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2026-08-13"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2026-01-05",
+  "id": "20250AB74898AMD",
+  "num": "98"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 65852.29 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Each local agency shall, by July 1, 2027, develop a program for the preapproval of single-family and multifamily residential housing plans. The program shall comply with all of the following:",
+    "(1) The local agency shall accept single-family and multifamily residential housing plan submissions for preapproval.",
+    "(2) (A) The local agency shall approve or deny the application for preapproval pursuant to the standards established in applicable state and local housing regulations.",
+    "(B) The local agency may charge the applicant the same permitting fees that the local agency would charge an applicant seeking approval for the same-sized single-family or multifamily residential housing unit in reviewing and approving a preapproved housing plan submission.",
+    "(C) An application for preapproval under this section shall include a statement by the applicant that the applicant has sufficient authority, license, or ownership interest in the plan to submit the plan for preapproval and, if approved, posted pursuant to clause (i) of subparagraph (A) of paragraph (3).",
+    "(3) (A) (i) Single-family and multifamily residential housing plans that are preapproved pursuant to this subdivision shall be posted on the local agency’s internet website.",
+    "(ii) The posting of a preapproved housing plan pursuant to clause (i) shall not be considered an endorsement of the applicant or approval of the applicant’s application for a single-family or multifamily residential housing unit by the local agency.",
+    "(B) (i) The local agency shall also post the contact information of the applicant of a preapproved housing plan, as provided by the applicant.",
+    "(ii) The local agency shall not be responsible for the accuracy of the contact information posted pursuant to clause (i).",
+    "(C) A local agency shall remove a preapproved housing plan from their internet website within 30 days of receiving a request for removal from the applicant.",
+    "(4) (A) A local agency may also admit plans that have been developed and preapproved by the local agency for single-family and multifamily residential housing plans into the program.",
+    "(B) This section shall not require a local agency to post a preapproved single-family or multifamily residential housing plan that is not submitted by an applicant.",
+    "(5) This section shall not prevent a local agency from voluntarily accepting or admitting additional plans at higher densities in additional zoning districts into the preapproved housing plan program, at the local agency’s discretion.",
+    "(b) The preapproval program established pursuant to this section shall not apply to single-family or multifamily residential housing plans intended for use in a master-planned community, a planned unit development, or a similar large-scale development that includes the subdivision of land for the construction of multiple new housing units.",
+    "(c) A local agency shall approve or deny an application for a single-family or multifamily residential housing unit that uses a preapproved housing plan ministerially without discretionary review. The local agency shall either approve or deny the application within 30 days from the date the local agency receives a completed application, if the lot for which the application is proposed meets the soil conditions, topography, flood zone, zoning regulations, and design review standards for which the preapproved housing plan was designed and the application utilizes either of the following:",
+    "(1) A plan for a single-family or multifamily residential housing unit that has been preapproved by the local agency within the current triennial California Building Standards Code rulemaking cycle.",
+    "(2) A plan that is identical to a plan used in an application for a single- or multifamily residential housing unit approved by the local agency within the current triennial California Building Standards Code rulemaking cycle.",
+    "(d) (1) Beginning on April 1, 2028, large jurisdictions shall include in their annual report required pursuant to Section 65400 the number of units of residential housing that are approved using a preapproved housing plan pursuant to this section.",
+    "(2) Beginning on April 1, 2030, small jurisdictions shall include in their annual report required pursuant to Section 65400 the number of units of residential housing that are approved using a preapproved housing plan pursuant to this section.",
+    "(e) This section shall not apply to a small jurisdiction until January 1, 2029.",
+    "(f) For purposes of this section:",
+    "(1) “Large jurisdiction” means a county that is not a small jurisdiction or any city with a population with 25,000 or more as of January 1, 2019, within that county.",
+    "(2) “Local agency” means a city, county, or city and county.",
+    "(3) “Multifamily residential housing” means a building containing 2 to 10 residential units.",
+    "(4) “Single-family residential housing” has the same meaning as defined in applicable housing regulations.",
+    "(5) “Small jurisdiction” means a county with a population of less than 250,000 as of January 1, 2019, any city within that county, or a city with a population of less than 25,000 as of January 1, 2019.",
+    "(g) The Legislature finds and declares that the lack of housing is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this section applies to all cities, including charter cities."
+   ],
+   "sec": "65852.29",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Single-family and multifamily housing units: preapproved plans.",
+ "title": "An act to add Section 65852.29 to the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-18",
+   "id": "20250AB74899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-01-05",
+   "id": "20250AB74898AMD",
+   "num": "98"
+  }
+ ]
+}

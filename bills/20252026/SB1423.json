@@ -1,0 +1,279 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Stern",
+   "primary": true
+  }
+ ],
+ "bill": "SB1423",
+ "bill_id": "202520260SB1423",
+ "chapter": {
+  "num": "1039",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law establishes the Office of Land Use and Climate Innovation in the Governor’s office for the purpose of serving the Governor and the Governor’s cabinet as staff for long-range planning and research and constituting the comprehensive state planning agency.",
+  "This bill would require the office, on or before July 1, 2028, to compile, standardize, maintain, and make publicly available through a consolidated online platform a core set of statewide standardized spatial planning datasets, as defined. The bill would require the datasets to include specified categories of information, including hazardous data, natural resource sensitivity data, and agricultural value data, as provided. The bill would also require the office, on or before January 1, 2029, to develop and provide guidance for agencies to inform how to use and integrate the datasets in regional planning processes and products. The bill would require the office to update those datasets as new or revised data becomes available from the originating state or federal agencies.",
+  "This bill would permit state, regional, and local governments to consider use of the standardized spatial planning datasets published by the office in the development and production of land use and infrastructure plans, as specified. The bill would require the office to provide technical assistance, upon request, for use of the data from these provisions. The bill would specify that it does not create new regulatory requirements, regulate land use or zoning, establish land use designations, or preempt the local land use authority of cities and counties."
+ ],
+ "hash": "27c263330bdecefa",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Coms. on E.M. and N.R. & W.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.M.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "Re-referred to Com. on TRANS.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "date": "2026-04-10"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 8. Noes 1. Page 3986.) (April 21).",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "May 11 hearing: Placed on APPR. suspense file.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 5. Noes 0. Page 4276.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 29. Noes 9. Page 4495.) Ordered to the Assembly.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "Referred to Com. on TRANS.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV. pursuant to Assembly Rule 96.",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 1.) (July 1). Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "August 5 set for first hearing. Placed on suspense file.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 3.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 52. Noes 19. Page 6743.) Ordered to the Senate.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "From committee: That the Assembly amendments be concurred in. (Ayes 5. Noes 2.)",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(d).",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "From committee: Be re-referred to Com. on L. GOV. pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on L. GOV.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 28. Noes 10.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 1039, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250SB142392CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65040.18 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section, the following terms have the following meanings:",
+    "(1) “Consolidated online platform” means a publicly accessible online portal maintained or designated by the office that provides access to standardized spatial planning datasets as a decision support tool.",
+    "(2) “Standardized spatial planning dataset” means geospatial data layers that have been compiled, standardized, and published by the office pursuant to this section.",
+    "(b) On or before July 1, 2028, the office shall compile, standardize, maintain, and make publicly available through a consolidated online platform a core set of statewide standardized spatial planning datasets.",
+    "(c) The standardized spatial planning datasets shall include the following categories of information:",
+    "(1) Hazard data, including, but not limited to, all of the following:",
+    "(A) State and local responsibility area high and very high fire hazard severity zones as determined by the Department of Forestry and Fire Protection.",
+    "(B) One-hundred-year and 500-year flood plains as designated by relevant state and federal agencies.",
+    "(C) Coastal and inland areas subject to sea level rise inundation as identified by the Ocean Protection Council.",
+    "(2) Natural resource sensitivity data, including, but not limited to, all of the following:",
+    "(A) Wetlands and riparian areas as mapped by relevant state and federal agencies.",
+    "(B) Biological resource areas that contain, support, or are necessary to sustain important biological or ecological resources, including species biodiversity, significant habitats and wildlife corridors as determined by the Department of Fish and Wildlife and the Natural Resources Agency.",
+    "(C) Legally protected lands and lands under a conservation easement.",
+    "(3) Agricultural value data, including, but not limited to, both of the following:",
+    "(A) Prime and unique farmlands and farmland of statewide and local importance as classified by the Department of Conservation.",
+    "(B) Lands subject to Williamson Act contracts pursuant to Chapter 7 (commencing with Section 51200) of Part 1 of Division 1 of Title 5.",
+    "(d) On or before January 1, 2029, the office shall develop and provide guidance for agencies to inform them on how to use and integrate standardized spatial planning datasets in regional planning processes and products.",
+    "(e) The office shall update the standardized spatial planning datasets as new or revised data becomes available from the originating state or federal source agencies."
+   ],
+   "sec": "65040.18",
+   "verb": "added"
+  },
+  {
+   "action": "Article 15 (commencing with Section 65770) is added to Chapter 3 of Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) State, regional, and local governments may consider use of the standardized spatial planning datasets published by the Office of Land Use and Climate Innovation pursuant to Section 65040.18 in the development and production of land use and infrastructure plans, including, but not limited to:",
+    "(1) General plans pursuant to Section 65300.",
+    "(2) Regional transportation plans and sustainable communities strategies prepared pursuant to Section 65080.",
+    "(3) Regional housing needs allocations processes pursuant to Section 65584.",
+    "(4) Climate action plans.",
+    "(b) In addition to subdivision (a), nothing in this section or in Section 65040.18 shall restrict agencies from using more precise or current data that are available at the regional or local level, including data developed through natural community conservation plans or other regional conservation initiatives, to inform and refine planning processes or decisions.",
+    "(c) Nothing in this section or in Section 65040.18 creates new regulatory requirements, regulates land use or zoning, establishes land use designations, or preempts the local land use authority of cities and counties.",
+    "(d) The Office of Land Use and Climate Innovation shall provide technical assistance for use of data pursuant to this section upon request."
+   ],
+   "sec": "65770",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Regional planning: standardized spatial planning datasets.",
+ "title": "An act to add Section 65040.18 to, and to add Article 15 (commencing with Section 65770) to Chapter 3 of Division 1 of Title 7 of, the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB142399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB142398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-23",
+   "id": "20250SB142397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-10",
+   "id": "20250SB142396AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-22",
+   "id": "20250SB142395AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-13",
+   "id": "20250SB142394AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-02",
+   "id": "20250SB142393ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250SB142392CHP",
+   "num": "92"
+  }
+ ]
+}

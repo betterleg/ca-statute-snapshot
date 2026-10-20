@@ -1,0 +1,125 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ransom",
+   "primary": true
+  }
+ ],
+ "bill": "AB436",
+ "bill_id": "202520260AB436",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law provides that the Office of Land Use and Climate Innovation serves the Governor and the Governor’s Cabinet as staff for long-range planning and research, and constitute the comprehensive state planning agency. In that capacity, existing law requires the office to, among other things, assist local governments in land use planning. Existing law, the California Integrated Waste Management Act of 1989, establishes the Department of Resources Recycling and Recovery to administer an integrated waste management program. Existing law establishes a goal that statewide landfill disposal of organic waste be reduced from the 2014 level by 75% by 2025.",
+  "This bill, on or before June 1, 2027, would require the Office of Land Use and Climate Innovation, in consultation with the Department of Resources Recycling and Recovery, to develop and post on the office’s internet website, a technical advisory, as provided, reflecting best practices to facilitate the siting of composting facilities to meet the organic waste reduction goals. The bill would require the office to consult with specified entities throughout the development of the technical advisory.",
+  "The Planning and Zoning Law requires each county and city to adopt a comprehensive, long-term general plan for its physical development, and the development of certain lands outside its boundaries, that includes, among other mandatory elements, a land use element that designates the proposed general distribution and general location and extent of the uses of the land for housing, business, solid and liquid waste disposal facilities, and other categories of public and private uses of land, as prescribed.",
+  "This bill, upon a substantive revision of the land use element, as specified, on or after January 1, 2029, would require a city, county, or city and county to consider, among other things, the best practices, sample general plan, and model ordinance reflected in the technical advisory and to consider updating the land use element to identify areas where composting facilities may be appropriate as an allowable use. By increasing duties on a city, county, or city and county, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "cc2a47327942faa7",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-06"
+  },
+  {
+   "action": "From printer. May be heard in committee March 9.",
+   "date": "2025-02-07"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and L. GOV.",
+   "date": "2025-02-18"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2025-03-11"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 13. Noes 0.) (March 24). Re-referred to Com. on L. GOV.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (April 9). Re-referred to Com. on APPR.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to suspense file.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-03-10",
+  "id": "20250AB43698AMD",
+  "num": "98"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Section 65040.19 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) On or before June 1, 2027, the office shall develop, in consultation with the Department of Resources Recycling and Recovery, and post on the office’s internet website, a technical advisory, reflecting best practices to facilitate the siting of composting facilities to meet the organic waste reduction goals established in Section 39730.6 of the Health and Safety Code.",
+    "(b) The technical advisory developed pursuant to subdivision (a) shall include both of the following, which shall be suitable for adoption or modification by a city, county, or city and county:",
+    "(1) Sample general plan goals, policies, and implementation measures.",
+    "(2) A model ordinance.",
+    "(c) The office shall consult with representatives of urban, suburban, and rural counties and cities, operators of composting facilities, and private and public waste services throughout the development of the technical advisory."
+   ],
+   "sec": "65040.19",
+   "verb": "added"
+  },
+  {
+   "action": "Section 65302.16 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Upon a substantive revision of the land use element on or after January 1, 2029, a city, county, or city and county shall consider both of the following:",
+    "(1) The best practices, sample general plan, and model ordinance reflected in the technical advisory.",
+    "(2) Updating the land use element to identify areas where composting facilities may be appropriate as an allowable use, which may vary based on different types or sizes of composting facilities.",
+    "(b) Subdivision (a) shall only apply to revisions of a land use element that occur after the Office of Land Use and Climate Innovation publicly posts the technical advisory required by Section 65040.19."
+   ],
+   "sec": "65302.16",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Composting facilities: zoning.",
+ "title": "An act to add Sections 65040.19 and 65302.16 to the Government Code, relating to composting.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-06",
+   "id": "20250AB43699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-10",
+   "id": "20250AB43698AMD",
+   "num": "98"
+  }
+ ]
+}

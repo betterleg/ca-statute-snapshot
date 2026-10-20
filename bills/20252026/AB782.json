@@ -1,0 +1,216 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Quirk-Silva",
+   "primary": true
+  }
+ ],
+ "bill": "AB782",
+ "bill_id": "202520260AB782",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Subdivision Map Act, vests the authority to regulate and control the design and improvement of subdivisions in the legislative body of a local agency and sets forth procedures governing the local agency’s processing, approval, conditional approval or disapproval, and filing of tentative, final, and parcel maps, and the modification of those maps. The act requires prescribed security from a developer if the act or a local ordinance authorizes or requires the furnishing of security in connection with the performance of any act or agreement.",
+  "This bill would prohibit a local agency from requiring the furnishing of security in connection with the performance of any act or agreement related to an improvement that will be privately owned and maintained, and from conditioning the subdivision or any approval necessary for the development or construction of the project as a whole on the furnishing of that security related to an improvement that will be privately owned and maintained."
+ ],
+ "hash": "a4432b597501b3f2",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-18"
+  },
+  {
+   "action": "From printer. May be heard in committee March 21.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 10. Noes 0.) (April 30).",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-06"
+  },
+  {
+   "action": "Re-referred to Com. on APPR. pursuant to Joint Rule 10.5.",
+   "date": "2025-05-06"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2025-05-21"
+  },
+  {
+   "action": "Joint Rule 62(a), file notice suspended. (Page 1627.)",
+   "date": "2025-05-21"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 23).",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 79. Noes 0. Page 1852.)",
+   "date": "2025-06-02"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and B. P. & E.D.",
+   "date": "2025-06-11"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on B. P. & E.D. (Ayes 7. Noes 0.) (July 2).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on B. P. & E.D.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 10. Noes 1.) (July 14).",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0.) (August 18).",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Ordered to inactive file at the request of Senator Wiener.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "From inactive file.",
+   "date": "2026-06-02"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2026-06-02"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-06-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "Re-referred to Com. on RLS. pursuant to Senate Rule 29.10(c).",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "Re-referred to Coms. on JUD. and HOUSING.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 8. Noes 4.) (June 23). Re-referred to Com. on HOUSING.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2026-06-26"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-06-02",
+  "id": "20250AB78294AMD",
+  "num": "94"
+ },
+ "location": "CS75",
+ "sections": [
+  {
+   "action": "Section 66499.10.5 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding any other law, a local agency shall not do either of the following:",
+    "(1) Require the furnishing of security in connection with the performance of any act or agreement related to an improvement that will be privately owned and maintained.",
+    "(2) Condition the subdivision or any approval necessary for the development or construction of the project as a whole on the furnishing of security in connection with the performance of any act or agreement related to an improvement that will be privately owned and maintained.",
+    "(b) Nothing in this section shall limit or otherwise affect the authority of the Real Estate Commissioner or the Department of Real Estate pursuant to Division 4 (commencing with Section 10000) of the Business and Professions Code, including, but not limited to, pursuant to Section 11018 of the Business and Professions Code with respect to issuing a public report and determining the adequacy of financial arrangements for all offsite improvements and any community, recreational, or other facilities included in the offer for sale or lease of a subdivision."
+   ],
+   "sec": "66499.10.5",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Unlawfully restrictive covenants: redevelopment of commercial property for residential uses.",
+ "title": "An act to add Section 66499.10.5 to the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-18",
+   "id": "20250AB78299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB78298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-05",
+   "id": "20250AB78297AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-03",
+   "id": "20250AB78296AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-16",
+   "id": "20250AB78295AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-02",
+   "id": "20250AB78294AMD",
+   "num": "94"
+  }
+ ]
+}

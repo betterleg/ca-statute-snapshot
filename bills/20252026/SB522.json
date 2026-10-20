@@ -1,0 +1,203 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wahab",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Garcia",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Kalra",
+   "primary": false
+  }
+ ],
+ "bill": "SB522",
+ "bill_id": "202520260SB522",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law governs the hiring of residential dwelling units. Existing law, the Tenant Protection Act of 2019, prohibits, until January 1, 2030, an owner of residential real property from terminating the tenancy of certain tenants without just cause, either at-fault or no-fault of the tenant. The act, until January 1, 2030, also prohibits an owner of residential real property from increasing the gross rental rate for a dwelling or unit more than 5% plus the percentage change in the cost of living, as defined, or 10%, whichever is lower, of the lowest gross rental rate charged for the immediately preceding 12 months, subject to specified conditions. The act exempts certain types of residential real properties or residential circumstances from these provisions, including, among others, housing that has been issued a certificate of occupancy within the previous 15 years.",
+  "This bill would exclude housing built to replace a previous housing unit that was substantially damaged or destroyed by a disaster, as defined, and was issued a certificate of occupancy before that housing unit was substantially damaged or destroyed, from the above-described exemption from the just cause requirements and rental increase limits.",
+  "Existing law, the Costa-Hawkins Rental Housing Act, prescribes statewide limits on the application of local rent control with regard to certain properties. Existing law, among other things, authorizes an owner of residential real property to establish the initial and all subsequent rental rates for a dwelling or unit that meets specified criteria, including a dwelling or unit that has already been exempt from the residential rent control ordinance of a public entity on or before February 1, 1995, pursuant to a local exemption for newly constructed units.",
+  "This bill would require residential rent control to apply to a residential real property built to replace a previous residential real property on the same parcel if the previous residential real property was substantially damaged or destroyed by a disaster, as defined, and was subject to residential rent control at the time the residential real property was substantially damaged or destroyed.",
+  "Existing law, the Housing Crisis Act of 2019, among other things, prohibits an affected city or an affected county, as defined, from approving a housing development project that will require the demolition of one or more residential dwelling units or that will require the demolition of occupied or vacant protected units, as defined, or that is located on a site where protected units were demolished in the previous 5 years, unless specified conditions are met.",
+  "This bill would, for an area where a protected unit was substantially damaged or destroyed due to a disaster, as defined, prohibit an affected city or an affected county from approving a housing development project unless the project will create at least as many protected units as were substantially damaged or destroyed. By placing additional requirements on local agencies in approving a housing development project, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "c283b486c6889acc",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "(Corrected February 27).",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on JUD. and L. GOV.",
+   "date": "2025-03-19"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "date": "2025-03-28"
+  },
+  {
+   "action": "Set for hearing April 8.",
+   "date": "2025-04-01"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 10. Noes 2. Page 706.) (April 8). Re-referred to Com. on L. GOV.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 27. Noes 10. Page 1457.) Ordered to the Assembly.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and JUD.",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "July 2 set for first hearing. Held in committee without recommendation.",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Joint Rule 62(a) suspended.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 5.) (July 9). Re-referred to Com. on JUD.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 8. Noes 3.) (July 15).",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Ordered to inactive file on request of Assembly Member Aguiar-Curry.",
+   "date": "2025-09-10"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-09-03",
+  "id": "20250SB52297AMD",
+  "num": "97"
+ },
+ "location": "Inactive",
+ "sections": [
+  {
+   "action": "Section 66300.5 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this article:",
+    "(a) (1) (A) Except as otherwise provided in subparagraph (B), “affected city” means a city, including a charter city, that the Department of Housing and Community Development determines, pursuant to subdivision (d), is in an urbanized area or urban cluster, as designated by the United States Census Bureau.",
+    "(B) Notwithstanding subparagraph (A), “affected city” does not include any city that has a population of 5,000 or less and is not located within an urbanized area, as designated by the United States Census Bureau.",
+    "(2) “Affected county” means a census-designated place, based on the 2013-2017 American Community Survey 5-year Estimates, that is wholly located within the boundaries of an urbanized area, as designated by the United States Census Bureau.",
+    "(3) Notwithstanding any other law, “affected county” and “affected city” includes the electorate of an affected county or city exercising its local initiative or referendum power, whether that power is derived from the California Constitution, statute, or the charter or ordinances of the affected county or city.",
+    "(b) “Affordable housing cost” has the same meaning as defined in Section 50052.5 of the Health and Safety Code.",
+    "(c) “Affordable rent” has the same meaning as defined in Section 50053 of the Health and Safety Code.",
+    "(d) “Disaster” has the same meaning as that term is defined by Section 8680.3.",
+    "(e) “Equivalent size” means that the replacement units contain at least the same total number of bedrooms as the units being replaced.",
+    "(f) “Housing development project” has the same meaning as defined in paragraph (3) of subdivision (b) of Section 65905.5.",
+    "(g) “Persons and families of low or moderate income” has the same meaning as defined in Section 50093 of the Health and Safety Code.",
+    "(h) “Lower income households” has the same meaning as defined in Section 50079.5 of the Health and Safety Code.",
+    "(i) “Protected units” means any of the following:",
+    "(1) Residential dwelling units that are or were subject to a recorded covenant, ordinance, or law that restricts rents to levels affordable to persons and families of lower or very low income within the past five years.",
+    "(2) Residential dwelling units that are or were subject to any form of rent or price control through a public entity’s valid exercise of its police power within the past five years.",
+    "(3) Residential dwelling units that are or were rented by lower or very low income households within the past five years.",
+    "(4) Residential dwelling units that were withdrawn from rent or lease in accordance with Chapter 12.75 (commencing with Section 7060) of Division 7 of Title 1 within the past 10 years.",
+    "(j) (1) “Replace” shall have the same meaning as provided in subparagraphs (B) and (C) of paragraph (3) of subdivision (c) of Section 65915.",
+    "(2) Notwithstanding paragraph (1), for purposes of a development project that consists of a single residential unit on a site with a single protected unit, “replace” shall mean that the protected unit is replaced with a unit of any size at any income level.",
+    "(k) “Very low income households” has the same meaning as defined in Section 50105 of the Health and Safety Code."
+   ],
+   "sec": "66300.5",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66300.7 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "Notwithstanding any law, for an area where a protected unit was substantially damaged or destroyed due to a disaster, an affected city or an affected county shall not approve a housing development project unless the project will create at least as many protected units as were destroyed."
+   ],
+   "sec": "66300.7",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Floor Process",
+ "subject": "Housing: tenant protections.",
+ "title": "An act to amend Sections 1946.2 and 1947.12 of, and to add Section 1954.536 to, the Civil Code, and to amend Section 66300.5 of, and to add Section 66300.7 to, the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250SB52299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-28",
+   "id": "20250SB52298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-03",
+   "id": "20250SB52297AMD",
+   "num": "97"
+  }
+ ]
+}

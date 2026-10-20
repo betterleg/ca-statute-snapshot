@@ -1,0 +1,160 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": true
+  }
+ ],
+ "bill": "SB1145",
+ "bill_id": "202520260SB1145",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law requires a local agency to declare land either “surplus land” or “exempt surplus land,” as supported by written findings, before the local agency may take any action to dispose of it consistent with an agency’s policies or procedures and defines terms for these purposes. Existing law generally requires a local agency, before disposing or negotiating to dispose of surplus land, to provide a written notice of the availability of the surplus land to specified entities and housing sponsors. Under existing law, land declared by an agency of the state or any local agency as “exempt surplus land” is not subject to these requirements.",
+  "The Planning and Zoning Law requires cities and counties to prepare, adopt, and amend general plans and elements of those general plans, as specified. After the legislative body has adopted all or part of a general plan, the law requires the planning agency to provide by April 1 of each year an annual report to specified entities that includes certain information, including the status of the plan and progress of its implementation.",
+  "This bill would exempt land that was or will be conveyed by the federal government to a local reuse authority in accordance with a military base closure and realignment, as specified, from these requirements if certain conditions are met. The bill would require a local reuse authority, if it is a city or county, to include specified information relating to the development of residential units on conveyed land as part of their annual report relating to their general plan. Because the bill would impose new duties on a local agency, this bill would impose a state-mandated local program. The bill would also limit the time to bring an action to challenge the application of this exemption to within 90 days after the local reuse authority’s approval of a disposition and development agreement, purchase and sale agreement, or similar agreement regarding the disposition of all or any portion of the land by the local reuse authority and not at the time of each subsequent conveyance or phased conveyance of the land.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would provide that specified environmental review documents satisfy the requirements of CEQA for any project within the portion of the Concord Naval Weapons Station included within the boundaries of the area plan for the Concord Community Reuse Project, as provided, that is consistent with the area plan land use map and has the same land use types and locations for those land use types as adopted in the area plan reviewed in those specified environmental review documents. The bill would further provide that any additional land use types or location of land use types that are not the same as those adopted in the area plan reviewed in the specified environmental documents would be a project subject to subsequent review pursuant to CEQA, and would not be required to conduct redundant analysis to what was adopted in the CRP area plan reviewed in the specified environmental documents, as provided. To the extent the bill imposes new duties on local agencies, the bill would impose a state-mandated local program. The bill would make its provisions severable.",
+  "This bill would make legislative findings and declarations as to the necessity of a special statute for the City of Concord.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "4035ba863df9db86",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 21.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2026-02-26"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "Re-referred to Coms. on L. GOV. and E.Q.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.Q. (Ayes 7. Noes 0. Page 3904.) (April 15). Re-referred to Com. on E.Q.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2026-04-17"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 4009.) (April 22).",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-04-28"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "May 11 hearing: Placed on APPR. suspense file.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0. Page 4266.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 4361.) Ordered to the Assembly.",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-20"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and NAT. RES.",
+   "date": "2026-05-26"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-04-28",
+  "id": "20250SB114596AMD",
+  "num": "96"
+ },
+ "location": "CX15",
+ "sections": [
+  {
+   "action": "Chapter 6.8 (commencing with Section 21189.60) is added to Division 13 of the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "For purposes of this chapter, the following definitions apply:",
+    "(a) “City” means the City of Concord.",
+    "(b) “CNWS” means the Concord Naval Weapons Station.",
+    "(c) “Concord Community Reuse Project” means the Concord Community Reuse Project, approved by the city on February 23, 2010, that established the planning process for civilian use of the former CNWS.",
+    "(d) “CRP area plan” means the area plan for the Concord Community Reuse Project adopted and incorporated into the city’s 2030 general plan in 2012, that covers the inland portion of the former CNWS, the North Concord/Martinez Bay Area Rapid Transit Station, and the Diablo Creek Golf Course.",
+    "(e) “Plan area” means the approximately 5,000-acre inland portion of the CNWS included within the boundaries of the CRP area plan."
+   ],
+   "sec": "21189.60",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: surplus land disposal requirements: exemption.",
+ "title": "An act to add Section 54222.3.3 to the Government Code, and to add Chapter 6.8 (commencing with Section 21189.60) to Division 13 of the Public Resources Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250SB114599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-23",
+   "id": "20250SB114598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-08",
+   "id": "20250SB114597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-28",
+   "id": "20250SB114596AMD",
+   "num": "96"
+  }
+ ]
+}

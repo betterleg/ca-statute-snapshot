@@ -1,0 +1,226 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Becker",
+   "primary": true
+  }
+ ],
+ "bill": "SB358",
+ "bill_id": "202520260SB358",
+ "chapter": {
+  "num": "515",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Mitigation Fee Act, imposes various requirements with respect to the establishment, increase, or imposition of a fee by a local agency as a condition of approval of a development project. Existing law requires a local agency that imposes a fee on a housing development for the purpose of mitigating vehicular traffic impacts to set the rate for that fee, if the housing development satisfies all of certain prescribed characteristics, to reflect a lower rate of automobile trip generation associated with such housing developments in comparison with housing developments without the prescribed characteristics, unless the local agency adopts findings after a public hearing establishing that the housing development, even with those characteristics, would not generate fewer automobile trips than a housing development without those characteristics.",
+  "This bill would require those findings to be supported by substantial evidence in the record before or as part of the housing development project approval process.",
+  "Existing law specifies one of those prescribed characteristics described above is that the housing development provides either the minimum number of parking spaces required by the local ordinance, or no more than one onsite parking space for zero- to 2-bedroom units, and 2 onsite parking spaces for 3 or more bedroom units, whichever is less. Under existing law, another prescribed characteristic is that convenience retail uses, as specified, are located within 12 mile of the housing development.",
+  "This bill would revise the characteristic relating to parking spaces, to instead, specify that the housing development provides no more than one onsite parking space for zero- to 2-bedroom units, and 2 onsite parking spaces for 3 or more bedroom units. The bill would eliminate the characteristic related to convenience retail uses, and instead would add a characteristic that the housing development is located within 12 mile from 3 or more specified locations, including, among other locations, a supermarket or grocery store, a pharmacy or drugstore, or a restaurant, as defined.",
+  "Existing law authorizes a local agency, if a housing development does not satisfy all the prescribed characteristics, to charge a fee that is proportional to the estimated rate of automobile trip generation associated with the housing development.",
+  "This bill would eliminate that express authorization.",
+  "By imposing a mandate on local agencies that approve housing development projects with regard to impact fees, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "aa697c57dcb085a3",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-12"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 15.",
+   "date": "2025-02-13"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "Set for hearing April 23.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "April 23 set for first hearing canceled at the request of author.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Set for hearing April 30.",
+   "date": "2025-04-11"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 2. Page 968.) (April 30).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Set for hearing May 19.",
+   "date": "2025-05-09"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 27. Noes 11. Page 1378.) Ordered to the Assembly.",
+   "date": "2025-06-02"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (July 2).",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 11. Noes 2.) (August 20).",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 53. Noes 14. Page 2869.) Ordered to the Senate.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 28. Noes 9. Page 2605.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2025-09-16"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 515, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB35894CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66005.1 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Except as otherwise provided in subdivision (b), when a local agency imposes a fee on a housing development pursuant to Section 66001 for the purpose of mitigating vehicular traffic impacts, if that housing development satisfies all of the following characteristics, the fee, or the portion thereof relating to vehicular traffic impacts, shall be set at a rate that reflects a lower rate of automobile trip generation associated with such housing developments in comparison with housing developments without all of these characteristics:",
+    "(1) The housing development is located within a transit priority area and the major transit stop, if planned, is programmed to be completed before or within one year from the scheduled completion and occupancy of the housing development.",
+    "(2) The housing development is located within one-half mile from three or more of the following:",
+    "(A) A supermarket or grocery store.",
+    "(B) A public park.",
+    "(C) A community center.",
+    "(D) A pharmacy or drugstore.",
+    "(E) A medical clinic or hospital.",
+    "(F) A public library.",
+    "(G) A school that maintains a kindergarten or any of grades 1 to 12, inclusive.",
+    "(H) A licensed childcare facility.",
+    "(I) A restaurant. For purposes of this paragraph, a “restaurant” means a retail food establishment that prepares, serves, and vends food directly to the consumer.",
+    "(3) The housing development provides no more than one onsite parking space for zero- to two-bedroom units, and two onsite parking spaces for three or more bedroom units.",
+    "(b) Notwithstanding subdivision (a), the local agency may charge a fee that does not reflect a lower rate of automobile trip generation if the local agency makes written findings that the housing development, even with all the characteristics described in subdivision (a), would not generate fewer automobile trips than a housing development without all of those characteristics. These findings shall be supported by substantial evidence in the record before or as part of the housing development project approval process.",
+    "(c) (1) A local agency shall not impose a land dedication requirement on a housing development pursuant to Section 66001 to widen a roadway if the land dedication requirement is for the purpose of mitigating vehicular traffic impacts, achieving an adopted traffic level of service related to vehicular traffic, or achieving a desired roadway width.",
+    "(2) Notwithstanding paragraph (1), a local agency may do any of the following:",
+    "(A) Impose a land dedication requirement on a housing development if both of the following conditions are met:",
+    "(i) The housing development is not located in a transit priority area.",
+    "(ii) The housing development has a linear street frontage of 500 feet or more.",
+    "(B) Discretionarily impose a land dedication requirement as a condition of approval of a specific housing development project for traffic safety features if the local agency makes a finding, specific to the housing development project and supported by substantial evidence, that the land dedication requirement is necessary to preserve the health, safety, and welfare of the public, including pedestrians, cyclists, and children.",
+    "(C) Impose a land dedication requirement to construct public improvements, including, but not limited to, sidewalk and sewer improvements.",
+    "(d) For purposes of this section:",
+    "(1) “Housing development” means a development project with common ownership and financing consisting of residential use or mixed use where not less than 50 percent of the floorspace is for residential use.",
+    "(2) “Land dedication” means a physical exaction of property for public use without compensation, whether imposed on an ad hoc or legislative basis, that is charged by a local agency to the applicant in connection with approval of a development project for the purpose of defraying all or a portion of the cost of public facilities related to the development project.",
+    "(3) “Major transit stop” has the meaning as the term is defined in Section 21064.3 of the Public Resources Code, except that, for purposes of this section, it also includes major transit stops that are included in the applicable regional transportation plan. “Major transit stop” includes planned major transit stops otherwise meeting this definition whose construction is programmed to be completed before or within one year from the scheduled completion and occupancy of the housing development.",
+    "(4) “Roadway” means the same as defined in Section 530 of the Vehicle Code.",
+    "(5) “Transit priority area” means the same as defined in paragraph (7) of subdivision (a) of Section 21099 of the Public Resources Code."
+   ],
+   "sec": "66005.1",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Mitigation Fee Act: mitigating vehicular traffic impacts.",
+ "title": "An act to amend Section 66005.1 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-12",
+   "id": "20250SB35899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-01",
+   "id": "20250SB35898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-27",
+   "id": "20250SB35897AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-07",
+   "id": "20250SB35896AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-10",
+   "id": "20250SB35895ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB35894CHP",
+   "num": "94"
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rogers",
+   "primary": true
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hadwick",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alanis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bennett",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Petrie-Norris",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wallis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": false
+  }
+ ],
+ "bill": "AB1699",
+ "bill_id": "202520260AB1699",
+ "chapter": {
+  "num": "761",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law establishes, until January 1, 2028, the Prescribed Fire Liability Pilot Program, to be administered by the Department of Forestry and Fire Protection, to increase the pace and scale of the use of prescribed fire and cultural burning and to reduce barriers for conducting prescribed fires and cultural burning. Existing law creates the Prescribed Fire Claims Fund in the State Treasury to support coverage for losses from prescribed fires and cultural burning by nonpublic entities, such as cultural fire practitioners, private landowners, and nongovernmental entities. Under existing law, moneys in the fund are under the control of the department, and the department or a contracted third-party administrator is authorized to direct payments for claims from the fund, consistent with specified guidelines adopted by the department. These guidelines include, among other things, (1) a requirement that an eligible claim relate to either a prescribed fire conducted or supervised by a burn boss, as defined, or a cultural burn conducted or supervised by a cultural fire practitioner, and (2) a requirement that a claim shall not be paid from the fund unless the department reviewed and approved a burn plan before the prescribed fire or cultural burning. Existing law requires, upon order of the Department of Finance, the $20,000,000 appropriated to the Department of Forestry and Fire Protection by the Legislature in the Budget Act of 2021 be transferred into the fund, and provides that all moneys deposited or transferred into the fund be continuously appropriated to the department for these purposes.",
+  "By Executive Order N-35-25, Governor Gavin Newsom suspended the limitation on public and governmental agencies enrolling in the Prescribed Fire Liability Pilot Program to the extent that the limitation would prohibit resource conservation districts and volunteer fire departments or districts from such enrollment.",
+  "This bill would establish the Good Fire Act, which would indefinitely extend the Prescribed Fire Liability Program. The bill would explicitly state that the Prescribed Fire Claims Fund shall support coverage for losses from prescribed fires and cultural burning on any lands within the state. The bill would also expand program eligibility by changing the entities who may receive coverage for losses from prescribed fires and cultural burning from nonpublic entities to individuals and entities other than the department or the federal government, as provided. By extending the term of a continuous appropriation and authorizing the expenditure of continuously appropriated funds for new purposes, the bill would make an appropriation.",
+  "This bill would eliminate the requirement for department approval for a plan reviewed and approved by a burn boss, and would require a burn plan to be submitted to the claims fund portal before ignition. The bill would also require the guidelines to include methods for prioritizing broadcast burns and burns by non-public individuals or entities or California Native American tribes in the event the fund is oversubscribed. Within one year of a claim being paid from the fund, the bill would require the department to submit a report to the Legislature regarding the claim process and propose statutory changes related to the fund, as provided.",
+  "Existing law requires the State Fire Marshal, with the involvement of the Statewide Training and Education Advisory Committee, to develop a curriculum for, or amend into an existing curriculum, a certification program for burn bosses who possess authority to engage in a prescribed burning operation and to enter into the necessary contracts related to a prescribed burning operation. Existing law requires this curriculum to provide for the initial certification as well as the continuing education of burn bosses. Under existing law, specified civil liability protections and eligibility for claims from the Prescribed Fire Claims Fund extend to prescribed burns that, among other things, are reviewed and approved by a burn boss certified pursuant to these provisions, as provided.",
+  "This bill would require, as part of the continuing education of burn bosses, the State Fire Marshal to require recertification no sooner than every 3 years. The bill would also require the department to consider methods to increase the pool of available instructors for the certification program, including the use of non-department instructors. The bill would require the department, in consultation with the Statewide Training and Education Advisory Committee, to develop a mechanism to allow specified individuals to be designated as a burn boss. The bill would authorize these individuals certified pursuant to this process to use the above-described recertification process to maintain currency.",
+  "Existing law authorizes an entity that owns or controls brush-covered land, forest lands, woodland, grassland, shrubland, or a combination of those types of land within a state responsibility area to apply to the Department of Forestry and Fire Protection for permission to use prescribed burning for certain public purposes. Existing law requires the department, upon receipt of an application, to inspect the land in company with the applicant to determine whether a permit shall be granted, as provided.",
+  "By Executive Order N-35-25, Governor Gavin Newsom suspended the above-described requirement that the department conduct a site visit or inspection before issuing a state burn permit for projects undertaken by burn bosses or cultural fire practitioners.",
+  "This bill would authorize the department to waive the inspection requirement or modify the standard precautions for an application submitted by specified individuals.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "Existing law exempts from CEQA specified wildfire risk reduction projects, including, among other projects, projects consisting of a prescribed fire or fuel reduction to reduce wildfire risk by reestablishing the fire return interval appropriate to the ecosystem for biodiversity or other benefits, excluding projects located on coastal sage scrub habitat or any other sensitive habitat.",
+  "By Executive Order N-35-25, Governor Gavin Newsom suspended the requirements of CEQA as applied to the Department of Forestry and Fire Protection to the extent necessary for the department to assist local agencies and beneficial fire practitioners to complete beneficial fire projects that limit dangerous wildfire conditions to the greatest extent feasible.",
+  "This bill would exempt from CEQA those actions taken by the department to assist in the implementation of prescribed fire or cultural burning projects that do not otherwise require compliance with CEQA.",
+  "Existing law establishes various grant programs for purposes of wildfire prevention.",
+  "This bill would require a state agency, department, board, or commission that has awarded grant funds for a project that includes the preparation for, or implementation of, a beneficial fire project to include as an allowable expense of the grant the payment of overtime or double rates of pay to employees or contractors who prepare for or implement the beneficial fire project when such expenses are necessary for the implementation of the beneficial fire project.",
+  "Existing law authorizes the Director of Forestry and Fire Protection to provide grants to, or enter contracts or other cooperative agreements with, specified entities for the implementation and administration of projects and programs to improve forest health and reduce greenhouse gas emissions. Existing law authorizes the director to authorize advance payments and requires grantees who receive advance payments to file an accountability report with the department 4 months from the date of receiving the funds and every 4 months thereafter.",
+  "This bill would instead require grantees who receive advance payments to file an accountability report within 6 months from the date of receiving the funds and every 6 months thereafter.",
+  "This bill would incorporate additional changes to Section 4799.05 of the Public Resources Code proposed by AB 2513 to be operative only if this bill and AB 2513 are enacted and this bill is enacted last.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "94b48dc11204aa32",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-03"
+  },
+  {
+   "action": "From printer. May be heard in committee March 6.",
+   "date": "2026-02-04"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and E.M.",
+   "date": "2026-03-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.M with recommendation: To Consent Calendar. (Ayes 14. Noes 0.) (March 23). Re-referred to Com. on E.M.",
+   "date": "2026-03-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 5. Noes 0.) (April 13). Re-referred to Com. on APPR.",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time and amended. Ordered to third reading. (Page 5141.)",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 76. Noes 0. Page 5256.)",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "Referred to Coms. on N.R. & W. and E.M.",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on N.R. & W.",
+   "date": "2026-06-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.M. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (June 23). Re-referred to Com. on E.M.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E.M.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 8. Noes 0.) (June 30). Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0. Page 6913.).",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 1 p.m.",
+   "date": "2026-09-09"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 761, Statutes of 2026.",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250AB169993CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21080.49.1 is added to the Public Resources Code , immediately following Section 21080.49 , to read:",
+   "code": "PRC",
+   "paras": [
+    "This division does not apply to actions taken by the Department of Forestry and Fire Protection to assist in the implementation of prescribed fire or cultural burning projects that do not otherwise require compliance with this division."
+   ],
+   "sec": "21080.49.1",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Good Fire Act: Prescribed Fire Liability Pilot Program: burn bosses: California Environmental Quality Act.",
+ "title": "An act to amend Sections 4477, 4493, 4500, and 4799.05 of, to add Sections 4497.3 and 21080.49.1 to, and to repeal and add Section 4503 of, the Public Resources Code, relating to wildfire, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-03",
+   "id": "20250AB169999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-18",
+   "id": "20250AB169998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-16",
+   "id": "20250AB169997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-25",
+   "id": "20250AB169996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-20",
+   "id": "20250AB169995AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-03",
+   "id": "20250AB169994ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250AB169993CHP",
+   "num": "93"
+  }
+ ]
+}

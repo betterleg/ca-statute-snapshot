@@ -1,0 +1,216 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": true
+  }
+ ],
+ "bill": "AB712",
+ "bill_id": "202520260AB712",
+ "chapter": {
+  "num": "496",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law within the Planning and Zoning Law describes various reforms and incentives enacted by the Legislature to facilitate and expedite the construction of affordable housing. Existing law within the Planning and Zoning Law, in certain civil actions or proceedings against a public entity that has issued specified approvals for a housing development, authorizes a court to award all reasonably incurred costs of suit to a prevailing public entity or nonprofit housing corporation that is a real party in interest and the permit applicant of the low- or moderate-income housing if the court makes specified findings.",
+  "This bill, where the applicant for a housing development is a prevailing party in an action brought by the applicant to enforce the public agency’s compliance with a housing reform law as applied to the applicant’s housing development project, would entitle an applicant for a housing development project to reasonable attorney’s fees and costs and would require a court to impose fines on a local agency, as specified. The bill would extend any period of limitation for actions under any state law for a period of 60 days beginning on the date the applicant provides written notice to the local agency indicating its intent to commence an action. The bill would prohibit a public agency from requiring the applicant to indemnify, defend, or hold harmless the public agency in any action alleging the public agency violated the applicant’s rights or deprived the applicant of the benefits or protection provide by a housing reform law. The bill would define housing reform law as a law that establishes or facilitates protections for the benefit of applicants for housing development projects or imposes limitations on a public agency for the benefit of housing development projects."
+ ],
+ "hash": "4f2516f690073837",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-14"
+  },
+  {
+   "action": "From printer. May be heard in committee March 17.",
+   "date": "2025-02-15"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and JUD.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-03-11"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 11. Noes 0.) (April 9). Re-referred to Com. on JUD.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on JUD.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2025-04-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 0.) (April 30).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Read third time and amended. Ordered to third reading. (Page 1436.)",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 64. Noes 2. Page 1512.)",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-13"
+  },
+  {
+   "action": "Referred to Coms. on HOUSING and JUD.",
+   "date": "2025-05-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on JUD. (Ayes 10. Noes 1.) (July 1).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on JUD.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (July 15). Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 35. Noes 2. Page 2462.).",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 64. Noes 2. Page 2932.).",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 496, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250AB71293CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65914.2 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) It is the intent of the Legislature in enacting this section to do both of the following:",
+    "(1) Establish minimum uniform, transparent, fair, and effective remedies against public agencies that are found by a court of law to have violated housing reform laws.",
+    "(2) Prevent public agencies from undermining these minimum uniform, transparent, fair, and effective remedies through the imposition of reimbursement and indemnification agreements on applicants for housing development approvals with respect to legal challenges involving the agency’s own alleged violation of housing reform laws.",
+    "(b) Notwithstanding any other law, and in addition to any other available remedies, in any action brought by the applicant for a housing development project against a public agency to enforce the public agency’s compliance with a housing reform law as applied to the applicant’s housing development project, where the applicant is the prevailing party, the following shall apply:",
+    "(1) The applicant shall be entitled to reasonable attorney’s fees and costs.",
+    "(2) (A) In the case of an action against a public agency that is a local agency:",
+    "(i) (I) If the local agency was advised in writing prior to the commencement of the action by either the Attorney General or the Department of Housing and Community Development that the local agency’s decision, action, or inaction would represent a violation of a specific housing reform law in substantially the same manner as alleged by the applicant in its lawsuit, the court shall, consistent with subclause (II), impose a fine in an amount not less than the minimum fines described in subparagraph (B) of paragraph (1) of subdivision (k) of Section 65589.5, unless the housing development projects consists of four or fewer units, in which case, the court shall impose a fine in an amount not less than fifty thousand dollars ($50,000) per violation.",
+    "(II) The court shall not impose the fine described in subclause (I) unless, after the Attorney General or Department of Housing and Community Development sends the written communication to the local agency, the applicant provides written notice to the local agency of its intent to commence an action. The notice shall identify the factual elements of the dispute and the legal theory forming the basis for the allegation that the local agency’s decision, action, or inaction violated the housing reform law. The notice shall be provided to the local agency at least 60 days before commencement of the action.",
+    "(III) For any action commenced or intended to be commenced under this section, any period of limitation for actions under any California law shall be extended for a period of 60 days beginning on the date the applicant provides written notice, pursuant to subclause (II), to the local agency indicating its intent to commence an action.",
+    "(ii) (I) If a court has previously found that the local agency violated the same housing reform law on which an applicant prevailed in its lawsuit, within the same planning period, the court shall impose a fine in an amount not less than the minimum fines described in clause (i) multiplied by a factor of five.",
+    "(II) For the purpose of imposing a fine under subclause (I), any subsequent violation of the same housing reform law shall be considered to have occurred within the same planning period if the local agency does not have a housing element considered to be in substantial compliance, as described in Section 65585.03.",
+    "(B) Notwithstanding Chapter 2 (commencing with Section 910) of Part 3 of Division 3.6 of Title 1, the applicant shall not be required to present a claim to seek the fine described in subparagraph (A).",
+    "(C) Nothing in this subdivision limits the application of Section 1021.5 of the Code of Civil Procedure or limits the availability of fees to a successful party under that section.",
+    "(c) (1) A public agency shall not require an applicant for a housing development project to indemnify, defend, or hold harmless the public agency in any manner with respect to an action brought by the applicant, or any other person, alleging that the public agency violated the applicant’s rights or deprived the applicant of the benefits or protections provided by a housing reform law.",
+    "(2) A requirement, condition of approval, or agreement in violation of paragraph (1) is against public policy and void and unenforceable.",
+    "(3) This subdivision shall not be construed to derogate any claim that a requirement as described in paragraph (1) is or was unlawful under previously existing law.",
+    "(d) For purposes of this section:",
+    "(1) “Housing development project” has the same meaning as provided in paragraph (3) of subdivision (b) of Section 65905.5.",
+    "(2) “Housing reform law” means any law or regulation, or provision of any law or regulation, that establishes or facilitates rights, safeguards, streamlining benefits, time limitations, or other protections for the benefit of applicants for housing development projects, or restricts, proscribes, prohibits, or otherwise imposes any procedural or substantive limitation on a public agency for the benefit of a housing development project.",
+    "(3) “Local agency” has the same meaning as used in Section 65930.",
+    "(4) “Planning period” means the time period between the due date for one housing element and the due date for the next housing element for each revision according to the applicable schedule described in paragraphs (2) and (3) of subdivision (e) of Section 65588.",
+    "(5) “Public agency” has the same meaning as in Section 65932."
+   ],
+   "sec": "65914.2",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing reform laws: enforcement actions: fines and penalties.",
+ "title": "An act to add Section 65914.2 to the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-14",
+   "id": "20250AB71299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-10",
+   "id": "20250AB71298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB71297AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-05",
+   "id": "20250AB71296AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-03",
+   "id": "20250AB71295AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-08",
+   "id": "20250AB71294ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250AB71293CHP",
+   "num": "93"
+  }
+ ]
+}

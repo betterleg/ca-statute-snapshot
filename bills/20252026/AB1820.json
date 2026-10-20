@@ -1,0 +1,189 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schiavo",
+   "primary": true
+  }
+ ],
+ "bill": "AB1820",
+ "bill_id": "202520260AB1820",
+ "chapter": {
+  "num": "348",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law requires a city, county, or city and county to administratively approve an application to install an electric vehicle charging station through the issuance of a building permit or similar nondiscretionary permit, and requires every local government to adopt an ordinance that creates an expedited, streamlined permitting process for electric vehicle charging stations, as provided. Existing law defines “electric vehicle charging station” to mean any level of electric vehicle supply equipment station that is designed and built in compliance with specified provisions, and delivers electricity from a source outside an electric vehicle into a plug-in electric vehicle.",
+  "Existing law requires fees charged by a local agency for specified purposes, including permits, to not exceed the estimated reasonable cost of providing the service for which the fee is charged, unless a question regarding the amount of the fee charged in excess of this cost is submitted to, and approved by, 23 of the electors. Existing law, until January 1, 2034, prohibits a city, county, city or county, or charter city from charging a permit fee for a solar energy system that exceeds the estimated reasonable cost of providing the service for which the fee is charged, which cannot exceed $450 plus $15 per kilowatt for each kilowatt above 15kW for residential solar energy systems, and $1,000 plus $7 per kilowatt for each kilowatt between 51kW and 250kW, plus $5 for every kilowatt above 250kW, for commercial solar energy systems, unless the city, county, city and county, or charter city provides substantial evidence of the reasonable cost to issue the permit as part of a written finding and an adopted resolution or ordinance, as provided.",
+  "This bill, until January 1, 2036, would prohibit a city, county, city or county, or charter city from charging a permit fee for an electric vehicle charging station that exceeds the estimated reasonable cost of providing the service for which the fee is charged, which cannot exceed $500 plus $5 per kilowatt for each kilowatt between 51kW and 250kW, plus $2 for every kilowatt above 250kW, for a level 2 electric vehicle charging station installed at a new or existing multifamily housing development, unless the city, county, city and county, or charter city provides substantial evidence of the reasonable cost to issue the permit as part of a written finding and an adopted resolution or ordinance, as provided. The bill would make its provisions operative on July 1, 2027, but for every city, county, city and county, or charter city with a population of fewer than 200,000 residents, the provisions would apply beginning on January 1, 2028. By requiring local agencies to perform additional duties, the bill would impose a state-mandated local program.",
+  "This bill would make related findings and declarations.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "09d24f323936718f",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-10"
+  },
+  {
+   "action": "From printer. May be heard in committee March 13.",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2026-03-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 6. Noes 0.) (April 15). Re-referred to Com. on APPR.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 13. Noes 0.) (May 6).",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-07"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 72. Noes 0. Page 5290.)",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L. GOV.",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 2.) (July 1).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-04"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 27. Noes 10.).",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 71. Noes 1. Page 6405.).",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3:30 p.m.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-20"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 348, Statutes of 2026.",
+   "date": "2026-09-20"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-20",
+  "id": "20250AB182094CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Chapter 7.7 (commencing with Section 66015.5) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) A city, county, city and county, or charter city shall not charge a permit fee for an electric vehicle charging station that exceeds the estimated reasonable cost of providing the service for which the fee is charged. Except as provided in paragraph (2), that fee shall not exceed five hundred dollars ($500) plus five dollars ($5) per kilowatt for each kilowatt between 51kW and 250kW, plus two dollars ($2) for every kilowatt above 250kW, for a level 2 electric vehicle charging station installed at a new or existing multifamily housing development.",
+    "(2) Notwithstanding paragraph (1), a city, county, city and county, or charter city may charge a permit fee for an electric vehicle charging station that exceeds the fees specified in paragraph (1) if the city, county, city and county, or charter city, as part of a written finding and an adopted resolution or ordinance, provides substantial evidence of the reasonable cost to issue the permit.",
+    "(b) A written finding adopted pursuant to paragraph (2) of subdivision (a) shall include all of the following:",
+    "(1) A determination that the municipality has adopted appropriate ordinances, permit fees, and processes to streamline the submittal and approval of permits for electric vehicle charging stations pursuant to the practices and policies in state guidelines and model ordinances.",
+    "(2) A calculation related to the administrative cost of issuing an electric vehicle charging station permit.",
+    "(3) A description of how the higher fee will result in a quick and streamlined approval process.",
+    "(c) For purposes of this section, the following definitions apply:",
+    "(1) “Administrative costs” means the costs incurred in connection with the review, approval, and issuance of the permit, and the hourly site inspection and followup costs, and may also include an amortization of the costs incurred in connection with producing a written finding and adopting an ordinance or resolution pursuant to subdivision (a).",
+    "(2) “Electric vehicle charging station” has the same meaning as defined in Section 65850.7.",
+    "(3) “Permit fee” means the sum of all charges levied by a city, county, city and county, or charter city in connection with the application for an electric vehicle charging station that is installed on the property.",
+    "(d) This section shall become operative on July 1, 2027, but for every city, county, city and county, or charter city with a population of fewer than 200,000 residents, this section shall apply beginning on January 1, 2028.",
+    "(e) This chapter shall remain in effect only until January 1, 2036, and as of that date is repealed."
+   ],
+   "sec": "66015.5",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Electric vehicle charging stations: permit fees.",
+ "title": "An act to add and repeal Chapter 7.7 (commencing with Section 66015.5) of Division 1 of Title 7 of the Government Code, relating to local government.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-10",
+   "id": "20250AB182099INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-16",
+   "id": "20250AB182098AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-17",
+   "id": "20250AB182097AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-02",
+   "id": "20250AB182096AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-26",
+   "id": "20250AB182095ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-20",
+   "id": "20250AB182094CHP",
+   "num": "94"
+  }
+ ]
+}

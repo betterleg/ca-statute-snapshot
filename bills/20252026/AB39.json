@@ -1,0 +1,257 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Stern",
+   "primary": false
+  }
+ ],
+ "bill": "AB39",
+ "bill_id": "202520260AB39",
+ "chapter": {
+  "num": "356",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires a city or county to adopt a comprehensive general plan for the city’s or county’s physical development that includes various elements, including, among others, a land use element that designates the proposed general distribution and general location and extent of the uses of the land in specified categories, and a circulation element that identifies the location and extent of existing and proposed major thoroughfares, transportation routes, terminals, any military airports and ports, and other local public utilities and facilities, as specified.",
+  "This bill, the Local Electrification Planning Act, would require each city, county, or city and county, on or after January 1, 2027, but no later than January 1, 2030, to prepare and adopt a specified plan, or integrate a plan in the next adoption or revision of the general plan, that includes locally based goals, objectives, policies, and feasible implementation measures that include, among other things, the identification of opportunities to expand electric vehicle charging and other zero-emission vehicle fueling infrastructure, as specified, and includes policies and implementation measures that address the needs of disadvantaged communities, low-income households, and small businesses for equitable and prioritized investments in zero-emission technologies that directly benefit these groups. For these purposes, the bill would authorize a city, county, or city and county to designate a previously adopted similar plan that meets the above-described requirements, as specified. By increasing the duties of local public officials, the bill would establish a state-mandated local program.",
+  "The bill would deem a plan adopted pursuant to these provisions as a regional plan for specified purposes. The bill would require that the above-described provisions only apply to a city, county, or city and county with a population greater than 75,000 residents. The bill would define terms for these purposes.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "0c2c1f6d5962a2fc",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2024-12-02"
+  },
+  {
+   "action": "From printer. May be heard in committee January 2.",
+   "date": "2024-12-03"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2025-02-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-02-25"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-02-26"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on U. & E. (Ayes 10. Noes 0.) (April 9). Re-referred to Com. on U. & E.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on U. & E. Read second time and amended.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Re-referred to Com. on U. & E.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 16. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 3.) (May 21).",
+   "date": "2025-05-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-22"
+  },
+  {
+   "action": "Read third time and amended. Ordered to third reading. (Page 1745.)",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 65. Noes 10. Page 2022.)",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and E., U & C.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on E., U & C. (Ayes 5. Noes 2.) (July 2).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on E., U & C.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 4.) (July 15).",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 10. Page 2670.).",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 65. Noes 10. Page 3283.).",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2025-09-23"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-06"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 356, Statutes of 2025.",
+   "date": "2025-10-06"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-06",
+  "id": "20250AB3991CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65302.13 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) On or after January 1, 2027, but no later than January 1, 2030, each city, county, or city and county shall prepare and adopt an electrification plan, decarbonization plan, community energy plan, or other similar plan, or integrate a plan into the next adoption or revision of the city’s, county’s, or city and county’s general plan, that includes all of the following:",
+    "(1) Locally based goals, objectives, policies, and feasible implementation measures that include, but are not limited to, the following components:",
+    "(A) Identification of opportunities to expand electric vehicle charging and other zero-emission vehicle fueling infrastructure to meet the needs of the city’s, county’s, or city and county’s current and future visitors, residents, and businesses, including, but not limited to, removal of any barriers to expanding electric vehicle charging and other zero-emission vehicle refueling.",
+    "(B) Identification of opportunities to expand electric vehicle charging in residential, retail, and commercial parking lots and structures, and on public streets, including, but not limited to, consideration of the creation of public electric charging corridors on public streets, to the extent necessary to meet the needs of the city’s, county’s, or city and county’s current and future visitors, residents, businesses, disadvantaged communities, and low-income households.",
+    "(C) (i) Identification of strategies for the public electrification and decarbonization of new and existing buildings, including consideration of incentivizing and subsidizing property owners and low-income households and removing any barriers to support this transition.",
+    "(ii) This subparagraph shall not be construed to require a city, county, or city and county to include in a plan adopted or integrated pursuant to this section any building code requirements to the extent prohibited by state or federal law.",
+    "(D) Identification of opportunities to expand zero-emission and renewable distributed energy resources to increase clean energy generation and local energy reliability, including, but not limited to, rooftop solar, community solar, microgrid, and battery storage technologies.",
+    "(E) Identification of areas where infrastructure may be needed and strategies to meet the existing and projected needs of public and private medium- and heavy-duty zero-emission vehicle fleets operating within the city, county, or city and county.",
+    "(F) In coordination with the corresponding local publicly owned electric utilities, electrical corporations, and, if applicable, other corresponding load-serving entities, identification of areas where grid infrastructure upgrades are needed to meet the transportation, decarbonization, and building electrification needs of visitors, residents, businesses, and governmental entities within the city, county, or city and county.",
+    "(2) Policies or implementation measures that address the needs of disadvantaged communities, low-income households, and small businesses for equitable and prioritized investments in zero-emission technologies that directly benefit these groups.",
+    "(b) (1) If a city, county, or city and county has already adopted a similar plan, apart from the general plan, that meets the requirements of this section, the city, county, or city and county may designate that plan to comply with this section.",
+    "(2) If the general plan has provisions in existing elements that meet the requirements of this section, the city, county, or city and county may use those provisions to comply with this section.",
+    "(c) The requirements of this section shall only apply to a city, county, or city and county with a population greater than 75,000 residents.",
+    "(d) A plan adopted pursuant to, or designated to comply with, this section shall be deemed a regional plan for purposes of Section 15125 of Title 14 of the California Code of Regulations.",
+    "(e) For purposes of this section, the following definitions shall apply:",
+    "(1) “Decarbonization” does not include either of the following:",
+    "(A) Any building code requirements, except as specified in subparagraph (C) of paragraph (1) of subdivision (a).",
+    "(B) Any building material requirements.",
+    "(2) “Disadvantaged communities” means an area identified by the California Environmental Protection Agency pursuant to Section 39711 of the Health and Safety Code, or an area that is a low-income community, as defined in paragraph (2) of subdivision (d) of Section 39713 of the Health and Safety Code.",
+    "(3) “Electrical corporation” has the same meaning as in Section 218 of the Public Utilities Code.",
+    "(4) “Load-serving entity” has the same meaning as defined in subdivision (k) of Section 380 of the Public Utilities Code.",
+    "(5) “Local publicly owned electric utility” has the same meaning as in Section 224.3 of the Public Utilities Code.",
+    "(6) “Low-income households” means households of persons and families of very low and low income, as defined in Sections 50093 and 50105 of the Health and Safety Code."
+   ],
+   "sec": "65302.13",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "General plans: Local Electrification Planning Act.",
+ "title": "An act to add Section 65302.13 to the Government Code, relating to local government.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2024-12-02",
+   "id": "20250AB3999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-02-25",
+   "id": "20250AB3998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-24",
+   "id": "20250AB3997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-27",
+   "id": "20250AB3996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-03",
+   "id": "20250AB3995AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-17",
+   "id": "20250AB3994AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-04",
+   "id": "20250AB3993AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-15",
+   "id": "20250AB3992ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-06",
+   "id": "20250AB3991CHP",
+   "num": "91"
+  }
+ ]
+}

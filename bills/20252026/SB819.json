@@ -1,0 +1,121 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Padilla",
+   "primary": true
+  }
+ ],
+ "bill": "SB819",
+ "bill_id": "202520260SB819",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA makes various legislative findings and declarations regarding the maintenance of a quality environment for the people of this state and states the intent of the Legislature for state agencies to regulate activities so that major consideration is given to preventing environmental damage.",
+  "This bill would make nonsubstantive changes to those findings and declarations and to the statement of intent."
+ ],
+ "hash": "340228a3c142770a",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "Re-referred to Com. on E.Q.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 23.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0. Page 867.) (April 23). Re-referred to Com. on APPR.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Set for hearing May 5.",
+   "date": "2025-04-25"
+  },
+  {
+   "action": "May 5 hearing: Placed on APPR. suspense file.",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "date": "2025-05-16"
+  },
+  {
+   "action": "May 23 hearing: Held in committee and under submission.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-03-26",
+  "id": "20250SB81998AMD",
+  "num": "98"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 21000 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "The Legislature finds and declares as follows:",
+    "(a) The maintenance of a quality environment for the people of this state now and in the future is a matter of statewide concern.",
+    "(b) It is necessary to provide a high-quality environment that at all times is healthful and pleasing to the senses and intellect of people.",
+    "(c) There is a need to understand the relationship between the maintenance of high-quality ecological systems and the general welfare of the people of the state, including their enjoyment of the natural resources of the state.",
+    "(d) The capacity of the environment is limited, and it is the intent of the Legislature that the government of the state take immediate steps to identify critical thresholds for the health and safety of the people of the state and take all coordinated actions necessary to prevent those thresholds being reached.",
+    "(e) Every citizen has a responsibility to contribute to the preservation and enhancement of the environment.",
+    "(f) The interrelationship of policies and practices in the management of natural resources and waste disposal requires systematic and concerted efforts by public and private interests to enhance environmental quality and to control environmental pollution.",
+    "(g) It is the intent of the Legislature that all agencies of the state government that regulate activities of private individuals, corporations, and public agencies that are found to affect the quality of the environment shall regulate those activities so that major consideration is given to preventing environmental damage, while providing a decent home and satisfying living environment for all Californians."
+   ],
+   "sec": "21000",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Geothermal waste: exemption from generation and handling fees: study.",
+ "title": "An act to amend Section 21000 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB81999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-26",
+   "id": "20250SB81998AMD",
+   "num": "98"
+  }
+ ]
+}

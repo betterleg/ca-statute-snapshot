@@ -1,0 +1,124 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ávila Farías",
+   "primary": true
+  }
+ ],
+ "bill": "AB874",
+ "bill_id": "202520260AB874",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Mitigation Fee Act, imposes certain requirements on a local agency that imposes a fee as a condition of approval of a development project that is imposed to provide for an improvement to be constructed to serve the development project, or a fee for public improvements, as specified. The act also regulates fees for development projects and fees for specific purposes, including water and sewer connection fees, among others. The act, among other things, requires local agencies to comply with various conditions when imposing fees, extractions, or charges as a condition of approval of a proposed development or development project. The act prohibits a local agency that imposes fees or charges on a residential development for the construction of public improvements or facilities from requiring the payment of those fees or charges until the date of the final inspection or the date the certificate of occupancy is issued, whichever occurs first, except for utility service fees, as provided.",
+  "This bill would require a local agency to provide a qualified residential rental project, as defined, with the option of either or both (1) development impact fees set at a rate of $0 or (2) a development impact fee deferral agreement loan, subject to certain requirements. The bill would also require a local agency to provide a qualified residential ownership project, as defined, with the option of either or both (1) development impact fees set at a rate of $0 or (2) a development impact fee deferral agreement loan for each income-qualified homebuyer, subject to certain requirements. The bill would define “development impact fee” for these purposes to mean a fee collected by a local agency to fund the construction of public improvements or facilities, with certain exceptions."
+ ],
+ "hash": "ad5e16a3667cbd20",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Re-referred to Coms. on H. & C.D. and L. GOV. pursuant to Assembly Rule 96.",
+   "date": "2026-01-05"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 3717.)",
+   "date": "2026-01-08"
+  },
+  {
+   "action": "(Pending re-refer to Com. on L. GOV.)",
+   "date": "2026-01-08"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+   "date": "2026-01-31"
+  },
+  {
+   "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2026-01-05",
+  "id": "20250AB87498AMD",
+  "num": "98"
+ },
+ "location": "CX10",
+ "sections": [
+  {
+   "action": "Section 66007.5 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding Section 66007, a local agency shall provide one or both of the following options to qualified residential rental projects with regard to development impact fees:",
+    "(1) Set development impact fees at a rate of zero dollars ($0).",
+    "(2) Provide a development impact fee deferral agreement loan that requires, at the most restrictive, the following:",
+    "(A) A loan amount equal to the total development impact fees charged by the local agency for the project.",
+    "(B) A simple interest rate of 3 percent or lower per annum on the unpaid principal balance of the loan during the duration of the loan term.",
+    "(C) A term of 55 years, with the loan balance due at the maturity of the loan.",
+    "(D) Repayment during the loan term through residual receipts that shall be calculated using a residual receipts methodology that is substantially consistent with the Department of Housing and Community Development’s Uniform Multifamily Regulations (Subchapter 19 (commencing with Section 8300) of Chapter 7 of Division 1 of Title 25 of the California Code of Regulations) or successor regulations.",
+    "(b) Notwithstanding Section 66007, a local agency shall provide one or both of the following options to qualified residential ownership projects with regard to development impact fees:",
+    "(1) Set development impact fees at a rate of zero dollars ($0).",
+    "(2) Provide a development impact fee deferral agreement loan for each income-qualified homebuyer that requires, at the most restrictive the following:",
+    "(A) A loan amount equal to the total development impact fees charged by the local agency for the project divided by the number residential units in the project.",
+    "(B) A term of 30 years, with the loan balance due upon the earlier of 30 years or upon resale of the home.",
+    "(C) A simple interest rate of 3 percent or lower per annum on the unpaid principal balance during the duration of the loan term.",
+    "(c) As used in this section, the following terms have the following meanings:",
+    "(1) (A) “Development impact fee” means a fee collected by a local agency to fund the construction of public improvements or facilities.",
+    "(B) “Development impact fee” does not include either of the following:",
+    "(i) A fee collected to cover the cost of code enforcement, inspection services or other fees collected to pay for the cost of enforcement of local ordinances or state law.",
+    "(ii) A fee or charge levied pursuant to Chapter 6 (commencing with Section 17620) of Part 10.5 of Division 1 of Title 1 of the Education Code.",
+    "(2) “Qualified residential ownership project” means a for-sale residential development proposed by a housing developer in which 100 percent of the total units will be reserved for sale to lower income households, as defined in Section 50079.5 of the Health and Safety Code, or moderate-income households, as defined in Section 50093 of the Health and Safety Code, at an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code.",
+    "(3) “Qualified residential rental project” means a residential development proposed by a housing developer in which 100 percent of the total units, exclusive of manager units, will be reserved for occupancy by lower income households, as defined in Section 50079.5 of the Health and Safety Code, at an affordable rent, as defined in Section 50053 of the Health and Safety Code."
+   ],
+   "sec": "66007.5",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Mitigation Fee Act: development impact fees: qualified residential ownership and qualified rental projects.",
+ "title": "An act to add Section 66007.5 to the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB87499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-01-05",
+   "id": "20250AB87498AMD",
+   "num": "98"
+  }
+ ]
+}

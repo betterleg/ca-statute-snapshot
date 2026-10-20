@@ -1,0 +1,89 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Valladares",
+   "primary": true
+  }
+ ],
+ "bill": "SB252",
+ "bill_id": "202520260SB252",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would exempt from the provisions of CEQA a project to underground powerlines. Because a lead agency would be required to determine if a project qualifies for this exemption, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "52261766759576ca",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-03"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 6.",
+   "date": "2025-02-04"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and E., U & C.",
+   "date": "2025-02-14"
+  },
+  {
+   "action": "Set for hearing March 19.",
+   "date": "2025-03-07"
+  },
+  {
+   "action": "March 19 set for first hearing canceled at the request of author.",
+   "date": "2025-03-11"
+  },
+  {
+   "action": "Set for hearing April 2.",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "April 2 set for second hearing canceled at the request of author.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2025-02-03",
+  "id": "20250SB25299INT",
+  "num": "99"
+ },
+ "location": "CS64",
+ "sections": [
+  {
+   "action": "Section 21080.08 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "This division does not apply to a project to underground powerlines."
+   ],
+   "sec": "21080.08",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "California Environmental Quality Act: exemption: undergrounding powerlines.",
+ "title": "An act to add Section 21080.08 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-03",
+   "id": "20250SB25299INT",
+   "num": "99"
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Blanca Rubio",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ward",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  }
+ ],
+ "bill": "AB1007",
+ "bill_id": "202520260AB1007",
+ "chapter": {
+  "num": "502",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Permit Streamlining Act, requires a public agency that is the lead agency for a development project to approve or disapprove a development project within specified time periods. The act requires a public agency that is a responsible agency for specified development projects to approve or disapprove the project within 90 days of the date on which the lead agency has approved the project or within 90 days of the date on which the completed application has been received and accepted as complete by the lead agency, whichever is longer.",
+  "This bill would reduce the time period that a responsible agency is required to approve or disapprove a project, as described above, from 90 days to 45 days, except as provided. By increasing the duties of local officials, this bill would impose a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "03fde49910fa0805",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 10. Noes 0.) (April 9). Re-referred to Com. on H. & C.D.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "From committee: Do pass. To Consent Calendar. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 71. Noes 0. Page 1663.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (July 2). Re-referred to Com. on APPR.",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2025-07-14"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2933.).",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 80. Noes 0. Page 3385.).",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2025-09-24"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 502, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250AB100794CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65952 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Except as provided in subdivision (b), a public agency that is a responsible agency for a development project that has been approved by the lead agency shall approve or disapprove the development project within whichever of the following periods of time is longer:",
+    "(1) Within 180 days from the date on which the lead agency has approved the project.",
+    "(2) Within 180 days of the date on which the completed application for the development project has been received and accepted as complete by that responsible agency.",
+    "(b) Except as provided in subdivision (c), a public agency that is a responsible agency for a development project described in paragraph (2) or (3) of subdivision (a) of Section 65950 that has been approved by the lead agency shall approve or disapprove the development project within whichever of the following periods of time is longer:",
+    "(1) Within 45 days from the date on which the lead agency has approved the project.",
+    "(2) Within 45 days of the date on which the completed application for the development project has been received and accepted as complete by that responsible agency.",
+    "(c) (1) Where a responsible agency is either the California Coastal Commission or the San Francisco Bay Conservation and Development Commission for a development project described in paragraph (2) or (3) of subdivision (a) of Section 65950 that has been approved by the lead agency, that responsible agency shall approve or disapprove the development project within whichever of the following periods of time is longer:",
+    "(A) Within 90 days from the date on which the lead agency has approved the project.",
+    "(B) Within 90 days of the date on which the completed application for the development project has been received and accepted as complete by that responsible agency.",
+    "(2) Where the responsible agency is the State Water Resources Control Board or a California Regional Water Quality Control Board for a development project described in paragraph (2) or (3) of subdivision (a) of Section 65950 that has been approved by the lead agency, and the approval being sought from the responsible agency is either an individual waste discharge requirement or any certificate or statement required by any federal agency pursuant to the Federal Water Pollution Control Act (33 U.S.C. Sec. 1251 et seq.) or any other federal water quality control law, that responsible agency shall approve or disapprove the development project within whichever of the following periods of time is longer:",
+    "(A) Within 90 days from the date on which the lead agency has approved the project.",
+    "(B) Within 90 days of the date on which the completed application for the development project has been received and accepted as complete by that responsible agency.",
+    "(d) At the time a decision by a lead agency to disapprove a development project becomes final, applications for that project which are filed with responsible agencies shall be deemed withdrawn."
+   ],
+   "sec": "65952",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Land use: development project review.",
+ "title": "An act to amend Section 65952 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB100799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB100798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-08-29",
+   "id": "20250AB100797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-05",
+   "id": "20250AB100796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-16",
+   "id": "20250AB100795ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250AB100794CHP",
+   "num": "94"
+  }
+ ]
+}

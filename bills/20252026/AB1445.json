@@ -1,0 +1,245 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Kalra",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lee",
+   "primary": false
+  }
+ ],
+ "bill": "AB1445",
+ "bill_id": "202520260AB1445",
+ "chapter": {
+  "num": "642",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Affordable Housing and High Road Jobs Act of 2022, until January 1, 2033, establishes a streamlined development process for affordable housing developments that meet specified objective standards and affordability and site criteria.",
+  "This bill would make a nonsubstantive change to those provisions."
+ ],
+ "hash": "5ffb81a87f0ee08d",
+ "history": [
+  {
+   "action": "Introduced. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be heard in committee March 24.",
+   "date": "2025-02-22"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "date": "2025-03-28"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2025-03-28"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2025-04-01"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-04-01"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1163.)",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "(Pending re-refer to Com. on H. & C. D.)",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on H. & C.D. (Ayes 9. Noes 0.) (April 23).",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-04-29"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2025-04-29"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-05-07"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 11. Noes 0.) (May 7).",
+   "date": "2025-05-07"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-08"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 63. Noes 0. Page 1649.)",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and HOUSING.",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on HOUSING. (Ayes 5. Noes 0.) (July 2).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 8. Noes 1.) (July 15).",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "In committee: Referred to suspense file.",
+   "date": "2025-08-18"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 5. Noes 0.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 28. Noes 0. Page 2813.).",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 69. Noes 5. Page 3311.).",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2025-09-23"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-11"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 642, Statutes of 2025.",
+   "date": "2025-10-11"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-11",
+  "id": "20250AB144592CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65912.100 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "This chapter shall be known and may be cited as the Affordable Housing and High Road Jobs Act of 2022."
+   ],
+   "sec": "65912.100",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Downtown revitalization and economic recovery financing districts.",
+ "title": "An act to amend Section 65912.100 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250AB144599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-28",
+   "id": "20250AB144598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-28",
+   "id": "20250AB144597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-03",
+   "id": "20250AB144596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-17",
+   "id": "20250AB144595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-05",
+   "id": "20250AB144594AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-15",
+   "id": "20250AB144593ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-11",
+   "id": "20250AB144592CHP",
+   "num": "92"
+  }
+ ]
+}

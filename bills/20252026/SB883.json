@@ -1,0 +1,271 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Umberg",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bennett",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "primary": false
+  }
+ ],
+ "bill": "SB883",
+ "bill_id": "202520260SB883",
+ "chapter": {
+  "num": "658",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law requires the Secretary for Environmental Protection to implement a unified hazardous waste and hazardous materials management regulatory program, known as the unified program. Existing law requires every county to apply to the secretary to be certified to implement the unified program, and authorizes a city or local agency that meets specified requirements to apply to the secretary to be certified to implement the unified program, as a certified unified program agency. Existing law authorizes a state or local agency that has a written agreement with a certified unified program agency, and is approved by the secretary, to implement or enforce one or more of the unified program elements as a participating agency. Existing law requires the certified unified program agency in each jurisdiction, in conjunction with participating agencies, to develop and implement a single, unified inspection and enforcement program to ensure coordinated, efficient, and effective enforcement of the unified program and any local ordinance or regulation pertaining to the handling of hazardous waste or hazardous materials. Existing law requires the secretary to establish a statewide information management system capable of receiving all data collected by the unified program agencies and reported by regulated businesses and to make all nonconfidential data available on the internet.",
+  "This bill would prohibit a city or county, or city and county, from approving a building permit for a new reactive chemical storage facility, as defined, with the potential for an explosion, including, but not limited to, due to thermal runaway reaction, that may cause injury or death, unless the proposed facility has a backup cooling system or other contingency system approved by the unified program agency and is not adjacent to a home. The bill would require a city council or county board of supervisors, before approving a building permit for that purpose, to provide the public with notice and the opportunity to comment. If a city or county, or city and county, approves a building permit for that purpose, the bill would require the city or county, or city and county, to notify the Office of Emergency Services and the Office of Environmental Health Hazard Assessment. The bill would make the approval of a building permit for certain reactive chemical storage facilities ineligible for a specified exemption from the California Environmental Quality Act. The bill would require a city, county, or city and county to include in the next revision of its emergency operations plan a specific designation for which emergency response department will serve as the lead agency for responding to hazardous materials incidents. By imposing additional requirements on cities and counties, the bill would impose a state-mandated local program. The bill would require the Office of Environmental Health Hazard Assessment to consider reactive chemical storage facilities as a factor in identifying disadvantaged communities for various purposes under existing law.",
+  "This bill would revise the requirement for the secretary to make available on the internet all nonconfidential data collected by the unified program agencies and reported by regulated businesses to specifically authorize the secretary to determine the form and manner of making that data available on the internet.",
+  "This bill would require the unified program agency in each jurisdiction to routinely conduct an inspection of each reactive chemical storage facility in its jurisdiction no less than once every 3 years. The bill would require the unified program agency to report the results of the inspection to the California Environmental Protection Agency, the Office of the State Fire Marshal, and the Office of Emergency Services. By imposing additional requirements on unified program agencies, the bill would impose a state-mandated local program.",
+  "(2) Existing law requires the California Environmental Protection Agency to obtain and maintain state delegation of, and to implement, the federal accidental release prevention program, with certain amendments specific to the state. Pursuant to these provisions, a stationary source, as defined, with a process that has a regulated substance present in more than a threshold quantity is required to prepare and submit to the United States Environmental Protection Agency and the unified program agency a risk management plan, unless the unified program agency makes a specified determination to exempt the stationary source from the program. Existing law imposes criminal penalties upon a stationary source that knowingly violates the requirements of the program.",
+  "This bill would expand the program’s definition of “regulated substance” to include methyl methacrylate and would require the California Environmental Protection Agency to adopt a state threshold quantity applicable to methyl methacrylate through regulation. By adding an additional substance to the program, the bill would expand the scope of a crime and impose a state-mandated local program. The bill would provide that a stationary source that stores or uses methyl methacrylate is not eligible for exemption from the program. Because the bill would make changes to provisions enforced by unified program agencies, the bill would impose a state-mandated local program.",
+  "(3) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(4) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for specified reasons.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "9ca4a2e2a8883597",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "From printer. May be acted upon on or after February 13.",
+   "date": "2026-01-14"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "Re-referred to Com. on JUD.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 14.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 12. Noes 0. Page 3867.) (April 14).",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 37. Noes 0. Page 4033.) Ordered to the Assembly.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Referred to Coms. on E.M and E.S & T.M.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "Pursuant to Assembly Rule 51.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.M.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "Assembly Rule 56 suspended.",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.S & T.M. (Ayes 4. Noes 2.) (June 29). Re-referred to Com. on E.S & T.M.",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 2.) (June 30).",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "August 5 set for first hearing. Placed on suspense file.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 13. Noes 2.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Joint Rule 61(b)(16) suspended. (Ayes 58. Noes 1. Page 6727.)",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 63. Noes 13. Page 6979.) Ordered to the Senate.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 38. Noes 0.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2026-09-09"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-27"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 658, Statutes of 2026.",
+   "date": "2026-09-27"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-27",
+  "id": "20250SB88391CHP",
+  "num": "91"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65850.21 is added to the Government Code , immediately following Section 65850.2 , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Unless all of the following conditions are satisfied, a city or county, or city and county, shall not approve a building permit for a new reactive chemical storage facility with the potential for an explosion, including, but not limited to, due to thermal runaway reaction, that may cause injury or death to any person outside the proposed facility’s property boundary:",
+    "(1) The proposed facility has a backup cooling system for the reactive chemical storage or other contingency system approved by the unified program agency.",
+    "(2) The application for the building permit demonstrates that the proposed facility is not adjacent to a home.",
+    "(3) The city council or county board of supervisors provides the public with notice and the opportunity to comment on the proposed facility.",
+    "(b) A city, county, or city and county shall include in the next revision of its emergency operations plan or equivalent document a specific designation for which emergency response department will serve as the lead agency for responding to hazardous materials incidents.",
+    "(c) If a city or county, or city and county, approves a building permit pursuant to subdivision (a), the city or county, or city and county, shall notify the Office of Emergency Services and the Office of Environmental Health Hazard Assessment.",
+    "(d) Neither of the following are eligible for the advanced manufacturing exemption from the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code) under paragraph (4) of subdivision (a) of Section 21080.69 of the Public Resources Code:",
+    "(1) The approval of a building permit for a new reactive chemical storage facility subject to regulation under Article 2 (commencing with Section 25531) of Chapter 6.95 of Division 20 of the Health and Safety Code in which methyl methacrylate will be present at or above the state threshold quantity adopted by the California Environmental Protection Agency.",
+    "(2) The approval of a building permit for the significant expansion or significant modification of an existing reactive chemical storage facility subject to regulation under Article 2 (commencing with Section 25531) of Chapter 6.95 of Division 20 of the Health and Safety Code in which methyl methacrylate is or will be present at or above the state threshold quantity adopted by the California Environmental Protection Agency.",
+    "(e) The Office of Environmental Health Hazard Assessment shall consider a facility described in subdivision (a) as a factor for purposes of Section 39711 of the Health and Safety Code.",
+    "(f) For purposes of this section, the following shall apply:",
+    "(1) “Explosion” shall be construed in accordance with its common and everyday meaning.",
+    "(2) “Reactive chemical storage facility” means a stationary source, as defined in Section 25532 of the Health and Safety Code, that has a process involving a reactive substance, except for facilities exempt from local building ordinances pursuant to subdivision (d) of Section 53091."
+   ],
+   "sec": "65850.21",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Hazardous materials: reactive chemicals: methyl methacrylate: facilities.",
+ "title": "An act to add Section 65850.21 to the Government Code, and to amend Sections 25404 and 25532 of, and to add Section 25404.7 to, the Health and Safety Code, relating to hazardous materials.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-01-13",
+   "id": "20250SB88399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-23",
+   "id": "20250SB88398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-18",
+   "id": "20250SB88397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-07-02",
+   "id": "20250SB88396AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-13",
+   "id": "20250SB88395AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-21",
+   "id": "20250SB88394AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-27",
+   "id": "20250SB88393AMD",
+   "num": "93"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-04",
+   "id": "20250SB88392ENR",
+   "num": "92"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-27",
+   "id": "20250SB88391CHP",
+   "num": "91"
+  }
+ ]
+}

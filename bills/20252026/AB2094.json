@@ -1,0 +1,131 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Harabedian",
+   "primary": true
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lee",
+   "primary": false
+  }
+ ],
+ "bill": "AB2094",
+ "bill_id": "202520260AB2094",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law, the Planning and Zoning Law, requires the legislative body of each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city and requires that the plan include, among other mandatory elements, a housing element.",
+  "Existing law states legislative findings and declarations regarding the need for affordable housing and the need to encourage development of new housing.",
+  "This bill would make nonsubstantive changes to those provisions."
+ ],
+ "hash": "c2435438572361b1",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be heard in committee March 21.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-03-17"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-04-02"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "In committee: Hearing postponed by committee.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2026-05-14"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2026-04-08",
+  "id": "20250AB209497AMD",
+  "num": "97"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Section 65913 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The Legislature finds and declares that a severe shortage of affordable housing exists, especially for persons and families of low and moderate income, and that an immediate need exists to encourage the development of new housing, not only through the provision of financial assistance, but also through changes in law designed to do all of the following:",
+    "(1) Expedite the local and state residential development process.",
+    "(2) Assure that local governments zone sufficient land at densities high enough for production of affordable housing.",
+    "(3) Assure that local governments make a diligent effort through the administration of land use and development controls and the provision of regulatory concessions and incentives to significantly reduce housing development costs and thereby facilitate the development of affordable housing, including housing for elderly persons and families, as defined by Section 50067 of the Health and Safety Code.",
+    "These changes in the law are consistent with the responsibility of local government to adopt the program required by subdivision (c) of Section 65583.",
+    "(b) The Legislature further finds and declares that the costs of new housing developments have been increased, in part, by the existing permit process and by existing land use regulations and that vitally needed housing developments have been halted or rendered infeasible despite the benefits to the public health, safety, and welfare of those developments and despite the absence of adverse environmental impacts. It is, therefore, necessary to enact this chapter and to amend existing statutes which govern housing development so as to provide greater encouragement for local and state governments to approve needed and sound housing developments."
+   ],
+   "sec": "65913",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Social Housing Strategy and Implementation Program.",
+ "title": "An act to amend Section 65913 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250AB209499INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-16",
+   "id": "20250AB209498AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-08",
+   "id": "20250AB209497AMD",
+   "num": "97"
+  }
+ ]
+}

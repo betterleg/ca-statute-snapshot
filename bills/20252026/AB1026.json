@@ -1,0 +1,270 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wilson",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Haney",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  }
+ ],
+ "bill": "AB1026",
+ "bill_id": "202520260AB1026",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law relating to housing development approval requires a local agency to compile a list of information needed to approve or deny a postentitlement phase permit, to post an example of a complete, approved application and an example of a complete set of postentitlement phase permits for at least 5 types of housing development projects in the jurisdiction, as specified, and to make those items available to all applicants for these permits no later than January 1, 2024. Existing law establishes time limits for completing reviews regarding whether an application for a postentitlement phase permit is complete and compliant. Existing law also defines various terms for its purposes.",
+  "This bill would make nonsubstantive changes to these provisions."
+ ],
+ "hash": "6f15cf9a8de0d960",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and U. & E.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on U. & E. (Ayes 11. Noes 0.) (April 9). Re-referred to Com. on U. & E.",
+   "date": "2025-04-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on U. & E. Read second time and amended.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "Re-referred to Com. on U. & E.",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 15. Noes 0.) (May 7).",
+   "date": "2025-05-07"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2025-05-08"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "Re-referred to Com. on APPR. pursuant to Joint Rule 10.5.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 21).",
+   "date": "2025-05-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-22"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 71. Noes 0. Page 1771.)",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Referred to Coms. on E., U & C. and HOUSING.",
+   "date": "2025-06-11"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E., U & C.",
+   "date": "2025-06-17"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on HOUSING. (Ayes 17. Noes 0.) (July 1).",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2025-07-08"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-07-09"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0. Page 2464.).",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 76. Noes 0. Page 2935.).",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "Vetoed by Governor.",
+   "date": "2025-10-03"
+  },
+  {
+   "action": "Consideration of Governor's veto pending.",
+   "date": "2025-10-03"
+  },
+  {
+   "action": "Consideration of Governor's veto stricken from file.",
+   "date": "2026-01-22"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Enrolled",
+  "date": "2025-09-08",
+  "id": "20250AB102693ENR",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65913.3 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) A local agency shall compile one or more lists that shall specify in detail the information that will be required from any applicant for a postentitlement phase permit. The local agency may revise the lists of information required from an applicant. Any revised list shall not apply to any permit pending review.",
+    "(2) A local agency shall post an example of a complete, approved application and an example of a complete set of postentitlement phase permits for at least five types of housing development projects in the jurisdiction, including, but not limited to, accessory dwelling unit, duplex, multifamily, mixed use, and townhome.",
+    "(3) A local agency shall make the items required by paragraphs (1) and (2) available on the agency’s internet website no later than January 1, 2024.",
+    "(b) (1) (A) A local agency shall determine whether an application for a postentitlement phase permit is complete and provide written notice of this determination to the applicant no later than 15 business days after the local agency received the application.",
+    "(B) If the local agency determines an application is incomplete, the local agency shall provide the applicant with a list of incomplete items and a description of how the application can be made complete. The list shall be limited to incomplete items that are included on the lists required by paragraph (1) of subdivision (a). The list and description shall be provided with the written notice required by subparagraph (A).",
+    "(2) (A) After receiving a notice that the application was incomplete, an applicant may cure and address the items that are deemed to be incomplete by the local agency.",
+    "(B) In the review of an application submitted pursuant to subparagraph (A), the local agency shall not require the application to include an item that was not included in the list required by subparagraph (B) of paragraph (1).",
+    "(C) If an applicant submits an application pursuant to subparagraph (A), the local agency shall determine whether the additional application has remedied all incomplete items listed in the determination issued pursuant to subparagraph (B) of paragraph (1). This additional application is subject to the timelines and requirements specified in subparagraph (A) of paragraph (1).",
+    "(3) If a local agency does not make a timely determination as required by paragraph (1) or (2) and the application or resubmitted application states that it is for a postentitlement phase permit, the application or resubmitted application shall be deemed to be complete for the purposes of this chapter.",
+    "(c) (1) (A) For housing development projects with 25 units or fewer, a local agency shall complete the review and do either of the following:",
+    "(i) If the local agency determines that the complete application is not compliant with the permit standards, return in writing a full set of comments to the applicant with a comprehensive request for revisions.",
+    "(ii) If the local agency determines that the complete application is compliant with the permit standards, return the approved permit application on each postentitlement phase permit requested.",
+    "(B) The local agency shall immediately transmit that determination to the applicant by electronic mail and, if applicable, by posting the response on its internet website in the manner prescribed in subdivision (b) of Section 65913.3.5 not later than 30 business days after the local agency determines that an application for a postentitlement phase permit is complete pursuant to subdivision (b).",
+    "(2) (A) For housing development projects with 26 units or more, a local agency shall complete the review and do either of the following:",
+    "(i) If the local agency determines that the complete application is not compliant with the permit standards, return in writing a full set of comments to the applicant with a comprehensive request for revisions.",
+    "(ii) If the local agency determines that the complete application is compliant with the permit standards, return the approved permit application on each postentitlement phase permit requested.",
+    "(B) The local agency shall immediately transmit that determination to the applicant by electronic mail and, if applicable, by posting the response on its internet website in the manner prescribed in subdivision (b) of Section 65913.3.5 not later than 60 business days after the local agency determines that an application for a postentitlement phase permit is complete pursuant to subdivision (b).",
+    "(3) Once a local agency determines that a postentitlement permit is compliant with applicable permit standards pursuant to paragraph (1) or (2) the local agency shall not subject the postentitlement phase permit to any appeals or additional hearing requirements.",
+    "(4) (A) The time limits in this subdivision shall not apply if the local agency makes written findings within the time limits specified in paragraph (1) or (2) based on substantial evidence in the record that the proposed postentitlement phase permit might have a specific, adverse impact on public health or safety and that additional time is necessary to process the application.",
+    "(B) For the purposes of this paragraph, “specific, adverse impact” means a significant, quantifiable, direct, and unavoidable impact, based on objective, identified, and written public health or safety standards, policies, or conditions as they existed on the date the application was deemed complete.",
+    "(5) If the local agency requires review of the application by an outside entity, the time limits in this subdivision shall be tolled until the outside entity completes the review and returns the application to the local agency, at which point the local agency shall complete the review within the time remaining under the time limit, provided that the local agency notifies the applicant within three business days by electronic mail and, if applicable, by posting the notification on its internet website in the manner prescribed in subdivision (b) of Section 65913.3.5 of the tolling and resumption of the time limit.",
+    "(d) (1) If a local agency finds that a complete application is noncompliant, the local agency shall provide the applicant with a list of items that are noncompliant and a description of how the application can be remedied by the applicant within the time limits specified in subdivision (c).",
+    "(2) The local agency shall provide the list and description authorized by paragraph (1) when it transmits its determination to the applicant as required by subdivision (c).",
+    "(3) If a local agency denies a postentitlement phase permit application based on a determination that the application is noncompliant, the applicant may attempt to remedy the application.",
+    "(4) If an applicant submits an application pursuant to paragraph (3), the additional application is subject to the timelines of a new application as specified in subdivision (c).",
+    "(e) (1) If a postentitlement phase permit is determined to be incomplete under subdivision (b) or denied or determined to be noncompliant under subdivision (c) or (d), the local agency shall provide a process for the applicant to appeal that decision in writing to the governing body of the agency or, if there is no governing body, to the director of the agency, as provided by that agency. A city or county shall provide that the right of appeal is to the governing body or, at their option, the planning commission, or both.",
+    "(2) (A) With respect to a postentitlement phase permit concerning housing development projects with 25 units or fewer, a local agency on the appeal shall provide a final written determination by not later than 60 business days after receipt of the applicant’s written appeal. The fact that an appeal is permitted to both the planning commission and to the governing body does not extend the 60-business-day period.",
+    "(B) With respect to a postentitlement phase permit concerning housing development projects with 26 units or more, a local agency on the appeal shall provide a final written determination by not later than 90 business days after receipt of the applicant’s written appeal. The fact that an appeal is permitted to both the planning commission and to the governing body does not extend the 90-business-day period.",
+    "(f) If a local agency fails to meet the time limits in this section, it shall be in violation of Section 65589.5.",
+    "(g) This section does not place limitations on the amount of feedback that a local agency may provide or revisions that a local agency may request of an applicant.",
+    "(h) For residential or residential mixed-use developments that are subject to the requirements set forth in Section 65913.4, the provisions of paragraph (2) of subdivision (h) of Section 65913.4 shall apply. Permits for these developments that are subject to paragraph (2) of subdivision (h) of Section 65913.4 shall not be in conflict with the requirements of this section. The local agency shall comply with both sets of standards.",
+    "(i) This section does not preclude an applicant and a local agency from mutually agreeing to an extension of any time limit provided by this section. However, a local agency shall not require an agreement as a condition of accepting the application for, or processing of, a postentitlement phase permit, unless the agreement is obtained for the purpose of permitting concurrent processing of related approvals or an environmental review on the same housing development project.",
+    "(j) For purposes of this section, all of the following definitions apply:",
+    "(1) “Housing development project” has the same meaning as in paragraph (3) of subdivision (b) of Section 65905.5.",
+    "(2) “Local agency” means any county, city, or city and county.",
+    "(3) (A) “Postentitlement phase permit” includes both of the following:",
+    "(i) All nondiscretionary permits and reviews that are required or issued by the local agency after the entitlement process has been completed to begin construction of a development that is intended to be at least two-thirds residential, excluding discretionary and ministerial planning permits, entitlements, and other permits and reviews that are covered under Chapter 4.5 (commencing with Section 65920). A postentitlement phase permit includes, but is not limited to, all of the following:",
+    "(I) Building permits, and all interdepartmental review required for the issuance of a building permit.",
+    "(II) Permits for minor or standard off-site improvements.",
+    "(III) Permits for demolition.",
+    "(IV) Permits for minor or standard excavation and grading.",
+    "(ii) All building permits and other permits issued under the California Building Standards Code (Title 24 of the California Code of Regulations) or any applicable local building code for the construction, demolition, or alteration of buildings, whether discretionary or nondiscretionary.",
+    "(B) A local agency may identify by ordinance a threshold for determining whether a permit constitutes a “minor” or “standard” permit for the purposes of this paragraph, which shall be supported by written findings adopted by the jurisdiction.",
+    "(C) A postentitlement phase permit does not include a permit required and issued by the California Coastal Commission, a special district, a utility that is not owned and operated by a local agency, or any other entity that is not a city, county, or city and county."
+   ],
+   "sec": "65913.3",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Vetoed",
+ "subject": "Public utilities: electrical corporations: energization.",
+ "title": "An act to amend Section 65913.3 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250AB102699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB102698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-10",
+   "id": "20250AB102697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-05-08",
+   "id": "20250AB102696AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-06-17",
+   "id": "20250AB102695AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-08",
+   "id": "20250AB102694AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-08",
+   "id": "20250AB102693ENR",
+   "num": "93"
+  }
+ ]
+}

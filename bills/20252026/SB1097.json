@@ -1,0 +1,153 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Becker",
+   "primary": false
+  }
+ ],
+ "bill": "SB1097",
+ "bill_id": "202520260SB1097",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that the lead agency proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would exempt from CEQA projects that consist of the inspection, maintenance, repair, restoration, reconditioning, reconductoring with advanced conductors, replacement, or removal of an existing transmission wire or cable used to conduct electricity or other piece of equipment that is directly attached to the wire or cable and that meet certain requirements, including, among other things, that for a project that is not located on a sensitiva site, the project is undertaken entirely within an existing right-of-way. For projects that are located on a sensitive site, as defined, the bill would also require that the project not increase the footprint of the existing transmission line by more than 10%. In addition to those requirements, for projects that are located within a national park, a national monument, a national wilderness area, or a national recreation area, the bill would also require that the existing right-of-way that the project is undertaken within have a certified EIR, negative declaration, or mitigated negative declaration. For any of these above-described projects that are undertaken within a private right-of-way, the bill would require the project applicant to obtain permission from each underlying property owner to access the property for the project and to enter into an agreement to restore the right-of-way to its condition before the commencement of the project. If a lead agency determines that a project is exempt from CEQA pursuant to the above-described provision, the bill would require the lead agency to file a notice of exemption with the Office of Land Use and Climate Innovation and the county clerk in each county in which the project is located, as provided. By increasing the duties of a lead agency, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "acde33cd4e80edab",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-13"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 16.",
+   "date": "2026-02-17"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2026-02-26"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Re-referred to Coms. on E.Q. and E., U & C.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E., U & C. (Ayes 5. Noes 0. Page 3900.) (April 15). Re-referred to Com. on E., U & C.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 17. Noes 0. Page 3973.) (April 21).",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "May 11 hearing: Placed on APPR. suspense file.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "May 14 hearing: Held in committee and under submission.",
+   "date": "2026-05-14"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-04-23",
+  "id": "20250SB109797AMD",
+  "num": "97"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 21080.39 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) For purposes of this section, both of the following definitions apply:",
+    "(1) “Reconductoring with advanced conductors” has the same meaning as the term “reconductored with advanced conductors” is used in Section 454.58 of the Public Utilities Code.",
+    "(2) “Sensitive site” means any of the following areas:",
+    "(A) The state park system, as described in Article 1 (commencing with Section 5001) of Chapter 1 of Division 5.",
+    "(B) A wilderness area, as defined in Section 5093.32.",
+    "(C) A national park.",
+    "(D) A national monument.",
+    "(E) A national recreation area.",
+    "(F) A national wilderness area.",
+    "(G) Habitat for protected species identified as candidate, sensitive, or species of special status by state or federal agencies, fully protected species, or species protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plant Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code).",
+    "(H) Lands with a conservation easement, as defined in Section 815.1 of the Civil Code and recorded as required by Section 815.5 of the Civil Code, unless the project is determined by the lead agency to be consistent with the terms or requirements of the easement.",
+    "(b) This division does not apply to a project that consists of the inspection, maintenance, repair, restoration, reconditioning, reconductoring with advanced conductors, replacement, or removal of an existing transmission wire or cable used to conduct electricity or other piece of equipment that is directly attached to the wire or cable and that meets all of the following requirements:",
+    "(1) The \"?>For a project that is not located on a sensitive site, the project is undertaken entirely within an existing right-of-way.",
+    "(2) For a project that is located on a sensitive site, the project meets both of the following requirements:",
+    "(A) The project is undertaken entirely within an existing right-of-way.",
+    "(B) The project does not increase the footprint of the existing transmission line by more than 10 percent.",
+    "(3) For a project that is located on a national park, a national monument, a national wilderness area, or a national recreation area, the project meets both of the following requirements:",
+    "(A) The project is undertaken entirely within an existing right-of-way that has a certified environmental impact report, negative declaration, or mitigated negative declaration.",
+    "(B) The project does not increase the footprint of the existing transmission line by more than 10 percent.",
+    "(4) For a project that is located on any of the locations listed in paragraphs (1) to (3), inclusive, that is undertaken within a private right-of-way, the project meets both of the following requirements:",
+    "(A) The project applicant has permission from each underlying property owner to access the property for the project.",
+    "(B) The project applicant enters into a legally binding agreement to restore the right-of-way to its condition before the commencement of the project.",
+    "(c) If the lead agency determines that a project is exempt from this division pursuant to this section, the lead agency shall file a notice of exemption with the Office of Land Use and Climate Innovation and with the county clerk in each county in which the project is located in a manner specified in subdivisions (b) and (c) of Section 21108 or subdivisions (b) and (c) of Section 21152."
+   ],
+   "sec": "21080.39",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: electrical distribution: exemptions.",
+ "title": "An act to add Section 21080.39 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-13",
+   "id": "20250SB109799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB109798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-23",
+   "id": "20250SB109797AMD",
+   "num": "97"
+  }
+ ]
+}

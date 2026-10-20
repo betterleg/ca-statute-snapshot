@@ -1,0 +1,224 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Richardson",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": false
+  }
+ ],
+ "bill": "SB611",
+ "bill_id": "202520260SB611",
+ "chapter": {
+  "num": "228",
+  "year": "2025"
+ },
+ "digest": [
+  "The Planning and Zoning Law requires each county and city to adopt a comprehensive, long-term general plan for its physical development and the development of any land outside its boundaries that, in the planning agency’s judgment, bears relation to its planning, as provided. After the legislative body has adopted a general plan, that law also authorizes, or if so directed by the legislative body, requires, the planning agency to prepare specific plans for the systematic implementation of the general plan for all or part of the area covered by the general plan, as provided.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA limits the review of a project under its provisions if the parcel is zoned or designated in a community plan to accommodate a particular density of development, an environmental impact report was certified for that zoning or planning action, and the project is consistent with the zoning or community plan, as specified. CEQA requires a court, if it finds that any determination, finding, or decision of a public agency has been made without compliance with CEQA, to enter an order that includes one or more specified mandates, including a mandate to void the determination, finding, or decision of the public agency.",
+  "Previous law, until January 1, 2025, notwithstanding the above-described requirement for a court to enter an order under CEQA, prohibited a court in an action or proceeding to attack, review, set aside, void, or annul the acts or decisions of the local agency, including a charter city, in adopting an update to a community plan on the grounds of noncompliance with CEQA from, on the basis of that noncompliance, invalidating, reviewing, voiding, or setting aside the approval of a development project that meets certain requirements. Previous law specified that those provisions did not affect or alter the obligation for the approval of a development project that was consistent with an approved community plan update to comply with CEQA or, except as expressly provided, preclude or limit an action to attack, review, set aside, void, or annul the approval of a development project that was consistent with an approved community plan pursuant to specified law. Previous law provided that the repeal of those provisions does not affect any right or immunity granted by those provisions to a development project that meets specified requirements before January 1, 2025.",
+  "This bill would reenact those provisions, with certain changes. The bill would specify that its provisions would apply to an update to a community plan adopted on or after January 1, 2025, and would apply to a development project for which an application has been filed with, and accepted as complete by, the local jurisdiction on or before January 1, 2036.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "9dd1883f7b05a035",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and JUD.",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "Set for hearing April 2.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on JUD. (Ayes 7. Noes 0. Page 637.) (April 2).",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on JUD.",
+   "date": "2025-04-07"
+  },
+  {
+   "action": "Set for hearing May 6.",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 0. Page 1027.) (May 6).",
+   "date": "2025-05-07"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-08"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 39. Noes 0. Page 1241.) Ordered to the Assembly.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and JUD.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 10. Noes 0.) (June 18). Re-referred to Com. on JUD.",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 0.) (July 1).",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-07-14"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-07-14"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 74. Noes 0. Page 2592.) Ordered to the Senate.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2025-08-27"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 37. Noes 0. Page 2287.) Ordered to engrossing and enrolling.",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-01"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 228, Statutes of 2025.",
+   "date": "2025-10-01"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-01",
+  "id": "20250SB61193CHP",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Article 8.2 (commencing with Section 65458) is added to Chapter 3 of Division 1 of Title 7 of the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this article:",
+    "(a) “Community plan” means a plan that meets all of the following requirements:",
+    "(1) The plan was adopted by a local jurisdiction for a defined geographic area within its jurisdictional boundaries.",
+    "(2) The plan serves as the land use element, pursuant to subdivision (a) of Section 65302, for the area covered by the plan.",
+    "(3) The plan has not been updated for more than 10 years from the date the plan was adopted or last updated, whichever is later.",
+    "(4) The plan includes two or more transit priority areas, as defined in Section 21099 of the Public Resources Code.",
+    "(5) The local jurisdiction that adopts the plan has adopted or amended, on or after January 1, 2015, a circulation or mobility element as a part of the general plan.",
+    "(6) The local jurisdiction that adopts the plan has a housing element that includes housing capacity to sufficiently accommodate regional housing needs projects as set forth in Section 65584.01.",
+    "(7) The local jurisdiction that adopts the plan has adopted a vehicle miles traveled threshold of significance for the area covered by the plan in compliance with Section 15064.3 of Title 14 of the California Code of Regulations.",
+    "(8) The area covered by the plan update is located within an urbanized area, as defined by Section 21071 of the Public Resources Code.",
+    "(9) The local jurisdiction that adopts the plan has also adopted any required ordinances or regulations related to either of the following:",
+    "(A) The designation of very high fire hazard severity zones pursuant to Section 51179.",
+    "(B) Flood plain management in accordance with the National Flood Insurance Program, pursuant to Part 60 (commencing with Section 60.1) of Subchapter B of Chapter I of Title 44 of the Code of Federal Regulations.",
+    "(b) “Development project” has the same meaning as defined in Section 65928.",
+    "(c) “Local jurisdiction” means a city, county, or city and county.",
+    "(d) “Update” means a comprehensive amendment to a community plan that is intended to bring the community plan up to date with the most current land use policies and that includes amendments to both the plain text and plan land use map, as well as the adoption or amendment of any zoning ordinances necessary to bring zoning into consistency with the community plan."
+   ],
+   "sec": "65458",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Planning and zoning: community plans: review under the California Environmental Quality Act.",
+ "title": "An act to add Article 8.2 (commencing with Section 65458) to Chapter 3 of Division 1 of Title 7 of the Government Code, relating to land use, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250SB61199INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-26",
+   "id": "20250SB61198AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-07",
+   "id": "20250SB61197AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-09",
+   "id": "20250SB61196AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-14",
+   "id": "20250SB61195AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-02",
+   "id": "20250SB61194ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-01",
+   "id": "20250SB61193CHP",
+   "num": "93"
+  }
+ ]
+}

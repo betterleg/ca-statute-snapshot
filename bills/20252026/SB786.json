@@ -1,0 +1,328 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bryan",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "primary": false
+  }
+ ],
+ "bill": "SB786",
+ "bill_id": "202520260SB786",
+ "chapter": {
+  "num": "526",
+  "year": "2025"
+ },
+ "digest": [
+  "The Planning and Zoning Law requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and of certain land outside its boundaries, and requires the general plan to contain specified mandatory elements. Existing law specifies that these provisions generally do not apply to a charter city, but requires a charter city to adopt a general plan that contains the mandatory elements, among other things. Existing law prescribes a process to challenge the validity of a general plan. Among other things, existing law requires a petitioner to request a hearing or trial, as specified. Existing law requires a court to set a date for the hearing or trial to be heard no later than 120 days after the filing of the request, as specified. Existing law authorizes a court to continue for a reasonable time the date of the hearing or trial upon written motion and finding of good cause. Existing law requires a court to grant the petitioner temporary relief if the court grants a continuance to a respondent, as specified.",
+  "This bill would apply to the above-described process to challenge the validity of a general plan to a charter city and state that this is declaratory of existing law. The bill would limit the period for which a court may continue a trial or hearing, as described above, to no more than 60 days and would additionally authorize a court to grant a continuance on the court’s own motion. The bill would extend the requirement that a court grant temporary relief, as described above, in any instance in which the court orders a continuance, rather than only if the court grants a continuance to a respondent. The bill would require the court to consider ordering additional temporary relief if the court has already granted temporary relief.",
+  "Existing law requires the general plan to contain specified mandatory elements, including a housing element. Existing law requires the housing element to consist of an identification and analysis of existing and projected housing needs and a statement of goals, policies, quantified objectives, financial resources, and scheduled programs for the preservation, improvement, and development of housing. Existing law also requires the housing element to, among other things, identify adequate sites for housing, as provided, and to make adequate provision for the existing and projected needs of all economic segments of the community. In preparation of the housing element, existing law requires the city and county to consider certain guidelines adopted by the department. Existing law requires the department to review, according to a specified procedure, any action or failure to act by the city, county, or city and county that it determines is inconsistent with an adopted housing element or certain other requirements, including any failure to implement any program actions included in the housing element.",
+  "This bill would require, to the extent that a quantified development standard, as defined, in a general plan element is inconsistent with a quantified development standard in another element, the provisions of the most recently adopted element to supersede the previously adopted element. If a local agency has established a specific deadline to amend a local ordinance, development standard, condition, or policy applicable to quantified development standards, or timelines or processes relating to entitlement and permitting decisions, and the local agency has failed to make that amendment by the specified deadline, the bill would require the department to undertake the above-described review procedure.",
+  "Existing law requires each city, county, or city and county to bring its housing element into conformity with certain requirements by a specified deadline. Existing law also requires a city, county, or city and county, upon a finding by a court that an action of a city, county, or city and county, which is required to be consistent with its general plan, does not comply with its housing element, to bring its action into compliance within 60 days. Existing law requires the court to retain jurisdiction throughout the period for compliance to enforce its decision and authorizes the court to extend the time period for compliance by an additional 60 days upon a determination that the 60-day period for compliance would place an undue hardship on the city, county, or city and county.",
+  "This bill would extend the amount of time a city, county, or city and county has to bring its action into compliance to 120 days and would remove the above-described extension provision. The bill would also require the court to retain jurisdiction throughout the period for compliance with its order and to conform to certain requirements. The bill would authorize the court to grant a reasonable extension of time for the city, county, or city and county to comply if review by the Department of Housing and Community Development is required as part of the court order and that review is not timely completed, as specified.",
+  "Existing law requires a court, if that court finds that a city, county, or city and county failed to complete a specified rezoning by a certain deadline, to issue an order or judgment, after considering the equities of the circumstances presented by all parties, compelling the local government to complete the rezoning within 60 days or the earliest time consistent with public hearing notice requirements in existence at the time the action was filed. Existing law also requires the court, if that court determines that its order or judgment is not carried out, to issue further orders to ensure that certain purposes and policies are fulfilled, including ordering, after considering the equities of the circumstances presented by all parties, that any required rezoning be completed within 60 days or the earliest time consistent with public hearing notice requirements in existence at the time the action was filed. Existing law also authorizes the court to impose sanctions on the city, county, or city and county if the court determines that its order or judgment is not carried out.",
+  "This bill would extend the amount of time a local government has to complete the above-described rezoning under a court order or judgment to 120 days. The bill would also remove the requirement that a court issue further orders that any required rezoning be completed within 60 days or the earliest time consistent with public hearing notice requirements in existence at the time the action was filed. The bill would instead require that the court impose sanctions on the city, county, or city and county if the court determines that its order or judgment is not carried out.",
+  "Existing law requires a county or city to bring the general plan or relevant mandatory element into compliance with state law within 120 days of a court issuing a final order or judgment in favor of a petitioner in any action brought to challenge the validity of that plan or element. Existing law also requires a county or city to bring its zoning ordinance into consistency with its general plan or relevant mandatory element within 120 days of bringing the general plan or relevant mandatory element into compliance with state law. Existing law authorizes a court to grant a county or city 2 extensions of time, as specified, to bring the general plan, relevant mandatory element, or zoning ordinance into compliance or consistency. Existing law requires a court, in the order or judgment, to include one or more specified remedies. Existing law also authorizes a court to grant these remedies as temporary relief, during a pendency of a challenge to the validity of a general plan, upon a showing of probable success on the merits, as specified.",
+  "This bill would instead require, in any order or judgment issued in an action brought to challenge the validity of the general plan of any city, county, or city and county, or any mandatory element thereof that resolves whether those plans or elements substantially comply with certain requirements, that order or judgment to be immediately appealable, regardless of whether any final judgment has been issued. The bill would instead require a county or city to comply with the above-described requirements if the court finds that the general plan or mandatory element does not substantially comply with certain requirements. The bill would remove a court’s above-described authority to grant a city or county 2 extensions of time. The bill would specify that the above-described remedies are not stayed during the pendency of an appeal of the order or judgment, but would authorize a court to stay remedies if there is a showing by a county or city that it would suffer irreparable harm. The bill would require, rather than authorize, a court to grant these remedies as temporary relief during a pendency of a challenge to the validity of the general plan. The bill would require that request for temporary relief to be made by noticed motion or application, as specified.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
+ ],
+ "hash": "7e52d68c24056f18",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 24.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2025-02-24"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Re-referred to Coms. on L. GOV., JUD., and APPR.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 23.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "Set for hearing April 29 in JUD. pending receipt.",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 5. Noes 2. Page 871.) (April 23). Re-referred to Com. on JUD.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 2. Page 943.) (April 29).",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Set for hearing May 19.",
+   "date": "2025-05-09"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 28. Noes 10. Page 1334.) Ordered to the Assembly.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and JUD.",
+   "date": "2025-06-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 3.) (July 2). Re-referred to Com. on JUD.",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "Coauthors revised.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (July 15). Re-referred to Com. on APPR.",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 4.) (August 29).",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-09-03"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 58. Noes 19. Page 3010.) Ordered to the Senate.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 30. Noes 10. Page 2719.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2025-09-17"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 526, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB78694CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65585.02 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section, “quantified development standard” means a site’s maximum density or requirements for a height limit, setback, maximum or minimum unit size, lot coverage, or floor area ratio.",
+    "(b) To the extent that a quantified development standard contained in a general plan element is inconsistent with a quantified development standard contained in another element, the provisions of the most recently adopted element shall supersede inconsistent provisions of the previously adopted element.",
+    "(c) If a local agency has established a specific deadline under subdivision (c) of Section 65583 to amend a local ordinance, development standard, condition, or policy applicable to quantified development standards, or timelines or processes relating to entitlement and permitting decisions, and the local agency has failed to make that amendment by the specified deadline, the department shall undertake the review described in subdivision (i) of Section 65585."
+   ],
+   "sec": "65585.02",
+   "verb": "added"
+  },
+  {
+   "action": "Section 65587 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Each city, county, or city and county shall bring its housing element, as required by subdivision (c) of Section 65302, into conformity with the requirements of this article on or before October 1, 1981, and the deadlines set by Section 65588. Except as specifically provided in subdivision (b) of Section 65361, the Director of Planning and Research shall not grant an extension of time from these requirements.",
+    "(b) Any action brought by any interested party to review the conformity with the provisions of this article of any housing element or portion thereof or revision thereto shall be brought pursuant to Section 1085 of the Code of Civil Procedure; the court’s review of compliance with the provisions of this article shall extend to whether the housing element or portion thereof or revision thereto substantially complies with the requirements of this article.",
+    "(c) (1) If a court finds that an action of a city, county, or city and county, which is required to be consistent with its general plan, does not comply with its housing element, the city, county, or city and county shall bring its action into compliance within 120 days. However, the court shall retain jurisdiction throughout the period for compliance with its order and to conform to the requirements of Article 14 (commencing with Section 65750).",
+    "(2) If review by the Department of Housing and Community Development is required, as part of a court order pursuant to Article 14 (commencing with Section 65750), and the review is not timely completed to allow a city, county, or city and county to comply with a court order to bring their housing element into compliance within 120 days, the court may grant a reasonable extension of time for the city, county, or city and county to comply.",
+    "(d) (1) If a court finds that a city, county, or city and county failed to complete the rezoning required by subparagraph (A) of paragraph (1) of subdivision (c) of Section 65583, as that deadline may be modified by the extension provided for in subdivision (f) of that section, the court shall issue an order or judgment, after considering the equities of the circumstances presented by all parties, compelling the local government to complete the rezoning within 120 days or the earliest time consistent with public hearing notice requirements in existence at the time the action was filed. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If the court determines that its order or judgment is not carried out, the court shall issue further orders to ensure that the purposes and policies of this article are fulfilled, including ordering, after considering the equities of the circumstances presented by all parties, sanctions on the city, county, or city and county until the rezoning is complete and in effect.",
+    "(2) Any interested person may bring an action to compel compliance with the deadlines and requirements of paragraphs (1), (2), and (3) of subdivision (c) of Section 65583. The action shall be brought pursuant to Section 1085 of the Code of Civil Procedure. In any such action, the city, county, or city and county shall bear the burden of proof."
+   ],
+   "sec": "65587",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65700 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) This chapter shall not apply to a charter city, except to the extent that the same may be adopted by charter or ordinance of the city and except that charter cities shall adopt general plans in any case. General plans of a charter city shall be adopted by resolution of the legislative body of the city, or the planning commission if the charter so provides. These general plans shall contain the mandatory elements required by Article 5 (commencing with Section 65300) of Chapter 3 of this title.",
+    "(b) Notwithstanding subdivision (a), paragraph (2) of subdivision (a) of Section 65400, Sections 65300.5, 65301.5, 65359, 65450, 65454, 65455, 65460.8, 65590, and 65590.1, and Article 10.6 (commencing with Section 65580) shall be applicable to charter cities.",
+    "(c) Notwithstanding subdivision (a), in order to enforce the requirements of Article 5 (commencing with Section 65300), Article 14 (commencing with Section 65750) shall be applicable to charter cities. This subdivision is declaratory of existing law."
+   ],
+   "sec": "65700",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65753 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The petitioner shall request a hearing or trial on the alternative writ or peremptory writ of mandate, and any other party may request a hearing or trial, within 90 days of the date the petitioner files the petition for a writ of mandate pursuant to Section 65751. If no request for a hearing or trial is filed within 90 days of the date that petition is filed, the action or proceeding may be set for hearing or trial or dismissed on the motion of any party other than the petitioner or may be dismissed on the court’s own motion.",
+    "(b) Within 30 days of the filing of the request for a hearing or trial pursuant to subdivision (a), the court shall set a date for a hearing or trial on the action or part of an action brought pursuant to Section 65751. The hearing or trial shall be set to be heard at the earliest possible date that the business of the court permits, but not more than 120 days after the filing of a request for hearing under this section. The court may continue the date of the hearing or trial upon written motion and a finding of good cause, or upon the court’s own motion, for no more than 60 days. However, if the court orders a continuance, it shall, upon the written motion of the petitioner and upon the petitioner meeting the requirements of Section 65757, grant the relief provided in Section 65757 as temporary relief. If temporary relief has already been granted, the court shall consider ordering additional temporary relief in light of the continuance. In any order granting temporary relief, the court shall not enjoin any housing developments that comply with applicable provisions of law and that may be developed without having an impact on the ability of the city, county, or city and county to properly adopt and implement an adequate housing element."
+   ],
+   "sec": "65753",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65754 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "In any order or judgment issued in an action brought to challenge the validity of the general plan of any city, county, or city and county, or any mandatory element thereof, that resolves whether the general plan or any mandatory element of the general plan thereof substantially complies with the requirements of Article 5 (commencing with Section 65300):",
+    "(a) The order or judgment shall be immediately appealable, regardless of whether any final judgment has been issued.",
+    "(b) If the court finds that the general plan or mandatory element does not substantially comply with the requirements of Article 5 (commencing with Section 65300), the city, county, or city and county shall bring its general plan or relevant mandatory element or elements thereof into compliance with the requirements of Article 5 (commencing with Section 65300) within 120 days.",
+    "Notwithstanding the provisions of subdivision (b) of Section 65585, the planning agency of the city, county, or city and county shall submit a draft of its revised housing element or housing element amendment at least 45 days prior to its adoption to the Department of Housing and Community Development for its review, notifying the department that the element is subject to the review procedure set forth in this section.",
+    "The department shall review the draft element or amendment and report its findings to the planning agency within 45 days of receipt of the draft. The legislative body shall consider the department’s findings prior to final adoption of the housing element or amendment if the department’s findings are reported to the planning agency within 45 days after the department receives that draft element or amendment.",
+    "(c) The city or county, including the chartered cities specified in subdivision (d) of Section 65860, shall, in accordance with Section 65860, bring its zoning ordinance into consistency with its general plan or relevant mandatory element or elements thereof within 120 days after the general plan has been amended in accordance with subdivision (b)."
+   ],
+   "sec": "65754",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65755 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The court shall include, in the order or judgment rendered pursuant to Section 65754, one or more of the following provisions for any or all types or classes of developments or any or all geographic segments of the city, county, or city and county until the city, county, or city and county has substantially complied with the requirements of Article 5 (commencing with Section 65300):",
+    "(1) Suspend the authority of the city, county, or city and county pursuant to Division 13 (commencing with Section 17910) of the Health and Safety Code, to issue building permits, or any category of building permits, and all other related permits, except that the city, county, or city and county shall continue to function as an enforcement agency for review of permit applications for appropriate codes and standards compliance, prior to the issuance of building permits and other related permits for residential housing for that city, county, or city and county.",
+    "(2) Suspend the authority of the city, county, or city and county, pursuant to Chapter 4 (commencing with Section 65800) to grant any and all categories of zoning changes, variances, or both.",
+    "(3) Suspend the authority of the city, county, or city and county, pursuant to Division 2 (commencing with Section 66410), to grant subdivision map approvals for any and all categories of subdivision map approvals.",
+    "(4) Mandate the approval of all applications for building permits, or other related construction permits, for residential housing where a final subdivision map, parcel map, or plot plan has been approved for the project, where the approval will not impact on the ability of the city, county, or city and county to properly adopt and implement an adequate housing element, and where the permit application conforms to all code requirements and other applicable provisions of law except those zoning laws held to be invalid by the final court order, and changes to the zoning ordinances adopted after such final court order which were enacted for the purpose of preventing the construction of a specific residential development.",
+    "(5) Mandate the approval of any or all final subdivision maps for residential housing projects which have previously received a tentative map approval from the city, county, or city and county pursuant to Division 2 (commencing with Section 66410) when the final map conforms to the approved tentative map, the tentative map has not expired, and where approval will not impact on the ability of the city, county, or city and county to properly adopt and implement an adequate housing element.",
+    "(6) Mandate that notwithstanding the provisions of Sections 66473.5 and 66474, any tentative subdivision map for a residential housing project shall be approved if all of the following requirements are met:",
+    "(A) The approval of the map will not significantly impair the ability of the city, county, or city and county to adopt and implement those elements or portions thereof of the general plan which have been held to be inadequate.",
+    "(B) The map complies with all of the provisions of Division 2 (commencing with Section 66410), except those parts which would require disapproval of the project due to the inadequacy of the general plan.",
+    "(C) The approval of the map will not affect the ability of the city, county, or city and county to adopt and implement an adequate housing element.",
+    "(D) The map is consistent with the portions of the general plan not found inadequate and the proposed revisions, if applicable, to the part of the plan held inadequate.",
+    "(b) Any order or judgment of a court which includes the remedies described in paragraphs (1), (2), or (3) of subdivision (a) shall exclude from the operation of that order or judgment any action, program, or project required by law to be consistent with a general or specific plan if the court finds that the approval or undertaking of the action, program, or project complies with both of the following requirements:",
+    "(1) That it will not significantly impair the ability of the city, county, or city and county to adopt or amend all or part of the applicable plan as may be necessary to make the plan substantially comply with the requirements of Article 5 (commencing with Section 65300) in the case of a general plan, or Article 8 (commencing with Section 65450) in the case of a specific plan.",
+    "(2) That it is consistent with those portions of the plan challenged in the action or proceeding and found by the court to substantially comply with applicable provisions of law.",
+    "The party seeking exclusion from any order or judgment of a court pursuant to this subdivision shall have the burden of showing that the action, program, or project complies with paragraphs (1) and (2).",
+    "(c) Notwithstanding Section 65754.4 or subdivisions (a) and (b), in any action or proceeding brought pursuant to subdivision (d) of Section 65009, no remedy pursuant to this section or injunction pursuant to Section 65754.5 shall abrogate, impair, or otherwise interfere with the full exercise of the rights and protections granted to (1) an applicant for a tentative map pursuant to Section 66474.2, or (2) a developer pursuant to Sections 65866 and 66498.1.",
+    "(d) (1) Notwithstanding Sections 916 and 1110b of the Code of Civil Procedure, or any other law, remedies ordered pursuant to this section shall not be stayed during the pendency of an appeal of an order or judgment rendered pursuant to Section 65754.",
+    "(2) The court may stay remedies ordered pursuant to this section upon a showing made by the city, county, or city and county that the city, county, or city and county will suffer irreparable harm."
+   ],
+   "sec": "65755",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65757 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) During the pendency of any action described in Section 65754, the court shall, upon a showing of probable success on the merits, grant the relief provided in Section 65755 as temporary relief. In any order granting temporary relief, the court shall not enjoin during the pendency of the action any housing developments which comply with applicable provisions of law and which may be developed without having an impact on the ability of the city, county, or city and county to properly adopt and implement an adequate housing element. Any housing developments permitted to proceed during the pendency of the action shall not be subject to the restrictions specified in subdivision (b) or (c) of Section 65754 as part of any final judgment.",
+    "(b) Any request for temporary relief under this section shall be made by noticed motion or application.",
+    "(1) If by noticed motion, the court shall set the hearing for the earliest possible date that the business of the court permits, consistent with Section 1005 of the Code of Civil Procedure, but not more than 60 days after the notice of motion was filed. The court may grant a continuance only on an affirmative showing of good cause requiring the continuance. Circumstances indicating good cause shall be those relevant to whether good cause exists to continue a trial under the California Rules of Court.",
+    "(2) Alternatively, the court may order temporary relief upon application and, if the application for temporary relief is granted, issue an order to show cause as to why temporary relief should not remain while a hearing on the merits of the entire action is pending."
+   ],
+   "sec": "65757",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65759 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) In any action brought under this section, the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code) does not apply to any action necessary to bring its general plan or relevant mandatory elements of the plan into compliance with any court order or judgment under this article.",
+    "(b) Notwithstanding subdivision (a), the local agency shall prepare an initial study, within the time limitations specified in Section 65754, to determine the environmental effects of the proposed action necessary to comply with the court order. The initial study shall contain substantially the same information as is required for an initial study pursuant to subdivision (c) of Section 15080 of Title 14 of the California Code of Regulations.",
+    "(c) If as a result of the initial study described in subdivision (b), the local agency determines that the action may have a significant effect on the environment, the local agency shall prepare, within the time limitations specified in Section 65754, an environmental assessment, the content of which substantially conforms to the required content for a draft environmental impact report set forth in Article 9 (commencing with Section 15140) of Title 14 of the California Code of Regulations. The local agency shall include notice of the preparation of the environmental assessment in all notices provided for the amendments to the general plan proposed to comply with the court order.",
+    "(d) The environmental assessment described in subdivision (c) shall be deemed to be a part of the general plan and shall only be reviewable as provided in this article.",
+    "(e) The local agency may comply with the provisions of the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code) in any action necessary to bring its general plan or the plan’s relevant mandatory elements into compliance with any court order or judgment under this section so long as it does so within the time limitations specified in Section 65754."
+   ],
+   "sec": "65759",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Planning and zoning: general plan: judicial challenges.",
+ "title": "An act to amend Sections 65587, 65700, 65753, 65754, 65755, 65757, and 65759 of, and to add Section 65585.02 to, the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-21",
+   "id": "20250SB78699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-25",
+   "id": "20250SB78698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-01",
+   "id": "20250SB78697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-02",
+   "id": "20250SB78696AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250SB78695ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB78694CHP",
+   "num": "94"
+  }
+ ]
+}

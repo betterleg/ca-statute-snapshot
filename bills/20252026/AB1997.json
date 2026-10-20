@@ -1,0 +1,278 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lee",
+   "primary": true
+  }
+ ],
+ "bill": "AB1997",
+ "bill_id": "202520260AB1997",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "The Permit Streamlining Act sets forth various procedures for the review and approval of development project applications. Among other things, the act requires a public agency that is the lead agency or a responsible agency for a development project to approve or disapprove the project within a specified period of time, which varies depending on the project’s phase in the CEQA process. The act defines “development project” to include specified housing development projects, as provided.",
+  "This bill would additionally require approval or disapproval of a housing development project within 30 days from the date of certification by the lead agency of the EIR, if the EIR is prepared pursuant to specified provisions of CEQA if certain other conditions are met. The bill would also define “housing development project” for the purposes of the Permit Streamlining Act and make additional conforming changes. By imposing additional duties on local agencies, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "6280da6870268235",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-17"
+  },
+  {
+   "action": "From printer. May be heard in committee March 20.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "date": "2026-03-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "date": "2026-04-07"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 4581.)",
+   "date": "2026-04-13"
+  },
+  {
+   "action": "(Pending re-refer to Com. on H. & C.D.)",
+   "date": "2026-04-13"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 8. Noes 0.) (April 15). Re-referred to Com. on H. & C.D.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2026-04-20"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 1.) (April 22).",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-04-28"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-13"
+  },
+  {
+   "action": "Joint Rule 62(a), file notice suspended. (Page 5030.)",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 1.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 71. Noes 3. Page 5369.)",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and HOUSING.",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on HOUSING. (Ayes 5. Noes 1.) (June 17).",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on HOUSING.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 1.) (June 30). Re-referred to Com. on APPR.",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-04"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 35. Noes 3.).",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 71. Noes 4. Page 6508.).",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Vetoed by Governor.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Enrolled",
+  "date": "2026-08-27",
+  "id": "20250AB199793ENR",
+  "num": "93"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65928 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) “Development project” means any project undertaken for the purpose of development. “Development project” includes a project involving the issuance of a permit for construction or reconstruction but not a permit to operate.",
+    "(b) (1) (A) Except as otherwise provided in subparagraph (B), “development project” does not include any ministerial projects proposed to be carried out or approved by public agencies.",
+    "(B) Notwithstanding subparagraph (A), “development project” includes a housing development project that requires an entitlement from a local agency, regardless of whether the process for permitting that entitlement is discretionary or ministerial.",
+    "(2) “Development project” does not include a postentitlement phase permit, as that term is defined in Section 65913.3."
+   ],
+   "sec": "65928",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65928.6 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "“Housing development project” means a development project that is a “housing development project,” as that term is defined in paragraph (3) of subdivision (b) of Section 65905.5."
+   ],
+   "sec": "65928.6",
+   "verb": "added"
+  },
+  {
+   "action": "Section 65950 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) A public agency that is the lead agency for a development project shall approve or disapprove the project within whichever of the following periods is applicable:",
+    "(1) One hundred eighty days from the date of certification by the lead agency of the environmental impact report, if an environmental impact report is prepared pursuant to Section 21100 or 21151 of the Public Resources Code for the development project.",
+    "(2) Ninety days from the date of certification by the lead agency of the environmental impact report, if an environmental impact report is prepared pursuant to Section 21100 or 21151 of the Public Resources Code for a housing development project.",
+    "(3) Sixty days from the date of certification by the lead agency of the environmental impact report, if an environmental impact report is prepared pursuant to Section 21100 or 21151 of the Public Resources Code for a housing development project and all of the following conditions are met:",
+    "(A) At least 49 percent of the units in the housing development project are affordable to very low or low-income households, as defined by Sections 50105 and 50079.5 of the Health and Safety Code, respectively. Rents for the lower income units shall be set at an affordable rent, as that term is defined in Section 50053 of the Health and Safety Code, for at least 30 years. Owner-occupied units shall be available at an affordable housing cost, as that term is defined in Section 50052.5 of the Health and Safety Code.",
+    "(B) Prior to the application being deemed complete for the housing development project pursuant to Article 3 (commencing with Section 65940), the lead agency received written notice from the project applicant that an application has been made or will be made for an allocation or commitment of financing, tax credits, bond authority, or other financial assistance from a public agency or federal agency, and the notice specifies the financial assistance that has been applied for or will be applied for and the deadline for application for that assistance, the requirement that one of the approvals of the housing development project by the lead agency is a prerequisite to the application for or approval of the application for financial assistance, and that the financial assistance is necessary for the project to be affordable as required pursuant to subparagraph (A).",
+    "(C) There is confirmation that the application has been made to the public agency or federal agency prior to certification of the environmental impact report.",
+    "(4) Thirty days from the date of certification by the lead agency of the environmental impact report, if an environmental impact report is prepared pursuant to Section 21100 or 21151 of the Public Resources Code for a housing development project and all of the following conditions are met:",
+    "(A) At least 90 percent of the units in the housing development project are affordable to very low or extremely low income households, as defined by Sections 50105 and 50079.5 of the Health and Safety Code, respectively. Rents for the lower income units shall be set at an affordable rent, as that term is defined in Section 50053 of the Health and Safety Code, for at least 30 years. Owner-occupied units shall be available at an affordable housing cost, as that term is defined in Section 50052.5 of the Health and Safety Code.",
+    "(B) Prior to the application being deemed complete for the housing development project pursuant to Article 3 (commencing with Section 65940), the lead agency received written notice from the project applicant that an application has been made or will be made for an allocation or commitment of financing, tax credits, bond authority, or other financial assistance from a public agency or federal agency, and the notice specifies the financial assistance that has been applied for or will be applied for, the deadline for application for that assistance, the requirement that one of the approvals of the housing development project by the lead agency is a prerequisite to the application for or approval of the application for financial assistance, and that the financial assistance is necessary for the project to be affordable as required pursuant to subparagraph (A).",
+    "(C) There is confirmation that the application has been made to the public agency or federal agency prior to certification of the environmental impact report.",
+    "(5) Sixty days from the date of adoption by the lead agency of the negative declaration, if a negative declaration is completed and adopted for the development project.",
+    "(6) Sixty days from the determination by the lead agency that the development project is exempt from the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code), if the development project is exempt from that act.",
+    "(7) Except as provided in subdivision (a) of Section 65912.114 and subdivision (a) of Section 65912.124, 60 days from the date of receipt of a complete application if the development project is subject to ministerial review by the public agency.",
+    "(8) If a housing development project is exempt from the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code) pursuant to Section 21080.66 of the Public Resources Code, 30 days from the later of the following dates:",
+    "(A) The conclusion of the process outlined in subdivision (b) of Section 21080.66 of the Public Resources Code.",
+    "(B) The expiration of the applicable time limit in paragraph (2) of subdivision (j) of Section 65589.5.",
+    "(b) This section does not preclude a project applicant and a public agency from mutually agreeing in writing to an extension of any time limit provided by this section pursuant to Section 65957.",
+    "(c) For purposes of this section, “lead agency” and “negative declaration” have the same meaning as defined in Sections 21067 and 21064 of the Public Resources Code, respectively."
+   ],
+   "sec": "65950",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65952 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Except as provided in subdivision (b), a public agency that is a responsible agency for a development project that has been approved by the lead agency shall approve or disapprove the development project within whichever of the following periods of time is longer:",
+    "(1) Within 180 days from the date on which the lead agency has approved the project.",
+    "(2) Within 180 days of the date on which the completed application for the development project has been received and accepted as complete by that responsible agency.",
+    "(b) Except as provided in subdivision (c), a public agency that is a responsible agency for a housing development project that has been approved by the lead agency shall approve or disapprove the development project within whichever of the following periods of time is longer:",
+    "(1) Within 45 days from the date on which the lead agency has approved the housing development project.",
+    "(2) Within 45 days of the date on which the completed application for the housing development project has been received and accepted as complete by that responsible agency.",
+    "(c) (1) Where a responsible agency is either the California Coastal Commission or the San Francisco Bay Conservation and Development Commission for a housing development project that has been approved by the lead agency, that responsible agency shall approve or disapprove the housing development project within whichever of the following periods of time is longer:",
+    "(A) Within 90 days from the date on which the lead agency has approved the housing development project.",
+    "(B) Within 90 days of the date on which the completed application for the housing development project has been received and accepted as complete by that responsible agency.",
+    "(2) Where the responsible agency is the State Water Resources Control Board or a California Regional Water Quality Control Board for a housing development project that has been approved by the lead agency, and the approval being sought from the responsible agency is either an individual waste discharge requirement or any certificate or statement required by any federal agency pursuant to the Federal Water Pollution Control Act (33 U.S.C. Sec. 1251 et seq.) or any other federal water quality control law, that responsible agency shall approve or disapprove the housing development project within whichever of the following periods of time is longer:",
+    "(A) Within 90 days from the date on which the lead agency has approved the housing development project.",
+    "(B) Within 90 days of the date on which the completed application for the housing development project has been received and accepted as complete by that responsible agency.",
+    "(d) At the time a decision by a lead agency to disapprove a development project becomes final, applications for that project which are filed with responsible agencies shall be deemed withdrawn."
+   ],
+   "sec": "65952",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Vetoed",
+ "subject": "Land use: housing development approvals: timelines and processes.",
+ "title": "An act to amend Sections 65928, 65950, and 65952 of, and to add Section 65928.6 to, the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-17",
+   "id": "20250AB199799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-07",
+   "id": "20250AB199798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-16",
+   "id": "20250AB199797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-27",
+   "id": "20250AB199796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-18",
+   "id": "20250AB199795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-18",
+   "id": "20250AB199794AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-27",
+   "id": "20250AB199793ENR",
+   "num": "93"
+  }
+ ]
+}

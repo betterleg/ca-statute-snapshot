@@ -1,0 +1,204 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Committee on Local Government",
+   "primary": true
+  }
+ ],
+ "bill": "SB1439",
+ "bill_id": "202520260SB1439",
+ "chapter": {
+  "num": "716",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law, the Joint Exercise of Powers Act, authorizes 2 or more public agencies, by agreement, to form a joint powers authority to exercise any power common to the contracting parties, as specified. Existing law requires a joint powers agreement to state the purpose of the agreement or the power to be exercised, and to provide for the method by which the purpose will be accomplished or the manner in which the power will be exercised. The act grants the agency the common power specified in the agreement and authorizes the agency to exercise that power in the manner provided in the agreement. Existing law authorizes a governing body that satisfies certain conditions to delegate its functions to an advisory body.",
+  "This bill would define the terms “advisory body,” “policy formation,” “program development,” and “program implementation” for purposes of that provision. The bill would state that these definitions do not constitute a change in, but are declaratory of, existing law.",
+  "(2) The California Constitution requires the state to provide a subvention of funds to reimburse the local government for the costs of a new program or a higher level of service, with specified exceptions, when the Legislature or a state agency mandates a new program or higher level of service on any local government, including school districts. Existing law, in the event that revised claiming instructions are issued by the Controller between November 15 and February 15, provides a local agency or school district filing an annual reimbursement claim with 120 days following the issuance date of the revised instructions to file a claim.",
+  "This bill would instead apply that provision if the revised claiming instructions are issued by the Controller between October 19 and February 15.",
+  "(3) Existing law requires specified county officers, including the public administrator, to be elected by the people. Existing law authorizes the boards of supervisors of specified counties to provide, by ordinance, that the public administrator be appointed by the board. Existing law also authorizes the boards of supervisors of specified counties, by ordinance, to appoint the same person to the offices of public administrator and public guardian, and to, at any time, separate the consolidated offices of the district attorney and public administrator, as specified.",
+  "This bill would apply those provisions to the County of Merced.",
+  "(4) Existing law establishes the office of the county clerk, and requires a county clerk, among other things, to take charge of and safely keep all books, papers, and records that are filed or deposited in the county clerk’s office pursuant to law.",
+  "This bill would make technical changes to various provisions relating to the county clerk to use gender-neutral language and update a cross-reference.",
+  "(5) Existing law establishes the office of county recorder and specifically requires the county recorder within 30 days of recordation of a deed, quitclaim deed, mortgage, or deed of trust, to notify by mail the party or parties executing the document, as specified. Existing law requires this notification to be sent to the address for mailing tax bills that was established prior to the recording of the document.",
+  "This bill would instead require a county recorder to mail the required notice to the current assessee at the most recent address for mailing tax bills that was established prior to the recording of the document.",
+  "(6) Existing law authorizes the county board of supervisors to provide for an additional fee of $1 for each instrument, paper, or notice of record to order to defray the cost of converting the county recorder’s document storage system to micrographics.",
+  "This bill would instead authorize that fee to defray the costs of implementing and funding a county recorder archive program and converting the county recorder’s document storage system for permanent retention.",
+  "(7) Existing law generally prescribes the duties and powers of mayors, including requiring a mayor to sign certain instruments. Existing law authorizes a legislative body to provide by ordinance that those instruments be signed by an officer other than the mayor.",
+  "This bill would authorize a legislative body to authorize, by resolution, an officer other than the mayor to sign those instruments, provided the instruments are in connection with or for the purposes of participating in a state-administered or state-approved funding or regulatory program.",
+  "(8) Existing law makes the treasurer of a local agency responsible for the safekeeping of money and authorizes them to enter into a contract with a depository, as specified. Existing law requires the depository and the depository agent to secure the deposits in eligible securities. Existing law defines eligible securities for this purpose to include, among other things, letters of credit issued by the Federal Home Loan Bank of San Francisco, as specified.",
+  "This bill, would make various nonsubstantive changes to those provisions and, for a county, city and county, or local agency that pools money in deposits or investments with other agencies and with assets under management of at least $100,000,000, would additionally authorize an eligible bank headquartered outside of the state to submit letters of credit drawn on its federal home loan bank, as specified.",
+  "(9) Existing law requires a local agency to declare land either “surplus land” or “exempt surplus land,” as supported by written findings, before the local agency may take any action to dispose of it consistent with an agency’s policies or procedures. Existing law generally requires a local agency, before disposing of or negotiating to dispose of surplus land, to provide a written notice of the availability of the surplus land to specified entities and housing sponsors. Under existing law, land declared as “exempt surplus land” is not subject to these requirements. Existing law defines “exempt surplus land” to mean, among other things, surplus land totaling 10 or more acres, consisting of either a single parcel, or 2 or more adjacent or nonadjacent parcels combined for disposition to one or more buyers pursuant to a plan or ordinance adopted by the legislative body of the local agency, or a state statute.",
+  "This bill would revise this definition of “exempt surplus land” to remove the reference to buyers and instead mean 2 or more adjacent or nonadjacent parcels combined for disposition to one or more persons or entities, as specified.",
+  "(10) Existing law, the Ralph M. Brown Act, requires, with specified exceptions, that all meetings of a legislative body, as defined, of a local agency be open and public and that all persons be permitted to attend and participate. The act authorizes an eligible subsidiary body to conduct a teleconference meeting, provided that it complies with specified requirements, including that the legislative body that established the eligible subsidiary body makes specified findings. Existing law authorizes a subsidiary body authorized to use teleconferencing to present any recommendation it develops to the legislative body that created it, and requires the legislative body to hold a discussion at a regular meeting upon receiving a request. Existing law authorizes that discussion to be combined with the legislative body’s subsequent consideration of the teleconferencing findings for the following 12 months.",
+  "This bill would instead authorize that discussion to be combined with the legislative body’s subsequent consideration of the teleconferencing findings for the following 6 months.",
+  "The act also authorizes an eligible multijurisdictional body to conduct a teleconference meeting, provided that it complies with specified requirements. Existing law defines “eligible multijurisdictional body” to mean a multijurisdictional board, commission, or advisory body of a multijurisdictional, cross-county agency.",
+  "This bill would redefine “eligible multijurisdictional body” to mean a multijurisdictional board, commission, or advisory body of a multijurisdictional, intercounty, or intracounty agency.",
+  "(11) Existing law requires a legislative body of a county, before approving a tentative map, to make specified findings, except as provided.",
+  "This bill would fix an erroneous cross-reference within that provision.",
+  "(12) Existing law requires the Imperial County Local Agency Formation Commission (LAFCO), by December 31, 2026, and by December 31 every 5 years thereafter, to conduct a municipal service review regarding health care service provision within the boundaries of the district, as specified.",
+  "This bill would instead require the Imperial County LAFCO to conduct that review by December 31, 2027, and by December 31 every 5 years thereafter.",
+  "(13) This bill would make legislative findings and declarations as to the necessity of a special statute for the County of Merced."
+ ],
+ "hash": "70ca48c890cdd5b2",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-03-11"
+  },
+  {
+   "action": "From printer. May be acted upon on or after April 11.",
+   "date": "2026-03-12"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-03-18"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-02"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 7. Noes 0. Page 3905.) (April 15).",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 37. Noes 0. Page 4033.) Ordered to the Assembly.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 9. Noes 0.) (July 1).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "From consent calendar on motion of Assembly Member Carrillo.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 78. Noes 0. Page 6373.) Ordered to the Senate.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "date": "2026-09-04"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-27"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 716, Statutes of 2026.",
+   "date": "2026-09-27"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-20",
+  "id": "20250SB143995CHP",
+  "num": "95"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66474.02 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Before approving a tentative map, or a parcel map for which a tentative map was not required, for an area located in a state responsibility area or a very high fire hazard severity zone, as both are defined in Section 51177, a legislative body of a county shall, except as provided in subdivision (c), make the following findings:",
+    "(1) A finding supported by substantial evidence in the record that the subdivision is consistent with regulations adopted by the State Board of Forestry and Fire Protection pursuant to Sections 4290 and 4291 of the Public Resources Code or consistent with local ordinances certified by the State Board of Forestry and Fire Protection as meeting or exceeding the state regulations.",
+    "(2) A finding supported by substantial evidence in the record that structural fire protection and suppression services will be available for the subdivision through any of the following entities:",
+    "(A) A county, city, special district, political subdivision of the state, or another entity organized solely to provide fire protection services that is monitored and funded by a county or other public entity.",
+    "(B) The Department of Forestry and Fire Protection by contract entered into pursuant to Section 4133, 4142, or 4144 of the Public Resources Code.",
+    "(b) Upon approving a tentative map, or a parcel map for which a tentative map was not required, for an area located in a state responsibility area or a very high fire hazard severity zone, as both are defined in Section 51177, a legislative body of a county shall transmit a copy of the findings required in subdivision (a) and accompanying maps to the State Board of Forestry and Fire Protection.",
+    "(c) (1) Subdivision (a) does not apply to the approval of a tentative map, or a parcel map for which a tentative map was not required, that would subdivide land identified in the open space element of the general plan for the managed production of resources, including, but not limited to, forest land, rangeland, agricultural land, and areas of economic importance for the production of food or fiber, if the subdivision is consistent with the open space purpose and if, for the subdivision of land that would result in parcels that are 40 acres or smaller in size, those parcels are subject to a binding and recorded restriction prohibiting the development of a habitable, industrial, or commercial building or structure. All other structures shall comply with defensible space requirements described in Section 51182 of this code or Sections 4290 and 4291 of the Public Resources Code.",
+    "(2) Any later approval to remove a binding restriction placed as a condition of a tentative map, or a parcel map for which a tentative map was not required, that would allow the development of a building or structure for a parcel that has previously been exempted from the requirements of subdivision (a) pursuant to paragraph (1) of this subdivision shall be subject to the requirements of subdivision (a).",
+    "(d) This section does not supersede regulations established by the State Board of Forestry and Fire Protection or local ordinances that provide equivalent or more stringent minimum requirements than those contained within this section."
+   ],
+   "sec": "66474.02",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Local government: omnibus bill.",
+ "title": "An act to amend Sections 6508, 17560, 24011, 26802, 26803, 26803.5, 26809, 26831, 26837, 26840.1, 27297.7, 27361.4, 40602, 53651, 54221, 54953.8.6, 54953.8.7, and 66474.02 of the Government Code, and to amend Section 32499.8 of the Health and Safety Code, relating to local government.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-03-11",
+   "id": "20250SB143999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-18",
+   "id": "20250SB143998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-19",
+   "id": "20250SB143997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-31",
+   "id": "20250SB143996ENR",
+   "num": "96"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-20",
+   "id": "20250SB143995CHP",
+   "num": "95"
+  }
+ ]
+}

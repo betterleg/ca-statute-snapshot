@@ -1,0 +1,97 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "DeMaio",
+   "primary": true
+  }
+ ],
+ "bill": "AB20",
+ "bill_id": "202520260AB20",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "(1) Existing law prohibits various conduct within certain distances of specified locations including schools and hospitals. Existing federal law, as established in City of Grants Pass, Oregon v. Johnson, authorizes the enforcement of generally applicable laws that regulate camping on public property.",
+  "This bill would prohibit a homeless encampment from operating within 500 feet of a sensitive community area, including, but not limited to, a school, open space, or transit stop. The bill would prohibit a person from camping, as defined, in any public space, including a sidewalk, if a homeless shelter bed is available in the city where the public space is located.",
+  "(2) Existing law defines Housing First as the evidence-based model that uses housing as a tool, rather than a reward, for recovery and that centers on providing or connecting homeless people to permanent housing as quickly as possible and specifies the core components of Housing First. Existing law establishes the California Interagency Council on Homelessness to oversee the implementation of Housing First guidelines and regulations, and, among other things, identify resources, benefits, and services that can be accessed to prevent and end homelessness in California. Existing law requires a state agency or department that funds, implements, or administers a state program that provides housing or housing-related services to people experiencing homelessness or who are at risk of homelessness to revise or adopt guidelines and regulations to include enumerated Housing First policies.",
+  "This bill would delete the requirement that a state agency or department revise or adopt guidelines to include Housing First policies, as described above, and would repeal related provisions requiring adherence to Housing First, as specified. The bill would instead authorize a state program to review the suitability of an applicant based on their housing readiness, as defined, and impose program rules and requirements related to sobriety, substance abuse, completion of treatment, mental health, participation in services, and compliance with program rules. The bill would require an agency or department to allocate state program funding according to a specified priority and would require the agency or department to issue regulations to local agencies to prioritize use of funds for state programs that include drug testing, mandatory treatment, and work requirements for program participants. The bill would require a state program to include a work program that provides paid work opportunities from private or governmental entities or volunteer opportunities serving the community. The bill would also prohibit a motel that accepts homeless assistance from the California Work Opportunity and Responsibility to Kids program for 20% or more of rented rooms during the year from receiving payments unless the motel is approved by the city council of the city in which the motel is located."
+ ],
+ "hash": "61a94968149545b0",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2024-12-02"
+  },
+  {
+   "action": "From printer. May be heard in committee January 2.",
+   "date": "2024-12-03"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and HUM. S.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "In committee: Set, first hearing. Failed passage.",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee: Without further action pursuant to Joint Rule 62(a).",
+   "date": "2025-05-21"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-03-24",
+  "id": "20250AB2098AMD",
+  "num": "98"
+ },
+ "location": "CX10",
+ "sections": [
+  {
+   "action": "Section 65660 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this article:",
+    "(a) “Low Barrier Navigation Center” means a low-barrier, service-enriched shelter focused on moving people into permanent housing that provides temporary living facilities while case managers connect individuals experiencing homelessness to income, public benefits, health services, shelter, and housing. A Low Barrier Navigation Center may be non-congregate and relocatable. “Low Barrier” means best practices to reduce barriers to entry, and may include, but is not limited to, the following:",
+    "(1) The presence of partners if it is not a population-specific site, such as for survivors of domestic violence or sexual assault, women, or youth.",
+    "(2) Pets.",
+    "(3) The storage of possessions.",
+    "(4) Privacy, such as partitions around beds in a dormitory setting or in larger rooms containing more than two beds, or private rooms.",
+    "(b) “Use by right” has the meaning defined in subdivision (i) of Section 65583.2. Division 13 (commencing with Section 21000) of the Public Resources Code shall not apply to actions taken by a public agency to lease, convey, or encumber land owned by a public agency, or to facilitate the lease, conveyance, or encumbrance of land owned by a public agency, or to provide financial assistance to, or otherwise approve, a Low Barrier Navigation Center constructed or allowed by this section."
+   ],
+   "sec": "65660",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Homelessness: People First Housing Act of 2025.",
+ "title": "An act to amend Section 1954.09 of the Civil Code, to amend Section 65660 of the Government Code, to amend Section 50216 of, and to add Chapter 22.5 (commencing with Section 26280) to Division 20 of, the Health and Safety Code, and to amend Sections 5960.31, 8255, and 15771 of, to repeal and add Section 8256 of, and to amend the heading of Chapter 6.5 (commencing with Section 8255) of Division 8 of, the Welfare and Institutions Code, relating to homelessness.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2024-12-02",
+   "id": "20250AB2099INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB2098AMD",
+   "num": "98"
+  }
+ ]
+}

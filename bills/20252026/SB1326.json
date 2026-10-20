@@ -1,0 +1,176 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wahab",
+   "primary": true
+  }
+ ],
+ "bill": "SB1326",
+ "bill_id": "202520260SB1326",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA requires a lead agency, before releasing an environmental review document for a project, to begin consultation with a California Native American tribe that is traditionally and culturally affiliated with the geographic area of the proposed project, as provided. CEQA authorizes the parties, as a part of the consultation, to propose mitigation measures capable of avoiding or substantially lessening potential significant impacts to a tribal cultural resource or alternatives that would avoid significant impacts to a tribal cultural resource. CEQA defines a tribal cultural resource as including, among other things, a site, feature, place, cultural landscape, sacred place, or object with cultural value to a California Native American tribe that is included or determined to be eligible for inclusion in the California Register of Historical Resources or included in a local register of historical resources, as provided.",
+  "This bill would modify the definition of tribal cultural resource to, among other things, include a site, feature, place, cultural landscape, sacred place, or object with cultural value to a California Native American tribe that is identified by the Native American Heritage Commission as a sacred place, as provided, or included in a local tribal register and provided to the lead agency by a consulting California Native American tribe.",
+  "CEQA requires public agencies, when feasible, to avoid damaging effects to tribal cultural resources and specifies mitigation measures that may be considered to avoid or minimize significant adverse impacts to tribal cultural resources if the consultation process fails to result in agreed-upon mitigation measures.",
+  "This bill would revise and recast those provisions to instead require a lead agency, when feasible, to adopt mitigation measures, as provided, to avoid or minimize the significant adverse impacts to tribal cultural resources. The bill would require avoidance and preservation of the resource in place to be considered when requested by the consulting California Native American tribe, and if avoidance and preservation are determined to not be feasible, the bill would require the lead agency to document the basis for that determination with substantial evidence and, when feasible, to incorporate other measures to avoid or minimize significant adverse impacts to the resource consistent with CEQA. The bill would authorize the consulting California Native American tribe to identify culturally appropriate mitigation measures, which the bill would require the lead agency to consider and incorporate, to the extent feasible, in developing mitigation and treatment measures.",
+  "This bill would require the lead agency, if archaeological methods and standards are used in the identification of tribal cultural resources instead of tribal methods and standards or tribal traditional knowledge submitted by a California Native American tribe during tribal consultation, to explain its decision to use archaeological methods and standards. The bill would require the lead agency, if treatment and mitigation measures preferred and submitted by a California Native American tribe during tribal consultation are not recommended for adoption by the lead agency, to explain its decision.",
+  "By imposing additional duties on local agencies in their implementation of CEQA, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "f87d9c60d5cf201b",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Com. on E.Q.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 4009.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Set for hearing May 4.",
+   "date": "2026-04-24"
+  },
+  {
+   "action": "May 4 hearing: Placed on APPR. suspense file.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "date": "2026-05-08"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0. Page 4273.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2026-05-20"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 33. Noes 0. Page 4420.) Ordered to the Assembly.",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on NAT. RES.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (June 22). Re-referred to Com. on APPR.",
+   "date": "2026-06-23"
+  },
+  {
+   "action": "August 5 set for first hearing. Placed on suspense file.",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "August 13 hearing: Held in committee and under submission.",
+   "date": "2026-08-13"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2026-06-11",
+  "id": "20250SB132698AMD",
+  "num": "98"
+ },
+ "location": "CX25",
+ "sections": [
+  {
+   "action": "Section 21074 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) “Tribal cultural resources” include any of the following:",
+    "(1) A site, feature, place, cultural landscape, sacred place, including a sanctified cemetery, cemetery, or burial area of a California Native American tribe, or object with cultural value to a California Native American tribe that is any of the following:",
+    "(A) Included or eligible for inclusion in the California Register of Historical Resources or the National Register of Historical Places.",
+    "(B) Included in a local register of historical resources as defined in subdivision (k) of Section 5020.1.",
+    "(C) Identified by the Native American Heritage Commission as a sacred place pursuant to Section 5097.94 or 5097.96.",
+    "(D) Included in a local tribal register and provided to the lead agency by a consulting California Native American tribe.",
+    "(2) A cultural landscape that meets the criteria of paragraph (1) to the extent that the landscape is geographically defined in terms of the size and scope of the landscape.",
+    "(3) A historical resource described in Section 21084.1, a unique archaeological resource as defined in subdivision (g) of Section 21083.2, or a “nonunique archaeological resource” as defined in subdivision (h) of Section 21083.2 that conforms with the criteria of paragraph (1).",
+    "(4) A resource determined by the lead agency to be significant pursuant to criteria set forth in subdivision (c) of Section 5024.1.",
+    "(b) Tribal cultural resources are a separate category from cultural resources and archaeological resources, and certain archaeological methods and standards may not be appropriate for identifying tribal cultural resources. If archaeological methods and standards are used in the identification of tribal cultural resources instead of tribal methods and standards or tribal traditional knowledge submitted by a California Native American tribe during tribal consultation, the lead agency shall explain its decision, supported by substantial evidence, in the environmental documents for the project."
+   ],
+   "sec": "21074",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21084.3 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Public agencies shall, when feasible, avoid damaging effects to any tribal cultural resource.",
+    "(b) If the lead agency determines that a project may cause a substantial adverse change to a tribal cultural resource, and measures are not otherwise identified in the consultation process provided in Section 21080.3.2, the lead agency shall, when feasible, adopt mitigation measures to avoid or minimize the significant adverse impacts. Those mitigation measures may include, but are not limited to, any of the following examples:",
+    "(1) Avoidance and preservation of the resource in place, including, but not limited to, planning and construction to avoid the resource and protect the cultural and natural context, or planning greenspace, parks, or other open space, to incorporate the resource with culturally appropriate protection and management criteria.",
+    "(2) Treating the resource with culturally appropriate dignity taking into account the tribal cultural values and meaning of the resource, including, but not limited to, the following:",
+    "(A) Protecting the cultural character and integrity of the resource.",
+    "(B) Protecting the traditional use of the resource.",
+    "(C) Protecting the confidentiality of the resource.",
+    "(3) Permanent conservation easements or other interests in real property, with culturally appropriate management criteria for the purposes of preserving or utilizing the resource or place.",
+    "(4) Reburying or relocating the resource on the project property in a location that will be protected from further disturbance or harm in perpetuity.",
+    "(5) Relinquishing the resource to the consulting California Native American tribe.",
+    "(6) Providing the consulting California Native American tribe access to the resource for purposes of cultural practices, continued heritage teachings, stewardship, or comanagement, as defined in Section 11019.82 of the Government Code, of lands.",
+    "(c) Avoidance and preservation of the tribal cultural resource in place shall be considered when requested by the consulting California Native American tribe. If avoidance and preservation of the resource in place are determined to not be feasible, the lead agency shall document the basis for that determination with substantial evidence and, when feasible, adopt mitigation measures to avoid or minimize significant adverse impacts to the resource consistent with this division.",
+    "(d) The consulting California Native American tribe may identify culturally appropriate mitigation measures, which the lead agency shall consider and incorporate, to the extent feasible, in developing mitigation and treatment measures.",
+    "(e) Curation of a tribal cultural resource at private or public repository facilities may only occur if agreed upon by the consulting California Native American tribe and any curation may be subject to federal and state repatriation laws and repository fees.",
+    "(f) Tribal cultural resources are a separate category from cultural resources and archaeological resources, and certain archaeological methods and standards may not be appropriate for treatment and mitigation of tribal cultural resources. If treatment and mitigation measures preferred and submitted by a California Native American tribe during tribal consultation are not recommended for adoption by the lead agency, the lead agency shall explain its decision, supported by substantial evidence, in the environmental documents for the project."
+   ],
+   "sec": "21084.3",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: tribal cultural resources: mitigation measures.",
+ "title": "An act to amend Sections 21074 and 21084.3 of the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB132699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-11",
+   "id": "20250SB132698AMD",
+   "num": "98"
+  }
+ ]
+}

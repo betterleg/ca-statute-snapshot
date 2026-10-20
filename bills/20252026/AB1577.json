@@ -1,0 +1,252 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bauer-Kahan",
+   "primary": true
+  }
+ ],
+ "bill": "AB1577",
+ "bill_id": "202520260AB1577",
+ "chapter": {
+  "num": "434",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law establishes the State Energy Resources Conservation and Development Commission and vests the commission with various responsibilities with respect to developing and implementing the state’s energy policies. Existing law requires the commission to biennially adopt an integrated energy policy report, as specified, and to make the reports accessible to state, local, and federal entities and to the general public.",
+  "This bill would require the commission to establish a process for the owner or operator of a data center, as defined, to submit specified information to the commission, including, among other information, the data center’s location and size, the data center’s power usage effectiveness, as defined, and the quantity of fuel consumed by onsite generators or other fuel-based energy systems, as specified. The bill would require the owner or operator of a data center to submit the required information in the manner and timeframe specified by the commission. The bill would require the commission, beginning with the 2029 integrated energy policy report, and in subsequent biennial reports thereafter as determined by the commission, to include an assessment of electrical load trends for data centers, as provided. The bill would require the commission to annually publish the information submitted in an anonymized and aggregated format on its internet website. The bill would require the commission to establish a process for the owner or operator of a data center to identify information that the owner or operator claims is exempted or prohibited from disclosure pursuant to federal or state law, as provided.",
+  "The bill would require the owner or operator of a data center, upon applying for a discretionary permit, entitlement, or land use authorization required for the construction or operation of the data center, to submit to the applicable local agency, as defined, specified information, including the expected annual energy consumption, as specified, and the expected sound levels attributable to the operation of the data center, as provided. The bill would authorize the local agency to use this information for various purposes, including, but not limited to, land use planning, infrastructure planning, energy supply assessment, and environmental review.",
+  "The bill would exempt a publicly funded research facility, public safety facility, publicly funded national security facility, publicly owned facility, or other utility facility, as provided, from the above-described provisions.",
+  "The bill would prohibit the commission or a local agency from disclosing the information described above in a manner that would result in the disclosure of personally identifiable information or energy consumption data for a data center customer, as provided.",
+  "Existing constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.",
+  "This bill would make legislative findings to that effect."
+ ],
+ "hash": "00da8acba6be4043",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-01-12"
+  },
+  {
+   "action": "From printer. May be heard in committee February 12.",
+   "date": "2026-01-13"
+  },
+  {
+   "action": "Referred to Coms. on U. & E. and NAT. RES.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on U. & E. Read second time and amended.",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "Re-referred to Com. on U. & E.",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on NAT. RES. (Ayes 13. Noes 5.) (April 8).",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-13"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 4.) (April 20). Re-referred to Com. on APPR.",
+   "date": "2026-04-21"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 4.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 57. Noes 16. Page 5355.)",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "Referred to Coms. on E., U & C. and JUD.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E., U & C.",
+   "date": "2026-06-11"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 13. Noes 4.) (June 24). Re-referred to Com. on JUD.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 2.) (June 30).",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered returned to second reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 29. Noes 10.).",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 58. Noes 11. Page 6695.).",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "date": "2026-09-04"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-21"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 434, Statutes of 2026.",
+   "date": "2026-09-21"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-21",
+  "id": "20250AB157790CHP",
+  "num": "90"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65909.3 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Upon applying for a discretionary permit, entitlement, or land use authorization required for the construction or operation of a data center, the owner or operator of the data center shall submit to the applicable local agency an estimate of all of the following information, to the extent applicable to the proposed facility:",
+    "(1) The expected annual energy consumption of the data center, expressed in kilowatthours.",
+    "(2) The expected annual quantity of electricity generated onsite, including both behind-the-meter primary and backup power generation, separated by generation type and expressed in kilowatthours.",
+    "(3) The expected average and maximum sound levels attributable to the operation of the data center, expressed in A-weighted decibels, measured at the point along the property boundary where the average sound level attributable to the operation of the data center is highest.",
+    "(b) The information submitted pursuant to subdivision (a) shall be based on the best available estimates at the time of submission.",
+    "(c) A local agency may use the information submitted pursuant to this section for various purposes, including, but not limited to, land use planning, infrastructure planning, energy supply assessment, and environmental review.",
+    "(d) This section does not apply to a publicly funded research facility, public safety facility, publicly funded national security facility, publicly owned facility, or other utility facility, including, but not limited to, a facility operated for the purpose of providing telecommunications services to the public by a terrestrial facilities-based telecommunications, cable, or internet service provider.",
+    "(e) For purposes of this section, all of the following definitions apply:",
+    "(1) “Applicable local agency” means a city, county, or city and county, that has discretionary land use or permitting authority over the construction or operation of a data center.",
+    "(2) “Data center” has the same meaning as defined in Section 25302.10 of the Public Resources Code.",
+    "(3) “Owner or operator” has the same meaning as defined in Section 25302.10 of the Public Resources Code."
+   ],
+   "sec": "65909.3",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Data centers: reporting.",
+ "title": "An act to add Sections 7927.303 and 65909.3 to the Government Code, and to add Section 25302.10 to the Public Resources Code, relating to energy.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-01-12",
+   "id": "20250AB157799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-26",
+   "id": "20250AB157798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-13",
+   "id": "20250AB157797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-18",
+   "id": "20250AB157796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-11",
+   "id": "20250AB157795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-02",
+   "id": "20250AB157794AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-13",
+   "id": "20250AB157793AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB157792AMD",
+   "num": "92"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-01",
+   "id": "20250AB157791ENR",
+   "num": "91"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-21",
+   "id": "20250AB157790CHP",
+   "num": "90"
+  }
+ ]
+}

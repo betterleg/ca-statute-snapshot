@@ -1,0 +1,63 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bennett",
+   "primary": true
+  }
+ ],
+ "bill": "AB2177",
+ "bill_id": "202520260AB2177",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law requires every city and county, by December 31, 1973, to prepare and adopt an open-space zoning ordinance consistent with the local open-space plan adopted pursuant to specified law. Existing law makes legislative findings that the provisions relating to open-space zoning are not intended, and shall not be construed, as authorizing the city or the county to exercise its power to adopt, amend or repeal an open-space zoning ordinance in a manner that will take or damage private property for public use without the payment of just compensation therefor.",
+  "This bill would make a nonsubstantive change to this provision."
+ ],
+ "hash": "0f8979e9e309792f",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "date": "2026-02-20"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2026-02-19",
+  "id": "20250AB217799INT",
+  "num": "99"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65912 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "The Legislature hereby finds and declares that this article is not intended, and shall not be construed, as authorizing the city or the county to exercise its power to adopt, amend or repeal an open-space zoning ordinance in a manner that will take or damage private property for public use without the payment of just compensation therefor. This section is not intended to increase or decrease the rights of any owner of property under the Constitution of the State of California or of the United States."
+   ],
+   "sec": "65912",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Pending Referral",
+ "subject": "Planning and Zoning law: open-space zoning.",
+ "title": "An act to amend Section 65912 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250AB217799INT",
+   "num": "99"
+  }
+ ]
+}

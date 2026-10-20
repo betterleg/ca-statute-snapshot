@@ -1,0 +1,245 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Cabaldon",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Allen",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Becker",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Jones",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Ochoa Bogh",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Weber Pierson",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Lowenthal",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Pacheco",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "primary": false
+  }
+ ],
+ "bill": "SB1159",
+ "bill_id": "202520260SB1159",
+ "chapter": {
+  "num": "863",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Constitution provides that people have the right of access to information concerning the conduct of the people’s business. Various provisions of existing law, including the California Public Records Act, the Legislative Open Records Act, the Bagley-Keene Open Meeting Act, and the Ralph M. Brown Act, provide, with some exceptions, for public access to government records and meetings of government bodies. Among those acts, the California Public Records Act defines “person” to include any natural person, corporation, partnership, limited liability company, firm, or association.",
+  "Existing law, the Administrative Procedure Act, governs, among other things, the procedures for the adoption, amendment, or repeal of regulations by state agencies and for the review of those regulatory actions by the Office of Administrative Law.",
+  "Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA defines “person” to include any person, firm, association, organization, partnership, business, trust, corporation, limited liability company, company, district, county, city and county, city, town, and, among other things, the state.",
+  "Existing law, the California Coastal Act of 1976, establishes the California Coastal Commission and prescribes procedures for the preparation, approval, and certification of local coastal programs that regulate development in the coastal zone, as defined, in jurisdictions that have a certified local coastal program.",
+  "This bill would specify that, for purposes of the California Public Records Act, the Bagley-Keene Open Meeting Act, the Ralph M. Brown Act, the Legislative Open Records Act, the Administrative Procedure Act, the California Coastal Act of 1976, and CEQA, “person,” “interested person,” “participant,” “member of the public,” as applicable, and any other similar terms under each act referring to those who may engage with governmental agencies, do not include artificial intelligence, as defined, systems, autonomous agents, or robots, whether physical or digital. The bill would authorize governmental agencies to use a disclosure verification tool to determine if artificial intelligence is present. The bill would make findings and declarations related to these provisions.",
+  "The bill would prohibit a person from knowingly using artificial intelligence to falsely represent that a natural person appeared before, submitted information to, or otherwise engaged with a governmental agency.",
+  "The California Constitution requires local agencies, for the purpose of ensuring public access to the meetings of public bodies and the writings of public officials and agencies, to comply with a statutory enactment that amends or enacts laws relating to public records or open meetings and contains findings demonstrating that the enactment furthers the constitutional requirements relating to this purpose.",
+  "This bill would make legislative findings to that effect."
+ ],
+ "hash": "4370e2a28a8558ab",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 21.",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Coms. on JUD. and P., D.T., & C.P.",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "Set for hearing March 24.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on P., D.T., & C.P. (Ayes 12. Noes 0. Page 3659.) (March 24).",
+   "date": "2026-03-24"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on P., D.T., & C.P.",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Set for hearing April 6.",
+   "date": "2026-03-27"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0. Page 3742.) (April 6). Re-referred to Com. on APPR.",
+   "date": "2026-04-07"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2026-04-07"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "date": "2026-04-07"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 38. Noes 0. Page 4129.) Ordered to the Assembly.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "Referred to Coms. on P. & C.P. and JUD.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on P. & C.P.",
+   "date": "2026-06-09"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on JUD. (Ayes 15. Noes 0.) (June 23).",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on JUD.",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 0.) (June 30).",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 74. Noes 0. Page 6148.) Ordered to the Senate.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 37. Noes 0.) Ordered to engrossing and enrolling.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 11 a.m.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 863, Statutes of 2026.",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250SB115994CHP",
+  "num": "94"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 21066 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) “Person” includes any person, firm, association, organization, partnership, business, trust, corporation, limited liability company, company, district, county, city and county, city, town, the state, and any of the agencies and political subdivisions of those entities, and, to the extent permitted by federal law, the United States, or any of its agencies or political subdivisions.",
+    "(b) (1) “Person,” “interested person,” “member of the public,” and any other similar terms referring to those who may engage with governmental agencies under this division do not include artificial intelligence systems, autonomous agents, or robots, whether physical or digital.",
+    "(2) For purposes of this subdivision, the following definitions apply:",
+    "(A) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.",
+    "(B) “Assistive technology” means an item, piece of equipment, or product system, whether acquired commercially, modified, or customized, that is used to increase, maintain, or improve functional capabilities of individuals with disabilities and any service that directly assists an individual with a disability in the selection, acquisition, or use of the item, equipment, or product system.",
+    "(3) A public agency may use a verification detection tool that meets the criteria described in Section 22757.2 of the Business and Professions Code to determine if artificial intelligence is present.",
+    "(4) This section does not prohibit a natural person from using artificial intelligence, autonomous agents, or robots to facilitate the person’s own engagement with a governmental agency, including through the use of assistive technologies, provided the volume and frequency of the engagement are reasonably consistent with ordinary participation by a natural person."
+   ],
+   "sec": "21066",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Artificial intelligence: transparency and governance.",
+ "title": "An act to amend Sections 7920.520, 9072, 11405.70, and 11500 of, and to add Sections 8319, 11121.5, 11342.575, 11370.1.5, and 54951.5 to, the Government Code, and to amend Sections 21066 and 30111 of the Public Resources Code, relating to artificial intelligence.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250SB115999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB115998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-09",
+   "id": "20250SB115997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-25",
+   "id": "20250SB115996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-24",
+   "id": "20250SB115995ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250SB115994CHP",
+   "num": "94"
+  }
+ ]
+}

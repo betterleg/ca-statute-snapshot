@@ -1,0 +1,112 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Dahle",
+   "primary": true
+  }
+ ],
+ "bill": "SB1086",
+ "bill_id": "202520260SB1086",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "Existing law authorizes the legislative body of any county or city to adopt ordinances that, among other things, regulate the use of buildings, structures, and land as between industry, business, residences, open space, and other purposes.",
+  "This bill would require the Office of Land Use and Climate Innovation, in consultation with specified state entities, to develop and publish one or more model ordinances regarding micro-education entities and microschools. The bill would define various terms for these purposes."
+ ],
+ "hash": "c61c62d3165d134e",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-13"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 16.",
+   "date": "2026-02-17"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and ED.",
+   "date": "2026-02-26"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-02"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-04-07"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on ED. with recommendation: To consent calendar. (Ayes 7. Noes 0. Page 3904.) (April 15). Re-referred to Com. on ED.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "April 22 set for first hearing. Failed passage in committee. (Ayes 2. Noes 0. Page 4007.) Reconsideration granted.",
+   "date": "2026-04-22"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-04-07",
+  "id": "20250SB108698AMD",
+  "num": "98"
+ },
+ "location": "CS44",
+ "sections": [
+  {
+   "action": "Section 65852.10 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section:",
+    "(1) “Local agency” means a city, county, city and county, charter city, charter county, or charter city and county.",
+    "(2) “Micro-education entity” means an individual or association of individuals that meets all of the following requirements:",
+    "(A) They have registered as a business entity or nonprofit organization pursuant to state and local law.",
+    "(B) They provide instruction for kindergarten and grades 1 to 12, inclusive.",
+    "(C) They serve more than 16 and fewer than 101 students at one time.",
+    "(D) They are a private school that has filed an affidavit pursuant to Section 33190 of the Education Code and are not a school operated by a school district or county office of education, a charter school, or a state special school.",
+    "(3) “Microschool” means an individual or association of individuals that meets all of the following requirements:",
+    "(A) They have registered as a business entity or nonprofit organization pursuant to state and local law.",
+    "(B) They provide instruction for kindergarten and grades 1 to 12, inclusive.",
+    "(C) They serve 16 or fewer students at one time.",
+    "(D) They operate from a residential dwelling, accessory dwelling unit, or residential property.",
+    "(E) They are a private school that has filed an affidavit pursuant to Section 33190 of the Education Code and are not a school operated by a school district or county office of education, a charter school, or a state special school.",
+    "(4) “Model ordinance” means an ordinance developed pursuant to subdivision (b).",
+    "(b) By January 1, 2028, the Office of Land Use and Climate Innovation, in consultation with the Department of Education, the Department of Housing and Community Development, and the Office of the State Fire Marshal, shall develop and publish one or more model ordinances regarding micro-education entities and microschools, which shall include, but not be limited to, all of the following:",
+    "(1) Building and fire safety requirements.",
+    "(2) Parking and traffic management.",
+    "(3) Hours of operation.",
+    "(4) Signage.",
+    "(5) Outdoor activity and noise."
+   ],
+   "sec": "65852.10",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Microschools and micro-education entities.",
+ "title": "An act to add Section 65852.10 to the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-13",
+   "id": "20250SB108699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-07",
+   "id": "20250SB108698AMD",
+   "num": "98"
+  }
+ ]
+}

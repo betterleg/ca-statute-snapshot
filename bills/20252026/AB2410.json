@@ -1,0 +1,195 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ellis",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alanis",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Castillo",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Sanchez",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wallis",
+   "primary": false
+  }
+ ],
+ "bill": "AB2410",
+ "bill_id": "202520260AB2410",
+ "chapter": {
+  "num": "NULL",
+  "year": "NULL"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA exempts from its requirements certain projects.",
+  "This bill would, until January 1, 2030, exempt from CEQA critical fuels reduction projects that address extremely flammable species, are conducted in communities located in high fire threat districts or very high fire hazard severity zones, and remove specified nonnative species or common species. The bill would require projects exempt from CEQA pursuant to this exemption to comply with the best management practices under the 2025 Statewide Fuels Reduction Environmental Protection Plan, as provided. The bill would require a lead agency carrying out a project exempt from CEQA pursuant to this exemption to consult with the Department of Fish and Wildlife, as provided, and to, within 90 days of project completion, submit a notice of project completion and a final compliance determination regarding the 2025 Statewide Fuels Reduction Environmental Protection Plan to the Secretary of the Natural Resources Agency and the Secretary for Environmental Protection, as provided. The bill would require, on or before March 1, 2028, and annually thereafter, the Secretary of the Natural Resources Agency to, in consultation with the Secretary for Environmental Protection, submit a report to the Legislature with specified information summarizing the implementation of these provisions during the preceding calendar year. Because a lead agency would be required to determine whether a project qualifies for this exemption, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "bdd93f3815ee4bdc",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be heard in committee March 23.",
+   "date": "2026-02-21"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "date": "2026-03-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on NAT. RES. Read second time and amended.",
+   "date": "2026-04-13"
+  },
+  {
+   "action": "Re-referred to Com. on NAT. RES.",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (April 20).",
+   "date": "2026-04-21"
+  },
+  {
+   "action": "Read second time and amended.",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 60. Noes 1. Page 5463.)",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-28"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and N.R. & W.",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on N.R. & W. (Ayes 6. Noes 0.) (June 24). Re-referred to Com. on N.R. & W.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (July 1).",
+   "date": "2026-07-09"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-09"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "date": "2026-08-13"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-07-09",
+  "id": "20250AB241096AMD",
+  "num": "96"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 21080.7 is added to the Public Resources Code , to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Without limiting any other statutory or categorical exemption provided under this division and subject to subdivision (b), this division does not apply to a critical fuels reduction project that addresses extremely flammable species and is conducted in a community located in a high fire threat district as determined by the Public Utilities Commission, or very high fire hazard severity zone as identified by the State Fire Marshal pursuant to Section 51178 of the Government Code or Section 4202 or as designated by an ordinance pursuant to Section 51179 of the Government Code that removes nonnative species 12 inches or less in diameter at breast height or a common species 8 inches or less in diameter at breast height.",
+    "(b) (1) Projects exempt from this division pursuant to this section shall comply with the best management practices under the 2025 Statewide Fuels Reduction Environmental Protection Plan as prepared by the Natural Resources Agency and the California Environmental Protection Agency, or its successor document.",
+    "(2) A project’s compliance with the 2025 Statewide Fuels Reduction Environmental Protection Plan pursuant to paragraph (1) does not exempt the project from a requirement to obtain a permit pursuant to any other law.",
+    "(c) The lead agency carrying out a project exempt from this division pursuant to this section shall consult with the Department of Fish and Wildlife to ensure that, to the extent feasible, the project is designed to avoid or minimize impacts to rare, threatened, and endangered plants and wildlife and wildlife nursery sites, including nesting rookeries, spawning areas, fawning areas, and maternal roosts.",
+    "(d) Within 90 days of project completion, the lead agency shall submit a notice of project completion and a final determination of compliance with the 2025 Statewide Fuels Reduction Environmental Protection Plan to the Secretary of the Natural Resources Agency and the Secretary for Environmental Protection. The final compliance determination shall include all of the following information:",
+    "(1) The 2025 Statewide Fuels Reduction Environmental Protection Plan measures implemented.",
+    "(2) Any deviations from the approved project description or 2025 Statewide Fuels Reduction Environmental Protection Plan requirements and the reasons for those deviations.",
+    "(3) The status of all required mitigation, restoration, monitoring, and maintenance activities.",
+    "(4) Documentation or other evidence sufficient to demonstrate implementation of applicable 2025 Statewide Fuels Reduction Environmental Protection Plan requirements and any measures resulting from consultation with the Department of Fish and Wildlife.",
+    "(5) Documentation or other evidence of achievement of all required permits.",
+    "(e) The Secretary of the Natural Resources Agency and the Secretary for Environmental Protection may audit project records maintained pursuant to subdivision (d) to evaluate compliance with this chapter and the 2025 Statewide Fuels Reduction Environmental Protection Plan and may issue recommendations to improve implementation of this section.",
+    "(f) On or before March 1, 2028, and annually thereafter, the Secretary of the Natural Resources Agency, in consultation with the Secretary for Environmental Protection, shall submit a report to the Legislature, in compliance with Section 9795 of the Government Code, that summarizes implementation of this chapter during the preceding calendar year. The report shall include, at a minimum, all of the following information:",
+    "(1) The number of projects determined eligible under this chapter.",
+    "(2) The location, acreage, and project type of each project.",
+    "(3) The permitting or environmental compliance mechanisms used.",
+    "(4) The lead agency responsible for project oversight.",
+    "(5) A summary of compliance with the 2025 Statewide Fuels Reduction Environmental Protection Plan, including any identified instances of noncompliance and corrective actions taken.",
+    "(6) A summary of mitigation measures implemented.",
+    "(7) A summary of ecological monitoring results and any recommendations for improving the 2025 Statewide Fuels Reduction Environmental Protection Plan based on projects exempt from this division pursuant to this section or implementation of this chapter.",
+    "(8) Recommendations for statutory or administrative changes to improve wildfire resilience while protecting fish, wildlife, water quality, and other natural resources.",
+    "(g) This section shall remain in effect only until January 1, 2030, and as of that date is repealed."
+   ],
+   "sec": "21080.7",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Wildfire safety: fuels reduction projects: California Environmental Quality Act.",
+ "title": "An act to add and repeal Section 21080.7 of the Public Resources Code, relating to wildfire safety.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250AB241099INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-13",
+   "id": "20250AB241098AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-04-22",
+   "id": "20250AB241097AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-09",
+   "id": "20250AB241096AMD",
+   "num": "96"
+  }
+ ]
+}

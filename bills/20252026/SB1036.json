@@ -1,0 +1,202 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "primary": true
+  }
+ ],
+ "bill": "SB1036",
+ "bill_id": "202520260SB1036",
+ "chapter": {
+  "num": "54",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the Mitigation Fee Act, imposes various requirements with respect to the establishment, increase, or imposition of a fee by a local agency as a condition of approval of a development project, including requiring the local agency to identify the use to which the fee is to be put and determine how there is a reasonable relationship between the fee’s use and the type of development project on which the fee is imposed.",
+  "This bill would require the amount of a fee that is imposed on a development project that demolishes or changes an existing use to be offset to account for the demolition or change so that the amount of the fee is attributable only to the development project’s incremental impact on public facilities or services, as provided.",
+  "Existing law provides that when a local agency imposes a fee for water connections or sewer connections, or imposes a capacity charge, as defined, those fees or charges shall not exceed the estimated reasonable cost of providing the service for which the fee or charge is imposed, except as specified.",
+  "This bill would provide that when a change in the capacity of an existing water or sewer connection is proposed, a local agency, in calculating the estimated reasonable cost of a capacity charge, shall only calculate an amount attributable to the change in the capacity. If the existing capacity exceeds the proposed capacity, the bill would prohibit any amount from being refunded, credited, transferred, assigned, or otherwise applied to offset any other charge or fee."
+ ],
+ "hash": "aa084f9093d3173d",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 14.",
+   "date": "2026-02-12"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "date": "2026-04-02"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 7. Noes 0. Page 3904.) (April 15).",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Read second time and amended. Ordered to third reading.",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 37. Noes 0. Page 4066.) Ordered to the Assembly.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 10. Noes 0.) (June 3).",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 61. Noes 0. Page 5760.) Ordered to the Senate.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "In Senate. Ordered to engrossing and enrolling.",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 54, Statutes of 2026.",
+   "date": "2026-06-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-06-30",
+  "id": "20250SB103695CHP",
+  "num": "95"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66001 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) In any action establishing, increasing, or imposing a fee as a condition of approval of a development project by a local agency, the local agency shall do all of the following:",
+    "(1) Identify the purpose of the fee.",
+    "(2) Identify the use to which the fee is to be put. If the use is financing public facilities, the facilities shall be identified. That identification may, but need not, be made by reference to a capital improvement plan as specified in Section 65403 or 66002, may be made in applicable general or specific plan requirements, or may be made in other public documents that identify the public facilities for which the fee is charged.",
+    "(3) Determine how there is a reasonable relationship between the fee’s use and the type of development project on which the fee is imposed.",
+    "(4) Determine how there is a reasonable relationship between the need for the public facility and the type of development project on which the fee is imposed.",
+    "(b) In any action imposing a fee as a condition of approval of a development project by a local agency, the local agency shall determine how there is a reasonable relationship between the amount of the fee and the cost of the public facility or portion of the public facility attributable to the development on which the fee is imposed.",
+    "(c) Upon receipt of a fee subject to this section, the local agency shall deposit, invest, account for, and expend the fees pursuant to Section 66006.",
+    "(d) (1) For the fifth fiscal year following the first deposit into the account or fund, and every five years thereafter, the local agency shall make all of the following findings with respect to that portion of the account or fund remaining unexpended, whether committed or uncommitted:",
+    "(A) Identify the purpose to which the fee is to be put.",
+    "(B) Demonstrate a reasonable relationship between the fee and the purpose for which it is charged.",
+    "(C) Identify all sources and amounts of funding anticipated to complete financing in incomplete improvements identified in paragraph (2) of subdivision (a).",
+    "(D) Designate the approximate dates on which the funding referred to in subparagraph (C) is expected to be deposited into the appropriate account or fund.",
+    "(2) When findings are required by this subdivision, they shall be made in connection with the public information required by subdivision (b) of Section 66006. The findings required by this subdivision need only be made for moneys in possession of the local agency, and need not be made with respect to letters of credit, bonds, or other instruments taken to secure payment of the fee at a future date. If the findings are not made as required by this subdivision, the local agency shall refund the moneys in the account or fund as provided in subdivision (e).",
+    "(e) Except as provided in subdivision (f), when sufficient funds have been collected, as determined pursuant to subparagraph (F) of paragraph (1) of subdivision (b) of Section 66006, to complete financing on incomplete public improvements identified in paragraph (2) of subdivision (a), and the public improvements remain incomplete, the local agency shall identify, within 180 days of the determination that sufficient funds have been collected, an approximate date by which the construction of the public improvement will be commenced, or shall refund to the then current record owner or owners of the lots or units, as identified on the last equalized assessment roll, of the development project or projects on a prorated basis, the unexpended portion of the fee, and any interest accrued thereon. By means consistent with the intent of this section, a local agency may refund the unexpended revenues by direct payment, by providing a temporary suspension of fees, or by any other reasonable means. The determination by the governing body of the local agency of the means by which those revenues are to be refunded is a legislative act.",
+    "(f) If the administrative costs of refunding unexpended revenues pursuant to subdivision (e) exceed the amount to be refunded, the local agency, after a public hearing, notice of which has been published pursuant to Section 6061 and posted in three prominent places within the area of the development project, may determine that the revenues shall be allocated for some other purpose for which fees are collected subject to this chapter and which serves the project on which the fee was originally imposed.",
+    "(g) A fee shall not include the costs attributable to existing deficiencies in public facilities, but may include the costs attributable to the increased demand for public facilities reasonably related to the development project in order to (1) refurbish existing facilities to maintain the existing level of service or (2) achieve an adopted level of service that is consistent with the general plan.",
+    "(h) If a development project demolishes or changes an existing use, the amount of a fee imposed on the development project shall be offset to account for the demolition or change so that the amount of the fee is attributable only to the development project’s incremental impact on public facilities or services.",
+    "(1) For purposes of this subdivision, an offset amount that exceeds the fee amount shall not be refundable or used to offset any other fee.",
+    "(2) For purposes of this subdivision, “changes an existing use” means that no demolition is proposed, but the use within an existing structure changes to a new use."
+   ],
+   "sec": "66001",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66013 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding any other law, when a local agency imposes fees for water connections or sewer connections, or imposes capacity charges, those fees or charges shall not exceed the estimated reasonable cost of providing the service for which the fee or charge is imposed, unless a question regarding the amount of the fee or charge imposed in excess of the estimated reasonable cost of providing the services or materials is submitted to, and approved by, a popular vote of two-thirds of those electors voting on the issue.",
+    "(b) As used in this section:",
+    "(1) “Sewer connection” means the connection of a structure or project to a public sewer system.",
+    "(2) “Water connection” means the connection of a structure or project to a public water system, as defined in subdivision (h) of Section 116275 of the Health and Safety Code.",
+    "(3) “Capacity charge” means a charge for public facilities in existence at the time a charge is imposed or charges for new public facilities to be acquired or constructed in the future that are of proportional benefit to the person or property being charged, including supply or capacity contracts for rights or entitlements, real property interests, and entitlements and other rights of the local agency involving capital expense relating to its use of existing or new public facilities. A “capacity charge” does not include a commodity charge.",
+    "(4) “Local agency” means a local agency as defined in Section 66000.",
+    "(5) “Fee” means a fee for the physical facilities necessary to make a water connection or sewer connection, including, but not limited to, meters, meter boxes, and pipelines from the structure or project to a water distribution line or sewer main, and the estimated reasonable cost of labor and materials for installation of those facilities bears a fair or reasonable relationship to the payor’s burdens on, or benefits received from, the water connection or sewer connection.",
+    "(6) “Public facilities” means public facilities as defined in Section 66000.",
+    "(c) A local agency receiving payment of a charge as specified in paragraph (3) of subdivision (b) shall deposit it in a separate capital facilities fund with other charges received, and account for the charges in a manner to avoid any commingling with other moneys of the local agency, except for investments, and shall expend those charges solely for the purposes for which the charges were collected. Any interest income earned from the investment of moneys in the capital facilities fund shall be deposited in that fund.",
+    "(d) For a fund established pursuant to subdivision (c), a local agency shall make available to the public, within 180 days after the last day of each fiscal year, the following information for that fiscal year:",
+    "(1) A description of the charges deposited in the fund.",
+    "(2) The beginning and ending balance of the fund and the interest earned from investment of moneys in the fund.",
+    "(3) The amount of charges collected in that fiscal year.",
+    "(4) An identification of all of the following:",
+    "(A) Each public improvement on which charges were expended and the amount of the expenditure for each improvement, including the percentage of the total cost of the public improvement that was funded with those charges if more than one source of funding was used.",
+    "(B) Each public improvement on which charges were expended that was completed during that fiscal year.",
+    "(C) Each public improvement that is anticipated to be undertaken in the following fiscal year.",
+    "(5) A description of each interfund transfer or loan made from the capital facilities fund. The information provided, in the case of an interfund transfer, shall identify the public improvements on which the transferred moneys are, or will be, expended. The information, in the case of an interfund loan, shall include the date on which the loan will be repaid, and the rate of interest that the fund will receive on the loan.",
+    "(e) The information required pursuant to subdivision (d) may be included in the local agency’s annual financial report.",
+    "(f) The provisions of subdivisions (c) and (d) shall not apply to any of the following:",
+    "(1) Moneys received to construct public facilities pursuant to a contract between a local agency and a person or entity, including, but not limited to, a reimbursement agreement pursuant to Section 66003.",
+    "(2) Charges that are used to pay existing debt service or which are subject to a contract with a trustee for bondholders that requires a different accounting of the charges, or charges that are used to reimburse the local agency or to reimburse a person or entity who advanced funds under a reimbursement agreement or contract for facilities in existence at the time the charges are collected.",
+    "(3) Charges collected on or before December 31, 1998.",
+    "(g) Any judicial action or proceeding to attack, review, set aside, void, or annul the ordinance, resolution, or motion imposing a fee or capacity charge subject to this section shall be brought pursuant to Section 66022.",
+    "(h) Fees and charges subject to this section are not subject to the provisions of Chapter 5 (commencing with Section 66000), but are subject to the provisions of Sections 66016, 66022, and 66023.",
+    "(i) Subdivisions (c) and (d) only apply to capacity charges levied pursuant to this section.",
+    "(j) When a change in the capacity of an existing water or sewer connection is proposed, the local agency, in calculating the estimated reasonable cost of a capacity charge, shall only calculate an amount attributable to the change in the capacity. For purposes of this subdivision, if the existing capacity exceeds the proposed capacity, no amount shall be refunded, credited, transferred, assigned, or otherwise applied to offset any other charge or fee."
+   ],
+   "sec": "66013",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Mitigation Fee Act.",
+ "title": "An act to amend Sections 66001 and 66013 of the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-11",
+   "id": "20250SB103699INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-08",
+   "id": "20250SB103698AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-16",
+   "id": "20250SB103697AMD",
+   "num": "97"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-06-22",
+   "id": "20250SB103696ENR",
+   "num": "96"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-06-30",
+   "id": "20250SB103695CHP",
+   "num": "95"
+  }
+ ]
+}

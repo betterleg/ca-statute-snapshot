@@ -1,0 +1,346 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Durazo",
+   "primary": true
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Blakespear",
+   "primary": false
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Kalra",
+   "primary": false
+  }
+ ],
+ "bill": "SB21",
+ "bill_id": "202520260SB21",
+ "chapter": {
+  "num": "511",
+  "year": "2025"
+ },
+ "digest": [
+  "(1) Existing law, known as the Housing Crisis Act of 2019, among other things, prohibits an affected city or an affected county, as defined, from approving a housing development project that will require the demolition of occupied or vacant protected units, as defined, or that is located on a site where protected units were demolished in the previous 5 years unless specified requirements are met. Among these requirements, existing law requires that the project replace all existing protected units and protected units demolished on or after January 1, 2020, and, if the project is a housing development project, as defined, it will include at least as many residential dwelling units as the greatest number of residential dwelling units that existed on the project site within the last 5 years. Existing law requires that specified protected units replaced under these provisions be considered in determining whether the housing development project satisfies certain state and local requirements that the project provide a certain percentage of residential rental units affordable to, and occupied by, households with incomes that do not exceed the limits for moderate-income, lower income, very low income, or extremely low income households, as specified.",
+  "This bill would additionally require that the above-described replaced protected units be considered in determining whether the housing development project satisfies requirements that the project provide a certain percentage of residential rental units affordable to, and occupied by, households with incomes that do not exceed the limits for acutely low income households, as specified.",
+  "This bill, notwithstanding the above-described requirements, in the case of rehabilitation or replacement of an existing single-room occupancy building that meets prescribed criteria, would permit an affected city or an affected county to reduce the number of replacement units required if the project meets specified requirements, including, among others, that the reduction in replacement units is necessary to accommodate the conversion of single-room occupancy units, as provided, and that the converted units will be rental units with affordable rents, as specified. The bill would include specified findings declaring legislative intent with respect to these provisions. The bill would permit a borrower to conduct a market study to support the unit sizes proposed in the replacement housing plan, as provided.",
+  "(2) Existing law establishes the Department of Housing and Community Development and requires it to administer various programs intended to promote the development of housing, including, among others, the Multifamily Housing Program, pursuant to which the department provides financial assistance in the form of deferred payment loans to pay for the eligible costs of development of specified types of housing projects. Existing law sets forth various general powers of the department in implementing these programs, including authorizing the department to enter into long-term contracts or agreements of up to 30 years for the purpose of servicing loans or grants or enforcing regulatory agreements or other security documents.",
+  "This bill, for purposes of determining eligibility for an individual displaced from or returning to a single-room occupancy unit undergoing rehabilitation or a replacement unit that received funds from the department and is for a homeless individual or family, would (A) specify that an individual is deemed homeless if they meet certain criteria and (B) prohibit an individual or family meeting these criteria from being subject to a requirement that the unit be filled through a referral from a coordinated entry system, as defined, or a similar referral system."
+ ],
+ "hash": "9c9ba299ce6bbf13",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "date": "2024-12-02"
+  },
+  {
+   "action": "From printer. May be acted upon on or after January 2.",
+   "date": "2024-12-03"
+  },
+  {
+   "action": "Referred to Com. on L., P.E. & R.",
+   "date": "2025-01-29"
+  },
+  {
+   "action": "Set for hearing March 26.",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "March 26 hearing postponed by committee.",
+   "date": "2025-03-21"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L., P.E. & R.",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "date": "2025-03-27"
+  },
+  {
+   "action": "Re-referred to Com. on RLS.",
+   "date": "2025-03-27"
+  },
+  {
+   "action": "Re-referred to Coms. on L. GOV. and HOUSING.",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 23.",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 7. Noes 0. Page 871.) (April 23). Re-referred to Com. on HOUSING.",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Set for hearing April 29.",
+   "date": "2025-04-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0. Page 936.) (April 29). Re-referred to Com. on APPR.",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2025-05-01"
+  },
+  {
+   "action": "Set for hearing May 12.",
+   "date": "2025-05-02"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2025-05-13"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 1248.) Ordered to the Assembly.",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on L. GOV. (Ayes 12. Noes 0.) (July 2).",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on L. GOV.",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 10. Noes 0.) (July 16). Re-referred to Com. on APPR.",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 15. Noes 0.) (August 20).",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "From consent calendar on motion of Assembly Member Garcia.",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Read third time and amended.",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 79. Noes 0. Page 2986.) Ordered to the Senate.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 2708.) Ordered to engrossing and enrolling.",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "date": "2025-09-16"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 511, Statutes of 2025.",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB2192CHP",
+  "num": "92"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 66300.6 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding any other law and notwithstanding local density requirements, and except as provided in Section 66300.6.5, an affected city or an affected county shall not approve a housing development project that will require the demolition of one or more residential dwelling units unless the project will create at least as many residential dwelling units as will be demolished.",
+    "(b) Notwithstanding any other law and notwithstanding local density requirements, and except as provided in Section 66300.6.5, an affected city or an affected county shall not approve a development project that will require the demolition of occupied or vacant protected units, or that is located on a site where protected units were demolished in the previous five years, unless all of the following requirements are satisfied:",
+    "(1) (A) The project will replace all existing protected units and protected units demolished on or after January 1, 2020.",
+    "(B) Any protected units replaced pursuant to this paragraph shall be considered in determining whether the housing development project satisfies the requirements of Section 65915 or a locally adopted requirement that requires, as a condition of the development of residential rental units, that the project provide a certain percentage of residential rental units affordable to, and occupied by, households with incomes that do not exceed the limits for moderate-income, lower income, very low income, extremely low income, or acutely low income households, as specified in Sections 50063.5, 50079.5, 50093, 50105, and 50106 of the Health and Safety Code, as applicable.",
+    "(C) This paragraph shall not apply to a project that meets all of the following conditions:",
+    "(i) The project is an industrial use.",
+    "(ii) The project site is entirely within a zone that does not allow residential uses.",
+    "(iii) The zoning applicable to the project site that does not allow residential uses was adopted prior to January 1, 2022.",
+    "(iv) The protected units that are or were on the project site are or were nonconforming uses.",
+    "(2) (A) If the project is a housing development project, it will include at least as many residential dwelling units as the greatest number of residential dwelling units that existed on the project site within the last five years.",
+    "(B) If the project is not a housing development project, the proponent will ensure that any required replacement housing is developed prior to or concurrently with the development project. The required replacement housing may be located on a site other than the project site but shall be located within the same jurisdiction. The project proponent may contract with another entity to develop the required replacement housing.",
+    "(3) (A) Any existing occupants will be allowed to occupy their units until six months before the start of construction activities. The project proponent shall provide existing occupants with written notice of the planned demolition, the date they must vacate, and their rights under this section. Notice shall be provided at least six months in advance of the date that existing occupants must vacate.",
+    "(B) Any existing occupants that are required to leave their units shall be allowed to return at their prior rental rate if the demolition does not proceed and the property is returned to the rental market.",
+    "(4) The developer agrees to provide both of the following to the existing occupants of any protected units that are lower income households:",
+    "(A) Relocation benefits that are equivalent to the relocation benefits required to be paid by public entities pursuant to Chapter 16 (commencing with Section 7260) of Division 7 of Title 1 and any implementing regulations.",
+    "(B) A right of first refusal for a comparable unit available in the new housing development, or in any required replacement units associated with a new development that is not a housing development, affordable to the household at an affordable rent or an affordable housing cost. This subparagraph shall not apply to any of the following:",
+    "(i) A development project that consists of a single residential unit located on a site where a single protected unit is being demolished.",
+    "(ii) (I) Units in a housing development in which 100 percent of the units, exclusive of a manager’s unit or units, are reserved for lower income households.",
+    "(II) Notwithstanding subclause (I), this subparagraph shall apply to protected units occupied by an occupant who qualifies for residence in the new development and for whom providing a comparable unit would not be precluded due to unit size limitations or other requirements of one or more funding source of the housing development.",
+    "(iii) A project that meets the requirements of subparagraph (C) of paragraph (1).",
+    "(C) (i) For purposes of complying with subparagraph (B), if one or more single-family homes that qualify as protected units are being replaced in a development project that consists of two or more units, “comparable unit” means either of the following, as applicable:",
+    "(I) A unit containing the same number of bedrooms if the single-family home contains three or fewer bedrooms.",
+    "(II) A unit containing three bedrooms if the single-family home contains four or more bedrooms.",
+    "(ii) For purposes of this subparagraph, a comparable unit is not required to have the same or similar square footage or the same number of total rooms.",
+    "(D) This subparagraph does not apply to an occupant of a short-term rental that is rented for a period of fewer than 30 days.",
+    "(5) This subdivision does not confer additional legal protections upon an unlawful occupant of a protected unit.",
+    "(c) This section shall not supersede any objective provision of a locally adopted ordinance that places restrictions on the demolition of residential dwelling units or the subdivision of residential rental units that are more protective of lower income households, requires the provision of a greater number of units affordable to lower income households, or that requires greater relocation assistance to displaced households.",
+    "(d) This section shall not apply to a housing development project for which an application was submitted after January 1, 2019, but prior to January 1, 2020, in a jurisdiction with a population of under 31,000 as of the 2020 United States Census that has a rent or price control ordinance."
+   ],
+   "sec": "66300.6",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 66300.6.5 is added to the Government Code , immediately following Section 66300.6 , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For the purposes of this section, the following definitions apply:",
+    "(1) “Complete private bathroom” means a bathroom that consists of a toilet and a shower, with a vanity sink that may or may not be in the same room.",
+    "(2) (A) “Kitchen” means a section of a dwelling that includes a stove, sink, and refrigerator.",
+    "(B) The sink described in subparagraph (A) shall be separate from the bathroom.",
+    "(3) “Single-room occupancy unit” means a dwelling unit that does not include a complete private bathroom and kitchen.",
+    "(4) “Studio unit” means a dwelling unit that does not include a separate bedroom, but includes a complete private bathroom and a private kitchen.",
+    "(b) Notwithstanding paragraphs (1) and (2) of subdivision (b) of Section 66300.6, in the case of rehabilitation or replacement of an existing single-room occupancy building where units are deed restricted at affordable rents to low-income households, do not have separate bedrooms, and do not include both a complete private bath and a kitchen, an affected city or an affected county, as applicable, may reduce the number of required replacement units if it finds, based on substantial evidence in the record, that all of the following conditions are met:",
+    "(1) The reduction is necessary to accommodate the conversion of a single-room occupancy unit to a studio or larger unit, to accommodate the addition of facilities, including, but not limited to, private bathrooms, kitchens, or community rooms, to increase accessibility for persons with disabilities, or to address code compliance for matters related to health, welfare, life, and safety.",
+    "(2) The conversion of the single-room occupancy unit will be completed within four years from the date of rehabilitation or demolition of the single-room occupancy unit. If the completion of improvements will take longer than four years, the project proponent may present to the jurisdiction an explanation for the delay and a good faith plan demonstrating how occupancy will be achieved at the earliest possible date. If the delay is due to circumstances outside the project proponent’s control, the jurisdiction may, at its discretion, and using objective criteria, grant a one-year extension for project completion.",
+    "(3) The converted single-room occupancy unit will be a rental unit with affordable rents or lower than at the applicable affordable rent level of the replaced single-room occupancy unit, provided the affordable rent level would not be precluded due to limitations or other requirements of one or more funding source of the housing development.",
+    "(4) The converted single-room occupancy unit will only be available to households with a household income at or below the income levels for lower income, very low income, extremely low income, or acutely low income households, as specified in Sections 50063.5, 50079.5, 50093, 50105, and 50106 of the Health and Safety Code, as applicable.",
+    "(5) A converted unit will remain available at the applicable affordable rent level of the replaced single-room occupancy unit for the longest feasible amount of time, but not less than 55 years. A covenant of affordability shall be recorded with the county recorder prior to the issuance of the certificate of occupancy or completion of work as approved by the local agency.",
+    "(6) (A) A displaced single-room occupancy unit occupant shall have a right of first refusal for admission to a replacement unit, provided the single-room occupancy unit occupant would not be precluded due to unit size limitations or other requirements of one or more funding source of the housing development.",
+    "(B) If an occupant is precluded from occupying a replacement unit due to a requirement of a funding source of the housing development, as described in subparagraph (A), the project proponent shall identify in writing the specific funding source and requirement that precludes the occupant’s return. If a displaced single-room occupancy occupant is deemed ineligible for the replacement unit due to this requirement, the project proponent shall offer an alternative, comparable unit within their portfolio to the displaced occupant.",
+    "(C) The initial rent for a returning single-room occupancy unit occupant shall not exceed the rent at the time of displacement by more than 5 percent. Notwithstanding the preceding sentence, if the displaced occupant was paying 40 percent or more of their household income in rent at the time of displacement, the initial rent for that occupant shall not exceed the rent paid at the time of displacement.",
+    "(D) Subsequent rent increases shall be consistent with any other applicable law, contract, agreement, or other restrictions governing allowable rent increases, except that subsequent rent increases and maximum rents shall be subject to the following additional limitations:",
+    "(i) The amount of any subsequent rent increase for a replacement unit subject to this subparagraph shall not exceed the minimum amount necessary to ensure a positive cashflow for at least 20 years from the date the displaced single-room occupancy unit occupant begins residing in the replacement unit.",
+    "(ii) The amount of rent as subsequently increased in accordance with this subparagraph shall not exceed 50 percent of the displaced single-room occupancy unit occupant’s actual household income, determined as of the date the displaced single-room occupancy unit occupant begins residing in the replacement unit.",
+    "(iii) (I) Subject to subclause (II), if the amount of rent charged for a replacement unit subject to this paragraph equals or exceeds the lesser of the following amounts, further annual rent increases for that replacement unit shall be limited based on increases to the area median income under the low-income housing tax credit program, as administered by the California Tax Credit Allocation Committee:",
+    "(ia) Fifty percent of the displaced single-room occupancy unit occupant’s actual household income, as describe in clause (ii).",
+    "(ib) The amount of rent charged for the single-room occupancy unit at the time of the occupant’s displacement.",
+    "(II) Notwithstanding subclause (I), no annual rent increase for a replacement unit shall result in the occupant paying more than 50 percent of their actual household income in rent, as provided in clause (ii).",
+    "(iv) Nothing in this subparagraph shall preclude an owner, in consultation with the applicable regulating agency, from charging less than the maximum allowable rent. Nothing in this subparagraph shall require a reduction of rent below the amount charged for the single-room occupancy unit at the time of the occupant’s displacement.",
+    "(7) The net loss of single-room occupancy units due to a rehabilitation or replacement in accordance with this section will not exceed 25 percent of the total single-room occupancy units in the development. Notwithstanding the preceding sentence, a project proponent may further reduce the number of units provided at the replacement project site if those additional units are replaced on a one-for-one basis, by either the project proponent or its designee. The offsite replacement housing shall meet all of the following conditions:",
+    "(A) The units shall be rental units with affordable rents at the applicable affordable rent level of the replaced single-room occupancy unit.",
+    "(B) The units shall be available to households with a household income at or below the income levels for lower income, very low income, extremely low income, or acutely low income, as specified in Sections 50063.5, 50079.5, 50093, 50105, and 50106 of the Health and Safety Code, as applicable.",
+    "(C) The units shall remain available at the applicable affordable rent level of the replaced single-room occupancy unit for the longest feasible time, but not less than 55 years. The covenant of affordability shall be recorded with the county recorder prior to the issuance of the certificate of occupancy.",
+    "(D) (i) Except as otherwise provided in clause (ii), the replacement units shall be located within the applicable of the following:",
+    "(I) If there is an applicable local community plan area, within the same local community plan area as the converted single-room occupancy units.",
+    "(II) If there is no applicable community plan area, and the converted single-room occupancy units are located within a redevelopment project area, as described in Part 1 (commencing with Section 33000) of Division 24 of the Health and Safety Code, within the same redevelopment project area as the converted single-occupancy units.",
+    "(III) If there is no applicable community plan area, and the converted single-room occupancy units are not located within a redevelopment project area, as described in Part 1 (commencing with Section 33000) of Division 24 of the Health and Safety Code, within the same jurisdiction as the converted single-room occupancy units.",
+    "(ii) In lieu of locating replacement units within the same local community plan area, redevelopment project area, or jurisdiction as the converted single-room occupancy units, as described in clause (i), the replacement units may be located within a census tract or census block group, as applicable, that is designated as highest resource or high resource on the opportunity area maps developed by the California Tax Credit Allocation Committee and Department of Housing and Community Development and located within the same jurisdiction.",
+    "(E) Replacement units shall not be existing rental units occupied by a low-income household.",
+    "(F) All replacement units shall be made available for occupancy as soon as possible, but no more than four years from the date of rehabilitation or demolition of the single-room occupancy unit, whichever is earlier. If the project takes longer than four years due to extenuating circumstances, the project proponent may present to the jurisdiction a good faith plan demonstrating that occupancy would have been achieved within four years. If the delay is due to circumstances outside the project proponent’s control, the jurisdiction may, at its discretion and using objective criteria, grant a one-year extension for project completion.",
+    "(8) (A) Prior to the issuance of a permit for demolition, rehabilitation, or conversion of the single-room occupancy unit, the project proponent shall submit a replacement housing plan to the jurisdiction that includes all of the following:",
+    "(i) A description of the proposed conversion, demolition, or rehabilitation, including the substantial evidence required to show that reduction is necessary to accommodate the conversion of a single-room occupancy unit to a studio or larger unit, to accommodate the addition of facilities, including, but not limited to, private bathrooms, kitchens, or community rooms, to increase accessibility for persons with disabilities, or to address code compliance for matters related to health, welfare, life, and safety; the total number of units proposed and all related amenities; the total number of existing units; and the bedroom composition of the existing units.",
+    "(ii) A report on the current rental rates for each single-room occupancy unit, the number of vacancies and length of vacancies in the single-room occupancy building, and the length of residency of each occupied unit.",
+    "(iii) A statement as to whether any occupants will be displaced as a result of the proposed project.",
+    "(iv) A statement, with supporting documentation, as to when and why the unit was vacated.",
+    "(v) A plan for the replacement of the occupied and vacant single-room occupancy units, including, but not limited to, the following:",
+    "(I) The number of existing units.",
+    "(II) The bedroom composition.",
+    "(III) Whether the property is vacant or occupied.",
+    "(IV) The existing rent levels.",
+    "(V) Whether affordable covenants exist on that property, and, if so, the nature and duration of those covenants.",
+    "(vi) The time and manner that the replacement units will become available for occupancy.",
+    "(vii) If the removed units exceed 25 percent of the single-room occupancy units, the proposed location of replacement single-room occupancy units, with a description of the proposed property, including the location and previous use of the property.",
+    "(B) The jurisdiction shall review the replacement housing plan within 30 days of submission or resubmission.",
+    "(C) The jurisdiction shall not issue a permit for demolition, rehabilitation, or conversion of the single-room occupancy without first approving the replacement housing plan.",
+    "(9) A single-room occupancy removal shall be subject to the required relocation benefits and requirements, including the relocation plan, under Chapter 16 (commencing with Section 7260) of Division 7 of Title 1, the local jurisdiction’s relocation benefits, or any other relocation benefits to which a displaced person is entitled, whichever is greatest, and shall be provided to all displaced persons, as defined in Section 7260. If any units are vacant, the owner shall provide documentation demonstrating when and why the unit was vacated. If a jurisdiction reasonably determines that a unit was vacated due to the owner’s attempt to avoid relocation assistance obligations, the owner shall be required to pay relocations assistance to a displaced occupant and offer a right of return to the new unit.",
+    "(c) A borrower may conduct a market study to support the unit sizes proposed in the replacement housing plan. If a market study is required by a regulating agency, it shall be conducted at the borrower’s expense and must conform to the market study guidelines adopted by the California Tax Credit Allocation Committee, including those for acquisition or rehabilitation projects pursuant to paragraph (10) of subdivision (h) of Section 10322 of Title 4 of the California Code of Regulations."
+   ],
+   "sec": "66300.6.5",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Single-room occupancy units: demolition and replacement: housing assistance programs: eligibility for homeless individuals and families.",
+ "title": "An act to amend Section 66300.6 of, and to add Section 66300.6.5 to, the Government Code, and to add Section 50406.6 to the Health and Safety Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2024-12-02",
+   "id": "20250SB2199INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-26",
+   "id": "20250SB2198AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-01",
+   "id": "20250SB2197AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-07",
+   "id": "20250SB2196AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-08-29",
+   "id": "20250SB2195AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-04",
+   "id": "20250SB2194AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250SB2193ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB2192CHP",
+   "num": "92"
+  }
+ ]
+}

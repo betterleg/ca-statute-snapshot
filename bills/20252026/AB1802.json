@@ -1,0 +1,225 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Stefani",
+   "primary": true
+  }
+ ],
+ "bill": "AB1802",
+ "bill_id": "202520260AB1802",
+ "chapter": {
+  "num": "274",
+  "year": "2026"
+ },
+ "digest": [
+  "The Planning and Zoning Law authorizes a state or local public agency to authorize a governmental entity, a special district, a nonprofit organization, a for-profit entity, a person, or another entity to hold title to and manage an interest in property held for mitigation purposes, subject to certain requirements.",
+  "Existing law authorizes a governmental entity, special district, or nonprofit organization that holds the property as described above to hold an endowment conveyed for the property, except as specified. Existing law subjects the holder of an endowment to certain requirements, including that the holder certify to the project proponent or the holder of the mitigation property or a conservation easement and the local or state agency that required the endowment that it meets specified requirements. Existing law repeals these provisions on January 1, 2027.",
+  "This bill would delete the above repeal date, thereby extending those provisions indefinitely.",
+  "Existing law establishes the Department of Fish and Wildlife in the Natural Resources Agency. Under existing law, the department has jurisdiction over the conservation, protection, and management of fish, wildlife, native plants, and habitat necessary for biologically sustainable populations of those species.",
+  "This bill would require the department, on or before July 1, 2030, and every 5 years thereafter, to post on its internet website a summary table providing information on the status of certain endowments held as described above, as specified. The bill would require the summary table to include specified information with respect to each such endowment, including, among other things, the name of the endowment holder."
+ ],
+ "hash": "2880d99713761bed",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "date": "2026-02-10"
+  },
+  {
+   "action": "From printer. May be heard in committee March 13.",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and W., P., & W.",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "Re-referred to Coms. on W., P., & W. and L. GOV. pursuant to Assembly Rule 96.",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To Consent Calendar. (Ayes 13. Noes 0.) (April 14). Re-referred to Com. on L. GOV.",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 74. Noes 0. Page 5257.)",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "Referred to Coms. on N.R. & W. and L. GOV.",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (June 23). Re-referred to Com. on L. GOV.",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (July 1).",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0.) (August 13).",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "date": "2026-08-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0. Page 6403.).",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3:30 p.m.",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "date": "2026-09-18"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 274, Statutes of 2026.",
+   "date": "2026-09-18"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-18",
+  "id": "20250AB180296CHP",
+  "num": "96"
+ },
+ "location": "NULL",
+ "sections": [
+  {
+   "action": "Section 65968 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Notwithstanding Section 13014 of the Fish and Game Code, if an endowment is conveyed pursuant to Section 65966 for property conveyed pursuant to Section 65967, the endowment may be held by the same governmental entity, special district, or nonprofit organization that holds the property pursuant to this section.",
+    "(b) (1) Except as permitted pursuant to paragraph (2), the endowment shall be held by one of the following:",
+    "(A) The agency or agencies that required the mitigation.",
+    "(B) The governmental entity, special district, or nonprofit organization that either holds the property, or holds an interest in the property, for conservation purposes.",
+    "(C) The governmental entity or special district that retains the property after conveying an interest in the property for conservation purposes if that governmental entity or special district is protecting, restoring, or enhancing the property that was retained.",
+    "(2) The exceptions to paragraph (1) are the following:",
+    "(A) An endowment that is held by an entity other than the state or holder of the mitigation property as of January 1, 2012.",
+    "(B) An endowment that is held by another entity, which is qualified pursuant to this chapter, pursuant to the terms of a natural community conservation plan (Chapter 10 (commencing with Section 2800) of Division 3 of the Fish and Game Code) or a safe harbor agreement (Article 3.7 (commencing with Section 2089.2) of Chapter 1.5 of Division 3 of the Fish and Game Code). In order for this paragraph to apply, prior to setting aside any endowments, the implementation agreement that is a part of an approved natural community conservation plan, the planning agreement for any natural community conservation plan that has not yet been approved, or the safe harbor agreement shall specifically address the arrangements for the endowment including, but not limited to, qualifications of the endowment holder, capitalization rate, return objectives, and the spending rule and disbursement policies.",
+    "(C) If existing law prohibits the holder of the mitigation property to hold the endowment, including for-profit entities.",
+    "(D) If the project proponent and the holder of the mitigation property or conservation easement agree that a community foundation or a congressionally chartered foundation shall hold the endowment.",
+    "(E) If the mitigation property is held or managed by a federal agency.",
+    "(F) If any of the same mitigation property is required to be conveyed pursuant to both a federal and state governmental approval, and under the federal governmental approval the federal agency does not approve one of the entities described in paragraph (1) of subdivision (b) as chosen to hold the endowment by the agreement of the project proponent and the holder of the mitigation property or conservation easement.",
+    "(c) A community foundation or congressionally chartered foundation that holds an endowment pursuant to subparagraphs (A) to (F), inclusive, of paragraph (2) of subdivision (b), shall meet all the qualifications and requirements of this chapter for holding, managing, investing, and disbursing the endowment funds.",
+    "(d) Any entity that holds an endowment under this chapter shall hold, manage, invest, and disburse the funds in furtherance of the long-term stewardship of the property in accordance with subdivision (a) of Section 65965.",
+    "(e) The holder of an endowment shall certify to the project proponent or the holder of the mitigation property or a conservation easement and the local or state agency that required the endowment that it meets all of the following requirements:",
+    "(1) The holder has the capacity to effectively manage the mitigation funds.",
+    "(2) The holder has the capacity to achieve reasonable rates of return on the investment of those funds similar to those of other prudent investors for endowment funds and shall manage and invest the endowment in good faith and with the care an ordinarily prudent person in a like position would exercise under similar circumstances, consistent with the Uniform Prudent Management of Institutional Funds Act (Part 7 (commencing with Section 18501) of Division 9 of the Probate Code).",
+    "(3) The holder utilizes generally accepted accounting practices as promulgated by either of the following:",
+    "(A) The Financial Accounting Standards Board or any successor entity for nonprofit organizations.",
+    "(B) The Governmental Accounting Standards Board or any successor entity for public agencies, to the extent those practices do not conflict with any requirement for special districts in Article 2 (commencing with Section 53630) of Chapter 4 of Part 1 of Division 2 of Title 5.",
+    "(4) The holder will be able to ensure that funds are accounted for, and tied to, a specific property.",
+    "(5) If the holder is a nonprofit organization, a community foundation, or a congressionally chartered foundation, it has an investment policy that is consistent with the Uniform Prudent Management of Institutional Funds Act (Part 7 (commencing with Section 18501) of Division 9 of the Probate Code).",
+    "(f) If a governmental entity, community foundation, special district, nonprofit organization, or a congressionally chartered foundation meets the requirements of this chapter, it is qualified to be a holder of the endowment for the purpose of obtaining any permit, clearance, or mitigation approval from a state or local agency.",
+    "(g) Except for a mitigation agreement prepared by a state agency, the mitigation agreement that authorizes the funds to be conveyed to a governmental entity, community foundation, special district, a congressionally chartered foundation, or nonprofit organization pursuant to subdivision (a) shall include a provision that requires the endowment be held by a governmental entity, special district, or a nonprofit organization to revert to the local agency, or to a successor organization identified by the agency and subject to subdivision (e), if any of the following occurs:",
+    "(1) The governmental entity, community foundation, special district, a congressionally chartered foundation, or nonprofit organization ceases to exist.",
+    "(2) The governmental entity, community foundation, special district, a congressionally chartered foundation, or nonprofit organization is dissolved.",
+    "(3) The governmental entity, community foundation, special district, a congressionally chartered foundation, or nonprofit organization becomes bankrupt or insolvent.",
+    "(4) The local agency reasonably determines that the endowment held by the governmental entity, community foundation, special district, or nonprofit organization, or its successor entity, is not being held, managed, invested, or disbursed for conservation purposes and consistent with the mitigation agreement and legal requirements. Any reverted funds shall continue to be held, managed, and disbursed only for long-term stewardship and benefit of the specific property for which they were set aside. If the funds revert from the governmental entity, community foundation, special district, or nonprofit organization, the special district or nonprofit organization may choose to relinquish the property. If the property is relinquished, the local agency shall accept title to the property or identify an approved governmental entity, community foundation, special district, or nonprofit organization to accept title to the property.",
+    "(h) Nothing in this section shall prohibit a state or local agency from determining that a governmental entity, community foundation, special district, a congressionally chartered foundation, or nonprofit organization meets the requirements of this section and is qualified to hold the endowment, or including a provision in the mitigation agreement as described in subdivision (g).",
+    "(i) A state or local agency may allow the endowment to be held temporarily in an escrow account until December 31, 2012, after which time the funds shall be transferred to the entity that will permanently hold the endowment.",
+    "(j) Subject to subdivision (g), any endowment that is conveyed to and held by a governmental entity, special district, or nonprofit organization pursuant to this section shall continue to be held by the entity if this section is repealed.",
+    "(k) A state or local agency shall not require, as a condition of obtaining any permit, clearance, agreement, or mitigation approval from the state or local agency, that a preferred or exclusively named entity by the state or local agency be named as the entity to hold, manage, invest, and disburse the funds in furtherance of the long-term stewardship of the property for which the funds were set aside."
+   ],
+   "sec": "65968",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65968.5 is added to the Government Code , to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) On or before July 1, 2030, and every five years thereafter, the Department of Fish and Wildlife shall post on its internet website a summary table providing information on the status of endowments held pursuant to this chapter for which either of the following is true:",
+    "(1) The Department of Fish and Wildlife provides state oversight of the endowment.",
+    "(2) The endowment is held pursuant to a Department of Fish and Wildlife permitting requirement.",
+    "(b) The summary table shall include, but is not limited to, all of the following with respect to each endowment:",
+    "(1) The name of the endowment holder.",
+    "(2) The location of the endowment property by county.",
+    "(3) The number of acres managed for that project.",
+    "(4) Whether all applicable annual reports were submitted on time.",
+    "(c) (1) The first summary table shall cover the duration from January 1, 2027, to December 31, 2029, inclusive, and subsequent summary tables shall each cover five-year durations.",
+    "(2) The Department of Fish and Wildlife shall notify the appropriate legislative policy and fiscal committees of the availability of the summary tables on its internet website."
+   ],
+   "sec": "65968.5",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Land use: mitigation lands: endowments.",
+ "title": "An act to amend Section 65968 of, and to add Section 65968.5 to, the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-10",
+   "id": "20250AB180299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-02",
+   "id": "20250AB180298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-26",
+   "id": "20250AB180297ENR",
+   "num": "97"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-18",
+   "id": "20250AB180296CHP",
+   "num": "96"
+  }
+ ]
+}
