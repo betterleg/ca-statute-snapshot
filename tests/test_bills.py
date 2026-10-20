@@ -36,7 +36,10 @@ def make_zip(path, variant):
             ("v3", "95", "2025-06-30", "Chaptered by Secretary of State", bill_xml("An act to amend Sections 21080.1 and 21080.47 of the Public Resources Code, and to amend Section 1940 of the Civil Code.",
              [("Sections 21080.1 and 21080.47 of the Public Resources Code are amended to read:", "21080.1", ["(a) The lead agency shall determine."]),
               ("Section 1940 of the Civil Code is amended to read:", "1940", ["Civil Code text, not tracked."])]))]),
-        ("20252026AB9999", "AB", "9999", "", "In Committee", [
+        ("20252026SB1196", "SB", "1196", "684", "Chaptered", [
+            ("v5", "99", "2026-02-01", "Introduced", bill_xml("An act to amend Section 66313 of the Government Code.", [("Section 66313 of the Government Code is amended to read:", "66313", ["(a) ADU definitions."])])),
+            ("v6", "95", "2026-09-27", "Chaptered by Secretary of State", bill_xml("An act to amend Section 931 of the Public Utilities Code.", [("Section 931 of the Public Utilities Code is amended to read:", "931", ["Energization."])]))]),
+        ("20252026AB9999", "AB", "9999", "NULL", "In Committee", [
             ("v4", "99", "2026-01-05", "Introduced", bill_xml("An act to amend Section 1940 of the Civil Code.", [("Section 1940 of the Civil Code is amended to read:", "1940", ["Not tracked."])]))]),
     ]
     with zipfile.ZipFile(path, "w") as z:
@@ -44,7 +47,7 @@ def make_zip(path, variant):
         bt, vt, ht, at = [], [], [], []
         n = 0
         for bid, mt, num, ch, status, vers in bills:
-            bt.append("\t".join(q(x) for x in [bid, "20252026", "0", mt, num, status, "2026" if ch else "", "", "", ch, vers[-1][0], "Y", "u", "2026-01-01 00:00:00", "Assembly Floor", "", "A", status, ""]))
+            bt.append("\t".join(q(x) for x in [bid, "20252026", "0", mt, num, status, ("2026" if ch not in ("", "NULL") else "NULL"), "", "", ch, vers[-1][0], "Y", "u", "2026-01-01 00:00:00", "Assembly Floor", "", "A", status, ""]))
             for vid, vnum, date, action, xml in vers:
                 n += 1; lob = f"BILL_VERSION_TBL_{n}.lob"; z.writestr(lob, xml)
                 vt.append("\t".join(q(x) for x in [vid, bid, vnum, date + " 00:00:00", action, "", "Subject", "Majority", "No", "No", "Yes", "No", "No", "No", lob, "Y", "u", "2026-01-01 00:00:00"]))
