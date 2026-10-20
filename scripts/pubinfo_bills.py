@@ -165,7 +165,8 @@ def build(zpath, cfg, out, inspect=False, load_zip=None):
         vs = sorted(versions[bid], key=lambda v: (v["date"], v["num"]))
         latest_id = (b.get("latest_bill_version_id") or "").strip() or vs[-1]["id"]
         lv = next((v for v in vs if v["id"] == latest_id), vs[-1])
-        h = hits[bid].get(lv["id"]) or hits[bid][sorted(hits[bid])[-1]]
+        h = hits[bid].get(lv["id"])
+        if h is None: continue          # only an earlier version touched a tracked section (bill was amended to another subject)
         session = (b.get("session_year") or bid[:8]).strip()
         num = f'{(b.get("measure_type") or "").strip()}{(b.get("measure_num") or "").strip()}' or bid[8:]
         hs = sorted(hist.get(bid, []), key=lambda x: (x["date"], int(x["seq"] or 0) if str(x["seq"]).isdigit() else 0))
