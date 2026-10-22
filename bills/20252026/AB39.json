@@ -33,7 +33,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "0c2c1f6d5962a2fc",
+ "hash": "ddf25032805c4378",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -159,10 +159,10 @@
   "id": "20250AB3991CHP",
   "num": "91"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65302.13 is added to the Government Code , to read:",
+   "action": "Section 65302.13 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) On or after January 1, 2027, but no later than January 1, 2030, each city, county, or city and county shall prepare and adopt an electrification plan, decarbonization plan, community energy plan, or other similar plan, or integrate a plan into the next adoption or revision of the city’s, county’s, or city and county’s general plan, that includes all of the following:",

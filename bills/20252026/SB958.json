@@ -19,7 +19,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "bb6601a029eafc42",
+ "hash": "b30ebbe2c81fe8a7",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -157,10 +157,10 @@
   "id": "20250SB95892CHP",
   "num": "92"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 21080.82 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.82 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "For purposes of this division, the environmental impacts of a project that are associated with increased building height alone, including, but not limited to, air circulation, noise and light refraction or reflection, shadow, or the potential to attract wildlife, shall not be considered significant impacts on the environment if the project meets all of the following conditions:",

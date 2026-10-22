@@ -9,10 +9,7 @@
  ],
  "bill": "AB819",
  "bill_id": "202520260AB819",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the California Building Standards Law, establishes the California Building Standards Commission within the Department of General Services. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code. Existing law requires the Department of Housing and Community Development to propose to the commission for consideration mandatory building standards for the installation of future electric vehicle charging infrastructure for parking spaces in multifamily dwellings, as specified. Existing law requires the commission to adopt, approve, codify, and publish mandatory building standards for the installation of electric vehicle charging infrastructure for parking spaces in multifamily dwellings and nonresidential development.",
   "Existing law, commencing with the next triennial edition of the California Building Standards Code and until January 1, 2033, requires the commission and the Department of Housing and Community Development to research and develop, and authorizes the commission and department to propose for adoption, mandatory building standards for the installation of electric vehicle charging stations with low power level 2 or higher electric vehicle chargers in existing multifamily dwellings, hotels, motels, and nonresidential development during certain retrofits, additions, and alterations to existing parking facilities, as specified.",
@@ -31,7 +28,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "6b73af2e0123d4a9",
+ "hash": "aa9c60424d6c6cb5",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -72,7 +69,7 @@
  "location": "CX15",
  "sections": [
   {
-   "action": "Section 65850.11 is added to the Government Code , to read:",
+   "action": "Section 65850.11 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding any other law, the presence, management, ownership, operation, or maintenance of an electric vehicle charging station, whether directly or by a third party, on property owned by or leased to a church or nonprofit organization shall not destroy, limit, or otherwise impact the following:",

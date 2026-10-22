@@ -20,7 +20,7 @@
   "Existing law establishes the Department of Fish and Wildlife in the Natural Resources Agency. Under existing law, the department has jurisdiction over the conservation, protection, and management of fish, wildlife, native plants, and habitat necessary for biologically sustainable populations of those species.",
   "This bill would require the department, on or before July 1, 2030, and every 5 years thereafter, to post on its internet website a summary table providing information on the status of certain endowments held as described above, as specified. The bill would require the summary table to include specified information with respect to each such endowment, including, among other things, the name of the endowment holder."
  ],
- "hash": "2880d99713761bed",
+ "hash": "3fa2eb3f4fc857d8",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -99,7 +99,7 @@
    "date": "2026-08-18"
   },
   {
-   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0. Page 5590.).",
    "date": "2026-08-20"
   },
   {
@@ -130,7 +130,7 @@
   "id": "20250AB180296CHP",
   "num": "96"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65968 of the Government Code is amended to read:",
@@ -173,7 +173,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65968.5 is added to the Government Code , to read:",
+   "action": "Section 65968.5 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) On or before July 1, 2030, and every five years thereafter, the Department of Fish and Wildlife shall post on its internet website a summary table providing information on the status of endowments held pursuant to this chapter for which either of the following is true:",

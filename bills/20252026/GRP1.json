@@ -2,10 +2,7 @@
  "authors": [],
  "bill": "GRP1",
  "bill_id": "202520260GRP1",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Under existing law, the executive branch of state government includes the Business, Consumer Services, and Housing Agency.",
   "This reorganization plan, as of July 1, 2026, would eliminate that agency and instead establish in state government the Business and Consumer Services Agency and the California Housing and Homelessness Agency, and would make conforming changes. The plan would provide that the California Housing and Homelessness Agency consists of specified departments. The plan would require the Secretary of California Housing and Homelessness to take various actions, including coordinating specified policies and programs, considering opportunities to align specified requirements and timelines, and coordinating with other departments and agencies, to achieve specified objectives. The plan would specify that the Business and Consumer Services Agency is headed by the Secretary of Business and Consumer Services, and require the California Housing and Homelessness Agency and the Business and Consumer Services Agency, as specified, to coordinate state policy, programs, and funding to help the state achieve its objectives related to housing, homelessness, and consumer protections and minimize service disruption due to the dissolution of the Business, Consumer Services, and Housing Agency, as provided.",
@@ -15,7 +12,7 @@
   "This reorganization plan would establish the California Interagency Council on Homelessness as an independent entity within the California Housing and Homelessness Agency and would rename the existing council as the California Interagency Executive Council on Homelessness and establish it within the California Interagency Council on Homelessness.",
   "This reorganization plan would authorize state agencies, departments, or entities to take actions prior to July 1, 2026, that are necessary to ensure that the provisions of the plan become operative on July 1, 2026, and are implemented in a timely fashion, as specified."
  ],
- "hash": "15df37724abbb912",
+ "hash": "abdf71b0638cf121",
  "history": [
   {
    "action": "Received by the Assembly. (Sixty day mandatory period ends July 4, 2025, pursuant to Government Code Section 12080.5).",
@@ -38,14 +35,14 @@
    "date": "2025-07-05"
   }
  ],
- "house": "NULL",
+ "house": "",
  "latest_version": {
   "action": "Introduced",
   "date": "2025-05-05",
   "id": "20250GRP199INT",
   "num": "99"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65040.12 of the Government Code is amended to read:",
@@ -80,7 +77,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65040.12 is added to the Government Code , to read:",
+   "action": "Section 65040.12 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) The office shall be the coordinating agency in state government for environmental justice programs.",
@@ -130,7 +127,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 50093 is added to the Health and Safety Code , to read:",
+   "action": "Section 50093 is added to the Health and Safety Code, to read:",
    "code": "HSC",
    "paras": [
     "“Persons and families of low or moderate income” means persons and families whose income does not exceed 120 percent of area median income, adjusted for family size by the department in accordance with adjustment factors adopted and amended from time to time by the United States Department of Housing and Urban Development pursuant to Section 8 of the United States Housing Act of 1937. However, the agency and the department jointly, or either acting with the concurrence of the Secretary of California Housing and Homelessness, may permit the agency to use higher income limitations in designated geographic areas of the state, upon a determination that 120 percent of the median income in the particular geographic area is too low to qualify a substantial number of persons and families of low or moderate income who can afford rental or home purchase of housing financed pursuant to Part 3 (commencing with Section 50900) without subsidy.",
@@ -149,10 +146,10 @@
   }
  ],
  "session": "20252026",
- "status": "NULL",
+ "status": "Introduced",
  "subject": "Governor’s reorganization plan: reorganization of executive branch of state government.",
  "title": "An act to amend Sections 100, 10004, 10050, 19404, 23050, 23075, 26001, 26010, 26010.5, and 26040 of, and to amend and repeal Section 26180.5 of, the Business and Professions Code, to amend Sections 1916.12, 1918.5,1918.5, and 5405 of the Civil Code, to amend Sections 300, 1514, 14382, 14652.5, and 18022.5 of the Financial Code, to amend, repeal, and add Section 513 of the Food and Agricultural Code, to amend Sections 12895, 12896, and 12944 of, to amend and repeal Sections 12804, 12804.5, and 12856 of, to amend, repeal, and add Sections 8587.11, 8876.7, 11546.1, 11550, 12800, 12855, 12901, 14030, 15562.5, 15990, and 65040.12 of, to add Sections 12804.1, 12804.2, 12804.3, and 12804.4 to, and to add Part 5.1 (commencing with Section 14470) to Division 3 of Title 2 of, the Government Code, to amend Sections 35805 and 127501.4 of, to amend and repeal Section 50407.5 of, to amend, repeal, and add Sections 17974, 50093, 50150, 50151, 50153, 50154, 50210, 50216, 50230, 50250, 50400, 50423, 50462, 50900, 50901, 50913, 51005, 51624, 53524, and 54913 of, and to add Part 18 (commencing with Section 54920) to Division 31 of, the Health and Safety Code, to amend, repeal, and add Section 998.547 of the Military and Veterans Code, to amend, repeal, and add Section 75121 of the Public Resources Code, to amend Section 10200 of the Unemployment Insurance Code, and to amend Sections 8255, 8256, 8257, 8257.01, 8257.1, and 8257.2 of, to amend, repeal, and add Sections 4581, 9850, and 18901.59 of, to add Sections 8257.02, 8257.03, 8257.04, and 8257.05 to, and to repeal and add the heading of Chapter 6.5 (commencing with Section 8255) of Division 8 of, the Welfare and Institutions Code, relating to reorganization of the executive branch of state government.",
- "urgency": "NULL",
+ "urgency": "",
  "versions": [
   {
    "action": "Introduced",

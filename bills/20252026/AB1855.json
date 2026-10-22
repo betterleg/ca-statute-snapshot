@@ -45,10 +45,7 @@
  ],
  "bill": "AB1855",
  "bill_id": "202520260AB1855",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "CEQA, until January 1, 2040, exempts from its requirements certain projects for the improvement, institution, or increase of passenger rail service, including the maintenance, construction, or rehabilitation of stations, terminals, or existing operations facilities, which will be exclusively used by zero-emission trains or certified Tier 4 or cleaner rolling stock or locomotives, as provided. CEQA requires, for purposes of this exemption, that the project be located entirely within an existing rail right-of-way or existing highway right-of-way, as provided.",
@@ -59,7 +56,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "6ff23956330055c7",
+ "hash": "4cbc3086ba07df94",
  "history": [
   {
    "action": "Read first time. To print.",

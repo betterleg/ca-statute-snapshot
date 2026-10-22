@@ -26,7 +26,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "ced57dba291cbea9",
+ "hash": "98eccd5b290c797d",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -133,11 +133,11 @@
    "date": "2026-08-06"
   },
   {
-   "action": "Ordered to third reading.",
+   "action": "Read third time and amended.",
    "date": "2026-08-19"
   },
   {
-   "action": "Read third time and amended.",
+   "action": "Ordered to third reading.",
    "date": "2026-08-19"
   },
   {
@@ -149,7 +149,7 @@
    "date": "2026-08-24"
   },
   {
-   "action": "Assembly amendments concurred in. (Ayes 32. Noes 5.) Ordered to engrossing and enrolling.",
+   "action": "Assembly amendments concurred in. (Ayes 32. Noes 5. Page 5795.) Ordered to engrossing and enrolling.",
    "date": "2026-08-25"
   },
   {
@@ -172,10 +172,10 @@
   "id": "20250SB128392CHP",
   "num": "92"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65850.7 of the Government Code , as amended by Section 1 of Chapter 607 of the Statutes of 2024, is amended to read:",
+   "action": "Section 65850.7 of the Government Code, as amended by Section 1 of Chapter 607 of the Statutes of 2024, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) The Legislature finds and declares all of the following:",
@@ -224,7 +224,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65850.7 of the Government Code , as amended by Section 2 of Chapter 607 of the Statutes of 2024, is amended to read:",
+   "action": "Section 65850.7 of the Government Code, as amended by Section 2 of Chapter 607 of the Statutes of 2024, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) The Legislature finds and declares all of the following:",

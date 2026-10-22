@@ -21,7 +21,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "a57defdfb5a3b758",
+ "hash": "c8b924c7a625bd12",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -143,10 +143,10 @@
   "id": "20250SB101493CHP",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65941.3 is added to the Government Code , to read:",
+   "action": "Section 65941.3 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section:",

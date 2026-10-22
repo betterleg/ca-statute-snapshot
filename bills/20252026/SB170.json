@@ -18,7 +18,7 @@
   "This bill would enact the statutory changes necessary to reflect portions of the changes in law made by the Governor’s Reorganization Plan No. 1 of 2025. The bill would make an appropriation of $300,000 to the Department of Housing and Community Development for the purpose of supplementing existing contracts pursuant to statutory requirements to translate specified guidelines, as specified.",
   "This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
  ],
- "hash": "ecff81b369370833",
+ "hash": "89f2a83afde05171",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -104,7 +104,7 @@
   "id": "20250SB17096CHP",
   "num": "96"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65040.12 of the Government Code is amended to read:",
@@ -139,7 +139,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65040.12 is added to the Government Code , to read:",
+   "action": "Section 65040.12 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) The office shall be the coordinating agency in state government for environmental justice programs.",
@@ -189,7 +189,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 50093 is added to the Health and Safety Code , to read:",
+   "action": "Section 50093 is added to the Health and Safety Code, to read:",
    "code": "HSC",
    "paras": [
     "“Persons and families of low or moderate income” means persons and families whose income does not exceed 120 percent of area median income, adjusted for family size by the department in accordance with adjustment factors adopted and amended from time to time by the United States Department of Housing and Urban Development pursuant to Section 8 of the United States Housing Act of 1937. However, the agency and the department jointly, or either acting with the concurrence of the Secretary of California Housing and Homelessness, may permit the agency to use higher income limitations in designated geographic areas of the state, upon a determination that 120 percent of the median income in the particular geographic area is too low to qualify a substantial number of persons and families of low or moderate income who can afford rental or home purchase of housing financed pursuant to Part 3 (commencing with Section 50900) without subsidy.",

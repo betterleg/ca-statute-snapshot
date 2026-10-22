@@ -20,7 +20,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "aa18e20128fcd968",
+ "hash": "0c415e451f12831d",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -162,10 +162,10 @@
   "id": "20250AB246990CHP",
   "num": "90"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65964.7 is added to the Government Code , to read:",
+   "action": "Section 65964.7 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section, “water scarcity plan” means a report that includes measures to be implemented during an abnormally dry year, a moderate drought year, a severe drought year, an extreme drought year, and an exceptional drought year, as defined by the United States drought monitor, including staged withdrawal reductions, nonessential use curtailment, recycling and reuse, thermal load reductions, and temporary load shedding where necessary.",

@@ -18,7 +18,7 @@
   "Existing law, the Subdivision Map Act, vests the authority to regulate and control the design and improvement of subdivisions in the legislative body of a local agency and sets forth procedures governing the local agency’s processing, approval, conditional approval or disapproval, and filing of tentative, final, and parcel maps, and the modification thereof. The act requires an action or proceeding against a decision of a local agency taken pursuant to that act to be commenced within a certain time period, as specified.",
   "This bill would prohibit an action or proceeding to enforce the Subdivision Map Act from being maintained if certain criteria exist, including that the action or proceeding to enforce the Subdivision Map Act includes substantially similar claims or issues to claims or issues raised in an action or proceeding to enforce CEQA and the defendant in the action or proceeding to enforce the Subdivision Map Act was the defendant in the action or proceeding to enforce CEQA. The bill would provide that its provisions do not prohibit or abrogate specified actions, including the filing of timely objections to an agency’s return to a writ seeking to enforce its specific mandates or timely filing of a separate action relating to the same project, as specified. The bill would repeal these provisions on January 1, 2032."
  ],
- "hash": "2ab11d170544dc4a",
+ "hash": "94457cf5ee84d2ec",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -144,10 +144,10 @@
   "id": "20250SB125693CHP",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 66499.39 is added to the Government Code , immediately following Section 66499.38 , to read:",
+   "action": "Section 66499.39 is added to the Government Code, immediately following Section 66499.38, to read:",
    "code": "GOV",
    "paras": [
     "(a) Any action or proceeding to enforce the Subdivision Map Act shall not be maintained if all of the following criteria exist:",

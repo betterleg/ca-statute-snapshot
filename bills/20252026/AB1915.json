@@ -39,10 +39,7 @@
  ],
  "bill": "AB1915",
  "bill_id": "202520260AB1915",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Existing law authorizes the legislative body of any county or city to adopt ordinances that regulate the use of buildings, structures, and land as between industry, business, residences, and open space, including agriculture, recreation, enjoyment of scenic beauty, use of natural resources, and other purposes. Existing law establishes a streamlined approval process for a local permit for a tenant improvement relating to a restaurant, as those terms are defined.",
   "This bill would establish a streamlined approval process for a local permit for a like-for-like equipment installation relating to a restaurant, as those terms are defined. In this regard, the bill would require a local building department, upon the request and at the expense of the permit applicant, to allow a qualified licensed contractor certifier, defined as a licensed contractor that meets certain requirements, to submit a certification of the installation’s compliance with applicable codes. The bill would require a qualified licensed contractor certifier to prepare certain affidavits related to the equipment installation under penalty of perjury. The bill would require the local building department to approve or deny the permit application within 10 business days of receipt and would deem the plan approved for permitting purposes if the local building department does not approve or deny the application within that timeframe, provided that all required fees have been paid. The bill would make qualified licensed contractor certifiers liable for damages arising from negligent or false certification. The bill would also require the applicant to indemnify the local agency from any property damage or personal injury arising from construction performed under the above-described provisions.",
@@ -64,7 +61,7 @@
   "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
   "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "931f23bce52d8f44",
+ "hash": "539dc20d0a7cd0c5",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -169,7 +166,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Chapter 16 (commencing with Section 66360) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "action": "Chapter 16 (commencing with Section 66360) is added to Division 1 of Title 7 of the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "For purposes of this chapter, all the following definitions apply:",

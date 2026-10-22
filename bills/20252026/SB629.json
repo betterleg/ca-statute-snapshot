@@ -45,10 +45,7 @@
  ],
  "bill": "SB629",
  "bill_id": "202520260SB629",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law requires the State Fire Marshal to identify areas of the state as moderate, high, and very high fire hazard severity zones based on specified criteria. Existing law requires the State Fire Marshal to periodically review the areas in the state identified as very high fire hazard severity zones, as specified. Existing law requires a local agency, within 30 days after receiving a transmittal from the State Fire Marshal that identifies those fire hazard severity zones, to make the information available for public review and comment, and to present the information in a format that is understandable and accessible to the general public, including, but not limited to, maps. Existing law requires a person who owns, leases, controls, operates, or maintains an occupied dwelling or structure in a very high fire hazard severity zone to take certain fire risk management measures, including maintaining defensible space of 100 feet from each side of the structure, except as provided. Existing law requires the Office of the State Fire Marshal to develop a model defensible space program, as provided, that includes, but is not limited to, specified components, including enforcement mechanisms for compliance with and maintenance of defensible space requirements. Existing law includes among these enforcement mechanisms, among other things, site inspections.",
   "This bill would require the factors on which the fire severity zones are based to include areas within the perimeter of a wildfire that burned 1,000 or more acres, destroyed more than 10 structures, or resulted in a fatality, and to include areas at risk for an urban conflagration that accounts for the potential for structures to serve as a fuel source that extends the ember cast outside of wildland areas and areas where agricultural land affects fire hazard. The bill would require the State Fire Marshal to publish the model and methodology used to develop the fire hazard severity zones on its internet website at least 60 days before finalizing those designations and to publish the model and methodology for specified factors whenever the State Fire Marshal reviews the fire severity zones.",
@@ -58,7 +55,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "569d31ff41343dd2",
+ "hash": "25ebdc560823cff4",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -212,7 +209,7 @@
   "id": "20250SB62993ENR",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65302 of the Government Code is amended to read:",

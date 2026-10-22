@@ -20,7 +20,7 @@
   "This bill would, beginning with the report due by April 1, 2027, for purposes of the housing element portion of the report, authorize a planning agency to include the number of units in an existing multifamily building that were converted to affordable housing by imposition of long-term affordability covenants and restrictions that require the unit to be available to persons or families of low, very low, extremely low, or acutely low income at an affordable rent or affordable housing cost for at least 55 years, if the units meet certain criteria.",
   "This bill would incorporate additional changes to Section 65400 of the Government Code proposed by AB 726 to be operative only if this bill and AB 726 are enacted and this bill is enacted last."
  ],
- "hash": "c8c03c0b167ea541",
+ "hash": "e83031072038a685",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -142,10 +142,10 @@
   "id": "20250AB67093CHP",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65400 of the Government Code , as amended by Section 8 of Chapter 22 of the Statutes of 2025, is amended to read:",
+   "action": "Section 65400 of the Government Code, as amended by Section 8 of Chapter 22 of the Statutes of 2025, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) After the legislative body has adopted all or part of a general plan, the planning agency shall do both of the following:",
@@ -304,7 +304,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65400.3 is added to the Government Code , to read:",
+   "action": "Section 65400.3 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section:",

@@ -9,15 +9,12 @@
  ],
  "bill": "AB1055",
  "bill_id": "202520260AB1055",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, provides for the creation of an accessory dwelling unit by local ordinance or, if a local agency has not adopted an ordinance, by ministerial approval, in accordance with specified standards. Existing law similarly provides for the creation of junior accessory dwelling units by local ordinance or, if a local agency has not adopted an ordinance, by ministerial approval, in single-family residential zones in accordance with specified standards and conditions. Existing law generally prohibits a local agency from imposing additional standards, as specified, when evaluating a proposed accessory dwelling unit on a lot that includes a proposed or existing single-family dwelling. However, existing law authorizes a local agency to require that the property be used for rentals of terms 30 days or longer.",
   "This bill would additionally authorize a local agency to require the property owner to certify, as specified, that the accessory dwelling unit will be occupied as a residential dwelling unit for at least 6 months out of each calendar year. The bill would authorize the local agency to annually recertify, as specified, that the accessory dwelling unit is occupied as a residential dwelling unit for at least 6 months out of each calendar year. The bill would require the local agency, in enforcing the annual recertification provisions described above, to include at least 2 notices to the owner of the accessory dwelling unit, and would prohibit the local agency from, among other things, charging more than a reasonable fine for failure to comply with the above-described annual certification provisions, as specified."
  ],
- "hash": "462fa63ed8b5ced6",
+ "hash": "2b61d27c55ea4cd0",
  "history": [
   {
    "action": "Read first time. To print.",

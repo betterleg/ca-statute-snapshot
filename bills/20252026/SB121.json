@@ -9,10 +9,7 @@
  ],
  "bill": "SB121",
  "bill_id": "202520260SB121",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Existing law requires a county board of education, on or before July 1 of each fiscal year, to adopt an annual budget for the budget year and file the budget with the Superintendent of Public Instruction, the county board of supervisors, and the county auditor. Existing law requires the Superintendent to examine the budget and, on or before September 15, approve, conditionally approve, or disapprove the budget, as specified. Under existing law, in the event of the conditional approval or disapproval of the budget of a county office of education, the county superintendent of schools and the county board of education are required, on or before October 8, to review and respond to the Superintendent’s recommendations, including any revisions to the adopted budget and other proposed actions to be taken, if any, as a result of those recommendations, as provided.",
   "This bill would require the Superintendent to, in addition to examining the budget of a county office education, review and consider studies, reports, evaluations, or audits of the county office of education that were commissioned by specified entities that contain evidence that the county office of education is showing fiscal distress according to specified standards and criteria or that contain a finding by an external reviewer that the county office of education is at moderate or high risk of intervention, as provided. The bill would additionally authorize the Superintendent to conditionally approve or disapprove a budget that does not provide adequate assurance that the county office of education will meet its current and future obligations and resolve any problems identified in the studies, reports, evaluations, or audits, as specified.",
@@ -179,7 +176,7 @@
   "(81) Certain funds appropriated by this bill would be applied toward the minimum funding requirements for school districts and community college districts imposed by Section 8 of Article XVI of the California Constitution.",
   "(82) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
  ],
- "hash": "d77062ffe826d8df",
+ "hash": "fd5c6e1a865b40c0",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

@@ -15,10 +15,7 @@
  ],
  "bill": "AB527",
  "bill_id": "202520260AB527",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if the lead agency finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "Existing law establishes the Geologic Energy Management Division in the Department of Conservation, under the direction of the State Oil and Gas Supervisor, who is required to supervise the drilling, operation, maintenance, and abandonment of wells so as to permit the owners or operators of those wells to use all methods and practices known to the industry for the purpose of increasing the ultimate recovery of geothermal resources, as provided. Existing law requires the division to be the lead agency for all geothermal exploratory projects for purposes of CEQA, as specified, and authorizes the division to delegate its lead agency responsibility for geothermal exploratory projects to a county that has adopted a geothermal element for its general plan. Existing law also requires the county in which a geothermal project is located to assume the responsibilities of a lead agency for a geothermal exploratory project upon the request of an applicant, as specified. Existing law defines “geothermal exploratory project” in part as a project composed of not more than 6 wells and associated drilling and testing equipment whose chief and original purpose is to evaluate the presence and characteristics of geothermal resources. Existing law requires wells included within a geothermal exploratory project to be located at least one-half mile from geothermal development wells that are capable of producing geothermal resources in commercial quantities. Existing law requires the owner or operator of a well to keep, or to cause to be kept, a careful and accurate log, core record, and history of drilling the well and requires the log to show, among other things, the character and depth of the formation passed through or encountered in the drilling of the well. Upon completion or abandonment of a well, or upon the suspension of operations of a well, existing law requires true copies of the log, core record, and history to be filed with the district deputy of an oil and gas district, as specified.",
@@ -30,7 +27,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "eb947a5083187aa6",
+ "hash": "ac2906a54f5de7e6",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -172,7 +169,7 @@
   "id": "20250AB52791ENR",
   "num": "91"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 21065.5 of the Public Resources Code is amended to read:",
@@ -184,7 +181,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 21080.67 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.67 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) This division does not apply to a geothermal exploratory project, as defined in Section 21065.5, for which a county or the Geologic Energy Management Division is the lead agency pursuant to Section 3715.5, including any permit, funding, or other approval by a state or local agency for the geothermal exploratory project as may be required by this division, if the lead agency determines that the geothermal exploratory project meets all of the following conditions:",
@@ -253,7 +250,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.71 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.71 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "A geothermal field development project located on a site where a geothermal exploratory project was deployed pursuant to Section 21080.67 shall use a baseline for review pursuant to this division that reflects the site before the deployment of the geothermal exploratory project as identified in subdivision (b) of Section 21080.67."

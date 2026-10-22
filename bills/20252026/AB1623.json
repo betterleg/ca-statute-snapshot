@@ -9,10 +9,7 @@
  ],
  "bill": "AB1623",
  "bill_id": "202520260AB1623",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, requires each city, county, or city and county to prepare and adopt a general plan for its jurisdiction that contains certain mandatory elements, including a housing element. Under existing law, a part of the housing element is an assessment of housing needs, which includes the locality’s share of the regional housing need. Under existing law, the appropriate council of governments, or for cities and counties without a council of governments, the Department of Housing and Community Development, adopts a final regional housing need plan that allocates a share of the regional housing need to each locality in the region.",
   "Existing law authorizes a local government to conduct a review or appeal regarding allocation data provided by the department or the council of governments regarding, among other things, the locality’s share of the regional housing need.",
@@ -24,7 +21,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "2419749d5cd2a5c0",
+ "hash": "79201d904da6fc69",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -130,7 +127,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65584.2.4 is added to the Government Code , to read:",
+   "action": "Section 65584.2.4 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding any law, certain types of student housing quarters, as determined by the department, that are built within the jurisdiction of a local government, regardless of whether they have been issued a completed entitlement, a building permit, or a certificate of occupancy, shall count toward a local government’s share of the locality’s lower income regional housing needs allocation.",

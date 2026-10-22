@@ -21,10 +21,7 @@
  ],
  "bill": "AB1276",
  "bill_id": "202520260AB1276",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Housing Accountability Act prohibits a local agency from disapproving, or conditioning approval in a manner that renders infeasible, a housing development project, as defined for purposes of the act, for very low, low-, or moderate-income households or an emergency shelter unless the local agency makes specified written findings based on a preponderance of the evidence in the record. That act states that it shall not be construed to prohibit a local agency from requiring a housing development project to comply with objective, quantifiable, written development standards, conditions, and policies appropriate to, and consistent with, meeting the jurisdiction’s share of the regional housing need, except as provided. The act further provides that for its purposes, a housing development project or emergency shelter shall be deemed consistent, compliant, and in conformity with an applicable plan, program, policy, ordinance, standard, requirement, or other similar provision if there is substantial evidence that would allow a reasonable person to conclude that the housing development project or emergency shelter is consistent, compliant, or in conformity.",
   "The act requires a housing development project to be subject only to the ordinances, policies, and standards adopted and in effect when a preliminary application, as specified, was submitted, except as otherwise provided. The act defines “ordinances, policies, and standards” to include general plan, community plan, specific plan, zoning, design review standards and criteria, subdivision standards and criteria, and any other rules, regulations, requirements, and policies of a local agency, as defined, including those relating to development impact fees, capacity or connection fees or charges, permit or processing fees, and other exactions.",
@@ -36,7 +33,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "09eb6a0cd7ef7b55",
+ "hash": "49b3446606026742",
  "history": [
   {
    "action": "Introduced. To print.",
@@ -129,7 +126,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 65589.5 of the Government Code , as amended by Section 11 of Chapter 22 of the Statutes of 2025, is amended to read:",
+   "action": "Section 65589.5 of the Government Code, as amended by Section 11 of Chapter 22 of the Statutes of 2025, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) (1) The Legislature finds and declares all of the following:",
@@ -344,7 +341,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65958 is added to the Government Code , to read:",
+   "action": "Section 65958 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this chapter, a development project that is a housing development project, as defined in Section 65589.5, or an emergency shelter, as defined in Section 50801 of the Health and Safety Code, shall be deemed consistent, compliant, and in conformity with an applicable plan, program, policy, ordinance, standard, requirement, or other similar provision adopted or implemented by a public agency, as defined in Section 65932, if there is substantial evidence that would allow a reasonable person to conclude that the housing development project or emergency shelter is consistent, compliant, or in conformity.",

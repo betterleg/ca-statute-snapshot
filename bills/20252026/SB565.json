@@ -9,10 +9,7 @@
  ],
  "bill": "SB565",
  "bill_id": "202520260SB565",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing federal law governing immigration authorizes the importation of an alien as a nonimmigrant agricultural worker, known as an H-2A worker, if specified requirements are met, including that the employer furnish housing, as provided.",
   "Existing state law, the Employee Housing Act, requires a person operating employee housing, as defined, to obtain a permit to operate that housing from the agency that enforces the act, which can either be the Department of Housing and Community Development or a city, county, or city and county that assumes responsibility for enforcing the act. The act requires the enforcement agency to annually enter and inspect all employee housing for compliance with the act, as provided.",
@@ -20,7 +17,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "f9389231022b1002",
+ "hash": "e8d49ad802ecb606",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

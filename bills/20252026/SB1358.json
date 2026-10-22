@@ -9,17 +9,14 @@
  ],
  "bill": "SB1358",
  "bill_id": "202520260SB1358",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law establishes the Office of Community Partnerships and Strategic Communications and requires the office to assist in marketing, advertising, and outreach to priority populations, as defined. Existing law requires state agencies that expend funds on marketing, advertising, or outreach to develop a plan for increasing expenditures directed to ethnic media outlets and community media outlets, as those terms are defined. Existing law also requires state agencies to annually report their progress in implementing those plans. Existing law repeals these requirements on January 1, 2029.",
   "This bill would delete the January 1, 2029, repeal date, thereby extending operation of these requirements indefinitely. The bill would additionally require the office to establish and maintain a database of the above-described outlets and would authorize the office to hold trainings for state employees responsible for purchasing advertising, as specified.",
   "Former law, Chapter 341 of the Statutes of 2020, until July 1, 2023, among other things, required the Department of General Services to publish an annual report on or before July 1 of each year relating to payments for placement of marketing or outreach advertising material by each state agency.",
   "This bill would reenact and recast this report requirement to instead require the office to publish an annual report relating to those payments, which the bill would require to include disaggregated information for priority populations and ethnic and community media outlets, as specified. The bill would additionally require state agencies to direct at least 40% of their annual advertising spending to ethnic and community media outlets and to require vendors selected for marketing or advertising services that require outreach to priority populations to prioritize outlets included in the above-described database. The bill would authorize state agencies to award a contract for advertising or marketing services with an estimated value greater than $5,000 and less than $350,000 to an ethnic or community media outlet, as specified."
  ],
- "hash": "2442666e8b0da458",
+ "hash": "0e8c042a03f31267",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -118,7 +115,7 @@
    "verb": "repealed"
   },
   {
-   "action": "Section 65054.3 is added to the Government Code , to read:",
+   "action": "Section 65054.3 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) The office shall establish and maintain a database of ethnic and community media outlets. The office shall publish guidelines setting forth a process for outlets to apply to be listed and certified within this database pursuant to the criteria set forth in Section 65054.",

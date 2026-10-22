@@ -32,7 +32,7 @@
   "(2) Existing law establishes the Department of Housing and Community Development and requires it to administer various programs intended to promote the development of housing, including, among others, the Multifamily Housing Program, pursuant to which the department provides financial assistance in the form of deferred payment loans to pay for the eligible costs of development of specified types of housing projects. Existing law sets forth various general powers of the department in implementing these programs, including authorizing the department to enter into long-term contracts or agreements of up to 30 years for the purpose of servicing loans or grants or enforcing regulatory agreements or other security documents.",
   "This bill, for purposes of determining eligibility for an individual displaced from or returning to a single-room occupancy unit undergoing rehabilitation or a replacement unit that received funds from the department and is for a homeless individual or family, would (A) specify that an individual is deemed homeless if they meet certain criteria and (B) prohibit an individual or family meeting these criteria from being subject to a requirement that the unit be filled through a referral from a coordinated entry system, as defined, or a similar referral system."
  ],
- "hash": "9c9ba299ce6bbf13",
+ "hash": "c2e0b7e1cd4a4324",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -190,7 +190,7 @@
   "id": "20250SB2192CHP",
   "num": "92"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 66300.6 of the Government Code is amended to read:",
@@ -229,7 +229,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66300.6.5 is added to the Government Code , immediately following Section 66300.6 , to read:",
+   "action": "Section 66300.6.5 is added to the Government Code, immediately following Section 66300.6, to read:",
    "code": "GOV",
    "paras": [
     "(a) For the purposes of this section, the following definitions apply:",

@@ -63,10 +63,7 @@
  ],
  "bill": "AB1624",
  "bill_id": "202520260AB1624",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and of any land outside its boundaries that bears relation to its planning. Existing law authorizes the legislative body of a county or city to adopt ordinances that, among other things, regulate the use of buildings, structures, and land as between industry, business, residences, open space, and other purposes, as provided. For these purposes, existing law authorizes the legislative body to divide a county or city into zones, but requires that regulations adopted be uniform for each class or kind of building or use of land throughout each zone. The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect.",
   "This bill, the Public Lands Protection Act, would, upon transfer to any private or nonfederal entity of a parcel of land located within the state that is owned by the United States government on or after January 1, 2025, and that has been designated in an adopted general plan or zoning ordinance as open space, public land, resource conservation, or an equivalent conservation-oriented designation, immediately subject that parcel to the zoning designation and associated state and local restrictions. The bill would also, upon transfer of a parcel of land located within the state that is owned by the United States government on or after January 1, 2025, and that has not been designated in an adopted general plan or zoning ordinance at the time of transfer to any private or nonfederal entity, automatically subject that parcel to the most restrictive conservation-oriented zoning designation currently applied in the jurisdiction, by operation of law. The bill would prohibit a parcel of land governed by these provisions from being rezoned, subdivided, or granted any development entitlement that is inconsistent with a conservation-oriented zoning designation, unless certain requirements are satisfied, including that a full environmental impact report is completed in accordance with CEQA. Notwithstanding these provisions, the bill would require electric infrastructure and clean energy facilities necessary to achieve California’s climate and decarbonization goals to be deemed permitted uses in a conservation-oriented zoning designation if certain conditions are met. The bill would also exempt certain other parcels from these provisions.",
@@ -74,7 +71,7 @@
   "This bill would make these provisions severable.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
- "hash": "0e1395658c6fc2f5",
+ "hash": "86f93710c23f98b7",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -107,7 +104,7 @@
  "location": "CX20",
  "sections": [
   {
-   "action": "Section 65852.10 is added to the Government Code , to read:",
+   "action": "Section 65852.10 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Any parcel of land located within the state that is owned by the United States government on or after January 1, 2025, and that has been designated in an adopted general plan or zoning ordinance as open space, public land, resource conservation, or an equivalent conservation-oriented designation shall, upon transfer to any private or nonfederal entity, immediately be subject to the zoning designation and associated state and local restrictions, including, but not limited to, limitations on development, subdivision, grading, building permits, and incompatible uses.",

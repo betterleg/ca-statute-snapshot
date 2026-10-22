@@ -69,17 +69,14 @@
  ],
  "bill": "AB2552",
  "bill_id": "202520260AB2552",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "If a lead agency determines that a project will have a significant transportation impact, existing law authorizes the lead agency to mitigate the transportation impact to a less than significant level by helping to fund or otherwise facilitating housing or related infrastructure projects, including by contributing an amount, to be determined pursuant to guidance issued by the Office of Land Use and Climate Innovation, to the Transit-Oriented Development Implementation Fund for purposes of the Transit-Oriented Development Implementation Program. Existing law makes those moneys available to the Department of Housing and Community Development, upon appropriation by the Legislature, for the purpose of awarding funding for affordable housing or related infrastructure projects under the program in accordance with specified priorities. On or before July 1, 2026, and at least once every 3 years thereafter, existing law requires the office, in consultation with other state agencies, to issue guidance related to the implementation of these provisions, as provided.",
   "This bill would authorize a lead agency for a land use project to require an applicant to contribute to the Transit-Oriented Development Implementation Fund if certain cost conditions are met and the department and the office have validated the reductions in vehicle miles traveled that are attributable to the project, as specified.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
- "hash": "8517466488d87bd6",
+ "hash": "25b8f25c9d4cd4fb",
  "history": [
   {
    "action": "Read first time. To print.",

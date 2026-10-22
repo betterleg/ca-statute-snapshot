@@ -9,15 +9,12 @@
  ],
  "bill": "AB2177",
  "bill_id": "202520260AB2177",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law requires every city and county, by December 31, 1973, to prepare and adopt an open-space zoning ordinance consistent with the local open-space plan adopted pursuant to specified law. Existing law makes legislative findings that the provisions relating to open-space zoning are not intended, and shall not be construed, as authorizing the city or the county to exercise its power to adopt, amend or repeal an open-space zoning ordinance in a manner that will take or damage private property for public use without the payment of just compensation therefor.",
   "This bill would make a nonsubstantive change to this provision."
  ],
- "hash": "0f8979e9e309792f",
+ "hash": "0d15453385af935e",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -35,7 +32,7 @@
   "id": "20250AB217799INT",
   "num": "99"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65912 of the Government Code is amended to read:",

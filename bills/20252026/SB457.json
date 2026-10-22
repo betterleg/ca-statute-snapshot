@@ -23,7 +23,7 @@
   "Existing law also requires that the housing element, among other things, sets forth a schedule of actions during the planning period that the local government is undertaking or intends to undertake to implement the policies and achieve the goals of the housing element, as provided. Existing law authorizes the Department of Housing and Community Development to allow a city or county to substitute the provision of units pursuant to this schedule of actions if the community includes in its housing element a program committing the local government to provide specified units that will be made available through the provision of committed assistance to lower income households at affordable housing costs or rents, as defined. Existing law requires a unit to meet specified requirements to qualify for inclusion in the program. Existing law defines “committed assistance” for these purposes to mean that the city or county enters into a legally enforceable agreement during a specified time period that obligates sufficient available funds or other in-kind services to provide the assistance necessary to make the identified units affordable and that requires that the units be made available for occupancy within 2 years of the execution of the agreement.",
   "This bill would define “in-kind services” for these purposes."
  ],
- "hash": "dd88ba876f9f43ac",
+ "hash": "8a3aa6b75941f99e",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -150,7 +150,7 @@
    "date": "2026-08-25"
   },
   {
-   "action": "From committee: Be re-referred to Com. on HOUSING pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0.) Re-referred to Com. on HOUSING.",
+   "action": "From committee: Be re-referred to Com. on HOUSING pursuant to Senate Rule 29.10(d). (Ayes 5. Noes 0. Page 5725.) Re-referred to Com. on HOUSING.",
    "date": "2026-08-25"
   },
   {
@@ -181,7 +181,7 @@
   "id": "20250SB45789CHP",
   "num": "89"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65583 of the Government Code is amended to read:",
@@ -299,7 +299,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65583.01 is added to the Government Code , to read:",
+   "action": "Section 65583.01 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) On or before July 1, 2028, the department shall take one of the following actions:",
@@ -329,7 +329,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 65583.1 of the Government Code , as amended by Section 5 of Chapter 56 of the Statutes of 2026, is amended to read:",
+   "action": "Section 65583.1 of the Government Code, as amended by Section 5 of Chapter 56 of the Statutes of 2026, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) The Department of Housing and Community Development, in evaluating a proposed or adopted housing element for substantial compliance with this article, may allow a city or county to identify adequate sites, as required pursuant to Section 65583, by a variety of methods, including, but not limited to, redesignation of property to a more intense land use category and increasing the density allowed within one or more categories. The department may also allow a city or county to identify sites for accessory dwelling units based on the number of accessory dwelling units developed in the prior housing element planning period whether or not the units are permitted by right, the need for these units in the community, the resources or incentives available for their development, and any other relevant factors, as determined by the department. Nothing in this section reduces the responsibility of a city or county to identify, by income category, the total number of sites for residential development as required by this article.",
@@ -389,7 +389,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65583.2 of the Government Code , as amended by Section 6.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
+   "action": "Section 65583.2 of the Government Code, as amended by Section 6.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) A city’s or county’s inventory of land suitable for residential development pursuant to paragraph (3) of subdivision (a) of Section 65583 shall be used to identify sites throughout the community, consistent with paragraph (10) of subdivision (c) of Section 65583, that can be developed for housing within the planning period and that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels pursuant to Section 65584. As used in this section, “land suitable for residential development” includes all of the following sites that meet the standards set forth in subdivisions (c) and (g):",
@@ -456,7 +456,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65583.2 of the Government Code , as amended by Section 7.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
+   "action": "Section 65583.2 of the Government Code, as amended by Section 7.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) A city’s or county’s inventory of land suitable for residential development pursuant to paragraph (3) of subdivision (a) of Section 65583 shall be used to identify sites throughout the community, consistent with paragraph (10) of subdivision (c) of Section 65583, that can be developed for housing within the planning period and that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels pursuant to Section 65584. As used in this section, “land suitable for residential development” includes all of the following sites that meet the standards set forth in subdivisions (c) and (g):",

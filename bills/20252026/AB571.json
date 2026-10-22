@@ -100,7 +100,7 @@
   "This bill would provide that no reimbursement is required by this act for a specified reason.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
- "hash": "04d5f5b0cd8b6ce0",
+ "hash": "4a6732223c3c3e8e",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -206,10 +206,10 @@
   "id": "20250AB57195CHP",
   "num": "95"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 21080.62 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.62 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) This division does not apply to any activity or approval necessary for the completion of the public and state veterans cemetery in Gypsum Canyon in the County of Orange, known as the Gypsum Canyon Veterans Cemetery if both of the following conditions are met:",

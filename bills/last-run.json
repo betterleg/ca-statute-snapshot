@@ -1,6 +1,8 @@
 {
- "started": "2026-10-21T18:15:52+00:00",
- "result": "failed",
- "error": "SystemExit: No pubinfo_daily_<Day>.zip found; the site layout may have changed.",
- "finished": "2026-10-21T18:15:52+00:00"
+ "started": "2026-10-22T18:10:13+00:00",
+ "result": "built",
+ "source": "pubinfo_daily_Thu.zip",
+ "last_modified": "Thu, 22 Oct 2026 11:23:53 GMT",
+ "bills": 227,
+ "finished": "2026-10-22T18:17:18+00:00"
 }

@@ -27,10 +27,7 @@
  ],
  "bill": "AB650",
  "bill_id": "202520260AB650",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, which includes, among other mandatory elements, a housing element. Existing law requires a public agency to administer its programs and activities relating to housing and community development in a manner to affirmatively further fair housing, and take no action that is materially inconsistent with its obligation to affirmatively further fair housing. Existing law defines “affirmatively furthering fair housing,” as provided.",
   "The Planning and Zoning Law requires that a housing element include, among other things, a program that sets forth a schedule of actions during the planning period. Existing law requires the Department of Housing and Community Development to develop a standardized reporting format for programs and actions taken pursuant to the requirement to affirmatively further fair housing.",
@@ -52,7 +49,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "97eee58ee8f4d761",
+ "hash": "04757b565e4d89b1",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -210,7 +207,7 @@
   "id": "20250AB65093ENR",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65583 of the Government Code is amended to read:",

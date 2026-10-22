@@ -87,10 +87,7 @@
  ],
  "bill": "SB12",
  "bill_id": "202520260SB12",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law designates 8 agencies in state government and requires the secretary of an agency to be generally responsible for the sound fiscal management of each department, office, or other unit within the agency. Existing law further requires the secretary of an agency to, among other duties, continually seek to improve the organization structure, the operating policies, and the management information systems of each department, office, or other unit.",
   "This bill would establish the Immigrant and Refugee Affairs Agency as an agency within state government, to be headed by a secretary who is appointed by the Governor and subject to Senate confirmation. The bill would specify that the purpose of the agency is to enhance, and reduce obstacles to, immigrant and refugee inclusion into the social, cultural, economic, and civic life of the state. The bill would authorize the secretary to, among other things, assist other state agencies in evaluating their programs for accessibility and effectiveness in providing services to immigrants and refugees and recommending policy and budget mechanisms for meeting immigrant and refugee inclusion.",
@@ -102,7 +99,7 @@
   "Existing constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.",
   "This bill would make legislative findings to that effect."
  ],
- "hash": "7079585beec23d98",
+ "hash": "8650c0803ea20687",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -198,7 +195,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65050 is added to the Government Code , to read:",
+   "action": "Section 65050 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "There is hereby established a Statewide Director of Immigrant Integration. The director shall be appointed by and serve at the pleasure of the Governor. The director shall serve as the statewide lead for the planning and coordination of immigrant services and policies in California. The duties of the Statewide Director of Immigrant Integration shall include, but are not limited to, all of the following:",

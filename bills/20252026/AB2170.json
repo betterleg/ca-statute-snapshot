@@ -9,10 +9,7 @@
  ],
  "bill": "AB2170",
  "bill_id": "202520260AB2170",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. Existing law requires a lead agency to be responsible for determining whether the project is exempt from CEQA and whether an environmental impact report, negative declaration, or mitigated negative declaration is required, as provided. Existing law, for certain projects, establishes a ministerial review process with modified environmental assessment procedures, as provided.",
   "This bill, notwithstanding the above-described provisions relating to determinations by a lead agency, would require an environmental impact report, negative declaration, or mitigated negative declaration, as determined by the lead agency, for any project, except as provided, that includes the development, intensification, or substantial expansion of an industrial use if the project is located in or within 12 mile of an overburdened community, as defined. The bill would disqualify these projects from receiving a statutory exemption or ministerial review process. Because a lead agency would be required to determine the applicability of this requirement, the bill would impose a state-mandated local program.",
@@ -21,7 +18,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "677481ff47efddb7",
+ "hash": "cf2a4083f96ceb05",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -106,7 +103,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 21083.04 is added to the Public Resources Code , to read:",
+   "action": "Section 21083.04 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) For purposes of this section, “threshold languages” means all languages spoken jointly by 5 percent or more of the population within the jurisdiction of the lead agency who do not speak English, or who are unable to effectively communicate in English because it is not their native language, consistent with the Dymally-Alatorre Bilingual Services Act (Chapter 17.5 (commencing with Section 7290) of Division 7 of Title 1 of the Government Code).",

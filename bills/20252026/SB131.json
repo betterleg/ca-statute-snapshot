@@ -41,7 +41,7 @@
   "This bill would provide that no reimbursement is required by this act for a specified reason.",
   "(6) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
  ],
- "hash": "5cada64f330ac981",
+ "hash": "705cb06069e9e93c",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -131,10 +131,10 @@
   "id": "20250SB13196CHP",
   "num": "96"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 21060.4 is added to the Public Resources Code , to read:",
+   "action": "Section 21060.4 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "“Distribution center” means a warehouse distribution center, as defined in Section 2100 of the Labor Code, that is 50,000 square feet or larger."
@@ -143,7 +143,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21064.8 is added to the Public Resources Code , to read:",
+   "action": "Section 21064.8 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "“Oil and gas infrastructure” means a facility used for the production, processing, transmission, storage, or distribution of petroleum or natural gas."
@@ -152,7 +152,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21067.5 is added to the Public Resources Code , to read:",
+   "action": "Section 21067.5 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "“Natural and protected lands” means sites located within any of the following locations:",
@@ -182,7 +182,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.085 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.085 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) This division does not apply to a rezoning that implements the schedule of actions contained in an approved housing element pursuant to subdivision (c) of Section 65583 of the Government Code.",
@@ -219,7 +219,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 21080.44 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.44 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) This division does not apply to a new agricultural employee housing project that complies with Section 21159.22, meets the requirements of paragraphs (1) to (4), inclusive, of subdivision (i) of Section 17021.8 of the Health and Safety Code, and that is any of the following:",
@@ -303,7 +303,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 21080.48 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.48 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) This division does not apply to a project, as defined in Section 21080.47, that is a community water system that is funded pursuant to the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024 (Division 50 (commencing with Section 90000)) or the State Water Resources Control Board’s Safe and Affordable Funding for Equity and Resilience program that does not otherwise include any construction activities if the project does both of the following:",
@@ -316,7 +316,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.49 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.49 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "This division does not apply to any of the following wildfire risk reduction projects, if the project is in compliance with all other applicable laws, ordinances, and zoning requirements:",
@@ -351,7 +351,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 21080.55 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.55 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "This division does not apply to updates to the state’s climate adaptation strategy, known as the plan, adopted by the Natural Resources Agency pursuant to Section 71153."
@@ -360,7 +360,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.57 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.57 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "This division does not apply to any activity or approval necessary for or incidental to planning, design, site acquisition, construction, operation, or maintenance of public park or nonmotorized recreational trail facilities funded in whole or in part by the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024 (Division 50 (commencing with Section 90000))."
@@ -369,7 +369,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.69 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.69 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) Except as provided in subdivision (b), this division does not apply to any of the following projects:",
@@ -383,7 +383,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.70 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.70 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) This division does not apply to a project that consists of the development, construction, or operation of a heavy maintenance facility or other maintenance facility for electrically powered high-speed rail, if all of the following conditions are met:",
@@ -401,7 +401,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21083.03 is added to the Public Resources Code , to read:",
+   "action": "Section 21083.03 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) (1) On or before July 1, 2027, the Office of Land Use and Climate Innovation shall map the eligible urban infill sites within every urbanized area or urban cluster in the state.",

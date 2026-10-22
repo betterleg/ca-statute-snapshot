@@ -9,10 +9,7 @@
  ],
  "bill": "AB2288",
  "bill_id": "202520260AB2288",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Office to Housing Conversion Act, beginning July 1, 2026, deems an adaptive reuse project a use by right in all zones, regardless of the zoning of the site, and subject to a streamlined, ministerial review process, if the project meets specified requirements. Existing law defines an “adaptive reuse project” as the retrofitting and repurposing of an existing building to create new residential or mixed uses including office conversion projects and excludes from that definition, among other things, the retrofitting and repurposing of any building that is within an industrial zone that does not permit residential uses. Existing law prohibits an adaptive reuse project from being permitted in an industrial zone, as defined, that does not permit residential uses.",
   "This bill would revise the above-described prohibition to specify an adaptive reuse project is not permitted on a site where the existing primary use is classified as a high-hazard (Group H) occupancy under Title 24 of the California Code of Regulations, as it read on January 1, 2025. The bill would also revise the definition of an “adaptive reuse project” to exclude the retrofitting and repurposing of any building whose primary existing use is a high-hazard (Group H) occupancy under Title 24 of the California Code of Regulations, as it read on January 1, 2025.",
@@ -20,7 +17,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "d81416e1db36412a",
+ "hash": "91c7a7d96b78cc68",
  "history": [
   {
    "action": "Read first time. To print.",

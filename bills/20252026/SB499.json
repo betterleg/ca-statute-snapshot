@@ -21,7 +21,7 @@
   "Existing law also authorizes a local agency to require the payment of fees or charges on designated residential developments for the construction of public improvements or facilities earlier than the date the first certificate of occupancy or first temporary certificate of occupancy is issued if the local agency determines that the fees or charges will be collected for public improvements or facilities related to providing fire, public safety, and emergency services to the residential development.",
   "This bill would revise that provision to specify that those public improvements or facilities related to providing fire, public safety, and emergency services include parkland and recreational facilities identified in the local agency’s safety element or local hazard mitigation plan for an emergency purpose, as specified."
  ],
- "hash": "2983d40825a9168c",
+ "hash": "f45383290b8f2cfa",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -147,10 +147,10 @@
   "id": "20250SB49992CHP",
   "num": "92"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 66007 of the Government Code , as amended by Section 56 of Chapter 8 of the Statutes of 2025, is amended to read:",
+   "action": "Section 66007 of the Government Code, as amended by Section 56 of Chapter 8 of the Statutes of 2025, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) Except as otherwise provided in subdivisions (b) and (h), any local agency that imposes any fees or charges on a residential development for the construction of public improvements or facilities shall not require the payment of those fees or charges, notwithstanding any other provision of law, until the date of the final inspection, or the date the certificate of occupancy is issued, whichever occurs first. However, utility service fees related to connections may be collected at the time an application for service is received, provided that those fees do not exceed the costs incurred by the utility provider resulting from the connection activities. If the residential development contains more than one dwelling, the local agency may determine whether the fees or charges shall be paid on a pro rata basis for each dwelling when it receives its final inspection or certificate of occupancy, whichever occurs first; on a pro rata basis when a certain percentage of the dwellings have received their final inspection or certificate of occupancy, whichever occurs first; or on a lump-sum basis when the first dwelling in the development receives its final inspection or certificate of occupancy, whichever occurs first.",

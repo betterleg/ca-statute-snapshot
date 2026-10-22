@@ -9,15 +9,12 @@
  ],
  "bill": "SB488",
  "bill_id": "202520260SB488",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law requires the legislative body of a city or county to adopt a comprehensive, long-term general plan that includes various elements, including, among others, a safety element for the protection of the community from specified risks. Existing law authorizes a city or county to adopt within the safety element a local hazard mitigation plan, and requires that plan to meet specified requirements set out in the federal Disaster Mitigation Act of 2000.",
   "This bill would make nonsubstantive changes in the provision that authorizes a city or county to adopt a local hazard mitigation plan."
  ],
- "hash": "ff3d715dd184299a",
+ "hash": "e077d8ae698e6821",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

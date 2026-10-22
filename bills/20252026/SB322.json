@@ -9,10 +9,7 @@
  ],
  "bill": "SB322",
  "bill_id": "202520260SB322",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Urban Agriculture Incentive Zones Act, authorizes, under specified conditions, a city, county, or city and county to establish by ordinance an urban agriculture incentive zone for the purpose of entering into voluntary contracts with landowners to enforceably restrict the use of vacant, unimproved, or otherwise blighted lands for small-scale production of agricultural crops and animal husbandry. Existing law prohibits a city, county, or city and county from entering into a new contract or renewing an existing contract under these provisions after January 1, 2029.",
   "This bill would authorize a city, county, or city and county, under specified conditions, to establish by ordinance an urban equestrian inclusion zone within its boundaries for the purpose of entering into enforceable contracts, as described, with landowners, on a voluntary basis, for restricting land use for equestrian activities, as defined. The bill would prohibit a city, county, or city and county from entering into a new contract or renewing an existing contract under these provisions after January 1, 2029.",
@@ -20,7 +17,7 @@
   "This bill would include entering into enforceable contracts with landowners for restricting land use for equestrian activities within the definition of “reducing the intensity of land use.”",
   "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
- "hash": "a9696c4b6292c65f",
+ "hash": "72f901a54244004d",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

@@ -23,7 +23,7 @@
   "This bill would incorporate additional changes to Section 66411.7 of the Government Code proposed by AB 2005 to be operative only if this bill and AB 2005 are enacted and this bill is enacted last.",
   "This bill would incorporate additional changes to Section 66499.41 of the Government Code proposed by SB 1090 and SB 1116 to be operative only if this bill and either or both SB 1090 and SB 1116 are enacted and this bill is enacted last."
  ],
- "hash": "9f4596aa4fe1b04c",
+ "hash": "29112b513895a1bf",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -137,10 +137,10 @@
   "id": "20250AB260194CHP",
   "num": "94"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65852.21 of the Government Code , as amended by Section 7 of Chapter 56 of the Statutes of 2026, is amended to read:",
+   "action": "Section 65852.21 of the Government Code, as amended by Section 7 of Chapter 56 of the Statutes of 2026, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) A proposed housing development containing no more than two residential units within a single-family residential zone shall be considered ministerially, without discretionary review or a hearing, if the proposed housing development meets all of the following requirements:",
@@ -257,7 +257,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65852.28 is added to the Government Code , to read:",
+   "action": "Section 65852.28 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A development proponent may submit an application for a housing development project on a lot that is subdivided pursuant to Section 66499.41 and that meets the requirements of this section.",
@@ -365,7 +365,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65852.28 is added to the Government Code , to read:",
+   "action": "Section 65852.28 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A development proponent may submit an application for a housing development project on a lot that is subdivided pursuant to Section 66499.41 and that meets the requirements of this section.",
@@ -434,7 +434,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66411.7 of the Government Code , as amended by Section 9 of Chapter 56 of the Statutes of 2026, is amended to read:",
+   "action": "Section 66411.7 of the Government Code, as amended by Section 9 of Chapter 56 of the Statutes of 2026, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding any other provision of this division and any local law, a local agency shall ministerially approve, as set forth in this section, a parcel map for an urban lot split only if the local agency determines that the parcel map for the urban lot split meets all the following requirements:",
@@ -564,7 +564,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66411.7 is added to the Government Code , to read:",
+   "action": "Section 66411.7 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding any other provision of this division and any local law, a local agency shall ministerially approve, as set forth in this section, a parcel map for an urban lot split only if the local agency determines that the parcel map for the urban lot split meets all of the following requirements:",
@@ -829,7 +829,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66499.41 is added to the Government Code , to read:",
+   "action": "Section 66499.41 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A local agency shall ministerially consider, without discretionary review or a hearing, a parcel map or a tentative and final map for a housing development project that meets all of the following requirements:",
@@ -1131,7 +1131,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66499.41 is added to the Government Code , to read:",
+   "action": "Section 66499.41 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A local agency shall ministerially consider, without discretionary review or a hearing, a parcel map or a tentative and final map for a housing development project that meets all of the following requirements:",

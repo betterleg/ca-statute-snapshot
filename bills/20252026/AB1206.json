@@ -21,10 +21,7 @@
  ],
  "bill": "AB1206",
  "bill_id": "202520260AB1206",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, provides for the adoption and administration of zoning laws, ordinances, rules and regulations by counties and cities and the implementation of those general plans as may be in effect in those counties or cities. In that regard, existing law requires each local agency, by January 1, 2025, to develop a program for the preapproval of accessory dwelling unit plans.",
   "This bill would require each local agency, as defined, to develop a program for the preapproval of single-family and multifamily residential housing plans, whereby the local agency accepts single-family and multifamily plan submissions for preapproval and approves or denies the preapproval applications, as specified. The bill would require a large jurisdiction, as defined, to develop this program by July 1, 2026, and a small jurisdiction, as defined, to develop a program by January 1, 2028. The bill would authorize a local agency to charge a fee to an applicant for the preapproval of a single-family or multifamily residential housing plan, as specified. The bill would require the local agency to post preapproved single-family or multifamily residential housing plans and the contact information of the applicant on the local agency’s internet website. The bill would require an application for preapproval to include a statement by the applicant that the applicant has sufficient authority, license, or ownership interest in the plan to submit the plan for preapproval and, if approved, posted as described above.",
@@ -38,7 +35,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "98a3f2df6518cfc8",
+ "hash": "6aa853c352a41407",
  "history": [
   {
    "action": "Introduced. To print.",
@@ -139,7 +136,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 65852.29 is added to the Government Code , to read:",
+   "action": "Section 65852.29 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Each local agency shall, by July 1, 2026, develop a program for the preapproval of single-family and multifamily residential housing plans. The program shall comply with all of the following:",

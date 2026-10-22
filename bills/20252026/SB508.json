@@ -45,16 +45,13 @@
  ],
  "bill": "SB508",
  "bill_id": "202520260SB508",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "If a lead agency determines that a project will have a significant transportation impact, existing law authorizes the lead agency to mitigate the transportation impact to a less than significant level by helping to fund or otherwise facilitating housing or related infrastructure projects, including by contributing an amount, to be determined pursuant to guidance issued by the Office of Land Use and Climate Innovation, to the Transit-Oriented Development Implementation Fund for purposes of the Transit-Oriented Development Implementation Program. Existing law authorizes the deposit of those contributions into the fund beginning on or before July 1, 2026, as determined by the Department of Housing and Community Development, and makes those moneys available to the department, upon appropriation by the Legislature, for the purpose of awarding funding for affordable housing or related infrastructure projects under the program in accordance with specified priorities. On or before July 1, 2026, and at least once every 3 years thereafter, existing law requires the office, in consultation with other state agencies, to issue guidance related to the implementation of these provisions, as provided. Existing law makes related findings and declarations.",
   "This bill would require a contribution to the fund to be deemed full and complete mitigation for that portion of the project’s significant transportation impact mitigated by the contribution to the fund and a legally sufficient mitigation measure under CEQA. The bill would authorize the deposit of those contributions into the fund beginning on the date of the issuance of the initial guidance by the office. The bill would make additional related findings and declarations."
  ],
- "hash": "f0528f45e0e0fa66",
+ "hash": "c8d63381bc468333",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -145,7 +142,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 21080.44 of the Public Resources Code , as added by Section 58 of Chapter 22 of the Statutes of 2025, is amended to read:",
+   "action": "Section 21080.44 of the Public Resources Code, as added by Section 58 of Chapter 22 of the Statutes of 2025, is amended to read:",
    "code": "PRC",
    "paras": [
     "(a) For purposes of this section, all of the following definitions apply:",

@@ -55,7 +55,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "3f3c2decfa7eb9c8",
+ "hash": "8d0886ca678c5471",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -177,7 +177,7 @@
   "id": "20250AB89392CHP",
   "num": "92"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65912.101 of the Government Code is amended to read:",
@@ -235,7 +235,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65912.103.5 is added to the Government Code , to read:",
+   "action": "Section 65912.103.5 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "For purposes of determining whether a property or site satisfies the criteria, objective development standards, or other requirements for receiving streamlined, ministerial review under this chapter, a local government’s review of the property or site shall be limited to the area described as being physically disturbed by construction in the application for streamlined, ministerial review and shall not include, unless expressly stated otherwise, other contiguous or noncontiguous areas even if under the ownership or control of the project proponent."

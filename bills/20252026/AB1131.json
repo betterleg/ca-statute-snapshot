@@ -9,16 +9,13 @@
  ],
  "bill": "AB1131",
  "bill_id": "202520260AB1131",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning law requires each planning agency to prepare and the legislative body of each county and city to adopt a comprehensive, long-term general plan containing specified elements, including a housing element. Existing law requires the housing element to be revised according to a specific schedule. After the legislative body has adopted all or part of a general plan, existing law requires the planning agency to provide by April 1 of each year an annual report to various entities that includes specified information.",
   "Existing law requires the Department of Housing and Community Development, in consultation with each council of governments, to determine each region’s existing and projected housing need, as provided. Existing law requires each council of governments, or the department for cities and counties without a council of governments, to adopt a final regional housing need plan that allocates a share of the regional housing need to each city, county, or city and county and that furthers specified objectives.",
   "This bill would, for the 7th and each subsequent revision of the housing element, authorize a planning agency to include in that report the number of units approved for congregate care for the elderly, as defined, for up to 15% of a jurisdiction’s regional housing need allocation for any income category."
  ],
- "hash": "0fc63e993a595cc5",
+ "hash": "ea5bfe17fd78459d",
  "history": [
   {
    "action": "Read first time. To print.",

@@ -9,15 +9,12 @@
  ],
  "bill": "SB1254",
  "bill_id": "202520260SB1254",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law requires each planning agency to prepare, and the legislative body of each county and city to adopt, a comprehensive, long-term general plan for the physical development of the county or city, as specified.",
   "This bill would make nonsubstantive changes to those provisions."
  ],
- "hash": "c8e546938249a9d5",
+ "hash": "e2a0a3b5ca2f4033",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

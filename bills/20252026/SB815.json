@@ -15,10 +15,7 @@
  ],
  "bill": "SB815",
  "bill_id": "202520260SB815",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) The Planning and Zoning Law requires the legislative body of a city or county to adopt a comprehensive, long-term general plan that includes various elements, including, among others, a housing element and a safety element for the protection of the community from unreasonable risks associated with the effects of various geologic and seismic hazards, flooding, and wildland and urban fires. Existing law requires the housing element to be revised according to a specific schedule. Existing law requires the planning agency to review and, if necessary, revise the safety element upon each revision of the housing element or local hazard mitigation plan, but not less than once every 8 years, to identify new information relating to flood and fire hazards and climate adaptation and resiliency strategies applicable to the city or county that was not available during the previous revision of the safety element.",
   "Existing law requires that the Office of Land Use and Climate Innovation, among other things, coordinate with appropriate entities, including state, regional, or local agencies, to establish a clearinghouse for climate adaptation information for use by state, regional, and local entities, as provided.",
@@ -30,7 +27,7 @@
   "(4) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "7e83452226428f23",
+ "hash": "950b59d281f3b519",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -99,7 +96,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 65040.18 is added to the Government Code , to read:",
+   "action": "Section 65040.18 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) By January 1, 2027, the Office of Land Use and Climate Innovation, in collaboration with cities and counties, shall identify local ordinances, policies, and best practices relating to land use planning in very high fire hazard areas, wildfire risk reduction, and wildfire preparedness, and shall publish these resources on the clearinghouse established pursuant to Section 71360 of the Public Resources Code. The office shall include in the clearinghouse any comprehensive retrofit strategies submitted pursuant to subparagraph (E) of paragraph (6) of subdivision (g) of Section 65302. The office shall regularly update the clearinghouse materials made available pursuant to this section.",
@@ -262,7 +259,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65302.11 is added to the Government Code , to read:",
+   "action": "Section 65302.11 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Upon each revision of the housing element on or after January 1, 2026, each city or county that contains residential structures in a very high fire hazard area shall amend the land use element of its general plan to consider all of the following with respect to residential lands located within a very high fire hazard area:",

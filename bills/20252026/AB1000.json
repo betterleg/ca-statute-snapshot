@@ -9,16 +9,13 @@
  ],
  "bill": "AB1000",
  "bill_id": "202520260AB1000",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "This bill would exempt from the requirements of CEQA a project to remove sediment from the Five-Mile Basin in the City of Chico.",
   "This bill would make legislative findings and declarations as to the necessity of a special statute for the City of Chico."
  ],
- "hash": "b8fb44ccbfde219b",
+ "hash": "3e28f03ee8abfeed",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -59,7 +56,7 @@
  "location": "CX16",
  "sections": [
   {
-   "action": "Section 21080.65 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.65 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "This division does not apply to a project to remove sediment from the Five-Mile Basin in the City of Chico."

@@ -9,10 +9,7 @@
  ],
  "bill": "SB426",
  "bill_id": "202520260SB426",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "Existing law requires a person who owns, leases, controls, operates, or maintains specified structures within certain areas to maintain a defensible space around the structures meeting certain requirements.",
@@ -21,7 +18,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "f7ecd7bad65d9441",
+ "hash": "33d424d8a573cfb3",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -58,7 +55,7 @@
  "location": "CS64",
  "sections": [
   {
-   "action": "Section 21080.37 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.37 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "This division does not apply to a project undertaken or approved by a public agency for purposes of maintaining a defensible space as required by Section 51182 of the Government Code or Section 4291 of this code."

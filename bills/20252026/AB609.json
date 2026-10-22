@@ -81,17 +81,14 @@
  ],
  "bill": "AB609",
  "bill_id": "202520260AB609",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA exempts from its requirements various projects, including, but not limited to, housing projects that meet certain requirements.",
   "This bill would exempt from the requirements of CEQA a housing development project, as defined, that meets certain conditions relating to, for example, size, density, and location, including specific requirements for any housing on the project site located within 500 feet of a freeway. The bill would require a local government, as a condition of approval for the development, to require the development proponent to complete a specified environmental assessment regarding hazardous substance releases. If a recognized environmental condition is found, the bill would require the development proponent to complete a preliminary endangerment assessment and specified mitigation based on that assessment. Because a lead agency would be required to determine whether a housing development project qualifies for this exemption, the bill would impose a state-mandated local program.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "5444adfdf5a022af",
+ "hash": "1fbaeb11c4862cf7",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -169,10 +166,10 @@
   "id": "20250AB60996AMD",
   "num": "96"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 21080.66 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.66 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) Without limiting any other statutory or categorical exemption, this division does not apply to a housing development project, as defined in subdivision (b) of Section 65905.5 of the Government Code, that meets the following conditions:",

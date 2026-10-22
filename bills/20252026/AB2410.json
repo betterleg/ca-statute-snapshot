@@ -33,17 +33,14 @@
  ],
  "bill": "AB2410",
  "bill_id": "202520260AB2410",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA exempts from its requirements certain projects.",
   "This bill would, until January 1, 2030, exempt from CEQA critical fuels reduction projects that address extremely flammable species, are conducted in communities located in high fire threat districts or very high fire hazard severity zones, and remove specified nonnative species or common species. The bill would require projects exempt from CEQA pursuant to this exemption to comply with the best management practices under the 2025 Statewide Fuels Reduction Environmental Protection Plan, as provided. The bill would require a lead agency carrying out a project exempt from CEQA pursuant to this exemption to consult with the Department of Fish and Wildlife, as provided, and to, within 90 days of project completion, submit a notice of project completion and a final compliance determination regarding the 2025 Statewide Fuels Reduction Environmental Protection Plan to the Secretary of the Natural Resources Agency and the Secretary for Environmental Protection, as provided. The bill would require, on or before March 1, 2028, and annually thereafter, the Secretary of the Natural Resources Agency to, in consultation with the Secretary for Environmental Protection, submit a report to the Legislature with specified information summarizing the implementation of these provisions during the preceding calendar year. Because a lead agency would be required to determine whether a project qualifies for this exemption, the bill would impose a state-mandated local program.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "bdd93f3815ee4bdc",
+ "hash": "3ebee9e7a209f23c",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -132,7 +129,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 21080.7 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.7 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) Without limiting any other statutory or categorical exemption provided under this division and subject to subdivision (b), this division does not apply to a critical fuels reduction project that addresses extremely flammable species and is conducted in a community located in a high fire threat district as determined by the Public Utilities Commission, or very high fire hazard severity zone as identified by the State Fire Marshal pursuant to Section 51178 of the Government Code or Section 4202 or as designated by an ordinance pursuant to Section 51179 of the Government Code that removes nonnative species 12 inches or less in diameter at breast height or a common species 8 inches or less in diameter at breast height.",

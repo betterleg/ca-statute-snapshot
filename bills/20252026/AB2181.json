@@ -35,7 +35,7 @@
   "Existing law, commonly referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development, as defined, within the city or county with a density bonus, other incentives or concessions, and waivers or reductions of development standards, as specified, if the developer agrees to construct, among other options, specified units and meets other requirements.",
   "This bill would prohibit land improved with an operating hotel or motel from being valued, for purposes of establishing, adjusting, or resetting ground rent under an existing lease, based on density bonuses, concessions or incentives, or waivers, as specified, unless those density increases are entitled and vested as of the valuation date, as provided. The bill would also prohibit its provisions from being construed to alter the requirements for obtaining a density bonus, as specified."
  ],
- "hash": "a2fa72a854f9a27d",
+ "hash": "3976a57b4101638c",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -153,10 +153,10 @@
   "id": "20250AB218195CHP",
   "num": "95"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65915.9 is added to the Government Code , to read:",
+   "action": "Section 65915.9 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding Section 65915, land improved with an operating hotel or motel shall not be valued, for purposes of establishing, adjusting, or resetting ground rent under an existing lease, based on density bonuses, concessions or incentives, or waivers pursuant to Section 65915, unless those density increases are entitled and vested as of the valuation date, including the issuance of all required discretionary land use approvals and permits.",

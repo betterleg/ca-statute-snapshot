@@ -21,7 +21,7 @@
   "This bill would include in the exceptions to the requirement that the urban level of flood protection be achieved for urban and urbanizing areas protected by project levees by 2025, specified areas located in the City of Marysville, the City of Sacramento, the County of Sacramento, the County of Sutter, and the County of Yuba that shall, instead, be required to achieve the urban level of flood protection by 2030. The bill would authorize the Department of Water Resources to require a city or county listed above to contribute its fair and reasonable share of any property damage caused by a flood in its respective jurisdiction, as specified, until the city or county finds the area has met the urban level of flood protection. The bill would make a related technical change.",
   "This bill would make legislative findings and declarations as to the necessity of a special statute for the County of Sacramento, County of Sutter, County of Yuba, City of Marysville, and City of Sacramento."
  ],
- "hash": "ff77a320349f4e21",
+ "hash": "7138e14a6081a59c",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -147,7 +147,7 @@
   "id": "20250SB63993CHP",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65865.5 of the Government Code is amended to read:",
@@ -180,7 +180,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65962.4 is added to the Government Code , to read:",
+   "action": "Section 65962.4 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of Sections 65865.5, 65962, and 66474.5, the following locations shall achieve the urban level of flood protection by 2030:",

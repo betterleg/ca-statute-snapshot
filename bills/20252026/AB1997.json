@@ -9,10 +9,7 @@
  ],
  "bill": "AB1997",
  "bill_id": "202520260AB1997",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "The Permit Streamlining Act sets forth various procedures for the review and approval of development project applications. Among other things, the act requires a public agency that is the lead agency or a responsible agency for a development project to approve or disapprove the project within a specified period of time, which varies depending on the project’s phase in the CEQA process. The act defines “development project” to include specified housing development projects, as provided.",
@@ -20,7 +17,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "6280da6870268235",
+ "hash": "d46d1ff130d25844",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -154,7 +151,7 @@
   "id": "20250AB199793ENR",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65928 of the Government Code is amended to read:",
@@ -169,7 +166,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65928.6 is added to the Government Code , to read:",
+   "action": "Section 65928.6 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "“Housing development project” means a development project that is a “housing development project,” as that term is defined in paragraph (3) of subdivision (b) of Section 65905.5."

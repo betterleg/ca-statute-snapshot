@@ -15,10 +15,7 @@
  ],
  "bill": "SB749",
  "bill_id": "202520260SB749",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Mobilehome Parks Act provides for the regulation of mobilehomes and related vehicle parks by the Department of Housing and Community Development. The Mobilehome Residency Law governs the terms and conditions of residency in mobilehome parks, and authorizes the management of a mobilehome park to terminate a tenancy for, among other reasons, a change of use of the park or any portion of the park if certain requirements are met. If the change of use does not require any local governmental permits, existing law requires the written notice of termination of tenancy to disclose and describe in detail the nature of the change of use, and to be given 12 months or more before the management’s determination that a change of use will occur.",
   "The Planning and Zoning Law requires an owner of an assisted housing development, before the termination of a subsidy contract, the expiration of rental restrictions, or prepayment on an assisted housing development, to provide certain notices of the proposed change to each affected tenant household residing in the assisted housing development and affected public entities, as specified. Existing law defines “affected public entities” as the mayor or chair of the board of supervisors, as applicable, in which the assisted housing development is located, the appropriate local public housing authority, if any, and the Department of Housing and Community Development.",
@@ -31,7 +28,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "fa271810518bb006",
+ "hash": "e41d74845c64b00f",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -136,7 +133,7 @@
  "location": "CX25",
  "sections": [
   {
-   "action": "Section 65863.15 is added to the Government Code , immediately following Section 65863.13 , to read:",
+   "action": "Section 65863.15 is added to the Government Code, immediately following Section 65863.13, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section, the following definitions apply:",

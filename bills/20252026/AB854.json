@@ -9,17 +9,14 @@
  ],
  "bill": "AB854",
  "bill_id": "202520260AB854",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that the lead agency proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "This bill would exempt from CEQA projects that consist of the inspection, maintenance, repair, restoration, reconditioning, reconductoring with advanced conductors, replacement, or removal of a transmission wire or cable used to conduct electricity or other piece of equipment that is directly attached to the wire or cable and that meet certain requirements. If a lead agency determines that a project is exempt from CEQA pursuant to the above provision, the bill would require the lead agency to file a notice of exemption with the Office of Land Use and Climate Innovation and the county clerk in each county in which the project is located, as provided. By increasing the duties of a lead agency, the bill would impose a state-mandated local program.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "7fe2a0f3ef766a3f",
+ "hash": "fd89d958b348bf3e",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -88,7 +85,7 @@
  "location": "CX16",
  "sections": [
   {
-   "action": "Section 21080.39 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.39 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) This division does not apply to a project that consists of the inspection, maintenance, repair, restoration, reconditioning, reconductoring with advanced conductors, replacement, or removal of a transmission wire or cable used to conduct electricity or other piece of equipment that is directly attached to the wire or cable and that meets both of the following:",

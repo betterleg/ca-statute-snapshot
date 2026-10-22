@@ -15,10 +15,7 @@
  ],
  "bill": "AB1710",
  "bill_id": "202520260AB1710",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Permit Streamlining Act, among other things, requires public agencies to approve or disapprove of a development project within certain timeframes, as specified. The act requires public agencies to compile one or more lists that specify in detail the information that will be required from any applicant for a development project. The act requires a public agency, upon its determination that an application for a development project is incomplete, to include a list and a thorough description of the specific information needed to complete the application.",
   "This bill would provide that for the purposes of the Permit Streamlining Act, a housing development project or emergency shelter shall be deemed consistent, compliant, and in conformity with an applicable plan, program, policy, ordinance, standard, requirement, or other similar provision adopted or implemented by a public agency, as defined, if there is substantial evidence that would allow a reasonable person to conclude that the housing development project or emergency shelter is consistent, compliant, or in conformity, except as specified.",
@@ -27,7 +24,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "d346597f3c10459c",
+ "hash": "b582595f16d93eed",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -112,7 +109,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 65958 is added to the Government Code , to read:",
+   "action": "Section 65958 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this chapter, a development project that is a housing development project, as defined in Section 65589.5, or an emergency shelter, as defined in Section 50801 of the Health and Safety Code, shall be deemed consistent, compliant, and in conformity with an applicable plan, program, policy, ordinance, standard, requirement, or other similar provision adopted or implemented by a public agency if there is substantial evidence that would allow a reasonable person to conclude that the housing development project or emergency shelter is consistent, compliant, or in conformity.",

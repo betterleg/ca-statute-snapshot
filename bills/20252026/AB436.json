@@ -9,10 +9,7 @@
  ],
  "bill": "AB436",
  "bill_id": "202520260AB436",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law provides that the Office of Land Use and Climate Innovation serves the Governor and the Governor’s Cabinet as staff for long-range planning and research, and constitute the comprehensive state planning agency. In that capacity, existing law requires the office to, among other things, assist local governments in land use planning. Existing law, the California Integrated Waste Management Act of 1989, establishes the Department of Resources Recycling and Recovery to administer an integrated waste management program. Existing law establishes a goal that statewide landfill disposal of organic waste be reduced from the 2014 level by 75% by 2025.",
   "This bill, on or before June 1, 2027, would require the Office of Land Use and Climate Innovation, in consultation with the Department of Resources Recycling and Recovery, to develop and post on the office’s internet website, a technical advisory, as provided, reflecting best practices to facilitate the siting of composting facilities to meet the organic waste reduction goals. The bill would require the office to consult with specified entities throughout the development of the technical advisory.",
@@ -21,7 +18,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "cc2a47327942faa7",
+ "hash": "b9dd6229d6e03872",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -78,7 +75,7 @@
  "location": "CX25",
  "sections": [
   {
-   "action": "Section 65040.19 is added to the Government Code , to read:",
+   "action": "Section 65040.19 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) On or before June 1, 2027, the office shall develop, in consultation with the Department of Resources Recycling and Recovery, and post on the office’s internet website, a technical advisory, reflecting best practices to facilitate the siting of composting facilities to meet the organic waste reduction goals established in Section 39730.6 of the Health and Safety Code.",
@@ -91,7 +88,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 65302.16 is added to the Government Code , to read:",
+   "action": "Section 65302.16 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Upon a substantive revision of the land use element on or after January 1, 2029, a city, county, or city and county shall consider both of the following:",

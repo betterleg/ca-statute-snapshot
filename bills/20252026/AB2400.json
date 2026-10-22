@@ -9,10 +9,7 @@
  ],
  "bill": "AB2400",
  "bill_id": "202520260AB2400",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law requires a city or county to adopt a general plan for land use development of the city or county that includes, among other elements, a housing element. That law requires the housing element to include, among other things, an identification and analysis of existing and projected housing needs. That law requires the city or county to provide by April 1 of each year an annual report to, among other entities, the Department of Housing and Community Development that includes, among other specified information, the number of units of housing demolished and new units of housing that have been issued a completed entitlement, a building permit, or a certificate of occupancy.",
   "This bill would additionally require the city or county to include in the annual report the number of suite-style student housing quarters, as determined by the department. By requiring a city or county to include additional information in the annual report, the bill would impose a state-mandated local program.",
@@ -20,7 +17,7 @@
   "This bill would provide that no reimbursement is required by this act for a specified reason.",
   "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
- "hash": "6127a19ce8467c62",
+ "hash": "79a30f29db42e61b",
  "history": [
   {
    "action": "Read first time. To print.",

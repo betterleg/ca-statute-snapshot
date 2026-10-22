@@ -15,17 +15,14 @@
  ],
  "bill": "AB2127",
  "bill_id": "202520260AB2127",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, among other things, provides for the creation by ordinance, or by ministerial approval if the local agency has not adopted an ordinance, of an accessory dwelling unit in accordance with specified standards and conditions. Existing law requires the ordinance, if adopted, to meet certain requirements, including designating areas within the jurisdiction where accessory dwelling units may be permitted. Existing law authorizes the designation of areas to be based on the adequacy of water and sewer services and the impact of accessory dwelling units on traffic flow and public safety. Existing law also requires the ordinance to require approval by the local health officer where a private sewage disposal system is being used, if required.",
   "This bill would prohibit a local agency from prohibiting an accessory dwelling unit in an area solely because the lots are served by private sewage disposal systems. The bill would prohibit a local health officer from withholding approval based on a minimum lot size requirement if the private sewage disposal system meets certain operating requirements established by the State Water Resources Control Board and the regional water quality control board for that lot size, as provided. The bill would prohibit the local health officer from requiring the installation of a new or alternative system as a condition of approval if the local health officer determines that an existing private sewage disposal system is verified to be functioning properly and has the capacity to serve the additional load of an accessory dwelling unit, except as specified. By imposing new duties on local agencies relating to the approval of accessory dwelling units, the bill would impose a state-mandated local program.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "ff5702c44763404c",
+ "hash": "b085acdf206cef8b",
  "history": [
   {
    "action": "Read first time. To print.",

@@ -63,10 +63,7 @@
  ],
  "bill": "AB881",
  "bill_id": "202520260AB881",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Elder California Pipeline Safety Act of 1981 requires the State Fire Marshal to administer provisions regulating the inspection of intrastate pipelines that transport hazardous liquids. A person who willfully and knowingly violates the act or a regulation issued pursuant to the act is, upon conviction, subject to a fine, imprisonment, or both a fine and imprisonment, as provided.",
   "The California Global Warming Solutions Act of 2006 establishes the State Air Resources Board as the state agency responsible for monitoring and regulating sources emitting greenhouse gases. The act requires the state board to ensure that statewide greenhouse gas emissions are reduced to at least 40% below the statewide greenhouse gas emissions limit, as defined, no later than December 31, 2030.",
@@ -83,7 +80,7 @@
   "This bill would provide that with regard to certain mandates no reimbursement is required by this act for specified reasons.",
   "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "b8c5e62474dae7d6",
+ "hash": "b676171906ea8866",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -204,7 +201,7 @@
  "location": "Inactive",
  "sections": [
   {
-   "action": "Section 21087 is added to the Public Resources Code , to read:",
+   "action": "Section 21087 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) For purposes of this section, the following definitions apply:",

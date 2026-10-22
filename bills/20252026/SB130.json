@@ -9,10 +9,7 @@
  ],
  "bill": "SB130",
  "bill_id": "202520260SB130",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Existing law, the Planning and Zoning Law, authorizes a local agency to provide for the creation of accessory dwelling units (ADUs) in single-family and multifamily residential zones by ordinance, and sets forth standards the ordinance is required to impose with respect to certain matters, including, among others, maximum unit size, parking, and height standards. Existing law authorizes a local agency to provide by ordinance for the creation of junior accessory dwelling units (JADUs), as defined, in single-family residential zones and requires the ordinance to include, among other things, standards for the creation of a JADU, required deed restrictions, and occupancy requirements.",
   "Existing law makes void and unenforceable any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in real property that either effectively prohibits or unreasonably restricts the construction or use of an ADU or JADU on a lot zoned for single-family residential use that meets the above-described minimum standards established for those units. However, existing law permits reasonable restrictions that do not unreasonably increase the cost to construct, effectively prohibit the construction of, or extinguish the ability to otherwise construct, an ADU or JADU consistent with those aforementioned minimum standards provisions.",
@@ -159,7 +156,7 @@
   "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above.",
   "(33) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
  ],
- "hash": "62d294e18e5af798",
+ "hash": "a055c7772c50060c",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -732,7 +729,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65940 of the Government Code , as amended by Section 3 of Chapter 754 of the Statutes of 2023, is amended to read:",
+   "action": "Section 65940 of the Government Code, as amended by Section 3 of Chapter 754 of the Statutes of 2023, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) (1) Each public agency shall compile one or more lists that shall specify in detail the information that will be required from any applicant for a development project. Each public agency shall revise the list of information required from an applicant to include a certification of compliance with Section 65962.5, and the statement of application required by Section 65943. Copies of the information, including the statement of application required by Section 65943, shall be made available to all applicants for development projects and to any person who requests the information.",
@@ -746,7 +743,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65940 of the Government Code , as amended by Section 5 of Chapter 161 of the Statutes of 2021, is repealed.",
+   "action": "Section 65940 of the Government Code, as amended by Section 5 of Chapter 161 of the Statutes of 2021, is repealed.",
    "code": "GOV",
    "paras": [],
    "sec": "65940",
@@ -809,7 +806,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65943 of the Government Code , as amended by Section 7 of Chapter 161 of the Statutes of 2021, is amended to read:",
+   "action": "Section 65943 of the Government Code, as amended by Section 7 of Chapter 161 of the Statutes of 2021, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) Not later than 30 calendar days after any public agency has received an application for a development project, the agency shall determine in writing whether the application is complete and shall immediately transmit the determination to the applicant for the development project. If the application is determined to be incomplete, the lead agency shall provide the applicant with an exhaustive list of items that were not complete. That list shall be limited to those items actually required on the lead agency’s submittal requirement checklist. In any subsequent review of the application determined to be incomplete, the local agency shall not request the applicant to provide any new information that was not stated in the initial list of items that were not complete. If the written determination is not made within 30 days after receipt of the application, and the application includes a statement that it is an application for a development permit, the application shall be deemed complete for purposes of this chapter. Upon receipt of any resubmittal of the application, a new 30-day period shall begin, during which the public agency shall determine the completeness of the application. If the application is determined not to be complete, the agency’s determination shall specify those parts of the application which are incomplete and shall indicate the manner in which they can be made complete, including a list and thorough description of the specific information needed to complete the application. The applicant shall submit materials to the public agency in response to the list and description.",
@@ -825,14 +822,14 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65943 of the Government Code , as amended by Section 8 of Chapter 161 of the Statutes of 2021, is repealed.",
+   "action": "Section 65943 of the Government Code, as amended by Section 8 of Chapter 161 of the Statutes of 2021, is repealed.",
    "code": "GOV",
    "paras": [],
    "sec": "65943",
    "verb": "repealed"
   },
   {
-   "action": "Section 65950 of the Government Code , as amended by Section 9 of Chapter 161 of the Statutes of 2021, is amended to read:",
+   "action": "Section 65950 of the Government Code, as amended by Section 9 of Chapter 161 of the Statutes of 2021, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) A public agency that is the lead agency for a development project shall approve or disapprove the project within whichever of the following periods is applicable:",
@@ -854,7 +851,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65950 of the Government Code , as amended by Section 10 of Chapter 161 of the Statutes of 2021, is repealed.",
+   "action": "Section 65950 of the Government Code, as amended by Section 10 of Chapter 161 of the Statutes of 2021, is repealed.",
    "code": "GOV",
    "paras": [],
    "sec": "65950",
@@ -933,7 +930,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66499.41 of the Government Code , as amended by Section 3 of Chapter 294 of the Statutes of 2024, is amended to read:",
+   "action": "Section 66499.41 of the Government Code, as amended by Section 3 of Chapter 294 of the Statutes of 2024, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) A local agency shall ministerially consider, without discretionary review or a hearing, a parcel map or a tentative and final map for a housing development project that meets all of the following requirements:",
@@ -1027,7 +1024,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 50058.8 is added to the Health and Safety Code , to read:",
+   "action": "Section 50058.8 is added to the Health and Safety Code, to read:",
    "code": "HSC",
    "paras": [
     "“Capitalized operating reserves” means capitalized funds for assisted units for the purpose of covering potential or projected operating deficits over time, including, but not limited to, operations, supportive services, and rent subsidies."
@@ -1036,7 +1033,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.43 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.43 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "The Legislature finds and declares all of the following:",
@@ -1055,7 +1052,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.44 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.44 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) For purposes of this section, all of the following definitions apply:",
@@ -1090,7 +1087,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.66 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.66 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) Without limiting any other statutory or categorical exemption, this division does not apply to any aspect of a housing development project, as defined in subdivision (b) of Section 65905.5 of the Government Code, including any permits, approvals, or public improvements required for the housing development project, as may be required by this division, if the housing development project meets all of the following conditions:",

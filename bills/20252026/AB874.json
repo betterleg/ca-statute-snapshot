@@ -9,15 +9,12 @@
  ],
  "bill": "AB874",
  "bill_id": "202520260AB874",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Mitigation Fee Act, imposes certain requirements on a local agency that imposes a fee as a condition of approval of a development project that is imposed to provide for an improvement to be constructed to serve the development project, or a fee for public improvements, as specified. The act also regulates fees for development projects and fees for specific purposes, including water and sewer connection fees, among others. The act, among other things, requires local agencies to comply with various conditions when imposing fees, extractions, or charges as a condition of approval of a proposed development or development project. The act prohibits a local agency that imposes fees or charges on a residential development for the construction of public improvements or facilities from requiring the payment of those fees or charges until the date of the final inspection or the date the certificate of occupancy is issued, whichever occurs first, except for utility service fees, as provided.",
   "This bill would require a local agency to provide a qualified residential rental project, as defined, with the option of either or both (1) development impact fees set at a rate of $0 or (2) a development impact fee deferral agreement loan, subject to certain requirements. The bill would also require a local agency to provide a qualified residential ownership project, as defined, with the option of either or both (1) development impact fees set at a rate of $0 or (2) a development impact fee deferral agreement loan for each income-qualified homebuyer, subject to certain requirements. The bill would define “development impact fee” for these purposes to mean a fee collected by a local agency to fund the construction of public improvements or facilities, with certain exceptions."
  ],
- "hash": "ad5e16a3667cbd20",
+ "hash": "3c6ff6a81311be91",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -74,7 +71,7 @@
  "location": "CX10",
  "sections": [
   {
-   "action": "Section 66007.5 is added to the Government Code , to read:",
+   "action": "Section 66007.5 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding Section 66007, a local agency shall provide one or both of the following options to qualified residential rental projects with regard to development impact fees:",

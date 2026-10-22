@@ -41,7 +41,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "46bf0be2a1db8584",
+ "hash": "6cc6df9e08a962e1",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -167,7 +167,7 @@
   "id": "20250SB54392CHP",
   "num": "92"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 66311 of the Government Code is amended to read:",
@@ -283,29 +283,47 @@
   {
    "action": "Section 66324 of the Government Code is amended and renumbered to read:",
    "code": "GOV",
-   "note": "section text not found in this bill section",
-   "paras": [],
+   "paras": [
+    "(a) Fees charged for the construction of accessory dwelling units or junior accessory dwelling units shall be determined in accordance with Chapter 5 (commencing with Section 66000) and Chapter 7 (commencing with Section 66012).",
+    "(b) An accessory dwelling unit or junior accessory dwelling unit shall not be considered by a local agency, special district, or water corporation to be a new residential use for purposes of calculating connection fees or capacity charges for utilities, including water and sewer service, unless the unit was constructed with a new single-family dwelling.",
+    "(c) (1) A local agency, special district, or water corporation shall not impose any impact fee upon the development of an accessory dwelling unit that has 750 square feet of interior livable space or less or a junior accessory dwelling unit that has 500 square feet of interior livable space or less. Any impact fees charged for an accessory dwelling unit that has more than 750 square feet of interior livable space shall be charged proportionately in relation to the square footage of the primary dwelling unit.",
+    "(2) For purposes of this subdivision, “impact fee” has the same meaning as the term “fee” is defined in subdivision (b) of Section 66000, except that it also includes fees specified in Section 66477. “Impact fee” does not include any connection fee or capacity charge charged by a local agency, special district, or water corporation.",
+    "(3) For the purposes of this section and Section 17620 of the Education Code, an accessory dwelling unit or junior accessory dwelling unit that contains less than 500 square feet of interior livable space shall, for the purpose of subparagraph (C) of paragraph (1) of subdivision (a) of Section 17620 of the Education Code, be considered other residential construction that does not increase assessable space by 500 square feet.",
+    "(d) For an accessory dwelling unit or a junior accessory dwelling unit described in paragraph (1) of subdivision (a) of Section 66323, a local agency, special district, or water corporation shall not require the applicant to install a new or separate utility connection directly between the unit and the utility or impose a related connection fee or capacity charge, unless the unit was constructed with a new single-family dwelling, or upon separate conveyance of the accessory dwelling unit pursuant to Section 66342.",
+    "(e) For an accessory dwelling unit that is not described in paragraph (1) of subdivision (a) of Section 66323, a local agency, special district, or water corporation may require a new or separate utility connection directly between the accessory dwelling unit and the utility. Consistent with Section 66013, the connection may be subject to a connection fee or capacity charge that shall be proportionate to the burden of the proposed accessory dwelling unit, based upon either its square feet or the number of its drainage fixture unit (DFU) values, as defined in the Uniform Plumbing Code adopted and published by the International Association of Plumbing and Mechanical Officials, upon the water or sewer system. This fee or charge shall not exceed the reasonable cost of providing this service."
+   ],
    "sec": "66324",
    "verb": "amended"
   },
   {
    "action": "Section 66327 of the Government Code is amended and renumbered to read:",
    "code": "GOV",
-   "note": "section text not found in this bill section",
-   "paras": [],
+   "paras": [
+    "The department may review, adopt, amend, or repeal guidelines to implement uniform standards or criteria that supplement or clarify the terms, references, and standards set forth in this chapter. The guidelines adopted pursuant to this section are not subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2."
+   ],
    "sec": "66327",
    "verb": "amended"
   },
   {
    "action": "Section 66332 of the Government Code is amended and renumbered to read:",
    "code": "GOV",
-   "note": "section text not found in this bill section",
-   "paras": [],
+   "paras": [
+    "(a) Notwithstanding any other law, and except as otherwise provided in subdivision (b), a local agency shall not deny a permit for an unpermitted accessory dwelling unit or an unpermitted junior accessory dwelling unit that was constructed before January 1, 2020, due to either of the following:",
+    "(1) The accessory dwelling unit or junior accessory dwelling unit is in violation of building standards pursuant to Article 1 (commencing with Section 17960) of Chapter 5 of Part 1.5 of Division 13 of the Health and Safety Code.",
+    "(2) The accessory dwelling unit or junior accessory dwelling unit does not comply with this article or Article 3 (commencing with Section 66333), as applicable, or any local ordinance regulating accessory dwelling units or junior accessory dwelling units.",
+    "(b) Notwithstanding subdivision (a), a local agency may deny a permit for an accessory dwelling unit or junior accessory dwelling unit subject to subdivision (a) if the local agency makes a finding that correcting the violation is necessary to comply with the standards specified in Section 17920.3 of the Health and Safety Code.",
+    "(c) This section shall not apply to a building that is deemed substandard pursuant to Section 17920.3 of the Health and Safety Code.",
+    "(d) A local agency shall inform the public about the provisions of this section through public information resources, including permit checklists and the local agency’s internet website, which shall include both of the following:",
+    "(1) A checklist of the conditions specified in Section 17920.3 of the Health and Safety Code that would deem a building substandard.",
+    "(2) Informing homeowners that, before submitting an application for a permit, the homeowner may obtain a confidential third-party code inspection from a licensed contractor to determine the unit’s existing condition or potential scope of building improvements before submitting an application for a permit.",
+    "(e) A homeowner applying for a permit for a previously unpermitted accessory dwelling unit or junior accessory dwelling unit constructed before January 1, 2020, shall not be required to pay impact fees or connection or capacity charges except when utility infrastructure is required to comply with Section 17920.3 of the Health and Safety Code and when the fee is authorized by subdivision (e) of Section 66311.5.",
+    "(f) Subject to subdivision (c), upon receiving an application to permit a previously unpermitted accessory dwelling unit or junior accessory dwelling unit constructed before January 1, 2020, an inspector from the local agency may inspect the unit for compliance with health and safety standards and provide recommendations to comply with health and safety standards necessary to obtain a permit. If the inspector finds noncompliance with health and safety standards, the local agency shall not penalize an applicant for having the unpermitted accessory dwelling unit or junior accessory dwelling unit and shall approve necessary permits to correct noncompliance with health and safety standards."
+   ],
    "sec": "66332",
    "verb": "amended"
   },
   {
-   "action": "Section 66333.5 is added to the Government Code , to read:",
+   "action": "Section 66333.5 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A local agency shall submit a copy of the ordinance adopted pursuant to Section 66333 to the Department of Housing and Community Development within 60 days after adoption. After adoption of an ordinance, the department may submit written findings to the local agency as to whether the ordinance complies with this article.",
@@ -344,7 +362,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66335.5 is added to the Government Code , to read:",
+   "action": "Section 66335.5 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "When a local agency that has not adopted an ordinance governing junior accessory dwelling units in accordance with Section 66333 receives an application for a permit to create or serve a junior accessory dwelling unit pursuant to this article, the local agency shall approve or disapprove the application ministerially without discretionary review pursuant to Section 66335."
@@ -353,7 +371,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 66339.5 is added to the Government Code , to read:",
+   "action": "Section 66339.5 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Except as provided in subdivision (b), this article shall supersede a conflicting local ordinance.",

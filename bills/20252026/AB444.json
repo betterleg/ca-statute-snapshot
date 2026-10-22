@@ -9,15 +9,12 @@
  ],
  "bill": "AB444",
  "bill_id": "202520260AB444",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, requires a city or county to adopt a general plan for land use development within its boundaries that includes certain mandatory elements, including a circulation element. Existing law requires a county or city, by January 1, 2028, to update its circulation element to meet specified requirements.",
   "This bill would make nonsubstantive changes to those provisions."
  ],
- "hash": "86750c3d4935ce0f",
+ "hash": "16583b20b161d386",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -39,7 +36,7 @@
   "id": "20250AB44499INT",
   "num": "99"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65302.02 of the Government Code is amended to read:",

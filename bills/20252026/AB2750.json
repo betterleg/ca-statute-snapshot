@@ -9,16 +9,13 @@
  ],
  "bill": "AB2750",
  "bill_id": "202520260AB2750",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law deems an applicant for a housing development project to have submitted a preliminary application upon providing specified information about the proposed project to the city, county, or city and county from which approval for the project is being sought and payment of the permit processing fee.",
   "Existing law authorizes a development proponent that submits a preliminary application providing the required information to include in its preliminary application a request for a preliminary fee and exaction estimate from the city, county, or city and county within 30 business days of the submission of the preliminary application.",
   "This bill would make a nonsubstantive change to those provisions."
  ],
- "hash": "43ab0387443ce268",
+ "hash": "b5ccc047e7f6aa6c",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -36,7 +33,7 @@
   "id": "20250AB275099INT",
   "num": "99"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65941.1 of the Government Code is amended to read:",

@@ -9,16 +9,13 @@
  ],
  "bill": "SB979",
  "bill_id": "202520260SB979",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city, which includes, among other mandatory elements, a housing element. Existing law requires the department, in consultation with the council of governments, to determine the existing and projected need of housing for each region, as provided. Existing law requires the council of governments or delegate subregion, as applicable, to adopt a final regional housing needs plan that allocates a share of the regional housing need to each city, county, or city and county.",
   "Existing law requires each council of governments and delegate subregion to distribute a draft allocation of regional housing needs to each local government in the region or subregion. Existing law authorizes a local government within the region or the delegate subregion or the department to appeal to the council of governments or the delegate subregion for a revision of the share of the regional housing need proposed to be allocated to one or more local governments, as specified. Existing law requires the council of governments or the delegate subregion to make a final determination that either accepts, rejects, or modifies each appeal, as provided.",
   "This bill would provide that the final determination by the council of governments or the delegate subregion is subject to judicial review, as specified."
  ],
- "hash": "eed5b0239c3b68d8",
+ "hash": "f4a1bc96dda8f22b",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

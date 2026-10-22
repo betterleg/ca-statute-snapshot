@@ -9,17 +9,14 @@
  ],
  "bill": "AB317",
  "bill_id": "202520260AB317",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. Existing law exempts various projects from CEQA, including projects related to the conversion of a structure with a certificate of occupancy as a motel, hotel, residential hotel, or hostel to supportive or transitional housing, as defined, that meet certain conditions.",
   "This bill would exempt from CEQA the new construction of a single-family dwelling that meets specified conditions, including that the project contains one single-family dwelling that is 1,500 square feet or less with no more than 3 bedrooms, the property is intended to be sold to a first-time home buyer, and the lead agency determines that the developer of the project or the property owner provided sufficient legal commitments to meet the requirements of the exemption. The bill would require the lead agency, if it determines that a project qualifies for the exemption, to file a notice of exemption with the Office of Land Use and Climate Innovation, formerly known as the Office of Planning and Research, and the county clerk, as specified. By placing additional requirements on the lead agency to make a determination on whether the CEQA exemption applies, and on local agencies to determine whether the project developer provided sufficient legal commitments, as described, the bill would impose a state-mandated local program.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "42f0eb5caaa8c164",
+ "hash": "708d383582fac0da",
  "history": [
   {
    "action": "Introduced. To print.",
@@ -100,7 +97,7 @@
  "location": "CS64",
  "sections": [
   {
-   "action": "Section 21080.59 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.59 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) This division does not apply to the new construction of a single-family dwelling that meets all of the following criteria:",

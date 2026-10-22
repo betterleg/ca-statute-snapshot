@@ -33,10 +33,7 @@
  ],
  "bill": "AB1914",
  "bill_id": "202520260AB1914",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law requires the legislative body of a city or county to adopt a comprehensive, long-term general plan that includes various elements, including, among others, a land use, circulation, housing, safety, and environmental justice element. Existing law requires a city or county to update its general plan elements subject to certain criteria and timelines.",
   "This bill would require a city, county, or city and county, no later than January 1, 2033, to prepare and adopt a childcare plan or integrate a childcare plan into the next adoption of the city, county, or city and county’s general plan to address the childcare needs of the jurisdiction, as specified.",
@@ -44,7 +41,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "f76626448d3cf54e",
+ "hash": "3576651dfea33d55",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -137,7 +134,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 65302.03 is added to the Government Code , to read:",
+   "action": "Section 65302.03 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section, the following definitions apply:",

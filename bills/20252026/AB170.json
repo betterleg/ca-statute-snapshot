@@ -9,16 +9,13 @@
  ],
  "bill": "AB170",
  "bill_id": "202520260AB170",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law requires the Governor, from time to time, to examine the organization of all agencies and determine what changes therein are necessary to accomplish specified purposes. Whenever the Governor finds that reorganization is in the public interest, existing law requires the Governor to prepare one or more reorganization plans, as specified. Existing law prescribes the form, content, and procedure of a reorganization plan. Existing law requires the Legislative counsel to prepare for introduction not later than the next regular session of the Legislature occurring more than 90 days after that in which a Governor’s reorganization plan takes effect a bill effecting the changes in the reorganization in the statutes as may be necessary to reflect the changes made by the reorganization plan. Existing law, the Governor’s Reorganization Plan No. 1 of 2025, which became effective on July 5, 2025, assigns and reorganizes the functions of state government among executive officers and agencies by, among other things, eliminating the Business, Consumer Services, and Housing Agency as of July 1, 2026, and instead establishing the Business and Consumer Services Agency and the California Housing and Homelessness Agency, each composed of specified departments that are currently within the Business, Consumer Services, and Housing Agency, as provided.",
   "This bill would enact the statutory changes necessary to reflect portions of the changes in law made by the Governor’s Reorganization Plan No. 1 of 2025. The bill would make an appropriation of $300,000 to the Department of Housing and Community Development for the purpose of supplementing existing contracts pursuant to statutory requirements to translate specified guidelines, as specified.",
   "This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
  ],
- "hash": "570ef14fc3226341",
+ "hash": "dd1d860b4f50f328",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -119,7 +116,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65040.12 is added to the Government Code , to read:",
+   "action": "Section 65040.12 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) The office shall be the coordinating agency in state government for environmental justice programs.",
@@ -169,7 +166,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 50093 is added to the Health and Safety Code , to read:",
+   "action": "Section 50093 is added to the Health and Safety Code, to read:",
    "code": "HSC",
    "paras": [
     "“Persons and families of low or moderate income” means persons and families whose income does not exceed 120 percent of area median income, adjusted for family size by the department in accordance with adjustment factors adopted and amended from time to time by the United States Department of Housing and Urban Development pursuant to Section 8 of the United States Housing Act of 1937. However, the agency and the department jointly, or either acting with the concurrence of the Secretary of California Housing and Homelessness, may permit the agency to use higher income limitations in designated geographic areas of the state, upon a determination that 120 percent of the median income in the particular geographic area is too low to qualify a substantial number of persons and families of low or moderate income who can afford rental or home purchase of housing financed pursuant to Part 3 (commencing with Section 50900) without subsidy.",

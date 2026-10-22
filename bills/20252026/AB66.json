@@ -9,15 +9,12 @@
  ],
  "bill": "AB66",
  "bill_id": "202520260AB66",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "This bill would, until January 1, 2032, exempt from CEQA egress route projects undertaken by a public agency to improve emergency access to and evacuation from a subdivision without a secondary egress route if the State Board of Forestry and Fire Protection has recommended the creation of a secondary access to the subdivision and certain conditions are met. The bill would require the lead agency to hold a noticed public meeting to hear and respond to public comments before determining that a project is exempt. The bill would require the lead agency, if it determines that a project is not subject to CEQA and approves or carries out that project, to file a notice of exemption with the Office of Land Use and Climate Innovation and with the clerk of the county in which the project will be located."
  ],
- "hash": "694c4288afc350c1",
+ "hash": "006f2e58d424dfb8",
  "history": [
   {
    "action": "Introduced. To print.",
@@ -94,7 +91,7 @@
  "location": "CS55",
  "sections": [
   {
-   "action": "Section 21080.53 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.53 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) For purposes of this section, the following definitions apply:",

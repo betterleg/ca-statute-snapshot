@@ -15,10 +15,7 @@
  ],
  "bill": "AB735",
  "bill_id": "202520260AB735",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, beginning January 1, 2026, prescribes various statewide warehouse design and build standards for any proposed new or expanded logistics use developments, as specified, including, among other things, standards for building design and location, parking, truck loading bays, landscaping buffers, entry gates, and signage. Existing law defines various terms, including “21st century warehouse,” and “tier 1 21st century warehouse,” for purposes of those provisions as logistics uses that, among other things, comply with specified building and energy efficiency standards, including requirements related to the availability of conduits and electrical hookups to power climate control equipment at loading bays, as specified. Existing law, subject to specified exceptions, defines “logistics use” for these purposes to mean a building in which cargo, goods, or products are moved or stored for later distribution to business or retail customers, or both, that does not predominantly serve retail customers for onsite purchases, and heavy-duty trucks are primarily involved in the movement of the cargo, goods, or products.",
   "This bill would clarify that a 21st century warehouse and a tier 1 21st century warehouse are required to comply with those standards as are in effect at the time that the building permit for a development of a 21st century warehouse is issued and make other clarifying changes relating to permissibility of use of conduits and electrical hookups at loading bays at those locations. The bill would revise the definition of “logistics use” and instead define “logistics use development” for these purposes to mean a building that is primarily used as a warehouse for the movement or the storage of cargo, goods, or products that are moved to business or retail customers, or both, that does not predominantly serve retail customers for onsite purchases, and heavy-duty trucks are primarily involved in the movement of the cargo, goods, or products. The bill would make various other technical and conforming changes to the provisions governing logistics use development.",
@@ -33,7 +30,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "9ef2b46a5792bfeb",
+ "hash": "6fa98743f3a057e1",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -300,7 +297,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65098.1.6 is added to the Government Code , to read:",
+   "action": "Section 65098.1.6 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding any other law, this chapter shall not apply to any logistics use development that was subject to a local entitlement process that began before September 30, 2024.",
@@ -353,7 +350,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65098.2.8 is added to the Government Code , to read:",
+   "action": "Section 65098.2.8 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Except as specified in subdivision (b), a jurisdiction that is not in a warehouse concentration region shall adopt an ordinance, on or before January 1, 2028, that shall do all of the following:",

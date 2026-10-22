@@ -9,10 +9,7 @@
  ],
  "bill": "SB1145",
  "bill_id": "202520260SB1145",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law requires a local agency to declare land either “surplus land” or “exempt surplus land,” as supported by written findings, before the local agency may take any action to dispose of it consistent with an agency’s policies or procedures and defines terms for these purposes. Existing law generally requires a local agency, before disposing or negotiating to dispose of surplus land, to provide a written notice of the availability of the surplus land to specified entities and housing sponsors. Under existing law, land declared by an agency of the state or any local agency as “exempt surplus land” is not subject to these requirements.",
   "The Planning and Zoning Law requires cities and counties to prepare, adopt, and amend general plans and elements of those general plans, as specified. After the legislative body has adopted all or part of a general plan, the law requires the planning agency to provide by April 1 of each year an annual report to specified entities that includes certain information, including the status of the plan and progress of its implementation.",
@@ -23,7 +20,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "4035ba863df9db86",
+ "hash": "05d74a8e0aa71108",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -112,7 +109,7 @@
  "location": "CX15",
  "sections": [
   {
-   "action": "Chapter 6.8 (commencing with Section 21189.60) is added to Division 13 of the Public Resources Code , to read:",
+   "action": "Chapter 6.8 (commencing with Section 21189.60) is added to Division 13 of the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "For purposes of this chapter, the following definitions apply:",

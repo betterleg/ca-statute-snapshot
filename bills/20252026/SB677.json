@@ -33,7 +33,7 @@
   "This bill would create an exception from the above-described authority as it applies to appeals by an interested person for maps that meet specified criteria, as provided. The bill would exempt from these provisions an appeal filed by an applicant, subdivider, tenant, advisory agency, or public agency or official, as specified.",
   "This bill would make the provisions of the act severable."
  ],
- "hash": "3886e5325215e3f5",
+ "hash": "7d107009fb706592",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -199,7 +199,7 @@
   "id": "20250SB67789CHP",
   "num": "89"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 66452.5 of the Government Code is amended to read:",
@@ -221,7 +221,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66452.8 is added to the Government Code , to read:",
+   "action": "Section 66452.8 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) An interested person may not file an appeal pursuant to Section 66452.5, 66458, 66462, or 66474.7, or pursuant to a local subdivision ordinance, if all of the following criteria are met:",

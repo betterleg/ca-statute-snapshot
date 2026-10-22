@@ -22,7 +22,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "09d24f323936718f",
+ "hash": "4d2dcf7a698f26d8",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -89,7 +89,7 @@
    "date": "2026-08-04"
   },
   {
-   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 27. Noes 10.).",
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 27. Noes 10. Page 5580.).",
    "date": "2026-08-20"
   },
   {
@@ -120,10 +120,10 @@
   "id": "20250AB182094CHP",
   "num": "94"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Chapter 7.7 (commencing with Section 66015.5) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "action": "Chapter 7.7 (commencing with Section 66015.5) is added to Division 1 of Title 7 of the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) (1) A city, county, city and county, or charter city shall not charge a permit fee for an electric vehicle charging station that exceeds the estimated reasonable cost of providing the service for which the fee is charged. Except as provided in paragraph (2), that fee shall not exceed five hundred dollars ($500) plus five dollars ($5) per kilowatt for each kilowatt between 51kW and 250kW, plus two dollars ($2) for every kilowatt above 250kW, for a level 2 electric vehicle charging station installed at a new or existing multifamily housing development.",

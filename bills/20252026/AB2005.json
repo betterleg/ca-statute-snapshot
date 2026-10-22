@@ -27,10 +27,7 @@
  ],
  "bill": "AB2005",
  "bill_id": "202520260AB2005",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Under the Planning and Zoning Law, the legislative body of a city or county may adopt ordinances that, among other things, regulate the use of buildings, structures, and land, as provided. The Subdivision Map Act vests the authority to regulate and control the design and improvement of subdivisions in the legislative body of a local agency and sets forth procedures governing the local agency’s processing, approval, conditional approval or disapproval, and filing of tentative, final, and parcel maps.",
   "Existing law requires a local agency to ministerially approve a parcel map for an urban lot split if the development or parcel meets specified requirements. Existing law requires the local agency to require an applicant for an urban lot split to sign an affidavit stating that the applicant intends to occupy one of the housing units as their principal residence for a minimum of 3 years from the date of the approval of the urban lot split. Existing law authorizes a local agency to adopt an ordinance to implement these provisions, as provided.",
@@ -44,7 +41,7 @@
   "(5) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for specified reasons."
  ],
- "hash": "84755ead5ff04932",
+ "hash": "81efd2026f30f8ff",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -173,7 +170,7 @@
  "location": "Third Reading",
  "sections": [
   {
-   "action": "Section 66411.7 of the Government Code , as amended by Section 9 of Chapter 56 of the Statutes of 2026, is amended to read:",
+   "action": "Section 66411.7 of the Government Code, as amended by Section 9 of Chapter 56 of the Statutes of 2026, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding any other provision of this division and any local law, a local agency shall ministerially approve, as set forth in this section, a parcel map for an urban lot split only if the local agency determines that the parcel map for the urban lot split meets all of the following requirements:",
@@ -303,7 +300,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66411.7 is added to the Government Code , to read:",
+   "action": "Section 66411.7 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding any other provision of this division and any local law, a local agency shall ministerially approve, as set forth in this section, a parcel map for an urban lot split only if the local agency determines that the parcel map for the urban lot split meets all of the following requirements:",
@@ -362,7 +359,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 66411.7 is added to the Government Code , to read:",
+   "action": "Section 66411.7 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding any other provision of this division and any local law, a local agency shall ministerially approve, as set forth in this section, a parcel map for an urban lot split only if the local agency determines that the parcel map for the urban lot split meets all of the following requirements:",

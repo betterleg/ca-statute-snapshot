@@ -26,7 +26,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "efc10fd6e27809a2",
+ "hash": "8c7f91305380472f",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -172,10 +172,10 @@
   "id": "20250SB136793CHP",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65850.05 is added to the Government Code , to read:",
+   "action": "Section 65850.05 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section, “detention facility” means any structure, whether temporary or permanent, operated by a private entity on behalf of a governmental entity for the temporary holding of persons charged with a criminal offense or detained for civil or administrative purposes.",

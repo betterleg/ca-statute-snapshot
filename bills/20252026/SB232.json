@@ -51,16 +51,13 @@
  ],
  "bill": "SB232",
  "bill_id": "202520260SB232",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "CEQA requires the Office of Land Use and Climate Innovation, formerly named the Office of Planning and Research, to prepare and develop, and the Secretary of the Natural Resources Agency to certify and adopt, guidelines for the implementation of CEQA. The CEQA guidelines require a lead agency, immediately after deciding that an environmental impact report is required for a project, to send a notice of preparation stating that an environmental impact report will be prepared to the office and each responsible and trustee agency, as specified.",
   "This bill would require the office to conduct a study to, among other things, evaluate how locked-in guidelines could impact regulatory certainty for future project proponents, lead agencies, and stakeholders and assess how locked-in guidelines could affect the speed and efficiency of the environmental review process pursuant to CEQA. The bill would define “locked-in guidelines” as CEQA guidelines, that are in effect at the time of the first issuance of the notice of preparation for a project, that apply to the project throughout the course of the environmental review process pursuant to CEQA, regardless of changes in the guidelines that occur after the first issuance of the notice of preparation. The bill would require, on or before January 1, 2027, the office to submit a report to the Governor and the Legislature on the study. The bill would repeal these provisions on January 1, 2028."
  ],
- "hash": "af26f301838acaf6",
+ "hash": "4424ab1357ccef49",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -125,7 +122,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 21083.15 is added to the Public Resources Code , to read:",
+   "action": "Section 21083.15 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) For purposes of this section, the following definitions apply:",

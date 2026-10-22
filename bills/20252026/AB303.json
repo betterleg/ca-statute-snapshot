@@ -9,10 +9,7 @@
  ],
  "bill": "AB303",
  "bill_id": "202520260AB303",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, until June 30, 2029, authorizes a person proposing an eligible facility, including an energy storage system capable of storing 200 megawatthours or more of energy, to submit an application for certification with the State Energy Resources Conservation and Development Commission of the site and related facility. Existing law specifies that the issuance by the commission of the certificate is in lieu of any permit, certificate, or similar document required by any state, local, or regional agency, or federal agency to the extent permitted by federal law, except as provided. Existing law establishes the procedures by which the commission is to review the application.",
   "This bill would specify that energy storage systems do not include battery energy storage systems for the above-described purposes. The bill would require the commission to deny applications for a battery energy storage system that are pending as of the effective date of the bill.",
@@ -24,7 +21,7 @@
   "This bill would provide that no reimbursement is required by this act for a specified reason.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
- "hash": "6995a65ac21a47eb",
+ "hash": "71e35f61bc0a7653",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -61,7 +58,7 @@
  "location": "CX23",
  "sections": [
   {
-   "action": "Chapter 14 (commencing with Section 66350) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "action": "Chapter 14 (commencing with Section 66350) is added to Division 1 of Title 7 of the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "For purposes of this chapter, the following definitions apply:",

@@ -9,16 +9,13 @@
  ],
  "bill": "AB2415",
  "bill_id": "202520260AB2415",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law requires a housing development project to be an allowed use as a transit-oriented housing development on any site zoned for residential, mixed, or commercial development within prescribed distances of a transit-oriented development stop if the development complies with specified requirements. Existing law applies these provisions to a local agency beginning July 1, 2026, unless the local agency adopts an ordinance or local transit-oriented development alternative plan, as specified. Existing law prescribes requirements for these plans, including requiring that the plan not reduce the capacity in any transit-oriented development zone in total units or residential floor area by more than 50%. Existing law defines various terms for these purposes.",
   "This bill would provide that a transit-oriented development alternative plan may reduce the capacity in up to one transit-oriented development zone in total units or residential floor area by more than 50% if certain requirements are met.",
   "This bill would incorporate additional changes to Section 65912.161 of the Government Code proposed by AB 2576 to be operative only if this bill and AB 2576 are enacted and this bill is enacted last."
  ],
- "hash": "f60d0a2e5f6ecbda",
+ "hash": "c32086f0918e1a25",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -93,7 +90,7 @@
    "date": "2026-08-11"
   },
   {
-   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 38. Noes 0.).",
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 38. Noes 0. Page 5554.).",
    "date": "2026-08-19"
   },
   {
@@ -108,7 +105,7 @@
   "id": "20250AB241596AMD",
   "num": "96"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65912.161 of the Government Code is amended to read:",

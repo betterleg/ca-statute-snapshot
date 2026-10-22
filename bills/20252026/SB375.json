@@ -9,10 +9,7 @@
  ],
  "bill": "SB375",
  "bill_id": "202520260SB375",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) The California Endangered Species Act prohibits the taking of an endangered, threatened, or candidate species, except as specified. Under the act, the Department of Fish and Wildlife (department) may authorize the take of listed species by certain entities through permits or memorandums of understanding for specified purposes. Existing law requires the State Fire Marshal to identify areas in the state as moderate, high, and very high fire hazard severity zones based on consistent statewide criteria and based on the severity of fire hazard that is expected to prevail in those areas. Existing law requires a local agency to designate, by ordinance, moderate, high, and very high fire hazard severity zones in its jurisdiction within 120 days of receiving recommendations from the State Fire Marshal, as provided.",
   "This bill would authorize a city, county, city and county, special district, or other local agency to submit to the department a wildfire preparedness plan to conduct wildfire preparedness activities on land designated as a fire hazard severity zone, as defined, that minimizes impacts to wildlife and habitat for candidate, threatened, and endangered species. The bill would require the wildfire preparedness plan to include, among other things, a brief description of the planned wildfire preparedness activities, the approximate dates for the activities, and a description of the candidate, endangered, and threatened species within the plan area. The bill would require the department, if sufficient information is included in the wildfire preparedness plan for the department to determine if an incidental take permit is required, to notify the local agency within 90 days of receipt of the wildfire preparedness plan if an incidental take permit or other permit is needed, or if there are other considerations, exemptions, or streamlined pathways that the wildfire preparedness activities qualify for, including, but not limited to, the State Board of Forestry and Fire Protection’s California Vegetation Treatment Program. The bill would require the department to provide the local agency, in its notification, with guidance that includes, among other things, a description of the candidate, endangered, and threatened species within the plan area and measures to avoid, minimize, and fully mitigate the take of the candidate, threatened, and endangered species, as provided. The bill would require the department, on or before July 1, 2026, to make a standard wildfire preparedness plan submission form publicly available on its internet website. The bill also would require the department, commencing January 1, 2027, to annually post on its internet website a summary of the wildfire preparedness plans submitted and include specified information in that summary.",
@@ -22,7 +19,7 @@
   "(3) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "cb559ecede0c315f",
+ "hash": "94effee670392590",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

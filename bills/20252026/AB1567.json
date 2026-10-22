@@ -9,10 +9,7 @@
  ],
  "bill": "AB1567",
  "bill_id": "202520260AB1567",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning law requires each planning agency to prepare and the legislative body of each county and city to adopt a comprehensive, long-term general plan containing specified elements, including a housing element. Existing law requires the housing element to be revised according to a specific schedule. After the legislative body has adopted all or part of a general plan, existing law requires the planning agency to provide by April 1 of each year an annual report to various entities that includes specified information.",
   "Existing law requires the Department of Housing and Community Development, in consultation with each council of governments, to determine each region’s existing and projected housing need, as provided. Existing law requires each council of governments, or the department for cities and counties without a council of governments, to adopt a final regional housing need plan that allocates a share of the regional housing need to each city, county, or city and county and that furthers specified objectives.",
@@ -21,7 +18,7 @@
   "This bill would require a local agency to additionally include in its annual report specified information related to, among other things, the disposal of surplus land.",
   "This bill would incorporate additional changes to Section 65400 of the Government Code proposed by SB 1116 to be operative only if this bill and SB 1116 are enacted and this bill is enacted last."
  ],
- "hash": "4bceaafc9e46475a",
+ "hash": "aed14dd815143011",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -139,7 +136,7 @@
   "id": "20250AB156794ENR",
   "num": "94"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65400 of the Government Code is amended to read:",

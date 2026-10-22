@@ -9,10 +9,7 @@
  ],
  "bill": "AB2057",
  "bill_id": "202520260AB2057",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law enacts various laws relating to land use, including statewide land use planning, transportation planning, local planning, zoning regulations, and housing development, among other things.",
   "This bill would prohibit state agencies and local governments from adopting or enforcing a rule, regulation, resolution, or ordinance that directly or indirectly results in prohibiting the use of gas appliances in residential or nonresidential buildings.",
@@ -21,7 +18,7 @@
   "This bill would prohibit a city or county from making a change or modification to the above-described building standards that prohibits the use of natural gas in a residential unit. The bill would also require the commission to reject a modification or change to any building standard affecting a residential unit and filed by the governing body of a city or county that prohibits the use of natural gas in that residential unit.",
   "This bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
- "hash": "befbe524697814aa",
+ "hash": "ae0d44feab1f5a5f",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -58,7 +55,7 @@
  "location": "CX10",
  "sections": [
   {
-   "action": "Chapter 15 (commencing with Section 66347) is added to Division 1 of Title 7 of the Government Code , to read:",
+   "action": "Chapter 15 (commencing with Section 66347) is added to Division 1 of Title 7 of the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "A state agency or local government, including a charter city, shall not adopt or enforce a rule, regulation, resolution, or ordinance, including, but not limited to, an ordinance prohibiting natural gas hookups for new buildings, that directly or indirectly results in prohibiting the use of gas appliances in residential or nonresidential buildings."

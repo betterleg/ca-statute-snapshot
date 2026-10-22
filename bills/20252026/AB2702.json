@@ -9,10 +9,7 @@
  ],
  "bill": "AB2702",
  "bill_id": "202520260AB2702",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law requires each city, county, or city and county to adopt a comprehensive, long-term general plan for its physical development, and the development of certain lands outside its boundaries, that includes, among other mandatory elements, a housing element. That law allows a development proponent to submit an application for a development that is subject to a specified streamlined, ministerial approval process not subject to a conditional use permit, if the development satisfies certain objective planning standards.",
   "Existing law, the Affordable Housing on Faith and Higher Education Lands Act of 2023, until January 1, 2036, requires that a housing development project be a use by right, as defined, and does not require a conditional use permit, planned unit development permit, or other discretionary local government review, notwithstanding any inconsistent provision of a local government’s general plan, specific plan, zoning ordinance, or regulation, upon the request of an applicant who submits an application for streamlined approval, if, among other criteria, the development is located on land owned on or before January 1, 2024, by an independent institution of higher education or a religious institution, as specified.",
@@ -23,7 +20,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "2201c4bc9eb93e60",
+ "hash": "e0e7aef3b67011f1",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -60,7 +57,7 @@
  "location": "CX10",
  "sections": [
   {
-   "action": "Section 65913.17 is added to the Government Code , to read:",
+   "action": "Section 65913.17 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) This section shall be known, and may be cited, as the Residential Care Facilities for the Elderly on Faith-Based Lands Act of 2026.",

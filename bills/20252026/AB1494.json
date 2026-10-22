@@ -9,15 +9,12 @@
  ],
  "bill": "AB1494",
  "bill_id": "202520260AB1494",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, requires each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city and of any land outside its boundaries that bears relation to its planning. That law further requires the planning agency having jurisdiction over a general plan to render a report as to conformity with the adopted general plan before, among other things, the acquisition or disposition of real property or the construction or authorization of a public building or structure impacting the general plan, except as specified.",
   "This bill would make nonsubstantive changes to these provisions."
  ],
- "hash": "f3be52e7f58c965d",
+ "hash": "ca102ce28a89a9a0",
  "history": [
   {
    "action": "Introduced. To print.",
@@ -43,7 +40,7 @@
   "id": "20250AB149499INT",
   "num": "99"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65402 of the Government Code is amended to read:",

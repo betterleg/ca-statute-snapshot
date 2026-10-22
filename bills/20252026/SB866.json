@@ -9,17 +9,14 @@
  ],
  "bill": "SB866",
  "bill_id": "202520260SB866",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. That law requires the planning agency of a city or county to provide by April 1 of each year an annual report to the Department of Housing and Community Development that includes, among other specified information, the agency’s progress in meeting its share of regional housing needs and the number of units approved and disapproved in the prior year.",
   "This bill, beginning with the first annual report submitted after the due date for the 7th cycle revision of the housing element, would require that annual report to additionally include specified information regarding the special housing needs of families and persons in need of emergency shelter. The bill would require the report to include, among other information, a list of any federal, state, or local funding that has been allocated from specified programs and a description of any actions taken to conduct outreach to individuals who are unhoused to inform them about those resources.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "8b0d62b1afcec220",
+ "hash": "dd3d07885875fed9",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

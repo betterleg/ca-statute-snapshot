@@ -9,10 +9,7 @@
  ],
  "bill": "SB149",
  "bill_id": "202520260SB149",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Existing law, until January 1, 2030, generally prohibits a person from possessing, importing, shipping, or transporting in the state, or from placing, planting, or causing to be placed or planted in any water within the state, dreissenid mussels, and authorizes the Director of Fish and Wildlife or the director’s designee to engage in various enforcement activities with regard to dreissenid mussels. Existing law requires any person, or federal, state, or local agency, district, or authority that owns or manages a reservoir, as defined, where recreational, boating, or fishing activities are permitted, except as specified, to develop and implement a program designed to prevent the introduction of nonnative dreissenid mussel species, as provided. Under existing law, except as otherwise provided, any violation of the Fish and Game Code, or of any rule, regulation, or order made or adopted under the code, is a crime.",
   "This bill would expand the scope of the above-described provisions relating to dreissenid mussels to instead apply to invasive mussels, defined to mean any nonnative detrimental mussel species, as provided. By expanding the scope of a crime, the bill would impose a state-mandated local program.",
@@ -49,7 +46,7 @@
   "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above.",
   "(9) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
  ],
- "hash": "31e35de6f1646fab",
+ "hash": "74973f46e0a4f4e8",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

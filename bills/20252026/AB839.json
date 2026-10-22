@@ -15,10 +15,7 @@
  ],
  "bill": "AB839",
  "bill_id": "202520260AB839",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "CEQA authorizes the Governor to certify projects meeting certain requirements as infrastructure projects and provide those certified projects with certain streamlining benefits, including requiring the lead agency to prepare the record of proceedings concurrently with the environmental review process and requiring the resolution of an action or proceeding challenging the certification of an EIR for certified projects or the granting of any project approvals, to the extent feasible, within 270 days of the filing of the record of proceedings with the court, as specified. Existing law requires the lead agency, within 10 days of the certification of an infrastructure project, to provide a public notice of the certification, as provided. If a lead agency fails to approve a project certified as an infrastructure project before January 1, 2033, existing law specifies that the certification is no longer valid.",
@@ -26,7 +23,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "c68c39deedd7d435",
+ "hash": "68b02bc7c06433b6",
  "history": [
   {
    "action": "Read first time. To print.",

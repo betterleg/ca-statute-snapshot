@@ -22,7 +22,7 @@
   "Existing constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.",
   "This bill would make legislative findings to that effect."
  ],
- "hash": "00da8acba6be4043",
+ "hash": "ef530d65bf503e70",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -160,10 +160,10 @@
   "id": "20250AB157790CHP",
   "num": "90"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65909.3 is added to the Government Code , to read:",
+   "action": "Section 65909.3 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Upon applying for a discretionary permit, entitlement, or land use authorization required for the construction or operation of a data center, the owner or operator of the data center shall submit to the applicable local agency an estimate of all of the following information, to the extent applicable to the proposed facility:",

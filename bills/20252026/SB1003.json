@@ -9,16 +9,13 @@
  ],
  "bill": "SB1003",
  "bill_id": "202520260SB1003",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning law requires each planning agency to prepare and the legislative body of each county and city to adopt a comprehensive, long-term general plan for the physical development of the county or city that includes specified elements, including a housing element. The law requires the Department of Housing and Community Development to designate jurisdictions as prohousing, as specified. The law requires that jurisdictions that have adopted a housing element that has been found by the department to be in substantial compliance with specified requirements and that have been designated as prohousing based on their adoption of prohousing local policies, as defined, be awarded additional points or preference in the scoring of program applications for certain programs.",
   "Existing law authorizes the legislative body of a city or county to designate a proposed enhanced infrastructure financing district to finance public capital facilities or other specified projects of communitywide significance that provide significant benefits to the district or the surrounding community, including, among other things, the acquisition, construction, or rehabilitation of housing for persons of very low, low, and moderate income for rent or purchase, as specified. Existing law authorizes an infrastructure financing plan to contain a provision for the division of taxes levied upon taxable property in the area included within the district, and authorizes the public financing authority of the district to issue bonds, as provided.",
   "This bill would authorize a city or county that is designated as prohousing to establish a prohousing enhanced infrastructure financing district if certain requirements are met, as specified. The bill would prescribe requirements applicable to those districts. The bill would expand the definition of “prohousing local policies” for purposes of the above-described provisions to include the establishment of one of these districts, and would require that the jurisdiction that established, and projects located within, a district receive enhanced points or preference than the baseline provided to other prohousing jurisdictions."
  ],
- "hash": "1dc7fad9627993d5",
+ "hash": "e2326b09ea733e1b",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

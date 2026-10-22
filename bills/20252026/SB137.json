@@ -9,10 +9,7 @@
  ],
  "bill": "SB137",
  "bill_id": "202520260SB137",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) The California Consumer Privacy Act of 2018 (CCPA) grants to a consumer various rights with respect to personal information, as defined, that is collected by a business, as defined, including the right to request that a business delete personal information about the consumer that the business has collected from the consumer. The California Privacy Rights Act of 2020, an initiative measure approved by the voters as Proposition 24 at the November 3, 2020, statewide general election, amended, added to, and reenacted the CCPA. The CCPA establishes the California Privacy Protection Agency with full administrative power, authority, and jurisdiction to implement and enforce the CCPA.",
   "The CCPA creates the Consumer Privacy Fund in the State Treasury and makes moneys in the fund available upon appropriation by the Legislature first to offset any costs incurred by the state courts in connection with actions brought to enforce the CCPA, the costs incurred by the Attorney General in carrying out the Attorney General’s duties under the CCPA, and then for the purposes of establishing an investment fund in the State Treasury, with any earnings or interest from the fund to be deposited into the General Fund, and making grants to promote and protect consumer privacy, educate children in the area of online privacy, and fund cooperative programs with international law enforcement organizations to combat fraudulent activities with respect to consumer data breaches, as prescribed.",
@@ -63,7 +60,7 @@
   "This bill would provide that no reimbursement is required by this act for a specified reason.",
   "(13) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
  ],
- "hash": "e98ceaf7cbbf1392",
+ "hash": "f4bc85b443d8e361",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

@@ -9,10 +9,7 @@
  ],
  "bill": "AB1674",
  "bill_id": "202520260AB1674",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law creates the Office of Farm to Fork within the Department of Food and Agriculture, and requires the office, to the extent that resources are available, to work with various entities, as prescribed, to increase the amount of agricultural products available to underserved communities and schools in the state. Existing law requires the office, among other things, to identify distribution barriers that affect limited food access and work to overcome those barriers through various actions and to coordinate with school districts and representatives to increase the nutritional profile of foods provided in schools.",
   "This bill, the Food Affordability Act, would create the Food Desert Elimination Grant Program under the administration of the department to expand access to healthy foods in food deserts, as defined, and areas at risk of becoming food deserts, by providing grants to developers and grocery store operators, as specified. The bill would create the Food Desert Elimination Fund and would authorize the department, upon appropriation by the Legislature, to expend moneys in the fund for the purpose of the program. The bill would authorize the department to collect nonstate, federal, and private moneys for the purpose of the program, require those moneys to be deposited into the California Equitable Food Access Account within the Food Desert Elimination Fund, which the bill would create, and continuously appropriate those moneys to the department for the purpose of the program. The bill would authorize the department to award grants for specified purposes to developers or grocery store operators seeking to locate grocery stores in food deserts or to existing grocery stores located in food deserts. The bill would require a developer or grocery store operator that received a grant to locate a grocery store in a food desert and opened a grocery store accordingly, to return any unused grant moneys to the department if the grocery store closes within 2 years of the date of opening. The bill would also authorize the department to award grants to grocery store operators of existing large grocery stores that provide essential food access to food deserts to support the retention, stabilization, or continued operation of the large grocery store, as specified. The bill would require the department, on or before January 1, 2028, to report the number of grants awarded under the program and the location of grant recipients to the relevant policy committees of the Legislature. The bill would authorize the department to adopt guidelines to implement these provisions.",
@@ -22,7 +19,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "769de19e524ea9dd",
+ "hash": "d480d6e3d955f848",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -55,7 +52,7 @@
  "location": "CX10",
  "sections": [
   {
-   "action": "Section 65913.17 is added to the Government Code , to read:",
+   "action": "Section 65913.17 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section, the following definitions apply:",

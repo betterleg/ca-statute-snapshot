@@ -147,10 +147,7 @@
  ],
  "bill": "AB1083",
  "bill_id": "202520260AB1083",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "Existing law exempts from CEQA a rezoning that implements the schedule of actions contained in an approved housing element, as specified, except, among other things, a rezoning that would allow for the construction of a distribution center or for oil and gas infrastructure.",
@@ -164,7 +161,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "b8b814ad2f578d67",
+ "hash": "9e576b547579c894",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -213,7 +210,7 @@
  "location": "CX20",
  "sections": [
   {
-   "action": "Section 21060.6 is added to the Public Resources Code , to read:",
+   "action": "Section 21060.6 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "“Tourism facility” means any of the following:",

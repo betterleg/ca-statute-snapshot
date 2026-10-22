@@ -51,16 +51,13 @@
  ],
  "bill": "SB231",
  "bill_id": "202520260SB231",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "Under existing law, the recommendation, continuous evaluation, and execution of statewide environmental goals, policies, and plans are included within the scope of the executive functions of the Governor. Existing law establishes the Office of Land Use and Climate Innovation in the Governor’s office for the purpose of serving the Governor and the Governor’s cabinet as staff for long-range planning and research and constituting the comprehensive state planning agency.",
   "This bill would require, on or before July 1, 2027, the Office of Land Use and Climate Innovation to consult with regional, local, state, and federal agencies to develop a technical advisory on thresholds of significance for greenhouse gas and noise pollution effects on the environment to assist local agencies. The bill would require the technical advisory to provide suggested thresholds of significance for all areas of the state, as specified, and would provide that lead agencies may elect to adopt these suggested thresholds of significance. The bill would also require the Office of Land Use and Climate Innovation to post the technical advisory on its internet website."
  ],
- "hash": "5094b85ec4bf158d",
+ "hash": "e7db28e70fbb6b2e",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -117,7 +114,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 21083.06 is added to the Public Resources Code , to read:",
+   "action": "Section 21083.06 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) On or before July 1, 2027, the Office of Land Use and Climate Innovation shall consult with regional, local, state, and federal agencies to develop a technical advisory on thresholds of significance for greenhouse gas and noise pollution effects on the environment to assist local agencies. The technical advisory shall provide suggested thresholds of significance for all areas of the state. In developing the suggested thresholds of significance for specific areas of the state, the Office of Land Use and Climate Innovation may consider all of the following:",

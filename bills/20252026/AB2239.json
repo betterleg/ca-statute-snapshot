@@ -9,10 +9,7 @@
  ],
  "bill": "AB2239",
  "bill_id": "202520260AB2239",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law vests the Public Utilities Commission (PUC) with regulatory authority over public utilities, including electrical corporations. Existing law requires the PUC to establish reasonable average and maximum target energization time periods, as defined, and a procedure for customers to report energization delays to the PUC, as provided. Existing law requires the PUC to require an electrical corporation to take remedial actions necessary to achieve the PUC’s targets.",
   "This bill would require the PUC to require each electrical corporation to meet energization timelines or targets established pursuant to the above-described provisions or by PUC order. The bill would require the PUC to impose a penalty if an electrical corporation fails to meet an energization timeline or target approved or required by the PUC, as provided.",
@@ -26,7 +23,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for specified reasons."
  ],
- "hash": "8fd0e2456365e632",
+ "hash": "8a908a683e939290",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -51,7 +48,7 @@
  "location": "CX23",
  "sections": [
   {
-   "action": "Section 21080.74 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.74 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) This division does not apply to the approval of an electrical generation or energy storage project located within an infrastructure-constrained energization area if all of the following conditions are met:",

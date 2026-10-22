@@ -9,15 +9,12 @@
  ],
  "bill": "AB2295",
  "bill_id": "202520260AB2295",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law requires the Department of Housing and Community Development, in consultation with each council of governments, to determine each region’s existing and projected housing need, as provided. Existing law requires each council of governments, or delegate subregion as applicable, to develop and adopt a methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, as provided. Existing law also requires each council of governments and delegate subregion, as applicable, to adopt a final allocation of regional housing needs to each local government in the region or subregion, where applicable, and the department, based on that adopted methodology. Existing law requires that the housing element of a county’s or city’s general plan include, among other things, a quantification of the locality’s existing and projected housing needs for all income levels, which must include the locality’s share of the regional housing need, as provided. Existing law authorizes a local government within the same county as a federally recognized Native American tribe to enter into a voluntary agreement with a tribe to allow new tribal housing development projects to count toward the locality’s share of the regional housing needs allocation if certain conditions are met.",
   "This bill would authorize a local government, as defined, to enter into a voluntary agreement with another local government to allow new housing development projects to count toward each locality’s share of the regional housing needs allocation if certain conditions are met, including that the project includes affordable housing units for very low and lower income households."
  ],
- "hash": "1af269b8a48c09a3",
+ "hash": "5d1f017f1cd96407",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -42,7 +39,7 @@
  "location": "CX10",
  "sections": [
   {
-   "action": "Section 65584.2.3 is added to the Government Code , to read:",
+   "action": "Section 65584.2.3 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A local government may enter into a voluntary agreement with another local government to allow new housing development projects to count toward each locality’s share of the regional housing needs allocation if both of the following conditions are met:",

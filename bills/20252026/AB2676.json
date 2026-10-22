@@ -15,10 +15,7 @@
  ],
  "bill": "AB2676",
  "bill_id": "202520260AB2676",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Existing law, known as the Housing Crisis Act of 2019, with respect to land where housing is an allowable use and except as specified, prohibits a county or city, including the electorate exercising its local initiative or referendum power, in which specified conditions exist, determined as provided by the Department of Housing and Community Development, from enacting a development policy, standard, or condition, as defined, that would have certain effects. Under existing law, these proscribed policies, standards, or conditions include, among others, (A) changing the land use designation or zoning of a parcel or parcels of property to a less intensive use or reducing the intensity of land use within an existing zoning district below what was allowed under the general plan or specific plan land use designation and zoning ordinances of the county or city as in effect on January 1, 2018, and (B) imposing or enforcing a moratorium on housing development within all or a portion of the jurisdiction of the county or city, except as provided. Existing law states that these prohibitions apply to any zoning ordinance adopted or amended on or after the effective date of these provisions, and that any development policy, standard, or condition on or after that date that does not comply is deemed void.",
   "Existing law prohibits a county or city subject to these provisions from enforcing a zoning ordinance imposing a moratorium or other similar restriction on or limitation of housing development until it has submitted the ordinance to, and received approval from, the Department of Housing and Community Development. Existing law requires the department to approve a zoning ordinance submitted to it only if the department determines that the zoning ordinance satisfies these requirements. If the department denies approval of the zoning ordinance, as specified, existing law states that the ordinance is deemed void.",
@@ -32,7 +29,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "316e7538d7eed266",
+ "hash": "2956e283cd398f87",
  "history": [
   {
    "action": "Read first time. To print.",

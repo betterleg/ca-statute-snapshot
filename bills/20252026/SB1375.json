@@ -26,7 +26,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "9c690407fd9aa97d",
+ "hash": "ff427e9282f75889",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -160,10 +160,10 @@
   "id": "20250SB137593CHP",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 21080.76 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.76 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) Except as provided in paragraph (8), this division does not apply to a public urban, intermodal rail station project within a long-urbanized area within the statewide passenger rail network, at which high-capacity light, commuter, and intercity rail services converge that meets the following conditions:",

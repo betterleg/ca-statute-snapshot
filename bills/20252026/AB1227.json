@@ -57,10 +57,7 @@
  ],
  "bill": "AB1227",
  "bill_id": "202520260AB1227",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the California Emergency Services Act, authorizes the Governor to declare a state of emergency during conditions of disaster or extreme peril to persons or property. Existing law authorizes the Governor, during a state of emergency, to suspend any regulatory statute, or statute prescribing the procedure for conduct of state business, or the orders, rules, or regulations of any state agency, if the Governor determines and declares that strict compliance with any statute, order, rule, or regulation would in any way prevent, hinder, or delay the mitigation of the effects of the emergency.",
   "Under the authority of the California Emergency Services Act, on March 1, 2025, Governor Gavin Newsom issued a proclamation of a state of emergency that suspends applicable state statutes, rules, regulations, and requirements that fall within the jurisdiction of boards, departments, and offices within the California Environmental Protection Agency or the Natural Resources Agency to the extent necessary for expediting critical fuels reduction projects, as provided. The proclamation requires an individual or entity desiring to conduct a critical fuels reduction project to request the secretary of the appropriate agency to make a determination that the proposed project is eligible for the suspension and requires the California Environmental Protection Agency and the Natural Resources Agency to maintain on their respective internet website a list of all suspensions approved.",
@@ -70,7 +67,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "67ce1209ace37685",
+ "hash": "736e6814b8d7c45d",
  "history": [
   {
    "action": "Introduced. To print.",
@@ -175,7 +172,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 21080.06 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.06 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) Without limiting any other statutory or categorical exemption provided under this division and subject to subdivision (b), this division does not apply to a critical fuels reduction project conducted in a community located in a very high fire hazard severity zone as identified by the State Fire Marshal pursuant to Section 51178 of the Government Code or Section 4202 or as designated by an ordinance pursuant to Section 51179 of the Government Code that does at least one of the following:",

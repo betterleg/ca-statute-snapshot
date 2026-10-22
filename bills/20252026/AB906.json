@@ -9,10 +9,7 @@
  ],
  "bill": "AB906",
  "bill_id": "202520260AB906",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) The Planning and Zoning Law requires a city or county to adopt a general plan for land use development that includes, among other things, a housing element. Existing law requires the housing element to include, among other things, an inventory of land suitable and available for residential development, including specified sites, an analysis of the relationship of zoning and public facilities and services to these sites (first analysis), and an analysis of the relationship of the sites identified in the land inventory to the jurisdiction’s duty to affirmatively further fair housing (2nd analysis).",
   "This bill would remove the requirement on cities and counties to include the 2nd analysis in their housing elements.",
@@ -31,7 +28,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "c9a6df6499216899",
+ "hash": "290b366b38fc6106",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -227,7 +224,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65583.01 is added to the Government Code , to read:",
+   "action": "Section 65583.01 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "The program to affirmatively further fair housing required pursuant to paragraph (10) of subdivision (c) of Section 65583 shall meet all of the following requirements:",
@@ -322,7 +319,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65583.2 of the Government Code , as amended by Section 6.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
+   "action": "Section 65583.2 of the Government Code, as amended by Section 6.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) A city’s or county’s inventory of land suitable for residential development pursuant to paragraph (3) of subdivision (a) of Section 65583 shall be used to identify sites that can be developed for housing within the planning period, that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels pursuant to Section 65584, and that are distributed throughout the community in compliance with subdivision (h). As used in this section, “land suitable for residential development” includes all of the following sites that meet the standards set forth in subdivisions (c) and (g):",
@@ -389,7 +386,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65583.2 of the Government Code , as amended by Section 7.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
+   "action": "Section 65583.2 of the Government Code, as amended by Section 7.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) A city’s or county’s inventory of land suitable for residential development pursuant to paragraph (3) of subdivision (a) of Section 65583 shall be used to identify sites that can be developed for housing within the planning period, that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels pursuant to Section 65584, and that are distributed throughout the community in compliance with subdivision (h). As used in this section, “land suitable for residential development” includes all of the following sites that meet the standards set forth in subdivisions (c) and (g):",

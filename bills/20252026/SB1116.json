@@ -34,7 +34,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "507f122c53a624e9",
+ "hash": "7892312c086bb502",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -188,7 +188,7 @@
   "id": "20250SB111689CHP",
   "num": "89"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65400 of the Government Code is amended to read:",
@@ -497,7 +497,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65852.28 is added to the Government Code , to read:",
+   "action": "Section 65852.28 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A development proponent may submit an application for a housing development project on a lot that is subdivided pursuant to Section 66499.41 and that meets the requirements of this section.",
@@ -574,7 +574,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65852.28 is added to the Government Code , to read:",
+   "action": "Section 65852.28 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A development proponent may submit an application for a housing development project on a lot that is subdivided pursuant to Section 66499.41 and that meets the requirements of this section.",
@@ -921,7 +921,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66499.41 is added to the Government Code , to read:",
+   "action": "Section 66499.41 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A local agency shall ministerially consider, without discretionary review or a hearing, a parcel map or a tentative and final map for a housing development project that meets all of the following requirements:",
@@ -1127,7 +1127,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 66499.41 is added to the Government Code , to read:",
+   "action": "Section 66499.41 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A local agency shall ministerially consider, without discretionary review or a hearing, a parcel map or a tentative and final map for a housing development project that meets all of the following requirements:",

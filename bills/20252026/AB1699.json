@@ -88,7 +88,7 @@
   "This bill would incorporate additional changes to Section 4799.05 of the Public Resources Code proposed by AB 2513 to be operative only if this bill and AB 2513 are enacted and this bill is enacted last.",
   "This bill would declare that it is to take effect immediately as an urgency statute."
  ],
- "hash": "94b48dc11204aa32",
+ "hash": "e310070bdc02b75b",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -210,10 +210,10 @@
   "id": "20250AB169993CHP",
   "num": "93"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 21080.49.1 is added to the Public Resources Code , immediately following Section 21080.49 , to read:",
+   "action": "Section 21080.49.1 is added to the Public Resources Code, immediately following Section 21080.49, to read:",
    "code": "PRC",
    "paras": [
     "This division does not apply to actions taken by the Department of Forestry and Fire Protection to assist in the implementation of prescribed fire or cultural burning projects that do not otherwise require compliance with this division."

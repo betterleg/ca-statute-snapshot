@@ -9,10 +9,7 @@
  ],
  "bill": "AB2741",
  "bill_id": "202520260AB2741",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law requires a city or county to adopt a general plan for land use development within its boundaries that includes, among other things, a housing element. Existing law requires the housing element to include, among other things, an inventory of land suitable and available for residential development. Existing law requires a city or county, based on that inventory of land, to determine whether each site in the inventory can accommodate the development of some portion of its share of the regional housing need by income level during the planning period, as provided. Existing law requires local governments to rezone sites according to a specified program if the inventory of sites suitable and available for residential development does not identify adequate sites to accommodate the need for groups of all household income levels. Existing law requires that program to accommodate 100% of the need for housing for specified lower income households on sites required to be zoned to permit owner-occupied and rental multifamily residential use, as provided, and requires these sites to be zoned with specified minimum density and development standards, as provided.",
   "This bill would provide that these zoning requirements would be met by applying a zoning classification, including, but not limited to, an overlay zone, mixed-use zone, combining district, or similar zone that permits owner-occupied and rental multifamily residential use with the above-described minimum density and development standards, as specified. The bill would require a program that includes application of this zoning classification to include a written explanation of the housing and affordability incentives of the zoning classification. The bill would permit this zoning classification to allow a mix of uses if it meets prescribed requirements. The bill would define key terms for these purposes. The bill would apply these provisions only to the 6th housing element revision cycle and retroactively to January 1, 2019.",
@@ -20,7 +17,7 @@
   "Existing law, the Housing Accountability Act, among other things, prohibits a local agency from disapproving, or conditioning approval in a manner that renders infeasible, a housing development project for very low, low-, or moderate-income households unless the local agency makes written findings as to one of certain sets of conditions, as specified. One set of conditions is that (1) the jurisdiction has adopted a housing element that is in substantial compliance with the Housing Element Law, and (2) the jurisdiction has met or exceeded its share of the regional housing need allocation for the planning period for the income category proposed for the housing development project. Existing law requires a housing element or amendment to be considered in substantial compliance with the Housing Element Law only if the element or amendment was determined to be in substantial compliance when a preliminary application or complete application was submitted, as specified.",
   "This bill would require, if a court of competent jurisdiction finds an adopted housing element or amendment to be to be out of compliance despite the department’s findings of substantial compliance, that the housing element or amendment be considered in substantial compliance until either the date the department finds that a newly adopted housing element or amendment is in substantial compliance, or 275 days after a court order, writ, or judgment is issued requiring the local agency to bring its housing element into substantial compliance, whichever is earlier."
  ],
- "hash": "59f67fc5c5d6639e",
+ "hash": "28098be455598b8f",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -69,7 +66,7 @@
  "location": "CX15",
  "sections": [
   {
-   "action": "Section 65583.2 of the Government Code , as amended by Section 6.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
+   "action": "Section 65583.2 of the Government Code, as amended by Section 6.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) A city’s or county’s inventory of land suitable for residential development pursuant to paragraph (3) of subdivision (a) of Section 65583 shall be used to identify sites throughout the community, consistent with paragraph (10) of subdivision (c) of Section 65583, that can be developed for housing within the planning period and that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels pursuant to Section 65584. As used in this section, “land suitable for residential development” includes all of the following sites that meet the standards set forth in subdivisions (c) and (g):",
@@ -144,7 +141,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65583.2 of the Government Code , as amended by Section 7.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
+   "action": "Section 65583.2 of the Government Code, as amended by Section 7.5 of Chapter 282 of the Statutes of 2024, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) A city’s or county’s inventory of land suitable for residential development pursuant to paragraph (3) of subdivision (a) of Section 65583 shall be used to identify sites throughout the community, consistent with paragraph (10) of subdivision (c) of Section 65583, that can be developed for housing within the planning period and that are sufficient to provide for the jurisdiction’s share of the regional housing need for all income levels pursuant to Section 65584. As used in this section, “land suitable for residential development” includes all of the following sites that meet the standards set forth in subdivisions (c) and (g):",

@@ -9,17 +9,14 @@
  ],
  "bill": "SB252",
  "bill_id": "202520260SB252",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "This bill would exempt from the provisions of CEQA a project to underground powerlines. Because a lead agency would be required to determine if a project qualifies for this exemption, this bill would impose a state-mandated local program.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "52261766759576ca",
+ "hash": "60793429a983c916",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -64,7 +61,7 @@
  "location": "CS64",
  "sections": [
   {
-   "action": "Section 21080.08 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.08 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "This division does not apply to a project to underground powerlines."

@@ -21,17 +21,14 @@
  ],
  "bill": "AB2351",
  "bill_id": "202520260AB2351",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law requires cities and counties to prepare, adopt, and amend general plans and elements of those general plans, as specified. After the legislative body has adopted all or part of a general plan, the law requires the planning agency to provide by April 1 of each year an annual report to specified entities that includes certain information, including the status of the plan and progress of its implementation.",
   "This bill would require the planning agency to include in that report, beginning with the report due by April 1, 2028, the number of temporary emergency shelter beds and the number of permanent housing units serving those experiencing or exiting homelessness in the jurisdiction in each of specified categories. By requiring planning agencies to include additional information in these annual reports, the bill would impose a state-mandated local program.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "3e5c93870462d4bf",
+ "hash": "34d21a3acdddbeca",
  "history": [
   {
    "action": "Read first time. To print.",

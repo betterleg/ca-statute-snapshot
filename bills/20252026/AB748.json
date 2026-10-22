@@ -21,10 +21,7 @@
  ],
  "bill": "AB748",
  "bill_id": "202520260AB748",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, provides for the adoption and administration of zoning laws, ordinances, rules and regulations by counties and cities and the implementation of those general plans as may be in effect in those counties or cities. In that regard, existing law requires each local agency, by January 1, 2025, to develop a program for the preapproval of accessory dwelling unit plans.",
   "This bill would require each local agency, as defined, to develop a program for the preapproval of single-family and multifamily residential housing plans, whereby the local agency accepts single-family and multifamily plan submissions for preapproval and approves or denies the preapproval applications, as specified. The bill would require a large jurisdiction, as defined, to develop this program by July 1, 2027, and a small jurisdiction, as defined, to develop a program by January 1, 2029. The bill would require the local agency to post preapproved single-family or multifamily residential housing plans and the contact information of the applicant on the local agency’s internet website.",
@@ -38,7 +35,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "1ed176ac2efda1e4",
+ "hash": "79f43f59f555cde2",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -131,7 +128,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 65852.29 is added to the Government Code , to read:",
+   "action": "Section 65852.29 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Each local agency shall, by July 1, 2027, develop a program for the preapproval of single-family and multifamily residential housing plans. The program shall comply with all of the following:",

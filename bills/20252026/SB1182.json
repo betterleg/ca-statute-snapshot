@@ -9,17 +9,14 @@
  ],
  "bill": "SB1182",
  "bill_id": "202520260SB1182",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law requires the legislative body of a city or county to adopt a comprehensive, long-term general plan that includes various elements, including, among others, a housing element, as provided, and a safety element for the protection of the community from specified risks. Existing law requires, upon the next revision of the housing element on or after January 1, 2014, the safety element to be reviewed and updated as necessary to address the risk of fire for land classified as state responsibility areas and land classified as very high fire hazard severity zones, as defined. Other existing law requires the Office of Land Use and Climate Innovation to update a specified guidance document to include specific land use strategies to reduce fire risk to buildings, infrastructure, and communities.",
   "This bill would, for safety elements updated on or after January 1, 2028, require the safety element to include the availability of insurance for existing and planned uses within very high fire hazard severity zones and in state responsibility areas. The bill would require the office, on or before July 1, 2027, to update the guidance document described above to identify sources of information that a city or county may use to satisfy the above requirement.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "2b6029a07845d6b0",
+ "hash": "018914ab89fa03f1",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

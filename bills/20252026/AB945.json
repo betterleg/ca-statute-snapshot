@@ -9,17 +9,14 @@
  ],
  "bill": "AB945",
  "bill_id": "202520260AB945",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, referred to as the Density Bonus Law, requires a city or county to provide a developer that proposes a housing development within the city or county with a density bonus and other incentives or concessions, as specified, if the developer agrees to construct, among other options, specified percentages of units for lower income households or very low income households, and meets other requirements. Under existing law, the number of incentives or concessions granted to a development under the Density Bonus Law vary based on the percentage of affordable units within the development, or whether the development serves specified other target populations, as provided. Existing law establishes the Department of Housing and Community Development (HCD) in the Business, Consumer Services, and Housing Agency and requires it to administer various programs intended to promote the development of housing. Existing law establishes the State Energy Resources Conservation and Development Commission (the commission), consisting of 5 members, and establishes various duties and responsibilities of the commission relating to energy usage in the state.",
   "This bill would require a city or county to grant additional incentives or concessions when an applicant proposes to construct a green housing development, as defined. The bill would require that the number of incentives or concessions granted initially be set to 3 and would require HCD, as specified, to evaluate and report on the number and type of units and developments entitled, permitted, and constructed pursuant to these provisions. The bill would require HCD, in this report, to maintain or alter the number of incentives or concessions granted under these provisions, as prescribed. The bill would require a city or county to report, as specified, at least annually to HCD on the quantity of green housing developments where the applicant has requested additional incentives or concessions under these provisions. The bill would also prohibit a city or county from requiring that a green housing development include car parking. By expanding a city or county’s duties to administer incentives or concessions, this bill would impose a state-mandated local program.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "b613a78b58dcbb8b",
+ "hash": "88263c334819d310",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -52,7 +49,7 @@
  "location": "CX10",
  "sections": [
   {
-   "action": "Section 65915.6 is added to the Government Code , to read:",
+   "action": "Section 65915.6 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A city or county shall grant additional incentives or concessions to an applicant for a density bonus that receives incentives or concessions pursuant to subdivision (d) of Section 65915 when the applicant proposes to construct a green housing development, as follows:",

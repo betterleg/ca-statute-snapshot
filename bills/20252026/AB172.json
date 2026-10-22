@@ -9,10 +9,7 @@
  ],
  "bill": "AB172",
  "bill_id": "202520260AB172",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Existing law, the Boxing Act, also known as the State Athletic Commission Act, creates within the Department of Consumer Affairs the State Athletic Commission. Existing law requires a person who conducts a contest or wrestling exhibition, within 72 hours after the determination of every contest or wrestling exhibition for which admission is charged and received, to furnish to the commission certain fees. One fee is based, in part, on the amount paid for admission to the contest or wrestling exhibition, as specified. Existing law requires the fee for a professional contest or exhibition to be at least $1,250.",
   "This bill would increase the minimum amount of that fee to $2,500.",
@@ -77,7 +74,7 @@
   "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above.",
   "(26) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
  ],
- "hash": "38bb170204fc4a65",
+ "hash": "701c52ab74ce7aa3",
  "history": [
   {
    "action": "Read first time. To print.",

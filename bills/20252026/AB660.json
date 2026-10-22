@@ -33,10 +33,7 @@
  ],
  "bill": "AB660",
  "bill_id": "202520260AB660",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) The Planning and Zoning Law requires a local agency, as defined, to compile one or more lists that specify in detail the information required from any applicant for a postentitlement phase permit, as defined. Existing law also establishes time limits for completing reviews regarding whether an application for a postentitlement phase permit is complete and compliant, and whether to approve or deny an application. If a local agency finds that a complete application is noncompliant, existing law requires the local agency to provide the applicant with a list of items that are noncompliant and a description of how the application can be remedied by the applicant within specified time limits. Existing law requires the time limits to be tolled, if the local agency requires review of the application by an outside entity, until the outside entity completes the review and returns the application to the local agency, as specified.",
   "This bill would prohibit the local agency from requiring or requesting more than 2 plan check and specification reviews in connection with an application for a building permit, as part of its review, except as specified. The bill would authorize a local agency to deny an application that is not compliant with the permit standards following 2 plan check and specification reviews. The bill would also authorize an applicant to request additional submittals of applications that are not compliant with the permit standards. The bill, if a local agency finds that a complete application is noncompliant, would prohibit a local agency from requesting or requiring any action or inaction as a result of a building inspection undertaken to assess compliance with the applicable building permit standards that would represent a deviation from a previously approved building plan or similar approval for the building permit, except as specified.",
@@ -53,7 +50,7 @@
   "(6) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "6790841d6bc78cf0",
+ "hash": "d3b09b233f1e2cfb",
  "history": [
   {
    "action": "Read first time. To print.",

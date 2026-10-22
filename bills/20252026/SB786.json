@@ -38,7 +38,7 @@
   "This bill would instead require, in any order or judgment issued in an action brought to challenge the validity of the general plan of any city, county, or city and county, or any mandatory element thereof that resolves whether those plans or elements substantially comply with certain requirements, that order or judgment to be immediately appealable, regardless of whether any final judgment has been issued. The bill would instead require a county or city to comply with the above-described requirements if the court finds that the general plan or mandatory element does not substantially comply with certain requirements. The bill would remove a court’s above-described authority to grant a city or county 2 extensions of time. The bill would specify that the above-described remedies are not stayed during the pendency of an appeal of the order or judgment, but would authorize a court to stay remedies if there is a showing by a county or city that it would suffer irreparable harm. The bill would require, rather than authorize, a court to grant these remedies as temporary relief during a pendency of a challenge to the validity of the general plan. The bill would require that request for temporary relief to be made by noticed motion or application, as specified.",
   "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities."
  ],
- "hash": "7e52d68c24056f18",
+ "hash": "2a7147b277026561",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -168,10 +168,10 @@
   "id": "20250SB78694CHP",
   "num": "94"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65585.02 is added to the Government Code , to read:",
+   "action": "Section 65585.02 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section, “quantified development standard” means a site’s maximum density or requirements for a height limit, setback, maximum or minimum unit size, lot coverage, or floor area ratio.",

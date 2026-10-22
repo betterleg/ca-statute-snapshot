@@ -3,11 +3,8 @@
   "authors": [
    "Gallagher"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "b8fb44ccbfde219b",
+  "chapter": null,
+  "hash": "3e28f03ee8abfeed",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -51,32 +48,12 @@
   "status": "Chaptered",
   "title": "An act to amend Section 17391 of the Education Code, to amend Section 65914.7 of the Government Code, and to amend Section 21080.40 of the Public Resources Code, relating to housing."
  },
- "20252026 AB1026": {
-  "authors": [
-   "Wilson"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6f15cf9a8de0d960",
-  "last_action": "Consideration of Governor's veto stricken from file.",
-  "last_action_date": "2026-01-22",
-  "sections": [
-   "GOV 65913.3"
-  ],
-  "status": "Vetoed",
-  "title": "An act to amend Section 65913.3 of the Government Code, relating to housing."
- },
  "20252026 AB1055": {
   "authors": [
    "Boerner"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "462fa63ed8b5ced6",
+  "chapter": null,
+  "hash": "2b61d27c55ea4cd0",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -107,11 +84,8 @@
   "authors": [
    "Connolly"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "b8b814ad2f578d67",
+  "chapter": null,
+  "hash": "9e576b547579c894",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -125,32 +99,12 @@
   "status": "Died",
   "title": "An act to amend Sections 21067.5, 21080.085, 21080.1, 21080.69, and 21167.6 of, and to add Section 21060.6 to, the Public Resources Code, relating to environmental quality."
  },
- "20252026 AB1102": {
-  "authors": [
-   "Boerner"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "1baa450426686a8b",
-  "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
-  "last_action_date": "2026-02-02",
-  "sections": [
-   "GOV 65940.4"
-  ],
-  "status": "Died",
-  "title": "An act to add Section 65940.4 to the Government Code, relating to development."
- },
  "20252026 AB1131": {
   "authors": [
    "Ta"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "0fc63e993a595cc5",
+  "chapter": null,
+  "hash": "ea5bfe17fd78459d",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2025-08-29",
   "sections": [
@@ -176,23 +130,6 @@
   "status": "Chaptered",
   "title": "An act to amend Section 21080.28.5 of the Public Resources Code, relating to environmental quality."
  },
- "20252026 AB1152": {
-  "authors": [
-   "Patterson"
-  ],
-  "chapter": {
-   "num": "183",
-   "year": "2025"
-  },
-  "hash": "5b5d5134f2cc570e",
-  "last_action": "Chaptered by Secretary of State - Chapter 183, Statutes of 2025.",
-  "last_action_date": "2025-10-01",
-  "sections": [
-   "GOV 65940"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65940 of the Government Code, relating to housing."
- },
  "20252026 AB1154": {
   "authors": [
    "Carrillo"
@@ -210,23 +147,6 @@
   "status": "Chaptered",
   "title": "An act to amend Section 66333 of the Government Code, relating to land use."
  },
- "20252026 AB1156": {
-  "authors": [
-   "Wicks"
-  ],
-  "chapter": {
-   "num": "875",
-   "year": "2026"
-  },
-  "hash": "da613c1b6d9da7cd",
-  "last_action": "Chaptered by Secretary of State - Chapter 875, Statutes of 2026.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "PRC 21080"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Sections 51190, 51191, 51191.1, 51191.2, 51191.3, 51191.4, 511991.5, 51192, and 51192.1 of, to repeal Section 51192.2 of, and to repeal and add Section 51255.1 of, the Government Code, and to amend Section 21080 of the Public Resources Code, relating to solar-use easements."
- },
  "20252026 AB1170": {
   "authors": [
    "Dixon"
@@ -235,7 +155,7 @@
    "num": "67",
    "year": "2025"
   },
-  "hash": "aa3bb0e467fbef4d",
+  "hash": "c72266e2b565435a",
   "last_action": "Chaptered by Secretary of State - Chapter 67, Statutes of 2025.",
   "last_action_date": "2025-07-28",
   "sections": [
@@ -252,32 +172,12 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 205, 208, 1944, 2529.8.1, 4848.1, 4996.22, 5070.1, 5272, 5272.5, 7048, 7363, 8020.5, 17580, 19520, 23399.5, 26051.5, 26152.2, and 26200 of the Business and Professions Code, to amend Sections 714.3, 798.56, 835, 1770, 1785.11.11, 1798.130, 1798.140, 1798.185, 1950.6, 1954.09, 2214, 2924f, 3111, 3480, and 5115 of, and to amend the heading of Chapter 6 (commencing with Section 2213) of Title 7 of Part 4 of Division 3 of, the Civil Code, to amend Sections 8, 5510, 7510, and 12460 of the Corporations Code, to amend Sections 8222, 8242, 10864, 17586, 33328.5, 33355, 42238.026, 44260.1, 44320.5, 44395, 45202, 46392, 47604.2, 48306, 51225.7, 51255, 66023.4, 66023.5, 66076.2, 66270.7, 66280.5, 66308, 66749.81, 69996.9, and 76303 of, and to amend and renumber Section 51225.32 of, the Education Code, to amend Sections 2201, 2208, 3019, and 20513 of the Elections Code, to amend Sections 1352, 1352.5, 1672, and 2089.22 of the Fish and Game Code, to amend Sections 12811.2, 12839, 14513, 14611, 56571, 58231.1, and 82001 of the Food and Agricultural Code, to amend Sections 8547.2, 8547.5, 8657, 11126, 12530.5, 14072.6, 14839, 14840, 19829.9852, 19829.9854, 51298, 53398.52, 54239.4, 62506, 62509, 62520, 62551, 62551.1, 62582, 65302, 65585, 65588, 65852.8, 65913.4, 65915, 65915.3, 66314, 66499.41, and 89517.5 of, and to repeal the heading of Title 8.5 of, the Government Code, to amend Sections 1317.2a, 1343.3, 1374.72, 2056, 9077, 18214, 50197.3, 50513, 50515.03, 50710.7, 111926, 114368.8, 114381, 120440, 128454, and 130065.1 of, and to repeal the headings of Divisions 38 and 39 of, the Health and Safety Code, to amend Section 10509.9205 of the Insurance Code, to amend Sections 226.8, 2699, and 2699.3 of the Labor Code, to amend Sections 257, 395.1, 502, 502.1, 502.2, 502.4, 504, 505, 510, 513, 520, 552, 555, 557, 987.005, 987.300, and 1690 of the Military and Veterans Code, to amend Sections 236.8, 236.10, 236.11, 803, 888, 1233.12, and 28230 of the Penal Code, to amend Sections 2051, 10115.1, and 12140 of the Public Contract Code, to amend Sections 3206, 6217.8, 42281, 42282.1, 42283, 42968.32, 42968.62, 42968.71, 42968.74, 42984.3, 42984.10, 42984.21, 42999, and 48704.1 of the Public Resources Code, to amend Section 311 of the Public Utilities Code, to amend Sections 17052.1 and 36005 of the Revenue and Taxation Code, to amend Sections 94.4 and 31490 of the Streets and Highways Code, to amend Section 679 of the Unemployment Insurance Code, to amend Sections 9250.14 and 21214.7 of the Vehicle Code, to amend Section 73510 of the Water Code, to amend Sections 361.31, 706.6, 4095, 5404, 5610, 10492.2, 14149.95, and 16501.35 of, to amend and renumber the heading of Chapter 6.5 (commencing with Section 9320) of Division 8.5 of, and to repeal the heading of Division 26 of, the Welfare and Institutions Code, and to amend Section 1 of Chapter 107 of the Statutes of 2024, relating to maintenance of the codes."
  },
- "20252026 AB1184": {
-  "authors": [
-   "Patterson"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "92e434a5314f8f0c",
-  "last_action": "In Assembly. Concurrence in Senate amendments pending.",
-  "last_action_date": "2026-08-27",
-  "sections": [
-   "GOV 65589.5"
-  ],
-  "status": "In Floor Process",
-  "title": "An act to amend Section 65589.5 of the Government Code, relating to housing."
- },
  "20252026 AB1206": {
   "authors": [
    "Harabedian"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "98a3f2df6518cfc8",
+  "chapter": null,
+  "hash": "6aa853c352a41407",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2025-08-29",
   "sections": [
@@ -307,11 +207,8 @@
   "authors": [
    "Ellis"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "67ce1209ace37685",
+  "chapter": null,
+  "hash": "736e6814b8d7c45d",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2025-08-29",
   "sections": [
@@ -324,11 +221,8 @@
   "authors": [
    "Wicks"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "364c10991b4c5190",
+  "chapter": null,
+  "hash": "0a6b2da01f26f746",
   "last_action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
   "last_action_date": "2025-07-02",
   "sections": [
@@ -361,11 +255,8 @@
   "authors": [
    "Carrillo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "09eb6a0cd7ef7b55",
+  "chapter": null,
+  "hash": "49b3446606026742",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2025-08-29",
   "sections": [
@@ -375,23 +266,6 @@
   "status": "In Committee Process",
   "title": "An act to amend Section 65589.5 of, and to add Section 65958 to, the Government Code, relating to housing."
  },
- "20252026 AB1294": {
-  "authors": [
-   "Haney"
-  ],
-  "chapter": {
-   "num": "778",
-   "year": "2026"
-  },
-  "hash": "f6a74a7133ebecc1",
-  "last_action": "Chaptered by Secretary of State - Chapter 778, Statutes of 2026.",
-  "last_action_date": "2026-09-29",
-  "sections": [
-   "GOV 65913.2"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65913.2 of the Government Code, relating to housing."
- },
  "20252026 AB130": {
   "authors": [
    "Committee on Budget"
@@ -400,7 +274,7 @@
    "num": "22",
    "year": "2025"
   },
-  "hash": "7d742f7676e2c2a9",
+  "hash": "e71ccfac46531cc6",
   "last_action": "Chaptered by Secretary of State - Chapter 22, Statutes of 2025.",
   "last_action_date": "2025-06-30",
   "sections": [
@@ -440,7 +314,7 @@
    "num": "509",
    "year": "2025"
   },
-  "hash": "0b3fcdbb6e937d54",
+  "hash": "d749eb3b0b07742f",
   "last_action": "Chaptered by Secretary of State - Chapter 509, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -453,11 +327,8 @@
   "authors": [
    "Committee on Budget"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "e30a281e84afbf46",
+  "chapter": null,
+  "hash": "0b39e96e58aab991",
   "last_action": "Re-referred to Com. on B. & F. R.",
   "last_action_date": "2025-07-02",
   "sections": [
@@ -482,40 +353,6 @@
   "status": "In Committee Process",
   "title": "An act to add Article 3 (commencing with Section 50245) to Chapter 6.5 of Part 1 of Division 31 of the Health and Safety Code, and to amend Sections 21080.1, 21080.47, 21080.51, 21094.5.5, and 21167.6 of, and to add Sections 21060.4, 21064.8, 21067.5, 21080.085, 21080.44, 21080.48, 21080.49, 21080.55, 21080.57, 21080.69, 21080.70, and 21083.03 to, the Public Resources Code, relating to public resources, and making an appropriation therefor, to take effect immediately, bill related to the budget."
  },
- "20252026 AB1353": {
-  "authors": [
-   "Haney"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "79808b8d768aa88c",
-  "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
-  "last_action_date": "2026-02-02",
-  "sections": [
-   "GOV 65582.1"
-  ],
-  "status": "Died",
-  "title": "An act to amend Section 65582.1 of the Government Code, relating to housing."
- },
- "20252026 AB1359": {
-  "authors": [
-   "Ahrens"
-  ],
-  "chapter": {
-   "num": "195",
-   "year": "2026"
-  },
-  "hash": "54b445631ab42015",
-  "last_action": "Chaptered by Secretary of State - Chapter 195, Statutes of 2026.",
-  "last_action_date": "2026-09-14",
-  "sections": [
-   "GOV 65914.91"
-  ],
-  "status": "Chaptered",
-  "title": "An act to add Section 65914.91 to the Government Code, relating to land use."
- },
  "20252026 AB137": {
   "authors": [
    "Committee on Budget"
@@ -537,11 +374,8 @@
   "authors": [
    "Wallis"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "006719e25dcaf404",
+  "chapter": null,
+  "hash": "5952196a23b6a405",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -550,32 +384,12 @@
   "status": "Died",
   "title": "An act to amend Section 65583 of the Government Code, relating to housing."
  },
- "20252026 AB1445": {
-  "authors": [
-   "Haney"
-  ],
-  "chapter": {
-   "num": "642",
-   "year": "2025"
-  },
-  "hash": "5ffb81a87f0ee08d",
-  "last_action": "Chaptered by Secretary of State - Chapter 642, Statutes of 2025.",
-  "last_action_date": "2025-10-11",
-  "sections": [
-   "GOV 65912.100"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65912.100 of the Government Code, relating to housing."
- },
  "20252026 AB145": {
   "authors": [
    "Committee on Budget"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "69e612f8be91cb2c",
+  "chapter": null,
+  "hash": "b4b534ef4fd1e2f0",
   "last_action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
   "last_action_date": "2025-09-10",
   "sections": [
@@ -587,32 +401,12 @@
   "status": "In Committee Process",
   "title": "An act to amend Sections 21080.085, 21080.1, and 21080.69 of, and to add Section 21080.72 to, the Public Resources Code, relating to environmental quality, and making an appropriation therefor, to take effect immediately, bill related to the budget."
  },
- "20252026 AB1455": {
-  "authors": [
-   "Bryan"
-  ],
-  "chapter": {
-   "num": "731",
-   "year": "2025"
-  },
-  "hash": "c480073336b57690",
-  "last_action": "Chaptered by Secretary of State - Chapter 731, Statutes of 2025.",
-  "last_action_date": "2025-10-13",
-  "sections": [
-   "GOV 65040.21"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65040.21 of the Government Code, relating to state government."
- },
  "20252026 AB1456": {
   "authors": [
    "Bryan"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "24dd7e277764b689",
+  "chapter": null,
+  "hash": "8bc7c05bcd80cdb2",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2025-08-29",
   "sections": [
@@ -638,23 +432,6 @@
   "status": "Chaptered",
   "title": "An act to amend Section 65302 of the Government Code, relating to land use."
  },
- "20252026 AB1470": {
-  "authors": [
-   "Haney"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "ae16cf4d1706fc96",
-  "last_action": "In committee: Held under submission.",
-  "last_action_date": "2025-08-29",
-  "sections": [
-   "PRC 21080.68"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to amend Sections 114201, 114259.2, 114271, and 114349 of the Health and Safety Code, and to amend Section 30610 of, and to add Section 21080.68 to, the Public Resources Code, relating to food facilities."
- },
  "20252026 AB149": {
   "authors": [
    "Committee on Budget"
@@ -676,11 +453,8 @@
   "authors": [
    "Ta"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "f3be52e7f58c965d",
+  "chapter": null,
+  "hash": "ca102ce28a89a9a0",
   "last_action": "Died at Desk.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -712,11 +486,8 @@
   "authors": [
    "Connolly"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "7d6245a55ae4ce7f",
+  "chapter": null,
+  "hash": "ff15edc21f3e1048",
   "last_action": "Re-referred to Com. on NAT. RES.",
   "last_action_date": "2026-03-17",
   "sections": [
@@ -729,11 +500,8 @@
   "authors": [
    "Ta"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "4bceaafc9e46475a",
+  "chapter": null,
+  "hash": "aed14dd815143011",
   "last_action": "Vetoed by Governor.",
   "last_action_date": "2026-09-27",
   "sections": [
@@ -750,7 +518,7 @@
    "num": "524",
    "year": "2026"
   },
-  "hash": "88e7bbb4d18a1dfb",
+  "hash": "8de46fc0a45122f1",
   "last_action": "Chaptered by Secretary of State - Chapter 524, Statutes of 2026.",
   "last_action_date": "2026-09-27",
   "sections": [
@@ -767,7 +535,7 @@
    "num": "434",
    "year": "2026"
   },
-  "hash": "00da8acba6be4043",
+  "hash": "ef530d65bf503e70",
   "last_action": "Chaptered by Secretary of State - Chapter 434, Statutes of 2026.",
   "last_action_date": "2026-09-21",
   "sections": [
@@ -780,11 +548,8 @@
   "authors": [
    "Committee on Budget"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "eab5128dff034f44",
+  "chapter": null,
+  "hash": "854d263dd095a99e",
   "last_action": "In committee: Set, first hearing. Testimony taken. Further hearing to be set.",
   "last_action_date": "2025-09-10",
   "sections": [
@@ -799,23 +564,6 @@
   ],
   "status": "In Committee Process",
   "title": "An act to amend Sections 65400, 65928, and 65950 of the Government Code, to amend Section 50245 of the Health and Safety Code, and to amend Sections 21067.5, 21080.1, and 21080.66 of, to amend and renumber Section 21080.44 of, and to add Section 21080.73 to, the Public Resources Code, relating to land use, and making an appropriation therefor, to take effect immediately, bill related to the budget."
- },
- "20252026 AB1612": {
-  "authors": [
-   "Alanis"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "3b8f5368d1776920",
-  "last_action": "In committee: Held under submission.",
-  "last_action_date": "2026-08-13",
-  "sections": [
-   "PRC 21080.82"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to add Article 7.5 (commencing with Section 41984) to Chapter 3 of Part 4 of Division 26 of the Health and Safety Code, and to add Section 21080.82 to the Public Resources Code, relating to environmental hazards."
  },
  "20252026 AB1621": {
   "authors": [
@@ -839,11 +587,8 @@
   "authors": [
    "Davies"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "2419749d5cd2a5c0",
+  "chapter": null,
+  "hash": "79201d904da6fc69",
   "last_action": "Referred to Coms. on H. & C.D. and L. GOV.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -857,11 +602,8 @@
   "authors": [
    "Zbur"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "0e1395658c6fc2f5",
+  "chapter": null,
+  "hash": "86f93710c23f98b7",
   "last_action": "Re-referred to Com. on RLS. pursuant to Assembly Rule 96.",
   "last_action_date": "2026-08-28",
   "sections": [
@@ -874,11 +616,8 @@
   "authors": [
    "Ahrens"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "769de19e524ea9dd",
+  "chapter": null,
+  "hash": "d480d6e3d955f848",
   "last_action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
   "last_action_date": "2026-04-07",
   "sections": [
@@ -895,7 +634,7 @@
    "num": "827",
    "year": "2026"
   },
-  "hash": "54cbf75b4708c06a",
+  "hash": "b034e0d6994cff9b",
   "last_action": "Chaptered by Secretary of State - Chapter 827, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -912,7 +651,7 @@
    "num": "761",
    "year": "2026"
   },
-  "hash": "94b48dc11204aa32",
+  "hash": "e310070bdc02b75b",
   "last_action": "Chaptered by Secretary of State - Chapter 761, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -925,11 +664,8 @@
   "authors": [
    "Committee on Budget"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "570ef14fc3226341",
+  "chapter": null,
+  "hash": "dd1d860b4f50f328",
   "last_action": "Ordered to inactive file at the request of Senator Laird.",
   "last_action_date": "2026-08-06",
   "sections": [
@@ -943,11 +679,8 @@
   "authors": [
    "Carrillo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "d346597f3c10459c",
+  "chapter": null,
+  "hash": "b582595f16d93eed",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-08-13",
   "sections": [
@@ -960,11 +693,8 @@
   "authors": [
    "Committee on Budget"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "38bb170204fc4a65",
+  "chapter": null,
+  "hash": "701c52ab74ce7aa3",
   "last_action": "Ordered to inactive file at the request of Senator Laird.",
   "last_action_date": "2026-08-06",
   "sections": [
@@ -983,7 +713,7 @@
    "num": "792",
    "year": "2026"
   },
-  "hash": "6e53ed43daaed2c2",
+  "hash": "fb32d3483e4298ed",
   "last_action": "Chaptered by Secretary of State - Chapter 792, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -991,23 +721,6 @@
   ],
   "status": "Chaptered",
   "title": "An act to amend Section 21080.40 of the Public Resources Code, relating to environmental quality."
- },
- "20252026 AB1738": {
-  "authors": [
-   "Carrillo"
-  ],
-  "chapter": {
-   "num": "271",
-   "year": "2026"
-  },
-  "hash": "819f017f6792a512",
-  "last_action": "Chaptered by Secretary of State - Chapter 271, Statutes of 2026.",
-  "last_action_date": "2026-09-18",
-  "sections": [
-   "GOV 65400"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65400 of the Government Code, and to add Section 17970.9 to the Health and Safety Code, relating to housing."
  },
  "20252026 AB1751": {
   "authors": [
@@ -1017,7 +730,7 @@
    "num": "781",
    "year": "2026"
   },
-  "hash": "57ff398244a63a49",
+  "hash": "9e871c649b8b1965",
   "last_action": "Chaptered by Secretary of State - Chapter 781, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -1035,7 +748,7 @@
    "num": "274",
    "year": "2026"
   },
-  "hash": "2880d99713761bed",
+  "hash": "3fa2eb3f4fc857d8",
   "last_action": "Chaptered by Secretary of State - Chapter 274, Statutes of 2026.",
   "last_action_date": "2026-09-18",
   "sections": [
@@ -1053,7 +766,7 @@
    "num": "348",
    "year": "2026"
   },
-  "hash": "09d24f323936718f",
+  "hash": "4d2dcf7a698f26d8",
   "last_action": "Chaptered by Secretary of State - Chapter 348, Statutes of 2026.",
   "last_action_date": "2026-09-20",
   "sections": [
@@ -1083,11 +796,8 @@
   "authors": [
    "Jeff Gonzalez"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6ff23956330055c7",
+  "chapter": null,
+  "hash": "4cbc3086ba07df94",
   "last_action": "Referred to Com. on NAT. RES.",
   "last_action_date": "2026-02-23",
   "sections": [
@@ -1100,11 +810,8 @@
   "authors": [
    "Schiavo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "f76626448d3cf54e",
+  "chapter": null,
+  "hash": "3576651dfea33d55",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-08-13",
   "sections": [
@@ -1117,11 +824,8 @@
   "authors": [
    "Gabriel"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "931f23bce52d8f44",
+  "chapter": null,
+  "hash": "539dc20d0a7cd0c5",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-08-13",
   "sections": [
@@ -1151,11 +855,8 @@
   "authors": [
    "Lee"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6280da6870268235",
+  "chapter": null,
+  "hash": "d46d1ff130d25844",
   "last_action": "Vetoed by Governor.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -1171,11 +872,8 @@
   "authors": [
    "DeMaio"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "61a94968149545b0",
+  "chapter": null,
+  "hash": "7d7653a734ccea43",
   "last_action": "From committee: Without further action pursuant to Joint Rule 62(a).",
   "last_action_date": "2025-05-21",
   "sections": [
@@ -1188,11 +886,8 @@
   "authors": [
    "Ahrens"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "84755ead5ff04932",
+  "chapter": null,
+  "hash": "81efd2026f30f8ff",
   "last_action": "Read second time. Ordered to third reading.",
   "last_action_date": "2026-08-30",
   "sections": [
@@ -1205,11 +900,8 @@
   "authors": [
    "DeMaio"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "befbe524697814aa",
+  "chapter": null,
+  "hash": "ae0d44feab1f5a5f",
   "last_action": "In committee: Hearing postponed by committee.",
   "last_action_date": "2026-04-09",
   "sections": [
@@ -1226,7 +918,7 @@
    "num": "576",
    "year": "2026"
   },
-  "hash": "3c3b4c71fa556ddf",
+  "hash": "7d88c8e4f531a6e8",
   "last_action": "Chaptered by Secretary of State - Chapter 576, Statutes of 2026.",
   "last_action_date": "2026-09-27",
   "sections": [
@@ -1243,7 +935,7 @@
    "num": "797",
    "year": "2026"
   },
-  "hash": "31df63bcd71d0a5c",
+  "hash": "436297cffda0b9d5",
   "last_action": "Chaptered by Secretary of State - Chapter 797, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -1253,32 +945,12 @@
   "status": "Chaptered",
   "title": "An act to amend Section 65585 of, and to add Section 65913.13 to, the Government Code, relating to land use."
  },
- "20252026 AB2094": {
-  "authors": [
-   "Harabedian"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "c2435438572361b1",
-  "last_action": "In committee: Held under submission.",
-  "last_action_date": "2026-05-14",
-  "sections": [
-   "GOV 65913"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to amend Section 65913 of the Government Code, relating to housing."
- },
  "20252026 AB2102": {
   "authors": [
    "DeMaio"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "fada3d5ec710d43a",
+  "chapter": null,
+  "hash": "c65843937a1d9e03",
   "last_action": "Referred to Coms. on NAT. RES. and E.M.",
   "last_action_date": "2026-03-09",
   "sections": [
@@ -1309,11 +981,8 @@
   "authors": [
    "Johnson"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "ff5702c44763404c",
+  "chapter": null,
+  "hash": "b085acdf206cef8b",
   "last_action": "In committee: Set, second hearing. Hearing canceled at the request of author.",
   "last_action_date": "2026-06-15",
   "sections": [
@@ -1326,11 +995,8 @@
   "authors": [
    "Macedo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "24c6b51ebe339c2a",
+  "chapter": null,
+  "hash": "aecd7ca145f76c1b",
   "last_action": "(Pending re-refer to Com. on W., P., & W.)",
   "last_action_date": "2026-04-06",
   "sections": [
@@ -1362,11 +1028,8 @@
   "authors": [
    "Boerner"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "677481ff47efddb7",
+  "chapter": null,
+  "hash": "cf2a4083f96ceb05",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-05-14",
   "sections": [
@@ -1380,11 +1043,8 @@
   "authors": [
    "Bennett"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "0f8979e9e309792f",
+  "chapter": null,
+  "hash": "0d15453385af935e",
   "last_action": "From printer. May be heard in committee March 22.",
   "last_action_date": "2026-02-20",
   "sections": [
@@ -1401,7 +1061,7 @@
    "num": "924",
    "year": "2026"
   },
-  "hash": "a2fa72a854f9a27d",
+  "hash": "3976a57b4101638c",
   "last_action": "Chaptered by Secretary of State - Chapter 924, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -1409,23 +1069,6 @@
   ],
   "status": "Chaptered",
   "title": "An act to add Section 65915.9 to the Government Code, relating to housing."
- },
- "20252026 AB2185": {
-  "authors": [
-   "Quirk-Silva"
-  ],
-  "chapter": {
-   "num": "784",
-   "year": "2026"
-  },
-  "hash": "adfba1aa63102ce0",
-  "last_action": "Chaptered by Secretary of State - Chapter 784, Statutes of 2026.",
-  "last_action_date": "2026-09-29",
-  "sections": [
-   "GOV 65581"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65581 of the Government Code, relating to housing."
  },
  "20252026 AB2231": {
   "authors": [
@@ -1435,7 +1078,7 @@
    "num": "926",
    "year": "2026"
   },
-  "hash": "aa4fdad0542b2469",
+  "hash": "f2bb4884c73cb65e",
   "last_action": "Chaptered by Secretary of State - Chapter 926, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -1465,11 +1108,8 @@
   "authors": [
    "Carrillo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "8fd0e2456365e632",
+  "chapter": null,
+  "hash": "8a908a683e939290",
   "last_action": "Referred to Coms. on U. & E. and NAT. RES.",
   "last_action_date": "2026-03-09",
   "sections": [
@@ -1482,11 +1122,8 @@
   "authors": [
    "Quirk-Silva"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "d81416e1db36412a",
+  "chapter": null,
+  "hash": "91c7a7d96b78cc68",
   "last_action": "Referred to Coms. on H. & C.D. and L. GOV.",
   "last_action_date": "2026-03-09",
   "sections": [
@@ -1500,11 +1137,8 @@
   "authors": [
    "Johnson"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "1af269b8a48c09a3",
+  "chapter": null,
+  "hash": "5d1f017f1cd96407",
   "last_action": "Referred to Coms. on H. & C.D. and L. GOV.",
   "last_action_date": "2026-03-09",
   "sections": [
@@ -1533,32 +1167,12 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 65584.03, 65584.04, 65584.05, and 65588 of the Government Code, relating to land use."
  },
- "20252026 AB2342": {
-  "authors": [
-   "Hoover"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "0dbc9782a41b7287",
-  "last_action": "In committee: Set, second hearing. Hearing canceled at the request of author.",
-  "last_action_date": "2026-04-21",
-  "sections": [
-   "GOV 65912.157"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to amend Section 65912.157 of the Government Code, relating to land use."
- },
  "20252026 AB2351": {
   "authors": [
    "Bonta"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "3e5c93870462d4bf",
+  "chapter": null,
+  "hash": "34d21a3acdddbeca",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-05-14",
   "sections": [
@@ -1584,32 +1198,12 @@
   "status": "Chaptered",
   "title": "An act to amend Section 65913.4 of the Government Code, relating to housing."
  },
- "20252026 AB2397": {
-  "authors": [
-   "Ta"
-  ],
-  "chapter": {
-   "num": "938",
-   "year": "2026"
-  },
-  "hash": "56569c5344b5eb26",
-  "last_action": "Chaptered by Secretary of State - Chapter 938, Statutes of 2026.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "GOV 65098"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65098 of the Government Code, relating to land use."
- },
  "20252026 AB2400": {
   "authors": [
    "Wallis"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6127a19ce8467c62",
+  "chapter": null,
+  "hash": "79a30f29db42e61b",
   "last_action": "Referred to Coms. on H. & C.D. and L. GOV.",
   "last_action_date": "2026-03-09",
   "sections": [
@@ -1622,11 +1216,8 @@
   "authors": [
    "Ellis"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "bdd93f3815ee4bdc",
+  "chapter": null,
+  "hash": "3ebee9e7a209f23c",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-08-13",
   "sections": [
@@ -1639,11 +1230,8 @@
   "authors": [
    "Hoover"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "f60d0a2e5f6ecbda",
+  "chapter": null,
+  "hash": "c32086f0918e1a25",
   "last_action": "In Assembly. Concurrence in Senate amendments pending.",
   "last_action_date": "2026-08-19",
   "sections": [
@@ -1673,11 +1261,8 @@
   "authors": [
    "Wallis"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "9f1716eb887afef8",
+  "chapter": null,
+  "hash": "8b0491d55cc9cd91",
   "last_action": "Re-referred to Com. on L. GOV.",
   "last_action_date": "2026-03-23",
   "sections": [
@@ -1694,7 +1279,7 @@
    "num": "436",
    "year": "2026"
   },
-  "hash": "aa18e20128fcd968",
+  "hash": "0c415e451f12831d",
   "last_action": "Chaptered by Secretary of State - Chapter 436, Statutes of 2026.",
   "last_action_date": "2026-09-21",
   "sections": [
@@ -1724,11 +1309,8 @@
   "authors": [
    "Ávila Farías"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "8517466488d87bd6",
+  "chapter": null,
+  "hash": "25b8f25c9d4cd4fb",
   "last_action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (April 29). Re-referred to Com. on APPR.",
   "last_action_date": "2026-04-29",
   "sections": [
@@ -1741,11 +1323,8 @@
   "authors": [
    "Hart"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "d77ec8239484ff57",
+  "chapter": null,
+  "hash": "f0eb93ae489af165",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-05-14",
   "sections": [
@@ -1764,7 +1343,7 @@
    "num": "214",
    "year": "2026"
   },
-  "hash": "b7b32a79cc291fa4",
+  "hash": "4e10fda257617c62",
   "last_action": "Chaptered by Secretary of State - Chapter 214, Statutes of 2026.",
   "last_action_date": "2026-09-14",
   "sections": [
@@ -1781,7 +1360,7 @@
    "num": "955",
    "year": "2026"
   },
-  "hash": "9f4596aa4fe1b04c",
+  "hash": "29112b513895a1bf",
   "last_action": "Chaptered by Secretary of State - Chapter 955, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -1794,32 +1373,12 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 65852.21 and 65913.4.5 of, and to amend, repeal, and add Sections 65852.28, 66411.7, and 66499.41 of, the Government Code, relating to land use."
  },
- "20252026 AB2616": {
-  "authors": [
-   "McKinnor"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "b423b27d6d56b8c5",
-  "last_action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
-  "last_action_date": "2026-04-07",
-  "sections": [
-   "GOV 65400"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to amend Section 65400 of the Government Code, relating to land use."
- },
  "20252026 AB2620": {
   "authors": [
    "Carrillo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "9f2d2285e1572572",
+  "chapter": null,
+  "hash": "17e1e64bffd7b9fa",
   "last_action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
   "last_action_date": "2026-04-16",
   "sections": [
@@ -1828,32 +1387,12 @@
   "status": "In Committee Process",
   "title": "An act to add Section 21080.75 to the Public Resources Code, relating to environmental quality."
  },
- "20252026 AB2656": {
-  "authors": [
-   "Petrie-Norris"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "54c7c970bf769981",
-  "last_action": "Vetoed by Governor.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "GOV 65010"
-  ],
-  "status": "Vetoed",
-  "title": "An act to amend Section 65010 of the Government Code, relating to land use."
- },
  "20252026 AB2676": {
   "authors": [
    "Lackey"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "316e7538d7eed266",
+  "chapter": null,
+  "hash": "2956e283cd398f87",
   "last_action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
   "last_action_date": "2026-06-24",
   "sections": [
@@ -1862,49 +1401,12 @@
   "status": "In Committee Process",
   "title": "An act to amend Section 66300 of the Government Code, relating to land use."
  },
- "20252026 AB2689": {
-  "authors": [
-   "Ávila Farías"
-  ],
-  "chapter": {
-   "num": "958",
-   "year": "2026"
-  },
-  "hash": "63d70cfaa5636a85",
-  "last_action": "Chaptered by Secretary of State - Chapter 958, Statutes of 2026.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "GOV 66342"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 66342 of the Government Code, relating to land use."
- },
- "20252026 AB2692": {
-  "authors": [
-   "Irwin"
-  ],
-  "chapter": {
-   "num": "124",
-   "year": "2026"
-  },
-  "hash": "41fc9117f7c6dc88",
-  "last_action": "Chaptered by Secretary of State - Chapter 124, Statutes of 2026.",
-  "last_action_date": "2026-08-24",
-  "sections": [
-   "GOV 65302"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65302 of the Government Code, relating to land use."
- },
  "20252026 AB2702": {
   "authors": [
    "Flora"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "2201c4bc9eb93e60",
+  "chapter": null,
+  "hash": "e0e7aef3b67011f1",
   "last_action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
   "last_action_date": "2026-04-10",
   "sections": [
@@ -1917,11 +1419,8 @@
   "authors": [
    "Johnson"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "fb2937964f1b0403",
+  "chapter": null,
+  "hash": "a0aade08c3e0618a",
   "last_action": "From printer. May be heard in committee March 23.",
   "last_action_date": "2026-02-21",
   "sections": [
@@ -1934,11 +1433,8 @@
   "authors": [
    "Muratsuchi"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "59f67fc5c5d6639e",
+  "chapter": null,
+  "hash": "28098be455598b8f",
   "last_action": "In committee: Set, first hearing. Failed passage. Reconsideration granted.",
   "last_action_date": "2026-04-29",
   "sections": [
@@ -1953,11 +1449,8 @@
   "authors": [
    "Gabriel"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "43ab0387443ce268",
+  "chapter": null,
+  "hash": "b5ccc047e7f6aa6c",
   "last_action": "From printer. May be heard in committee March 23.",
   "last_action_date": "2026-02-21",
   "sections": [
@@ -1970,11 +1463,8 @@
   "authors": [
    "Macedo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "fae167c6144adb38",
+  "chapter": null,
+  "hash": "24196e30246f2041",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -2005,11 +1495,8 @@
   "authors": [
    "Addis"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6995a65ac21a47eb",
+  "chapter": null,
+  "hash": "71e35f61bc0a7653",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -2018,32 +1505,12 @@
   "status": "Died",
   "title": "An act to add Chapter 14 (commencing with Section 66350) to Division 1 of Title 7 of the Government Code, and to amend Section 25545 of the Public Resources Code, relating to energy, and declaring the urgency thereof, to take effect immediately."
  },
- "20252026 AB314": {
-  "authors": [
-   "Arambula"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "38422ac8e9a486c4",
-  "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
-  "last_action_date": "2026-02-02",
-  "sections": [
-   "PRC 21064.3"
-  ],
-  "status": "Died",
-  "title": "An act to amend Section 21064.3 of the Public Resources Code, relating to environmental quality."
- },
  "20252026 AB317": {
   "authors": [
    "Jackson"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "42f0eb5caaa8c164",
+  "chapter": null,
+  "hash": "708d383582fac0da",
   "last_action": "In committee: Set, second hearing. Hearing canceled at the request of author.",
   "last_action_date": "2025-06-25",
   "sections": [
@@ -2051,23 +1518,6 @@
   ],
   "status": "In Committee Process",
   "title": "An act to add Section 21080.59 to the Public Resources Code, relating to housing."
- },
- "20252026 AB35": {
-  "authors": [
-   "Alvarez"
-  ],
-  "chapter": {
-   "num": "89",
-   "year": "2026"
-  },
-  "hash": "9f961f4305fd1dcb",
-  "last_action": "Chaptered by Secretary of State - Chapter 89, Statutes of 2026.",
-  "last_action_date": "2026-07-16",
-  "sections": [
-   "PRC 21162"
-  ],
-  "status": "Chaptered",
-  "title": "An act to add and repeal Chapter 5.2 (commencing with Section 21162) of Division 13 of the Public Resources Code, relating to environmental quality."
  },
  "20252026 AB36": {
   "authors": [
@@ -2094,7 +1544,7 @@
    "num": "356",
    "year": "2025"
   },
-  "hash": "0c2c1f6d5962a2fc",
+  "hash": "ddf25032805c4378",
   "last_action": "Chaptered by Secretary of State - Chapter 356, Statutes of 2025.",
   "last_action_date": "2025-10-06",
   "sections": [
@@ -2111,7 +1561,7 @@
    "num": "864",
    "year": "2026"
   },
-  "hash": "e1bda8eecf259816",
+  "hash": "e791725819082ea6",
   "last_action": "Chaptered by Secretary of State - Chapter 864, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -2124,11 +1574,8 @@
   "authors": [
    "Ransom"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "cc2a47327942faa7",
+  "chapter": null,
+  "hash": "b9dd6229d6e03872",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -2138,32 +1585,12 @@
   "status": "Died",
   "title": "An act to add Sections 65040.19 and 65302.16 to the Government Code, relating to composting."
  },
- "20252026 AB442": {
-  "authors": [
-   "Hadwick"
-  ],
-  "chapter": {
-   "num": "504",
-   "year": "2026"
-  },
-  "hash": "eea55c419edca31f",
-  "last_action": "Chaptered by Secretary of State - Chapter 504, Statutes of 2026.",
-  "last_action_date": "2026-09-27",
-  "sections": [
-   "PRC 21080.52"
-  ],
-  "status": "Chaptered",
-  "title": "An act to add Section 21080.52 to the Public Resources Code, relating to environmental quality."
- },
  "20252026 AB444": {
   "authors": [
    "Wilson"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "86750c3d4935ce0f",
+  "chapter": null,
+  "hash": "16583b20b161d386",
   "last_action": "Died at Desk.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -2207,41 +1634,6 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 66328 and 66329 of the Government Code, relating to land use, and declaring the urgency thereof, to take effect immediately."
  },
- "20252026 AB472": {
-  "authors": [
-   "Rogers"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "e184f7ae47c80109",
-  "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
-  "last_action_date": "2026-02-02",
-  "sections": [
-   "GOV 65042"
-  ],
-  "status": "Died",
-  "title": "An act to amend Sections 13101, 13102, 13103, and 65042 of the Government Code, relating to energy."
- },
- "20252026 AB48": {
-  "authors": [
-   "Alvarez"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "a08d9873abd5ffeb",
-  "last_action": "In Senate. Read first time. To Com. on RLS. for assignment.",
-  "last_action_date": "2025-06-05",
-  "sections": [
-   "GOV 65998.5",
-   "GOV 65999"
-  ],
-  "status": "Pending Referral",
-  "title": "An act to add Part 71 (commencing with Section 101200) to Division 14 of Title 3 of the Education Code, and to add Chapter 4.95 (commencing with Section 65998.5) to, and to add and repeal Chapter 4.97 (commencing with Section 65999) of, Division 1 of Title 7 of the Government Code, relating to education finance, by providing the funds necessary therefor through an election for the issuance and sale of bonds of the State of California and for the handling and disposition of these funds."
- },
  "20252026 AB507": {
   "authors": [
    "Haney"
@@ -2250,7 +1642,7 @@
    "num": "493",
    "year": "2025"
   },
-  "hash": "502c5d989e4616ce",
+  "hash": "6fd936c9c7e34b2d",
   "last_action": "Chaptered by Secretary of State - Chapter 493, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -2260,46 +1652,12 @@
   "status": "Chaptered",
   "title": "An act to amend Section 65585 of, to add Chapter 9 (commencing with Section 51299) to Part 1 of Division 1 of Title 5 of, and to add Article 11.5 (commencing with Section 65658) to Chapter 3 of Division 1 of Title 7 of, the Government Code, relating to housing."
  },
- "20252026 AB52": {
-  "authors": [
-   "Aguiar-Curry"
-  ],
-  "chapter": {
-   "num": "495",
-   "year": "2026"
-  },
-  "hash": "e3a93685721d2bfb",
-  "last_action": "Chaptered by Secretary of State - Chapter 495, Statutes of 2026.",
-  "last_action_date": "2026-09-27",
-  "sections": [
-   "GOV 65040.2",
-   "GOV 65092",
-   "GOV 65351",
-   "GOV 65352",
-   "GOV 65352.3",
-   "GOV 65352.4",
-   "GOV 65560",
-   "GOV 65562.5",
-   "PRC 21073",
-   "PRC 21074",
-   "PRC 21080.3.1",
-   "PRC 21080.3.2",
-   "PRC 21082.3",
-   "PRC 21083.09",
-   "PRC 21084.3"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 815.3 of the Civil Code, to amend Sections 65040.2, 65092, 65351, 65352, 65352.3, 65560, and 65562.5 of, and to repeal and add Section 65352.4 of, the Government Code, and to amend Sections 5097.9, 5097.94, 5097.95, 5097.98, 21073, 21074, 21080.3.1, 21080.3.2, 21082.3, and 21084.3 of, to repeal Section 5097.96 of, and to repeal and add Section 21083.09 of, the Public Resources Code, relating to Native American resources."
- },
  "20252026 AB527": {
   "authors": [
    "Papan"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "eb947a5083187aa6",
+  "chapter": null,
+  "hash": "ac2906a54f5de7e6",
   "last_action": "Consideration of Governor's veto stricken from file.",
   "last_action_date": "2026-01-22",
   "sections": [
@@ -2318,7 +1676,7 @@
    "num": "158",
    "year": "2025"
   },
-  "hash": "04d5f5b0cd8b6ce0",
+  "hash": "4a6732223c3c3e8e",
   "last_action": "Chaptered by Secretary of State - Chapter 158, Statutes of 2025.",
   "last_action_date": "2025-10-01",
   "sections": [
@@ -2348,11 +1706,8 @@
   "authors": [
    "Wicks"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "5444adfdf5a022af",
+  "chapter": null,
+  "hash": "1fbaeb11c4862cf7",
   "last_action": "In Senate. Read first time. To Com. on RLS. for assignment.",
   "last_action_date": "2025-05-20",
   "sections": [
@@ -2378,50 +1733,12 @@
   "status": "Chaptered",
   "title": "An act to amend Section 65583 of the Government Code, relating to land use."
  },
- "20252026 AB623": {
-  "authors": [
-   "Dixon"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "b05d9ad9e25ae758",
-  "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
-  "last_action_date": "2026-02-02",
-  "sections": [
-   "PRC 21080.08"
-  ],
-  "status": "Died",
-  "title": "An act to amend Section 30600 of, and to add Section 21080.08 to, the Public Resources Code, relating to fire prevention."
- },
- "20252026 AB647": {
-  "authors": [
-   "Mark González"
-  ],
-  "chapter": {
-   "num": "867",
-   "year": "2026"
-  },
-  "hash": "0dc33111e688281a",
-  "last_action": "Chaptered by Secretary of State - Chapter 867, Statutes of 2026.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "GOV 65585",
-   "GOV 65852.22"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65585 of, and to add Section 65852.22 to, the Government Code, relating to housing."
- },
  "20252026 AB650": {
   "authors": [
    "Papan"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "97eee58ee8f4d761",
+  "chapter": null,
+  "hash": "04757b565e4d89b1",
   "last_action": "Consideration of Governor's veto stricken from file.",
   "last_action_date": "2026-01-22",
   "sections": [
@@ -2440,11 +1757,8 @@
   "authors": [
    "Tangipa"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "694c4288afc350c1",
+  "chapter": null,
+  "hash": "006f2e58d424dfb8",
   "last_action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
   "last_action_date": "2025-07-16",
   "sections": [
@@ -2457,11 +1771,8 @@
   "authors": [
    "Wilson"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6790841d6bc78cf0",
+  "chapter": null,
+  "hash": "d3b09b233f1e2cfb",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2025-08-29",
   "sections": [
@@ -2479,7 +1790,7 @@
    "num": "701",
    "year": "2025"
   },
-  "hash": "c8c03c0b167ea541",
+  "hash": "e83031072038a685",
   "last_action": "Chaptered by Secretary of State - Chapter 701, Statutes of 2025.",
   "last_action_date": "2025-10-13",
   "sections": [
@@ -2497,7 +1808,7 @@
    "num": "470",
    "year": "2025"
   },
-  "hash": "cb39b0479706d2b0",
+  "hash": "d7d555014348e31f",
   "last_action": "Chaptered by Secretary of State - Chapter 470, Statutes of 2025.",
   "last_action_date": "2025-10-09",
   "sections": [
@@ -2505,40 +1816,6 @@
   ],
   "status": "Chaptered",
   "title": "An act to amend Section 6775 of, and to add Section 5586.5 to, the Business and Professions Code, to add Chapter 14 (commencing with Section 66345) to Division 1 of Title 7 of the Government Code, and to amend Section 114380 of the Health and Safety Code, relating to restaurants."
- },
- "20252026 AB674": {
-  "authors": [
-   "Connolly"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "0c9bd19482ecbc91",
-  "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
-  "last_action_date": "2026-02-02",
-  "sections": [
-   "HSC 17000"
-  ],
-  "status": "Died",
-  "title": "An act to amend Section 17000 of the Health and Safety Code, relating to housing."
- },
- "20252026 AB698": {
-  "authors": [
-   "Wicks"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "c1c22eeea77170db",
-  "last_action": "In Senate. Read first time. To Com. on RLS. for assignment.",
-  "last_action_date": "2025-06-09",
-  "sections": [
-   "GOV 65589.5"
-  ],
-  "status": "Pending Referral",
-  "title": "An act to amend Section 65589.5 of the Government Code, relating to housing."
  },
  "20252026 AB712": {
   "authors": [
@@ -2548,7 +1825,7 @@
    "num": "496",
    "year": "2025"
   },
-  "hash": "4f2516f690073837",
+  "hash": "c75b2285272a7cbf",
   "last_action": "Chaptered by Secretary of State - Chapter 496, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -2578,11 +1855,8 @@
   "authors": [
    "Carrillo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "9ef2b46a5792bfeb",
+  "chapter": null,
+  "hash": "6fa98743f3a057e1",
   "last_action": "Ordered to inactive file at the request of Senator Reyes.",
   "last_action_date": "2025-09-13",
   "sections": [
@@ -2607,11 +1881,8 @@
   "authors": [
    "Harabedian"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "1ed176ac2efda1e4",
+  "chapter": null,
+  "hash": "79f43f59f555cde2",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-08-13",
   "sections": [
@@ -2619,23 +1890,6 @@
   ],
   "status": "In Committee Process",
   "title": "An act to add Section 65852.29 to the Government Code, relating to housing."
- },
- "20252026 AB782": {
-  "authors": [
-   "Quirk-Silva"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "a4432b597501b3f2",
-  "last_action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
-  "last_action_date": "2026-06-26",
-  "sections": [
-   "GOV 66499.10.5"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to add Section 66499.10.5 to the Government Code, relating to land use."
  },
  "20252026 AB817": {
   "authors": [
@@ -2645,7 +1899,7 @@
    "num": "493",
    "year": "2026"
   },
-  "hash": "2b61314dadb63206",
+  "hash": "319f01d5c7a86ec8",
   "last_action": "Chaptered by Secretary of State - Chapter 493, Statutes of 2026.",
   "last_action_date": "2026-09-27",
   "sections": [
@@ -2662,7 +1916,7 @@
    "num": "534",
    "year": "2025"
   },
-  "hash": "33b047aeb5c28abe",
+  "hash": "a84fa9a7438470ae",
   "last_action": "Chaptered by Secretary of State - Chapter 534, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -2675,11 +1929,8 @@
   "authors": [
    "Macedo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6b73af2e0123d4a9",
+  "chapter": null,
+  "hash": "aa9c60424d6c6cb5",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -2692,11 +1943,8 @@
   "authors": [
    "Blanca Rubio"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "c68c39deedd7d435",
+  "chapter": null,
+  "hash": "68b02bc7c06433b6",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-08-13",
   "sections": [
@@ -2711,11 +1959,8 @@
   "authors": [
    "Petrie-Norris"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "7fe2a0f3ef766a3f",
+  "chapter": null,
+  "hash": "fd89d958b348bf3e",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -2745,11 +1990,8 @@
   "authors": [
    "Ávila Farías"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "ad5e16a3667cbd20",
+  "chapter": null,
+  "hash": "3c6ff6a81311be91",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -2762,11 +2004,8 @@
   "authors": [
    "Petrie-Norris"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "b8c5e62474dae7d6",
+  "chapter": null,
+  "hash": "b676171906ea8866",
   "last_action": "Ordered to inactive file at the request of Assembly Member Petrie-Norris.",
   "last_action_date": "2025-09-13",
   "sections": [
@@ -2783,7 +2022,7 @@
    "num": "500",
    "year": "2025"
   },
-  "hash": "3f3c2decfa7eb9c8",
+  "hash": "8d0886ca678c5471",
   "last_action": "Chaptered by Secretary of State - Chapter 500, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -2799,32 +2038,12 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 65912.101, 65912.104, 65912.114, 65912.121, 65912.122, 65912.123, and 65912.124 of, and to add Section 65912.103.5 to, the Government Code, relating to housing."
  },
- "20252026 AB902": {
-  "authors": [
-   "Schultz"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "3870d000457b353c",
-  "last_action": "In committee: Held under submission.",
-  "last_action_date": "2025-08-29",
-  "sections": [
-   "GOV 65080.10"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to add Section 65080.10 to the Government Code, and to add Section 158.6 to the Streets and Highways Code, relating to transportation."
- },
  "20252026 AB906": {
   "authors": [
    "Mark González"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "c9a6df6499216899",
+  "chapter": null,
+  "hash": "290b366b38fc6106",
   "last_action": "In committee: Held under submission.",
   "last_action_date": "2026-08-13",
   "sections": [
@@ -2844,7 +2063,7 @@
    "num": "501",
    "year": "2025"
   },
-  "hash": "399e410e54352aa4",
+  "hash": "3402c381323fa0d5",
   "last_action": "Chaptered by Secretary of State - Chapter 501, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -2861,7 +2080,7 @@
    "num": "790",
    "year": "2026"
   },
-  "hash": "416ca849b4785e91",
+  "hash": "e4909c89dc04af1e",
   "last_action": "Chaptered by Secretary of State - Chapter 790, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -2874,11 +2093,8 @@
   "authors": [
    "Fong"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "b613a78b58dcbb8b",
+  "chapter": null,
+  "hash": "88263c334819d310",
   "last_action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -2904,49 +2120,25 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 714.3 and 4751 of the Civil Code, and to amend Section 66323 of the Government Code, relating to housing."
  },
- "20252026 AB975": {
-  "authors": [
-   "Gallagher"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "af511c51a54d7199",
-  "last_action": "Consideration of Governor's veto stricken from file.",
-  "last_action_date": "2026-01-22",
-  "sections": [
-   "PRC 21080.62",
-   "PRC 21080.63"
-  ],
-  "status": "Vetoed",
-  "title": "An act to add Sections 21080.62 and 21080.63 to the Public Resources Code, relating to environmental quality."
- },
  "20252026 GRP1": {
   "authors": [],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "15df37724abbb912",
+  "chapter": null,
+  "hash": "abdf71b0638cf121",
   "last_action": "Plan takes effect.",
   "last_action_date": "2025-07-05",
   "sections": [
    "GOV 65040.12",
    "HSC 50093"
   ],
-  "status": "NULL",
+  "status": "Introduced",
   "title": "An act to amend Sections 100, 10004, 10050, 19404, 23050, 23075, 26001, 26010, 26010.5, and 26040 of, and to amend and repeal Section 26180.5 of, the Business and Professions Code, to amend Sections 1916.12, 1918.5,1918.5, and 5405 of the Civil Code, to amend Sections 300, 1514, 14382, 14652.5, and 18022.5 of the Financial Code, to amend, repeal, and add Section 513 of the Food and Agricultural Code, to amend Sections 12895, 12896, and 12944 of, to amend and repeal Sections 12804, 12804.5, and 12856 of, to amend, repeal, and add Sections 8587.11, 8876.7, 11546.1, 11550, 12800, 12855, 12901, 14030, 15562.5, 15990, and 65040.12 of, to add Sections 12804.1, 12804.2, 12804.3, and 12804.4 to, and to add Part 5.1 (commencing with Section 14470) to Division 3 of Title 2 of, the Government Code, to amend Sections 35805 and 127501.4 of, to amend and repeal Section 50407.5 of, to amend, repeal, and add Sections 17974, 50093, 50150, 50151, 50153, 50154, 50210, 50216, 50230, 50250, 50400, 50423, 50462, 50900, 50901, 50913, 51005, 51624, 53524, and 54913 of, and to add Part 18 (commencing with Section 54920) to Division 31 of, the Health and Safety Code, to amend, repeal, and add Section 998.547 of the Military and Veterans Code, to amend, repeal, and add Section 75121 of the Public Resources Code, to amend Section 10200 of the Unemployment Insurance Code, and to amend Sections 8255, 8256, 8257, 8257.01, 8257.1, and 8257.2 of, to amend, repeal, and add Sections 4581, 9850, and 18901.59 of, to add Sections 8257.02, 8257.03, 8257.04, and 8257.05 to, and to repeal and add the heading of Chapter 6.5 (commencing with Section 8255) of Division 8 of, the Welfare and Institutions Code, relating to reorganization of the executive branch of state government."
  },
  "20252026 SB1003": {
   "authors": [
    "Grayson"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "1dc7fad9627993d5",
+  "chapter": null,
+  "hash": "e2326b09ea733e1b",
   "last_action": "Ordered to inactive file on request of Assembly Member Aguiar-Curry.",
   "last_action_date": "2026-08-20",
   "sections": [
@@ -2963,7 +2155,7 @@
    "num": "151",
    "year": "2026"
   },
-  "hash": "9e5daafe01e78332",
+  "hash": "91c0b25bdc02c4c6",
   "last_action": "Chaptered by Secretary of State. Chapter 151, Statutes of 2026.",
   "last_action_date": "2026-08-27",
   "sections": [
@@ -2980,7 +2172,7 @@
    "num": "806",
    "year": "2026"
   },
-  "hash": "a57defdfb5a3b758",
+  "hash": "c8b924c7a625bd12",
   "last_action": "Chaptered by Secretary of State. Chapter 806, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -3032,11 +2224,8 @@
   "authors": [
    "Dahle"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "c61c62d3165d134e",
+  "chapter": null,
+  "hash": "a4727b09400749fd",
   "last_action": "April 22 set for first hearing. Failed passage in committee. (Ayes 2. Noes 0. Page 4007.) Reconsideration granted.",
   "last_action_date": "2026-04-22",
   "sections": [
@@ -3072,7 +2261,7 @@
    "num": "1006",
    "year": "2026"
   },
-  "hash": "c0304aa442302ac0",
+  "hash": "6d59bf1ca3c1c969",
   "last_action": "Chaptered by Secretary of State. Chapter 1006, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -3090,7 +2279,7 @@
    "num": "775",
    "year": "2026"
   },
-  "hash": "9f8db9e0059981de",
+  "hash": "5beea15235f86906",
   "last_action": "Chaptered by Secretary of State. Chapter 775, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -3099,32 +2288,12 @@
   "status": "Chaptered",
   "title": "An act to add Article 6.5 (commencing with Section 798.65) to Chapter 2.5 of Title 2 of Part 2 of Division 2 of the Civil Code, and to amend Section 65863.7 of the Government Code, relating to housing."
  },
- "20252026 SB1095": {
-  "authors": [
-   "Pérez"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "d03e5cc75049d9db",
-  "last_action": "May 14 hearing: Held in committee and under submission.",
-  "last_action_date": "2026-05-14",
-  "sections": [
-   "GOV 65302"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to amend Section 65302 of the Government Code, relating to land use."
- },
  "20252026 SB1097": {
   "authors": [
    "Wiener"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "acde33cd4e80edab",
+  "chapter": null,
+  "hash": "a3fd43feb3a7c4a1",
   "last_action": "May 14 hearing: Held in committee and under submission.",
   "last_action_date": "2026-05-14",
   "sections": [
@@ -3141,7 +2310,7 @@
    "num": "808",
    "year": "2026"
   },
-  "hash": "507f122c53a624e9",
+  "hash": "7892312c086bb502",
   "last_action": "Chaptered by Secretary of State. Chapter 808, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -3160,7 +2329,7 @@
    "num": "809",
    "year": "2026"
   },
-  "hash": "bfc27dcc6f006f98",
+  "hash": "4566e52333eef6a2",
   "last_action": "Chaptered by Secretary of State. Chapter 809, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -3173,11 +2342,8 @@
   "authors": [
    "Arreguín"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "54a0ea5f745ac435",
+  "chapter": null,
+  "hash": "2934affccc0cc2a4",
   "last_action": "May 14 hearing: Held in committee and under submission.",
   "last_action_date": "2026-05-14",
   "sections": [
@@ -3190,11 +2356,8 @@
   "authors": [
    "Grayson"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "4035ba863df9db86",
+  "chapter": null,
+  "hash": "05d74a8e0aa71108",
   "last_action": "Referred to Coms. on L. GOV. and NAT. RES.",
   "last_action_date": "2026-05-26",
   "sections": [
@@ -3211,7 +2374,7 @@
    "num": "863",
    "year": "2026"
   },
-  "hash": "4370e2a28a8558ab",
+  "hash": "6d6728095464e67d",
   "last_action": "Chaptered by Secretary of State. Chapter 863, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -3241,11 +2404,8 @@
   "authors": [
    "Allen"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "2b6029a07845d6b0",
+  "chapter": null,
+  "hash": "018914ab89fa03f1",
   "last_action": "May 14 hearing: Held in committee and under submission.",
   "last_action_date": "2026-05-14",
   "sections": [
@@ -3254,32 +2414,12 @@
   "status": "In Committee Process",
   "title": "An act to amend Section 65302 of the Government Code, relating to land use."
  },
- "20252026 SB1196": {
-  "authors": [
-   "McNerney"
-  ],
-  "chapter": {
-   "num": "684",
-   "year": "2026"
-  },
-  "hash": "70d5ba339c5f00b5",
-  "last_action": "Chaptered by Secretary of State. Chapter 684, Statutes of 2026.",
-  "last_action_date": "2026-09-27",
-  "sections": [
-   "GOV 66313"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 66313 of the Government Code, relating to land use."
- },
  "20252026 SB12": {
   "authors": [
    "Gonzalez"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "7079585beec23d98",
+  "chapter": null,
+  "hash": "8650c0803ea20687",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -3292,11 +2432,8 @@
   "authors": [
    "Committee on Budget and Fiscal Review"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "d77062ffe826d8df",
+  "chapter": null,
+  "hash": "fd5c6e1a865b40c0",
   "last_action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on BUDGET.",
   "last_action_date": "2025-06-24",
   "sections": [
@@ -3305,49 +2442,12 @@
   "status": "In Committee Process",
   "title": "An act to amend Sections 1622, 1623, 1630, 8281.5, 8320, 8337, 8902, 14041.5, 14041.6, 14041.8, 32526, 41020.2, 41203.1, 41344.1, 41490, 41601, 42127.1, 42127.6, 42128, 42129, 42238.01, 42238.016, 42238.02, 44258.9, 44283, 44395, 46120, 46211, 46392, 48000.1, 48857, 51225.3, 51284.5, 52064.5, 56836.168, 60151, and 66032.2 of, to add Sections 1631, 17037, 17075.11, 33319.6, 41011.1, 42238.017, 42252.1, 44283.1, 44415.8, 48004, 49506.5, 52065.1, 52073.4, and 53009 to, to add Article 13.5 (commencing with Section 44400) to Chapter 2 of Part 25 of Division 3 of Title 2 of, and to repeal Section 42120 of, the Education Code, to amend Sections 17581.6 and 66007 of the Government Code, to amend Sections 137 and 152 of Chapter 44 of the Statutes of 2021, to amend Sections 121, 126, and 132 of Chapter 52 of the Statutes of 2022, to amend Section 108 of Chapter 48 of the Statutes of 2023, to amend Section 110 of Chapter 38 of the Statutes of 2024, to repeal Section 112 of Chapter 38 of the Statutes of 2024, to amend the Budget Act of 2017 (Chapter 14 of the Statutes of 2017) by amending Item 6100-139-8080 of Section 2.00 of that act, to amend the Budget Act of 2021 (Chapters 21, 69, and 240 of the Statutes of 2021) by amending Items 6100-001-0001 and 7760-101-0001 of Section 2.00 of that act, and to amend the Budget Act of 2024 (Chapters 22, 35, and 994 of the Statutes of 2024) by amending Item 6100-001-0001 of Section 2.00 of that act, relating to education finance, and making an appropriation therefor, to take effect immediately, bill related to the budget."
  },
- "20252026 SB1216": {
-  "authors": [
-   "Laird"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "a80e2beb905ba9eb",
-  "last_action": "Re-referred to Com. on B. & F. R.",
-  "last_action_date": "2026-06-15",
-  "sections": [
-   "GOV 65589.10"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to add Section 65589.10 to the Government Code, relating to housing."
- },
- "20252026 SB1250": {
-  "authors": [
-   "Cortese"
-  ],
-  "chapter": {
-   "num": "821",
-   "year": "2026"
-  },
-  "hash": "db6637e35ddb00b2",
-  "last_action": "Chaptered by Secretary of State. Chapter 821, Statutes of 2026.",
-  "last_action_date": "2026-09-29",
-  "sections": [
-   "GOV 65302"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65302 of, and to add Section 14526.4.1 to, the Government Code, and to amend Sections 158, 158.1, 158.2, 158.3, 158.5, and 164.6 of the Streets and Highways Code, relating to transportation."
- },
  "20252026 SB1254": {
   "authors": [
    "Ochoa Bogh"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "c8e546938249a9d5",
+  "chapter": null,
+  "hash": "e2a0a3b5ca2f4033",
   "last_action": "Referred to Com. on RLS.",
   "last_action_date": "2026-03-04",
   "sections": [
@@ -3364,7 +2464,7 @@
    "num": "1024",
    "year": "2026"
   },
-  "hash": "2ab11d170544dc4a",
+  "hash": "94457cf5ee84d2ec",
   "last_action": "Chaptered by Secretary of State. Chapter 1024, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -3373,32 +2473,12 @@
   "status": "Chaptered",
   "title": "An act to add and repeal Section 66499.39 of the Government Code, relating to land use."
  },
- "20252026 SB1258": {
-  "authors": [
-   "Wiener"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "8cb4d9758bfa531b",
-  "last_action": "May 14 hearing: Held in committee and under submission.",
-  "last_action_date": "2026-05-14",
-  "sections": [
-   "GOV 65913.4"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to amend Section 65913.4 of the Government Code, relating to housing."
- },
  "20252026 SB1260": {
   "authors": [
    "Jones"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "c3edb9d11301e533",
+  "chapter": null,
+  "hash": "1033dd3ba9edc2fe",
   "last_action": "Referred to Com. on RLS.",
   "last_action_date": "2026-03-04",
   "sections": [
@@ -3415,7 +2495,7 @@
    "num": "347",
    "year": "2026"
   },
-  "hash": "ced57dba291cbea9",
+  "hash": "98eccd5b290c797d",
   "last_action": "Chaptered by Secretary of State. Chapter 347, Statutes of 2026.",
   "last_action_date": "2026-09-20",
   "sections": [
@@ -3425,32 +2505,12 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 65850.7 and 65850.71 of the Government Code, relating to electric vehicle charging stations."
  },
- "20252026 SB1297": {
-  "authors": [
-   "Allen"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "9a77204f2e58558a",
-  "last_action": "May 14 hearing: Held in committee and under submission.",
-  "last_action_date": "2026-05-14",
-  "sections": [
-   "GOV 65100"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to amend Section 65100 of the Government Code, relating to local government."
- },
  "20252026 SB130": {
   "authors": [
    "Committee on Budget and Fiscal Review"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "62d294e18e5af798",
+  "chapter": null,
+  "hash": "a055c7772c50060c",
   "last_action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on BUDGET.",
   "last_action_date": "2025-06-26",
   "sections": [
@@ -3490,7 +2550,7 @@
    "num": "24",
    "year": "2025"
   },
-  "hash": "5cada64f330ac981",
+  "hash": "705cb06069e9e93c",
   "last_action": "Chaptered by Secretary of State. Chapter 24, Statutes of 2025.",
   "last_action_date": "2025-06-30",
   "sections": [
@@ -3519,11 +2579,8 @@
   "authors": [
    "Wahab"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "f87d9c60d5cf201b",
+  "chapter": null,
+  "hash": "b572b24c3dd99bfb",
   "last_action": "August 13 hearing: Held in committee and under submission.",
   "last_action_date": "2026-08-13",
   "sections": [
@@ -3537,11 +2594,8 @@
   "authors": [
    "Rubio"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "2442666e8b0da458",
+  "chapter": null,
+  "hash": "0e8c042a03f31267",
   "last_action": "May 14 hearing: Held in committee and under submission.",
   "last_action_date": "2026-05-14",
   "sections": [
@@ -3576,7 +2630,7 @@
    "num": "758",
    "year": "2026"
   },
-  "hash": "efc10fd6e27809a2",
+  "hash": "8c7f91305380472f",
   "last_action": "Chaptered by Secretary of State. Chapter 758, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -3589,11 +2643,8 @@
   "authors": [
    "Committee on Budget and Fiscal Review"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "e98ceaf7cbbf1392",
+  "chapter": null,
+  "hash": "f4bc85b443d8e361",
   "last_action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on BUDGET.",
   "last_action_date": "2025-06-24",
   "sections": [
@@ -3610,7 +2661,7 @@
    "num": "1030",
    "year": "2026"
   },
-  "hash": "9c690407fd9aa97d",
+  "hash": "ff427e9282f75889",
   "last_action": "Chaptered by Secretary of State. Chapter 1030, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -3644,7 +2695,7 @@
    "num": "1039",
    "year": "2026"
   },
-  "hash": "27c263330bdecefa",
+  "hash": "31693f09579afa83",
   "last_action": "Chaptered by Secretary of State. Chapter 1039, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -3723,11 +2774,8 @@
   "authors": [
    "Committee on Budget and Fiscal Review"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "31e35de6f1646fab",
+  "chapter": null,
+  "hash": "74973f46e0a4f4e8",
   "last_action": "Re-referred to Com. on BUDGET pursuant to Assembly Rule 97.",
   "last_action_date": "2025-09-12",
   "sections": [
@@ -3744,7 +2792,7 @@
    "num": "650",
    "year": "2025"
   },
-  "hash": "a1d2e5a2a3dd5e8f",
+  "hash": "3d7a31621f484968",
   "last_action": "Chaptered by Secretary of State. Chapter 650, Statutes of 2025.",
   "last_action_date": "2025-10-11",
   "sections": [
@@ -3760,23 +2808,6 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 65400, 65928, and 65950 of the Government Code, to amend Section 50245 of the Health and Safety Code, and to amend Sections 21067.5, 21080.1, and 21080.66 of, to amend and renumber Section 21080.44 of, and to add Section 21080.73 to, the Public Resources Code, relating to land use, and making an appropriation therefor, to take effect immediately, bill related to the budget."
  },
- "20252026 SB16": {
-  "authors": [
-   "Blakespear"
-  ],
-  "chapter": {
-   "num": "314",
-   "year": "2026"
-  },
-  "hash": "2390663b9b651c8f",
-  "last_action": "Chaptered by Secretary of State. Chapter 314, Statutes of 2026.",
-  "last_action_date": "2026-09-18",
-  "sections": [
-   "GOV 65583"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65583 of the Government Code, to add Article 3 (commencing with Section 50245) to Chapter 6.5 of Part 1 of Division 31 of the Health and Safety Code, and to amend Section 5963.02 of the Welfare and Institutions Code, relating to homelessness."
- },
  "20252026 SB170": {
   "authors": [
    "Committee on Budget and Fiscal Review"
@@ -3785,7 +2816,7 @@
    "num": "28",
    "year": "2026"
   },
-  "hash": "ecff81b369370833",
+  "hash": "89f2a83afde05171",
   "last_action": "Chaptered by Secretary of State. Chapter 28, Statutes of 2026.",
   "last_action_date": "2026-06-29",
   "sections": [
@@ -3822,7 +2853,7 @@
    "num": "511",
    "year": "2025"
   },
-  "hash": "9c9ba299ce6bbf13",
+  "hash": "c2e0b7e1cd4a4324",
   "last_action": "Chaptered by Secretary of State. Chapter 511, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -3836,11 +2867,8 @@
   "authors": [
    "Seyarto"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "5094b85ec4bf158d",
+  "chapter": null,
+  "hash": "e7db28e70fbb6b2e",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -3853,11 +2881,8 @@
   "authors": [
    "Seyarto"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "af26f301838acaf6",
+  "chapter": null,
+  "hash": "4424ab1357ccef49",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -3874,7 +2899,7 @@
    "num": "577",
    "year": "2025"
   },
-  "hash": "54c89c9352306a4a",
+  "hash": "8a4ec2dcf9f585a5",
   "last_action": "Chaptered by Secretary of State. Chapter 577, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -3891,7 +2916,7 @@
    "num": "118",
    "year": "2025"
   },
-  "hash": "9dc643ce5aa886bb",
+  "hash": "3f4953999222bce0",
   "last_action": "Chaptered by Secretary of State. Chapter 118, Statutes of 2025.",
   "last_action_date": "2025-09-19",
   "sections": [
@@ -3904,11 +2929,8 @@
   "authors": [
    "Valladares"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "52261766759576ca",
+  "chapter": null,
+  "hash": "60793429a983c916",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -3925,7 +2947,7 @@
    "num": "119",
    "year": "2025"
   },
-  "hash": "4ec08340e39ade7b",
+  "hash": "324202850a8d4de2",
   "last_action": "Chaptered by Secretary of State. Chapter 119, Statutes of 2025.",
   "last_action_date": "2025-09-19",
   "sections": [
@@ -3959,7 +2981,7 @@
    "num": "413",
    "year": "2026"
   },
-  "hash": "5bc2062cf9383eb1",
+  "hash": "337bc669408297da",
   "last_action": "Chaptered by Secretary of State. Chapter 413, Statutes of 2026.",
   "last_action_date": "2026-09-20",
   "sections": [
@@ -3972,11 +2994,8 @@
   "authors": [
    "Grayson"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "4408e8af8e95e6a3",
+  "chapter": null,
+  "hash": "a609902ef0d05ed7",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -3989,11 +3008,8 @@
   "authors": [
    "Menjivar"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "a9696c4b6292c65f",
+  "chapter": null,
+  "hash": "72f901a54244004d",
   "last_action": "August 29 hearing: Held in committee and under submission.",
   "last_action_date": "2025-08-29",
   "sections": [
@@ -4010,7 +3026,7 @@
    "num": "785",
    "year": "2026"
   },
-  "hash": "8563816c1f7a7322",
+  "hash": "2fa29eceb5d197d3",
   "last_action": "Chaptered by Secretary of State. Chapter 785, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -4045,7 +3061,7 @@
    "num": "786",
    "year": "2026"
   },
-  "hash": "7aa07a90d1aada89",
+  "hash": "f6b0111341bce63c",
   "last_action": "Chaptered by Secretary of State. Chapter 786, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -4075,11 +3091,8 @@
   "authors": [
    "Grove"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "cb559ecede0c315f",
+  "chapter": null,
+  "hash": "94effee670392590",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -4087,23 +3100,6 @@
   ],
   "status": "Died",
   "title": "An act to add Article 3.6 (commencing with Section 2089.01) to Chapter 1.5 of Division 3 of the Fish and Game Code, and to amend Sections 21080 and 30600 of the Public Resources Code, relating to wildfire prevention."
- },
- "20252026 SB410": {
-  "authors": [
-   "Grayson"
-  ],
-  "chapter": {
-   "num": "516",
-   "year": "2025"
-  },
-  "hash": "28470f3ecbbaa66e",
-  "last_action": "Chaptered by Secretary of State. Chapter 516, Statutes of 2025.",
-  "last_action_date": "2025-10-10",
-  "sections": [
-   "GOV 65860"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65860 of the Government Code, relating to land use."
  },
  "20252026 SB415": {
   "authors": [
@@ -4113,7 +3109,7 @@
    "num": "316",
    "year": "2025"
   },
-  "hash": "ae03b7675ef7fac2",
+  "hash": "27c08dbd99cc45e4",
   "last_action": "Chaptered by Secretary of State. Chapter 316, Statutes of 2025.",
   "last_action_date": "2025-10-03",
   "sections": [
@@ -4138,11 +3134,8 @@
   "authors": [
    "Grove"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "a7a12ea417776d29",
+  "chapter": null,
+  "hash": "4adc1bfac39e176e",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -4155,11 +3148,8 @@
   "authors": [
    "Alvarado-Gil"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "f7ecd7bad65d9441",
+  "chapter": null,
+  "hash": "33d424d8a573cfb3",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -4167,23 +3157,6 @@
   ],
   "status": "Died",
   "title": "An act to add Section 21080.37 to the Public Resources Code, relating to environmental quality."
- },
- "20252026 SB445": {
-  "authors": [
-   "Wiener"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "881002dd561a3484",
-  "last_action": "August 29 hearing: Held in committee and under submission.",
-  "last_action_date": "2025-08-29",
-  "sections": [
-   "GOV 65964.60"
-  ],
-  "status": "In Committee Process",
-  "title": "An act to add Article 7 (commencing with Section 65964.60) to Chapter 4.5 of Division 1 of Title 7 of the Government Code, relating to land use."
  },
  "20252026 SB457": {
   "authors": [
@@ -4193,7 +3166,7 @@
    "num": "802",
    "year": "2026"
   },
-  "hash": "dd88ba876f9f43ac",
+  "hash": "8a3aa6b75941f99e",
   "last_action": "Chaptered by Secretary of State. Chapter 802, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -4213,7 +3186,7 @@
    "num": "517",
    "year": "2025"
   },
-  "hash": "d133daeae7770a38",
+  "hash": "c191e17ecd28f678",
   "last_action": "Chaptered by Secretary of State. Chapter 517, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -4229,11 +3202,8 @@
   "authors": [
    "Limón"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "ff3d715dd184299a",
+  "chapter": null,
+  "hash": "e077d8ae698e6821",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -4267,7 +3237,7 @@
    "num": "543",
    "year": "2025"
   },
-  "hash": "2983d40825a9168c",
+  "hash": "f45383290b8f2cfa",
   "last_action": "Chaptered by Secretary of State. Chapter 543, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -4284,7 +3254,7 @@
    "num": "519",
    "year": "2025"
   },
-  "hash": "07e6e7ca880c27f2",
+  "hash": "422bc7fc751fc266",
   "last_action": "Chaptered by Secretary of State. Chapter 519, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -4297,11 +3267,8 @@
   "authors": [
    "Valladares"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "f0528f45e0e0fa66",
+  "chapter": null,
+  "hash": "c8d63381bc468333",
   "last_action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on B. & P.",
   "last_action_date": "2025-09-09",
   "sections": [
@@ -4311,24 +3278,6 @@
   "status": "In Committee Process",
   "title": "An act to amend Sections 21080.43 and 21080.44 of the Public Resources Code, relating to environmental quality."
  },
- "20252026 SB522": {
-  "authors": [
-   "Wahab"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "c283b486c6889acc",
-  "last_action": "Ordered to inactive file on request of Assembly Member Aguiar-Curry.",
-  "last_action_date": "2025-09-10",
-  "sections": [
-   "GOV 66300.5",
-   "GOV 66300.7"
-  ],
-  "status": "In Floor Process",
-  "title": "An act to amend Sections 1946.2 and 1947.12 of, and to add Section 1954.536 to, the Civil Code, and to amend Section 66300.5 of, and to add Section 66300.7 to, the Government Code, relating to housing."
- },
  "20252026 SB543": {
   "authors": [
    "McNerney"
@@ -4337,7 +3286,7 @@
    "num": "520",
    "year": "2025"
   },
-  "hash": "46bf0be2a1db8584",
+  "hash": "6cc6df9e08a962e1",
   "last_action": "Chaptered by Secretary of State. Chapter 520, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -4362,11 +3311,8 @@
   "authors": [
    "Cervantes"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "f9389231022b1002",
+  "chapter": null,
+  "hash": "e8d49ad802ecb606",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -4375,23 +3321,6 @@
   ],
   "status": "Died",
   "title": "An act to amend Sections 17030 and 17052 of the Health and Safety Code, relating to housing."
- },
- "20252026 SB574": {
-  "authors": [
-   "Umberg"
-  ],
-  "chapter": {
-   "num": "858",
-   "year": "2026"
-  },
-  "hash": "08b0d670092076ca",
-  "last_action": "Chaptered by Secretary of State. Chapter 858, Statutes of 2026.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "GOV 65913.4.2"
-  ],
-  "status": "Chaptered",
-  "title": "An act to add Section 65913.4.2 to the Government Code, relating to land use."
  },
  "20252026 SB597": {
   "authors": [
@@ -4411,27 +3340,6 @@
   ],
   "status": "Chaptered",
   "title": "An act to amend Sections 65912.131, 65913.4, and 65913.16 of the Government Code, and to amend Section 218.8 of, and to add Section 218.9 to, the Labor Code, relating to employment."
- },
- "20252026 SB607": {
-  "authors": [
-   "Wiener"
-  ],
-  "chapter": {
-   "num": "972",
-   "year": "2026"
-  },
-  "hash": "94d0ceca520144f1",
-  "last_action": "Chaptered by Secretary of State. Chapter 972, Statutes of 2026.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "PRC 21080.08",
-   "PRC 21080.1",
-   "PRC 21083.03",
-   "PRC 21165.5",
-   "PRC 21167.6"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Sections 21080.1 and 21167.6 of, and to add Sections 21080.08, 21083.03, and 21165.5 to, the Public Resources Code, relating to environmental quality."
  },
  "20252026 SB610": {
   "authors": [
@@ -4458,7 +3366,7 @@
    "num": "228",
    "year": "2025"
   },
-  "hash": "9dd1883f7b05a035",
+  "hash": "254fd6872946d564",
   "last_action": "Chaptered by Secretary of State. Chapter 228, Statutes of 2025.",
   "last_action_date": "2025-10-01",
   "sections": [
@@ -4475,7 +3383,7 @@
    "num": "529",
    "year": "2025"
   },
-  "hash": "f9c4f7b4f37f64fd",
+  "hash": "a032805167cb41e1",
   "last_action": "Chaptered by Secretary of State. Chapter 529, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -4492,7 +3400,7 @@
    "num": "548",
    "year": "2025"
   },
-  "hash": "5b254ec700962870",
+  "hash": "81924b0274e4170a",
   "last_action": "Chaptered by Secretary of State. Chapter 548, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -4501,32 +3409,12 @@
   "status": "Chaptered",
   "title": "An act to add Sections 4752 and 4766 to the Civil Code, and to add Chapter 4.2.2 (commencing with Section 65914.200) to Division 1 of Title 7 of the Government Code, relating to housing."
  },
- "20252026 SB627": {
-  "authors": [
-   "Wiener"
-  ],
-  "chapter": {
-   "num": "125",
-   "year": "2025"
-  },
-  "hash": "cbc3e02c3815b42c",
-  "last_action": "Chaptered by Secretary of State. Chapter 125, Statutes of 2025.",
-  "last_action_date": "2025-09-20",
-  "sections": [
-   "GOV 65913.3"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65913.3 of the Government Code, relating to planning and zoning."
- },
  "20252026 SB629": {
   "authors": [
    "Durazo"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "569d31ff41343dd2",
+  "chapter": null,
+  "hash": "25ebdc560823cff4",
   "last_action": "Veto sustained.",
   "last_action_date": "2026-03-02",
   "sections": [
@@ -4543,7 +3431,7 @@
    "num": "777",
    "year": "2025"
   },
-  "hash": "ff77a320349f4e21",
+  "hash": "7138e14a6081a59c",
   "last_action": "Chaptered by Secretary of State. Chapter 777, Statutes of 2025.",
   "last_action_date": "2025-10-13",
   "sections": [
@@ -4555,24 +3443,6 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 65865.5, 65962, and 66474.5 of, and to add Section 65962.4 to, the Government Code, and to amend Section 8307 of the Water Code, relating to land use."
  },
- "20252026 SB675": {
-  "authors": [
-   "Padilla"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6e8a2f42398b5e3a",
-  "last_action": "In Senate. Consideration of Governor's veto pending.",
-  "last_action_date": "2026-09-20",
-  "sections": [
-   "PRC 21185.5",
-   "PRC 21185.6"
-  ],
-  "status": "In Floor Process",
-  "title": "An act to add Sections 21185.5 and 21185.6 to the Public Resources Code, relating to environmental quality."
- },
  "20252026 SB676": {
   "authors": [
    "Limón"
@@ -4581,7 +3451,7 @@
    "num": "550",
    "year": "2025"
   },
-  "hash": "4af0464f5ce4d9d8",
+  "hash": "724fbf45f457ec6e",
   "last_action": "Chaptered by Secretary of State. Chapter 550, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -4598,7 +3468,7 @@
    "num": "974",
    "year": "2026"
   },
-  "hash": "3886e5325215e3f5",
+  "hash": "7d107009fb706592",
   "last_action": "Chaptered by Secretary of State. Chapter 974, Statutes of 2026.",
   "last_action_date": "2026-09-30",
   "sections": [
@@ -4615,11 +3485,8 @@
   "authors": [
    "Wahab"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6dfa89644c458e73",
+  "chapter": null,
+  "hash": "fe5b83df53dcaa81",
   "last_action": "July 2 hearing postponed by committee.",
   "last_action_date": "2025-06-27",
   "sections": [
@@ -4640,23 +3507,6 @@
   "status": "In Committee Process",
   "title": "An act to amend Sections 714.3, 1950.6, 5850, and 5855 of, and to add Sections 1950.3 and 2924.13 to, the Civil Code, to amend Sections 54221, 65584.01, 65584.04, 65589.5, 65905.5, 65913.10, 65928, 65941.1, 65953, and 65956 of, to amend and repeal Sections 65940, 65943, and 65950 of, to add Section 8590.15.5 to, and to repeal Section 66301 of, the Government Code, to amend Section 30603 of, to add Section 30342 to, and to add and repeal Section 25402.15 of, the Public Resources Code, and to amend Section 17053.5 of the Revenue and Taxation Code, relating to housing."
  },
- "20252026 SB686": {
-  "authors": [
-   "Reyes"
-  ],
-  "chapter": {
-   "num": "523",
-   "year": "2025"
-  },
-  "hash": "a9f37f213f228e8f",
-  "last_action": "Chaptered by Secretary of State. Chapter 523, Statutes of 2025.",
-  "last_action_date": "2025-10-10",
-  "sections": [
-   "HSC 50058.8"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Sections 50560, 50561, and 50562 of, and to add Section 50058.8 to, the Health and Safety Code, and to amend Section 5849.2 of the Welfare and Institutions Code, relating to housing."
- },
  "20252026 SB71": {
   "authors": [
    "Wiener"
@@ -4675,25 +3525,6 @@
   "status": "Chaptered",
   "title": "An act to amend Sections 21080.20 and 21080.25 of the Public Resources Code, relating to environmental quality."
  },
- "20252026 SB715": {
-  "authors": [
-   "Allen"
-  ],
-  "chapter": {
-   "num": "978",
-   "year": "2026"
-  },
-  "hash": "a453547caef30238",
-  "last_action": "Chaptered by Secretary of State. Chapter 978, Statutes of 2026.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "GOV 65584.04",
-   "GOV 65584.05",
-   "GOV 65584.06"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Sections 65584.04, 65584.05, and 65584.06 of the Government Code, relating to housing."
- },
  "20252026 SB722": {
   "authors": [
    "Wahab"
@@ -4702,7 +3533,7 @@
    "num": "100",
    "year": "2026"
   },
-  "hash": "f5158bce4042822d",
+  "hash": "2a8361bbbe65a6e5",
   "last_action": "Chaptered by Secretary of State. Chapter 100, Statutes of 2026.",
   "last_action_date": "2026-07-16",
   "sections": [
@@ -4711,54 +3542,12 @@
   "status": "Chaptered",
   "title": "An act to amend Section 65912.157 of the Government Code, relating to land use, and declaring the urgency thereof, to take effect immediately."
  },
- "20252026 SB73": {
-  "authors": [
-   "Cervantes"
-  ],
-  "chapter": {
-   "num": "10",
-   "year": "2026"
-  },
-  "hash": "ae7af6ea505420c2",
-  "last_action": "Chaptered by Secretary of State. Chapter 10, Statutes of 2026.",
-  "last_action_date": "2026-05-27",
-  "sections": [
-   "PRC 21060.2.5",
-   "PRC 21075",
-   "PRC 21155.1",
-   "PRC 21155.4",
-   "PRC 21159.21",
-   "PRC 21159.24"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Sections 21155.1, 21155.4, 21159.21, and 21159.24 of, and to add Sections 21060.2.5 and 21075 to, the Public Resources Code, relating to environmental quality."
- },
- "20252026 SB733": {
-  "authors": [
-   "Wahab"
-  ],
-  "chapter": {
-   "num": "783",
-   "year": "2025"
-  },
-  "hash": "3fdbbb64719a6ad6",
-  "last_action": "Chaptered by Secretary of State. Chapter 783, Statutes of 2025.",
-  "last_action_date": "2025-10-13",
-  "sections": [
-   "GOV 65400"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65400 of the Government Code, relating to land use."
- },
  "20252026 SB74": {
   "authors": [
    "Seyarto"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "b95907ceb84a7f72",
+  "chapter": null,
+  "hash": "d68d2c60c1080e61",
   "last_action": "August 29 hearing: Held in committee and under submission.",
   "last_action_date": "2025-08-29",
   "sections": [
@@ -4771,11 +3560,8 @@
   "authors": [
    "Allen"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "fa271810518bb006",
+  "chapter": null,
+  "hash": "e41d74845c64b00f",
   "last_action": "August 29 hearing: Held in committee and under submission.",
   "last_action_date": "2025-08-29",
   "sections": [
@@ -4792,7 +3578,7 @@
    "num": "526",
    "year": "2025"
   },
-  "hash": "7e52d68c24056f18",
+  "hash": "2a7147b277026561",
   "last_action": "Chaptered by Secretary of State. Chapter 526, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -4816,7 +3602,7 @@
    "num": "512",
    "year": "2025"
   },
-  "hash": "9696be461f3e1da8",
+  "hash": "878788154def7814",
   "last_action": "Chaptered by Secretary of State. Chapter 512, Statutes of 2025.",
   "last_action_date": "2025-10-10",
   "sections": [
@@ -4825,32 +3611,12 @@
   "status": "Chaptered",
   "title": "An act to add Chapter 4.1.5 (commencing with Section 65912.155) to Division 1 of Title 7 of the Government Code, relating to land use."
  },
- "20252026 SB797": {
-  "authors": [
-   "Choi"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "83beaf713da6af62",
-  "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
-  "last_action_date": "2026-02-02",
-  "sections": [
-   "GOV 65300"
-  ],
-  "status": "Died",
-  "title": "An act to amend Section 65300 of the Government Code, relating to local government."
- },
  "20252026 SB815": {
   "authors": [
    "Allen"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "7e83452226428f23",
+  "chapter": null,
+  "hash": "950b59d281f3b519",
   "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
   "last_action_date": "2026-02-02",
   "sections": [
@@ -4860,91 +3626,6 @@
   ],
   "status": "Died",
   "title": "An act to amend Section 65302 of, and to add Sections 65040.18 and 65302.11 to, the Government Code, relating to land use."
- },
- "20252026 SB819": {
-  "authors": [
-   "Padilla"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "340228a3c142770a",
-  "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
-  "last_action_date": "2026-02-02",
-  "sections": [
-   "PRC 21000"
-  ],
-  "status": "Died",
-  "title": "An act to amend Section 21000 of the Public Resources Code, relating to environmental quality."
- },
- "20252026 SB827": {
-  "authors": [
-   "Gonzalez"
-  ],
-  "chapter": {
-   "num": "661",
-   "year": "2025"
-  },
-  "hash": "9794867aae08ee71",
-  "last_action": "Chaptered by Secretary of State. Chapter 661, Statutes of 2025.",
-  "last_action_date": "2025-10-11",
-  "sections": [
-   "GOV 65041"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65041 of the Government Code, relating to land use."
- },
- "20252026 SB828": {
-  "authors": [
-   "Cabaldon"
-  ],
-  "chapter": {
-   "num": "652",
-   "year": "2026"
-  },
-  "hash": "707b1c18ff0959a0",
-  "last_action": "Chaptered by Secretary of State. Chapter 652, Statutes of 2026.",
-  "last_action_date": "2026-09-27",
-  "sections": [
-   "GOV 65302"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65302 of the Government Code, relating to land use."
- },
- "20252026 SB830": {
-  "authors": [
-   "Arreguín"
-  ],
-  "chapter": {
-   "num": "101",
-   "year": "2026"
-  },
-  "hash": "5c8e1679f93c2374",
-  "last_action": "Chaptered by Secretary of State. Chapter 101, Statutes of 2026.",
-  "last_action_date": "2026-07-16",
-  "sections": [
-   "PRC 21168.6.5"
-  ],
-  "status": "Chaptered",
-  "title": "An act to add Section 21168.6.5 to the Public Resources Code, relating to environmental quality."
- },
- "20252026 SB832": {
-  "authors": [
-   "Allen"
-  ],
-  "chapter": {
-   "num": "983",
-   "year": "2026"
-  },
-  "hash": "dea81ca0444365fb",
-  "last_action": "Chaptered by Secretary of State. Chapter 983, Statutes of 2026.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "GOV 65300.5"
-  ],
-  "status": "Chaptered",
-  "title": "An act to amend Section 65300.5 of the Government Code, relating to land use."
  },
  "20252026 SB838": {
   "authors": [
@@ -4967,11 +3648,8 @@
   "authors": [
    "Blakespear"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "8b0d62b1afcec220",
+  "chapter": null,
+  "hash": "dd3d07885875fed9",
   "last_action": "August 13 hearing: Held in committee and under submission.",
   "last_action_date": "2026-08-13",
   "sections": [
@@ -4988,7 +3666,7 @@
    "num": "658",
    "year": "2026"
   },
-  "hash": "9ca4a2e2a8883597",
+  "hash": "3c2ea5ded2949087",
   "last_action": "Chaptered by Secretary of State. Chapter 658, Statutes of 2026.",
   "last_action_date": "2026-09-27",
   "sections": [
@@ -5005,7 +3683,7 @@
    "num": "439",
    "year": "2026"
   },
-  "hash": "6351964c50599ed0",
+  "hash": "822a64936fa855ad",
   "last_action": "Chaptered by Secretary of State. Chapter 439, Statutes of 2026.",
   "last_action_date": "2026-09-21",
   "sections": [
@@ -5043,7 +3721,7 @@
    "num": "787",
    "year": "2026"
   },
-  "hash": "a0e2461d0571e97b",
+  "hash": "350e20a22be15858",
   "last_action": "Chaptered by Secretary of State. Chapter 787, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -5069,32 +3747,12 @@
   "status": "Chaptered",
   "title": "An act to amend Section 65915 of the Government Code, relating to housing."
  },
- "20252026 SB938": {
-  "authors": [
-   "Menjivar"
-  ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "6e4cdacecc8812ab",
-  "last_action": "In Senate. Consideration of Governor's veto pending.",
-  "last_action_date": "2026-09-30",
-  "sections": [
-   "GOV 65804"
-  ],
-  "status": "In Floor Process",
-  "title": "An act to amend Section 65804 of the Government Code, relating to zoning."
- },
  "20252026 SB954": {
   "authors": [
    "Blakespear"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "630493b72b4ac5b3",
+  "chapter": null,
+  "hash": "f46ad77b0d865bc2",
   "last_action": "In Senate. Consideration of Governor's veto pending.",
   "last_action_date": "2026-09-18",
   "sections": [
@@ -5115,7 +3773,7 @@
    "num": "788",
    "year": "2026"
   },
-  "hash": "bb6601a029eafc42",
+  "hash": "b30ebbe2c81fe8a7",
   "last_action": "Chaptered by Secretary of State. Chapter 788, Statutes of 2026.",
   "last_action_date": "2026-09-29",
   "sections": [
@@ -5128,11 +3786,8 @@
   "authors": [
    "Blakespear"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "80eee5ef2de8f76e",
+  "chapter": null,
+  "hash": "3ff67b5b29c938ae",
   "last_action": "May 14 hearing: Held in committee and under submission.",
   "last_action_date": "2026-05-14",
   "sections": [
@@ -5146,11 +3801,8 @@
   "authors": [
    "Strickland"
   ],
-  "chapter": {
-   "num": "NULL",
-   "year": "NULL"
-  },
-  "hash": "eed5b0239c3b68d8",
+  "chapter": null,
+  "hash": "f4a1bc96dda8f22b",
   "last_action": "April 7 set for first hearing canceled at the request of author.",
   "last_action_date": "2026-04-06",
   "sections": [

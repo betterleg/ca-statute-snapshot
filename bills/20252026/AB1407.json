@@ -9,15 +9,12 @@
  ],
  "bill": "AB1407",
  "bill_id": "202520260AB1407",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law requires a city or county to prepare and adopt a general plan for its jurisdiction that contains certain mandatory elements, including a housing element. Existing law requires the housing element to identify adequate sites for housing. Existing law requires the housing element to contain an assessment of housing needs and an inventory of resources and constraints relevant to the meeting of these needs. Existing law requires rezoning, as specified, when an inventory of sites does not identify adequate sites to accommodate the need for groups of specified household income levels. If the local government fails to adopt a housing element that the Department of Housing and Community Development has found to be in substantial compliance with specified law within 120 days of the statutory deadline for adoption of the housing element, existing law requires the local government to complete this rezoning no later than one year from the statutory deadline for adoption of the housing element.",
   "This bill would extend the above-described one-year deadline to one year and 6 months."
  ],
- "hash": "006719e25dcaf404",
+ "hash": "5952196a23b6a405",
  "history": [
   {
    "action": "Introduced. To print.",

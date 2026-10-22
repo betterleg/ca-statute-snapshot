@@ -9,16 +9,13 @@
  ],
  "bill": "AB1456",
  "bill_id": "202520260AB1456",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "CEQA authorizes the preparation and certification of an EIR for a program, plan, policy, or ordinance, commonly known as a “program EIR,” and requires a lead agency to examine later activities in the program in light of the program EIR to determine whether an additional environmental document is required to be prepared.",
   "This bill would require, on or before January 1, 2027, the State Board of Forestry and Fire Protection to update the California Vegetation Treatment Program Final Program Environmental Impact Report (FPEIR) to, among other things, expand the area that is treatable landscape under the FPEIR to portions of the state suitable for vegetation treatment consistent with the FPEIR, regardless of fire suppression responsibility designation, and recognize cultural burning conducted pursuant to a specified law as a covered treatment activity. The bill would authorize a public agency to partner with a federally recognized California Native American tribe to conduct a project under the FPEIR in the agency’s jurisdiction."
  ],
- "hash": "24dd7e277764b689",
+ "hash": "8bc7c05bcd80cdb2",
  "history": [
   {
    "action": "Introduced. To print.",
@@ -103,7 +100,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 21088.1 is added to the Public Resources Code , to read:",
+   "action": "Section 21088.1 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) For purposes of this section, “FPEIR” means the Final Program Environmental Impact Report for the California Vegetation Treatment Program, certified by the State Board of Forestry and Fire Protection on December 30, 2019.",

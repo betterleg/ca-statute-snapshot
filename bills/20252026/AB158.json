@@ -9,10 +9,7 @@
  ],
  "bill": "AB158",
  "bill_id": "202520260AB158",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Existing law, the Governor’s Reorganization Plan No. 1 of 2025 (GRP), which became effective on July 5, 2025, reorganized specified state agencies and departments, including establishing the Housing Development and Finance Executive Committee (executive committee) within the Business, Consumer Services, and Housing Agency for the purpose of centralizing affordable housing finance policymaking across state government. The GRP requires the executive committee to, among other things, work to align state housing funding sources for the creation of a consolidated application for multifamily affordable housing developers and a coordinated review process for the application of funds. The GRP, beginning July 1, 2026, establishes the Housing Development and Finance Committee within the California Housing and Homelessness Agency, which the GRP also establishes, and transfers the executive committee to the Housing Development Finance Committee effective July 1, 2026.",
   "This bill would state the intent of the Legislature that, in addition to the other duties required of the executive committee created by the GRP to align state housing funding sources, as described above, the executive committee be required to make recommendations to the Legislature regarding improvements the Department of Housing and Community Development may make to optimize loan administration, as specified.",
@@ -41,7 +38,7 @@
   "This bill would provide that no reimbursement is required by this act for a specified reason.",
   "(13) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
  ],
- "hash": "eab5128dff034f44",
+ "hash": "854d263dd095a99e",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -259,10 +256,16 @@
    "verb": "amended"
   },
   {
-   "action": "Section 21080.44 of the Public Resources Code , as added by Section 8 of Chapter 24 of the Statutes of 2025, is amended and renumbered to read:",
+   "action": "Section 21080.44 of the Public Resources Code, as added by Section 8 of Chapter 24 of the Statutes of 2025, is amended and renumbered to read:",
    "code": "PRC",
-   "note": "section text not found in this bill section",
-   "paras": [],
+   "paras": [
+    "(a) This division does not apply to a new agricultural employee housing project that complies with Section 21159.22, meets the requirements of paragraphs (1) to (4), inclusive, of subdivision (i) of Section 17021.8 of the Health and Safety Code, and that is any of the following:",
+    "(1) Funded by the Joe Serna, Jr. Farmworker Housing Grant Program (Chapter 3.2 (commencing with Section 50515.2) of Part 2 of Division 31 of the Health and Safety Code).",
+    "(2) Funded by the Office of Migrant Services within the Department of Housing and Community Development.",
+    "(3) Funded by a local government.",
+    "(4) Owned or operated and funded by a public or nonprofit entity, or that receives state, federal, or local public funding.",
+    "(b) This division does not apply to a project consisting exclusively of the repair or maintenance of an existing farmworker housing project."
+   ],
    "sec": "21080.44",
    "verb": "amended"
   },
@@ -363,7 +366,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 21080.73 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.73 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) Notwithstanding any other law, a housing development project, as defined in paragraph (2) of subdivision (h) of Section 65589.5 of the Government Code, that meets the following criteria shall be considered a discretionary project, as that term is used in subdivision (a) of Section 21080, and shall not be exempt from this division:",

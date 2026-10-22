@@ -9,15 +9,12 @@
  ],
  "bill": "SB1086",
  "bill_id": "202520260SB1086",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law authorizes the legislative body of any county or city to adopt ordinances that, among other things, regulate the use of buildings, structures, and land as between industry, business, residences, open space, and other purposes.",
   "This bill would require the Office of Land Use and Climate Innovation, in consultation with specified state entities, to develop and publish one or more model ordinances regarding micro-education entities and microschools. The bill would define various terms for these purposes."
  ],
- "hash": "c61c62d3165d134e",
+ "hash": "a4727b09400749fd",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -62,7 +59,7 @@
  "location": "CS44",
  "sections": [
   {
-   "action": "Section 65852.10 is added to the Government Code , to read:",
+   "action": "Section 65852.10 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section:",

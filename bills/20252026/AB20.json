@@ -9,17 +9,14 @@
  ],
  "bill": "AB20",
  "bill_id": "202520260AB20",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "(1) Existing law prohibits various conduct within certain distances of specified locations including schools and hospitals. Existing federal law, as established in City of Grants Pass, Oregon v. Johnson, authorizes the enforcement of generally applicable laws that regulate camping on public property.",
   "This bill would prohibit a homeless encampment from operating within 500 feet of a sensitive community area, including, but not limited to, a school, open space, or transit stop. The bill would prohibit a person from camping, as defined, in any public space, including a sidewalk, if a homeless shelter bed is available in the city where the public space is located.",
   "(2) Existing law defines Housing First as the evidence-based model that uses housing as a tool, rather than a reward, for recovery and that centers on providing or connecting homeless people to permanent housing as quickly as possible and specifies the core components of Housing First. Existing law establishes the California Interagency Council on Homelessness to oversee the implementation of Housing First guidelines and regulations, and, among other things, identify resources, benefits, and services that can be accessed to prevent and end homelessness in California. Existing law requires a state agency or department that funds, implements, or administers a state program that provides housing or housing-related services to people experiencing homelessness or who are at risk of homelessness to revise or adopt guidelines and regulations to include enumerated Housing First policies.",
   "This bill would delete the requirement that a state agency or department revise or adopt guidelines to include Housing First policies, as described above, and would repeal related provisions requiring adherence to Housing First, as specified. The bill would instead authorize a state program to review the suitability of an applicant based on their housing readiness, as defined, and impose program rules and requirements related to sobriety, substance abuse, completion of treatment, mental health, participation in services, and compliance with program rules. The bill would require an agency or department to allocate state program funding according to a specified priority and would require the agency or department to issue regulations to local agencies to prioritize use of funds for state programs that include drug testing, mandatory treatment, and work requirements for program participants. The bill would require a state program to include a work program that provides paid work opportunities from private or governmental entities or volunteer opportunities serving the community. The bill would also prohibit a motel that accepts homeless assistance from the California Work Opportunity and Responsibility to Kids program for 20% or more of rented rooms during the year from receiving payments unless the motel is approved by the city council of the city in which the motel is located."
  ],
- "hash": "61a94968149545b0",
+ "hash": "7d7653a734ccea43",
  "history": [
   {
    "action": "Read first time. To print.",

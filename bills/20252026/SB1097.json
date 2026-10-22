@@ -15,17 +15,14 @@
  ],
  "bill": "SB1097",
  "bill_id": "202520260SB1097",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that the lead agency proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "This bill would exempt from CEQA projects that consist of the inspection, maintenance, repair, restoration, reconditioning, reconductoring with advanced conductors, replacement, or removal of an existing transmission wire or cable used to conduct electricity or other piece of equipment that is directly attached to the wire or cable and that meet certain requirements, including, among other things, that for a project that is not located on a sensitiva site, the project is undertaken entirely within an existing right-of-way. For projects that are located on a sensitive site, as defined, the bill would also require that the project not increase the footprint of the existing transmission line by more than 10%. In addition to those requirements, for projects that are located within a national park, a national monument, a national wilderness area, or a national recreation area, the bill would also require that the existing right-of-way that the project is undertaken within have a certified EIR, negative declaration, or mitigated negative declaration. For any of these above-described projects that are undertaken within a private right-of-way, the bill would require the project applicant to obtain permission from each underlying property owner to access the property for the project and to enter into an agreement to restore the right-of-way to its condition before the commencement of the project. If a lead agency determines that a project is exempt from CEQA pursuant to the above-described provision, the bill would require the lead agency to file a notice of exemption with the Office of Land Use and Climate Innovation and the county clerk in each county in which the project is located, as provided. By increasing the duties of a lead agency, the bill would impose a state-mandated local program.",
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "acde33cd4e80edab",
+ "hash": "a3fd43feb3a7c4a1",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -94,7 +91,7 @@
  "location": "CS61",
  "sections": [
   {
-   "action": "Section 21080.39 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.39 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) For purposes of this section, both of the following definitions apply:",

@@ -18,7 +18,7 @@
   "This bill would require the office, on or before July 1, 2028, to compile, standardize, maintain, and make publicly available through a consolidated online platform a core set of statewide standardized spatial planning datasets, as defined. The bill would require the datasets to include specified categories of information, including hazardous data, natural resource sensitivity data, and agricultural value data, as provided. The bill would also require the office, on or before January 1, 2029, to develop and provide guidance for agencies to inform how to use and integrate the datasets in regional planning processes and products. The bill would require the office to update those datasets as new or revised data becomes available from the originating state or federal agencies.",
   "This bill would permit state, regional, and local governments to consider use of the standardized spatial planning datasets published by the office in the development and production of land use and infrastructure plans, as specified. The bill would require the office to provide technical assistance, upon request, for use of the data from these provisions. The bill would specify that it does not create new regulatory requirements, regulate land use or zoning, establish land use designations, or preempt the local land use authority of cities and counties."
  ],
- "hash": "27c263330bdecefa",
+ "hash": "31693f09579afa83",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -176,10 +176,10 @@
   "id": "20250SB142392CHP",
   "num": "92"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65040.18 is added to the Government Code , to read:",
+   "action": "Section 65040.18 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For purposes of this section, the following terms have the following meanings:",
@@ -205,7 +205,7 @@
    "verb": "added"
   },
   {
-   "action": "Article 15 (commencing with Section 65770) is added to Chapter 3 of Division 1 of Title 7 of the Government Code , to read:",
+   "action": "Article 15 (commencing with Section 65770) is added to Chapter 3 of Division 1 of Title 7 of the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) State, regional, and local governments may consider use of the standardized spatial planning datasets published by the Office of Land Use and Climate Innovation pursuant to Section 65040.18 in the development and production of land use and infrastructure plans, including, but not limited to:",

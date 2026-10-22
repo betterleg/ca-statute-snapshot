@@ -43,7 +43,7 @@
   "(6) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for specified reasons."
  ],
- "hash": "502c5d989e4616ce",
+ "hash": "6fd936c9c7e34b2d",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -165,7 +165,7 @@
   "id": "20250AB50794CHP",
   "num": "94"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65585 of the Government Code is amended to read:",
@@ -312,7 +312,7 @@
    "verb": "amended"
   },
   {
-   "action": "Article 11.5 (commencing with Section 65658) is added to Chapter 3 of Division 1 of Title 7 of the Government Code , to read:",
+   "action": "Article 11.5 (commencing with Section 65658) is added to Chapter 3 of Division 1 of Title 7 of the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "This article may be cited as the Office to Housing Conversion Act."

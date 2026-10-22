@@ -9,10 +9,7 @@
  ],
  "bill": "AB295",
  "bill_id": "202520260AB295",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report (EIR) on a project that the lead agency proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment. CEQA establishes a procedure by which a person may seek judicial review of the decision of the lead agency made pursuant to CEQA.",
   "The Jobs and Economic Improvement Through Environmental Leadership Act of 2021 authorizes the Governor, until January 1, 2032, to certify environmental leadership development projects that meet specified requirements for certain streamlining benefits related to CEQA. The act, among other things, requires a lead agency to prepare the record of proceedings for an environmental leadership development project, as provided, and to provide a specified notice within 10 days of the Governor certifying the project. The act is repealed by its own term on January 1, 2034.",
@@ -20,7 +17,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "fae167c6144adb38",
+ "hash": "24196e30246f2041",
  "history": [
   {
    "action": "Read first time. To print.",

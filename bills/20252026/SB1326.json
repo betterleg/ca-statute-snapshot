@@ -9,10 +9,7 @@
  ],
  "bill": "SB1326",
  "bill_id": "202520260SB1326",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report (EIR) on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "CEQA requires a lead agency, before releasing an environmental review document for a project, to begin consultation with a California Native American tribe that is traditionally and culturally affiliated with the geographic area of the proposed project, as provided. CEQA authorizes the parties, as a part of the consultation, to propose mitigation measures capable of avoiding or substantially lessening potential significant impacts to a tribal cultural resource or alternatives that would avoid significant impacts to a tribal cultural resource. CEQA defines a tribal cultural resource as including, among other things, a site, feature, place, cultural landscape, sacred place, or object with cultural value to a California Native American tribe that is included or determined to be eligible for inclusion in the California Register of Historical Resources or included in a local register of historical resources, as provided.",
@@ -24,7 +21,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "f87d9c60d5cf201b",
+ "hash": "b572b24c3dd99bfb",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",

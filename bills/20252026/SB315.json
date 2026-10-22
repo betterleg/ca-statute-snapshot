@@ -9,10 +9,7 @@
  ],
  "bill": "SB315",
  "bill_id": "202520260SB315",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Quimby Act, which is within the Subdivision Map Act, authorizes the legislative body of a city or county to require the dedication of land or to impose fees for park or recreational purposes as a condition to the approval of a tentative map or parcel subdivision map if specified requirements are met. The act provides that the dedication of land, or the payment of fees, or both, shall not exceed the proportionate amount necessary to provide 3 acres of park area per 1,000 persons residing within a subdivision subject to the act, except as specified.",
   "This bill would additionally prohibit the proportion of the land to be dedicated, or the amount of any fee to be paid in lieu thereof, or both, from exceeding 25% of the total acreage of the subdivision, if the proposed subdivision is for infill housing. The bill would also prohibit the legislative body of a city or county from requiring the dedication of land or the payment of fees in lieu thereof, if the proposed subdivision is for infill housing and the subdivision is located within 12 mile of an existing park.",
@@ -22,7 +19,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "4408e8af8e95e6a3",
+ "hash": "a609902ef0d05ed7",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

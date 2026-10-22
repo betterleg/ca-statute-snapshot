@@ -52,7 +52,7 @@
   "(3) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "6351964c50599ed0",
+ "hash": "822a64936fa855ad",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -218,10 +218,10 @@
   "id": "20250SB88790CHP",
   "num": "90"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 21061.6 is added to the Public Resources Code , to read:",
+   "action": "Section 21061.6 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) “Data center” means a facility, or part of a facility, that houses computing infrastructure, including graphics and central processing units, servers, storage devices, networking equipment, and associated power and cooling systems, for the primary purpose of processing, storing, or distributing electronic data.",
@@ -231,7 +231,7 @@
    "verb": "added"
   },
   {
-   "action": "Section 21080.08 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.08 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "Notwithstanding any other law, this division shall apply to the issuance of entitlements related to the development and operation of a data center."

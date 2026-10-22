@@ -30,7 +30,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "57ff398244a63a49",
+ "hash": "9e871c649b8b1965",
  "history": [
   {
    "action": "Read first time. To print.",
@@ -180,10 +180,10 @@
   "id": "20250AB175189CHP",
   "num": "89"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65852.30 is added to the Government Code , to read:",
+   "action": "Section 65852.30 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) A development proponent may submit an application for a townhome development project that meets the requirements of this section and Chapter 9 (commencing with Section 66499.45) of Division 2 of Title 7. A townhome development project application under this section includes any city, or for townhome development projects located in an unincorporated area of a county, land use and zoning approvals required to authorize construction and occupation of the townhome development project, including, but not limited to, subdivision, building, grading, and other permits.",
@@ -216,7 +216,7 @@
    "verb": "added"
   },
   {
-   "action": "Chapter 9 (commencing with Section 66499.45) is added to Division 2 of Title 7 of the Government Code , to read:",
+   "action": "Chapter 9 (commencing with Section 66499.45) is added to Division 2 of Title 7 of the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "For purposes of this chapter:",

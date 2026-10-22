@@ -37,7 +37,7 @@
   "This bill would provide that with regard to certain mandates no reimbursement is required by this act for specified reasons.",
   "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "9ca4a2e2a8883597",
+ "hash": "3c2ea5ded2949087",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -183,10 +183,10 @@
   "id": "20250SB88391CHP",
   "num": "91"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
-   "action": "Section 65850.21 is added to the Government Code , immediately following Section 65850.2 , to read:",
+   "action": "Section 65850.21 is added to the Government Code, immediately following Section 65850.2, to read:",
    "code": "GOV",
    "paras": [
     "(a) Unless all of the following conditions are satisfied, a city or county, or city and county, shall not approve a building permit for a new reactive chemical storage facility with the potential for an explosion, including, but not limited to, due to thermal runaway reaction, that may cause injury or death to any person outside the proposed facility’s property boundary:",

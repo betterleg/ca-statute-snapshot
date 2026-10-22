@@ -31,7 +31,7 @@
   "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
   "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "d133daeae7770a38",
+ "hash": "c191e17ecd28f678",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -173,7 +173,7 @@
   "id": "20250SB48692CHP",
   "num": "92"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65080 of the Government Code is amended to read:",
@@ -287,7 +287,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65584.01 of the Government Code , as amended by Section 9 of Chapter 22 of the Statutes of 2025, is amended to read:",
+   "action": "Section 65584.01 of the Government Code, as amended by Section 9 of Chapter 22 of the Statutes of 2025, is amended to read:",
    "code": "GOV",
    "paras": [
     "For the fourth and subsequent revision of the housing element pursuant to Section 65588, the department, in consultation with each council of governments, where applicable, shall determine the existing and projected need for housing for each region in the following manner:",
@@ -319,7 +319,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65584.01 of the Government Code , as amended by Section 9 of Chapter 22 of the Statutes of 2025, is amended to read:",
+   "action": "Section 65584.01 of the Government Code, as amended by Section 9 of Chapter 22 of the Statutes of 2025, is amended to read:",
    "code": "GOV",
    "paras": [
     "For the fourth and subsequent revision of the housing element pursuant to Section 65588, the department, in consultation with each council of governments, where applicable, shall determine the existing and projected need for housing for each region in the following manner:",
@@ -364,7 +364,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65584.04 of the Government Code , as amended by Section 10 of Chapter 22 of the Statutes of 2025, is amended to read:",
+   "action": "Section 65584.04 of the Government Code, as amended by Section 10 of Chapter 22 of the Statutes of 2025, is amended to read:",
    "code": "GOV",
    "paras": [
     "(a) At least two years before a scheduled revision required by Section 65588, each council of governments, or delegate subregion as applicable, shall develop, in consultation with the department, a proposed methodology for distributing the existing and projected regional housing need to cities, counties, and cities and counties within the region or within the subregion, where applicable pursuant to this section. The methodology shall further the objectives listed in subdivision (d) of Section 65584.",
@@ -604,7 +604,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 21080.091 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.091 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "The University of California and the California State University are not required to conduct a “no project” alternative analysis described in subdivision (e) of Section 15126.6 of Title 14 of the California Code of Regulations in an environmental impact report, a supplemental environmental impact report, or an addendum for a development project, for which the University of California or the California State University, respectively, is the lead agency, if all of the following conditions are met:",

@@ -33,7 +33,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that no reimbursement is required by this act for a specified reason."
  ],
- "hash": "ae03b7675ef7fac2",
+ "hash": "27c08dbd99cc45e4",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -179,7 +179,7 @@
   "id": "20250SB41591CHP",
   "num": "91"
  },
- "location": "NULL",
+ "location": "",
  "sections": [
   {
    "action": "Section 65098 of the Government Code is amended to read:",
@@ -316,7 +316,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65098.1.6 is added to the Government Code , to read:",
+   "action": "Section 65098.1.6 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Notwithstanding any other law, this chapter shall not apply to any logistics use development that was subject to a local entitlement process that began before September 30, 2024.",
@@ -369,7 +369,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65098.2.8 is added to the Government Code , to read:",
+   "action": "Section 65098.2.8 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) Except as specified in subdivision (b), a jurisdiction that is not in a warehouse concentration region shall adopt an ordinance, on or before January 1, 2028, that shall do all of the following:",

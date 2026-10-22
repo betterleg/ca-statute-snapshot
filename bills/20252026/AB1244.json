@@ -15,16 +15,13 @@
  ],
  "bill": "AB1244",
  "bill_id": "202520260AB1244",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
   "Under existing law, the Transit-Oriented Development Implementation Program is administered by the Department of Housing and Community Development to provide local assistance to developers for the purpose of developing higher density uses within close proximity to transit stations as provided. Existing law, establishes the Transit-Oriented Development Implementation Fund and, to the extent funds are available, requires the department to make loans for the development and construction of housing development projects within close proximity to a transit station that meet specified criteria.",
   "This bill would authorize a project, to the extent that the project is required to mitigate transportation impacts under CEQA, to satisfy the mitigation requirement by electing to contribute an amount of money, at a price per vehicle mile traveled, as determined by the Office of Land Use and Climate Innovation, to the Transit-Oriented Development Implementation Fund for the purposes of the Transit-Oriented Development Implementation Program, as provided. The bill would require the office, on or before July 1, 2029, and at least once every 3 years thereafter, to update the price per vehicle mile traveled based on specified factors. The bill would require, upon appropriation by the Legislature, the contributions to be available to the department to fund developments located in the same region, as defined, with preference given to specified projects. The bill would require the department to, for each award, confirm the estimated reduction in vehicle miles traveled, as provided, and would require the department to post specified information on its internet website."
  ],
- "hash": "364c10991b4c5190",
+ "hash": "0a6b2da01f26f746",
  "history": [
   {
    "action": "Introduced. To print.",
@@ -117,7 +114,7 @@
  "location": "CS64",
  "sections": [
   {
-   "action": "Section 21080.43 is added to the Public Resources Code , to read:",
+   "action": "Section 21080.43 is added to the Public Resources Code, to read:",
    "code": "PRC",
    "paras": [
     "(a) For purposes of this section, “region” means the territory of the regional transportation planning agency with jurisdiction over the project.",

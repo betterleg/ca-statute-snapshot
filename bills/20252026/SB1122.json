@@ -9,10 +9,7 @@
  ],
  "bill": "SB1122",
  "bill_id": "202520260SB1122",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law, the Planning and Zoning Law, requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. That law requires the planning agency of a city or county to provide by April 1 of each year an annual report to, among other entities, the Office of Land Use and Climate Innovation, formerly known as the Office of Planning and Research, and the Department of Housing and Community Development that includes, among other specified information, the number of units of housing demolished and new units of housing that have been issued a completed entitlement, a building permit, or a certificate of occupancy, thus far in the housing element cycle, as specified.",
   "The Planning and Zoning Law also provides for the creation by local ordinance, or by ministerial approval if a local agency has not adopted an ordinance, of accessory dwelling units in areas zoned for single-family or multifamily dwelling residential use in accordance with specified standards and conditions.",
@@ -20,7 +17,7 @@
   "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
   "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
  ],
- "hash": "54a0ea5f745ac435",
+ "hash": "2934affccc0cc2a4",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",

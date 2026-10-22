@@ -21,10 +21,7 @@
  ],
  "bill": "SB967",
  "bill_id": "202520260SB967",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "The Planning and Zoning Law requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of that county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. For the 4th and subsequent revisions of the housing element, existing law requires the Department of Housing and Community Development to determine the existing and projected regional housing need, as provided, and requires the appropriate council of governments, or for cities and counties without a council of governments, the department, to adopt a final regional housing need plan allocating a share of the regional housing need to each Existing\"?> city or county, as provided. Existing law requires the housing element to include an analysis of any special housing needs, including, among others, families and persons in need of emergency shelter.",
   "Existing law requires a city or county to provide by April 1 of each year an annual report to, among other entities, the department that includes, among other things, the city’s or county’s progress in meeting its share of regional housing needs, as specified, and number of units approved and disapproved in the prior year.",
@@ -32,7 +29,7 @@
   "Existing law requires the department to publish, by December 31, 2026, advisory guidance, including, but not limited to, sample analyses and programs, pertaining to special housing needs for acutely low and extremely low income households and programs to assist in the development of adequate housing to meet the needs of acutely low income households, as specified.",
   "This bill would require the guidance to include advice regarding the impact of the above-described requirements regarding interim housing and pertaining to acutely low and extremely low income households, specifically how interim housing, as defined, that does not meet the United States Census Bureau guidelines definition of a “housing unit” may be reported in the annual progress report."
  ],
- "hash": "80eee5ef2de8f76e",
+ "hash": "3ff67b5b29c938ae",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -101,7 +98,7 @@
    "verb": "amended"
   },
   {
-   "action": "Section 65583.5 is added to the Government Code , to read:",
+   "action": "Section 65583.5 is added to the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "(a) For the purposes of this section, the following definitions apply:",

@@ -57,15 +57,12 @@
  ],
  "bill": "SB74",
  "bill_id": "202520260SB74",
- "chapter": {
-  "num": "NULL",
-  "year": "NULL"
- },
+ "chapter": null,
  "digest": [
   "Existing law establishes the Office of Land Use and Climate Innovation in the Governor’s office for the purpose of serving the Governor and the Governor’s cabinet as staff for long-range planning and research and constituting the comprehensive state planning agency. Existing law authorizes a local agency to finance infrastructure projects through various means, including by authorizing a city or county to establish an enhanced infrastructure financing district to finance public capital facilities or other specified projects of communitywide significance that provide significant benefits to the district or the surrounding community.",
   "This bill would require the office, upon appropriation by the Legislature, to establish the Infrastructure Gap-Fund Program to provide grants to local agencies for the development and construction of infrastructure projects, as defined, facing unforeseen costs after starting construction. The bill would authorize the office to provide funding for up to 20% of a project’s additional projected cost, as defined, after the project has started construction, subject to specified conditions, including, among other things, that the local agency has allocated existing local tax revenue for at least 45% of the initially budgeted total cost of the infrastructure project. When applying to the program, the bill would require the local agency to demonstrate challenges with completing the project on time and on budget and how the infrastructure project helps meet state and local goals, as specified. The bill would require the office to develop guidelines to implement the program that establish the criteria by which grant applications will be evaluated and funded. The bill would make these provisions operative on January 1, 2030."
  ],
- "hash": "b95907ceb84a7f72",
+ "hash": "d68d2c60c1080e61",
  "history": [
   {
    "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
@@ -166,7 +163,7 @@
  "location": "CX25",
  "sections": [
   {
-   "action": "Article 8 (commencing with Section 65059.5) is added to Chapter 1.5 of Division 1 of Title 7 of the Government Code , to read:",
+   "action": "Article 8 (commencing with Section 65059.5) is added to Chapter 1.5 of Division 1 of Title 7 of the Government Code, to read:",
    "code": "GOV",
    "paras": [
     "For the purposes of this article, the following definitions apply:",
