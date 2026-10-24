@@ -1,8 +1,8 @@
 {
- "started": "2026-10-23T17:58:12+00:00",
+ "started": "2026-10-24T16:59:19+00:00",
  "result": "built",
- "source": "pubinfo_daily_Fri.zip",
- "last_modified": "Fri, 23 Oct 2026 11:23:56 GMT",
+ "source": "pubinfo_daily_Sat.zip",
+ "last_modified": "Sat, 24 Oct 2026 11:24:03 GMT",
  "bills": 227,
- "finished": "2026-10-23T18:05:09+00:00"
+ "finished": "2026-10-24T17:08:41+00:00"
 }
