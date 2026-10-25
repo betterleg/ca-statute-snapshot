@@ -22,7 +22,7 @@ Column names come from the load scripts in the download (as in pubinfo_snapshot.
 from the published capublic schema and are used only if the scripts are missing. The first --inspect run on GitHub
 confirms them. The text is the Legislature's; leginfo.legislature.ca.gov is the official publication.
 """
-import argparse, datetime as dt, hashlib, json, os, pathlib, re, sys, tempfile, zipfile
+import argparse, datetime as dt, hashlib, json, os, pathlib, re, sys, tempfile, time, zipfile
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from pubinfo_snapshot import BASE, http, download, find_member, table_layout, read_dat, xml_paras, in_ranges, norm, log, FALLBACK_COLUMNS
 
@@ -57,6 +57,15 @@ def nn(v):
 
 def newest_daily():
     """The most recently modified pubinfo_daily_<Day>.zip."""
+    for attempt in range(1, 4):                  # the server sometimes refuses connections for a few minutes: retry
+        best = _newest_once()
+        if best: return best
+        if attempt < 3: log(f"no daily file reachable (try {attempt}); waiting {120 * attempt} s"); time.sleep(120 * attempt)
+    raise SystemExit("No pubinfo_daily_<Day>.zip reachable after 3 tries (see the HEAD errors above). If they are TLS errors "
+                     "the server or the runner changed its TLS settings; if 404, the site layout may have changed.")
+
+
+def _newest_once():
     best = None
     for day in ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"):
         name = f"pubinfo_daily_{day}.zip"
@@ -66,8 +75,7 @@ def newest_daily():
             log("HEAD failed", name, e); continue
         when = dt.datetime.strptime(lm, "%a, %d %b %Y %H:%M:%S %Z") if lm else dt.datetime.min
         if best is None or when > best[1]: best = (name, when, lm)
-    if not best: raise SystemExit("No pubinfo_daily_<Day>.zip found; the site layout may have changed.")
-    return best[0], best[2]
+    return (best[0], best[2]) if best else None
 
 
 def sections_named(action, codes):

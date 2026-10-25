@@ -24,7 +24,7 @@ scripts in the download (capublic.sql / *_tbl.sql, also in pubinfo_load.zip). If
 fallbacks are used and the run says so. The text is the Legislature's; this snapshot is a convenience copy, not the
 official publication (leginfo.legislature.ca.gov is).
 """
-import argparse, csv, datetime as dt, hashlib, html.parser, io, json, os, pathlib, re, shutil, sys, tempfile, time, urllib.request, zipfile
+import argparse, csv, datetime as dt, hashlib, html.parser, io, json, os, pathlib, re, shutil, ssl, sys, tempfile, time, urllib.request, zipfile
 
 SCHEMA_VERSION = 1
 BASE = "https://downloads.leginfo.legislature.ca.gov/"
@@ -52,9 +52,28 @@ def log(*a):
 
 
 # ---------------------------------------------------------------- download
+_TLS = {"ctx": None}                # set to the compatible context once the default one fails (see http)
+
+
+def _compat_ctx():
+    """Certificate checks unchanged; only accepts older cipher suites / renegotiation that some government servers still
+    use. Needed when the runner's OpenSSL refuses the server's handshake (SSLV3_ALERT_HANDSHAKE_FAILURE)."""
+    ctx = ssl.create_default_context()
+    ctx.set_ciphers("DEFAULT:@SECLEVEL=1")
+    ctx.options |= getattr(ssl, "OP_LEGACY_SERVER_CONNECT", 0x4)
+    return ctx
+
+
 def http(url, method="GET"):
     req = urllib.request.Request(url, method=method, headers={"User-Agent": "ca-statute-snapshot/1 (+weekly research snapshot)"})
-    return urllib.request.urlopen(req, timeout=120)
+    if _TLS["ctx"] is not None: return urllib.request.urlopen(req, timeout=120, context=_TLS["ctx"])
+    try:
+        return urllib.request.urlopen(req, timeout=120)
+    except Exception as e:
+        if "HANDSHAKE_FAILURE" not in str(e) and "UNSAFE_LEGACY_RENEGOTIATION" not in str(e): raise
+        log(f"TLS handshake refused with {ssl.OPENSSL_VERSION} defaults; retrying with the compatible TLS settings")
+        _TLS["ctx"] = _compat_ctx()
+        return urllib.request.urlopen(req, timeout=120, context=_TLS["ctx"])
 
 
 def latest_session_zip():
