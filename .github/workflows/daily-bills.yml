@@ -33,6 +33,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Check connection to the Legislature's download site
+        continue-on-error: true
+        run: |
+          python -c "import ssl; print('Python TLS:', ssl.OPENSSL_VERSION)"
+          curl -sSI --max-time 60 https://downloads.leginfo.legislature.ca.gov/ | head -3 || echo "curl could not connect"
+
       - name: Read bills
         run: |
           ARGS=""
