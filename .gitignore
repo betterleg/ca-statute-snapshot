@@ -1,0 +1,11 @@
+__pycache__/
+*.zip
+tests/out/
+
+# never commit secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials*
