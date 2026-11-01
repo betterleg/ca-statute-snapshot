@@ -1,0 +1,12 @@
+{
+ "started": "2026-11-01T21:00:02+00:00",
+ "result": "built",
+ "source": "pubinfo_2025.zip",
+ "sections": {
+  "GOV": 1083,
+  "HSC": 152,
+  "PRC": 307
+ },
+ "problems": 0,
+ "finished": "2026-11-01T21:07:40+00:00"
+}
