@@ -1,0 +1,166 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Carrillo",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "AB2239",
+ "bill_id": "202520260AB2239",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. (a) The Legislature finds and declares all of the following: (1) Timely energization of customers is essential to achieving California’s goals related to economic development, housing production, industrial growth, public health, reliability, and the reduction of greenhouse gas emissions. (2) Certain regions of California possess substantial existing or planned electrical generation capacity, renewable energy potential, or available land suitable for economic and housing development but lack sufficient transmission or distribution infrastructure to deliver electrical service in a timely manner. (3) These resource-rich but infrastructure-constrained regions include inland, desert, rural, and geographically isolated areas experiencing rapid growth in logistics, manufacturing, data infrastructure, housing, and clean energy development. (4) Delays in energization in these regions result in lost economic opportunity, delayed housing production, increased project costs, and reduced statewide economic competitiveness. (5) Permitting complexity, multiagency review processes, and infrastructure planning timelines can delay electrical infrastructure necessary to support energization and economic development. (6) Existing law does not sufficiently incentivize electrical corporations to meet energization timelines established or approved by the Public Utilities Commission, nor does it sufficiently provide tools to accelerate infrastructure deployment in infrastructure-constrained areas. (7) Local governments bear primary responsibility for land use planning, permitting, housing development, and economic development and therefore should have a meaningful role in establishing and evaluating energization timelines affecting their jurisdictions. (8) When an electrical corporation cannot meet required energization timelines despite expedited infrastructure development efforts, alternative energization pathways, including customer-side or third-party infrastructure and over-the-fence transactions, may be necessary to ensure timely access to electrical service while maintaining safety and reliability standards. (9) Transmission and interconnection delays in infrastructure-constrained regions constrain economic growth, housing production, and clean energy deployment, and coordinated prioritization among state entities is necessary to advance statewide policy goals. (10) Development of firm, dispatchable, renewable, and low-emission generation resources, including geothermal energy, hydrogen-based generation, advanced nuclear technologies, energy storage, and renewable generation, may improve reliability and support energization in infrastructure-constrained regions. (b) It is the intent of the Legislature that electrical corporations remain the primary providers of electrical service and that state policy should prioritize enabling electrical corporations to provide timely service through expedited planning, permitting, and infrastructure development.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Section 21080.74 is added to the Public Resources Code, to read:",
+   "paras": [
+    "§21080.74. (a) This division does not apply to the approval of an electrical generation or energy storage project located within an infrastructure-constrained energization area if all of the following conditions are met:",
+    "(1) The project has a generating capacity of not more than 100 megawatts.",
+    "(2) The project is located on industrially zoned, commercial, or previously disturbed land.",
+    "(3) The project does not result in significant impacts to sensitive biological resources, cultural resources, or protected habitat, as determined by the lead agency.",
+    "(4) The project is not located within a state park, wilderness area, or unit of the national park system.",
+    "(5) The project consists of renewable generation, energy storage, hydrogen production or generation, geothermal facilities, or advanced nuclear generation meeting applicable licensing requirements.",
+    "(b) A lead agency may require reasonable mitigation measures to address site-specific impacts.",
+    "(c) The Office of Land Use and Climate Innovation shall develop guidelines for the implementation of this section.",
+    "(d) For purposes of this section, “infrastructure-constrained energization area” means an area designated by the Public Utilities Commission pursuant to subdivision (a) of Section 367.8 of the Public Utilities Code."
+   ]
+  },
+  {
+   "action": "SEC. 3. Section 348.5 is added to the Public Utilities Code, to read:",
+   "paras": [
+    "§348.5. (a) The Independent System Operator shall, consistent with federal law and its federally approved tariff, consider regional economic development needs, infrastructure constraints, and statewide policy objectives when conducting transmission planning and interconnection processes.",
+    "(b) The Independent System Operator shall seek to streamline review and approval processes for projects located within infrastructure-constrained energization areas, including prioritizing studies and identifying transmission upgrades that reduce energization delays.",
+    "(c) The Independent System Operator shall annually report to the commission and the Legislature, consistent with Section 9795 of the Government Code, on transmission and interconnection constraints affecting infrastructure-constrained energization areas.",
+    "(d) This section does not modify the federal jurisdiction or operational independence of the Independent System Operator.",
+    "(e) For purposes of this section, “infrastructure-constrained energization area” means an area designated by the commission pursuant to subdivision (a) of Section 367.8."
+   ]
+  },
+  {
+   "action": "SEC. 4. Section 367.8 is added to the Public Utilities Code, to read:",
+   "paras": [
+    "§367.8. (a) The commission shall designate an infrastructure-constrained energization area based on objective criteria, including, but not limited to, limited distribution or transmission infrastructure relative to available electrical capacity or projected load growth, inland or desert geography, and extended energization timelines.",
+    "(b) (1) The commission shall adopt rules authorizing over-the-fence transactions within infrastructure-constrained energization areas designated pursuant to subdivision (a) when an electrical corporation cannot reasonably meet the energization targets established pursuant to Section 934, or a commission order, and all of the following conditions are met:",
+    "(A) The receiving parcels are contiguous or directly adjacent to the generating parcel.",
+    "(B) The aggregate load served does not exceed 10 megawatts.",
+    "(C) The arrangement complies with applicable safety, reliability, and interconnection standards.",
+    "(D) Electrical corporation distribution facilities are not used for retail delivery, except as authorized for safety or reliability.",
+    "(2) An entity providing electrical service pursuant to this section shall not, solely by reason of the over-the-fence transaction authorized under this section, be deemed an electrical corporation or a public utility.",
+    "(3) This section does not require utility ownership or ratebasing of an alternative facility.",
+    "(4) For purposes of this subdivision, “over-the-fence transaction” means the provision of electrical service from a generating facility or electrical infrastructure located on one parcel to one or more immediately adjacent parcels without the use of an electrical corporation’s distribution system.",
+    "(c) (1) The commission, in coordination with the Energy Commission and local jurisdictions, shall establish procedures to facilitate expedited development of electrical generation and energy storage facilities in infrastructure-constrained energization areas designated pursuant to subdivision (a).",
+    "(2) Projects eligible for expedited development pursuant to paragraph (1) may include, but are not limited to, all of the following:",
+    "(A) Renewable electrical generation, including solar photovoltaic, wind, and geothermal generation.",
+    "(B) Energy storage systems.",
+    "(C) Hydrogen production facilities and hydrogen-fueled generation.",
+    "(D) Advanced nuclear technologies, including small modular reactors, consistent with applicable federal and state law.",
+    "(E) Firm, dispatchable, or low-emission generation technologies that support reliability and energization.",
+    "(3) The commission and the Energy Commission shall prioritize projects that reduce energization delays, use previously disturbed or industrially zoned land, reduce reliance on long-distance transmission upgrades, and enable energization of adjacent parcels or industrial clusters.",
+    "(4) This subdivision does not alter existing greenhouse gas reduction requirements or safety standards.",
+    "(d) (1) The commission, in coordination with the Energy Commission, the Office of Land Use and Climate Innovation, and local jurisdictions, shall establish procedures to facilitate expedited permitting, siting, and construction of electrical infrastructure owned or operated by an electrical corporation within infrastructure-constrained energization areas designated pursuant to subdivision (a).",
+    "(2) Infrastructure eligible for expedited permitting, siting, and construction pursuant to this subdivision includes distribution facilities, substations, transmission upgrades, switching facilities, and interconnection infrastructure necessary to provide timely energization.",
+    "(3) The commission shall, to the extent permitted by law, establish expedited review timelines, encourage concurrent permitting and environmental review, coordinate multiagency approvals, and prioritize cost recovery proceedings for infrastructure that reduces energization delays.",
+    "(4) A local jurisdiction may designate priority energization projects eligible for coordinated permitting pursuant to this subdivision.",
+    "(5) This section does not exempt a project from environmental or safety requirements, but an agency shall prioritize timely review consistent with statewide energization and economic development goals.",
+    "(e) The commission and the Energy Commission shall coordinate with, and advocate before, the Independent System Operator for expedited review and prioritization of projects in infrastructure-constrained energization areas designated pursuant to subdivision (a)."
+   ]
+  },
+  {
+   "action": "SEC. 5. Section 934.5 is added to the Public Utilities Code, to read:",
+   "paras": [
+    "§934.5. (a) The commission shall require each electrical corporation to meet energization timelines or targets established pursuant to this article or by commission order.",
+    "(b) If an electrical corporation fails to meet an energization timeline or target approved or required by the commission, the commission shall impose a penalty, as determined by the commission, unless the electrical corporation demonstrates good cause, as determined by the commission.",
+    "(c) In determining a penalty pursuant to subdivision (b), the commission shall consider all relevant factors, including, but not limited to, all of the following:",
+    "(1) Economic harm resulting from delayed energization.",
+    "(2) Housing production impacts.",
+    "(3) Employment and economic development impacts.",
+    "(4) Infrastructure planning failures.",
+    "(5) The electrical corporation’s prior compliance history.",
+    "(6) Whether the project is located in an infrastructure-constrained energization area.",
+    "(d) The commission shall provide a local jurisdiction with an opportunity to submit comments, information, or recommended timelines for an energization project affecting its jurisdiction.",
+    "(e) For purposes of this section, “infrastructure-constrained energization area” means an area designated by the commission pursuant to subdivision (a) of Section 367.8."
+   ]
+  },
+  {
+   "action": "SEC. 6. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act or because costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIIIB of the California Constitution.",
+   "paras": []
+  }
+ ],
+ "chapter": null,
+ "digest": [
+  "Existing law vests the Public Utilities Commission (PUC) with regulatory authority over public utilities, including electrical corporations. Existing law requires the PUC to establish reasonable average and maximum target energization time periods, as defined, and a procedure for customers to report energization delays to the PUC, as provided. Existing law requires the PUC to require an electrical corporation to take remedial actions necessary to achieve the PUC’s targets.",
+  "This bill would require the PUC to require each electrical corporation to meet energization timelines or targets established pursuant to the above-described provisions or by PUC order. The bill would require the PUC to impose a penalty if an electrical corporation fails to meet an energization timeline or target approved or required by the PUC, as provided.",
+  "This bill would require the PUC to designate an infrastructure-constrained energization area based on objective criteria, including limited distribution or transmission infrastructure relative to available electrical capacity or projected load growth, inland or desert geography, and extended energization timelines. The bill would require the PUC to adopt rules authorizing over-the-fence transactions within infrastructure-constrained energization areas when an electrical corporation cannot reasonably meet energization targets and other specific conditions are met, as specified. The bill would require the PUC, in coordination with the State Energy Resources Conservation and Development Commission (Energy Commission) and local jurisdictions, to establish procedures to facilitate expedited development of electrical generation and energy storage facilities in infrastructure-constrained energization areas, as specified. The bill would require the PUC, in coordination with the Energy Commission, the Office of Land Use and Climate Innovation, and local jurisdictions, to establish procedures to facilitate expedited permitting, siting, and construction of electrical infrastructure owned or operated by an electrical corporation within infrastructure-constrained energization areas, as specified. The bill would require the PUC and the Energy Commission to coordinate with, and advocate before, the Independent System Operator (ISO) for expedited review and prioritization of projects in infrastructure-constrained energization areas, as specified.",
+  "Existing law establishes the ISO as a nonprofit, public benefit corporation to ensure efficient use and reliable operation of the transmission grid and to manage the transmission grid and related energy markets, as specified.",
+  "This bill would require the ISO to consider regional economic development needs, infrastructure constraints, and statewide policy objectives when conducting transmission planning and interconnection processes. The bill would require the ISO seek to streamline review and approval processes for projects located within infrastructure-constrained energization areas, as specified, and would require the ISO to annually report to the PUC and the Legislature on transmission and interconnection constraints affecting infrastructure-constrained energization areas.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would exempt from the requirements of CEQA the approval of an electrical generation or energy storage project located within an infrastructure-constrained energization area if specific conditions are met, as provided. The bill would require the Office of Land Use and Climate Innovation to develop guidelines for the implementation of these provisions. Because a lead agency would be required to determine whether a project would qualify for this exemption, this bill would impose a state-mandated local program.",
+  "Under existing law, a violation of the Public Utilities Act or any order, decision, rule, direction, demand, or requirement of the PUC is a crime.",
+  "Because certain of the above-described provisions would be part of the act and a violation of a PUC action implementing the above-described provisions would be a crime, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "hash": "6aa8f3e3bb7ccd9d",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "chamber": "A",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "chamber": "A",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "Referred to Coms. on U. & E. and NAT. RES.",
+   "chamber": "A",
+   "date": "2026-03-09"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2026-02-19",
+  "id": "20250AB223999INT",
+  "num": "99"
+ },
+ "location": "CX23",
+ "sections": [
+  {
+   "action": "Section 21080.74 is added to the Public Resources Code, to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) This division does not apply to the approval of an electrical generation or energy storage project located within an infrastructure-constrained energization area if all of the following conditions are met:",
+    "(1) The project has a generating capacity of not more than 100 megawatts.",
+    "(2) The project is located on industrially zoned, commercial, or previously disturbed land.",
+    "(3) The project does not result in significant impacts to sensitive biological resources, cultural resources, or protected habitat, as determined by the lead agency.",
+    "(4) The project is not located within a state park, wilderness area, or unit of the national park system.",
+    "(5) The project consists of renewable generation, energy storage, hydrogen production or generation, geothermal facilities, or advanced nuclear generation meeting applicable licensing requirements.",
+    "(b) A lead agency may require reasonable mitigation measures to address site-specific impacts.",
+    "(c) The Office of Land Use and Climate Innovation shall develop guidelines for the implementation of this section.",
+    "(d) For purposes of this section, “infrastructure-constrained energization area” means an area designated by the Public Utilities Commission pursuant to subdivision (a) of Section 367.8 of the Public Utilities Code."
+   ],
+   "sec": "21080.74",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Infrastructure-constrained energization areas: energization timelines: environmental review.",
+ "title": "An act to add Section 21080.74 to the Public Resources Code, and to add Sections 348.5, 367.8, and 934.5 to the Public Utilities Code, relating to electricity.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-19",
+   "id": "20250AB223999INT",
+   "num": "99"
+  }
+ ],
+ "votes": []
+}

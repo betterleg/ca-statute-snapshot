@@ -1,0 +1,384 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Cortese",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Kalra",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB1375",
+ "bill_id": "202520260SB1375",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. The Legislature finds and declares all of the following: (a) Urban, intermodal rail stations are critical hubs within the statewide rail network. (b) Due to growth in transit-oriented communities and new and increased transit and rail services, existing stations require modernization to meet capacity needs and to offer a high-quality, seamless passenger experience. (c) The modernization of these stations promotes a mode shift from private automobile travel to public transportation and supports dense, walkable, transit-oriented development in the surrounding station district that reduces vehicle miles traveled and greenhouse gas emissions, with modernization projects largely occurring on previously disturbed urban lands.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Section 21080.76 is added to the Public Resources Code, to read:",
+   "paras": [
+    "§21080.76. (a) Except as provided in paragraph (8), this division does not apply to a public urban, intermodal rail station project within a long-urbanized area within the statewide passenger rail network, at which high-capacity light, commuter, and intercity rail services converge that meets the following conditions:",
+    "(1) The project primarily modernizes and expands existing station facilities and rail infrastructure to improve operational efficiency, passenger capacity, and intermodal connectivity, including changes to tracks, platforms, station facilities, public plazas or realms, safety barriers, noise barriers, sound barriers, roadway crossing and access improvements, intermodal connections and facilities, transit-oriented development, and the interface with adjacent development.",
+    "(2) All station passenger rail services exclusively use Tier 4 or cleaner rolling stock or locomotive engines that are zero emission or meet Tier 4 exhaust emissions standards, as provided in Section 1033.101 of Title 40 of the Code of Federal Regulations.",
+    "(3) The station is in an urbanized area and is not located in an air basin designated as a serious, severe, or extreme nonattainment area for particulate matter or ozone at the time the lead agency files the notice of exemption.",
+    "(4) The majority of the station project’s footprint is in an existing public right-of-way or on publicly owned property.",
+    "(5) The project complies with all applicable historic preservation measures, including Section 106 of the National Historic Preservation Act of 1966 (16 U.S.C. Sec. 470 et seq.).",
+    "(6) The project adopts a natural resource management plan or equivalent document that identifies what natural resources are present on the site and how environmental impacts affecting those natural resources will be avoided, reduced, and compensated for.",
+    "(7) The project complies with the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), Chapter 6 (commencing with Section 1600) of Division 2 of the Fish and Game Code, the Porter-Cologne Water Quality Control Act (Division 7 (commencing with Section 13000) of the Water Code), and all applicable natural resource protection laws.",
+    "(8) The lead agency provides notice to and consults with California Native American tribes that are traditionally and culturally affiliated with the geographic area of the proposed project as defined by the list maintained by the Native American Heritage Commission, in accordance with Sections 21080.3.1, 21080.3.2, 21082.3, 21084.2, and 21084.3. The consult described in this paragraph does not need to include a consultation relating to the type of environmental review required.",
+    "(9) The project adopts and implements a construction impact and mitigation plan, specifying mechanisms to reduce construction-related impacts to below state and local requirements and communicate proactively and responsively with the community.",
+    "(10) The project adopts a plan to fully address any displacement from the project consistent with federal and state relocation laws, including a plan to replace any lost housing units through new market-rate and affordable housing.",
+    "(11) The plan includes specific commitments to expanding tenant education resources and offering tenants subject to relocation by the project access to legal counsel.",
+    "(12) The local land use authority adopts an affordable housing implementation plan that prioritizes the production of new affordable housing units, preservation of affordable homes, and protection of vulnerable residents from displacement to further plan for and address displacement. The plan may be citywide or for a specific area covering the project.",
+    "(b) If the lead agency determines that a project is not subject to this division pursuant to this section, and the lead agency determines to carry out that project, the lead agency shall file a notice of exemption with the Office of Land Use and Climate Innovation and the county clerk of the county in which the project is located in the manner specified in Section 21152.",
+    "(c) (1) Exemption under this section is permitted only for projects for which a notice of exemption is filed pursuant to this section before January 1, 2032.",
+    "(2) Notwithstanding paragraph (1), a lead agency for a project for which a notice of exemption is filed before January 1, 2032, may file additional notices as required by this division on or after January 1, 2032."
+   ]
+  },
+  {
+   "action": "SEC. 3. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "1030",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "Existing law exempts from CEQA a public project for the improvement, institution, or increase of passenger rail service, including the maintenance, construction, or rehabilitation of stations, terminals, or existing operations facilities that will be exclusively used by zero-emission trains or specified rolling stock or locomotives, as provided.",
+  "This bill would exempt from CEQA, except as specified, a public urban, intermodal rail station project within a long-urbanized area within the statewide passenger rail network, at which high-capacity light, commuter, and intercity rail services converge that meets specified conditions, including, among other requirements, a requirement for compliance with various environmental laws and for the adoption of a plan for how any displacement from the project will be fully addressed, as provided. The bill would require a lead agency, if it determines that a project is not subject to CEQA pursuant to this exemption, and it determines to carry out the project, to file a notice of exemption with the Office of Land Use and Climate Innovation and the county clerk of the county in which the project is located, as provided. The bill would permit exemption only for projects for which a notice of exemption is filed before January 1, 2032. Because a lead agency would be required to determine the applicability of this exemption, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "4291e1c57e864613",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "chamber": "S",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "chamber": "S",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Re-referred to Coms. on E.Q. and TRANS.",
+   "chamber": "S",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "chamber": "S",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "Set for hearing April 21 in TRANS. pending receipt.",
+   "chamber": "S",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on TRANS. (Ayes 7. Noes 0. Page 3900.) (April 15).",
+   "chamber": "S",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on TRANS.",
+   "chamber": "S",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0. Page 3985.) (April 21). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Set for hearing May 4.",
+   "chamber": "S",
+   "date": "2026-04-24"
+  },
+  {
+   "action": "May 4 hearing postponed by committee.",
+   "chamber": "S",
+   "date": "2026-04-30"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "chamber": "S",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "chamber": "S",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 4354.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2026-05-20"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "chamber": "A",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (June 22).",
+   "chamber": "A",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (August 5).",
+   "chamber": "A",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Read third time and amended.",
+   "chamber": "A",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 73. Noes 0. Page 6151.) Ordered to the Senate.",
+   "chamber": "A",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "chamber": "S",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 5515.) Ordered to engrossing and enrolling.",
+   "chamber": "S",
+   "date": "2026-08-18"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "chamber": "",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 1030, Statutes of 2026.",
+   "chamber": "",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250SB137593CHP",
+  "num": "93"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 21080.76 is added to the Public Resources Code, to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Except as provided in paragraph (8), this division does not apply to a public urban, intermodal rail station project within a long-urbanized area within the statewide passenger rail network, at which high-capacity light, commuter, and intercity rail services converge that meets the following conditions:",
+    "(1) The project primarily modernizes and expands existing station facilities and rail infrastructure to improve operational efficiency, passenger capacity, and intermodal connectivity, including changes to tracks, platforms, station facilities, public plazas or realms, safety barriers, noise barriers, sound barriers, roadway crossing and access improvements, intermodal connections and facilities, transit-oriented development, and the interface with adjacent development.",
+    "(2) All station passenger rail services exclusively use Tier 4 or cleaner rolling stock or locomotive engines that are zero emission or meet Tier 4 exhaust emissions standards, as provided in Section 1033.101 of Title 40 of the Code of Federal Regulations.",
+    "(3) The station is in an urbanized area and is not located in an air basin designated as a serious, severe, or extreme nonattainment area for particulate matter or ozone at the time the lead agency files the notice of exemption.",
+    "(4) The majority of the station project’s footprint is in an existing public right-of-way or on publicly owned property.",
+    "(5) The project complies with all applicable historic preservation measures, including Section 106 of the National Historic Preservation Act of 1966 (16 U.S.C. Sec. 470 et seq.).",
+    "(6) The project adopts a natural resource management plan or equivalent document that identifies what natural resources are present on the site and how environmental impacts affecting those natural resources will be avoided, reduced, and compensated for.",
+    "(7) The project complies with the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), Chapter 6 (commencing with Section 1600) of Division 2 of the Fish and Game Code, the Porter-Cologne Water Quality Control Act (Division 7 (commencing with Section 13000) of the Water Code), and all applicable natural resource protection laws.",
+    "(8) The lead agency provides notice to and consults with California Native American tribes that are traditionally and culturally affiliated with the geographic area of the proposed project as defined by the list maintained by the Native American Heritage Commission, in accordance with Sections 21080.3.1, 21080.3.2, 21082.3, 21084.2, and 21084.3. The consult described in this paragraph does not need to include a consultation relating to the type of environmental review required.",
+    "(9) The project adopts and implements a construction impact and mitigation plan, specifying mechanisms to reduce construction-related impacts to below state and local requirements and communicate proactively and responsively with the community.",
+    "(10) The project adopts a plan to fully address any displacement from the project consistent with federal and state relocation laws, including a plan to replace any lost housing units through new market-rate and affordable housing.",
+    "(11) The plan includes specific commitments to expanding tenant education resources and offering tenants subject to relocation by the project access to legal counsel.",
+    "(12) The local land use authority adopts an affordable housing implementation plan that prioritizes the production of new affordable housing units, preservation of affordable homes, and protection of vulnerable residents from displacement to further plan for and address displacement. The plan may be citywide or for a specific area covering the project.",
+    "(b) If the lead agency determines that a project is not subject to this division pursuant to this section, and the lead agency determines to carry out that project, the lead agency shall file a notice of exemption with the Office of Land Use and Climate Innovation and the county clerk of the county in which the project is located in the manner specified in Section 21152.",
+    "(c) (1) Exemption under this section is permitted only for projects for which a notice of exemption is filed pursuant to this section before January 1, 2032.",
+    "(2) Notwithstanding paragraph (1), a lead agency for a project for which a notice of exemption is filed before January 1, 2032, may file additional notices as required by this division on or after January 1, 2032."
+   ],
+   "sec": "21080.76",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: exemption: urban intermodal rail station project.",
+ "title": "An act to add Section 21080.76 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB137599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB137598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-16",
+   "id": "20250SB137597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-07-02",
+   "id": "20250SB137596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-06",
+   "id": "20250SB137595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-19",
+   "id": "20250SB137594ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250SB137593CHP",
+   "num": "93"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2026-04-15",
+   "location": "Sen Environmental Quality",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Transportation]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-04-21",
+   "location": "Sen Transportation",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 12
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-19",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB1375 Cortese",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "4337",
+   "yes": 39
+  },
+  {
+   "chamber": "A",
+   "date": "2026-06-22",
+   "location": "Asm Natural Resources",
+   "motion": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1",
+   "yes": 13
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-05",
+   "location": "Asm Appropriations",
+   "motion": "Do pass.",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 15
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-13",
+   "location": "Assembly Floor",
+   "motion": "SB 1375 Cortese Senate Third Reading By Kalra",
+   "no": 0,
+   "nv": 6,
+   "result": "pass",
+   "seq": "1028",
+   "yes": 73
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-18",
+   "location": "Senate Floor",
+   "motion": "Unfinished Business SB1375 Cortese et al. Concurrence",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1012",
+   "yes": 40
+  }
+ ]
+}

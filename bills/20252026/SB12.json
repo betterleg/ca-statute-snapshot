@@ -1,0 +1,430 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Gonzalez",
+   "party": "R",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Durazo",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Menjivar",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Padilla",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Pérez",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bonta",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Calderon",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Carrillo",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Garcia",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Mark González",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ortega",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Celeste Rodriguez",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Solache",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB12",
+ "bill_id": "202520260SB12",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 12800 of the Government Code is amended to read:",
+   "paras": [
+    "§12800. (a) There are in the state government the following agencies:",
+    "(1) Business, Consumer Services, and Housing.",
+    "(2) Transportation.",
+    "(3) California Environmental Protection.",
+    "(4) California Health and Human Services.",
+    "(5) Labor and Workforce Development.",
+    "(6) Natural Resources.",
+    "(7) Government Operations.",
+    "(8) Corrections and Rehabilitation.",
+    "(9) Immigrant and Refugee Affairs.",
+    "(b) The secretary of an agency shall be generally responsible for the sound fiscal management of each department, office, or other unit within the agency. The secretary shall review and approve the proposed budget of each department, office, or other unit. The secretary shall hold the head of each department, office, or other unit responsible for management control over the administrative, fiscal, and program performance of the respective department, office, or other unit. The secretary shall review the operations and evaluate the performance at appropriate intervals of each department, office, or other unit, and shall seek continually to improve the organization structure, the operating policies, and the management information systems of each department, office, or other unit.",
+    "(c) This section shall remain in effect only until January 1, 2036, and as of that date is repealed."
+   ]
+  },
+  {
+   "action": "SEC. 2. Section 12800 is added to the Government Code, to read:",
+   "paras": [
+    "§12800. (a) There are in the state government the following agencies:",
+    "(1) Business, Consumer Services, and Housing.",
+    "(2) Transportation.",
+    "(3) California Environmental Protection.",
+    "(4) California Health and Human Services.",
+    "(5) Labor and Workforce Development.",
+    "(6) Natural Resources.",
+    "(7) Government Operations.",
+    "(8) Corrections and Rehabilitation.",
+    "(b) The secretary of an agency shall be generally responsible for the sound fiscal management of each department, office, or other unit within the agency. The secretary shall review and approve the proposed budget of each department, office, or other unit. The secretary shall hold the head of each department, office, or other unit responsible for management control over the administrative, fiscal, and program performance of the respective department, office, or other unit. The secretary shall review the operations and evaluate the performance at appropriate intervals of each department, office, or other unit, and shall seek continually to improve the organization structure, the operating policies, and the management information systems of each department, office, or other unit.",
+    "(c) This section is operative on January 1, 2036."
+   ]
+  },
+  {
+   "action": "SEC. 3. Article 15 (commencing with Section 12839) is added to Chapter 1 of Part 2.5 of Division 3 of Title 2 of the Government Code, to read:",
+   "paras": [
+    "§12839. (a) There is hereby created in state government the Immigrant and Refugee Affairs Agency, to be headed by a secretary. The Governor shall appoint the secretary, subject to Senate confirmation. The secretary shall serve at the pleasure of the Governor.",
+    "(b) The Governor may appoint two chief deputy secretaries of the Immigrant and Refugee Affairs Agency, subject to Senate confirmation. The chief deputy secretaries shall hold office at the pleasure of the secretary.",
+    "(c) The Office of Immigrant and Refugee Affairs is hereby established within the agency, under the direction of the Statewide Director of Immigrant and Refugee Inclusion appointed by the Governor pursuant to Section 65050.",
+    "§12839.1. For the purposes of this article, the following terms have the following meanings:",
+    "(a) “Agency” means the Immigrant and Refugee Affairs Agency.",
+    "(b) “Office” means the Office of Immigrant and Refugee Affairs.",
+    "(c) “Secretary” means the individual appointed pursuant to subdivision (a) of Section 12839.",
+    "§12839.2. (a) The Legislature finds and declares that immigrant inclusion requires an intentional process that incorporates the needs of immigrants, their families, and their communities into policies governing our cities, regions, and states. Because immigrants make significant contributions to their regions, immigrant inclusion is a dynamic, two-way process in which newcomers and the receiving society both have a responsibility for inclusion, and both benefit as they work together to build secure, vibrant, and cohesive communities.",
+    "(b) It is the goal of this article to incorporate future and existing programs created specifically to assist immigrants and refugees into the office. Moreover, it is the intent of the Legislature to place future programs to assist immigrants and refugees within the office.",
+    "(c) All property of any office, agency, or department that relates to functions concerning immigrant and refugee affairs is hereby transferred to the Office of Immigrant and Refugee Affairs. If any doubt arises as to whether that property is required to be transferred, the Department of General Services shall determine whether any property is required to be transferred pursuant to this subdivision.",
+    "(d) Any unencumbered balance of any appropriation and any other funds that were available for use in connection with any function, or the administration of any law, transferred to the Office of Immigrant and Refugee Affairs by this article is hereby transferred to the office for deposit into the fund for the use and for the purpose for which the appropriation was originally made or the funds were originally available. If there is any doubt as to whether any funds are required to be transferred, the Department of Finance shall determine whether the transfer is required pursuant to this subdivision.",
+    "(e) Every officer and employee of any office, agency, or department who is performing a function transferred to the Office of Immigrant and Refugee Affairs and who is serving in the state civil service, other than as a temporary employee, shall be transferred to the office pursuant to the provisions of Section 19050.9. The status, position, and rights of any officer or employee of the former office, agency, or department shall not be affected by the transfer and shall be retained by the person as an officer or employee of the Office of Immigrant and Refugee Affairs, as the case may be, pursuant to the State Civil Service Act (Part 2 (commencing with Section 18500) of Division 5 of Title 2), except as to a position that is exempt from civil service.",
+    "§12839.3. The Immigrant and Refugee Inclusion Fund is hereby established within the State Treasury. Moneys transferred pursuant to subdivision (d) of Section 12839.2 shall be used for the purpose for which the appropriation was originally made. Other moneys deposited into the fund shall be available to the office, upon appropriation by the Legislature, for expenditure by the office to defray its expenses for administering this article.",
+    "§12839.4. The agency’s purpose shall be to enhance, and reduce obstacles to, immigrant and refugee inclusion into the social, cultural, economic, and civic life of the state.",
+    "§12839.6. The secretary may take actions that include, but are not limited to, all of the following:",
+    "(a) Inform the Legislature of its position on any legislative proposal pending before the Legislature and urge the introduction of legislative proposals.",
+    "(b) State their position and viewpoint on issues developed in the performance of its duties and responsibilities as specified in this chapter.",
+    "(c) Assist other state agencies in evaluating their programs for accessibility and effectiveness in providing services to immigrants and refugees.",
+    "(d) Coordinate inclusion efforts among state agencies and recommend policy and budget mechanisms for meeting immigrant and refugee inclusion goals.",
+    "(e) Engage stakeholders inside and outside of government to identify key inclusion opportunities and challenges, and to communicate the critical importance of immigrant and refugee inclusion for the success of immigrants, refugees, their children, the communities in which they settle, and of the nation as a whole.",
+    "(f) Coordinate with local immigrant affairs offices to streamline services and maximize their impact.",
+    "(g) Create a clearinghouse of information and referral systems for services available to immigrants.",
+    "(h) Monitor the implementation of passed legislation across different sectors as it relates to immigrants and refugees.",
+    "(i) Engage the federal government and federal agencies, when appropriate, to maximize effectiveness of services provided to immigrants and refugees.",
+    "(j) Make policy recommendations to the Governor and the Legislature.",
+    "§12839.7. (a) Interagency sharing of information shall be limited to demographics only. Personal information of immigrants and refugees obtained under this article shall not be shared outside the agency.",
+    "(b) The agency shall adhere to all applicable data protection laws in order to protect the information of immigrants and refugees, including, but not limited to, the California Values Act (Chapter 17.25 (commencing with Section 7284) of Division 7 of Title 1), the California Religious Freedom Act (Chapter 5 (commencing with Section 8310.3) of Division 1 of Title 2) and Section 15160 of this code, the Confidentiality of Medical Information Act (Part 2.6 (commencing with Section 56) of Division 1 of the Civil Code), the Information Practices Act of 1977 (Chapter 1 (commencing with Section 1798) of Title 1.8 of Part 4 of Division 3 of the Civil Code), and Sections 1653.5, 12800, 12801, 12801.5, 12801.9, 12801.10, and 12801.11 of the Vehicle Code.",
+    "(c) The agency shall not use any agency resources, including, but not limited to, agency funds, personnel, and infrastructure, to directly or indirectly participate or assist in immigration enforcement activity.",
+    "§12839.8. Any report required to be submitted to the Legislature pursuant to this article shall be submitted in compliance with Section 9795.",
+    "§12839.9. This article shall remain in effect only until January 1, 2036, and as of that date is repealed."
+   ]
+  },
+  {
+   "action": "SEC. 4. Section 65050 of the Government Code is amended to read:",
+   "paras": [
+    "§65050. (a) There is hereby established a Statewide Director of Immigrant and Refugee Inclusion. The director shall be appointed by and serve at the pleasure of the Governor. The director shall serve as the statewide lead for the planning and coordination of immigrant and refugee services and policies in California.",
+    "(b) The director shall do all of the following:",
+    "(1) Develop a mission statement, strategic plan, and matrix of success for the office.",
+    "(2) Establish a permanent structure within the state to serve immigrants and refugees.",
+    "(3) Develop and execute grant programs that directly support capacity building and training among state agencies and state and local communities through technical assistance, training, organizing, and other programs.",
+    "(4) Identify effective practices and successful modes of delivering services to immigrant and refugee communities.",
+    "(5) Evaluate the need for improvements in the implementation and coordination of public policies relating to immigrant and refugee communities.",
+    "(6) Report to the Legislature on a biannual basis on successes and challenges in meeting immigrant and refugee inclusion goals. The reports shall be submitted in compliance with Section 9795.",
+    "(7) Develop a comprehensive statewide report on programs and services that serve immigrants and refugees. The report shall include both of the following:",
+    "(A) Federal and state laws, regulations, and policies that create programs or authorize the access or participation of immigrants and refugees, including those without legal presence.",
+    "(B) Programs and services currently managed by a state agency or department to support California immigrants and refugees, including, but not limited to, naturalization services and other immigrant and refugee assistance programs, and the agency or department responsible for administering the funding or implementing the program.",
+    "(8) By January 1, 2027, report to the Governor and the Legislature on the programs and services described in paragraph (7) and a statewide plan for better implementation and coordination of immigrant and refugee assistance policies and programs. The report shall be submitted in compliance with Section 9795.",
+    "(9) By July 10, 2027, develop and maintain an online clearinghouse of immigrant and refugee services, resources, and programs.",
+    "(10) Monitor the implementation of statewide laws and regulations that serve immigrants and refugees.",
+    "(c) This section shall remain in effect only until January 1, 2036, and as of that date is repealed."
+   ]
+  },
+  {
+   "action": "SEC. 5. Section 65050 is added to the Government Code, to read:",
+   "paras": [
+    "§65050. There is hereby established a Statewide Director of Immigrant Integration. The director shall be appointed by and serve at the pleasure of the Governor. The director shall serve as the statewide lead for the planning and coordination of immigrant services and policies in California. The duties of the Statewide Director of Immigrant Integration shall include, but are not limited to, all of the following:",
+    "(a) Develop a comprehensive statewide report on programs and services that serve immigrants, including immigrants regardless of legal presence. The report shall include all of the following:",
+    "(1) Federal and state laws, regulations, and policies that create programs or authorize the access or participation of immigrants, including immigrants without legal presence.",
+    "(2) Programs and services currently managed by a state agency or department to support California immigrants, such as naturalization services and other immigrant assistance programs, and the agency or department responsible for administering the funding or implementing the program.",
+    "(b) On or before January 10, 2017, report to the Governor and the Legislature on the programs and services described in subdivision (a) and a statewide plan for better implementation and coordination of immigrant assistance policies and programs.",
+    "(c) On or before July 10, 2017, develop an online clearinghouse of immigrant services, resources, and programs.",
+    "(d) Monitor the implementation of statewide laws and regulations that serve immigrants.",
+    "(e) This section is operative on January 1, 2036."
+   ]
+  },
+  {
+   "action": "SEC. 6. The Legislature finds and declares that Section 2 of this act, which adds Section 12839.7 to the Government Code, imposes a limitation on the public’s right of access to the meetings of public bodies or the writings of public officials and agencies within the meaning of Section 3 of Article I of the California Constitution. Pursuant to that constitutional provision, the Legislature makes the following findings to demonstrate the interest protected by this limitation and the need for protecting that interest: In order to protect the privacy interests of immigrants and refugees, it is essential to maintain the confidentiality of the records described in Section 3 of this act.",
+   "paras": []
+  }
+ ],
+ "chapter": null,
+ "digest": [
+  "Existing law designates 8 agencies in state government and requires the secretary of an agency to be generally responsible for the sound fiscal management of each department, office, or other unit within the agency. Existing law further requires the secretary of an agency to, among other duties, continually seek to improve the organization structure, the operating policies, and the management information systems of each department, office, or other unit.",
+  "This bill would establish the Immigrant and Refugee Affairs Agency as an agency within state government, to be headed by a secretary who is appointed by the Governor and subject to Senate confirmation. The bill would specify that the purpose of the agency is to enhance, and reduce obstacles to, immigrant and refugee inclusion into the social, cultural, economic, and civic life of the state. The bill would authorize the secretary to, among other things, assist other state agencies in evaluating their programs for accessibility and effectiveness in providing services to immigrants and refugees and recommending policy and budget mechanisms for meeting immigrant and refugee inclusion.",
+  "This bill would establish the Office of Immigrant and Refugee Affairs within the agency, under the direction of the Statewide Director of Immigrant and Refugee Inclusion. The bill would declare the intent to incorporate existing and future programs created to assist immigrants and refugees into the office. The bill would transfer to the office the property of any other office, agency, or department that relates to functions concerning immigrant and refugee affairs. The bill would require every officer and employee who is performing a function at another office, agency, or department that is transferred to the Office of Immigrant and Refugee Affairs to also be transferred to the office, and would provide that every officer and employee who is serving in the state civil service who is transferred to the office shall retain their status, position, and rights, except as specified. The bill would create the Immigrant and Refugee Inclusion Fund within the State Treasury, and would make the moneys in the fund available to the office upon appropriation by the Legislature. The bill would transfer to the office any unencumbered balance of any appropriation or other funds that were available for use in connection with any function transferred to the office.",
+  "This bill would limit interagency sharing of information, would prohibit sharing of personal information of immigrants and refugees outside of the agency, and would prohibit use of agency resources to directly or indirectly participate or assist in immigration enforcement activity.",
+  "Existing law establishes the Statewide Director of Immigrant Integration and requires the director serve as the statewide lead for the planning and coordination of immigrant services and policies in California. Existing law requires, among other things, that the director develop a comprehensive statewide report on programs and services that serve immigrants, develop an online clearinghouse of immigrant services, resources, and programs, and monitor the implementation of statewide laws and regulations that serve immigrants.",
+  "This bill would recast those provisions to rename the director as the Statewide Director of Immigrant and Refugee Inclusion and would require the director to, among other things, develop a mission statement, strategic plan, and matrix of success for the office, and to report to the Legislature biannually on successes and challenges in meeting immigrant and refugee inclusion goals. The bill would require the director, by January 1, 2027, to report to the Governor and the Legislature on programs and services that serve immigrants and refugees and on a statewide plan for better implementation and coordination of immigrant and refugee assistance policies and programs.",
+  "The bill would repeal the bill’s provisions on January 1, 2036.",
+  "Existing constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.",
+  "This bill would make legislative findings to that effect."
+ ],
+ "hash": "cd368b652d03f335",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2024-12-02"
+  },
+  {
+   "action": "From printer. May be acted upon on or after January 2.",
+   "chamber": "S",
+   "date": "2024-12-03"
+  },
+  {
+   "action": "Referred to Coms. on G.O. and JUD.",
+   "chamber": "S",
+   "date": "2025-01-29"
+  },
+  {
+   "action": "Set for hearing March 11.",
+   "chamber": "S",
+   "date": "2025-02-25"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on G.O.",
+   "chamber": "S",
+   "date": "2025-02-27"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on JUD. (Ayes 11. Noes 1. Page 352.) (March 11).",
+   "chamber": "S",
+   "date": "2025-03-11"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on JUD.",
+   "chamber": "S",
+   "date": "2025-03-12"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "chamber": "S",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+   "chamber": "S",
+   "date": "2025-04-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0. Page 833.) (April 22). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Set for hearing May 5.",
+   "chamber": "S",
+   "date": "2025-04-25"
+  },
+  {
+   "action": "May 5 hearing: Placed on APPR. suspense file.",
+   "chamber": "S",
+   "date": "2025-05-05"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "chamber": "S",
+   "date": "2025-05-16"
+  },
+  {
+   "action": "May 23 hearing: Held in committee and under submission.",
+   "chamber": "S",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+   "chamber": "S",
+   "date": "2026-02-02"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2025-04-10",
+  "id": "20250SB1296AMD",
+  "num": "96"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 65050 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) There is hereby established a Statewide Director of Immigrant and Refugee Inclusion. The director shall be appointed by and serve at the pleasure of the Governor. The director shall serve as the statewide lead for the planning and coordination of immigrant and refugee services and policies in California.",
+    "(b) The director shall do all of the following:",
+    "(1) Develop a mission statement, strategic plan, and matrix of success for the office.",
+    "(2) Establish a permanent structure within the state to serve immigrants and refugees.",
+    "(3) Develop and execute grant programs that directly support capacity building and training among state agencies and state and local communities through technical assistance, training, organizing, and other programs.",
+    "(4) Identify effective practices and successful modes of delivering services to immigrant and refugee communities.",
+    "(5) Evaluate the need for improvements in the implementation and coordination of public policies relating to immigrant and refugee communities.",
+    "(6) Report to the Legislature on a biannual basis on successes and challenges in meeting immigrant and refugee inclusion goals. The reports shall be submitted in compliance with Section 9795.",
+    "(7) Develop a comprehensive statewide report on programs and services that serve immigrants and refugees. The report shall include both of the following:",
+    "(A) Federal and state laws, regulations, and policies that create programs or authorize the access or participation of immigrants and refugees, including those without legal presence.",
+    "(B) Programs and services currently managed by a state agency or department to support California immigrants and refugees, including, but not limited to, naturalization services and other immigrant and refugee assistance programs, and the agency or department responsible for administering the funding or implementing the program.",
+    "(8) By January 1, 2027, report to the Governor and the Legislature on the programs and services described in paragraph (7) and a statewide plan for better implementation and coordination of immigrant and refugee assistance policies and programs. The report shall be submitted in compliance with Section 9795.",
+    "(9) By July 10, 2027, develop and maintain an online clearinghouse of immigrant and refugee services, resources, and programs.",
+    "(10) Monitor the implementation of statewide laws and regulations that serve immigrants and refugees.",
+    "(c) This section shall remain in effect only until January 1, 2036, and as of that date is repealed."
+   ],
+   "sec": "65050",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65050 is added to the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "There is hereby established a Statewide Director of Immigrant Integration. The director shall be appointed by and serve at the pleasure of the Governor. The director shall serve as the statewide lead for the planning and coordination of immigrant services and policies in California. The duties of the Statewide Director of Immigrant Integration shall include, but are not limited to, all of the following:",
+    "(a) Develop a comprehensive statewide report on programs and services that serve immigrants, including immigrants regardless of legal presence. The report shall include all of the following:",
+    "(1) Federal and state laws, regulations, and policies that create programs or authorize the access or participation of immigrants, including immigrants without legal presence.",
+    "(2) Programs and services currently managed by a state agency or department to support California immigrants, such as naturalization services and other immigrant assistance programs, and the agency or department responsible for administering the funding or implementing the program.",
+    "(b) On or before January 10, 2017, report to the Governor and the Legislature on the programs and services described in subdivision (a) and a statewide plan for better implementation and coordination of immigrant assistance policies and programs.",
+    "(c) On or before July 10, 2017, develop an online clearinghouse of immigrant services, resources, and programs.",
+    "(d) Monitor the implementation of statewide laws and regulations that serve immigrants.",
+    "(e) This section is operative on January 1, 2036."
+   ],
+   "sec": "65050",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "State government: Immigrant and Refugee Affairs Agency: Office of Immigrant and Refugee Affairs.",
+ "title": "An act to amend, repeal, and add Sections 12800 and 65050 of, and to add and repeal Article 15 (commencing with Section 12839) of Chapter 1 of Part 2.5 of Division 3 of Title 2 of, the Government Code, relating to state government.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2024-12-02",
+   "id": "20250SB1299INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-02-27",
+   "id": "20250SB1298AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-12",
+   "id": "20250SB1297AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-10",
+   "id": "20250SB1296AMD",
+   "num": "96"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2025-03-11",
+   "location": "Sen Governmental Organization",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Judiciary]",
+   "no": 1,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "S",
+   "date": "2025-04-22",
+   "location": "Sen Judiciary",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "S",
+   "date": "2025-05-05",
+   "location": "Sen Appropriations",
+   "motion": "Placed on suspense file",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  }
+ ]
+}

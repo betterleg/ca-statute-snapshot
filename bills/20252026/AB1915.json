@@ -1,0 +1,549 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Gabriel",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Mark González",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Schiavo",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Rubio",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "AB1915",
+ "bill_id": "202520260AB1915",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 7099.2 of the Business and Professions Code, as added by Chapter 455 of the Statutes of 2025, is amended to read:",
+   "paras": [
+    "§7099.2. (a) The board shall promulgate regulations covering the assessment of civil penalties under this article that give due consideration to the appropriateness of the penalty with respect to the following factors:",
+    "(1) The gravity of the violation.",
+    "(2) The good faith of the licensee or applicant for licensure being charged.",
+    "(3) The history of previous violations.",
+    "(b) (1) Notwithstanding Section 125.9, and except as otherwise provided by this chapter, a civil penalty shall be assessed in an amount not less than five hundred dollars ($500) nor greater than eight thousand dollars ($8,000). Notwithstanding Section 125.9, a civil penalty shall be assessed in an amount not less than one thousand five hundred dollars ($1,500) nor greater than thirty thousand dollars ($30,000) for a violation of Section 7110, 7110.2, 7114, or 7118.",
+    "(2) The board may adjust all minimum civil penalties imposed by this section for inflation every five years. The adjustment shall be equivalent to the percentage, if any, that the Consumer Price Index, as determined pursuant to Section 2212 of the Revenue and Taxation Code, exceeds the Consumer Price Index at the time this subdivision goes into effect. Any increase determined under this paragraph shall be rounded as follows:",
+    "(A) In multiples of one hundred dollars ($100) for penalties greater than one hundred dollars ($100) but less than or equal to one thousand dollars ($1,000).",
+    "(B) In multiples of one thousand dollars ($1,000) for penalties greater than one thousand dollars ($1,000).",
+    "(c) This section shall become operative on July 1, 2026."
+   ]
+  },
+  {
+   "action": "SEC. 2. Section 7110.2 is added to the Business and Professions Code, to read:",
+   "paras": [
+    "§7110.2. A false statement made in a certification submitted pursuant to Chapter 16 (commencing with Section 66360) of Division 1 of Title 7 of the Government Code constitutes grounds for disciplinary action by the Contractors State License Board."
+   ]
+  },
+  {
+   "action": "SEC. 3. Chapter 16 (commencing with Section 66360) is added to Division 1 of Title 7 of the Government Code, to read:",
+   "paras": [
+    "§66360. For purposes of this chapter, all the following definitions apply:",
+    "(a) “Licensed contractor” means a contractor, as defined in Section 7026 of the Business and Professions Code, licensed pursuant to Chapter 9 (commencing with Section 7000) of Division 3 of the Business and Professions Code, holding a valid and active license in good standing in the appropriate classification for the work performed.",
+    "(b) “Like-for-like equipment installation” means the installation or replacement of commercial food service equipment that is substantially similar in size, function, and utility demand to existing approved equipment and does not do any of the following:",
+    "(1) Change the use or occupancy classification of the building.",
+    "(2) Alter structural or load-bearing elements.",
+    "(3) Modify fire or life safety systems, except for direct connection to existing approved systems.",
+    "(4) Increase approved utility capacity.",
+    "(5) Require discretionary review.",
+    "(c) “Qualified licensed contractor certifier” means a licensed contractor who satisfies all the following:",
+    "(1) Does not contract for or perform initial installation of like-for-like equipment they are certifying.",
+    "(2) Is unaffiliated with the contractor performing the like-for-like equipment installation.",
+    "(3) Holds a valid license in good standing in the appropriate classification for the work performed.",
+    "(4) Has not less than five years of experience performing commercial food service equipment installation or commercial restaurant construction experience.",
+    "(5) Maintains commercial general liability insurance in an amount not less than two million dollars ($2,000,000) per occurrence.",
+    "(6) Is not subject to any current suspension, probation, or enforcement action by the Contractors State License Board.",
+    "(d) “Restaurant” means a retail food establishment that prepares, serves, and vends food directly to the consumer.",
+    "§66360.1. (a) (1) Upon request of an applicant for a permit for a like-for-like equipment installation relating to a restaurant, a local building department shall allow a qualified licensed contractor certifier to submit a certification of compliance with applicable codes.",
+    "(2) A certification submitted pursuant to this chapter shall satisfy the inspection requirement for the qualifying installation.",
+    "(3) Certification pursuant to this chapter shall be at the applicant’s expense and shall not exempt the project from permit requirements.",
+    "(b) A qualified licensed contractor certifier shall submit an affidavit, under penalty of perjury, attesting to both of the following:",
+    "(1) The equipment installation complies with all applicable building, electrical, mechanical, plumbing, fire, and health and safety codes in effect at the time of installation.",
+    "(2) The work performed is limited to a like-for-like equipment installation.",
+    "(c) (1) The local building department shall approve or deny a complete permit application within 10 business days of receipt.",
+    "(2) If the local building department does not approve or deny the application within the timeframe specified in paragraph (1), the permit shall be deemed approved for permitting purposes, provided all required fees have been paid.",
+    "§66360.2. (a) A qualified licensed contractor certifier shall be liable for damages arising from negligent or false certification under this chapter.",
+    "(b) The applicant shall indemnify the local agency from property damage or personal injury arising from construction performed pursuant to this chapter.",
+    "(c) A false statement made in a certification submitted pursuant to this chapter shall constitute grounds for disciplinary action by the Contractors State License Board, pursuant to Section 7710.2 of the Business and Professions Code, and may constitute grounds for a conviction of perjury.",
+    "§66360.3. A city, county, or city and county shall adopt reasonable administrative requirements to implement this chapter."
+   ]
+  },
+  {
+   "action": "SEC. 4. Section 18941.18 is added to the Health and Safety Code, to read:",
+   "paras": [
+    "§18941.18. (a) For the purposes of this section, “alcohol” has the same meaning as defined in Section 23003 of the Business and Professions Code.",
+    "(b) As a part of the next triennial update of the California Building Standards Code (Title 24 of the California Code of Regulations) that occurs on or after January 1, 2027, the commission shall adopt building standards that do all the following:",
+    "(1) Authorizes a business establishment that is takeout only to operate without providing customer restrooms.",
+    "(2) Authorizes a business establishment, regardless of whether the business establishment sells alcohol, with a maximum occupancy of 49 persons to provide restrooms without urinals.",
+    "(3) Authorizes a business establishment to install up to 1,000 square feet of patio seating without providing additional restrooms.",
+    "(4) Authorizes a business establishment that serves alcohol to satisfy a requirement to provide restrooms by exclusively providing restrooms for use by all genders.",
+    "(5) Authorizes a business establishment with a maximum occupancy of 100 occupants to operate without drinking fountains.",
+    "(6) Authorizes a business establishment to operate cooking equipment without installing a Type 1 hood, as described in Section 508.0 of the California Mechanical Code (Part 4 of Title 24 of the California Code of Regulations) over the cooking equipment, provided that the cooking equipment is operated for the purpose of baking and the equipment does not produce cooking odors, smoke, grease, or vapor.",
+    "(7) Authorizes a business establishment to operate an under-the-counter dishwasher without installing a mechanical exhaust system over the dishwasher."
+   ]
+  },
+  {
+   "action": "SEC. 5. Section 113818 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§113818. (a) “Limited food preparation” means food preparation that is restricted to one or more of the following:",
+    "(1) Heating, frying, baking, roasting, popping, shaving of ice, blending, steaming or boiling of hot dogs, or assembly of nonprepackaged food.",
+    "(2) Dispensing and portioning of nonpotentially hazardous food or dispensing and portioning for immediate service to a customer of food that has been temperature controlled until immediately prior to portioning or dispensing.",
+    "(3) Holding, portioning, and dispensing of any foods that are prepared for satellite food service by the onsite permanent food facility or prepackaged by another approved source.",
+    "(4) Holding, portioning, and dispensing of any foods that are prepared by a catering operation.",
+    "(5) Slicing and chopping of nonpotentially hazardous food or produce that has been washed at an approved facility or slicing and chopping of food on a heated cooking surface during the cooking process.",
+    "(6) Cooking and seasoning to order.",
+    "(7) Juicing or preparing beverages that are for immediate service, in response to an individual consumer order, that do not contain frozen milk products.",
+    "(8) Hot and cold holding of food that has been prepared at an approved permanent food facility.",
+    "(9) Reheating of food that has been previously prepared at an approved permanent food facility and held at temperatures required by this chapter.",
+    "(b) “Limited food preparation” does not include any of the following:",
+    "(1) Slicing and chopping potentially hazardous food, other than produce, unless it is on the heated cooking surface.",
+    "(2) Thawing.",
+    "(3) Cooling of cooked, potentially hazardous food.",
+    "(4) Grinding raw ingredients or potentially hazardous food.",
+    "(5) Washing of foods.",
+    "(6) Cooking of potentially hazardous foods for later use.",
+    "(7) Manufacturing, freezing, processing, or packaging of milk, milk products, or products resembling milk products subject to licensing under Division 15 (commencing with Section 32501) of the Food and Agricultural Code."
+   ]
+  },
+  {
+   "action": "SEC. 6. Section 113838 is added to the Health and Safety Code, to read:",
+   "paras": [
+    "§113838. (a) “Noncontinuous cooking,” also known as “par-cooking,” means the cooking of food in a food facility using a process in which the initial heating of the food is intentionally halted so that it may be cooled and held for complete cooking at a later time prior to sale or service.",
+    "(b) “Noncontinuous cooking” does not include cooking procedures that only involve temporarily interrupting or slowing an otherwise continuous cooking process."
+   ]
+  },
+  {
+   "action": "SEC. 7. Section 113941 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§113941. “Warm water” means water that is supplied through a mixing valve or combination faucet at a temperature of at least 85ºF but not greater than 108ºF."
+   ]
+  },
+  {
+   "action": "SEC. 8. Section 113953 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§113953. (a) Handwashing facilities shall be provided within or adjacent to toilet rooms. The number of handwashing facilities required shall be in accordance with local building and plumbing codes.",
+    "(b) (1) Except as otherwise provided in Section 114358, food facilities constructed or extensively remodeled after January 1, 1996, that handle nonprepackaged food, shall provide facilities exclusively for handwashing in food preparation areas and in warewashing areas that are not located within or immediately adjacent to food preparation areas. Handwashing facilities shall be sufficient in number and conveniently located so as to be accessible at all times for use by food employees.",
+    "(2) The handwashing facility shall be separated from the warewashing sink by a metal splashguard with a height of at least six inches, that extends from the back edge of the drainboard to the front edge of the drainboard, the corners of the barrier to be rounded. No splashguard is required if the distance between the handwashing sink and the warewashing sink drainboards is 24 inches or more.",
+    "(c) (1) Handwashing facilities shall be equipped to provide warm water under pressure for a minimum of 15 seconds through a mixing valve or combination faucet.",
+    "(2) A steam mixing valve shall not be used at a handwashing sink.",
+    "(3) A self-closing, slow-closing, or metering faucet shall provide a flow of water for at least 15 seconds without the need to reactivate the faucet.",
+    "(d) An automatic handwashing facility may be installed and used in accordance with the manufacturer’s instructions.",
+    "(e) Notwithstanding subdivision (b), the enforcement agency may allow handwashing facilities other than those required by this section when it deems that the alternate facilities are adequate."
+   ]
+  },
+  {
+   "action": "SEC. 9. Section 114009 is added to the Health and Safety Code, to read:",
+   "paras": [
+    "§114009. Raw animal foods that are cooked using a noncontinuous cooking process shall be all of the following:",
+    "(a) Subject to an initial heating process that is no longer than 60 minutes in duration.",
+    "(b) Immediately after initial heating, cooled according to the time and temperature parameters specified under Section 114002 for cooked potentially hazardous foods.",
+    "(c) After cooling, held frozen or cold, as specified for potentially hazardous foods under subdivision (d) of Section 113996.",
+    "(d) Prior to sale or service, cooked using a process that heats all parts of the food to a temperature and for a time as specified under Section 114004.",
+    "(e) Cooled according to the time and temperature parameters specified for cooked potentially hazardous foods under Section 114002 if not either hot held, as specified under subdivision (a) of Section 113996, served immediately, or held using time as a public health control, as specified under Section 114000, after complete cooking.",
+    "(f) Prepared and stored according to written procedures that meet all of the following conditions:",
+    "(1) Are maintained in the food facility and are available to the enforcement agency upon request.",
+    "(2) Describe how the requirements specified under subdivisions (a) to (e), inclusive, are to be monitored and documented by the permitholder and the corrective actions to be taken if the requirements are not met.",
+    "(3) Describe how the foods, after initial heating, but prior to complete cooking, are to be marked or otherwise identified as foods that are required to be cooked as specified under subdivision (d) prior to being offered for sale or service.",
+    "(4) Describe how the foods, after initial heating but prior to cooking as specified under subdivision (d), are to be separated from ready-to-eat foods."
+   ]
+  },
+  {
+   "action": "SEC. 10. Section 114157 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§114157. (a) A temperature measuring device shall be provided for each refrigeration unit.",
+    "(b) The temperature measuring device shall be located to indicate the air temperature in the warmest part of the unit and, except for vending machines, the temperature reading shall be readily visible.",
+    "(c) Except as specified in subdivision (d), cold or hot holding equipment used for potentially hazardous food shall be designed to include and shall be equipped with at least one integral or permanently affixed temperature measuring device that is located to allow easy viewing of the device’s temperature display. Alternative hot or cold holding equipment can be equipped with approved product mimicking sensors placed in devices located in the warmest part of the mechanically refrigerated unit in lieu of an ambient air sensor.",
+    "(d) Subdivision (c) shall not apply to equipment for which the placement of a temperature measuring device is not a practical means for measuring the ambient air surrounding the food because of the design, type, and use of the equipment, such as calrod units, heat lamps, cold plates, bain-maries, steam tables, insulated food transport containers, and salad bars.",
+    "(e) Temperature measuring devices shall be easily readable and have a numerical scale, printed record, or digital readout in increments no greater than 2°F or over the intended range of use."
+   ]
+  },
+  {
+   "action": "SEC. 11. Section 114201 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§114201. (a) If provided, a grease trap or grease interceptor shall not be located in a food preparation or utensil handling area unless specifically approved by the enforcement agency.",
+    "(b) Grease traps and grease interceptors shall be easily accessible for servicing.",
+    "(c) Notwithstanding subdivision (a), this section shall not apply to either of the following:",
+    "(1) An aboveground grease trap installed under a three-compartment sink under the following conditions:",
+    "(A) A structural hardship can be determined preventing the grease trap from being installed in an area not designated for food preparation or storage or a utensil handling area.",
+    "(B) The site can provide a cleaning or maintenance plan that indicates how and when this grease trap will be accessed for service to prevent any cross contamination of food or food contact surfaces.",
+    "(C) The site can provide procedures that will be taken to properly clean and sanitize the area following servicing.",
+    "(2) Any food facility approved with a grease trap or grease interceptor that is in operation before the effective date of this part."
+   ]
+  },
+  {
+   "action": "SEC. 12. Section 114259.2 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§114259.2. (a) Passthrough window service openings that are limited to no more than 216 square inches shall not be closer together than 18 inches and shall be provided with a solid or screened window that is closed when not in use. Screening shall be at least 16 mesh per square inch. The counter surface of the service openings shall be smooth and easily cleanable.",
+    "(b) A passthrough window service opening of up to 432 square inches is approved if equipped with an air curtain device or equipped with a self-closing device. The counter surface of the service opening shall be smooth and easily cleanable.",
+    "(c) At a drive-through, a passthrough window service opening that is larger than 432 square inches is approved if equipped with both a self-closing device and an air curtain device. The counter surface of the service opening shall be smooth and easily cleanable."
+   ]
+  },
+  {
+   "action": "SEC. 13. Section 114271 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§114271. (a) Except as provided in subdivision (b), the walls and ceilings of all rooms shall be of a durable, smooth, nonabsorbent, and easily cleanable surface.",
+    "(b) This section shall not apply to any of the following areas:",
+    "(1) Walls and ceilings of bar areas in which beverages are sold, served, or dispensed directly to the consumers, except wall areas adjacent to bar sinks and areas where foods, including beverages, are prepared.",
+    "(2) Areas where food is stored only in unopened bottles, cans, cartons, sacks, or other original shipping containers.",
+    "(3) Dining and sales areas.",
+    "(4) Offices.",
+    "(5) Restrooms that are used exclusively by the employees or consumers, except that the walls and ceilings in the restrooms shall be of a nonabsorbent and washable surface.",
+    "(6) Dressing rooms, dressing areas, or locker areas.",
+    "(c) Acoustical paneling may be utilized if it is installed not less than six feet above the floor. The paneling shall meet the other requirements of this section.",
+    "(d) Conduits of all types shall be installed within walls as practicable. When otherwise installed, they shall be mounted or enclosed so as to facilitate cleaning.",
+    "(e) Attachments to walls and ceilings, such as light fixtures, mechanical room ventilation system components, vent covers, wall mounted fans, decorative items, and other attachments, shall be easily cleanable."
+   ]
+  },
+  {
+   "action": "SEC. 14. Section 114349 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§114349. (a) Temporary food facilities shall be equipped with overhead protection for all food preparation, food storage, and warewashing areas. Overhead protection shall be made of wood, canvas, or other materials that protect the facility from precipitation, dust, bird and insect droppings, and other contaminants.",
+    "(b) Temporary food facilities that handle nonprepackaged food shall also protect food from contamination in one of the following ways:",
+    "(1) Enclosure of the food facility with 16 mesh per square inch screens.",
+    "(2) Limiting display and handling of nonprepackaged food in food compartments.",
+    "(3) Other alternative, effective means approved by the enforcement officer.",
+    "(c) Notwithstanding Section 113984, this section does not apply to temporary food facilities that are approved for limited food preparation if flying insects, vermin, birds, other pests, and environmental factors, including, but not limited to, precipitation and wind that could contaminate the food, are absent due to the location of the facility or other limiting conditions."
+   ]
+  },
+  {
+   "action": "SEC. 15. The Legislature finds and declares that establishing a narrowly tailored, statewide framework for low-risk, like-for-like restaurant equipment installations, which furthers uniform standards for restaurant permitting, contractor licensing, and public safety responsibilities that are already governed by state law, is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, Section 1 of this act adding Chapter 16 (commencing with Section 66360) to Division 1 of Title 7 of the Government Code applies to all cities, including charter cities.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 16. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act or because costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIIIB of the California Constitution. However, if the Commission on State Mandates determines that this act contains other costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": null,
+ "digest": [
+  "(1) Existing law authorizes the legislative body of any county or city to adopt ordinances that regulate the use of buildings, structures, and land as between industry, business, residences, and open space, including agriculture, recreation, enjoyment of scenic beauty, use of natural resources, and other purposes. Existing law establishes a streamlined approval process for a local permit for a tenant improvement relating to a restaurant, as those terms are defined.",
+  "This bill would establish a streamlined approval process for a local permit for a like-for-like equipment installation relating to a restaurant, as those terms are defined. In this regard, the bill would require a local building department, upon the request and at the expense of the permit applicant, to allow a qualified licensed contractor certifier, defined as a licensed contractor that meets certain requirements, to submit a certification of the installation’s compliance with applicable codes. The bill would require a qualified licensed contractor certifier to prepare certain affidavits related to the equipment installation under penalty of perjury. The bill would require the local building department to approve or deny the permit application within 10 business days of receipt and would deem the plan approved for permitting purposes if the local building department does not approve or deny the application within that timeframe, provided that all required fees have been paid. The bill would make qualified licensed contractor certifiers liable for damages arising from negligent or false certification. The bill would also require the applicant to indemnify the local agency from any property damage or personal injury arising from construction performed under the above-described provisions.",
+  "(2) Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA does not apply to the approval of ministerial projects.",
+  "To the extent that the streamlined, ministerial review processes established by the bill would apply to final, discretionary approval of a like-for-like equipment installation, the bill would exempt those projects from CEQA.",
+  "(3) Existing law, the Contractors State License Law, provides for the licensure and regulation of contractors by the Contractors State License Board. Under existing law, willful or deliberate disregard by a licensed contractor of various state building, labor, and safety laws constitutes a cause for disciplinary action by the board. Existing law provides for related disciplinary proceedings and requires the board to promulgate regulations covering the assessment of civil penalties under those disciplinary provisions, as prescribed. Existing law, beginning on July 1, 2026, requires a civil penalty to be assessed of not less than $1,500 and not to exceed $30,000 for certain violations of the Contractors State License Law, as provided.",
+  "This bill would make a false statement made in a certification submitted pursuant to the above-described provisions grounds for disciplinary action by the Contractors State License Board and grounds for a conviction of perjury. The bill would also require that false statement to be assessed as a civil penalty in accordance with the amounts described above.",
+  "(4) Existing law, the California Building Standards Law, establishes the California Building Standards Commission within the Department of General Services. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code. Existing law authorizes local governments to enact ordinances or regulations that make building standards amendments to the California Building Standards Code, as specified.",
+  "This bill would require the commission, as a part of the next triennial update of the California Building Standards Code that occurs on or after January 1, 2027, to adopt building standards authorizing a business establishment to take various actions, including authorizing a business establishment that is takeout only to operate without providing customer restrooms.",
+  "(5) Existing law, the California Retail Food Code, establishes uniform health and sanitation standards for retail food facilities. Under existing law, local health agencies are primarily responsible for enforcing these standards. A person who violates any provision of the California Retail Food Code is guilty of a misdemeanor, except as otherwise provided.",
+  "This bill would make various changes to the standards for handwashing facilities, refrigeration units, grease traps, and passthrough window service openings. The bill would require raw animal foods that are cooked using noncontinuous cooking, as defined, to be subject to an initial heating process that is no longer than 60 minutes and cooled in a specified manner, among other things. The bill would revise the definition of “limited food preparation” to no longer include the handling of milk or milk products. The bill would change the temperature range for the definition of “warm water” from at least 100ºF to at least 85ºF but not greater than 108ºF.",
+  "(6) Existing law requires a food facility’s walls and ceilings to be durable, smooth, nonabsorbent, and easily cleanable. Existing law exempts from this requirement walls and ceilings of bar areas in which alcoholic beverages are sold or served directly to the consumers, except wall areas adjacent to bar sinks and areas where food is prepared, among other things. Existing law also exempts from this requirement restrooms that are used exclusively by the consumers, except that the walls and ceilings in the restrooms shall be of a nonabsorbent and washable surface.",
+  "This bill would instead exempt walls and ceilings of bar areas in which any beverage is sold, served, or dispensed directly to the consumers. The bill would also exempt restrooms that are used exclusively by employees.",
+  "(7) Existing law requires temporary food facilities to be equipped with overhead protection for all food preparation, food storage, and warewashing areas. Existing law requires overhead protection to be made of wood, canvas, or other materials that protect the facility from precipitation, dust, bird and insect droppings, and other contaminants. Existing law exempts from these requirements a temporary food facility that is approved for limited food preparation if flying insects, vermin, birds, and other pests are absent due to the location of the facility or other limiting conditions.",
+  "This bill would additionally exempt a temporary food facility that is approved for limited food preparation from these requirements if environmental factors that could contaminate the food are absent due to the location of the facility or other limiting conditions.",
+  "(8) By revising the standards that are required to be enforced by local health agencies, by increasing the duties of local building officials, and by expanding the scope of existing crimes, the bill would impose a state-mandated local program.",
+  "(9) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(10) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "f3f9d6ab4f635f22",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "chamber": "A",
+   "date": "2026-02-12"
+  },
+  {
+   "action": "From printer. May be heard in committee March 15.",
+   "chamber": "A",
+   "date": "2026-02-13"
+  },
+  {
+   "action": "Referred to Coms. on HEALTH and B. & P.",
+   "chamber": "A",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HEALTH. Read second time and amended.",
+   "chamber": "A",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "Re-referred to Com. on HEALTH.",
+   "chamber": "A",
+   "date": "2026-03-24"
+  },
+  {
+   "action": "Coauthors revised.",
+   "chamber": "A",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on B. & P. (Ayes 16. Noes 0.) (April 14). Re-referred to Com. on B. & P.",
+   "chamber": "A",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 18. Noes 0.) (April 21). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2026-04-21"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "chamber": "A",
+   "date": "2026-05-13"
+  },
+  {
+   "action": "Joint Rule 62(a), file notice suspended. (Page 5030.)",
+   "chamber": "A",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Coauthors revised.",
+   "chamber": "A",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "chamber": "A",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 79. Noes 0. Page 5475.)",
+   "chamber": "A",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "chamber": "S",
+   "date": "2026-05-28"
+  },
+  {
+   "action": "Referred to Coms. on HEALTH, HOUSING and B. P. & E.D.",
+   "chamber": "S",
+   "date": "2026-06-10"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 11. Noes 0.) (June 17). Re-referred to Com. on HOUSING.",
+   "chamber": "S",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on B. P. & E.D. (Ayes 10. Noes 0.) (June 24). Re-referred to Com. on B. P. & E.D.",
+   "chamber": "S",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. P. & E.D.",
+   "chamber": "S",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (June 29).",
+   "chamber": "S",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "chamber": "S",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "In committee: Held under submission.",
+   "chamber": "S",
+   "date": "2026-08-13"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-07-01",
+  "id": "20250AB191596AMD",
+  "num": "96"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Chapter 16 (commencing with Section 66360) is added to Division 1 of Title 7 of the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this chapter, all the following definitions apply:",
+    "(a) “Licensed contractor” means a contractor, as defined in Section 7026 of the Business and Professions Code, licensed pursuant to Chapter 9 (commencing with Section 7000) of Division 3 of the Business and Professions Code, holding a valid and active license in good standing in the appropriate classification for the work performed.",
+    "(b) “Like-for-like equipment installation” means the installation or replacement of commercial food service equipment that is substantially similar in size, function, and utility demand to existing approved equipment and does not do any of the following:",
+    "(1) Change the use or occupancy classification of the building.",
+    "(2) Alter structural or load-bearing elements.",
+    "(3) Modify fire or life safety systems, except for direct connection to existing approved systems.",
+    "(4) Increase approved utility capacity.",
+    "(5) Require discretionary review.",
+    "(c) “Qualified licensed contractor certifier” means a licensed contractor who satisfies all the following:",
+    "(1) Does not contract for or perform initial installation of like-for-like equipment they are certifying.",
+    "(2) Is unaffiliated with the contractor performing the like-for-like equipment installation.",
+    "(3) Holds a valid license in good standing in the appropriate classification for the work performed.",
+    "(4) Has not less than five years of experience performing commercial food service equipment installation or commercial restaurant construction experience.",
+    "(5) Maintains commercial general liability insurance in an amount not less than two million dollars ($2,000,000) per occurrence.",
+    "(6) Is not subject to any current suspension, probation, or enforcement action by the Contractors State License Board.",
+    "(d) “Restaurant” means a retail food establishment that prepares, serves, and vends food directly to the consumer."
+   ],
+   "sec": "66360",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Accelerated restaurant equipment permitting approval: retail food safety.",
+ "title": "An act to amend Section 7099.2 of, and to add Section 7110.2 to, the Business and Professions Code, to add Chapter 16 (commencing with Section 66360) to Division 1 of Title 7 of the Government Code, and to amend Sections 113818, 113941, 113953, 114157, 114201, 114259.2, 114271, and 114349 of, and to add Sections 18941.18, 113838, and 114009 to, the Health and Safety Code, relating to restaurants.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-12",
+   "id": "20250AB191599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-03-23",
+   "id": "20250AB191598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-25",
+   "id": "20250AB191597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-07-01",
+   "id": "20250AB191596AMD",
+   "num": "96"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "A",
+   "date": "2026-04-14",
+   "location": "Asm Health",
+   "motion": "Do pass and be re-referred to the Committee on [Business and Professions]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 16
+  },
+  {
+   "chamber": "A",
+   "date": "2026-04-21",
+   "location": "Asm Business and Professions",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1",
+   "yes": 18
+  },
+  {
+   "chamber": "A",
+   "date": "2026-05-14",
+   "location": "Asm Appropriations",
+   "motion": "Do pass.",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 15
+  },
+  {
+   "chamber": "A",
+   "date": "2026-05-27",
+   "location": "Assembly Floor",
+   "motion": "AB 1915 Gabriel Assembly Third Reading",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1091",
+   "yes": 79
+  },
+  {
+   "chamber": "S",
+   "date": "2026-06-17",
+   "location": "Sen Health",
+   "motion": "Do pass, but first be re-referred to the Committee on [Housing]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "S",
+   "date": "2026-06-24",
+   "location": "Sen Housing",
+   "motion": "Do pass, but first be re-referred to the Committee on [Business, Professions and Economic Development]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "S",
+   "date": "2026-06-29",
+   "location": "Sen Business, Professions and Economic Development",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-03",
+   "location": "Sen Appropriations",
+   "motion": "Placed on suspense file",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  }
+ ]
+}

@@ -1,0 +1,363 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "AB920",
+ "bill_id": "202520260AB920",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 65940.3 is added to the Government Code, to read:",
+   "paras": [
+    "§65940.3. (a) (1) A city or county with a population of 150,000 or more persons shall, no later than January 1, 2028, make a centralized application portal available on its internet website to applicants for housing development projects.",
+    "(2) For purposes of paragraph (1), the population of a county shall be determined based on the population of persons in the unincorporated areas of the county.",
+    "(b) Notwithstanding subdivision (a), a city or county subject to this section may make a centralized application portal available on its internet website no later than January 1, 2030, if the legislative body of the city or county, on or before January 1, 2028, does both of the following:",
+    "(1) Makes a written finding that making a centralized application portal available on its internet website on or before January 1, 2028, would require a substantial increase in permitting fees.",
+    "(2) Initiates a procurement process to make a centralized application portal available on its internet website.",
+    "(c) The centralized application portal shall allow for tracking of the status of an application.",
+    "(d) A city or county shall not be required to provide the status of any permit or inspection required by another local agency, a state agency, or a utility provider.",
+    "(e) For purposes of this section, both of the following definitions apply:",
+    "(1) “Centralized application portal” means a website or software that a city or county uses to collect information and materials provided by an applicant that are necessary for the city or county to consider a housing development project.",
+    "(2) “Housing development project” has the same meaning as that term is defined in paragraph (3) of subdivision (b) of Section 65905.5."
+   ]
+  },
+  {
+   "action": "SEC. 2. The Legislature finds and declares that Section 1 of this act adding Section 65940.3 to the Government Code addresses a matter of statewide concern rather than a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, Section 1 of this act applies to all cities, including charter cities.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 3. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "501",
+  "year": "2025"
+ },
+ "digest": [
+  "The Permit Streamlining Act requires a public agency that is the lead agency for a development project to approve or disapprove that project within specified time periods. Existing law requires a city or county that has an internet website to, among other things, make a fee estimate tool that the public can use to calculate an estimate of fees and exactions for a proposed housing development project available on its internet website.",
+  "This bill would require a city or county with a population of 150,000 or more persons to make a centralized application portal available on its internet website to applicants for housing development projects, as prescribed. The bill would, notwithstanding that provision, authorize a city or county described above to make a centralized application portal available on its internet website no later than January 1, 2030, if the legislative body of the city or county, on or before January 1, 2028, takes certain action, including initiating a procurement process to make a centralized application portal available on its internet website.",
+  "The bill would require the centralized application portal to allow for tracking of the status of an application. The bill would specify that a city or county is not required to provide the status of any permit or inspection required by another local agency, a state agency, or a utility provider. The bill would define various terms for purposes of its provisions.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "38e2a9d596d64e88",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "chamber": "A",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "chamber": "A",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "chamber": "A",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on L. GOV. Read second time and amended.",
+   "chamber": "A",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "chamber": "A",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1163.)",
+   "chamber": "A",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "(Pending re-refer to Com. on H. & C. D.)",
+   "chamber": "A",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on H. & C.D. (Ayes 10. Noes 0.) (April 23).",
+   "chamber": "A",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Read second time and amended.",
+   "chamber": "A",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "chamber": "A",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Coauthors revised.",
+   "chamber": "A",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "chamber": "A",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 75. Noes 0. Page 1605.)",
+   "chamber": "A",
+   "date": "2025-05-19"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "chamber": "S",
+   "date": "2025-05-20"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and HOUSING.",
+   "chamber": "S",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (July 2). Re-referred to Com. on HOUSING.",
+   "chamber": "S",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HOUSING.",
+   "chamber": "S",
+   "date": "2025-07-07"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (July 15). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+   "chamber": "S",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "chamber": "S",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 2251.).",
+   "chamber": "S",
+   "date": "2025-08-25"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "chamber": "A",
+   "date": "2025-08-26"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 76. Noes 0. Page 2762.).",
+   "chamber": "A",
+   "date": "2025-08-28"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "chamber": "",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 501, Statutes of 2025.",
+   "chamber": "",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250AB92094CHP",
+  "num": "94"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 65940.3 is added to the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) (1) A city or county with a population of 150,000 or more persons shall, no later than January 1, 2028, make a centralized application portal available on its internet website to applicants for housing development projects.",
+    "(2) For purposes of paragraph (1), the population of a county shall be determined based on the population of persons in the unincorporated areas of the county.",
+    "(b) Notwithstanding subdivision (a), a city or county subject to this section may make a centralized application portal available on its internet website no later than January 1, 2030, if the legislative body of the city or county, on or before January 1, 2028, does both of the following:",
+    "(1) Makes a written finding that making a centralized application portal available on its internet website on or before January 1, 2028, would require a substantial increase in permitting fees.",
+    "(2) Initiates a procurement process to make a centralized application portal available on its internet website.",
+    "(c) The centralized application portal shall allow for tracking of the status of an application.",
+    "(d) A city or county shall not be required to provide the status of any permit or inspection required by another local agency, a state agency, or a utility provider.",
+    "(e) For purposes of this section, both of the following definitions apply:",
+    "(1) “Centralized application portal” means a website or software that a city or county uses to collect information and materials provided by an applicant that are necessary for the city or county to consider a housing development project.",
+    "(2) “Housing development project” has the same meaning as that term is defined in paragraph (3) of subdivision (b) of Section 65905.5."
+   ],
+   "sec": "65940.3",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Permit Streamlining Act: housing development projects: centralized application portal.",
+ "title": "An act to add Section 65940.3 to the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB92099INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB92098AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-24",
+   "id": "20250AB92097AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-07",
+   "id": "20250AB92096AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-02",
+   "id": "20250AB92095ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250AB92094CHP",
+   "num": "94"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "A",
+   "date": "2025-04-23",
+   "location": "Asm Local Government",
+   "motion": "Do pass as amended and be re-referred to the Committee on [Housing and Community Development]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "A",
+   "date": "2025-04-30",
+   "location": "Asm Housing and Community Development",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+   "no": 0,
+   "nv": 2,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "A",
+   "date": "2025-05-14",
+   "location": "Asm Appropriations",
+   "motion": "Do pass.",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 15
+  },
+  {
+   "chamber": "A",
+   "date": "2025-05-19",
+   "location": "Assembly Floor",
+   "motion": "AB 920 Caloza Assembly Third Reading",
+   "no": 0,
+   "nv": 4,
+   "result": "pass",
+   "seq": "1040",
+   "yes": 75
+  },
+  {
+   "chamber": "S",
+   "date": "2025-07-02",
+   "location": "Sen Local Government",
+   "motion": "Do pass, but first be re-referred to the Committee on [Housing] with the recommendation: To Consent Calendar",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2025-07-15",
+   "location": "Sen Housing",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "S",
+   "date": "2025-08-25",
+   "location": "Senate Floor",
+   "motion": "Consent Calendar 2nd AB920 Caloza et al.",
+   "no": 0,
+   "nv": 3,
+   "result": "pass",
+   "seq": "2413",
+   "yes": 37
+  },
+  {
+   "chamber": "A",
+   "date": "2025-08-28",
+   "location": "Assembly Floor",
+   "motion": "AB 920 Caloza Concurrence in Senate Amendments",
+   "no": 0,
+   "nv": 3,
+   "result": "pass",
+   "seq": "1005",
+   "yes": 76
+  }
+ ]
+}

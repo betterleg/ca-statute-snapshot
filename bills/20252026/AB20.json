@@ -1,0 +1,294 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "DeMaio",
+   "party": "R",
+   "primary": true,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "AB20",
+ "bill_id": "202520260AB20",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. This act shall be known, and may be cited, as the People First Housing Act of 2025.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Section 1954.09 of the Civil Code is amended to read:",
+   "paras": [
+    "§1954.09. (a) Notwithstanding paragraph (1) of subdivision (b) of Section 1954.091, shelter program participants shall not have their continued occupancy in a motel, hotel, or shelter program constitute a new tenancy and shall not be considered persons who hire pursuant to Section 1940 for the purposes of Section 1161 of the Code of Civil Procedure, if the shelter program meets all of the following requirements:",
+    "(1) The shelter program establishes, adopts, and clearly documents rules governing how and for what reasons a shelter program participant’s enrollment may be terminated and the shelter program operator discloses the termination policy to program participants in writing, in plain language, at the commencement of their occupancy.",
+    "(A) Permissible reasons for termination shall include sexual assault, verbally or physically threatening behaviors, which rise to the level of a “direct threat” to persons or property, as defined in paragraph (3) of subdivision (b) of Section 12179 of Title 2 of the Code of California Regulations, physical violence to staff, hotel guests, or other program participants, direct observation of participant engaging in illegal activity onsite, or time limits established by the shelter program.",
+    "(B) Terminations for reasons not stated in subparagraph (A) and any operational policies negotiated prior to the commencement of the shelter program shall be approved by the shelter program administrator and shared with their shelter program participants in a clearly labeled document.",
+    "(C) The shelter program administrator shall endeavor to ensure terminations are performed by the shelter program operator in a trauma-informed manner utilizing a harm-reduction approach, and shall ensure that the termination policies and procedures of the hotel, motel, and shelter program, including the required grievance procedure, comply with all applicable disability laws, including requirements for reasonable accommodation.",
+    "(D) The shelter program operator is exempt from providing a 30-day notice pursuant to subparagraph (A) of paragraph (3) if the shelter program participant has self-exited from the program.",
+    "(E) If a shelter program participant will exit from the program due to time limits and the participant’s stay is extended for a period of less than 30 days beyond the original termination date, the shelter program administrator or shelter program operator may issue an amended termination notice with an additional period of time equal to the number of days of the program extension.",
+    "(2) The shelter program administrator establishes procedures regarding how a shelter program participant will be provided a written termination notice if a termination occurs and the shelter program operator discloses those procedures to shelter program participants in writing at the commencement of their occupancy.",
+    "(A) The shelter program operator shall provide the termination notice to the participant at least 30 days prior to the proposed termination or, if the underlying cause for a proposed termination constitutes a “direct threat,” as defined in paragraph (3) of subdivision (b) of Section 12179 of Title 2 of the Code of California Regulations, the shelter program operator may remove the participant from the premises immediately, provided that the operator advises the participant of their right to utilize the grievance process described in paragraph (5).",
+    "(B) The termination notice shall contain a clear, plain-language statement of the reason for the termination, shall notify the participant of their right to request a reasonable accommodation if they are a qualified person with a disability, and shall notify the participant of their right to utilize the grievance process described in paragraph (5).",
+    "(C) The established procedures developed regarding participant guideline violations shall include an escalation continuum that incorporates documented warnings and documented shelter program operator staff and participant problem solving methods prior to instituting terminations from the shelter program.",
+    "(3) The shelter program operator shall provide an exit plan upon termination of a shelter program participant that includes referrals to any available local shelter service for which the participant is eligible and the shelter program operator shall make a good faith, reasonable effort to facilitate an intake for that participant in an available bed or unit.",
+    "(A) The shelter program operator shall document good faith, reasonable efforts and shall make that documentation available upon request.",
+    "(B) The shelter program administrator, in cases where the grievance process is utilized, shall determine whether the shelter program operator’s efforts constitute a good faith effort to facilitate a participant into an alternative available shelter site or program.",
+    "(C) (i) The shelter program administrator shall make good faith efforts to provide reasonable transportation accommodations upon termination of a shelter program participant from a program or upon transfer of a shelter program participant to an alternative available bed or unit.",
+    "(ii) In exigent circumstances that necessitate the presence of first responders, police, or fire department and render it infeasible to provide a termination letter at that time or coordinate a postexit plan, the shelter program operator shall create a termination letter that satisfies the above-described requirements and make that documentation available to participants within 24 hours of their request.",
+    "(4) The shelter program administrator shall establish a grievance process that complies with due process and the shelter program operator shall disclose the grievance process to occupants in writing, in plain language, at the commencement of their occupancy.",
+    "(A) The grievance process shall give shelter program participants a right to due process appeal through the shelter program administrator if the shelter program participant believes they were or are being wrongfully terminated from the program, and shall inform shelter program participants on how to access and initiate the grievance process.",
+    "(B) (i) Program participants shall be provided the opportunity to initiate the grievance process 30 days prior to their proposed termination date or at any point thereafter.",
+    "(ii) In cases where participants are subject to immediate removal based on circumstances that present a “direct threat,” as defined in paragraph (3) of subdivision (b) of Section 12179 of Title 2 of the Code of California Regulations, participants shall be provided the opportunity to initiate the grievance process at the time of removal or at any point thereafter.",
+    "(C) If, following the grievance process, the proposed termination is not carried out, any participant already removed shall be granted the right to resume their participation in the program. If the shelter program operator is unable to place the individual in the original site, the shelter program operator shall facilitate a placement for the individual in an alternative available motel, hotel, or shelter site.",
+    "(b) Where a shelter program administrator is also the shelter program operator, the shelter program administrator is responsible for all of the duties described in subdivision (a).",
+    "(c) For properties that are being converted from use as a motel or hotel, or from use as a shelter, interim housing, emergency shelter, or other interim facility to a permanent housing site, paragraph (2) shall not apply to occupants of the site from the date that the site receives a certificate of occupancy as a permanent housing site."
+   ]
+  },
+  {
+   "action": "SEC. 3. Section 65660 of the Government Code is amended to read:",
+   "paras": [
+    "§65660. For purposes of this article:",
+    "(a) “Low Barrier Navigation Center” means a low-barrier, service-enriched shelter focused on moving people into permanent housing that provides temporary living facilities while case managers connect individuals experiencing homelessness to income, public benefits, health services, shelter, and housing. A Low Barrier Navigation Center may be non-congregate and relocatable. “Low Barrier” means best practices to reduce barriers to entry, and may include, but is not limited to, the following:",
+    "(1) The presence of partners if it is not a population-specific site, such as for survivors of domestic violence or sexual assault, women, or youth.",
+    "(2) Pets.",
+    "(3) The storage of possessions.",
+    "(4) Privacy, such as partitions around beds in a dormitory setting or in larger rooms containing more than two beds, or private rooms.",
+    "(b) “Use by right” has the meaning defined in subdivision (i) of Section 65583.2. Division 13 (commencing with Section 21000) of the Public Resources Code shall not apply to actions taken by a public agency to lease, convey, or encumber land owned by a public agency, or to facilitate the lease, conveyance, or encumbrance of land owned by a public agency, or to provide financial assistance to, or otherwise approve, a Low Barrier Navigation Center constructed or allowed by this section."
+   ]
+  },
+  {
+   "action": "SEC. 4. Chapter 22.5 (commencing with Section 26280) is added to Division 20 of the Health and Safety Code, to read:",
+   "paras": [
+    "§26280. For purposes of this chapter, the following definitions apply:",
+    "(a) “Camp” means set up or remain any place where bedding, a sleeping bag, or other material is used for bedding purposes, or any stove or fire is placed for the purpose of maintaining a temporary place to live.",
+    "(b) “Encampment” means a collection of items used for temporary habitation outdoors, including, but not limited to, a tent or structure with a roof or upper covering, or that is enclosed by sides that is of sufficient size for a person to fit underneath or inside while sitting or lying down.",
+    "(c) “Open space” means any parcel or area of land or water which is substantially unimproved and devoted to an open-space use, as defined in Section 65560 of the Government Code.",
+    "(d) “Sensitive community area” includes, but is not limited to, a school, open space, or transit stop.",
+    "§26281. A homeless encampment shall not operate within 500 feet of a sensitive community area, including, but not limited to, a school, open space, or transit stop.",
+    "§26282. A person shall not camp in any public space, including a sidewalk, if a homeless shelter bed is available in the city where the public space is located."
+   ]
+  },
+  {
+   "action": "SEC. 5. Section 50216 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§50216. For purposes of this chapter:",
+    "(a) “Agency” means the Business, Consumer Services and Housing Agency.",
+    "(b) “Applicant” means a continuum of care, city, county, or tribe.",
+    "(c) “City” means a city or city and county that is legally incorporated to provide local government services to its population. A city can be organized either under the general laws of this state or under a charter adopted by the local voters.",
+    "(d) “Continuum of care” means the same as defined by the United States Department of Housing and Urban Development at Section 578.3 of Title 24 of the Code of Federal Regulations.",
+    "(e) “Coordinated Entry System” means a centralized or coordinated process developed pursuant to Section 578.7 of Title 24 of the Code of Federal Regulations, as that section read on January 10, 2019, designed to coordinate homelessness program participant intake, assessment, and provision of referrals. In order to satisfy this subdivision, a centralized or coordinated assessment system shall cover the geographic area, be easily accessed by individuals and families seeking housing or services, be well advertised, and include a comprehensive and standardized assessment tool.",
+    "(f) “Council” means the associated staff within the Interagency Council on Homelessness, formerly known as the Homeless Coordinating and Financing Council, created pursuant to Section 8257 of the Welfare and Institutions Code.",
+    "(g) “Department” means the Department of Housing and Community Development.",
+    "(h) “Emergency shelter” has the same meaning as defined in subdivision (e) of Section 50801.",
+    "(i) “Homeless” has the same meaning as defined in Section 578.3 of Title 24 of the Code of Federal Regulations, as that section read on January 10, 2019.",
+    "(j) “Homeless Management Information System” means the information system designated by a continuum of care to comply with federal reporting requirements as defined in Section 578.3 of Title 24 of the Code of Federal Regulations. The term “Homeless Management Information System” also includes the use of a comparable database by a victim services provider or legal services provider that is permitted by the federal government under Part 576 of Title 24 of the Code of Federal Regulations.",
+    "(k) (1) “Homeless point-in-time count” means the 2019 homeless point-in-time count pursuant to Section 578.3 of Title 24 of the Code of Federal Regulations. A jurisdiction may elect to instead use their 2017 point-in-time count if they can demonstrate that a significant methodology change occurred between the 2017 and 2019 point-in-time counts that was based on an attempt to more closely align the count with HUD best practices and undertaken in consultation with HUD representatives. A jurisdiction shall submit documentation of this to the agency by the date by which HUD’s certification of the 2019 homeless point-in-time count is finalized. The agency shall review and approve or deny a request described in the previous sentence along with a jurisdiction’s application for homeless funding.",
+    "(2) For purposes of round 4 of the program described in Section 50218.7, “homeless point-in-time count” means the most recent point-in-time count that requires a sheltered and unsheltered count pursuant to Section 578.3 of Title 24 of the Code of Federal Regulations completed by all applicants.",
+    "(l) “Homeless youth” means an unaccompanied youth between 12 and 24 years of age, inclusive, who is experiencing homelessness, as defined in subsection (2) of Section 725 of the federal McKinney-Vento Homeless Assistance Act (42 U.S.C. Sec. 11434a(2)). “Homeless youth” includes unaccompanied youth who are pregnant or parenting.",
+    "(m) “Jurisdiction” means a city, city that is also a county, county, continuum of care, or tribe, as defined in this section.",
+    "(n) “Navigation center” means a low-barrier, service-enriched shelter focused on moving homeless individuals and families into permanent housing that provides temporary living facilities while case managers connect individuals experiencing homelessness to income, public benefits, health services, shelter, and housing.",
+    "(o) “Program” means the Homeless Housing, Assistance, and Prevention program established pursuant to this chapter.",
+    "(1) “Round 1” of the program means the funding allocated under the program with moneys appropriated during the fiscal year beginning on July 1, 2019.",
+    "(2) “Round 2” of the program means the funding allocated under the program with moneys appropriated during the fiscal year beginning on July 1, 2020.",
+    "(3) “Round 3” of the program means the funding allocated under the program with moneys appropriated during the fiscal year beginning on July 1, 2021.",
+    "(4) “Round 4” of the program means the funding allocated under the program with moneys appropriated during the fiscal year beginning on July 1, 2022.",
+    "(p) “Program allocation” means the portion of program funds available to expand or develop local capacity to address immediate homelessness challenges.",
+    "(q) “Recipient” means a jurisdiction that receives funds from the council for the purposes of the program.",
+    "(r) “Tribe” or “tribal applicant” means a federally recognized tribal government pursuant to Section 4103 of Title 25 of the United States Code."
+   ]
+  },
+  {
+   "action": "SEC. 6. Section 5960.31 of the Welfare and Institutions Code is amended to read:",
+   "paras": [
+    "§5960.31. (a) Notwithstanding any other law, projects funded pursuant to paragraph (3) or (4) of subdivision (b) of Section 5965.04 shall be a use by right and shall be subject to the streamlined, ministerial review process and filing requirement, pursuant to subdivisions (b) and (d) of Section 50675.1.5 of the Health and Safety Code, and not subject to a conditional use permit, discretionary permit, or to any other discretionary reviews or approvals, if it meets the criteria of paragraph (1) or (2) and complies with subdivisions (b) and (c).",
+    "(1) The project is a behavioral health treatment and residential setting, including, but not limited to, children’s residential crisis programs, peer respite, children’s and adult substance use disorder residential programs, recovery housing, short-term residential therapeutic program, and social rehabilitation program, and shall be located in a zone where residential, office, retail, or parking are a principally permitted use.",
+    "(2) (A) The project is a real estate asset, as described in Section 5960.05, except for those described in paragraph (1), or in subparagraph (A) of paragraph (1) of subdivision (a) of Section 5831, that is funded pursuant to Section 5967.01, and shall be located in a zone where office, retail, or parking are a principally permitted use.",
+    "(B) This paragraph shall not be construed to limit the discretion of local jurisdictions to permit real estate assets in a zone not expressly provided in this paragraph.",
+    "(b) Projects, as applicable, pursuant to this section may include recovery housing, as defined by the United States Department of Housing and Urban Development.",
+    "(c) Projects pursuant to this section shall meet the labor standards contained in Sections 65912.130 and 65912.131 of the Government Code.",
+    "(d) For purposes of this section, “use by right” means a development project that satisfies both of the following conditions:",
+    "(1) The development project does not require a conditional use permit, planned unit development permit, or other discretionary local government review.",
+    "(2) The development project is not a “project” for purposes of Division 13 (commencing with Section 21000) of the Public Resources Code."
+   ]
+  },
+  {
+   "action": "SEC. 7. The heading of Chapter 6.5 (commencing with Section 8255) of Division 8 of the Welfare and Institutions Code is amended to read:",
+   "paras": [
+    "6.5. California Interagency Council on Homelessness"
+   ]
+  },
+  {
+   "action": "SEC. 8. Section 8255 of the Welfare and Institutions Code is amended to read:",
+   "paras": [
+    "§8255. For purposes of this chapter:",
+    "(a) “Council” means the California Interagency Council on Homelessness, formerly known as the Homeless Coordinating and Financing Council established pursuant to Section 8257.",
+    "(b) “Homeless” has the same definition as that term is defined in Section 91.5 of Title 24 of the Code of Federal Regulations.",
+    "(c) “Housing readiness” includes consideration of an applicant’s sobriety, substance use, mental health, completion of treatment, participation of services, and compliance with other program rules.",
+    "(d) “State program” means any program a California state agency or department funds, implements, or administers for the purpose of providing emergency shelter, interim housing, housing, or housing-based services to people experiencing homelessness or at risk of homelessness, with the exception of federally funded programs with requirements inconsistent with this chapter."
+   ]
+  },
+  {
+   "action": "SEC. 9. Section 8256 of the Welfare and Institutions Code is repealed.",
+   "paras": [
+    "&lt;caml:Num>8256.&lt;/caml:Num>&lt;caml:LawSectionVersion id=&quot;id_ce4e38d1-0208-11ed-b7fa-978722836f6d&quot; chapterYear=&quot;2022&quot; chapterNum=&quot;0070&quot; sessionNum=&quot;0&quot; billSectionNum=&quot;48&quot; billActionVerb=&quot;IS_AMENDED&quot; billId=&quot;20210SB__0197&quot;>&lt;caml:Content>&lt;xhtml:p>(a)&lt;xhtml:span class=&quot;EnSpace&quot;/> Except as provided in subdivision (c), agencies and departments administering state programs created on or after July 1, 2017, shall collaborate with the California Interagency Council on Homelessness to adopt guidelines and regulations to incorporate core components of Housing First.&lt;/xhtml:p>&lt;xhtml:p>(b)&lt;xhtml:span class=&quot;EnSpace&quot;/>By July 1, 2019, except as otherwise provided in subdivision (c), agencies and departments administering state programs in existence prior to July 1, 2017, shall collaborate with the council to revise or adopt guidelines and regulations that incorporate the core components of Housing First, if the existing guidelines and regulations do not already incorporate the core components of Housing First.&lt;/xhtml:p>&lt;xhtml:p>(c)&lt;xhtml:span class=&quot;EnSpace&quot;/>(1)&lt;xhtml:span class=&quot;EnSpace&quot;/> For the Returning Home Well Program, the Specialized Treatment for Optimized Programming Program, and the Long-Term Offender Reentry Recovery Program, all of which are administered by the Department of Corrections and Rehabilitation, which fund recovery housing, as defined in paragraph (3), for parolees, as defined by Section 3000 of Title 15 of the California Code of Regulations, the Department of Corrections and Rehabilitation shall do all of the following:&lt;/xhtml:p>&lt;xhtml:p>(A)&lt;xhtml:span class=&quot;EnSpace&quot;/>In coordination with the California Interagency Council on Homelessness, consult with the Legislature, the Business, Consumer Services and Housing Agency, the California Health and Human Services Agency, the United States Department of Housing and Urban Development, and other stakeholders to identify ways to improve the provision of housing to individuals who receive funding from that agency or department, consistent with the applicable requirements of state law.&lt;/xhtml:p>&lt;xhtml:p>(B)&lt;xhtml:span class=&quot;EnSpace&quot;/>Comply with the core components of Housing First, other than those components described in paragraphs (5) to (7), inclusive, of subdivision (b) of Section 8255.&lt;/xhtml:p>&lt;xhtml:p>(C)&lt;xhtml:span class=&quot;EnSpace&quot;/>Ensure that recovery housing programs meet the following requirements:&lt;/xhtml:p>&lt;xhtml:p>(i)&lt;xhtml:span class=&quot;EnSpace&quot;/>A recovery housing program participant shall sign an agreement upon entry that outlines the roles and responsibilities of both the participant and the program administrator to ensure individuals are aware of actions that could result in removal from the recovery housing program. Violations of the agreement shall not automatically result in discharge from the recovery housing program.&lt;/xhtml:p>&lt;xhtml:p>(ii)&lt;xhtml:span class=&quot;EnSpace&quot;/> Efforts to link program participants to alternative housing options, including interim sheltering, permanent housing, or transitional housing, shall be documented. If a recovery housing program participant chooses to stop living in a housing setting with a recovery focus, is discharged from the program, or is removed from housing, the program administrator shall offer assistance in accessing other housing and services options, including options operated with harm-reduction principles, and identifying an alternative housing placement. This clause does not apply to an individual who leaves the program without notifying the program administrator.&lt;/xhtml:p>&lt;xhtml:p>(iii)&lt;xhtml:span class=&quot;EnSpace&quot;/>The program administrator shall offer program participants who inform the program administrator that they are leaving the program one or more of the following:&lt;/xhtml:p>&lt;xhtml:p>(I)&lt;xhtml:span class=&quot;EnSpace&quot;/>Tenant housing navigation services to permanent housing.&lt;/xhtml:p>&lt;xhtml:p>(II)&lt;xhtml:span class=&quot;EnSpace&quot;/>Connections to alternative housing providers.&lt;/xhtml:p>&lt;xhtml:p>(III)&lt;xhtml:span class=&quot;EnSpace&quot;/>Access to supportive services.&lt;/xhtml:p>&lt;xhtml:p>(IV)&lt;xhtml:span class=&quot;EnSpace&quot;/>Intake into a locally-coordinated entry system.&lt;/xhtml:p>&lt;xhtml:p>(V)&lt;xhtml:span class=&quot;EnSpace&quot;/>Warm handoff to a partner homeless services provider offering housing navigation.&lt;/xhtml:p>&lt;xhtml:p>(iv)&lt;xhtml:span class=&quot;EnSpace&quot;/>The recovery housing program administrator shall track and report annually, to the program’s state funding source, the housing outcome for each program participant who is discharged, including, but not limited to, the following information:&lt;/xhtml:p>&lt;xhtml:p>(I)&lt;xhtml:span class=&quot;EnSpace&quot;/>The number of homeless individuals with a housing need served by the program funds that year, as well as the demographics of the population served.&lt;/xhtml:p>&lt;xhtml:p>(II)&lt;xhtml:span class=&quot;EnSpace&quot;/>Outcome data for all individuals served through program funds, including the type of housing that the individuals were connected to, the type of housing the individuals were exited to, the percent of housing exits that were successful, and exit types of unsuccessful housing exits.&lt;/xhtml:p>&lt;xhtml:p>(v)&lt;xhtml:span class=&quot;EnSpace&quot;/>The department shall make every effort to ensure that exits to homelessness are extremely rare.&lt;/xhtml:p>&lt;xhtml:p>(2)&lt;xhtml:span class=&quot;EnSpace&quot;/>The Department of Corrections and Rehabilitation shall make efforts to reduce recidivism by offering participation to formerly incarcerated persons in recovery housing programs. Connections to safe and supportive housing is a critical priority for successful community reintegration.&lt;/xhtml:p>&lt;xhtml:p>(3)&lt;xhtml:span class=&quot;EnSpace&quot;/>For purposes of this subdivision, “recovery housing” means sober living facilities and programs that provide housing in a recovery-focused and peer-supported community for people recovering from substance use issues. Participation is voluntary, unless that participation is pursuant to a court order or is a condition of release for individuals under the jurisdiction of a county probation department or the Department of Corrections and Rehabilitation.&lt;/xhtml:p>&lt;xhtml:p>(d)&lt;xhtml:span class=&quot;EnSpace&quot;/>(1)&lt;xhtml:span class=&quot;EnSpace&quot;/>Beginning on January 1, 2023, a grantee or entity operating any of the following state homelessness programs, as a condition of receiving state funds, shall enter the required data elements described in paragraph (8) on the individuals and families it serves into its local Homeless Management Information System, as required by the United States Department of Housing and Urban Development guidance described in paragraph (8), unless otherwise exempted by state or federal law:&lt;/xhtml:p>&lt;xhtml:p>(A)&lt;xhtml:span class=&quot;EnSpace&quot;/>The program referred to as Homekey, as described in Section 50675.1.1 of the Health and Safety Code.&lt;/xhtml:p>&lt;xhtml:p>(B)&lt;xhtml:span class=&quot;EnSpace&quot;/>The Housing for a Healthy California Program established pursuant to Part 14.2 (commencing with Section 53590) of Division 31 of the Health and Safety Code.&lt;/xhtml:p>&lt;xhtml:p>(C)&lt;xhtml:span class=&quot;EnSpace&quot;/>The No Place Like Home Program established pursuant to Part 3.9 (commencing with Section 5849.1) of Division 5.&lt;/xhtml:p>&lt;xhtml:p>(D)&lt;xhtml:span class=&quot;EnSpace&quot;/>The Multifamily Housing Program (Chapter 6.7 (commencing with Section 50675) of Part 2 of Division 31 of the Health and Safety Code).&lt;/xhtml:p>&lt;xhtml:p>(E)&lt;xhtml:span class=&quot;EnSpace&quot;/>The Veterans Housing and Homeless Prevention Act of 2014, as established by Article 3.2 (commencing with Section 987.001) of Chapter 6 of Division 4 of the Military and Veterans Code.&lt;/xhtml:p>&lt;xhtml:p>(F)&lt;xhtml:span class=&quot;EnSpace&quot;/>The Bringing Families Home Program, as established by Article 6 (commencing with Section 16523) of Chapter 5 of Part 4 of Division 9.&lt;/xhtml:p>&lt;xhtml:p>(G)&lt;xhtml:span class=&quot;EnSpace&quot;/>The CalWORKs Housing Support Program, as established by Article 3.3 (commencing with Section 11330) of Chapter 2 of Part 3 of Division 9.&lt;/xhtml:p>&lt;xhtml:p>(H)&lt;xhtml:span class=&quot;EnSpace&quot;/>The Housing and Disability Income Advocacy Program, as established by Chapter 17 (commencing with Section 18999) of Part 6 of Division 9.&lt;/xhtml:p>&lt;xhtml:p>(I)&lt;xhtml:span class=&quot;EnSpace&quot;/>The Community Colleges Homeless and Housing Insecure Pilot Project, as established by funds appropriated by the Budget Act of 2019.&lt;/xhtml:p>&lt;xhtml:p>(J)&lt;xhtml:span class=&quot;EnSpace&quot;/>The Homeless Housing, Assistance, and Prevention Program established in Chapter 6 (commencing with Section 50216) of Part 1 of Division 31 of the Health and Safety Code.&lt;/xhtml:p>&lt;xhtml:p>(2)&lt;xhtml:span class=&quot;EnSpace&quot;/>Council staff, in consultation with respective administering state agencies or departments, shall specify the entry format and disclosure frequency for the programs subject to this subdivision to submit the data elements as specified in paragraph (1) to inform and meet the council’s statewide objectives and goals described in Section 8257.&lt;/xhtml:p>&lt;xhtml:p>(3)&lt;xhtml:span class=&quot;EnSpace&quot;/>(A)   The requirements of paragraph (1) shall additionally apply to all new state homelessness programs that commence on or after July 1, 2021.&lt;/xhtml:p>&lt;xhtml:p>(B)&lt;xhtml:span class=&quot;EnSpace&quot;/>New state homelessness programs and new grantees of the existing state programs described in paragraph (1) may be granted an extension of up to one year from program launch to meet the requirements of this subdivision.&lt;/xhtml:p>&lt;xhtml:p>(4)&lt;xhtml:span class=&quot;EnSpace&quot;/>For purposes of this subdivision, state homelessness programs are defined as those programs that are funded, in whole or in part, by the state with the express purpose of addressing or preventing homelessness or providing services to people experiencing homelessness. This definition shall be broadly construed for the purpose of carrying out the requirements of this subdivision.&lt;/xhtml:p>&lt;xhtml:p>(5)&lt;xhtml:span class=&quot;EnSpace&quot;/>The requirements of paragraphs (1) and (3) do not supplant any existing requirements imposed on a grantee or entity operating a state program described in this subdivision that require the program to report data into their local Homeless Management Information Systems before January 1, 2023.&lt;/xhtml:p>&lt;xhtml:p>(6)&lt;xhtml:span class=&quot;EnSpace&quot;/>(A)   Any grantee or entity operating a program described in paragraph (1) or (3) that does not already collect and enter into the local Homeless Management Information System the data elements required under this subdivision shall, upon request, receive technical assistance and guidance from council staff and, as available, from federal partners, including, but not limited to, the United States Department of Housing and Urban Development.&lt;/xhtml:p>&lt;xhtml:p>(B)&lt;xhtml:span class=&quot;EnSpace&quot;/>When a grantee or entity operating a program requests technical assistance, the council shall inform the respective administering state agency or department and offer the opportunity to partner or coordinate the provision of technical assistance.&lt;/xhtml:p>&lt;xhtml:p>(7)&lt;xhtml:span class=&quot;EnSpace&quot;/>Any grantee or entity operating a program described in paragraph (1) shall, upon request, be granted an extension to meet the requirements in this subdivision, provided noncompliant grantees are making good faith progress towards meeting the requirements. An extension granted under this paragraph shall not extend beyond July 1, 2023. For purposes of this paragraph, “making good faith progress” includes, but is not limited to, engaging in technical assistance offered under paragraph (6) and establishing a plan to comply with this subdivision.&lt;/xhtml:p>&lt;xhtml:p>(8)&lt;xhtml:span class=&quot;EnSpace&quot;/>For purposes of this subdivision, required data elements are the Universal Data Elements (Items 3.01–3.917) and the Common Data Elements (Items 4.02–4.20 and Item W5 of the Individual Federal Partner Program Elements) drawn from the United States Department of Housing and Urban Development Homeless Management Information System Data Standards. When necessary, due to federal changes to the items indicated in this paragraph, the required data elements may be amended to maintain alignment with federal standards.&lt;/xhtml:p>&lt;xhtml:p>(9)&lt;xhtml:span class=&quot;EnSpace&quot;/>Beginning January 1, 2022, council staff shall provide aggregate data summaries collected in full pursuant to this subdivision to the respective administering state agencies or departments that oversee relevant programs within 45 days of receipt. Where feasible, council staff shall notify the respective administering state agencies or departments at least 14 days before sharing, publicly using, or referencing the data, including, but not limited to, using the data for any substantive analysis, summary statistics, or other findings.&lt;/xhtml:p>&lt;xhtml:p>(e)&lt;xhtml:span class=&quot;EnSpace&quot;/>The Board of State and Community Corrections Adult Reentry Grant programs that fund recovery housing subject to this chapter shall apply the requirements of this chapter prospectively beginning July 1, 2022, through any new contracts or agreements.&lt;/xhtml:p>&lt;/caml:Content>&lt;/caml:LawSectionVersion>&lt;/caml:LawSection>\"?>"
+   ]
+  },
+  {
+   "action": "SEC. 10. Section 8256 is added to the Welfare and Institutions Code, to read:",
+   "paras": [
+    "§8256. (a) Notwithstanding any other law, a state program may do any the following:",
+    "(1) Review the suitability of an applicant based on the applicant’s housing readiness.",
+    "(2) Impose program rules and requirements related to sobriety, substance abuse, completion of treatment, mental health, participation in services, and compliance with program rules.",
+    "(b) An agency or department shall allocate state program funding according to the following priority:",
+    "(1) Shelter beds.",
+    "(2) Transitory housing units.",
+    "(3) Permanent supportive housing units.",
+    "(c) An agency or department administering a state program shall encourage local providers of permanent supportive housing units to convert to transitory housing units when demand warrants.",
+    "(d) A state program shall include a work program that provides paid work opportunities from private or governmental entities or volunteer opportunities serving the community.",
+    "(e) An agency or department administering a state program shall issue regulations to local agencies to prioritize use of agency or department funds for programs that include drug testing, mandatory testing, and work requirements for program participants.",
+    "(f) A motel that accepts homeless assistance from the California Work Opportunity and Responsibility to Kids program pursuant to Section 11450 of the Welfare and Institutions Code for 20 percent or more of rented rooms during the year shall not receive payments unless the motel is approved by the city council of the city in which the motel is located.",
+    "(g) A faith-based organization may operate or receive state program funding provided that the funding expressly does not subsidize religion."
+   ]
+  },
+  {
+   "action": "SEC. 11. Section 15771 of the Welfare and Institutions Code is amended to read:",
+   "paras": [
+    "§15771. (a) Subject to an appropriation of funds for this purpose in the annual Budget Act, the department shall award grants to counties, tribes, or groups of counties or tribes, that provide services to older adults and dependent adults who experience abuse, neglect, self-neglect, or exploitation and otherwise meet the eligibility criteria for adult protective services, for the purpose of providing housing-related supports to eligible individuals.",
+    "(b) Notwithstanding subdivision (a), this section does not create an entitlement to housing-related assistance, which is to be provided at the discretion of the grantee as a service to eligible individuals.",
+    "(c) (1) It is the intent of the Legislature that housing-related assistance provided pursuant to this chapter utilize evidence-based practices in homeless assistance and prevention, including housing risk screening and assessments, rapid rehousing, and supportive housing.",
+    "(2) Housing-related supports and services available to participating individuals may include, but are not limited to, all of the following:",
+    "(A) An assessment of each individual’s housing needs, including a plan to assist the individual in meeting those needs, consistent with the case plan, as developed by the adult protective services agency. To the extent feasible, the plan shall be developed in coordination with a multidisciplinary team that may include housing program providers, mental health providers, local law enforcement, legal assistance providers, and others as deemed relevant by the adult protective services agency.",
+    "(B) Navigation or search assistance to recruit landlords and assist individuals in locating affordable or subsidized housing.",
+    "(C) Enhanced case management, including motivational interviewing and trauma-informed care, to help the individual recover from elder abuse, neglect, or financial exploitation.",
+    "(D) Housing-related financial assistance, including rental assistance, security deposit assistance, utility payments, moving cost assistance, and interim housing assistance while housing navigators are actively seeking permanent housing options for the individual.",
+    "(E) Housing stabilization services, including ongoing landlord engagement, case management, public systems assistance, legal services, tenant education, eviction protection, credit repair assistance, life skills training, heavy cleaning, and conflict mediation with landlords, neighbors, and families.",
+    "(F) If the individual requires supportive housing, referral to the local homeless continuum of care for long-term services promoting housing stability.",
+    "(G) Referrals and coordination of services to access mental or behavioral health assistance, as necessary or appropriate.",
+    "(d) The department shall provide grants to counties and tribes according to criteria and procedures developed by the department, in consultation with the County Welfare Directors Association of California, tribes, the California Elder Justice Coalition, and the California Commission on Aging. These criteria shall include, but are not limited to, all of the following:",
+    "(1) Eligible sources of funds and in-kind contributions to match the grant, as described in paragraph (1) of subdivision (e).",
+    "(2) The proportion of funding to be expended on reasonable and appropriate administrative activities, in order to minimize overhead and maximize services.",
+    "(3) Tracking and reporting procedures for the program, which shall be conducted as a condition of receiving funds, including, but not limited to, collecting disaggregated data on all of the following:",
+    "(A) The number of people determined eligible for the program.",
+    "(B) The number of people receiving assistance from the program and the duration of that assistance.",
+    "(C) The types of housing assistance received by recipients.",
+    "(D) The housing status six months and one year after receiving assistance from the program.",
+    "(E) The number of substantiated adult protective services reports six months and one year after receiving assistance from the program.",
+    "(e) Grants shall be subject to all of the following requirements:",
+    "(1) (A) Except as otherwise provided in subparagraph (B), grantees shall match the funding on a dollar-for-dollar basis, which may be met by cash or in-kind contributions.",
+    "(B) Between July 1, 2021, and June 30, 2026, grantees that receive state funds under this chapter shall not be required to match any funding provided during that period.",
+    "(2) Grantees shall demonstrate the extent to which they will attempt to leverage county mental health services funds for participating individuals, and any barriers to leveraging these funds.",
+    "(3) Grantees shall agree to actively cooperate with tracking, reporting, and evaluation efforts.",
+    "(4) Grantees shall coordinate with the local homeless continuum of care network.",
+    "(f) Funding pursuant to this section shall supplement, and not supplant, the level of county or tribal funding spent on these purposes in the 2017–18 fiscal year.",
+    "(g) Utilizing the funds appropriated for purposes of this chapter, the department shall, in consultation with the County Welfare Directors Association of California, tribes, the California Elder Justice Coalition, and the California Commission on Aging, enter into a contract with an independent evaluation and research agency to evaluate the impacts of the program, which may include, but are not limited to, the following:",
+    "(1) The likelihood of future homelessness and housing instability among recipients.",
+    "(2) The likelihood of future instances of abuse and neglect among recipients.",
+    "(3) Program costs and benefits.",
+    "(h) This chapter shall not be construed to require a tribe, or tribal entity or agency, to comply with Chapter 13 (commencing with Section 15750) of this part, including, but not limited to, the requirement to establish a county adult protective services system or an emergency response adult protective services program.",
+    "(i) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), the department may implement, interpret, or make specific this chapter through all-county letters without taking regulatory action."
+   ]
+  }
+ ],
+ "chapter": null,
+ "digest": [
+  "(1) Existing law prohibits various conduct within certain distances of specified locations including schools and hospitals. Existing federal law, as established in City of Grants Pass, Oregon v. Johnson, authorizes the enforcement of generally applicable laws that regulate camping on public property.",
+  "This bill would prohibit a homeless encampment from operating within 500 feet of a sensitive community area, including, but not limited to, a school, open space, or transit stop. The bill would prohibit a person from camping, as defined, in any public space, including a sidewalk, if a homeless shelter bed is available in the city where the public space is located.",
+  "(2) Existing law defines Housing First as the evidence-based model that uses housing as a tool, rather than a reward, for recovery and that centers on providing or connecting homeless people to permanent housing as quickly as possible and specifies the core components of Housing First. Existing law establishes the California Interagency Council on Homelessness to oversee the implementation of Housing First guidelines and regulations, and, among other things, identify resources, benefits, and services that can be accessed to prevent and end homelessness in California. Existing law requires a state agency or department that funds, implements, or administers a state program that provides housing or housing-related services to people experiencing homelessness or who are at risk of homelessness to revise or adopt guidelines and regulations to include enumerated Housing First policies.",
+  "This bill would delete the requirement that a state agency or department revise or adopt guidelines to include Housing First policies, as described above, and would repeal related provisions requiring adherence to Housing First, as specified. The bill would instead authorize a state program to review the suitability of an applicant based on their housing readiness, as defined, and impose program rules and requirements related to sobriety, substance abuse, completion of treatment, mental health, participation in services, and compliance with program rules. The bill would require an agency or department to allocate state program funding according to a specified priority and would require the agency or department to issue regulations to local agencies to prioritize use of funds for state programs that include drug testing, mandatory treatment, and work requirements for program participants. The bill would require a state program to include a work program that provides paid work opportunities from private or governmental entities or volunteer opportunities serving the community. The bill would also prohibit a motel that accepts homeless assistance from the California Work Opportunity and Responsibility to Kids program for 20% or more of rented rooms during the year from receiving payments unless the motel is approved by the city council of the city in which the motel is located."
+ ],
+ "hash": "2bed65613d21777f",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "chamber": "A",
+   "date": "2024-12-02"
+  },
+  {
+   "action": "From printer. May be heard in committee January 2.",
+   "chamber": "A",
+   "date": "2024-12-03"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and HUM. S.",
+   "chamber": "A",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on H. & C.D. Read second time and amended.",
+   "chamber": "A",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "chamber": "A",
+   "date": "2025-03-25"
+  },
+  {
+   "action": "In committee: Set, first hearing. Failed passage.",
+   "chamber": "A",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "From committee: Without further action pursuant to Joint Rule 62(a).",
+   "chamber": "A",
+   "date": "2025-05-21"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-03-24",
+  "id": "20250AB2098AMD",
+  "num": "98"
+ },
+ "location": "CX10",
+ "sections": [
+  {
+   "action": "Section 65660 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this article:",
+    "(a) “Low Barrier Navigation Center” means a low-barrier, service-enriched shelter focused on moving people into permanent housing that provides temporary living facilities while case managers connect individuals experiencing homelessness to income, public benefits, health services, shelter, and housing. A Low Barrier Navigation Center may be non-congregate and relocatable. “Low Barrier” means best practices to reduce barriers to entry, and may include, but is not limited to, the following:",
+    "(1) The presence of partners if it is not a population-specific site, such as for survivors of domestic violence or sexual assault, women, or youth.",
+    "(2) Pets.",
+    "(3) The storage of possessions.",
+    "(4) Privacy, such as partitions around beds in a dormitory setting or in larger rooms containing more than two beds, or private rooms.",
+    "(b) “Use by right” has the meaning defined in subdivision (i) of Section 65583.2. Division 13 (commencing with Section 21000) of the Public Resources Code shall not apply to actions taken by a public agency to lease, convey, or encumber land owned by a public agency, or to facilitate the lease, conveyance, or encumbrance of land owned by a public agency, or to provide financial assistance to, or otherwise approve, a Low Barrier Navigation Center constructed or allowed by this section."
+   ],
+   "sec": "65660",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Died",
+ "subject": "Homelessness: People First Housing Act of 2025.",
+ "title": "An act to amend Section 1954.09 of the Civil Code, to amend Section 65660 of the Government Code, to amend Section 50216 of, and to add Chapter 22.5 (commencing with Section 26280) to Division 20 of, the Health and Safety Code, and to amend Sections 5960.31, 8255, and 15771 of, to repeal and add Section 8256 of, and to amend the heading of Chapter 6.5 (commencing with Section 8255) of Division 8 of, the Welfare and Institutions Code, relating to homelessness.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2024-12-02",
+   "id": "20250AB2099INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-03-24",
+   "id": "20250AB2098AMD",
+   "num": "98"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "A",
+   "date": "2025-04-24",
+   "location": "Asm Housing and Community Development",
+   "motion": "Do pass and be re-referred to the Committee on [Human Services]",
+   "no": 7,
+   "nv": 3,
+   "result": "fail",
+   "seq": "1",
+   "yes": 2
+  }
+ ]
+}

@@ -1,0 +1,855 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Cabaldon",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB1087",
+ "bill_id": "202520260SB1087",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 65072.2 of the Government Code is amended to read:",
+   "paras": [
+    "§65072.2. (a) The department shall address in the California Transportation Plan how the state will achieve maximum feasible emissions reductions in order to attain a statewide reduction of greenhouse gas emissions to 1990 levels by 2020 and 40 percent below 1990 levels by December 31, 2030, as required by the California Global Warming Solutions Act of 2006 (Division 25.5 (commencing with Section 38500) of the Health and Safety Code), and how the plan is consistent with, and supports attaining, all state ambient air quality standards, as set forth in Section 70200 of Title 17 of the California Code of Regulations, and national ambient air quality standards, as established pursuant to Section 7409 of Title 42 of the United States Code, in all areas of the state, as described in California’s state implementation plans required by the federal Clean Air Act (42 U.S.C. Sec. 7401 et seq.), taking into consideration the use of alternative fuels, new vehicle technology, tailpipe emissions reductions, ride sharing, vehicle pooling, and expansion of public transit, commuter rail, intercity rail, bicycling, and walking. The plan shall identify the statewide integrated multimodal transportation system needed to achieve the greenhouse gas emission reduction targets and air quality standards and the department shall incorporate performance measures into planning that informs delivery of transportation capital projects to help achieve the goals of the plan, including the greenhouse gas emission reduction targets and air quality standards, and to support implementation of applicable sustainable communities strategies adopted pursuant to Section 65080.",
+    "(b) Commencing with the third update to the California Transportation Plan, the department shall include all of the following information in the plan:",
+    "(1) A forecast of the impacts of advanced and emerging technologies over a 20-year horizon on infrastructure, access, and transportation systems. For purposes of this paragraph, “advanced and emerging technologies” includes, but is not limited to, shared, autonomous, connected, and electric transportation options.",
+    "(2) Actions taken by the department within each district of the department to implement the adopted California Transportation Plan and that advance the goals and policies outlined in the plan.",
+    "(3) Relevant performance measures within each district of the department and how the performance measures informed corridor, modal, district, and transportation capital project planning and delivery for all projects anticipated to be completed by 2035 and 2045.",
+    "(4) Priority actions and areas of focus within each district of the department for the next planning period and what will be accomplished by 2035 and 2045, including, but not limited to, quantifiable actions intended to address any significant gaps in progress toward the goals and objectives of the California Transportation Plan."
+   ]
+  },
+  {
+   "action": "SEC. 2. Section 65080 of the Government Code is amended to read:",
+   "paras": [
+    "§65080. (a) Each transportation planning agency designated under Section 29532 or 29532.1 shall prepare and adopt a regional transportation plan directed at achieving a coordinated and balanced regional transportation system, including, but not limited to, mass transportation, highway, railroad, maritime, bicycle, pedestrian, goods movement, and aviation facilities and services. The plan shall be action-oriented and pragmatic, considering both the short-term and long-term future, and shall present clear, concise policy guidance to local and state officials. The regional transportation plan shall consider factors specified in Section 134 of Title 23 of the United States Code. Each transportation planning agency shall consider and incorporate, as appropriate, the transportation plans of cities, counties, districts, private organizations, and state and federal agencies.",
+    "(b) The regional transportation plan shall be an internally consistent document and shall include all of the following:",
+    "(1) A policy element that describes the transportation issues in the region, identifies and quantifies regional needs, and describes the desired short-range and long-range transportation goals, and pragmatic objective and policy statements. The objective and policy statements shall be consistent with the funding estimates of the financial element. The policy element of transportation planning agencies with populations that exceed 200,000 persons may quantify a set of indicators, including, but not limited to, all of the following:",
+    "(A) Measures of mobility and traffic congestion, including, but not limited to, daily vehicle hours of delay per capita and vehicle miles traveled per capita.",
+    "(B) Measures of road and bridge maintenance and rehabilitation needs, including, but not limited to, roadway pavement and bridge conditions.",
+    "(C) Measures of means of travel, including, but not limited to, percentage share of all trips, work and nonwork, made by all of the following:",
+    "(i) Single-occupant vehicle.",
+    "(ii) Multiple occupant vehicle or carpool.",
+    "(iii) Public transit including commuter rail and intercity rail.",
+    "(iv) Walking.",
+    "(v) Bicycling.",
+    "(D) Measures of safety and security, including, but not limited to, total injuries and fatalities assigned to each of the modes set forth in subparagraph (C).",
+    "(E) Measures of equity and accessibility, including, but not limited to, percentage of the population served by frequent and reliable public transit, with a breakdown by income bracket, and percentage of all jobs accessible by frequent and reliable public transit service, with a breakdown by income bracket.",
+    "(F) The requirements of this section may be met using existing sources of information. No additional traffic counts, household surveys, or other sources of data shall be required.",
+    "(2) (A) (i) (I) If prepared by a metropolitan planning organization, an eight-year sustainable communities strategy beginning with either its first or second regional transportation plan adopted on or after January 1, 2028.",
+    "(II) On or before July 1, 2027, each metropolitan planning organization shall notify the state board whether it selected its first or second regional transportation plan and when that plan is scheduled to be adopted.",
+    "(III) A metropolitan planning organization may begin with its first eligible regional transportation plan only if the state board adopts the applicable greenhouse gas emission reduction target and the guidelines required by subparagraph (P) at least 12 months before the plan’s scheduled adoption. If the state board has not adopted the applicable greenhouse gas emission reduction target and the guidelines required by subparagraph (P) at least 12 months before the scheduled adoption of the first eligible regional transportation plan, the metropolitan planning agency shall begin with its second eligible regional transportation plan.",
+    "(IV) Until a metropolitan planning organization begins preparing an eight-year sustainable communities strategy, the existing regional targets shall remain in effect and the metropolitan planning organization shall continue preparing a sustainable communities strategy every four years.",
+    "(B) (i) A sustainable communities strategy shall be prepared as follows:",
+    "(I) On or before December 31, 2028, the state board shall provide each region with greenhouse gas emission reduction targets for the automobile and light truck sector for 2035 and 2045.",
+    "(II) On or before December 1, 2028, the state board shall convene at least two technical workshops and present the findings at the joint meeting held pursuant to Section 14516. The state board shall invite metropolitan planning organizations, affected air districts, the Department of Transportation, the California Transportation Commission, the Department of Housing and Community Development, local governments, and other practitioners and technical experts to participate in the technical workshops and the joint meeting. A workshop conducted pursuant to subparagraph (P) may satisfy the requirements of this subclause if it includes a distinct opportunity for technical feedback on the proposed target-setting factors and methodologies. The state board shall solicit feedback on both of the following:",
+    "(ia) Factors and methodologies for setting greenhouse gas emission reduction targets for the affected regions.",
+    "(ib) How state fair housing, affordability, resilience, transportation, economic vibrancy, and land conservation laws and goals should be balanced in setting greenhouse gas emission reduction targets for the affected regions.",
+    "(III) (ia) Before setting the targets for a region, the state board shall exchange technical information with the metropolitan planning organization and the affected air district. The metropolitan planning organization may recommend a target for the region.",
+    "(ib) Following completion of the technical workshops, and before adopting the targets, the state board shall present at a joint meeting held pursuant to Section 14516 the proposed factors and methodologies and a summary of the technical feedback received, and shall solicit additional public feedback.",
+    "(IV) Consistent with subclause (III), in establishing these targets, the state board shall take into account greenhouse gas emission reductions that will be achieved by improved vehicle emission standards, changes in fuel composition, and other measures it has approved that will reduce the emissions of greenhouse gases in the affected regions, consistent with the state board’s most current model used to assess emissions from on-road vehicles, and prospective measures the state board plans to adopt to reduce the emissions of greenhouse gases from other greenhouse gas emission sources as defined in subdivision (i) of Section 38505 of the Health and Safety Code and consistent with the regulations adopted pursuant to the California Global Warming Solutions Act of 2006 (Division 25.5 (commencing with Section 38500) of the Health and Safety Code), including Section 38566 of the Health and Safety Code.",
+    "(V) The targets established by the state board shall do all of the following to the extent feasible and based on reasonably available information:",
+    "(ia) Consider the combined effects of existing and reasonably foreseeable policies, regulations, and investments by cities, counties, special districts, county transportation agencies, air districts, metropolitan planning organizations, the state, and the federal government that are expected to reduce greenhouse gas emissions from vehicles, including through improved fleet efficiency, changes in transportation technologies, and more efficient land use and transportation patterns.",
+    "(ib) Consider factors materially affecting the region’s ability to achieve the targets, including, but not limited to, fiscal constraints, the built environment, access to modes of travel outside of single-occupant passenger vehicles, housing and development conditions, geographic characteristics, existing resources, exogenous factors, and reasonably foreseeable state and federal actions.",
+    "(ic) Identify the material considerations under sub-subclauses (ia) and (ib) that informed the state board’s determination before establishing the targets.",
+    "(VI) The state board shall update the regional greenhouse gas emission reduction targets every eight years consistent with each metropolitan planning organization’s timeframe for updating its regional transportation plan under federal law until 2050. Before updating these targets, the state board shall do all of the following:",
+    "(ia) Exchange technical information with the California Transportation Commission, the Department of Housing and Community Development, the Department of Transportation, metropolitan planning organizations, local governments, and affected air districts and engage in a consultative process with public and private stakeholders.",
+    "(ib) Release draft targets for public comment.",
+    "(ic) Publish its methodology and assumptions, including, but not limited to, fleet and emissions budget assumptions, in a downloadable and accessible format on its internet website and make this information available to the public and affected metropolitan planning organizations no fewer than 60 days before the release of draft targets.",
+    "(id) Host public workshops to engage in a consultative process with public and private stakeholders. The state board shall hold at least three public workshops.",
+    "(ie) Hold a public hearing to solicit input on the region’s draft targets.",
+    "(VII) The state board shall adopt the final targets and any subsequent changes to the targets at a public hearing.",
+    "(VIII) The greenhouse gas emission reduction targets may be expressed in gross tons, tons per capita, tons per household, or in any other metric deemed appropriate by the state board that considers exogenous factors such as population, economic growth, or cross-border traffic.",
+    "(ii) Each metropolitan planning organization shall prepare a sustainable communities strategy, subject to the requirements of Part 450 of Title 23 of, and Part 93 of Title 40 of, the Code of Federal Regulations, including the requirement to use the most recent planning assumptions considering local general plans and other factors. The sustainable communities strategy shall do all of the following:",
+    "(I) Identify the general location of uses, residential densities, and building intensities within the region.",
+    "(II) Identify areas within the region sufficient to house all the population of the region, including all economic segments of the population, over the course of the planning period of the regional transportation plan taking into account the housing needs of both the existing and projected population and, to the extent applicable and consistent with the requirement to use reasonable planning assumptions, the demographic and household-growth assumptions used by the Department of Housing and Community Development in the most recent housing need determination for the region, net migration into the region, population growth, changes in enrollment levels at institutions of public higher education, as described in subdivision (a) of Section 66010 of the Education Code, household formation, and employment growth.",
+    "(III) Identify areas within the region sufficient to house an eight-year projection of the regional housing need for the region pursuant to Section 65584.",
+    "(IV) Identify a transportation network to service the transportation needs of the region.",
+    "(V) Gather and consider the best practically available scientific information regarding resource areas and farmland in the region.",
+    "(VI) Consider the state housing goals specified in Sections 65580 and 65581.",
+    "(VII) Set forth a forecasted development pattern for the region, which, when integrated with the transportation network, and other transportation measures and policies, will reduce greenhouse gas emissions from the automobile and light truck sector to achieve and maintain through the regional transportation plan’s horizon year, if there is a feasible way to do so, the greenhouse gas emission reduction targets approved by the state board, as demonstrated using the modeling years and analyses otherwise required for the plan.",
+    "(VIII) Allow the regional transportation plan to comply with Section 176 of the federal Clean Air Act (42 U.S.C. Sec. 7506).",
+    "(C) (i) Within the jurisdiction of the Metropolitan Transportation Commission, as defined by Section 66502, the Association of Bay Area Governments shall be responsible for subclauses (I) to (VI), inclusive, of clause (ii) of subparagraph (B); the Metropolitan Transportation Commission shall be responsible for subclauses (IV) and (VIII) of clause (ii) of subparagraph (B); and the Association of Bay Area Governments and the Metropolitan Transportation Commission shall jointly be responsible for subclause (VII) of clause (ii) of subparagraph (B).",
+    "(ii) Within the jurisdiction of the Tahoe Regional Planning Agency, as defined in Sections 66800 and 66801, the Tahoe Metropolitan Planning Organization shall use the Regional Plan for the Lake Tahoe Region as the sustainable communities strategy, provided that it complies with subclauses (VII) and (VIII) of clause (ii) of subparagraph (B).",
+    "(D) In the region served by the Southern California Association of Governments, a subregional council of governments and the county transportation commission may work together to propose the sustainable communities strategy and an alternative planning strategy, if one is prepared pursuant to subparagraph (I), for that subregional area. The metropolitan planning organization may adopt a framework for a subregional sustainable communities strategy or a subregional alternative planning strategy to address the intraregional land use, transportation, economic, air quality, and climate policy relationships. The metropolitan planning organization shall include the subregional sustainable communities strategy for that subregion in the regional sustainable communities strategy to the extent consistent with this section and federal law and approve the subregional alternative planning strategy, if one is prepared pursuant to subparagraph (I), for that subregional area to the extent consistent with this section. The metropolitan planning organization shall develop overall guidelines, create a public participation plan pursuant to subparagraph (F), ensure coordination, resolve conflicts, make sure that the overall plan complies with applicable legal requirements, and adopt the plan for the region.",
+    "(E) The metropolitan planning organization shall conduct at least two informational meetings in each county within the region for members of the board of supervisors and city councils during the development of the sustainable communities strategy and alternative planning strategy, if any. The metropolitan planning organization may conduct only one informational meeting if it is attended by representatives of the county board of supervisors and city council members representing a majority of the cities representing a majority of the population in the incorporated areas of that county. Notice of the meeting or meetings shall be sent to the clerk of the board of supervisors and to each city clerk. The purpose of the meeting or meetings shall be to discuss the sustainable communities strategy and the alternative planning strategy, if any, including the key land use and planning assumptions with the members of the board of supervisors and the city council members in that county and to solicit and consider their input and recommendations. For purposes of this subparagraph, “meeting” may include a virtual meeting, the general assembly of a council of governments, and other means of eliciting feedback from local elected officials that promote meaningful engagement.",
+    "(F) Each metropolitan planning organization shall adopt a public participation plan, for development of the sustainable communities strategy and an alternative planning strategy, if any, that includes all of the following:",
+    "(i) Outreach efforts to encourage the active participation of a broad range of stakeholder groups in the planning process, consistent with the agency’s adopted Federal Public Participation Plan, including, but not limited to, affordable housing advocates, transportation advocates, neighborhood and community groups, environmental advocates, homebuilder representatives, broad-based business organizations, landowners, commercial property interests, and homeowner associations.",
+    "(ii) Consultation with congestion management agencies, transportation agencies, and transportation commissions.",
+    "(iii) Workshops throughout the region to provide the public with the information and tools necessary to provide a clear understanding of the issues and policy choices. At least one workshop shall be held in each county in the region. For counties with a population greater than 500,000, at least three workshops shall be held. Each workshop, to the extent practicable, shall include urban simulation computer modeling to create visual representations of the sustainable communities strategy and the alternative planning strategy. For purposes of this clause, “workshops” may include virtual meetings and participatory activities, discussion groups, and other means of eliciting feedback that promote meaningful engagement or increase participation from underserved communities.",
+    "(iv) Preparation and circulation of a draft sustainable communities strategy and an alternative planning strategy, if one is prepared, not less than 55 days before adoption of a final regional transportation plan.",
+    "(v) At least three public hearings on the draft sustainable communities strategy in the regional transportation plan and alternative planning strategy, if one is prepared. If the metropolitan transportation organization consists of a single county, at least two public hearings shall be held. To the maximum extent feasible, the hearings shall be in different parts of the region and may include an online participation option to maximize the opportunity for participation by members of the public throughout the region.",
+    "(vi) A process for enabling members of the public to provide a single request to receive notices, information, and updates.",
+    "(G) In preparing a sustainable communities strategy, the metropolitan planning organization shall consider spheres of influence that have been adopted by the local agency formation commissions within its region.",
+    "(H) Before adopting a sustainable communities strategy, the metropolitan planning organization shall quantify the reduction in the emissions of greenhouse gases projected to be achieved by the sustainable communities strategy and set forth the difference, if any, between the amount of that reduction and the target for the region established by the state board.",
+    "(I) (i) If the sustainable communities strategy, prepared in compliance with subparagraph (B) or (D), is unable to reduce the emissions of greenhouse gases to achieve the greenhouse gas emission reduction targets established by the state board, the metropolitan planning organization shall prepare an alternative planning strategy. In preparing the alternative planning strategy, the metropolitan planning organization shall do all of the following:",
+    "(I) Identify the principal impediments to achieving the targets within the sustainable communities strategy.",
+    "(II) Include an analysis of an alternative development pattern for the region pursuant to subparagraphs (B) to (G), inclusive, and, if necessary, additional infrastructure, transportation measures, or policies that could achieve the greenhouse gas emission reduction targets.",
+    "(III) Describe why the development pattern, measures, and policies in the analysis of alternative development pattern described in subclause (II) are the most practicable choices for achievement of the greenhouse gas emission reduction targets.",
+    "(ii) An alternative development pattern set forth in the alternative planning strategy shall comply with Part 450 of Title 23 of, and Part 93 of Title 40 of, the Code of Federal Regulations, except to the extent that compliance will prevent achievement of the greenhouse gas emission reduction targets approved by the state board.",
+    "(iii) For purposes of the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code), an alternative planning strategy shall not constitute a land use plan, policy, or regulation, and the inconsistency of a project with an alternative planning strategy shall not be a consideration in determining whether a project may have an environmental effect.",
+    "(J) (i) No later than 12 months before adoption, the metropolitan planning organization shall submit a description to the state board of the technical methodology it intends to use to estimate the emissions of greenhouse gases from its sustainable communities strategy and, if appropriate, its alternative planning strategy. The technical methodology shall align with the most recently adopted guidelines adopted pursuant to subparagraph (P), including consistency with the model version used in target setting to assess emissions from on-road vehicles specified in those guidelines. The state board may object to the technical methodology. The state board’s review of the methodology shall be completed within 60 days after submission and shall be limited to determining whether the methodology aligns with those guidelines. The metropolitan planning organization is encouraged to work with the state board until the state board concludes that the technical methodology operates accurately.",
+    "(ii) (I) After adoption, a metropolitan planning organization shall submit a sustainable communities strategy or an alternative planning strategy, if one has been adopted, to the state board for review, including the quantification of the reductions of emissions of greenhouse gases the strategy would achieve and a description of the technical methodology used to obtain that result. Within 60 days after receiving the strategy, the state board shall review the sustainable communities strategy or alternative planning strategy for completeness and determine whether the metropolitan planning organization’s determination used required data sources, disclosed assumptions, and applied methodology in a manner consistent with the guidelines adopted pursuant to subparagraph (P).",
+    "(II) If the state board does not identify any deficiencies, it shall, within that 60-day period, make one of the following determinations:",
+    "(ia) The strategy would, if implemented, achieve the greenhouse gas emission reduction targets established by the state board.",
+    "(ib) The strategy would, if implemented, achieve the greenhouse gas emission reduction targets established by the state board, but minor, nonsubstantive corrections must be made to the strategy.",
+    "(ic) The strategy would not, if implemented, achieve the greenhouse gas emission reduction targets established by the state board. If the state board makes this determination, it shall disclose, in writing, the specific, material deficiencies demonstrating why the strategy would not achieve those targets.",
+    "(id) The state board cannot determine whether the strategy would, if implemented, achieve the greenhouse gas emission reduction targets established by the state board because the metropolitan planning organization failed to address the state board’s findings of deficiencies provided within the 60-day period specified in this clause. If the state board makes this determination, it shall disclose, in writing, the specific, material deficiencies that the metropolitan planning organization failed to address.",
+    "(III) If the state board determines that the strategy is incomplete or does not satisfy those requirements, it shall, within that 60-day period, provide the metropolitan planning organization with written findings identifying the deficiencies. The metropolitan planning organization shall respond to those findings within 60 days of receiving the written findings from the state board.",
+    "(IV) Within 60 days after receiving the metropolitan planning organization’s response, the state board shall make one of the determinations specified in subclause (II).",
+    "(V) The 60-day review period shall begin when the state board receives the metropolitan planning organization’s response to the written findings of deficiencies.",
+    "(iii) If the state board does not make a determination within the applicable 60-day period set forth in clause (ii), as tolled, the strategy shall be deemed approved for implementation and funding alignment purposes.",
+    "(iv) Clauses (ii) and (iii) do not apply if either of the following apply:",
+    "(I) A metropolitan planning organization did not provide a technical methodology pursuant to clause (i).",
+    "(II) The state board objected in writing to the technical methodology used by the metropolitan planning organization and the metropolitan planning organization did not provide a revised technical methodology.",
+    "(v) If either of the criteria in clause (iv) apply, the state board shall make one of the determinations specified in subclause (II) of clause (ii) within 90 days after the metropolitan planning organization submits a complete strategy.",
+    "(vi) If the state board determines that the strategy submitted would not, if implemented, achieve the greenhouse gas emission reduction targets, or makes the determination in subclause (II) of clause (ii), the metropolitan planning organization shall revise its strategy or adopt an alternative planning strategy, if not previously adopted, and submit the strategy for review pursuant to clause (ii). At minimum, the metropolitan planning organization shall obtain state board acceptance that an alternative planning strategy would, if implemented, achieve the greenhouse gas emission reduction targets established for that region by the state board.",
+    "(vii) On or before September 1, 2018, and every four years thereafter to align with target setting, the state board shall prepare a report that assesses progress made by each metropolitan planning organization in meeting the regional greenhouse gas emission reduction targets set by the state board. The report shall include changes to the emissions of greenhouse gases in each region and data-supported metrics for the strategies used to meet the targets. The report shall also include a discussion of best practices and the challenges faced by the metropolitan planning organizations in meeting the targets, including the effect of state policies and funding. The report shall be developed in consultation with the metropolitan planning organizations, the California Transportation Commission, the Department of Housing and Community Development, and affected stakeholders. The report shall be submitted to the Assembly Committee on Transportation, the Assembly Committee on Natural Resources, the Senate Committee on Transportation, the Senate Committee on Housing, and the Senate Committee on Environmental Quality.",
+    "(K) Neither a sustainable communities strategy nor an alternative planning strategy regulates the use of land, nor, except as provided by subparagraph (J), shall either one be subject to any state approval. A sustainable communities strategy does not supersede the exercise of the land use authority of cities and counties within the region. This section does not limit the state board’s authority under any other law. This section does not authorize the abrogation of any vested right whether created by statute or by common law. This section does not require a city’s or county’s land use policies and regulations, including its general plan, to be consistent with the regional transportation plan or an alternative planning strategy. This section does not require a metropolitan planning organization to approve a sustainable communities strategy that would be inconsistent with Part 450 of Title 23 of, or Part 93 of Title 40 of, the Code of Federal Regulations and any administrative guidance under those regulations. This section does not relieve a public or private entity or any person from compliance with any other local, state, or federal law.",
+    "(L) This section does not require projects programmed for funding on or before December 31, 2011, to be subject to this paragraph if they (i) are contained in the 2007 or 2009 Federal Statewide Transportation Improvement Program, (ii) are funded pursuant to the Highway Safety, Traffic Reduction, Air Quality, and Port Security Bond Act of 2006 (Chapter 12.49 (commencing with Section 8879.20) of Division 1 of Title 2), or (iii) were specifically listed in a ballot measure before December 31, 2008, approving a sales tax increase for transportation projects. This section does not require a transportation sales tax authority to change the funding allocations approved by the voters for categories of transportation projects in a sales tax measure adopted before December 31, 2010. For purposes of this subparagraph, a transportation sales tax authority is a district, as defined in Section 7252 of the Revenue and Taxation Code, that is authorized to impose a sales tax for transportation purposes.",
+    "(M) A metropolitan planning organization, or a regional transportation planning agency not within a metropolitan planning organization, that is required to adopt a regional transportation plan not less than every five years may elect to adopt the plan not less than every four years. This election shall be made by the board of directors of the metropolitan planning organization or regional transportation planning agency no later than June 1, 2009, or thereafter 54 months before the statutory deadline for the adoption of housing elements for the local jurisdictions within the region, after a public hearing at which comments are accepted from members of the public and representatives of cities and counties within the region covered by the metropolitan planning organization or regional transportation planning agency. Notice of the public hearing shall be given to the general public and by mail to cities and counties within the region no later than 30 days before the date of the public hearing. Notice of election shall be promptly given to the Department of Housing and Community Development. The metropolitan planning organization or the regional transportation planning agency shall complete its next regional transportation plan within three years of the notice of election.",
+    "(N) Two or more of the metropolitan planning organizations for the Counties of Fresno, Kern, Kings, Madera, Merced, San Joaquin, Stanislaus, and Tulare may work together to develop and adopt multiregional goals and policies that may address interregional land use, transportation, economic, air quality, and climate relationships. The participating metropolitan planning organizations may also develop a multiregional sustainable communities strategy, to the extent consistent with federal law, or an alternative planning strategy for adoption by the metropolitan planning organizations. Each participating metropolitan planning organization shall consider any adopted multiregional goals and policies in the development of a sustainable communities strategy and, if applicable, an alternative planning strategy for its region.",
+    "(O) (i) Four years after adoption of a sustainable communities strategy, a metropolitan planning organization shall prepare a sustainable communities strategy implementation progress report, post the report on its internet website, and submit the report to the state board. The metropolitan planning organization shall concurrently provide a copy of the report to the Strategic Growth Council. The state board shall review and present the report in coordination with the metropolitan planning organization at a joint meeting held pursuant to Section 14516.",
+    "(ii) The report may be prepared in conjunction with, and may rely on the information developed for, the regional transportation plan update prepared during the same period of time.",
+    "(iii) The report shall be prepared using information and data available to the metropolitan planning organization, including, but not limited to, data provided by federal, state, regional, or local agencies such as the state board and the Department of Housing and Community Development. Where current data are not reasonably available, the metropolitan planning organization may rely on the most recent available data. The report shall identify the source of all information used. A metropolitan planning organization shall not be required to conduct new travel demand modeling, land use or scenario modeling, geospatial analysis, or primary data collection to prepare the report.",
+    "(iv) The report shall include all of the following and shall not be required to include information beyond these specified terms:",
+    "(I) A summary of progress made during the reporting period toward the greenhouse gas emission reduction targets, including indicators showing the direction of regional trends related to achievement of the target. Indicators shall only include those consistent with the required contents of a sustainable communities strategy described in subparagraph (B). The summary of progress may reference information included in the state board’s most recent report prepared pursuant to clause (vii) of subparagraph (J).",
+    "(II) A description of progress made during the reporting period on implementing each of the major greenhouse gas emission-reducing policies, programs, or projects identified in the sustainable communities strategy that support achievement of the greenhouse gas emission reduction target, including, based on reasonably available data, the extent to which observed development patterns are consistent with the development patterns forecasted in the sustainable communities strategy. For purposes of this subclause, “major greenhouse gas emission-reducing policies, programs, or projects” shall only include those consistent with the required contents of a sustainable communities strategy described in subparagraph (B).",
+    "(III) Identification of the capacity-increasing projects on the state highway system delivered earlier than assumed in the sustainable communities strategy. In developing this list of projects, the metropolitan planning organization may use the federally required metropolitan transportation improvement program and annual listing of federal obligations for fund obligations by project phase and status of construction completion. The report shall indicate whether a project is located in a disadvantaged community, equity priority community, or other comparable designation in the sustainable communities strategy. If the sustainable communities strategy does not include such a designation, the metropolitan planning organization shall use the definition of “disadvantaged communities” in the guidelines implementing Section 2382 of the Streets and Highways Code.",
+    "(IV) A list of transportation projects added to, removed from, or amended in the regional transportation plan since the last adopted sustainable communities strategy. The report shall indicate whether a transportation project is located in a disadvantaged community, equity priority community, or other comparable designation in the sustainable communities strategy. If the sustainable communities strategy does not include such a designation, the metropolitan planning organization shall use the definition of “disadvantaged communities” in the guidelines implementing Section 2382 of the Streets and Highways Code.",
+    "(V) An assessment of legal, policy, or funding barriers to additional progress on each of the major greenhouse gas emission reducing strategies, policies, programs, or projects identified in the sustainable communities strategy. To the extent reasonably identifiable, the assessment shall describe the principal actions or circumstances contributing to any shortfall in progress involving the metropolitan planning organization, local governments, the state, transit operators, project sponsors, the availability or timing of state or federal funding, federal actions or requirements, economic or housing market conditions, or other factors outside the metropolitan planning organization’s authority or control.",
+    "(v) A metropolitan planning organization with a population of fewer than 1,500,000 people shall comply with the requirements of this subparagraph to the extent feasible using reasonably available information. If the metropolitan planning organization is unable to fully address a required indicator or element because of a material staffing, fiscal, technical, or data limitation, its governing board may adopt a certification that identifies the specific requirement affected, describes the limitation, and explains the reasonable efforts undertaken to address it. The certification shall apply only to the identified requirement and shall not relieve the metropolitan planning organization from reporting on any other required indicator or element. An omission or limited treatment covered by the certification shall not constitute noncompliance if the metropolitan planning organization provides the best information reasonably available and explains any additional resources or information needed to fully satisfy the requirement.",
+    "(vi) This subparagraph does not require a metropolitan planning organization to acquire new staff, consultants, data, or analytical tools.",
+    "(P) (i) The state board shall adopt or update guidelines for the preparation of sustainable communities strategies before, or concurrently with, updating targets pursuant to subparagraph (A). The guidelines shall address greenhouse gas emissions quantification and technical assumptions reasonably necessary to evaluate whether a sustainable communities strategy, if implemented, would achieve the applicable targets. The guidelines shall clearly identify the information, assumptions, methodologies, and evaluation standards the state board will apply when reviewing a sustainable communities strategy, including all of the following:",
+    "(I) An overview of the sustainable communities strategies submission and evaluation process.",
+    "(II) A checklist of information the state board needs to make its determination whether the sustainable communities strategy, if implemented, would achieve the target.",
+    "(III) One or more examples of acceptable data sources, assumptions, and technical methodologies that metropolitan planning organizations and regional transportation planning agencies may employ to estimate the emissions of greenhouse gases in a manner that is consistent with the target methodology provided pursuant to subparagraph (A). The identification of any of those examples shall not be construed to require the use of any particular data source, assumption, or methodology. A metropolitan planning organization or regional transportation planning agency may use alternative, technically supported data sources, assumptions, or methodologies to demonstrate consistency with the target methodology, as described in subparagraph (J).",
+    "(ii) The guidelines adopted pursuant to this subparagraph are intended to provide technical assistance and promote transparency and consistency in the evaluation process. The guidelines shall not limit the authority of a metropolitan planning organization or regional transportation planning agency to demonstrate that its sustainable communities strategy, if implemented, would achieve the applicable greenhouse gas emission reduction target using technically supported data, assumptions, methodologies, models, or other analytical approaches not identified in the guidelines.",
+    "(iii) Before adopting the guidelines, the state board shall do all of the following:",
+    "(I) Consult with representatives of the metropolitan planning organizations, the California Transportation Commission, the Strategic Growth Council, and organizations representing builders, environmental organizations, affordable housing advocates, equity organizations, labor, local transportation agencies, and local governments.",
+    "(II) Make the proposed guidelines publicly available.",
+    "(III) Provide at least 30 days for public comment.",
+    "(IV) Consider all comments received.",
+    "(iv) Before adopting, updating, or revising the guidelines, the state board shall hold two workshops on the guidelines, one in northern California and one in southern California. The state board shall adopt the final guidelines in a public hearing.",
+    "(v) Guidelines adopted pursuant to this subparagraph are not intended, and shall not be construed, to affect the land use authority of local governments, as described in subparagraph (K).",
+    "(3) An action element that describes the programs and actions necessary to implement the plan and assigns implementation responsibilities. The action element may describe all transportation projects proposed for development during the 20-year or greater life of the plan. The action element shall consider congestion management programming activities carried out within the region.",
+    "(4) (A) A financial element that summarizes the cost of plan implementation constrained by a realistic projection of available revenues. The financial element shall also contain recommendations for allocation of funds. A county transportation commission created pursuant to the County Transportation Commissions Act (Division 12 (commencing with Section 130000) of the Public Utilities Code) shall be responsible for recommending projects to be funded with regional improvement funds, if the project is consistent with the regional transportation plan. The first five years of the financial element shall be based on the five-year estimate of funds developed pursuant to Section 14524. The financial element may recommend the development of specified new sources of revenue, consistent with the policy element and action element.",
+    "(B) The financial element of transportation planning agencies with populations that exceed 200,000 persons may include a project cost breakdown for all projects proposed for development during the 20-year life of the plan that includes total expenditures and related percentages of total expenditures for all of the following:",
+    "(i) State highway expansion.",
+    "(ii) State highway rehabilitation, maintenance, and operations.",
+    "(iii) Local road and street expansion.",
+    "(iv) Local road and street rehabilitation, maintenance, and operation.",
+    "(v) Mass transit, commuter rail, and intercity rail expansion.",
+    "(vi) Mass transit, commuter rail, and intercity rail rehabilitation, maintenance, and operations.",
+    "(vii) Pedestrian and bicycle facilities.",
+    "(viii) Environmental enhancements and mitigation.",
+    "(ix) Research and planning.",
+    "(x) Other categories.",
+    "(C) The metropolitan planning organization or county transportation agency, whichever entity is appropriate, shall consider financial incentives for cities and counties that have resource areas or farmland for the purposes of, for example, transportation investments for the preservation and safety of the city street or county road system and farm-to-market and interconnectivity transportation needs. The metropolitan planning organization or county transportation agency, whichever entity is appropriate, shall also consider financial assistance for counties to address countywide service responsibilities in counties that contribute toward the greenhouse gas emission reduction targets by implementing policies for growth to occur within their cities.",
+    "(c) Each transportation planning agency may also include other factors of local significance as an element of the regional transportation plan, including, but not limited to, issues of mobility for specific sectors of the community, including, but not limited to, senior citizens.",
+    "(d) (1) Except as otherwise provided in this subdivision, each transportation planning agency shall adopt and submit, every four years, an updated regional transportation plan to the California Transportation Commission and the Department of Transportation. A transportation planning agency located in a federally designated air quality attainment area or that does not contain an urbanized area may at its option adopt and submit a regional transportation plan every five years. When applicable, the plan shall be consistent with federal planning and programming requirements and shall conform to the regional transportation plan guidelines adopted by the California Transportation Commission. Before adoption of the regional transportation plan, a public hearing shall be held after the giving of notice of the hearing by publication in the affected county or counties pursuant to Section 6061.",
+    "(2) A metropolitan planning organization subject to the eight-year sustainable communities strategy cycle established pursuant to paragraph (2) of subdivision (b) shall comprehensively update its sustainable communities strategy every eight years. During an intervening four-year update of its regional transportation plan, the metropolitan planning organization shall incorporate or reaffirm its most recently adopted sustainable communities strategy.",
+    "(3) A metropolitan planning organization shall analyze the greenhouse gas emission reductions associated with the four-year update of its regional transportation plan. If, based on that analysis, the metropolitan planning organization determines that the sustainable communities strategy is projected to materially fall short of an applicable target, that determination shall constitute a substantial material change. The metropolitan planning organization shall amend the sustainable communities strategy to address the identified shortfall and submit the amended strategy to the state board for review pursuant to subparagraph (J) of paragraph (2) of subdivision (b). The metropolitan planning organization shall publicly document the analysis, its determination, and the basis for concluding whether any projected shortfall is material."
+   ]
+  },
+  {
+   "action": "SEC. 3. Section 65080.01 of the Government Code is amended to read:",
+   "paras": [
+    "§65080.01. The following definitions apply to terms used in Section 65080:",
+    "(a) “Air district” has the same meaning as the term “district,” as defined in Section 39025 of the Health and Safety Code.",
+    "(b) “Consistent” has the same meaning as that term is used in Section 134 of Title 23 of the United States Code.",
+    "(c) “Farmland” means farmland that is outside all existing city spheres of influence or city limits as of January 1, 2008, and is one of the following:",
+    "(1) Classified as prime or unique farmland or farmland of statewide importance.",
+    "(2) Farmland classified by a local agency in its general plan that meets or exceeds the standards for prime or unique farmland or farmland of statewide importance.",
+    "(d) “Feasible” means capable of being accomplished in a successful manner within a reasonable period of time, taking into account economic, environmental, legal, social, and technological factors.",
+    "(e) “Internally consistent” means that the contents of the elements of the regional transportation plan must be consistent with each other.",
+    "(f) “Resource areas” include all of the following:",
+    "(1) All publicly owned parks and open space.",
+    "(2) Open space or habitat areas protected by natural community conservation plans, habitat conservation plans, and other adopted natural resource protection plans.",
+    "(3) Habitat for species identified as candidate, fully protected, sensitive, or species of special status by local, state, or federal agencies or protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plan Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code).",
+    "(4) Lands subject to conservation or agricultural easements for conservation or agricultural purposes by local governments, special districts, or nonprofit 501(c)(3) organizations, areas of the state designated by the State Mining and Geology Board as areas of statewide or regional significance pursuant to Section 2790 of the Public Resources Code, and lands under Williamson Act contracts.",
+    "(5) Areas designated for open-space or agricultural uses in adopted open-space elements or agricultural elements of the local general plan or by local ordinance.",
+    "(6) Areas containing biological resources as described in Appendix G of the CEQA Guidelines that may be significantly affected by the sustainable communities strategy or the alternative planning strategy.",
+    "(7) An area subject to flooding where a development project would not, at the time of development in the judgment of the agency, meet the requirements of the National Flood Insurance Program or where the area is subject to more protective provisions of state law or local ordinance.",
+    "(g) “State board” means the State Air Resources Board."
+   ]
+  },
+  {
+   "action": "SEC. 4. Section 99315 of the Public Utilities Code is amended to read:",
+   "paras": [
+    "§99315. Funds made available pursuant to subdivision (a) of Section 99312 shall be available for all of the following purposes:",
+    "(a) To the department for bus and passenger rail services pursuant to Sections 14035, 14035.5, and 14038 of the Government Code.",
+    "(b) To the department for funding of public transit capital improvement projects in the state transportation improvement program, pursuant to Section 14529 of the Government Code.",
+    "(c) (1) To the department for its planning activities not payable from the State Highway Account in the State Transportation Fund, its mass transportation responsibilities, and its assistance in regional transportation planning.",
+    "(2) For activities undertaken pursuant to paragraph (1) within the region of a metropolitan planning organization, the department shall limit funding to activities that are consistent with the applicable sustainable communities strategy accepted by the state board or, if the state board has accepted an alternative planning strategy, that supports a specific greenhouse gas emission reduction strategy or addresses an impediment identified in that alternative planning strategy, pursuant to Section 65080 of the Government Code, to help achieve the greenhouse gas emission reduction targets.",
+    "(d) To the department for allocation by the director to the Institute of Transportation Studies of the University of California for training and research in public transportation systems engineering and management and coordination with other transportation modes.",
+    "(e) To the commission for its activities not payable from the State Highway Account.",
+    "(f) To the Public Utilities Commission for its passenger rail safety responsibilities specified in statute on commuter rail, intercity rail, and urban rail transit lines.",
+    "(g) For transfer to the Transportation Debt Service Fund created by Section 16965 of the Government Code to reimburse the General Fund for current year debt service payments on rail and transit-related general obligation bonds other than those issued pursuant to the Clean Air and Transportation Improvement Act of 1990 (Part 11.5 (commencing with Section 99600)), as follows:",
+    "(1) For the 2009–10 fiscal year, the Controller shall transfer up to one hundred forty-two million fifty-eight thousand dollars ($142,058,000) to the fund upon order of the Director of Finance for debt service paid or payable within that fiscal year.",
+    "(2) For the 2010–11 fiscal year, the Controller shall transfer up to ninety million eight hundred eighty-six thousand dollars ($90,886,000) in revenues collected before November 2, 2010, to the fund, as follows:",
+    "(A) By the 15th of every month, the Treasurer, in consultation with the Director of Finance, shall notify the Controller of the amount of debt service that will be paid on each transportation bond during that month.",
+    "(B) Within two business days following the 28th of every month, the Controller shall transfer from the account to the Transportation Debt Service Fund an amount equal to monthly debt service paid by the General Fund on any bonds issued pursuant to Proposition 108 (1990) and Proposition 1A (2008), and one-quarter of the monthly debt service paid by the General Fund on any bonds issued pursuant to Proposition 1B (2006).",
+    "(C) Any transfers made from the Public Transportation Account pursuant to this subdivision for any months after October 2010 shall be reversed and repaid to the account, and shall instead be made, to the extent authorized, from weight fee revenues in the State Highway Account as provided for in Section 9400.4 of the Vehicle Code."
+   ]
+  },
+  {
+   "action": "SEC. 5. Section 2033.5 of the Streets and Highways Code is amended to read:",
+   "paras": [
+    "§2033.5. The department, from funds made available pursuant to subdivision (f) of Section 2032, shall allocate local planning grants to encourage local and regional planning that furthers state goals, including, but not limited to, the goals and best practices cited in the regional transportation plan guidelines adopted by the commission pursuant to Sections 14522 to 14522.3, inclusive, of the Government Code. The department shall develop a grant guide and shall consult with the State Air Resources Board, the Office of Land Use and Climate Innovation, and the Department of Housing and Community Development in the development of the grant guide, and shall provide status reports as it administers these funds. For areas within a metropolitan planning organization, the grant guide shall encourage planning that furthers the goals of a sustainable communities strategy or alternative planning strategy adopted pursuant to paragraph (2) of subdivision (b) of Section 65080 of the Government Code. The grant guide shall be exempt from the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code)."
+   ]
+  },
+  {
+   "action": "SEC. 6. Section 2192 of the Streets and Highways Code is amended to read:",
+   "paras": [
+    "§2192. (a) The following revenues shall be allocated for infrastructure projects pursuant to this section:",
+    "(1) The revenues deposited in the Trade Corridor Enhancement Account pursuant to Section 2192.4, except for those revenues in the account that were appropriated by Senate Bill 132 of the 2017–18 Regular Session (Chapter 7 of the Statutes of 2017).",
+    "(2) An amount of federal funds equal to the amount of revenue apportioned to the state under Section 167 of Title 23 of the United States Code from the national highway freight programs, pursuant to the federal Fixing America’s Surface Transportation Act (“FAST Act,” Public Law 114-94).",
+    "(b) (1) The funding described in subdivision (a) shall be available upon appropriation for allocation by the commission for infrastructure improvements in this state on federally designated Trade Corridors of National and Regional Significance, on the Primary Freight Network, and along other corridors that have a high volume of freight movement, as determined by the commission and as identified in the state freight plan developed pursuant to Section 13978.8 of the Government Code.",
+    "(2) (A) Projects eligible for funding shall be included in an adopted regional transportation plan. Projects within the boundaries of a metropolitan planning organization shall be included in an adopted regional transportation plan that includes a sustainable communities strategy determined by the State Air Resources Board to achieve the region’s greenhouse gas emission reduction targets.",
+    "(B) If the metropolitan planning organization has adopted an alternative planning strategy pursuant to Section 65080 of the Government Code, a project shall be eligible only if all of the following apply:",
+    "(i) The alternative planning strategy has been accepted by the State Air Resources Board.",
+    "(ii) The predominant purpose of the project is to implement a specific greenhouse gas emission reduction strategy or addresses an impediment to achieving the applicable greenhouse gas emission reduction target identified in the alternative planning strategy.",
+    "(iii) The project applicant uses the same modeling assumptions, if available, as the alternative planning strategy for all aspects of the project application, and clearly documents the assumptions, if any, that were not available from the alternative planning strategy. The project applicant shall also specifically delineate the localized or other assumptions used instead.",
+    "(iv) The metropolitan planning organization has timely submitted any required implementation progress report pursuant to subparagraph (O) of paragraph (2) of subdivision (b) of Section 65080 of the Government Code.",
+    "(C) A project within the boundaries of a metropolitan planning organization whose sustainable communities strategy has not been accepted by the State Air Resources Board shall remain eligible for funding under this section for up to 12 months following that determination if the metropolitan planning organization is actively revising the sustainable communities strategy or preparing an alternative planning strategy in accordance with Section 65080 of the Government Code. The commission shall not allocate funds to a project pursuant to this subparagraph until the sustainable communities strategy or alternative planning strategy has been accepted by the State Air Resources Board. A project funded pursuant to this subparagraph shall have the predominant purpose of implementing a specific greenhouse gas emission reduction strategy or addressing an impediment to achieving the applicable greenhouse gas emission reduction target and shall comply with the requirements of clauses (iii) and (iv) of subparagraph (B).",
+    "(3) In developing guidelines for implementing this section, the commission shall (A) apply the guiding principles, to the maximum extent practicable, in the California Sustainable Freight Action Plan released in July 2016 pursuant to Executive Order No. B-32-15, and (B) consult the state freight plan and the applicable port master plan.",
+    "(c) Eligible projects for these funds include, but are not limited to, all of the following:",
+    "(1) Highway improvements to more efficiently accommodate the movement of freight, particularly for ingress and egress to and from the state’s land ports of entry, rail terminals, and seaports, including navigable inland waterways used to transport freight between seaports, land ports of entry, and airports, and to relieve traffic congestion along major trade or goods movement corridors.",
+    "(2) Freight rail system improvements to enhance the ability to move goods from seaports, land ports of entry, and airports to warehousing and distribution centers throughout California, including projects that separate rail lines from highway or local road traffic, improve freight rail mobility, and other projects that improve the safety, efficiency, and capacity of the rail freight system.",
+    "(3) Projects to enhance the capacity and efficiency of ports, except that funds available under this section shall not be allocated to a project that includes the purchase of fully automated cargo handling equipment. For purposes of this paragraph, “fully automated” means equipment that is remotely operated or remotely monitored, with or without the exercise of human intervention or control. This paragraph does not prohibit the use of funds available pursuant to this section for a project that includes the purchase of human-operated zero-emission equipment, human-operated near-zero-emission equipment, and infrastructure supporting that human-operated equipment. This section does not prohibit the purchase of devices that support that human-operated equipment, including equipment to evaluate the usage and environmental benefits of that human-operated equipment.",
+    "(4) Truck corridor improvements, including dedicated truck facilities or truck toll facilities, including the mitigation of the emissions from trucks or these facilities.",
+    "(5) Border access improvements that enhance goods movement between California and Mexico and that maximize the state’s ability to access funds made available to the state by federal law.",
+    "(6) Surface transportation, local road, and connector road improvements to effectively facilitate the movement of goods, particularly for ingress and egress to and from the state’s land ports of entry, airports, and seaports, to relieve traffic congestion along major trade or goods movement corridors.",
+    "(7) Projects that employ advanced and innovative technology to improve the flow of freight, such as intelligent transportation systems, public infrastructure, excluding vehicles, that enables zero-emission or near-zero emission goods movement, real time information systems, weigh-in-motion devices, electronic screening and credentialing systems, traffic signal optimization, work zone management and information systems, ramp metering, and electronic cargo and border security technologies.",
+    "(8) Environmental and community mitigation or efforts to reduce environmental impacts of freight movement, such as projects that reduce noise, overnight truck idling, or truck queues, and advanced traveler information systems such as freight advanced traveler information systems that optimize operations to reduce empty-load trips.",
+    "(d) Projects funded with revenues identified in paragraph (1) of subdivision (a) shall be consistent with Article XIX of the California Constitution.",
+    "(e) (1) In adopting the program of projects to be funded with funds described in subdivision (a), the commission shall evaluate the total potential economic and noneconomic benefits of the program of projects to California’s economy, environment, and public health. The evaluation shall specifically assess localized impacts in disadvantaged communities. The commission shall consult with the agencies identified in Executive Order No. B-32-15 and metropolitan planning organizations in order to use the appropriate models, techniques, and methods to develop the parameters for evaluating the program of projects. The commission shall allocate the funding from subdivision (a) for trade infrastructure improvements as follows:",
+    "(A) Sixty percent of the funds shall be available for projects nominated by regional transportation agencies and other public agencies, including counties, cities, and port authorities, in consultation with the department. The commission shall provide reasonable geographic targets for funding allocations without constraining what an agency may propose or what the commission may approve.",
+    "(B) Forty percent of the funds shall be available for projects nominated by the department, in consultation with regional transportation agencies.",
+    "(2) In adopting a program of projects pursuant to paragraph (1), the commission shall prioritize projects jointly nominated and jointly funded by the state and local agencies. In considering geographic balance for the overall program, the commission may adjust the corridor-based targets in subparagraph (A) of paragraph (1) to account for projects programmed pursuant to subparagraph (B) of paragraph (1).",
+    "(f) (1) (A) The commission shall adopt guidelines, including a transparent process to evaluate projects and to allocate the funding described in subdivision (a) for trade infrastructure improvements in a manner that does all of the following:",
+    "(i) Addresses the state’s most urgent needs.",
+    "(ii) Balances the demands of various land ports of entry, seaports, and airports.",
+    "(iii) Places emphasis on projects that improve trade corridor mobility and safety while reducing emissions of diesel particulates, greenhouse gases, and other pollutants and reducing other negative community impacts, especially in disadvantaged communities.",
+    "(iv) Makes a significant contribution to the state’s economy.",
+    "(v) Recognizes the key role of the state in project identification.",
+    "(vi) Supports integrating statewide goods movement priorities in a corridor approach.",
+    "(vii) Includes disadvantaged communities measures, as established by the California Environmental Protection Agency pursuant to Section 39711 of the Health and Safety Code, and other tools the commission determines, for evaluating benefits or costs for disadvantaged communities and low-income communities.",
+    "(B) Project nominations shall include either a quantitative or qualitative assessment of the benefits the project is expected to achieve relative to the evaluation criteria.",
+    "(2) The guidelines adopted pursuant to paragraph (1) may include streamlining of project delivery by authorizing regional transportation agencies and other public agencies to seek commission approval of a letter of no prejudice that allows the agency to expend its own funds for a project programmed in a future year of the adopted program of projects, in advance of allocation of funds to the project by the commission, and to be reimbursed at a later time for eligible expenditures. A letter of no prejudice shall only be available to local or regional transportation agencies for moneys that have been identified for future allocation to the applicant agency. Moneys designated for the program shall only be reimbursed when there is funding available in an amount sufficient to make the reimbursement.",
+    "(g) In addition, the commission shall also consider the following factors when allocating these funds:",
+    "(1) “Velocity,” which means the speed by which large cargo would travel from the land port of entry or seaport through the distribution system.",
+    "(2) “Throughput,” which means the volume of cargo that would move from the land port of entry or seaport through the distribution system.",
+    "(3) “Reliability,” which means a reasonably consistent and predictable amount of time for cargo to travel from one point to another on any given day or at any given time in California.",
+    "(4) “Congestion reduction,” which means the reduction in recurrent daily hours of delay to be achieved.",
+    "(h) For purposes of this section, the following definitions apply:",
+    "(1) “Disadvantaged communities” means those communities identified by the California Environmental Protection Agency pursuant to Section 39711 of the Health and Safety Code.",
+    "(2) “Low-income communities” means census tracts with median household incomes at or below 80 percent of the statewide median income or with median household incomes at or below the threshold designated as low income by the Department of Housing and Community Development’s list of state income limits adopted pursuant to Section 50093 of the Health and Safety Code."
+   ]
+  },
+  {
+   "action": "SEC. 7. Section 2391 of the Streets and Highways Code is amended to read:",
+   "paras": [
+    "§2391. (a) Pursuant to subdivision (b) of Section 11053 of the Revenue and Taxation Code, two hundred fifty million dollars ($250,000,000) in the State Highway Account shall be available for appropriation to the Department of Transportation in each annual Budget Act for the Solutions for Congested Corridors Program. Funds made available for the program shall be allocated by the California Transportation Commission to projects designed to achieve a balanced set of transportation, environmental, and community access improvements within highly congested travel corridors throughout the state.",
+    "(b) (1) Funding shall be available for projects that do all of the following:",
+    "(A) Make specific performance improvements.",
+    "(B) Support the implementation of a regional transportation plan.",
+    "(C) Reduce congestion in highly traveled corridors.",
+    "(D) Provide more transportation choices for residents, commuters, and visitors to the area of the corridor while preserving the character of the local community and creating opportunities for neighborhood enhancement projects.",
+    "(2) In order to mitigate increases in vehicle miles traveled, greenhouse gases, and air pollution, highway lane capacity-increasing projects funded by this program shall be limited to high-occupancy vehicle lanes, managed lanes as defined in Section 14106 of the Government Code, and other nongeneral purpose lane improvements primarily designed to improve safety for all modes of travel, such as auxiliary lanes, truck climbing lanes, or dedicated bicycle lanes.",
+    "(3) Project elements may include improvements to state highways, local streets and roads, public transit facilities, bicycle and pedestrian facilities, and restoration or preservation work that protects critical local habitat or open space.",
+    "(4) (A) A project shall be part of a comprehensive corridor plan designed to support the objectives identified in paragraph (1), or otherwise demonstrate sufficient corridor-level planning and collaboration between state, regional, and local agencies, as determined by the California Transportation Commission.",
+    "(B) This paragraph does not apply to an active transportation project that also meets the project eligibility guidelines for the Active Transportation Program established in subdivision (f) of Section 2382."
+   ]
+  },
+  {
+   "action": "SEC. 8. Section 2392 of the Streets and Highways Code is amended to read:",
+   "paras": [
+    "§2392. (a) A regional transportation planning agency or county transportation commission or authority responsible for preparing a regional transportation improvement plan under Section 14527 of the Government Code or the department may nominate projects for funding through the program that are consistent with the policy objectives of the program as set forth in this chapter.",
+    "(b) The commission shall allocate no more than one-half of the funds available each year to projects nominated exclusively by the department.",
+    "(c) A project nomination shall do all of the following:",
+    "(1) Include documentation regarding the quantitative and qualitative measures validating the project’s consistency with the policy objectives of the program as set forth in this chapter.",
+    "(2) Demonstrate that the improvements to be undertaken are the result of collaboration between the department and local or regional partners that reflect a comprehensive approach to addressing congestion and quality-of-life issues within the affected corridor through investment in transportation and related environmental solutions. Collaboration between the partners may be demonstrated by a project being jointly nominated by both the regional agency and the department.",
+    "(3) Demonstrate that the project is included in the adopted regional transportation plan."
+   ]
+  },
+  {
+   "action": "SEC. 9. Section 2393 of the Streets and Highways Code is amended to read:",
+   "paras": [
+    "§2393. (a) Projects shall be included in an adopted regional transportation plan. Projects within the boundaries of a metropolitan planning organization shall be included in an adopted regional transportation plan that includes a sustainable communities strategy determined by the State Air Resources Board to achieve the region’s greenhouse gas emission reduction targets.",
+    "(b) If the metropolitan planning organization has adopted an alternative planning strategy pursuant to Section 65080 of the Government Code, a project shall be eligible only if all of the following apply:",
+    "(1) The alternative planning strategy has been accepted by the State Air Resources Board.",
+    "(2) The predominant purpose of the project is to implement a specific greenhouse gas emission reduction strategy or addresses an impediment to achieving the applicable greenhouse gas emission reduction target identified in the alternative planning strategy.",
+    "(3) The project applicant uses the same modeling assumptions, if available, as the alternative planning strategy for all aspects of the project application, including demonstrating greenhouse gas emission reductions, and clearly documents the assumptions, if any, that were not available from the alternative planning strategy. The project applicant shall also specifically delineate the localized or other assumptions used instead.",
+    "(4) The metropolitan planning organization has timely submitted any required implementation progress report pursuant to subparagraph (O) of paragraph (2) of subdivision (b) of Section 65080 of the Government Code.",
+    "(c) A project within the boundaries of a metropolitan planning organization whose sustainable communities strategy has not been accepted by the State Air Resources Board shall remain eligible under this section for up to 12 months following that determination if the metropolitan planning organization is actively revising the sustainable communities strategy or preparing an alternative planning strategy in accordance with Section 65080 of the Government Code. The commission shall not allocate funds to a project pursuant to this subdivision until the sustainable communities strategy or alternative planning strategy has been accepted by the State Air Resources Board. A project funded pursuant to this subdivision shall have the predominant purpose of implementing a specific greenhouse gas emission reduction strategy or addressing an impediment to achieving the applicable greenhouse gas emission reduction target and shall comply with paragraphs (3) and (4) of subdivision (b)."
+   ]
+  },
+  {
+   "action": "SEC. 10. Section 2394 of the Streets and Highways Code is amended to read:",
+   "paras": [
+    "§2394. (a) The commission shall allocate program funds to projects that meet the requirements of Section 2393. The commission shall score the proposed projects on the following criteria:",
+    "(1) Safety.",
+    "(2) Congestion.",
+    "(3) Accessibility.",
+    "(4) Economic development and job creation and retention.",
+    "(5) Furtherance of state and federal ambient air standards and greenhouse gas emission reduction standards pursuant to the California Global Warming Solutions Act of 2006 (Division 25.5 (commencing with Section 38550) of the Health and Safety Code) and Senate Bill 375 (Chapter 728 of the Statutes of 2008).",
+    "(6) Efficient land use.",
+    "(7) Matching funds.",
+    "(8) Project deliverability.",
+    "(b) Beginning with the 2032 program of projects, within the boundaries of a metropolitan planning organization, the commission shall give priority to allocating funding to near-term projects in the adopted regional transportation plan that includes a sustainable communities strategy determined by the State Air Resources Board to achieve the region’s greenhouse gas emission reduction targets or an alternative planning strategy that has been accepted by the State Air Resources Board."
+   ]
+  },
+  {
+   "action": "SEC. 11. Section 2397 of the Streets and Highways Code is amended to read:",
+   "paras": [
+    "§2397. On or before March 1, 2019, and annually thereafter, the commission shall provide project update reports on the development and implementation of the program described in this chapter in its annual report to the Legislature prepared pursuant to Section 14535 of the Government Code. A copy of the report shall be provided to the Joint Legislative Budget Committee and the transportation policy committees of both houses of the Legislature. The report, at minimum, shall include information on each project that received funding under the program, including, but not limited to, all of the following:",
+    "(a) A summary describing the overall progress of the project since the initial award.",
+    "(b) Expenditures to date for all project phase costs.",
+    "(c) A summary of milestones achieved during the prior year and milestones expected to be reached in the coming year.",
+    "(d) An assessment of how the project is meeting the quantitative and qualitative measurements identified in the project nomination, as outlined in Section 2392."
+   ]
+  },
+  {
+   "action": "SEC. 12. If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "1005",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law requires certain transportation planning agencies to prepare and adopt regional transportation plans directed at achieving a coordinated and balanced regional transportation system. Existing law requires a regional transportation plan to include a policy element, a sustainable communities strategy prepared by a metropolitan planning organization, an action element, and a financial element, as provided. Existing law requires those transportation planning agencies to adopt and submit every 4 years, except as provided, an updated regional transportation plan to the California Transportation Commission and the Department of Transportation.",
+  "Existing law requires a sustainable communities strategy to achieve regional targets set by the State Air Resources Board for the reduction of greenhouse gas emissions from the automobile and light truck sector in the region for 2020 and 2035, respectively, and requires the state board to update those targets every 8 years, consistent with each metropolitan planning organization’s timeframe for updating its regional transportation plan, as specified. Existing law establishes certain procedural requirements for setting and updating those targets and authorizes the state board to revise the targets every 4 years based on changes in specified factors. Existing law, to the extent the sustainable communities strategy is unable to achieve the greenhouse gas emission reduction targets, requires a metropolitan planning organization to prepare an alternative planning strategy to the sustainable communities strategy showing how the targets would be achieved through alternative development patterns, infrastructure, or additional transportation measures or policies. Existing law requires the state board to review each metropolitan planning organization’s sustainable communities strategy and alternative planning strategy to determine whether the strategy, if implemented, would achieve the greenhouse gas emission reduction targets.",
+  "This bill would revise and recast the requirements for a sustainable communities strategy, including, among other things, (A) requiring a sustainable communities strategy every 8 years with a progress report after 4 years instead of requiring a sustainable communities strategy every 4 years, (B) requiring the state board to provide each region with greenhouse gas emission reduction targets for 2035 and 2045, and (C) requiring the state board to hold technical workshops before providing those targets. The bill would also revise the state board’s process for reviewing sustainable communities strategies and alternative planning strategies, as specified.",
+  "Because the bill would expand duties of local agencies, it would impose a state-mandated local program.",
+  "(2) Existing law requires, commencing January 1, 2020, the San Diego Association of Governments to begin developing an implementation report that tracks the implementation of its most recently adopted sustainable communities strategy, as provided. Existing law requires the Sacramento Area Council of Governments to report on the regional implementation of its most recently adopted sustainable communities strategy, as provided.",
+  "This bill would repeal those provisions.",
+  "(3) Existing law requires the Department of Transportation to prepare the California Transportation Plan for submission to the Governor and the Legislature as a long-range planning document that incorporates various elements and is consistent with specified expressions of legislative intent. Existing law requires the plan to identify the statewide integrated multimodal transportation system needed to achieve statewide greenhouse gas emission reduction targets and to attain state and national air quality standards.",
+  "This bill would also require the plan to, among other things, incorporate performance measures into planning that informs delivery of transportation capital projects to help achieve the goals of the plan. The bill would, commencing with the 3rd update to the plan, revise the information that the department is required to include in the plan to include, among others, relevant performance measures within each district of the department.",
+  "(4) Existing law requires certain funds appropriated by the Legislature from the Public Transportation Account to be made available for specified purposes, including, among other purposes, for the department’s planning activities, mass transportation responsibilities, and assistance in regional transportation planning, as specified.",
+  "This bill, for any activities within the region of a metropolitan planning organization, would require the department to limit funding to activities that are consistent with an applicable sustainable communities strategy or alternative planning strategy, as specified.",
+  "(5) Existing law creates the Road Maintenance and Rehabilitation Program to address deferred maintenance on the state highway system and the local street and road system. Existing law provides for the deposit of various moneys for the program into the Road Maintenance and Rehabilitation Account. Existing law requires funds in the account to be allocated for various purposes, including, among others, $25,000,000, upon appropriation by the Legislature, for local planning grants to encourage local and regional planning that furthers state goals, as provided. Existing law requires the department to develop a grant guide for the allocation of these grants.",
+  "This bill, for areas within a metropolitan planning organization, would require the grant guide to encourage planning that furthers the goals of a sustainable communities strategy or alternative planning strategy.",
+  "(6) Existing law requires the commission, under a program commonly known as the Trade Corridor Enhancement Program, to allocate certain state and federal funds to infrastructure projects located on or along specified transportation corridors. Existing law establishes the Solutions for Congested Corridors Program and requires the commission to allocate state funds made available to the program to projects designed to achieve a balanced set of transportation, environmental, and community access improvements within highly congested travel corridors throughout the state. Under both programs, existing law requires projects within the boundaries of a metropolitan planning organization to be included in an adopted regional transportation plan that includes a sustainable communities strategy determined by the state board to achieve the region’s greenhouse gas emission reduction targets.",
+  "For purposes of those programs, this bill would instead require, if the metropolitan planning organization has adopted an alternative planning strategy, the projects to meet prescribed requirements, including that the predominant purpose of the project is to implement a specific greenhouse gas emission reduction strategy or addresses an impediment to achieving an applicable greenhouse gas emission reduction target identified in the alternative planning strategy.",
+  "(7) Existing law requires funding to be available under the Solutions for Congested Corridors Program for projects that make specific performance improvements and are part of a comprehensive corridor plan designed to reduce congestion in highly traveled corridors. Existing law authorizes the department and certain regional transportation planning agencies to nominate projects for funding through the program.",
+  "This bill would require funding to be available under the program for projects that, among other things, make specific performance improvements and support the implementation of a regional transportation plan. The bill would revise the requirements applicable to a project nomination under the program. The bill would require the commission to allocate program funds to projects that, among other things, are included in an adopted regional transportation plan, as specified.",
+  "(8) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "3b9342c71ab35104",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2026-02-13"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 16.",
+   "chamber": "S",
+   "date": "2026-02-17"
+  },
+  {
+   "action": "Referred to Coms. on E.Q. and TRANS.",
+   "chamber": "S",
+   "date": "2026-02-26"
+  },
+  {
+   "action": "Set for hearing April 8.",
+   "chamber": "S",
+   "date": "2026-03-10"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.Q.",
+   "chamber": "S",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on TRANS. (Ayes 5. Noes 0. Page 3792.) (April 8).",
+   "chamber": "S",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on TRANS.",
+   "chamber": "S",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "Set for hearing April 21.",
+   "chamber": "S",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 1. Page 3985.) (April 21). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Set for hearing May 4.",
+   "chamber": "S",
+   "date": "2026-04-24"
+  },
+  {
+   "action": "May 4 hearing: Placed on APPR. suspense file.",
+   "chamber": "S",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "chamber": "S",
+   "date": "2026-05-08"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 5. Noes 0. Page 4264.) (May 14).",
+   "chamber": "S",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 31. Noes 3. Page 4486.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2026-05-27"
+  },
+  {
+   "action": "Referred to Coms. on TRANS. and NAT. RES.",
+   "chamber": "A",
+   "date": "2026-06-04"
+  },
+  {
+   "action": "Assembly Rule 56 suspended.",
+   "chamber": "A",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "June 22 set for first hearing canceled at the request of author.",
+   "chamber": "A",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS.",
+   "chamber": "A",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 2.) (June 29). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "August 5 set for first hearing. Placed on suspense file.",
+   "chamber": "A",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "chamber": "A",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 11. Noes 4.) (August 13).",
+   "chamber": "A",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
+   "chamber": "A",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time and amended.",
+   "chamber": "A",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 46. Noes 19. Page 6904.) Ordered to the Senate.",
+   "chamber": "A",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "chamber": "S",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 31. Noes 9.) Ordered to engrossing and enrolling.",
+   "chamber": "S",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "chamber": "",
+   "date": "2026-09-10"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 1005, Statutes of 2026.",
+   "chamber": "",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250SB108793CHP",
+  "num": "93"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 65072.2 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The department shall address in the California Transportation Plan how the state will achieve maximum feasible emissions reductions in order to attain a statewide reduction of greenhouse gas emissions to 1990 levels by 2020 and 40 percent below 1990 levels by December 31, 2030, as required by the California Global Warming Solutions Act of 2006 (Division 25.5 (commencing with Section 38500) of the Health and Safety Code), and how the plan is consistent with, and supports attaining, all state ambient air quality standards, as set forth in Section 70200 of Title 17 of the California Code of Regulations, and national ambient air quality standards, as established pursuant to Section 7409 of Title 42 of the United States Code, in all areas of the state, as described in California’s state implementation plans required by the federal Clean Air Act (42 U.S.C. Sec. 7401 et seq.), taking into consideration the use of alternative fuels, new vehicle technology, tailpipe emissions reductions, ride sharing, vehicle pooling, and expansion of public transit, commuter rail, intercity rail, bicycling, and walking. The plan shall identify the statewide integrated multimodal transportation system needed to achieve the greenhouse gas emission reduction targets and air quality standards and the department shall incorporate performance measures into planning that informs delivery of transportation capital projects to help achieve the goals of the plan, including the greenhouse gas emission reduction targets and air quality standards, and to support implementation of applicable sustainable communities strategies adopted pursuant to Section 65080.",
+    "(b) Commencing with the third update to the California Transportation Plan, the department shall include all of the following information in the plan:",
+    "(1) A forecast of the impacts of advanced and emerging technologies over a 20-year horizon on infrastructure, access, and transportation systems. For purposes of this paragraph, “advanced and emerging technologies” includes, but is not limited to, shared, autonomous, connected, and electric transportation options.",
+    "(2) Actions taken by the department within each district of the department to implement the adopted California Transportation Plan and that advance the goals and policies outlined in the plan.",
+    "(3) Relevant performance measures within each district of the department and how the performance measures informed corridor, modal, district, and transportation capital project planning and delivery for all projects anticipated to be completed by 2035 and 2045.",
+    "(4) Priority actions and areas of focus within each district of the department for the next planning period and what will be accomplished by 2035 and 2045, including, but not limited to, quantifiable actions intended to address any significant gaps in progress toward the goals and objectives of the California Transportation Plan."
+   ],
+   "sec": "65072.2",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65080 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Each transportation planning agency designated under Section 29532 or 29532.1 shall prepare and adopt a regional transportation plan directed at achieving a coordinated and balanced regional transportation system, including, but not limited to, mass transportation, highway, railroad, maritime, bicycle, pedestrian, goods movement, and aviation facilities and services. The plan shall be action-oriented and pragmatic, considering both the short-term and long-term future, and shall present clear, concise policy guidance to local and state officials. The regional transportation plan shall consider factors specified in Section 134 of Title 23 of the United States Code. Each transportation planning agency shall consider and incorporate, as appropriate, the transportation plans of cities, counties, districts, private organizations, and state and federal agencies.",
+    "(b) The regional transportation plan shall be an internally consistent document and shall include all of the following:",
+    "(1) A policy element that describes the transportation issues in the region, identifies and quantifies regional needs, and describes the desired short-range and long-range transportation goals, and pragmatic objective and policy statements. The objective and policy statements shall be consistent with the funding estimates of the financial element. The policy element of transportation planning agencies with populations that exceed 200,000 persons may quantify a set of indicators, including, but not limited to, all of the following:",
+    "(A) Measures of mobility and traffic congestion, including, but not limited to, daily vehicle hours of delay per capita and vehicle miles traveled per capita.",
+    "(B) Measures of road and bridge maintenance and rehabilitation needs, including, but not limited to, roadway pavement and bridge conditions.",
+    "(C) Measures of means of travel, including, but not limited to, percentage share of all trips, work and nonwork, made by all of the following:",
+    "(i) Single-occupant vehicle.",
+    "(ii) Multiple occupant vehicle or carpool.",
+    "(iii) Public transit including commuter rail and intercity rail.",
+    "(iv) Walking.",
+    "(v) Bicycling.",
+    "(D) Measures of safety and security, including, but not limited to, total injuries and fatalities assigned to each of the modes set forth in subparagraph (C).",
+    "(E) Measures of equity and accessibility, including, but not limited to, percentage of the population served by frequent and reliable public transit, with a breakdown by income bracket, and percentage of all jobs accessible by frequent and reliable public transit service, with a breakdown by income bracket.",
+    "(F) The requirements of this section may be met using existing sources of information. No additional traffic counts, household surveys, or other sources of data shall be required.",
+    "(2) (A) (i) (I) If prepared by a metropolitan planning organization, an eight-year sustainable communities strategy beginning with either its first or second regional transportation plan adopted on or after January 1, 2028.",
+    "(II) On or before July 1, 2027, each metropolitan planning organization shall notify the state board whether it selected its first or second regional transportation plan and when that plan is scheduled to be adopted.",
+    "(III) A metropolitan planning organization may begin with its first eligible regional transportation plan only if the state board adopts the applicable greenhouse gas emission reduction target and the guidelines required by subparagraph (P) at least 12 months before the plan’s scheduled adoption. If the state board has not adopted the applicable greenhouse gas emission reduction target and the guidelines required by subparagraph (P) at least 12 months before the scheduled adoption of the first eligible regional transportation plan, the metropolitan planning agency shall begin with its second eligible regional transportation plan.",
+    "(IV) Until a metropolitan planning organization begins preparing an eight-year sustainable communities strategy, the existing regional targets shall remain in effect and the metropolitan planning organization shall continue preparing a sustainable communities strategy every four years.",
+    "(B) (i) A sustainable communities strategy shall be prepared as follows:",
+    "(I) On or before December 31, 2028, the state board shall provide each region with greenhouse gas emission reduction targets for the automobile and light truck sector for 2035 and 2045.",
+    "(II) On or before December 1, 2028, the state board shall convene at least two technical workshops and present the findings at the joint meeting held pursuant to Section 14516. The state board shall invite metropolitan planning organizations, affected air districts, the Department of Transportation, the California Transportation Commission, the Department of Housing and Community Development, local governments, and other practitioners and technical experts to participate in the technical workshops and the joint meeting. A workshop conducted pursuant to subparagraph (P) may satisfy the requirements of this subclause if it includes a distinct opportunity for technical feedback on the proposed target-setting factors and methodologies. The state board shall solicit feedback on both of the following:",
+    "(ia) Factors and methodologies for setting greenhouse gas emission reduction targets for the affected regions.",
+    "(ib) How state fair housing, affordability, resilience, transportation, economic vibrancy, and land conservation laws and goals should be balanced in setting greenhouse gas emission reduction targets for the affected regions.",
+    "(III) (ia) Before setting the targets for a region, the state board shall exchange technical information with the metropolitan planning organization and the affected air district. The metropolitan planning organization may recommend a target for the region.",
+    "(ib) Following completion of the technical workshops, and before adopting the targets, the state board shall present at a joint meeting held pursuant to Section 14516 the proposed factors and methodologies and a summary of the technical feedback received, and shall solicit additional public feedback.",
+    "(IV) Consistent with subclause (III), in establishing these targets, the state board shall take into account greenhouse gas emission reductions that will be achieved by improved vehicle emission standards, changes in fuel composition, and other measures it has approved that will reduce the emissions of greenhouse gases in the affected regions, consistent with the state board’s most current model used to assess emissions from on-road vehicles, and prospective measures the state board plans to adopt to reduce the emissions of greenhouse gases from other greenhouse gas emission sources as defined in subdivision (i) of Section 38505 of the Health and Safety Code and consistent with the regulations adopted pursuant to the California Global Warming Solutions Act of 2006 (Division 25.5 (commencing with Section 38500) of the Health and Safety Code), including Section 38566 of the Health and Safety Code.",
+    "(V) The targets established by the state board shall do all of the following to the extent feasible and based on reasonably available information:",
+    "(ia) Consider the combined effects of existing and reasonably foreseeable policies, regulations, and investments by cities, counties, special districts, county transportation agencies, air districts, metropolitan planning organizations, the state, and the federal government that are expected to reduce greenhouse gas emissions from vehicles, including through improved fleet efficiency, changes in transportation technologies, and more efficient land use and transportation patterns.",
+    "(ib) Consider factors materially affecting the region’s ability to achieve the targets, including, but not limited to, fiscal constraints, the built environment, access to modes of travel outside of single-occupant passenger vehicles, housing and development conditions, geographic characteristics, existing resources, exogenous factors, and reasonably foreseeable state and federal actions.",
+    "(ic) Identify the material considerations under sub-subclauses (ia) and (ib) that informed the state board’s determination before establishing the targets.",
+    "(VI) The state board shall update the regional greenhouse gas emission reduction targets every eight years consistent with each metropolitan planning organization’s timeframe for updating its regional transportation plan under federal law until 2050. Before updating these targets, the state board shall do all of the following:",
+    "(ia) Exchange technical information with the California Transportation Commission, the Department of Housing and Community Development, the Department of Transportation, metropolitan planning organizations, local governments, and affected air districts and engage in a consultative process with public and private stakeholders.",
+    "(ib) Release draft targets for public comment.",
+    "(ic) Publish its methodology and assumptions, including, but not limited to, fleet and emissions budget assumptions, in a downloadable and accessible format on its internet website and make this information available to the public and affected metropolitan planning organizations no fewer than 60 days before the release of draft targets.",
+    "(id) Host public workshops to engage in a consultative process with public and private stakeholders. The state board shall hold at least three public workshops.",
+    "(ie) Hold a public hearing to solicit input on the region’s draft targets.",
+    "(VII) The state board shall adopt the final targets and any subsequent changes to the targets at a public hearing.",
+    "(VIII) The greenhouse gas emission reduction targets may be expressed in gross tons, tons per capita, tons per household, or in any other metric deemed appropriate by the state board that considers exogenous factors such as population, economic growth, or cross-border traffic.",
+    "(ii) Each metropolitan planning organization shall prepare a sustainable communities strategy, subject to the requirements of Part 450 of Title 23 of, and Part 93 of Title 40 of, the Code of Federal Regulations, including the requirement to use the most recent planning assumptions considering local general plans and other factors. The sustainable communities strategy shall do all of the following:",
+    "(I) Identify the general location of uses, residential densities, and building intensities within the region.",
+    "(II) Identify areas within the region sufficient to house all the population of the region, including all economic segments of the population, over the course of the planning period of the regional transportation plan taking into account the housing needs of both the existing and projected population and, to the extent applicable and consistent with the requirement to use reasonable planning assumptions, the demographic and household-growth assumptions used by the Department of Housing and Community Development in the most recent housing need determination for the region, net migration into the region, population growth, changes in enrollment levels at institutions of public higher education, as described in subdivision (a) of Section 66010 of the Education Code, household formation, and employment growth.",
+    "(III) Identify areas within the region sufficient to house an eight-year projection of the regional housing need for the region pursuant to Section 65584.",
+    "(IV) Identify a transportation network to service the transportation needs of the region.",
+    "(V) Gather and consider the best practically available scientific information regarding resource areas and farmland in the region.",
+    "(VI) Consider the state housing goals specified in Sections 65580 and 65581.",
+    "(VII) Set forth a forecasted development pattern for the region, which, when integrated with the transportation network, and other transportation measures and policies, will reduce greenhouse gas emissions from the automobile and light truck sector to achieve and maintain through the regional transportation plan’s horizon year, if there is a feasible way to do so, the greenhouse gas emission reduction targets approved by the state board, as demonstrated using the modeling years and analyses otherwise required for the plan.",
+    "(VIII) Allow the regional transportation plan to comply with Section 176 of the federal Clean Air Act (42 U.S.C. Sec. 7506).",
+    "(C) (i) Within the jurisdiction of the Metropolitan Transportation Commission, as defined by Section 66502, the Association of Bay Area Governments shall be responsible for subclauses (I) to (VI), inclusive, of clause (ii) of subparagraph (B); the Metropolitan Transportation Commission shall be responsible for subclauses (IV) and (VIII) of clause (ii) of subparagraph (B); and the Association of Bay Area Governments and the Metropolitan Transportation Commission shall jointly be responsible for subclause (VII) of clause (ii) of subparagraph (B).",
+    "(ii) Within the jurisdiction of the Tahoe Regional Planning Agency, as defined in Sections 66800 and 66801, the Tahoe Metropolitan Planning Organization shall use the Regional Plan for the Lake Tahoe Region as the sustainable communities strategy, provided that it complies with subclauses (VII) and (VIII) of clause (ii) of subparagraph (B).",
+    "(D) In the region served by the Southern California Association of Governments, a subregional council of governments and the county transportation commission may work together to propose the sustainable communities strategy and an alternative planning strategy, if one is prepared pursuant to subparagraph (I), for that subregional area. The metropolitan planning organization may adopt a framework for a subregional sustainable communities strategy or a subregional alternative planning strategy to address the intraregional land use, transportation, economic, air quality, and climate policy relationships. The metropolitan planning organization shall include the subregional sustainable communities strategy for that subregion in the regional sustainable communities strategy to the extent consistent with this section and federal law and approve the subregional alternative planning strategy, if one is prepared pursuant to subparagraph (I), for that subregional area to the extent consistent with this section. The metropolitan planning organization shall develop overall guidelines, create a public participation plan pursuant to subparagraph (F), ensure coordination, resolve conflicts, make sure that the overall plan complies with applicable legal requirements, and adopt the plan for the region.",
+    "(E) The metropolitan planning organization shall conduct at least two informational meetings in each county within the region for members of the board of supervisors and city councils during the development of the sustainable communities strategy and alternative planning strategy, if any. The metropolitan planning organization may conduct only one informational meeting if it is attended by representatives of the county board of supervisors and city council members representing a majority of the cities representing a majority of the population in the incorporated areas of that county. Notice of the meeting or meetings shall be sent to the clerk of the board of supervisors and to each city clerk. The purpose of the meeting or meetings shall be to discuss the sustainable communities strategy and the alternative planning strategy, if any, including the key land use and planning assumptions with the members of the board of supervisors and the city council members in that county and to solicit and consider their input and recommendations. For purposes of this subparagraph, “meeting” may include a virtual meeting, the general assembly of a council of governments, and other means of eliciting feedback from local elected officials that promote meaningful engagement.",
+    "(F) Each metropolitan planning organization shall adopt a public participation plan, for development of the sustainable communities strategy and an alternative planning strategy, if any, that includes all of the following:",
+    "(i) Outreach efforts to encourage the active participation of a broad range of stakeholder groups in the planning process, consistent with the agency’s adopted Federal Public Participation Plan, including, but not limited to, affordable housing advocates, transportation advocates, neighborhood and community groups, environmental advocates, homebuilder representatives, broad-based business organizations, landowners, commercial property interests, and homeowner associations.",
+    "(ii) Consultation with congestion management agencies, transportation agencies, and transportation commissions.",
+    "(iii) Workshops throughout the region to provide the public with the information and tools necessary to provide a clear understanding of the issues and policy choices. At least one workshop shall be held in each county in the region. For counties with a population greater than 500,000, at least three workshops shall be held. Each workshop, to the extent practicable, shall include urban simulation computer modeling to create visual representations of the sustainable communities strategy and the alternative planning strategy. For purposes of this clause, “workshops” may include virtual meetings and participatory activities, discussion groups, and other means of eliciting feedback that promote meaningful engagement or increase participation from underserved communities.",
+    "(iv) Preparation and circulation of a draft sustainable communities strategy and an alternative planning strategy, if one is prepared, not less than 55 days before adoption of a final regional transportation plan.",
+    "(v) At least three public hearings on the draft sustainable communities strategy in the regional transportation plan and alternative planning strategy, if one is prepared. If the metropolitan transportation organization consists of a single county, at least two public hearings shall be held. To the maximum extent feasible, the hearings shall be in different parts of the region and may include an online participation option to maximize the opportunity for participation by members of the public throughout the region.",
+    "(vi) A process for enabling members of the public to provide a single request to receive notices, information, and updates.",
+    "(G) In preparing a sustainable communities strategy, the metropolitan planning organization shall consider spheres of influence that have been adopted by the local agency formation commissions within its region.",
+    "(H) Before adopting a sustainable communities strategy, the metropolitan planning organization shall quantify the reduction in the emissions of greenhouse gases projected to be achieved by the sustainable communities strategy and set forth the difference, if any, between the amount of that reduction and the target for the region established by the state board.",
+    "(I) (i) If the sustainable communities strategy, prepared in compliance with subparagraph (B) or (D), is unable to reduce the emissions of greenhouse gases to achieve the greenhouse gas emission reduction targets established by the state board, the metropolitan planning organization shall prepare an alternative planning strategy. In preparing the alternative planning strategy, the metropolitan planning organization shall do all of the following:",
+    "(I) Identify the principal impediments to achieving the targets within the sustainable communities strategy.",
+    "(II) Include an analysis of an alternative development pattern for the region pursuant to subparagraphs (B) to (G), inclusive, and, if necessary, additional infrastructure, transportation measures, or policies that could achieve the greenhouse gas emission reduction targets.",
+    "(III) Describe why the development pattern, measures, and policies in the analysis of alternative development pattern described in subclause (II) are the most practicable choices for achievement of the greenhouse gas emission reduction targets.",
+    "(ii) An alternative development pattern set forth in the alternative planning strategy shall comply with Part 450 of Title 23 of, and Part 93 of Title 40 of, the Code of Federal Regulations, except to the extent that compliance will prevent achievement of the greenhouse gas emission reduction targets approved by the state board.",
+    "(iii) For purposes of the California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code), an alternative planning strategy shall not constitute a land use plan, policy, or regulation, and the inconsistency of a project with an alternative planning strategy shall not be a consideration in determining whether a project may have an environmental effect.",
+    "(J) (i) No later than 12 months before adoption, the metropolitan planning organization shall submit a description to the state board of the technical methodology it intends to use to estimate the emissions of greenhouse gases from its sustainable communities strategy and, if appropriate, its alternative planning strategy. The technical methodology shall align with the most recently adopted guidelines adopted pursuant to subparagraph (P), including consistency with the model version used in target setting to assess emissions from on-road vehicles specified in those guidelines. The state board may object to the technical methodology. The state board’s review of the methodology shall be completed within 60 days after submission and shall be limited to determining whether the methodology aligns with those guidelines. The metropolitan planning organization is encouraged to work with the state board until the state board concludes that the technical methodology operates accurately.",
+    "(ii) (I) After adoption, a metropolitan planning organization shall submit a sustainable communities strategy or an alternative planning strategy, if one has been adopted, to the state board for review, including the quantification of the reductions of emissions of greenhouse gases the strategy would achieve and a description of the technical methodology used to obtain that result. Within 60 days after receiving the strategy, the state board shall review the sustainable communities strategy or alternative planning strategy for completeness and determine whether the metropolitan planning organization’s determination used required data sources, disclosed assumptions, and applied methodology in a manner consistent with the guidelines adopted pursuant to subparagraph (P).",
+    "(II) If the state board does not identify any deficiencies, it shall, within that 60-day period, make one of the following determinations:",
+    "(ia) The strategy would, if implemented, achieve the greenhouse gas emission reduction targets established by the state board.",
+    "(ib) The strategy would, if implemented, achieve the greenhouse gas emission reduction targets established by the state board, but minor, nonsubstantive corrections must be made to the strategy.",
+    "(ic) The strategy would not, if implemented, achieve the greenhouse gas emission reduction targets established by the state board. If the state board makes this determination, it shall disclose, in writing, the specific, material deficiencies demonstrating why the strategy would not achieve those targets.",
+    "(id) The state board cannot determine whether the strategy would, if implemented, achieve the greenhouse gas emission reduction targets established by the state board because the metropolitan planning organization failed to address the state board’s findings of deficiencies provided within the 60-day period specified in this clause. If the state board makes this determination, it shall disclose, in writing, the specific, material deficiencies that the metropolitan planning organization failed to address.",
+    "(III) If the state board determines that the strategy is incomplete or does not satisfy those requirements, it shall, within that 60-day period, provide the metropolitan planning organization with written findings identifying the deficiencies. The metropolitan planning organization shall respond to those findings within 60 days of receiving the written findings from the state board.",
+    "(IV) Within 60 days after receiving the metropolitan planning organization’s response, the state board shall make one of the determinations specified in subclause (II).",
+    "(V) The 60-day review period shall begin when the state board receives the metropolitan planning organization’s response to the written findings of deficiencies.",
+    "(iii) If the state board does not make a determination within the applicable 60-day period set forth in clause (ii), as tolled, the strategy shall be deemed approved for implementation and funding alignment purposes.",
+    "(iv) Clauses (ii) and (iii) do not apply if either of the following apply:",
+    "(I) A metropolitan planning organization did not provide a technical methodology pursuant to clause (i).",
+    "(II) The state board objected in writing to the technical methodology used by the metropolitan planning organization and the metropolitan planning organization did not provide a revised technical methodology.",
+    "(v) If either of the criteria in clause (iv) apply, the state board shall make one of the determinations specified in subclause (II) of clause (ii) within 90 days after the metropolitan planning organization submits a complete strategy.",
+    "(vi) If the state board determines that the strategy submitted would not, if implemented, achieve the greenhouse gas emission reduction targets, or makes the determination in subclause (II) of clause (ii), the metropolitan planning organization shall revise its strategy or adopt an alternative planning strategy, if not previously adopted, and submit the strategy for review pursuant to clause (ii). At minimum, the metropolitan planning organization shall obtain state board acceptance that an alternative planning strategy would, if implemented, achieve the greenhouse gas emission reduction targets established for that region by the state board.",
+    "(vii) On or before September 1, 2018, and every four years thereafter to align with target setting, the state board shall prepare a report that assesses progress made by each metropolitan planning organization in meeting the regional greenhouse gas emission reduction targets set by the state board. The report shall include changes to the emissions of greenhouse gases in each region and data-supported metrics for the strategies used to meet the targets. The report shall also include a discussion of best practices and the challenges faced by the metropolitan planning organizations in meeting the targets, including the effect of state policies and funding. The report shall be developed in consultation with the metropolitan planning organizations, the California Transportation Commission, the Department of Housing and Community Development, and affected stakeholders. The report shall be submitted to the Assembly Committee on Transportation, the Assembly Committee on Natural Resources, the Senate Committee on Transportation, the Senate Committee on Housing, and the Senate Committee on Environmental Quality.",
+    "(K) Neither a sustainable communities strategy nor an alternative planning strategy regulates the use of land, nor, except as provided by subparagraph (J), shall either one be subject to any state approval. A sustainable communities strategy does not supersede the exercise of the land use authority of cities and counties within the region. This section does not limit the state board’s authority under any other law. This section does not authorize the abrogation of any vested right whether created by statute or by common law. This section does not require a city’s or county’s land use policies and regulations, including its general plan, to be consistent with the regional transportation plan or an alternative planning strategy. This section does not require a metropolitan planning organization to approve a sustainable communities strategy that would be inconsistent with Part 450 of Title 23 of, or Part 93 of Title 40 of, the Code of Federal Regulations and any administrative guidance under those regulations. This section does not relieve a public or private entity or any person from compliance with any other local, state, or federal law.",
+    "(L) This section does not require projects programmed for funding on or before December 31, 2011, to be subject to this paragraph if they (i) are contained in the 2007 or 2009 Federal Statewide Transportation Improvement Program, (ii) are funded pursuant to the Highway Safety, Traffic Reduction, Air Quality, and Port Security Bond Act of 2006 (Chapter 12.49 (commencing with Section 8879.20) of Division 1 of Title 2), or (iii) were specifically listed in a ballot measure before December 31, 2008, approving a sales tax increase for transportation projects. This section does not require a transportation sales tax authority to change the funding allocations approved by the voters for categories of transportation projects in a sales tax measure adopted before December 31, 2010. For purposes of this subparagraph, a transportation sales tax authority is a district, as defined in Section 7252 of the Revenue and Taxation Code, that is authorized to impose a sales tax for transportation purposes.",
+    "(M) A metropolitan planning organization, or a regional transportation planning agency not within a metropolitan planning organization, that is required to adopt a regional transportation plan not less than every five years may elect to adopt the plan not less than every four years. This election shall be made by the board of directors of the metropolitan planning organization or regional transportation planning agency no later than June 1, 2009, or thereafter 54 months before the statutory deadline for the adoption of housing elements for the local jurisdictions within the region, after a public hearing at which comments are accepted from members of the public and representatives of cities and counties within the region covered by the metropolitan planning organization or regional transportation planning agency. Notice of the public hearing shall be given to the general public and by mail to cities and counties within the region no later than 30 days before the date of the public hearing. Notice of election shall be promptly given to the Department of Housing and Community Development. The metropolitan planning organization or the regional transportation planning agency shall complete its next regional transportation plan within three years of the notice of election.",
+    "(N) Two or more of the metropolitan planning organizations for the Counties of Fresno, Kern, Kings, Madera, Merced, San Joaquin, Stanislaus, and Tulare may work together to develop and adopt multiregional goals and policies that may address interregional land use, transportation, economic, air quality, and climate relationships. The participating metropolitan planning organizations may also develop a multiregional sustainable communities strategy, to the extent consistent with federal law, or an alternative planning strategy for adoption by the metropolitan planning organizations. Each participating metropolitan planning organization shall consider any adopted multiregional goals and policies in the development of a sustainable communities strategy and, if applicable, an alternative planning strategy for its region.",
+    "(O) (i) Four years after adoption of a sustainable communities strategy, a metropolitan planning organization shall prepare a sustainable communities strategy implementation progress report, post the report on its internet website, and submit the report to the state board. The metropolitan planning organization shall concurrently provide a copy of the report to the Strategic Growth Council. The state board shall review and present the report in coordination with the metropolitan planning organization at a joint meeting held pursuant to Section 14516.",
+    "(ii) The report may be prepared in conjunction with, and may rely on the information developed for, the regional transportation plan update prepared during the same period of time.",
+    "(iii) The report shall be prepared using information and data available to the metropolitan planning organization, including, but not limited to, data provided by federal, state, regional, or local agencies such as the state board and the Department of Housing and Community Development. Where current data are not reasonably available, the metropolitan planning organization may rely on the most recent available data. The report shall identify the source of all information used. A metropolitan planning organization shall not be required to conduct new travel demand modeling, land use or scenario modeling, geospatial analysis, or primary data collection to prepare the report.",
+    "(iv) The report shall include all of the following and shall not be required to include information beyond these specified terms:",
+    "(I) A summary of progress made during the reporting period toward the greenhouse gas emission reduction targets, including indicators showing the direction of regional trends related to achievement of the target. Indicators shall only include those consistent with the required contents of a sustainable communities strategy described in subparagraph (B). The summary of progress may reference information included in the state board’s most recent report prepared pursuant to clause (vii) of subparagraph (J).",
+    "(II) A description of progress made during the reporting period on implementing each of the major greenhouse gas emission-reducing policies, programs, or projects identified in the sustainable communities strategy that support achievement of the greenhouse gas emission reduction target, including, based on reasonably available data, the extent to which observed development patterns are consistent with the development patterns forecasted in the sustainable communities strategy. For purposes of this subclause, “major greenhouse gas emission-reducing policies, programs, or projects” shall only include those consistent with the required contents of a sustainable communities strategy described in subparagraph (B).",
+    "(III) Identification of the capacity-increasing projects on the state highway system delivered earlier than assumed in the sustainable communities strategy. In developing this list of projects, the metropolitan planning organization may use the federally required metropolitan transportation improvement program and annual listing of federal obligations for fund obligations by project phase and status of construction completion. The report shall indicate whether a project is located in a disadvantaged community, equity priority community, or other comparable designation in the sustainable communities strategy. If the sustainable communities strategy does not include such a designation, the metropolitan planning organization shall use the definition of “disadvantaged communities” in the guidelines implementing Section 2382 of the Streets and Highways Code.",
+    "(IV) A list of transportation projects added to, removed from, or amended in the regional transportation plan since the last adopted sustainable communities strategy. The report shall indicate whether a transportation project is located in a disadvantaged community, equity priority community, or other comparable designation in the sustainable communities strategy. If the sustainable communities strategy does not include such a designation, the metropolitan planning organization shall use the definition of “disadvantaged communities” in the guidelines implementing Section 2382 of the Streets and Highways Code.",
+    "(V) An assessment of legal, policy, or funding barriers to additional progress on each of the major greenhouse gas emission reducing strategies, policies, programs, or projects identified in the sustainable communities strategy. To the extent reasonably identifiable, the assessment shall describe the principal actions or circumstances contributing to any shortfall in progress involving the metropolitan planning organization, local governments, the state, transit operators, project sponsors, the availability or timing of state or federal funding, federal actions or requirements, economic or housing market conditions, or other factors outside the metropolitan planning organization’s authority or control.",
+    "(v) A metropolitan planning organization with a population of fewer than 1,500,000 people shall comply with the requirements of this subparagraph to the extent feasible using reasonably available information. If the metropolitan planning organization is unable to fully address a required indicator or element because of a material staffing, fiscal, technical, or data limitation, its governing board may adopt a certification that identifies the specific requirement affected, describes the limitation, and explains the reasonable efforts undertaken to address it. The certification shall apply only to the identified requirement and shall not relieve the metropolitan planning organization from reporting on any other required indicator or element. An omission or limited treatment covered by the certification shall not constitute noncompliance if the metropolitan planning organization provides the best information reasonably available and explains any additional resources or information needed to fully satisfy the requirement.",
+    "(vi) This subparagraph does not require a metropolitan planning organization to acquire new staff, consultants, data, or analytical tools.",
+    "(P) (i) The state board shall adopt or update guidelines for the preparation of sustainable communities strategies before, or concurrently with, updating targets pursuant to subparagraph (A). The guidelines shall address greenhouse gas emissions quantification and technical assumptions reasonably necessary to evaluate whether a sustainable communities strategy, if implemented, would achieve the applicable targets. The guidelines shall clearly identify the information, assumptions, methodologies, and evaluation standards the state board will apply when reviewing a sustainable communities strategy, including all of the following:",
+    "(I) An overview of the sustainable communities strategies submission and evaluation process.",
+    "(II) A checklist of information the state board needs to make its determination whether the sustainable communities strategy, if implemented, would achieve the target.",
+    "(III) One or more examples of acceptable data sources, assumptions, and technical methodologies that metropolitan planning organizations and regional transportation planning agencies may employ to estimate the emissions of greenhouse gases in a manner that is consistent with the target methodology provided pursuant to subparagraph (A). The identification of any of those examples shall not be construed to require the use of any particular data source, assumption, or methodology. A metropolitan planning organization or regional transportation planning agency may use alternative, technically supported data sources, assumptions, or methodologies to demonstrate consistency with the target methodology, as described in subparagraph (J).",
+    "(ii) The guidelines adopted pursuant to this subparagraph are intended to provide technical assistance and promote transparency and consistency in the evaluation process. The guidelines shall not limit the authority of a metropolitan planning organization or regional transportation planning agency to demonstrate that its sustainable communities strategy, if implemented, would achieve the applicable greenhouse gas emission reduction target using technically supported data, assumptions, methodologies, models, or other analytical approaches not identified in the guidelines.",
+    "(iii) Before adopting the guidelines, the state board shall do all of the following:",
+    "(I) Consult with representatives of the metropolitan planning organizations, the California Transportation Commission, the Strategic Growth Council, and organizations representing builders, environmental organizations, affordable housing advocates, equity organizations, labor, local transportation agencies, and local governments.",
+    "(II) Make the proposed guidelines publicly available.",
+    "(III) Provide at least 30 days for public comment.",
+    "(IV) Consider all comments received.",
+    "(iv) Before adopting, updating, or revising the guidelines, the state board shall hold two workshops on the guidelines, one in northern California and one in southern California. The state board shall adopt the final guidelines in a public hearing.",
+    "(v) Guidelines adopted pursuant to this subparagraph are not intended, and shall not be construed, to affect the land use authority of local governments, as described in subparagraph (K).",
+    "(3) An action element that describes the programs and actions necessary to implement the plan and assigns implementation responsibilities. The action element may describe all transportation projects proposed for development during the 20-year or greater life of the plan. The action element shall consider congestion management programming activities carried out within the region.",
+    "(4) (A) A financial element that summarizes the cost of plan implementation constrained by a realistic projection of available revenues. The financial element shall also contain recommendations for allocation of funds. A county transportation commission created pursuant to the County Transportation Commissions Act (Division 12 (commencing with Section 130000) of the Public Utilities Code) shall be responsible for recommending projects to be funded with regional improvement funds, if the project is consistent with the regional transportation plan. The first five years of the financial element shall be based on the five-year estimate of funds developed pursuant to Section 14524. The financial element may recommend the development of specified new sources of revenue, consistent with the policy element and action element.",
+    "(B) The financial element of transportation planning agencies with populations that exceed 200,000 persons may include a project cost breakdown for all projects proposed for development during the 20-year life of the plan that includes total expenditures and related percentages of total expenditures for all of the following:",
+    "(i) State highway expansion.",
+    "(ii) State highway rehabilitation, maintenance, and operations.",
+    "(iii) Local road and street expansion.",
+    "(iv) Local road and street rehabilitation, maintenance, and operation.",
+    "(v) Mass transit, commuter rail, and intercity rail expansion.",
+    "(vi) Mass transit, commuter rail, and intercity rail rehabilitation, maintenance, and operations.",
+    "(vii) Pedestrian and bicycle facilities.",
+    "(viii) Environmental enhancements and mitigation.",
+    "(ix) Research and planning.",
+    "(x) Other categories.",
+    "(C) The metropolitan planning organization or county transportation agency, whichever entity is appropriate, shall consider financial incentives for cities and counties that have resource areas or farmland for the purposes of, for example, transportation investments for the preservation and safety of the city street or county road system and farm-to-market and interconnectivity transportation needs. The metropolitan planning organization or county transportation agency, whichever entity is appropriate, shall also consider financial assistance for counties to address countywide service responsibilities in counties that contribute toward the greenhouse gas emission reduction targets by implementing policies for growth to occur within their cities.",
+    "(c) Each transportation planning agency may also include other factors of local significance as an element of the regional transportation plan, including, but not limited to, issues of mobility for specific sectors of the community, including, but not limited to, senior citizens.",
+    "(d) (1) Except as otherwise provided in this subdivision, each transportation planning agency shall adopt and submit, every four years, an updated regional transportation plan to the California Transportation Commission and the Department of Transportation. A transportation planning agency located in a federally designated air quality attainment area or that does not contain an urbanized area may at its option adopt and submit a regional transportation plan every five years. When applicable, the plan shall be consistent with federal planning and programming requirements and shall conform to the regional transportation plan guidelines adopted by the California Transportation Commission. Before adoption of the regional transportation plan, a public hearing shall be held after the giving of notice of the hearing by publication in the affected county or counties pursuant to Section 6061.",
+    "(2) A metropolitan planning organization subject to the eight-year sustainable communities strategy cycle established pursuant to paragraph (2) of subdivision (b) shall comprehensively update its sustainable communities strategy every eight years. During an intervening four-year update of its regional transportation plan, the metropolitan planning organization shall incorporate or reaffirm its most recently adopted sustainable communities strategy.",
+    "(3) A metropolitan planning organization shall analyze the greenhouse gas emission reductions associated with the four-year update of its regional transportation plan. If, based on that analysis, the metropolitan planning organization determines that the sustainable communities strategy is projected to materially fall short of an applicable target, that determination shall constitute a substantial material change. The metropolitan planning organization shall amend the sustainable communities strategy to address the identified shortfall and submit the amended strategy to the state board for review pursuant to subparagraph (J) of paragraph (2) of subdivision (b). The metropolitan planning organization shall publicly document the analysis, its determination, and the basis for concluding whether any projected shortfall is material."
+   ],
+   "sec": "65080",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65080.01 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "The following definitions apply to terms used in Section 65080:",
+    "(a) “Air district” has the same meaning as the term “district,” as defined in Section 39025 of the Health and Safety Code.",
+    "(b) “Consistent” has the same meaning as that term is used in Section 134 of Title 23 of the United States Code.",
+    "(c) “Farmland” means farmland that is outside all existing city spheres of influence or city limits as of January 1, 2008, and is one of the following:",
+    "(1) Classified as prime or unique farmland or farmland of statewide importance.",
+    "(2) Farmland classified by a local agency in its general plan that meets or exceeds the standards for prime or unique farmland or farmland of statewide importance.",
+    "(d) “Feasible” means capable of being accomplished in a successful manner within a reasonable period of time, taking into account economic, environmental, legal, social, and technological factors.",
+    "(e) “Internally consistent” means that the contents of the elements of the regional transportation plan must be consistent with each other.",
+    "(f) “Resource areas” include all of the following:",
+    "(1) All publicly owned parks and open space.",
+    "(2) Open space or habitat areas protected by natural community conservation plans, habitat conservation plans, and other adopted natural resource protection plans.",
+    "(3) Habitat for species identified as candidate, fully protected, sensitive, or species of special status by local, state, or federal agencies or protected by the federal Endangered Species Act of 1973 (16 U.S.C. Sec. 1531 et seq.), the California Endangered Species Act (Chapter 1.5 (commencing with Section 2050) of Division 3 of the Fish and Game Code), or the Native Plan Protection Act (Chapter 10 (commencing with Section 1900) of Division 2 of the Fish and Game Code).",
+    "(4) Lands subject to conservation or agricultural easements for conservation or agricultural purposes by local governments, special districts, or nonprofit 501(c)(3) organizations, areas of the state designated by the State Mining and Geology Board as areas of statewide or regional significance pursuant to Section 2790 of the Public Resources Code, and lands under Williamson Act contracts.",
+    "(5) Areas designated for open-space or agricultural uses in adopted open-space elements or agricultural elements of the local general plan or by local ordinance.",
+    "(6) Areas containing biological resources as described in Appendix G of the CEQA Guidelines that may be significantly affected by the sustainable communities strategy or the alternative planning strategy.",
+    "(7) An area subject to flooding where a development project would not, at the time of development in the judgment of the agency, meet the requirements of the National Flood Insurance Program or where the area is subject to more protective provisions of state law or local ordinance.",
+    "(g) “State board” means the State Air Resources Board."
+   ],
+   "sec": "65080.01",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Transportation planning: sustainable communities strategies: transportation funding programs.",
+ "title": "An act to amend Sections 65072.2, 65080, and 65080.01 of the Government Code, to amend Section 99315 of the Public Utilities Code, and to amend Sections 2033.5, 2192, 2391, 2392, 2393, 2394, and 2397 of the Streets and Highways Code, relating to transportation.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-13",
+   "id": "20250SB108799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB108798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-09",
+   "id": "20250SB108797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-25",
+   "id": "20250SB108796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-21",
+   "id": "20250SB108795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-08",
+   "id": "20250SB108794ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250SB108793CHP",
+   "num": "93"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2026-04-08",
+   "location": "Sen Environmental Quality",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Transportation]",
+   "no": 0,
+   "nv": 2,
+   "result": "pass",
+   "seq": "1",
+   "yes": 5
+  },
+  {
+   "chamber": "S",
+   "date": "2026-04-21",
+   "location": "Sen Transportation",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+   "no": 1,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 9
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-04",
+   "location": "Sen Appropriations",
+   "motion": "Placed on suspense file",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-14",
+   "location": "Sen Appropriations",
+   "motion": "Do pass",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 5
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-27",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB1087 Cabaldon",
+   "no": 3,
+   "nv": 6,
+   "result": "pass",
+   "seq": "4533",
+   "yes": 31
+  },
+  {
+   "chamber": "A",
+   "date": "2026-06-29",
+   "location": "Asm Transportation",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations]",
+   "no": 2,
+   "nv": 3,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-13",
+   "location": "Asm Appropriations",
+   "motion": "Do pass.",
+   "no": 4,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-30",
+   "location": "Assembly Floor",
+   "motion": "SB 1087 Cabaldon Senate Third Reading By Solache",
+   "no": 19,
+   "nv": 14,
+   "result": "pass",
+   "seq": "1079",
+   "yes": 46
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-31",
+   "location": "Senate Floor",
+   "motion": "Unfinished Business SB1087 Cabaldon Concurrence",
+   "no": 9,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1025",
+   "yes": 31
+  }
+ ]
+}

@@ -1,0 +1,948 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Committee on Budget and Fiscal Review",
+   "primary": true,
+   "type": "Committee"
+  }
+ ],
+ "bill": "SB137",
+ "bill_id": "202520260SB137",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 1798.155 of the Civil Code is amended to read:",
+   "paras": [
+    "§1798.155. Administrative Enforcement",
+    "(a) Any business, service provider, contractor, or other person that violates this title shall be liable for an administrative fine of not more than two thousand five hundred dollars ($2,500) for each violation or seven thousand five hundred dollars ($7,500) for each intentional violation or violations involving the personal information of consumers whom the business, service provider, contractor, or other person has actual knowledge are under 16 years of age, as adjusted pursuant to subdivision (d) of Section 1798.199.95, in an administrative enforcement action brought by the California Privacy Protection Agency.",
+    "(b) (1) Ninety-five percent of any administrative fine assessed for a violation of this title, and of the proceeds of any settlement of an action brought pursuant to subdivision (a), shall be deposited into the Consumer Privacy Subfund created within the Consumer Privacy Fund pursuant to subdivision (b) of Section 1798.160, and shall be used exclusively by the California Privacy Protection Agency in carrying out its duties under this title.",
+    "(2) Five percent of any administrative fine assessed for a violation of this title, and of the proceeds of any settlement of an action brought pursuant to subdivision (a), shall be deposited into the Consumer Privacy Grant Subfund created within the Consumer Privacy Fund pursuant to subdivision (d) of Section 1798.160."
+   ]
+  },
+  {
+   "action": "SEC. 2. Section 1798.160 of the Civil Code is amended to read:",
+   "paras": [
+    "§1798.160. Consumer Privacy Fund",
+    "(a) (1) A special fund to be known as the “Consumer Privacy Fund” is hereby created within the General Fund in the State Treasury, and is available upon appropriation by the Legislature.",
+    "(2) Funds in the Consumer Privacy Fund and all subfunds within the fund shall be used exclusively for the purposes described in this section and shall not be subject to appropriation or transfer by the Legislature for any other purpose. Any interest and earnings from the fund and all subfunds within the fund shall be transferred on an annual basis to the State Treasury to be available in the General Fund for appropriation by the Legislature.",
+    "(b) (1) The Consumer Privacy Subfund is hereby created within the Consumer Privacy Fund and is available upon appropriation by the Legislature. Funds in the Consumer Privacy Subfund shall be used exclusively for the purposes described in this subdivision.",
+    "(2) Ninety-five percent of any administrative fine recovered in an action brought by the California Privacy Protection Agency for a violation of this title shall be deposited into the Consumer Privacy Subfund and shall be used exclusively by the California Privacy Protection Agency in carrying out its duties under this title.",
+    "(c) (1) The Attorney General Consumer Privacy Enforcement Subfund is hereby created within the Consumer Privacy Fund and is available upon appropriation by the Legislature. Funds in the Attorney General Consumer Privacy Enforcement Subfund shall be used exclusively for the purposes described in this subdivision.",
+    "(2) Ninety-five percent of any civil penalty recovered in an action brought by the Attorney General for a violation of this title shall be deposited into the Attorney General Consumer Privacy Enforcement Subfund and shall be used exclusively by the Attorney General in carrying out its duties under this title.",
+    "(d) The Consumer Privacy Grant Subfund is hereby created within the Consumer Privacy Fund and is available upon appropriation by the Legislature. Funds in the Consumer Privacy Subfund shall be used exclusively for the purposes described in this subdivision.",
+    "(1) (A) Five percent of any administrative fine recovered in an action brought by the California Privacy Protection Agency for a violation of this title shall be deposited into the Consumer Privacy Grant Subfund.",
+    "(B) Five percent of any civil penalty recovered in an action brought by the Attorney General for a violation of this title shall be deposited into the Consumer Privacy Grant Subfund.",
+    "(2) (A) Funds deposited into the Consumer Privacy Grant Subfund shall be used exclusively by the California Privacy Protection Agency to administer and distribute grants to promote and protect consumer privacy, educate children in the area of online privacy, and fund cooperative programs with international law enforcement organizations to combat fraudulent activities with respect to consumer data breaches.",
+    "(B) Subject to subparagraph (A), the California Privacy Protection Agency shall make grants from the Consumer Privacy Grant Subfund by distributing one-third of the amount allocated for grant funding in the subfund to each of the following grant recipients:",
+    "(i) Nonprofit organizations to promote and protect consumer privacy.",
+    "(ii) Nonprofit organizations and public agencies, including school districts, to educate children in the area of online privacy.",
+    "(iii) State and local law enforcement agencies to fund cooperative programs with international law enforcement organizations to combat fraudulent activities with respect to consumer data breaches.",
+    "(3) (A) The California Privacy Protection Agency shall begin administering the grant program described in paragraph (2) when the amount of funds in the Consumer Privacy Grant Subfund exceeds three hundred thousand dollars ($300,000).",
+    "(B) In a fiscal year in which the amount of funds in the Consumer Privacy Grant Subfund is equal to or less than three hundred thousand dollars ($300,000), the funds shall remain in the Consumer Privacy Grant Subfund until the total funds exceed three hundred thousand dollars ($300,000).",
+    "(e) Any remaining funds in the Consumer Privacy Fund and subfunds within the fund that were not appropriated as part of the 2025 Budget Act shall be transferred on a one-time basis in the 2025–26 fiscal year as follows:",
+    "(1) Forty-five percent of the remaining funds shall be transferred to the Consumer Privacy Subfund created within the Consumer Privacy Fund pursuant to subdivision (b).",
+    "(2) Forty-five percent of the remaining funds shall be transferred to the Attorney General Consumer Privacy Enforcement Subfund created within the Consumer Privacy Fund pursuant to subdivision (c).",
+    "(3) Ten percent of the remaining funds shall be transferred to the Consumer Privacy Grant Subfund created within the Consumer Privacy Fund pursuant to subdivision (d) of Section 1798.160."
+   ]
+  },
+  {
+   "action": "SEC. 3. Section 1798.199.55 of the Civil Code is amended to read:",
+   "paras": [
+    "§1798.199.55. (a) When the agency determines there is probable cause for believing this title has been violated, it shall hold a hearing to determine if a violation has or violations have occurred. Notice shall be given and the hearing conducted in accordance with the Administrative Procedure Act (Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code). The agency shall have all the powers granted by that chapter. If the agency determines on the basis of the hearing conducted pursuant to this subdivision that a violation or violations have occurred, it shall issue an order that may require the violator to do all or any of the following:",
+    "(1) Cease and desist violation of this title.",
+    "(2) Subject to Section 1798.155, pay an administrative fine of up to two thousand five hundred dollars ($2,500) for each violation, or up to seven thousand five hundred dollars ($7,500) for each intentional violation and each violation involving the personal information of minor consumers. When the agency determines that no violation has occurred, it shall publish a declaration so stating.",
+    "(A) Ninety-five percent of any administrative fine assessed pursuant to this paragraph shall be deposited into the Consumer Privacy Subfund created within the Consumer Privacy Fund pursuant to subdivision (b) of Section 1798.160.",
+    "(B) Five percent of any administrative fine assessed pursuant to this paragraph shall be deposited into the Consumer Privacy Grant Subfund created within the Consumer Privacy Fund pursuant to subdivision (d) of Section 1798.160.",
+    "(b) If two or more persons are responsible for any violation or violations, they shall be jointly and severally liable."
+   ]
+  },
+  {
+   "action": "SEC. 4. Section 1798.199.90 of the Civil Code is amended to read:",
+   "paras": [
+    "§1798.199.90. (a) Any business, service provider, contractor, or other person that violates this title shall be subject to an injunction and liable for a civil penalty of not more than two thousand five hundred dollars ($2,500) for each violation or seven thousand five hundred dollars ($7,500) for each intentional violation and each violation involving the personal information of minor consumers, as adjusted pursuant to subdivision (d) of Section 1798.199.95, which shall be assessed and recovered in a civil action brought in the name of the people of the State of California by the Attorney General. The court may consider the good faith cooperation of the business, service provider, contractor, or other person in determining the amount of the civil penalty.",
+    "(b) (1) (A) Ninety-five percent of any civil penalty recovered by an action brought by the Attorney General for a violation of this title, and of the proceeds of any settlement of those actions, shall be deposited into the Attorney General Consumer Privacy Enforcement Subfund created within the Consumer Privacy Fund pursuant to subdivision (c) of Section 1798.160 to support the Attorney General in the enforcement of this title.",
+    "(B) Notwithstanding any provision to the contrary, the Attorney General may, if an action or settlement is the result of a joint investigation with the agency, deposit a portion of the penalties and proceeds that would otherwise be subject to subparagraph (A) into the Consumer Privacy Subfund created within the Consumer Privacy Fund pursuant to subdivision (b) of Section 1798.160 in the amount necessary to provide reimbursement for investigative costs.",
+    "(2) Five percent of any civil penalty recovered by an action brought by the Attorney General for a violation of this title, and of the proceeds of any settlement of those actions, shall be deposited into the Consumer Privacy Grant Subfund created within the Consumer Privacy Fund pursuant to subdivision (d) of Section 1798.160.",
+    "(c) The agency shall, upon request by the Attorney General, stay an administrative action or investigation under this title to permit the Attorney General to proceed with an investigation or civil action and shall not pursue an administrative action or investigation, unless the Attorney General subsequently determines not to pursue an investigation or civil action. The agency may not limit the authority of the Attorney General to enforce this title.",
+    "(d) No civil action may be filed by the Attorney General under this section for any violation of this title after the agency has issued a decision pursuant to Section 1798.199.85 or an order pursuant to Section 1798.199.55 against that person for the same violation.",
+    "(e) This section shall not affect the private right of action provided for in Section 1798.150."
+   ]
+  },
+  {
+   "action": "SEC. 5. Section 25608 of the Corporations Code is amended to read:",
+   "paras": [
+    "§25608. (a) The commissioner shall charge and collect the fees fixed in this section and Section 25608.1. All fees charged and collected under this section and Section 25608.1 shall be transmitted to the Treasurer at least weekly, accompanied by a detailed statement thereof and shall be credited to the Financial Protection Fund.",
+    "(b) The fee for filing an application for a negotiating permit under subdivision (c) of Section 25102 is fifty dollars ($50).",
+    "(c) The fee for filing a notice pursuant to paragraph (5) of subdivision (h) of Section 25102, for filing a notice pursuant to paragraph (4) of subdivision (f) of Section 25102, or for filing a notice pursuant to paragraph (10) of subdivision (r) of Section 25102, in addition to the fee prescribed in those paragraphs, if applicable, shall be determined based on the value of the securities proposed to be sold in the transaction for which the notice is filed and in accordance with subdivision (g), and shall be as follows:",
+    "Value of Securities Proposed to be SoldFiling Fee",
+    "$25,000 or less$25",
+    "$25,001 to $100,000$35",
+    "$100,001 to $500,000$50",
+    "$500,001 to $1,000,000$150",
+    "Over $1,000,000$300",
+    "(d) The fee for filing an application for designation of an issuer pursuant to subdivision (k) of Section 25100 is fifty dollars ($50).",
+    "(e) The fee for filing an application for qualification of the sale of securities by notification under Section 25112 or by permit under paragraph (1) of subdivision (b) of Section 25113 (except applications for qualification by permit of the sale of any guarantee of any security, the fees for which applications are fixed in subdivision (k)) is two hundred dollars ($200) plus one-fifth of 1 percent of the aggregate value of the securities sought to be sold in this state up to a maximum aggregate fee of two thousand five hundred dollars ($2,500).",
+    "The fee for filing a small company application for qualification of the sale of securities by permit under paragraph (2) of subdivision (b) of Section 25113 is two thousand five hundred dollars ($2,500). In the case where the costs of processing a small company application exceed the filing fee, an additional fee shall be charged, not to exceed one thousand dollars ($1,000), over and above the filing fee based on the costs of the salary or other compensation paid to persons processing the application plus overhead costs reasonably incurred in the performance of the work. In determining the costs, the commissioner may use the estimated average hourly cost for all persons processing applications for the fiscal year.",
+    "(f) The fee for filing an application for qualification of the sale of securities by coordination under Section 25111 or a notice of intention to sell under subdivision (t) of Section 25100 is two hundred dollars ($200) plus one-fifth of 1 percent of the aggregate value of the securities sought to be sold in this state up to a maximum aggregate fee of two thousand five hundred dollars ($2,500).",
+    "(g) For the purpose of determining the fees fixed in subdivisions (e) and (f):",
+    "(1) The value of the securities shall be the price at which the company proposes to sell the securities, or the value, as alleged in the application, or the actual value, as determined by the commissioner, of the consideration (if other than money) to be received in exchange therefor, or of the securities when sold, whichever is greater.",
+    "(2) Interim or voting trust certificates shall have a value equal to the aggregate value of the securities to be represented by the interim or voting trust certificates.",
+    "(3) The value of a warrant or right to purchase or subscribe to another security of the same or another issuer shall be an amount equal to the consideration to be paid for that warrant or right plus an amount equal to the consideration to be paid upon purchase of the additional securities, provided that if the latter amount is not determinable at the time of qualification, that amount shall then be the value of the additional securities as determined by the commissioner.",
+    "(4) In the case of a share dividend where the shareholders are given an option to accept either cash or additional shares of common stock, the value of the securities to be sold shall be the maximum amount of cash that would be payable in the event that all shareholders elected to accept cash.",
+    "(h) The fee for filing an application for qualification of the sale of securities by permit under Section 25121 is:",
+    "(1) Two hundred dollars ($200) in connection with any change (including any stock split or reverse stock split or stock dividend, except a stock dividend where the shareholders are given an option to accept either cash or additional shares of common stock) in the rights, preferences, privileges, or restrictions of or on outstanding securities.",
+    "(2) Two hundred dollars ($200) plus one-fifth of 1 percent of the value, as alleged in the application, or the actual value, as determined by the commissioner, of the consideration to be received in exchange therefor, up to a maximum aggregate fee of two thousand five hundred dollars ($2,500), in any exchange of securities by the issuer with its existing security holders exclusively, or in any exchange in connection with any merger or consolidation or purchase of corporate assets in consideration of the issuance of securities, or any entity conversion transaction.",
+    "(i) The fee for filing an application for qualification of the sale of securities by notification under Section 25131 shall be one hundred dollars ($100).",
+    "(j) The fee for an application for the removal of any condition under Section 25141 is fifty dollars ($50).",
+    "(k) The fee for filing any application for a permit to execute or issue any guarantee of any security is fifty dollars ($50).",
+    "(l) The fee for acting as escrowholder for securities under Section 25149 is fifty dollars ($50). In addition, a fee of two dollars and fifty cents ($2.50) shall be paid for the deposit with the commissioner of each new certificate or other document resulting from a transfer in escrow.",
+    "(m) The fee for filing an application for an order (1) consenting to the transfer in escrow of securities or (2) consenting to the transfer of securities subject to any condition imposed by the commissioner requiring the commissioner’s consent to the transfer is twenty dollars ($20) for each transfer.",
+    "(n) The filing fee for an amendment to an application filed after the effective date of the qualification of the sale of securities is fifty dollars ($50) plus any additional fee that would have been required to be paid with the original application for qualification of the sale of securities under this section if the matters set forth in the amendment had been included in the original application.",
+    "(o) (1) The fee for filing an application for a broker-dealer certificate under Section 25211 is three hundred dollars ($300).",
+    "(2) Each broker-dealer shall pay to the commissioner its pro rata share of all costs and expenses, reasonably incurred in the administration of the broker-dealer program under this division, as estimated by the commissioner for the ensuing year and any deficit actually incurred or anticipated in the administration of the program in the year in which the assessment is made. The pro rata share shall be the proportion that the broker-dealer and the number of its agents in this state bears to the aggregate number of broker-dealers and agents in this state as shown by records maintained by or on behalf of the commissioner. The pro rata share may include the costs of any examinations, audit, or investigation provided for in subdivision (r).",
+    "(3) Every broker-dealer who has secured from the commissioner a certificate shall, in order to keep the certificate in effect for an additional period, pay a minimum assessment of seventy-five dollars ($75) on or before the 31st of December in each year.",
+    "(4) The commissioner may assess and levy against each broker-dealer any additional amount above the minimum assessment amount of seventy-five dollars ($75) that is reasonable and necessary to support the broker-dealer program under this division. If an additional amount is assessed, the commissioner shall notify each broker-dealer by mail of any additional amount assessed and levied against it on or before the 30th day of May in each year, and that amount shall be paid within 20 days thereafter. If payment is not made within 20 days, the commissioner shall assess and collect a penalty in addition to the assessment of 1 percent of the assessment for each month or part of a month that the payment is delayed or withheld.",
+    "(5) If a broker-dealer fails to pay any assessment on or before the 30th day of the month following the day upon which payment is due, the commissioner may by order summarily suspend or revoke the certificate issued to the broker-dealer. If, after that order is made, a request for hearing is filed in writing and a hearing is not held within 60 days thereafter, the order is deemed rescinded as of its effective date. During any period when its certificate is revoked or suspended, a broker-dealer shall not conduct business pursuant to this division except as may be permitted by order of the commissioner; provided, however, that the revocation, suspension, or surrender of a certificate shall not affect the powers of the commissioner as provided under this division.",
+    "(6) In determining the amount assessed, the commissioner shall consider all appropriations from the Financial Protection Fund for the support of the broker-dealer program under this division and all reimbursements applicable to the administration of the broker-dealer program under this division.",
+    "(p) (1) The commissioner shall charge a fee of fifty dollars ($50) for the filing of a notice or report required by rules adopted pursuant to subdivision (b) of Section 25210 or subdivision (b) of Section 25230.",
+    "(2) The commissioner shall charge a fee up to fifty dollars ($50) to keep in effect for the following year any notice or report required by rules adopted pursuant to subdivision (b) of Section 25210 or subdivision (b) of Section 25230.",
+    "(3) No person shall, on behalf of a broker-dealer licensed pursuant to Section 25211, effect any transaction in, or induce or attempt to induce the purchase or sale of, any security in this state unless the broker-dealer pays the annual fee required by paragraph (2) of this subdivision on or before the day upon which payment is due.",
+    "(4) No person may, in this state, on behalf of an investment adviser licensed pursuant to Section 25231, offer or negotiate for the sale of investment advisory services of the investment adviser, determine which recommendations shall be made to, make recommendations to, or manage the accounts of, clients of the investment adviser, or determine the reports or analyses concerning securities to be published by the investment adviser, unless the investment adviser pays the annual fee required by paragraph (2) on or before the day upon which payment is due.",
+    "(5) The commissioner may by order summarily enjoin an individual from performing any activity under paragraph (3) or (4) if the annual fee in paragraph (2) is not paid on or before the day upon which payment is due. An order under this paragraph may not be made before 10 days after notice by the commissioner that the fee is due and unpaid.",
+    "(q) (1) Except as provided for in paragraph (2), the fee for filing an application for an investment adviser under Section 25231 is one hundred twenty-five dollars ($125), and payment of this amount shall keep the certificate, if granted, in effect during the calendar year during which it is granted. Every investment adviser who has secured from the commissioner a certificate shall, in order to keep the certificate in effect for an additional period, pay a renewal fee of one hundred twenty-five dollars ($125) on or before the 31st day of December.",
+    "(2) Paragraph (1) shall not apply to a broker-dealer licensed under Section 25210.",
+    "(r) (1) Except as provided for in paragraph (2), the fee for any routine or nonroutine regulatory examination, audit, or investigation is the amount of the salary or other compensation paid to the persons making the examination, audit, or investigation plus the amount of expenses including overhead reasonably incurred in the performance of the work. In determining the costs associated with an examination, audit, or investigation, the commissioner may use the estimated average hourly cost for all persons performing examinations, audits, or investigations for the fiscal year.",
+    "(2) An investment adviser licensed under Section 25230 pursuant to the Investment Adviser Registration Depository shall not be subject to paragraph (1) only in regard to the fee for a routine regulatory examination of its investment advisory services for which it is licensed under Section 25230.",
+    "(s) The fee for any hearing held by the commissioner pursuant to Section 25142 shall be the sum determined by the commissioner to cover the actual expense of noticing and holding the hearing.",
+    "(t) The commissioner may fix by rule a reasonable charge for any publications issued under the commissioner’s authority. The charges shall not apply to reports of the commissioner in the ordinary course of distribution.",
+    "(u) The fee for filing an offer under subdivision (b) of Section 25507 shall be the amount of filing fee payable under subdivision (e), (f), (h), or (i) of this section if an application had been filed to qualify the transaction in which the securities upon which the offer is to be made were sold in violation of the qualification provisions of this law.",
+    "(v) The fee for filing an application for exemption pursuant to subdivision (l) of Section 25100 is two hundred fifty dollars ($250).",
+    "(w) The commissioner may by rule require payment of a fee for filing a notice or report required by a rule adopted pursuant to Section 25105. The fee required in connection with a transaction as defined by that rule shall not exceed the fees specified in subdivision (c) based on the value of the securities sold, but the commissioner may permit a single notice for more than one transaction.",
+    "(x) The fee for filing the first notice of transaction under subdivision (n) of Section 25102 is six hundred dollars ($600).",
+    "(y) The fee for filing a notice of transaction under subdivision (o) of Section 25102 shall be the fee for filing an application for qualification of the sale of securities by permit under paragraph (1) of subdivision (b) of Section 25113 as set forth in subdivision (e) of this section.",
+    "(z) The fee for filing a notice of transaction under subdivision (h) of Section 25103 shall be six hundred dollars ($600)."
+   ]
+  },
+  {
+   "action": "SEC. 6. Section 31500 of the Corporations Code is amended to read:",
+   "paras": [
+    "§31500. (a) The commissioner shall charge and collect the fees fixed by this section. All fees and charges collected under this section shall be transmitted to the Treasurer at least weekly, accompanied by a detailed statement thereof and shall be credited to the Financial Protection Fund.",
+    "(b) The fee for filing an application for registration of the offer of franchises under Section 31111 is one thousand eight hundred sixty-five dollars ($1,865).",
+    "(c) The fee for filing an application for renewal of a registration under Section 31121 is one thousand two hundred forty-five dollars ($1,245).",
+    "(d) The fee for filing an amendment to the application filed under Section 31111 or 31121 after the effective date of the registration of the offer of franchises, is fifty dollars ($50).",
+    "(e) The fee for filing an application for material modification under Section 31125 is fifty dollars ($50), whether or not it accompanies an application under Section 31111 or 31121.",
+    "(f) The fee for filing the initial notice of exemption under Section 31101 is one thousand two hundred forty-five dollars ($1,245) and the fee for filing each consecutive subsequent notice of exemption under these provisions is four hundred fifteen dollars ($415).",
+    "(g) The fee for filing an application for approval of a written notice of violation under Section 31303 or 31304 is one thousand eight hundred sixty-five dollars ($1,865).",
+    "(h) The fee for filing an application for registration as a franchise broker under Part 7 (commencing with Section 31520) is four hundred fifty dollars ($450).",
+    "(i) The fee for filing an application for amendment of a registration as a franchise broker under Part 7 (commencing with Section 31520) is fifty dollars ($50)."
+   ]
+  },
+  {
+   "action": "SEC. 7. Section 408 of the Financial Code is amended to read:",
+   "paras": [
+    "§408. The commissioner, in addition to the annual assessment, shall collect from each bank authorized to engage in the trust business, to defray the cost of examination, a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner. The commissioner shall assess the fee upon completion of the examination of the trust company or trust business and shall mail or otherwise deliver an invoice for the fee to the institution. The institution shall pay the fee within 30 days after the invoice is mailed or otherwise delivered to it."
+   ]
+  },
+  {
+   "action": "SEC. 8. Section 501 of the Financial Code is amended to read:",
+   "paras": [
+    "§501. (a) Whenever, in the judgment of the commissioner, it is necessary or advisable to make an extra examination of or to devote any extraordinary attention to any bank, any foreign bank, or any office of a foreign bank, the commissioner has the authority to do so and to charge and collect from the bank or foreign bank, in the case of an extra examination, a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination.",
+    "(b) Whenever in the judgment of the commissioner it is necessary or expedient for any examiner engaged in any examination to travel outside this state, the commissioner may charge for the travel expenses of the examiner."
+   ]
+  },
+  {
+   "action": "SEC. 9. Section 1674 of the Financial Code is amended to read:",
+   "paras": [
+    "§1674. Fees shall be paid to and collected by the commissioner as follows:",
+    "(a) The fee for filing with the commissioner an application by an uninsured foreign (other state) bank for approval to establish a facility is two hundred fifty dollars ($250).",
+    "(b) The fee for filing with the commissioner an application by an uninsured foreign (other state) bank that is licensed pursuant to Article 4 (commencing with Section 1710) to maintain a facility for approval to relocate or to close the facility is one hundred dollars ($100).",
+    "(c) The fee for issuing a license pursuant to Article 4 (commencing with Section 1710) is twenty-five dollars ($25).",
+    "(d) Each foreign (other state) state bank that on June 1 of any year maintains one or more California branch offices shall pay, on or before the following July 1, a fee of one thousand dollars ($1,000) per California branch office. However, the minimum fee paid by a foreign (other state) state bank under this subdivision shall be not less than three thousand dollars ($3,000) and the maximum fee shall be not more than fifty thousand dollars ($50,000).",
+    "(e) Each foreign (other state) bank that on June 1 of any year maintains a facility but no California branch office shall pay, on or before the following July 1, a fee of two hundred fifty dollars ($250) for each facility.",
+    "(f) If the commissioner makes an examination in connection with a pending application, as described in subdivision (a) or (b), the applicant shall pay a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner.",
+    "(g) If the commissioner makes an examination of a foreign (other state) state bank that maintains a California branch office, the bank shall pay a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner.",
+    "(h) If the commissioner makes an examination of a facility of an uninsured foreign (other state) bank licensed under Article 4 (commencing with Section 1710), the bank shall pay a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner.",
+    "(i) If the commissioner makes an examination of a facility of an insured foreign (other state) bank that does not maintain a California branch office, the bank shall pay a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner."
+   ]
+  },
+  {
+   "action": "SEC. 10. Section 2038 of the Financial Code is amended to read:",
+   "paras": [
+    "§2038. Fees shall be paid to, and collected by, the commissioner, as follows:",
+    "(a) The fee for filing an application for a license is five thousand dollars ($5,000), as provided in subdivision (a) of Section 2032.",
+    "(b) The fee for filing an application for approval to acquire control of a licensee is three thousand five hundred dollars ($3,500).",
+    "(c) A licensee shall pay annually on or before July 1, a licensee fee of two thousand five hundred dollars ($2,500).",
+    "(d) A licensee shall pay annually on or before July 1, one hundred twenty-five dollars ($125) for each licensee branch office in this state.",
+    "(e) A licensee shall pay annually on or before July 1, twenty-five dollars ($25) for each agent branch office in this state.",
+    "(f) Whenever the commissioner examines a licensee or any agent of a licensee, the licensee shall pay, within 10 days after receipt of a statement from the commissioner, a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner.",
+    "(g) Whenever the commissioner examines an applicant, the applicant shall pay, within 10 days after receipt of a statement from the commissioner, a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner.",
+    "(h) Each fee for filing an application shall be paid at the time the application is filed with the commissioner. No fee for filing an application shall be refundable, regardless of whether the application is approved, denied, or withdrawn."
+   ]
+  },
+  {
+   "action": "SEC. 11. Section 4839 of the Financial Code is amended to read:",
+   "paras": [
+    "§4839. Fees shall be paid to, and collected by, the commissioner, as follows:",
+    "(a) The fee for filing an application for approval of a sale under this division shall be two thousand five hundred dollars ($2,500).",
+    "(b) The fee for filing an application for approval of a merger under this division shall be two thousand five hundred dollars ($2,500).",
+    "(c) (1) The fee for filing an application for approval of a conversion under this division shall be five thousand dollars ($5,000).",
+    "(2) The fee for issuing a certificate of authority or license under subdivision (a) of Section 4928 or subdivision (a) of Section 4948 shall be two thousand five hundred dollars ($2,500).",
+    "(d) The fee for issuing a certificate of authority or license under any other provision of this division shall be twenty-five dollars ($25).",
+    "(e) The fee for issuing a certificate under Section 4862, 4879.17, 4891, 4930, or 4952 shall be twenty-five dollars ($25).",
+    "(f) In case the commissioner makes an examination in connection with a pending application, as described in paragraph (1), (2), (3), (4), (5), or (6) the applicant shall pay a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner.",
+    "(1) Examination of the selling depository corporation in connection with a pending application for approval of a sale of a whole business unit (as defined in Section 4840) under Article 2 (commencing with Section 4845) of Chapter 3.",
+    "(2) Examination of the partial business unit (as defined in Section 4840) to be sold and any related affairs of the selling depository corporation in connection with a pending application for approval of a sale of a partial business unit (as defined in Section 4840) under Article 2 (commencing with Section 4845) of Chapter 3.",
+    "(3) Examination of the purchasing depository corporation in connection with a pending application for approval of a sale of a whole business unit (as defined in Section 4880) under Article 3.5 (commencing with Section 4876.01) of Chapter 3 or of a partial business unit (as defined in Section 4880) under Article 4.5 (commencing with Section 4878.01) of Chapter 3.",
+    "(4) Examination of the surviving depository corporation in connection with a pending application for approval of a merger under Article 4 (commencing with Section 4908.01) of Chapter 4.",
+    "(5) Examination of the disappearing depository corporation in connection with a pending application for approval of a merger under Article 1 (commencing with Section 4880) or Article 2 (commencing with Section 4895.01) of Chapter 4.",
+    "(6) Examination of the converting depository corporation in connection with a pending application for approval of a conversion under Article 1 (commencing with Section 4920) or Article 2 (commencing with Section 4940) of Chapter 5."
+   ]
+  },
+  {
+   "action": "SEC. 12. Section 14353.5 of the Financial Code is amended to read:",
+   "paras": [
+    "§14353.5. Whenever the commissioner finds it necessary or advisable to make an extra examination of a credit union, the commissioner may charge the credit union a fee for the examination. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for each examiner engaged in the extra examination, and the credit union shall, within 10 days after the mailing or other delivery of a statement by the commissioner, pay the fee charged by the commissioner."
+   ]
+  },
+  {
+   "action": "SEC. 13. Section 16006 of the Financial Code is amended to read:",
+   "paras": [
+    "§16006. Fees shall be paid to and collected by the commissioner as follows:",
+    "(a) The fee for an application by a foreign (other state) credit union that is not licensed to transact business in this state for approval to establish a branch office is one thousand dollars ($1,000).",
+    "(b) The fee for an application by a foreign (other state) credit union that is licensed to transact business in this state for approval to establish a California branch office is five hundred dollars ($500).",
+    "(c) The fee for issuing a license to establish and maintain a California branch office or California facility is twenty-five dollars ($25).",
+    "(d) Each foreign (other state) credit union that on June 1 of any year maintains one or more California branch offices or California facilities shall pay, on or before the following July 1, a fee of two hundred fifty dollars ($250) per California branch office and one hundred dollars ($100) per California facility. However, the maximum fee shall be not more than one thousand dollars ($1,000).",
+    "(e) If the commissioner makes an examination in connection with a pending application, the foreign (other state) credit union making the application shall pay a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner.",
+    "(f) If the commissioner makes an examination of a foreign (other state) credit union that maintains a California branch office or California facility, the foreign (other state) credit union shall pay a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner."
+   ]
+  },
+  {
+   "action": "SEC. 14. Section 16505 of the Financial Code is amended to read:",
+   "paras": [
+    "§16505. Fees shall be paid to and collected by the commissioner as follows:",
+    "(a) The fee for filing with the commissioner an application by a foreign (other nation) credit union that is not licensed to transact business in this state for approval to establish a branch office shall be one thousand dollars ($1,000).",
+    "(b) The fee for filing with the commissioner an application by a foreign (other nation) credit union that is not licensed to transact business in this state for approval to establish an agency shall be five hundred dollars ($500).",
+    "(c) The fee for filing with the commissioner an application by a foreign (other nation) credit union that is licensed to transact business in this state for approval to establish a branch office shall be five hundred dollars ($500).",
+    "(d) The fee for filing with the commissioner an application by a foreign (other nation) credit union that is licensed to transact business in this state for approval to establish an agency shall be two hundred fifty dollars ($250).",
+    "(e) The fee for filing with the commissioner an application by a foreign (other nation) credit union for approval to establish a representative office shall be two hundred fifty dollars ($250).",
+    "(f) The fee for filing with the commissioner an application by a foreign (other nation) credit union for approval to relocate or to close an office shall be one hundred fifty dollars ($150).",
+    "(g) The fee for issuing a license shall be twenty-five dollars ($25).",
+    "(h) Each foreign (other nation) credit union that on June 1 of any year maintains one or more offices shall pay, on or before the following July 1, a fee of two hundred fifty dollars ($250) per branch office, one hundred dollars ($100) per agency, and fifty dollars ($50) per representative office.",
+    "(i) If the commissioner makes an examination in connection with a pending application, the foreign (other nation) credit union making the application shall pay a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner.",
+    "(j) If the commissioner makes an examination of a foreign (other nation) credit union that is licensed to maintain an office, the foreign (other nation) credit union shall pay a fee for the examination, as determined by the commissioner. In determining the fee, the commissioner may use the estimated average hourly cost, including, but not limited to, overhead, for all persons performing the examination, plus, if in the opinion of the commissioner it is necessary for any examiner engaged in the examination to travel outside this state, the travel expenses of the examiner."
+   ]
+  },
+  {
+   "action": "SEC. 15. Section 17207 of the Financial Code is amended to read:",
+   "paras": [
+    "§17207. The commissioner shall charge and collect the following fees and assessments:",
+    "(a) For filing an application for an escrow agent’s license, six hundred twenty-five dollars ($625) for the first office or location and four hundred twenty-five dollars ($425) for each additional office or location.",
+    "(b) For filing an application for a duplicate of an escrow agent’s license lost, stolen, or destroyed, or for replacement, upon a satisfactory showing of the loss, theft, destruction, or surrender of certificate for replacement, two dollars ($2).",
+    "(c) For investigation services in connection with each application, one hundred dollars ($100), and for investigation services in connection with each additional office application, one hundred dollars ($100).",
+    "(d) For holding a hearing in connection with the application, as set forth under Section 17209.2, the actual costs experienced in each particular instance.",
+    "(e) (1) Each escrow agent shall pay to the commissioner for the support of this division for the ensuing year, plus a deficit or less a surplus actually incurred during the prior two fiscal years, an annual license fee not to exceed seven thousand two hundred fifteen dollars ($7,215) for each office or location.",
+    "(2) On or before May 30 in each year, the commissioner shall notify each escrow agent by mail of the amount of the annual license fee levied against it, and that the payment of the invoice is payable by the escrow agent within 30 days after receipt of notification by the commissioner.",
+    "(3) If payment is not made within 30 days, the commissioner may assess and collect a penalty, in addition to the annual license fee, of 10 percent of the fee for each month or part of a month that the payment is delayed or withheld.",
+    "(4) If an escrow agent fails to pay the amount due on or before the June 30 following the day upon which payment is due, the commissioner may by order summarily suspend or revoke the certificate issued to the company.",
+    "(5) If, after an order is made pursuant to paragraph (4), a request for a hearing is filed in writing and a hearing is not held within 60 days thereafter, the order is deemed rescinded as of its effective date. During any period when its certificate is revoked or suspended, a company shall not conduct business pursuant to this division, except as may be permitted by order of the commissioner. However, the revocation, suspension, or surrender of a certificate shall not affect the powers of the commissioner as provided in this division.",
+    "(f) Fifty dollars ($50) for investigation services in connection with each application for qualification of any person under Section 17200.8, other than investigation services under subdivision (c) of this section.",
+    "(g) A fee not to exceed twenty-five dollars ($25) for the filing of a notice or report required by rules adopted pursuant to subdivision (a) or Section 17203.1.",
+    "(h) (1) If costs and expenses associated with the enforcement of this division, including overhead, are or will be incurred by the commissioner during the year for which the annual license fee is levied, and that will or could result in the commissioner’s incurring of costs and expenses, including overhead, in excess of the costs and expenses, including overhead, budgeted for expenditure for the year in which the annual license fee is levied, then the commissioner may levy a special assessment on each escrow agent for each office or location in an amount estimated to pay for the actual costs and expenses associated with the enforcement of this division, including overhead, in an amount not to exceed one thousand dollars ($1,000) for each office or location. The commissioner shall notify each escrow agent by mail of the amount of the special assessment levied against it, and that payment of the special assessment is payable by the escrow agent within 60 days of receipt of notification by the commissioner. The funds received from the special assessment shall be deposited into the Financial Protection Fund and shall be used only for the purposes for which the special assessment is made.",
+    "(2) If payment is not made within 60 days, the commissioner may assess and collect a penalty, in addition to the special assessment, of 10 percent of the special assessment for each month or part of a month that the payment is delayed or withheld. If an escrow agent fails to pay the special assessment on or before 60 days following the day upon which payment is due, the commissioner may by order summarily suspend or revoke the certificate issued to the company. If an order is made under this subdivision, the provisions of paragraph (5) of subdivision (e) shall apply.",
+    "(3) If the amount collected pursuant to this subdivision exceeds the actual costs and expenses, including overhead, incurred in the administration and enforcement of this division and any deficit incurred, the excess shall be credited to each escrow agent on a pro rata basis."
+   ]
+  },
+  {
+   "action": "SEC. 16. Section 50401 of the Financial Code is amended to read:",
+   "paras": [
+    "§50401. (a) In addition to other fees and reimbursements required to be paid under this division, each residential mortgage lender or servicer licensee shall pay to the commissioner an amount equal to the lesser of: (1) its pro rata share of all costs and expenses (including overhead and the maintenance of a prudent reserve not to exceed 90 days’ costs and expenses) that the commissioner reasonably expects to incur in the current fiscal year in the administration of this division and not otherwise recovered by the commissioner under this division or from the Financial Protection Fund, plus a deficit or less a surplus actually incurred during the prior two fiscal years; or (2) fifteen thousand dollars ($15,000). The pro rata share shall be the greater of either three thousand dollars ($3,000) or the sum of: (A) a number derived from the ratio of the aggregate principal amount of the mortgage loans secured by residential real property originated by the licensee to all mortgage loans secured by residential real property originated by all licensees under this division, as shown by the annual financial reports to the commissioner, which number is then multiplied by one-half of the costs and expenses estimated by the commissioner; plus (B) a number derived from the ratio of the average value of mortgage loans secured by residential real property serviced by a licensee to the average value of all mortgage loans secured by residential real property serviced by all licensees under this division, as shown by the annual financial reports to the commissioner, which number is then multiplied by one-half of the costs and expenses estimated by the commissioner. For the purposes of this section, the “principal amount” of a mortgage loan means the initial total amount a borrower is obligated to repay the lender and the “average value” of loans serviced means the sum of the aggregate dollar value of all mortgage loans secured by residential real property serviced by a licensee, calculated as of the last day of each month in the calendar year just ended, divided by 12.",
+    "In order for the commissioner to calculate the assessment under this section, each licensee shall file an annual report for the calendar year just ended containing the information required by the commissioner on or before March 1 of the year in which the assessment is to be calculated.",
+    "In determining the amount assessed, the commissioner shall consider all appropriations from the Financial Protection Fund for the support of this division and all reimbursements provided for under this division.",
+    "(b) In no case shall the reimbursement, payment, or other fee authorized by this section exceed the cost, including overhead, reasonably incurred in the administration of this division, and the maintenance of a prudent reserve not to exceed 90 days’ costs and expenses.",
+    "(c) On or before the 30th day of September in each year, the commissioner shall notify each licensee by mail of the amount assessed and levied against it and that amount shall be paid within 20 days. If payment is not made within 20 days, the commissioner shall assess and collect a penalty, in addition to the assessment of 1 percent of the assessment for each month or part of a month that the payment is delayed or withheld.",
+    "(d) If a licensee fails to pay the assessment on or before the 30th day following the day upon which payment is due, the commissioner may by order summarily suspend or revoke the license issued to the licensee. An order issued under this section is not stayed by the filing of a request for a hearing. If, after an order is made, the request for hearing is filed in writing within 15 days from the date of service of the order and a hearing is not held within 60 days of the filing, the order is deemed rescinded as of its effective date. During a period when its license is revoked or suspended, a licensee shall not conduct business pursuant to this division except as may be permitted by further order of the commissioner. However, the revocation, suspension, or surrender of a license shall not affect the powers of the commissioner as provided in this division."
+   ]
+  },
+  {
+   "action": "SEC. 17. Section 7929.011 of the Government Code is amended to read:",
+   "paras": [
+    "§7929.011. (a) Notwithstanding any other provision of this chapter, the following information and records of a bank, as defined in Section 63010, shall not be subject to disclosure pursuant to this chapter, unless the information has already been publicly released by the custodian of the information:",
+    "(1) A commercial or personal financial statement or other financial or project data received from an actual or potential applicant to the bank, loan recipient, or investment recipient.",
+    "(2) A record containing information regarding a specific financial assistance, bond or loan amount or term, or information received from an applicant or customer pertaining to a contract for financial assistance, bond or loan or an application related thereto, including an investment agreement, loan agreement, or a related document.",
+    "(3) Due diligence materials, or information related to customers, and competitors, including summaries, reports, analyses, recommendations, projections, or estimates related thereto.",
+    "(4) Any record containing information claimed to be a trade secret, confidential or proprietary, or to be otherwise exempt from disclosure under this chapter, or under other applicable provisions of law as identified in writing by the information provider.",
+    "(b) This section shall apply to the bank solely in relation to the administration of the Climate Catalyst Revolving Fund Act of 2020 (Article 6.7 (commencing with Section 63048.91) of Chapter 2 of Division 1 of Title 6.7), the Venture Capital Program pursuant to Section 63089.99, and the financing of economic development facilities and public development facilities, but only when a participating party is seeking financial assistance with the support of a sponsor, as those terms are defined in Section 63010.",
+    "(c) This section shall not exempt disclosure of bank-produced documents or materials, including staff reports and terms sheets, that are presented to the bank’s board of directors for consideration and approval, even if such documents or materials are produced from original information and documents that are otherwise exempted under this section. Any further information or document requested by the bank’s board of directors in connection with these bank-produced documents or materials that is provided during, or prior to, the bank board meeting, are also not exempt from disclosure and shall be publicly available in the form provided to the board.",
+    "(d) This section shall only apply to documents and information provided to the bank on and after August 1, 2022, and prior to January 1, 2032, and shall continue to apply to those documents and information going forward."
+   ]
+  },
+  {
+   "action": "SEC. 18. Section 9795 of the Government Code is amended to read:",
+   "paras": [
+    "§9795. (a) (1) \"?>Any report required or requested by law, or identified in the Legislative Analyst’s Supplemental Report of the Budget Act, to be submitted by a state or local agency to a committee of the Legislature or the Members of either house of the Legislature generally, shall instead be submitted as an electronic copy to the Secretary of the Senate, the Chief Clerk of the Assembly, and the Legislative Counsel. Each report shall include a summary of its contents, not to exceed one page in length. If the report is submitted by a state agency, that agency shall also provide an electronic copy of the summary directly to each Member of the appropriate house or houses of the Legislature. Notice of receipt of the report shall also be recorded in the journal of the appropriate house or houses of the Legislature by the secretary or clerk of that house.",
+    "(2) In addition to, and as part of, the information made available to the public in electronic form pursuant to Section 10248, the Legislative Counsel shall make available a list of the reports submitted by state and local agencies, as specified in paragraph (1). If the Legislative Counsel receives a request from a member of the public for a report contained in the list, the Legislative Counsel is not required to provide a copy of the report and may refer the requester to the state or local agency, as the case may be, that authored the report, or to the California State Library as the final repository of public information.",
+    "(b) A report shall not be distributed to a Member of the Legislature unless specifically requested by that Member.",
+    "(c) Compliance with subdivision (a) shall be deemed to be full compliance with subdivision (c) of Section 10242.5.",
+    "(d) A state agency report and summary subject to this section shall include an internet website where the report can be downloaded and a telephone number to call to order a hard copy of the report. A report submitted by a state agency subject to this section shall also be posted at the agency’s internet website.",
+    "(e) For purposes of this section, “report” includes any study or audit."
+   ]
+  },
+  {
+   "action": "SEC. 19. Section 10242.5 of the Government Code is amended to read:",
+   "paras": [
+    "§10242.5. (a) The Legislative Counsel shall annually prepare, publish, and maintain an electronic list of all reports that state and local agencies are required or requested by law to prepare and file with the Governor or the Legislature, or both, in the future or within the preceding year. The list shall include all of the following information:",
+    "(1) The name of the agency that is required or requested to prepare and file the report.",
+    "(2) A brief description of the subject of the report.",
+    "(3) The date on which the report is to be completed and filed.",
+    "(4) The date on which the report was filed with the Legislative Counsel.",
+    "(b) The Legislative Counsel shall make the list of reports available to the public on an internet website and shall annually provide to each Member of the Legislature a hyperlink to the internet website whereby the list can be accessed.",
+    "(c) (1) Each state and local agency that is required or requested by law to prepare a report described in subdivision (a) shall file an electronic copy of the report with the Legislative Counsel. If the report is posted on an internet website, the agency filing the electronic copy shall provide to the Legislative Counsel a hyperlink whereby the report may be accessed.",
+    "(2) The Legislative Counsel shall include, on the internet website it maintains for purposes of this section, any hyperlinks provided by state and local agencies pursuant to paragraph (1).",
+    "(d) As used in this section:",
+    "(1) “Agency” includes any city, county, special district, department, board, bureau, or commission, including any task force or other similar body that is created by statute or resolution. “Agency” does not include the University of California.",
+    "(2) “Report” includes any study or audit.",
+    "(e) The Legislative Counsel shall update the list required by subdivision (a) by removing duplicate reports from the list. The Legislative Counsel shall also remove reports from the list as directed by Section 4 of Chapter 7 of the Statutes of 2010, or a subsequent statute that further requires the Legislative Counsel to remove reports included in the list."
+   ]
+  },
+  {
+   "action": "SEC. 20. Section 11011.4 is added to the Government Code, to read:",
+   "paras": [
+    "§11011.4. (a) Upon approval from the Department of Finance, the Secretary of the Department of Corrections and Rehabilitation shall notify the Department of General Services and the Joint Legislative Budget Committee of any state real property under its jurisdiction that has been determined to be excess to its needs, as defined in Section 11011, and shall request authorization from the Legislature to dispose of the land by sale, exchange, sale in combination with an exchange, or transfer to a local government.",
+    "(b) (1) Notwithstanding any other law, upon authorization by the Legislature, the Department of General Services may sell, lease, exchange, sell in combination with an exchange, transfer to a local government, or otherwise dispose of, upon terms and conditions as the Director of General Services determines are in the best interest of the state, excess state real property under the jurisdiction of the Department of Corrections and Rehabilitation.",
+    "(2) Notwithstanding paragraph (1), and insofar as the Department of General Services has authority to lease state real property under the jurisdiction of the Department of Corrections and Rehabilitation, the Department of General Services may execute leases for those properties.",
+    "(c) (1) State real property identified pursuant to subdivision (a) shall be evaluated by the Department of General Services for alternative use by the state pursuant to subdivision (e) of Section 11011, including for affordable housing in accordance with the criteria established pursuant to subdivision (a) of Section 14684.3.",
+    "(2) If the Department of General Services determines that an alternative use by the state is in the best interests of the state, the department may transfer all or portions of a property to the appropriate state agency.",
+    "(3) If no alternative uses by the state are determined to be feasible or in the best interest of the state, the Department of General Services is authorized to dispose of all or portions of a property pursuant to subdivision (b).",
+    "(d) Before the disposal to a nonstate entity of property identified pursuant to this section, the Department of General Services shall notify the Joint Legislative Budget Committee of its intent to dispose of specified property no earlier than 30 days after notification is made.",
+    "(e) In setting the purchase price or lease terms for property identified pursuant to this section, the Department of General Services may permit a sales price or set lease terms at less than fair market value if it determined that a discount is in the best interest of the state.",
+    "(f) The Department of General Services shall be reimbursed for any cost or expense incurred in the disposition of any parcel and may be reimbursed from the net proceeds of a transaction entered into pursuant to this section.",
+    "(g) Net proceeds of a sale of state real property identified in subdivision (a) shall be deposited pursuant to subdivision (g) of Section 11011.",
+    "(h) (1) Excluding revenue received pursuant to subdivision (g), and excluding any reimbursement of the Department of General Services pursuant to subdivision (f), all other revenues received pursuant to this section shall be deposited into the Property Acquisition Law Money Account and be available for transfer into the Architectural Revolving Fund for expenditure by the Department of General Services.",
+    "(2) Funds transferred pursuant to this subdivision shall be made available to the Department of General Services to improve the likelihood of successful redevelopment of property identified pursuant to this section. Those activities may include, but are not limited to, any of the following:",
+    "(A) Undertaking studies and real estate due diligence regarding specific properties.",
+    "(B) Performing abatement or demolition of existing improvements.",
+    "(C) Constructing infrastructure to improve or otherwise modify a property.",
+    "(D) Executing contracts with local government entities for land use planning or entitlement activities.",
+    "(3) The Department of General Services shall notify the Joint Legislative Budget Committee at least 30 days before expending funds pursuant to paragraph (2).",
+    "(i) Property processed pursuant to this section is prohibited from being used for carceral purposes or as a detention facility.",
+    "(j) (1) The sale, lease, exchange, sale in combination with an exchange, or transfer to a local government, made pursuant to this section and made on an “as is” basis shall be exempt from Division 13 (commencing with Section 21000) of the Public Resources Code. Upon title to the parcel vesting in the purchaser or transferee of the property, the purchaser or transferee shall be subject to any local governmental land use entitlement approval requirements and to Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(2) If the sale, lease, exchange, sale in combination with an exchange, or transfer to a local government made pursuant to this section is not made on an “as is” basis and is contingent on the satisfaction of a local governmental land use entitlement approval requirement or compliance by the local government with Division 13 (commencing with Section 21000) of the Public Resources Code, the execution of a disposition agreement by all parties to the agreement shall be exempt from Division 13 (commencing with Section 21000) of the Public Resources Code."
+   ]
+  },
+  {
+   "action": "SEC. 21. Section 11040 of the Government Code is amended to read:",
+   "paras": [
+    "§11040. (a) It is the intent of the Legislature that overall fiscal efficiency and economy in state government be enhanced by employment of the Attorney General as counsel for the representation of state agencies and employees in judicial and administrative adjudicative proceedings.",
+    "The Legislature finds that it is in the best interests of the people of the State of California that the Attorney General be provided with the fiscal resources needed to develop and maintain the Attorney General’s capability to provide competent legal representation of state agencies and employees in any judicial or administrative adjudicative proceeding.",
+    "(b) As used in this article:",
+    "(1) “In-house counsel” means an attorney authorized to practice law in the State of California who is a state employee, including an excluded or exempt employee, other than an employee of the Office of the Attorney General.",
+    "(2) “Outside counsel” means an attorney authorized to practice law in the State of California who is not a state employee, including an excluded or exempt employee.",
+    "(c) Except with respect to employment by the state officers and agencies specified by title or name in Section 11041, when employing outside counsel for purposes described in subdivision (e) of Section 11043, or when specifically waived by statute other than Section 11041, a state agency shall obtain the written consent of the Attorney General before doing either of the following:",
+    "(1) Employing in-house counsel to represent a state agency or employee in any judicial or administrative adjudicative proceeding.",
+    "(2) Contracting with outside counsel.",
+    "(d) Except as limited by paragraph (1) of subdivision (c), a state agency may employ in-house counsel for any purpose. This subdivision shall apply retroactively to the employment of any in-house counsel by any state agency before the operative date of the act adding this subdivision.",
+    "(e) This article does not prohibit a state agency from requesting legal representation or legal services from the Attorney General for any purpose.",
+    "(f) Consistent with subdivision (d), and except as may conflict with contrary authorization by statute, a state agency may employ in-house counsel for advice or other legal work related to bonds or other evidences of indebtedness, but shall engage the Attorney General, alone or with other counsel as may be authorized by statute, for the purpose of delivering any approving legal opinion on bonds or other evidences of indebtedness and advice related to the approving legal opinion. The Attorney General may waive the requirement under this subdivision."
+   ]
+  },
+  {
+   "action": "SEC. 22. Section 11041 of the Government Code is amended to read:",
+   "paras": [
+    "§11041. (a) Section 11042 does not apply to the office of the Governor, the Regents of the University of California, the Trustees of the California State University, Legal Division of the Department of Transportation, Division of Labor Standards Enforcement of the Department of Industrial Relations, Workers’ Compensation Appeals Board, Public Utilities Commission, State Compensation Insurance Fund, Legislative Counsel Bureau, Inheritance Tax Department, Secretary of State, State Lands Commission, Alcoholic Beverage Control Appeals Board (except when the board affirms the decision of the Department of Alcoholic Beverage Control), Department of Cannabis Control (except in proceedings in state or federal court), State Department of Education, Department of Financial Protection and Innovation, and Treasurer with respect to bonds, nor to any other state agency which, by law enacted after Chapter 213 of the Statutes of 1933, is authorized to employ legal counsel.",
+    "(b) The Trustees of the California State University shall pay the cost of employing legal counsel from their existing resources."
+   ]
+  },
+  {
+   "action": "SEC. 23. Section 11042 of the Government Code is amended to read:",
+   "paras": [
+    "§11042. (a) For purposes of promoting fiscal efficiency and economy, no state agency shall employ any in-house counsel to act on behalf of the state agency or its employees in any judicial or administrative adjudicative proceeding in which the agency is interested, or is a party as a result of office or official duties, or contract with outside counsel for any purpose, unless the agency has first obtained the written consent of the Attorney General pursuant to Section 11040.",
+    "(b) The Attorney General may provide written consent for a state agency to employ in-house counsel to represent the agency or its employees in any judicial or administrative adjudicative proceeding in whatever manner the Attorney General deems most effective and consistent with the intent of this article. However, a state agency shall obtain written consent for the use of outside counsel for a matter or matters for which the outside counsel is to be engaged before the execution of each contract with the outside counsel for the matter or matters."
+   ]
+  },
+  {
+   "action": "SEC. 24. Section 11043 is added to the Government Code, to read:",
+   "paras": [
+    "§11043. (a) The Legislature finds and declares all of the following:",
+    "(1) The Attorney General performs separate functions in enforcing state laws, pursuant to Section 13 of Article V of the California Constitution, and serving as counsel, whenever requested, for the representation of state agencies and employees in judicial and administrative adjudicative proceedings and other matters.",
+    "(2) When a state agency requests representation by the Attorney General, the Attorney General establishes an attorney-client relationship with a state agency that is limited to the specific matter or matters for which the state agency has requested representation.",
+    "(3) It is important to uphold the divided executive branch enacted by the California Constitution.",
+    "(4) The findings provided in this subdivision are declaratory of existing law, as demonstrated in People ex rel. Lockyer v. Superior Court (2004) 122 Cal.App.4th 1060 and People v. Superior Court (Barrett) (2000) 80 Cal.App.4th 1305.",
+    "(b) The Attorney General has no control over any state agency’s decisions or possession, custody, or control over any state agency’s documents or electronically stored information for purposes of criminal or civil discovery or any other purpose.",
+    "(c) Every state agency is a separate legal entity. Unless an agency is in actual possession of the relevant documents or electronically stored information, no state agency has possession, custody, or control over any other state agency’s documents or electronically stored information for purposes of criminal or civil discovery or the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1). Service of a summons, complaint, or subpoena on one state agency is not lawful service on any other state agency, unless the state agency served has been authorized to accept service on behalf of the other state agency.",
+    "(d) When the Attorney General institutes or defends an action in their independent capacity on behalf of the State of California or the people of the State of California, the Attorney General acts in the public interest of the State of California and its residents and not as the legal representative or attorney of any state entity, including entities within the executive, legislative, or judicial branches. State agencies are not parties to an action described in this subdivision, unless they are specifically named as a party, and the documents or electronically stored information of state agencies are not in the possession, custody, or control of the Attorney General.",
+    "(e) (1) Section 11042 does not apply for purposes of representation of a state agency related to civil discovery, whether sought as party or third-party discovery, in any action brought by the Attorney General in their independent capacity on behalf of the people of the State of California or the State of California.",
+    "(2) Nothing in paragraph (1) shall prohibit a state agency from requesting representation from the Attorney General in a proceeding otherwise subject to paragraph (1).",
+    "(f) It is the intent of the Legislature that this section be interpreted broadly to include any action filed by the Attorney General, whether filed in federal court or state court, to enforce state laws or defend the interests of the people of the State of California or the State of California where the Attorney General has not been requested to act as counsel for that state agency."
+   ]
+  },
+  {
+   "action": "SEC. 25. Section 12012.85 of the Government Code is amended to read:",
+   "paras": [
+    "§12012.85. There is hereby created in the State Treasury a fund called the “Indian Gaming Special Distribution Fund” for the receipt and deposit of moneys received by the state from Indian tribes pursuant to the terms of tribal-state gaming compacts. These moneys shall be available for appropriation by the Legislature for the following purposes:",
+    "(a) Grants, including any administrative costs, for programs designed to address gambling addiction.",
+    "(b) Compensation for regulatory costs incurred by the state gaming agency and the Department of Justice in connection with the implementation and administration of tribal-state gaming compacts and class III gaming secretarial procedures.",
+    "(c) Payment of shortfalls that may occur in the Indian Gaming Revenue Sharing Trust Fund. This shall be the priority use of moneys in the Indian Gaming Special Distribution Fund.",
+    "(d) Disbursements for the purpose of implementing the terms of tribal labor relations ordinances promulgated in accordance with the terms of tribal-state gaming compacts ratified pursuant to Chapter 874 of the Statutes of 1999. No more than 10 percent of the funds appropriated in the Budget Act of 2000 for implementation of tribal labor relations ordinances promulgated in accordance with those compacts shall be expended in the selection of the Tribal Labor Panel. The Department of Human Resources shall consult with and seek input from the parties prior to any expenditure for purposes of selecting the Tribal Labor Panel. Other than the cost of selecting the Tribal Labor Panel, there shall be no further disbursements until the Tribal Labor Panel, which is selected by mutual agreement of the parties, is in place."
+   ]
+  },
+  {
+   "action": "SEC. 26. Section 12100.63 of the Government Code is amended to read:",
+   "paras": [
+    "§12100.63. (a) The California Small Business Technical Assistance Program is hereby created within the California Office of the Small Business Advocate.",
+    "(b) The program shall be under the direct authority of the Small Business Advocate.",
+    "(c) The purpose of the program is to assist small businesses through free or low-cost one-on-one consulting and low-cost training by entering into grant agreements with one or more small business technical assistance centers.",
+    "(d) In implementing the program, the office shall consult with local, regional, federal, and other state public and private entities that share a similar mission to support the needs of small businesses in California.",
+    "(e) An applicant pursuant to this article shall be a small business technical assistance center, including a regional or statewide network, operating as a group or as an individual center.",
+    "(1) A small business technical assistance center operating as a group consisting of centers organized under a coordinating administrative or fiscal entity shall apply by submitting a single consolidated application to the office.",
+    "(2) A small business technical assistance center operating as an individual center shall apply by submitting a single application for that center to the office.",
+    "(f) The office shall administer the program to provide grants to expand the capacity of small business development technical assistance centers in California, administered by and primarily funded by federal agencies, but shall also include other nonprofit small business technical assistance centers, that provide one-on-one confidential consulting and training to small businesses and entrepreneurs in this state. Except as modified by subdivision (l), an applicant shall be eligible to participate in the program if the office determines that the applicant meets all of the following criteria:",
+    "(1) At the time of applying for funds, the applicant has an active contract with a federal funding partner to administer a program in this state, or has received a letter of intent from a federal funding partner to administer a federal small business technical assistance center program in this state within the next fiscal year. Alternatively, if the applicant is not a federally contracted small business technical assistance center, the applicant shall document a private funding source with similar intent and meet the criteria defined in subdivision (s) of Section 12100.62.",
+    "(2) (A) The applicant provided a plan of action and commitment to fully draw down all of the federal funds available using local cash match and state funds not described in Section 12100.65 during the duration of the award period. Alternatively, if the applicant is not a federally contracted small business technical assistance center, the applicant shall present a plan of action for drawing down any match required by those private funding sources using local cash match outside of state funds not described in Section 12100.65 during the award period. The office may request that the applicant provide details relating to the source and amount of these nonstate local match funds.",
+    "(B) If the applicant is a new small business technical assistance center, the applicant has demonstrated the ability to fully draw down substantially all federal or private funds available to it.",
+    "(3) The requested funding amount does not exceed the total federal award specified in the contract with the federal funding partner contract, or the private funding sources specified, but in any event is no less than twenty-five thousand dollars ($25,000).",
+    "(4) The applicant seeks funding for one or more years, but no more than five years in duration.",
+    "(5) The grant agreements authorized by this article are not subject to the model contract provisions developed pursuant to Chapter 14.27 (commencing with Section 67325) of Part 40 of Division 5 of Title 3 of the Education Code.",
+    "(6) The applicant has a fiscal agent that is able to receive nonfederal funds.",
+    "(g) The office shall issue a request for proposal for grants under the program, which may contain the following information:",
+    "(1) The eligibility requirements described in subdivision (e).",
+    "(2) The available funding range.",
+    "(3) Funding instruments.",
+    "(4) The local cash match requirement described in subdivision (f).",
+    "(5) Operational capacity.",
+    "(6) The duration of the program.",
+    "(7) The start date of the program.",
+    "(8) Narrative requirements.",
+    "(9) Reporting requirements.",
+    "(10) Required attachments.",
+    "(11) Submission requirements.",
+    "(12) Application evaluation criteria.",
+    "(13) An announcement of an awards timeline.",
+    "(h) (1) The office shall evaluate applications received based on the following factors:",
+    "(A) The proposed use of the requested funding, including the specificity, measurability, and ability of the applicant to document and achieve the goals and objectives identified in its application.",
+    "(B) The proposed management strategy of the applicant to achieve its goals and objectives identified in its application.",
+    "(C) The applicant’s ability to complement and leverage the work of other local, state, federal, nonprofit, or private business technical assistance resource providers.",
+    "(D) The applicant’s historical performance with federal funding partner contracts or private funding sources and the strength of its fiscal controls.",
+    "(2) The office shall prioritize funding for applications that best meet the factors listed in paragraph (1) and give preference to applications that propose new or enhanced services to underserved business groups, including women, minority, and veteran-owned businesses, and businesses in low-wealth, rural, and disaster-impacted communities included in a state or federal emergency declaration or proclamation.",
+    "(i) State funds provided pursuant to the program shall be used to expand consulting and training services through existing and new centers, including satellite offices. State funds provided pursuant to the program shall not supplant nonstate local cash match dollars included in a federal small business technical assistance center’s plan described in subparagraph (A) of paragraph (2) of subdivision (f) or in any nonfederal small business technical assistance center’s plan.",
+    "(j) Subject to appropriation of necessary funds by the Legislature, a supplemental grant program designated as the California Dream Fund Program shall be established by the office to provide microgrants as described in this subdivision. The microgrants shall be disbursed through California Small Business Technical Assistance Program grantees. California Small Business Technical Assistance Program applicants, as prescribed by the office, may also request state funds designated as the California Dream Fund Program moneys to provide microgrants up to ten thousand dollars ($10,000) to seed entrepreneurship and small business creation in underserved small business groups that are facing capital and opportunity gaps. These microgrants shall be made available to startup clients participating in intensive startup training and consulting with the center networks.",
+    "(k) For purposes of implementing the California Dream Fund Program, a person or entity shall not seek information that is unnecessary to determine eligibility, including whether the individual is undocumented. Information that may be collected from individuals participating in the California Dream Fund Program shall not constitute a record subject to disclosure under Division 10 (commencing with Section 7920.000) of Title 1.",
+    "(l) (1) If an applicant’s federal contract was canceled, frozen, or rescinded in the 2024–25 fiscal year, then for grants made in fiscal years 2025–26 to 2027–28, inclusive, the requirements in subdivision (f) are modified, as follows:",
+    "(A) The applicant may use its 2023–24 federal fiscal year contract to meet the requirement described in paragraph (1) of subdivision (f) to have an active contract with a federal funding partner to administer a program in this state.",
+    "(B) The requirement described in paragraph (2) of subdivision (f) shall be waived if the applicant meets all of the following criteria:",
+    "(i) The applicant received an award pursuant to this chapter as a federal small business technical assistance center during the 2022–23, 2023–24, and 2024–25 funding rounds.",
+    "(ii) The office determines that the applicant successfully implemented their awarded contracts in 2023 and 2024.",
+    "(C) An applicant may use the total contract award amount in its 2023–24 federal fiscal year contract to meet the requirement described in paragraph (3) of subdivision (f) that the requested funding amount made in a grant pursuant to this chapter not exceed the total federal award specified in the contract with the federal funding partner contract.",
+    "(2) This subdivision shall not apply if the office determines that the contract was canceled, frozen, or rescinded based upon a finding and declaration of noncompliance.",
+    "(3) State funding adjustments authorized pursuant to this subdivision shall be temporary and limited.",
+    "(4) State funding provided pursuant to this subdivision may also be used for outreach efforts to ensure that small businesses, including those in underserved and rural communities, are aware of, and can access, technical assistance services.",
+    "(5) The office shall review and confirm that the applicant continues to meet state performance standards and provides high-quality, equitable technical assistance services. The office shall report its findings and actions to the Legislature. A report to be submitted pursuant to this paragraph shall be submitted in compliance with Section 9795 of the Government Code.",
+    "(6) This subdivision shall remain operative until June 30, 2029."
+   ]
+  },
+  {
+   "action": "SEC. 27. Section 63035 of the Government Code is amended to read:",
+   "paras": [
+    "§63035. (a) The bank shall, not later than January 1 of each year, submit to the Strategic Growth Council, the Governor, the Speaker of the Assembly, the President pro Tempore of the Senate, the Legislature, the legislative budget subcommittees related to climate, and the Legislative Analyst’s Office, pursuant to Section 9795, a report for the preceding fiscal year ending on June 30 containing information on the bank’s activities relating to the infrastructure bank fund and programs. The report shall include all of the following:",
+    "(1) (A) Information on the infrastructure bank fund, including, but not limited to, its present balance, moneys encumbered, moneys allocated, repayments, and other sources of revenues received during the fiscal year.",
+    "(B) Information on the impact of the activities funded by the infrastructure bank fund moneys, including, but not limited to, the number of jobs created and retained, the environmental impact that resulted, and economic value provided to the state.",
+    "(2) A specification of conduit and revenue bonds sold and interest rates thereon, including, but not limited to, the use of the bond proceeds.",
+    "(3) The amount of other public and private funds leveraged by the assistance provided.",
+    "(4) A report of revenues and expenditures for the preceding fiscal year, including all of the bank’s costs. The information provided pursuant to this subdivision shall include, but need not be limited to, both of the following:",
+    "(A) The amount and source of total bank revenues. Revenues shall be shown by main categories of revenues, including the General Fund, special funds, federal funds, interest earnings, fees collected, and bond proceeds, for each bank program.",
+    "(B) The amount and type of total bank expenditures. Expenditures shall be shown by major categories of expenditures, including loans provided, debt service payments, and program support costs, for each bank program.",
+    "(5) A projection of the bank’s needs and requirements for the coming year.",
+    "(6) Recommendations for changes in state and federal law necessary to meet the objectives of this division.",
+    "(7) The contents of the report prepared by the program manager of the California Small Business Finance Center consistent with the requirements of Section 63089.98.",
+    "(8) The contents of the report containing Climate Catalyst Revolving Fund Program activity consistent with the requirements of Section 63048.94.",
+    "(b) The executive director shall post the report on the bank’s internet website.",
+    "(c) The bank shall provide written notification to the Joint Legislative Budget Committee when federal funds are fully recycled into state dollars before committing to any additional financing projects."
+   ]
+  },
+  {
+   "action": "SEC. 28. The heading of Article 6.7 (commencing with Section 63048.91) of Chapter 2 of Division 1 of Title 6.7 of the Government Code is amended to read:",
+   "paras": [
+    "6.7. Climate Catalyst Revolving Fund Act of 2020"
+   ]
+  },
+  {
+   "action": "SEC. 29. Section 63048.91 of the Government Code is amended to read:",
+   "paras": [
+    "§63048.91. (a) This chapter shall be known, and may be cited, as the Climate Catalyst Revolving Fund Act of 2020.",
+    "(b) Notwithstanding any other provision of this division, this article does not apply to any other activities, powers, and duties of the Infrastructure and Economic Development Bank under this division.",
+    "(c) The bank shall administer the Climate Catalyst Revolving Fund to provide financial assistance for climate catalyst projects, as defined in subdivision (b) of Section 63048.92.",
+    "(d) Financial assistance for climate catalyst projects through the Climate Catalyst Revolving Fund Program shall be provided at low-interest rates and at low-cost as determined by the bank, to support the projects directly and to attract additional third-party capital."
+   ]
+  },
+  {
+   "action": "SEC. 30. Section 63048.92 of the Government Code is amended to read:",
+   "paras": [
+    "§63048.92. The definitions contained in this section are in addition to the definitions contained in Section 63010 and together with the definitions contained in that section shall govern the construction of this article, unless the context requires otherwise:",
+    "(a) “Bank” means the Infrastructure and Economic Development Bank.",
+    "(b) “Climate catalyst project” means any building, structure, equipment, infrastructure, or other improvement within California, or financing the general needs, including working capital, of any sponsor or participating party for operations or activities within California that are consistent with, and intended to, further California’s climate goals, activities that reduce climate risk, and the implementation of low-carbon technology and infrastructure.",
+    "(c) “Climate Catalyst Revolving Fund” means revolving funds by that name created under, and administered pursuant to, this article to provide financial assistance for climate catalyst projects.",
+    "(d) “Climate Catalyst Revolving Fund Program” means the program of that name to administer the Climate Catalyst Revolving Fund and to provide financial assistance for climate catalyst projects, to be administered by the bank pursuant to this article and criteria, priorities, and guidelines to be adopted by the bank board.",
+    "(e) “Climate catalyst financing plan” means a report by the bank for one of the categories of climate catalyst projects identified in subdivision (f) of Section 63048.93, identifying potential subcategories and eligibility criteria of climate catalyst projects that may receive financial assistance under this article and within that category. Each climate catalyst financing plan shall be based on the bank’s direct consultation with the consulting agencies for that category identified in subdivision (f) of Section 63048.93.",
+    "(f) “Consulting agencies” means the state agencies set forth in subdivision (f) of Section 63048.93 and any additional state agencies identified pursuant to subdivision (g) of Section 63048.93.",
+    "(g) “Disadvantaged” when used in conjunction with a participating party recipient or potential recipient of financial assistance means a participating party that is economically disadvantaged, or is operating in a community characterized by socioeconomic indicators that may include, but are not limited to, low- to -moderate income, poverty rates, unemployment, educational attainment, and other disadvantaging factors that limit access to capital and other resources.",
+    "(h) “Sponsor” and “participating party” shall mean the same as defined in Section 63010, but also include federally recognized Native American tribes and tribal business enterprises located in California."
+   ]
+  },
+  {
+   "action": "SEC. 31. Section 63048.93 of the Government Code is amended to read:",
+   "paras": [
+    "§63048.93. (a) The bank is hereby authorized and empowered to provide financial assistance under the Climate Catalyst Revolving Fund Program to any eligible sponsor or participating party either directly or to a lending or financial institution, in connection with the financing or refinancing of a climate catalyst project, in accordance with an agreement or agreements, between the bank and the sponsor or participating party, including, but not limited to, tribes, either as a sole lender or in participation or syndication with other lenders.",
+    "(b) Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 does not apply to any climate catalyst financing plan or any criteria, priorities, and guidelines adopted by the bank in connection with the Climate Catalyst Revolving Fund Program or any other program of the bank. However, any climate catalyst financing plan shall be posted on the bank’s internet website in a conspicuous location at least 30 calendar days before a bank board meeting at which the climate catalyst financing plan will be considered for approval.",
+    "(c) (1) Repayments of financing made under the Climate Catalyst Revolving Fund Program shall be deposited into the appropriate account created within the Climate Catalyst Revolving Fund.",
+    "(2) The bank shall establish a separate account for each category of climate catalyst projects identified by each paragraph of subdivision (f). For purposes of paragraph (3) of subdivision (f), the Clean Energy Transmission Financing Account is hereby created in the Climate Catalyst Revolving Fund.",
+    "(d) (1) (A) The bank shall meet and confer with the appropriate consulting agencies for each category of climate catalyst projects identified in subdivision (f). Thereafter, the bank board shall adopt, by majority vote of the bank board, a climate catalyst financing plan for each category of climate catalyst projects identified in subdivision (f). Before the bank board meeting in which the bank board will first consider adoption of a financing plan, each consulting agency shall submit a letter to the bank board discussing any areas of support and any areas of disagreement with the financing plan under consideration.",
+    "(B) Adoption of a climate catalyst financing plan by the bank board shall authorize the bank to provide financial assistance and to use all financing authorities provided under this division in its implementation of the climate catalyst financing plan.",
+    "(2) Following bank board approval, the climate catalyst financing plan shall be posted on the bank’s internet website.",
+    "(3) A climate catalyst financing plan shall not be in effect until approved by the bank board.",
+    "(e) (1) A climate catalyst financing plan shall remain in effect until superseded by a revised climate catalyst financing plan or repealed by the bank. Commencing the first fiscal year following adoption of an initial climate catalyst financing plan, and in each fiscal year thereafter, the bank shall contact each consulting agency to discuss potential revisions to the climate catalyst financing plan last approved by the bank board. If the consultation results in proposed revisions to the climate catalyst financing plan, the bank board may consider adopting, by majority vote, a revised climate catalyst financing plan.",
+    "(2) Any revisions to, or repeals of, a climate catalyst financing plan shall take effect 30 days after the bank provides written notification to the Joint Legislative Budget Committee, or not sooner than whatever lesser time after that notification the chairperson of the joint committee, or the chairperson’s designee, may determine.",
+    "(f) The categories of climate catalyst projects and the consulting agencies for the respective climate catalyst financing plans shall be as follows:",
+    "(1) This paragraph shall be known as the “Forest Biomass Management and Utilization” climate catalyst category. The Natural Resources Agency shall be the consulting agency for the climate catalyst financing plan adopted for this category. This category includes climate catalyst projects that relate to sustainable vegetation management, forestry practices, and timber harvesting products. Eligible climate catalyst project subcategories include, but are not limited to, all of the following:",
+    "(A) Clean energy production, except combustion biomass conversion.",
+    "(B) Advanced construction materials.",
+    "(C) Forestry equipment needed to achieve the state’s goals for forest and vegetation management treatments.",
+    "(2) This paragraph shall be known as the “Climate-Smart Agriculture” climate catalyst category. The Department of Food and Agriculture shall be the consulting agency for the climate catalyst financing plan for this category. This category includes climate catalyst projects that relate to agricultural improvements that enhance the climate or lessen impacts to the climate resulting from in-force agricultural practices. Eligible climate catalyst project subcategories include, but are not limited to, all of the following:",
+    "(A) Onfarm and food processing renewable energy, including both electricity and fuels, and bioenergy, to be used or distributed onsite.",
+    "(B) Energy, water, and materials efficiency.",
+    "(C) Methane reduction projects, using best practice approaches consistent with state policy goals, excluding dairy digesters and biogas unless used or distributed onsite.",
+    "(D) Energy storage or microgrids.",
+    "(E) Equipment replacement.",
+    "(3) (A) This paragraph shall be known as the “Clean Energy Transmission” climate catalyst category. The State Energy Resources Conservation and Development Commission and the Public Utilities Commission shall be the consulting agencies for the climate catalyst financing plan for this category. This category includes climate catalyst projects that are clean energy transmission projects. If multiple projects seek funding, the consulting agencies shall prioritize, based on state policy, potential projects that meet the conditions in subparagraph (B), and on financial considerations as determined by the bank. Eligible climate catalyst project subcategories in this paragraph shall comply with the conditions set forth in this paragraph, and include, but are not limited to, both of the following:",
+    "(i) Clean energy transmission project infrastructure that is necessary to connect the transmission project into the applicable California balancing authority area.",
+    "(ii) Other necessary technical elements of transmission infrastructure, including but not limited to, environmental planning, permitting, and preconstruction costs for a project.",
+    "(B) Eligible projects shall meet all of the following conditions:",
+    "(i) Have at least one interconnection point within a California balancing authority area.",
+    "(ii) The applicant or its affiliates have previously completed a transmission project in California.",
+    "(iii) Will primarily deliver electricity to the Independent System Operator balancing authority area from clean resources located in identified resource areas that do not have adequate deliverability to a California balancing authority area.",
+    "(iv) Support new high voltage, defined as 200 kilovolts or higher, transmission projects or upgrades of existing transmission lines and substations to high voltage that are consistent with the state’s reliability and greenhouse gas policy objectives.",
+    "(v) Priority shall be given to transmission projects that have not already been approved through the Independent System Operator’s transmission planning process or projects that have not been recently studied in the Independent System Operator’s transmission planning process and found to be unneeded or uneconomical.",
+    "(vi) Financial considerations as determined by the bank.",
+    "(vii) Consistency with state policy as determined by the consulting agencies.",
+    "(C) The bank shall not finance a project unless the entity completing the transmission project has entered into a project labor agreement that, at a minimum, meets the requirements of Section 2500 of the Public Contract Code and includes all of the following:",
+    "(i) Provisions requiring payment of prevailing wages, in accordance with Article 1 (commencing with Section 1720) of Chapter 1 of Part 7 of Division 2 of the Labor Code, to all construction workers employed in the construction of the project and for enforcement of that obligation through an arbitration procedure.",
+    "(ii) Targeted hiring provisions, including a targeted hiring plan, on a craft-by-craft basis to address job access for local, disadvantaged, or underrepresented workers, as defined by a relevant local agency.",
+    "(iii) Apprenticeship utilization provisions that commit all parties to increasing the share of work performed by state-registered apprentices above the state-mandated minimum ratio required in Section 1777.5 of the Labor Code.",
+    "(iv) Apprenticeship utilization provisions that commit all parties to hiring and retaining a certain percentage of state-registered apprentices that have completed the Multi-Craft Core preapprenticeship training curriculum referenced in subdivision (t) of Section 14005 of the Unemployment Insurance Code.",
+    "(D) Consultation on a potential transmission project does not constitute approval of that project by the Public Utilities Commission or the State Energy Resources Conservation and Development Commission under their decisionmaking authority, if that authority exists.",
+    "(E) Consultation on, or evaluation of, a transmission project by the bank does not indicate the bank’s approval. The bank shall consider the credit and financial aspects of the project before determining whether to approve and finance the project.",
+    "(4) \"?>This paragraph shall be known as the “State Energy Financing Institution” climate catalyst category. The State Energy Resources Conservation and Development Commission or the Public Utilities Commission shall be the consulting agency for the climate catalyst financing plan for this category. This category includes climate catalyst projects to leverage federal financing funds that relate to projects that avoid, reduce, use, or sequester air pollutants or anthropogenic emissions of greenhouse gases as defined in Section 16513 of Title 42 of the United States Code, as amended.",
+    "(5) (A) This paragraph shall be known as the “Federal Greenhouse Gas Reduction Fund” climate catalyst category. The Governor’s Office of Business and Economic Development, Treasurer’s Office, California Environmental Protection Agency, Public Utilities Commission, Natural Resources Agency, and other relevant agencies, as determined by these agencies, shall be the consulting agencies for the climate catalyst financing plan for this category. This category includes climate catalyst projects to leverage federal funding available under the United States Environmental Protection Agency’s Greenhouse Gas Reduction Fund (Section 7434 of Title 42 of the United States Code) and related implementing statutes and regulations.",
+    "(B) Eligible climate catalyst project subcategories shall comply with the climate and equity goals in the state’s climate change scoping plan developed pursuant to Section 38561 of the Health and Safety Code.",
+    "(g) (1) The bank may engage in outreach activities to inform disadvantaged participating parties and disadvantaged sponsors of the categories of financial assistance potentially available within the Climate Catalyst Revolving Fund Program. The outreach efforts may include, but are not limited to, all of the following:",
+    "(A) Conferring with the consulting agencies.",
+    "(B) Conferring with the Governor’s Office of Business and Economic Development.",
+    "(C) Direct contact with existing bank clients and customers that operate within the boundaries of a disadvantaged community.",
+    "(D) Consulting with governmental entities, individuals, and business entities engaged in providing, or assisting the obtaining of, financial assistance for disadvantaged sponsors or participating parties, including, but not limited to, business and industrial development corporations and minority enterprise small business investment companies. The executive director, on behalf of the bank, may enter into service contracts for this purpose. Section 10295 and Article 4 (commencing with Section 10335) of Chapter 2 of Part 2 of Division 2 of the Public Contract Code do not apply to those service contracts.",
+    "(2) The criteria, priorities, and guidelines adopted for the Climate Catalyst Revolving Fund Program may include potential options for applying interest rate or fee subsidies for disadvantaged participating parties or disadvantaged sponsors seeking financial assistance from the bank under the Climate Catalyst Revolving Fund Program. The bank may offer reduced application fees to disadvantaged sponsors or participating parties seeking financial assistance under the Climate Catalyst Revolving Fund Program.",
+    "(3) The bank may offer technical assistance to disadvantaged sponsors or participating parties potentially seeking financial assistance under the Climate Catalyst Revolving Fund Program. The executive director, on behalf of the bank, may enter into service contracts to provide, or assist with the provision of, the technical assistance. Section 10295 and Article 4 (commencing with Section 10335) of Chapter 2 of Part 2 of Division 2 of the Public Contract Code do not apply to those service contracts.",
+    "(h) All financial assistance under the Climate Catalyst Revolving Fund Program approved by the bank board shall be consistent with the climate catalyst financing plan then in effect.",
+    "(i) (1) The bank shall prepare, and the bank board shall approve by majority vote of the board, criteria, priorities, and guidelines for the provision of financial assistance under the Climate Catalyst Revolving Fund Program. The bank board’s approval of any financial assistance for a climate catalyst project shall take into consideration those criteria, priorities, and guidelines together with the relevant climate catalyst financing plan currently in effect. The criteria, priorities, and guidelines shall include, as factors for determining whether to approve the provision of financial assistance, the ability of the sponsor or participating party potentially receiving financial assistance to satisfy any obligation incurred and the return of capital to the Climate Catalyst Revolving Fund.",
+    "(2) The bank board may consider additional factors when determining whether to approve financial assistance for a climate catalyst project, taking into consideration the relevant climate catalyst financing plan.",
+    "(3) The bank shall consider applications for financial assistance as they are received, on an ongoing basis, if there are available moneys remaining within the Climate Catalyst Revolving Fund to provide that financial assistance. The bank board’s determination of whether to approve applications for financial assistance shall be based on the relevant climate catalyst financing plan and the criteria, priorities, and guidelines in effect at the time the bank received the application.",
+    "(4) A participating party or sponsor shall comply with the terms and conditions that control the use of the funds provided, if any.",
+    "(j) The bank shall provide financial assistance only for climate catalyst projects that the bank board approved before December 31, 2031.",
+    "(k) The bank is hereby authorized and empowered to enter into an agreement with the consulting agencies, or any other state agency as approved by the bank’s board, to operate a program to provide financial assistance to any eligible sponsor or participating party either directly or to a lending or financial institution, in connection with the financing or refinancing of an eligible project, in accordance with such agreement or agreements. Information shared among consulting agencies and the bank, or between any consulting agency and the bank, does not constitute the waiver of any Public Records Act exemption applicable to each entity."
+   ]
+  },
+  {
+   "action": "SEC. 32. Section 63048.94 of the Government Code is amended to read:",
+   "paras": [
+    "§63048.94. (a) Annually, commencing January 1, 2023, and no later than January 1 of each year thereafter, the bank shall prepare and submit, as specified in subdivision (b), a report containing Climate Catalyst Revolving Fund Program activity for the preceding fiscal year ending June 30, and including all of the following:",
+    "(1) Information on individual Climate Catalyst Revolving Fund Program financing, specifically all of the following:",
+    "(A) Climate catalyst project category.",
+    "(B) Climate catalyst project description.",
+    "(C) Total climate catalyst project cost.",
+    "(D) Financial assistance amount.",
+    "(E) Outstanding financial assistance amount due.",
+    "(F) Aggregate amount of third-party financing.",
+    "(G) The county and city of the funded climate catalyst project.",
+    "(H) A description of the expected contribution of the climate catalyst project to the state’s climate policy objectives, including both greenhouse gas reduction and climate resilience benefits.",
+    "(I) Type and quality of any jobs created as a result of the financial assistance.",
+    "(J) Total amount of federal moneys applied to the climate catalyst project.",
+    "(2) Total number and type of financial assistance issued to small businesses.",
+    "(3) Total number and type of applications received.",
+    "(4) Recommendations on needed Climate Catalyst Revolving Fund Program changes or improvements to meet the objectives of this article. The bank shall meet and confer with the state agencies identified in subdivision (f) of Section 63048.93, and any additional agencies added pursuant to subdivision (g) of Section 63048.93, prior to the annual submission of the report required herein in an effort to develop those recommendations.",
+    "(b) The report required pursuant to subdivision (a) shall be part of the report required by Section 63035.",
+    "(c) (1) The report shall be posted on the bank’s internet website.",
+    "(2) The report shall be presented to the bank board at its final public meeting of the calendar year in which the report was prepared. If the bank board holds no public meetings following the submission of the report, the report shall be presented to the bank board at its next available public meeting."
+   ]
+  },
+  {
+   "action": "SEC. 33. Section 63048.95 of the Government Code is amended to read:",
+   "paras": [
+    "§63048.95. (a) (1) There is hereby created in the State Treasury the Climate Catalyst Revolving Fund for the purpose of implementing the objectives and provisions of this article. The Climate Catalyst Revolving Fund shall be separate from any other fund or account created under this division.",
+    "(2) Obligations of the bank incurred in connection with the activities authorized under this article shall be payable solely from moneys within the Climate Catalyst Revolving Fund. No other fund or account of the bank shall be available or shall be used for the payment of obligations incurred in connection with this article.",
+    "(3) Within the Climate Catalyst Revolving Fund, the bank may establish any additional accounts and subaccounts to properly organize moneys within the fund.",
+    "(b) (1) (A) Notwithstanding Section 13340, moneys, except as provided in subparagraphs (B) and (C), in the Climate Catalyst Revolving Fund are continuously appropriated, without regard to fiscal year, for the support of the bank and shall be available for expenditure for the purposes as stated in this article.",
+    "(B) Moneys in the Climate Catalyst Revolving Fund received pursuant to a federal appropriation are available for expenditure only upon appropriation by the Legislature.",
+    "(C) Moneys in the Climate Catalyst Revolving Fund shall be available for expenditure to support administrative costs only upon appropriation by the Legislature.",
+    "(2) This subdivision shall not limit the authority of the bank to expend funds directly related to the servicing of approved debt, payments on credit enhancements or guarantees, acquisition of securities of any sponsor or participating party in connection with a climate catalyst project, or any other purpose in connection with providing financial assistance to a sponsor or participating party in connection with a climate catalyst project as set forth in this article.",
+    "(c) Not more than 5 percent of any bond proceeds administered by the bank in connection with the activities of the bank authorized under this article may be expended to cover the costs of issuance, as that terminology is defined under Section 147(g) of the Internal Revenue Code (26 U.S.C. Sec. 147(g)).",
+    "(d) (1) (A) Notwithstanding any other provision of this division, the Climate Catalyst Revolving Fund may receive moneys from the federal government and funds sourced from federal appropriations.",
+    "(B) Use of the moneys and funds described in subparagraph (A) shall be consistent with all of the following:",
+    "(i) The money and funds shall be expended for a purpose that is consistent with state law.",
+    "(ii) Acceptance of the moneys and funds does not impose on the state any requirement to commit or expend new state funds for any program or purpose.",
+    "(iii) The use of the moneys and funds shall be consistent with the priorities described in subdivision (a) of Section 38590.1 of the Health and Safety Code.",
+    "(2) Within 10 days of any nonstate moneys and funds being deposited into the Climate Catalyst Revolving Fund, the bank shall provide written notice to the Joint Legislative Budget Committee, who shall provide a copy of the notice to the relevant policy committees. The notice shall include the source, purpose, timeliness, and other relevant information as determined by the bank."
+   ]
+  },
+  {
+   "action": "SEC. 34. Section 63048.96 of the Government Code is amended to read:",
+   "paras": [
+    "§63048.96. (a) (1) The bank may pledge any or all of the moneys in the Climate Catalyst Revolving Fund as security for payment of the principal of, and interest on, any particular issuance of bonds issued for the purposes of this article. The bank may use any or all of the moneys in the Climate Catalyst Revolving Fund to retain or purchase for retention or sale, subordinated bonds issued by the bank, by a special purpose trust, or by a sponsor, all in connection with the purposes of this article. For these purposes, the bank may divide the fund into separate accounts, as set forth in Section 63048.95, or may divide the accounts created under this article into separate subaccounts.",
+    "(2) All moneys accruing from the Climate Catalyst Revolving Fund and its accounts and subaccounts, the proceeds of financial assistance provided to a sponsor or participating party, the investment of any moneys within the Climate Catalyst Revolving Fund, or any other moneys generated in connection with the activities authorized under this article, shall be deposited into the fund.",
+    "(b) Subject to liens, covenants against encumbrances, negative covenants, priorities, and other exclusions or reservations that may be created by the pledge of particular moneys in the Climate Catalyst Revolving Fund to secure any issuance of revenue bonds of the bank, a special purpose trust, or a sponsor, in each instance in connection with the purposes of this article, and subject further to reasonable costs that may be incurred by the bank in administering the Climate Catalyst Revolving Fund Program, all moneys in the Climate Catalyst Revolving Fund derived from any source, shall be held in trust for the security and payment of revenue bonds of the bank, a special purpose trust, or a sponsor, in each instance in connection with the purposes of this article, and shall not be used or pledged for any other purpose so long as the revenue bonds are outstanding and unpaid.",
+    "(c) Pursuant to any agreements with the holders of revenue bonds issued for the purposes of this article pledging any particular assets, revenues, or moneys of the Climate Catalyst Revolving Fund, the bank may create separate accounts or subaccounts in the Climate Catalyst Revolving Fund to manage these assets, revenues, or moneys in the manner set forth in the agreements.",
+    "(d) (1) The bank may direct the Treasurer to invest moneys in the Climate Catalyst Revolving Fund that are not required for its current needs, including proceeds from the sale of any bonds, in any eligible securities specified in Section 16430 as the bank shall designate.",
+    "(2) The bank may direct the Treasurer to deposit moneys into interest-bearing accounts in any bank in this state or in any savings and loan association in this state. The bank may alternatively require the transfer of moneys in the Climate Catalyst Revolving Fund to the Surplus Money Investment Fund for investment pursuant to Article 4 (commencing with Section 16470) of Chapter 3 of Part 2 of Division 4 of Title 2.",
+    "(3) Notwithstanding Section 16305.7, all interest or other increment resulting from the investment or deposit of moneys from the Climate Catalyst Revolving Fund shall be deposited into the Climate Catalyst Revolving Fund. Moneys in the Climate Catalyst Revolving Fund shall not be subject to transfer to any other funds pursuant to any provision of Part 2 (commencing with Section 16300) of Division 4 of Title 2, except to the Surplus Money Investment Fund.",
+    "(4) Notwithstanding any contrary provision in this article, moneys in the Climate Catalyst Revolving Fund may be deposited into accounts held by a trustee bank, or other financial institution, in connection with the issuance of any revenue bonds for the purposes of this article.",
+    "(e) Subject to any agreement with holders of particular bonds, in furtherance of Section 51373 of the Health and Safety Code, and to the extent permitted by law, the bank may also invest moneys of the Climate Catalyst Revolving Fund, including, but not limited to, proceeds of any of its bonds or refunding bonds, in obligations of financial institutions as are permitted by board resolution. The bank may alternatively require the transfer of moneys in the Climate Catalyst Revolving Fund to the Surplus Money Investment Fund for investment pursuant to Article 4 (commencing with Section 16470) of Chapter 3 of Part 2 of Division 4 of Title 2.",
+    "(f) Subject to any agreement with the holders of particular bonds, all interest or other increment resulting from the investment or deposit shall be deposited into the Climate Catalyst Revolving Fund, notwithstanding Section 16305.7. Moneys in the Climate Catalyst Revolving Fund shall not be subject to transfer to any other fund pursuant to Part 2 (commencing with Section 16300) of Division 4 of Title 2, excepting the Surplus Money Investment Fund.",
+    "(g) The Climate Catalyst Revolving Fund shall be organized as a public enterprise fund.",
+    "(h) The bank shall cause all moneys in the Climate Catalyst Revolving Fund that are in excess of current requirements to be invested and reinvested, from time to time."
+   ]
+  },
+  {
+   "action": "SEC. 35. Section 63048.97 of the Government Code is amended to read:",
+   "paras": [
+    "§63048.97. (a) The bank may administer and distribute among the accounts and subaccounts created under this article, at its discretion, the proceeds from any general obligation bonds issued in accordance with the State General Obligation Bond Law (Chapter 4 (commencing with Section 16720) of Part 3 of Division 4 of Title 2).",
+    "(b) The assets of the Climate Catalyst Revolving Fund shall be available for the payment of the salaries and other expenses incurred by the bank in connection with the administration of this article, all in accordance with this article."
+   ]
+  },
+  {
+   "action": "SEC. 36. Section 63048.99 of the Government Code is amended to read:",
+   "paras": [
+    "§63048.99. (a) Moneys in the Climate Catalyst Revolving Fund received from the proceeds of bonds issued pursuant to this division may not be transferred to any other fund except as necessary to pay the expenses of operating the Climate Catalyst Revolving Fund Program.",
+    "(b) The bank, for deposit into the Climate Catalyst Revolving Fund for use as set forth in this article, may borrow or receive moneys from other funds within the bank, as permitted by this division, or from any federal, state, or local agency, or any private entity, for the purposes of this article and as authorized by resolution of the board."
+   ]
+  },
+  {
+   "action": "SEC. 37. Section 63048.100 of the Government Code is amended to read:",
+   "paras": [
+    "§63048.100. (a) Notwithstanding Chapter 2 (commencing with Section 12850) of Part 2.5 of Division 3 of Title 2 and Article 2 (commencing with Section 13320) of Chapter 3 of Part 3 of Division 3 of Title 2, expenditures of the Climate Catalyst Revolving Fund shall not be subject to the supervision or approval of any other officer or division of state government, with the exception of the Legislature.",
+    "(b) The bank’s budget regarding the Climate Catalyst Revolving Fund shall include the amount of credit and liabilities of the fund, based on an audit of the fund at the close of the prior fiscal year. The bank’s operating budget in connection with the activities authorized under this article shall be subject to review and appropriation in the annual Budget Act."
+   ]
+  },
+  {
+   "action": "SEC. 38. Section 65400 of the Government Code is amended to read:",
+   "paras": [
+    "§65400. (a) After the legislative body has adopted all or part of a general plan, the planning agency shall do both of the following:",
+    "(1) Investigate and make recommendations to the legislative body regarding reasonable and practical means for implementing the general plan or element of the general plan so that it will serve as an effective guide for orderly growth and development, preservation and conservation of open-space land and natural resources, and the efficient expenditure of public funds relating to the subjects addressed in the general plan.",
+    "(2) Provide by April 1 of each year an annual report to the legislative body, the Office of Land Use and Climate Innovation, and the Department of Housing and Community Development that includes all of the following:",
+    "(A) The status of the plan and progress in its implementation.",
+    "(B) (i) (I) The progress in meeting its share of regional housing needs determined pursuant to Section 65584, including the need for extremely low income households, as determined pursuant to Section 65583, and local efforts to remove governmental constraints to the maintenance, improvement, and development of housing pursuant to paragraph (3) of subdivision (c) of Section 65583.",
+    "(II) The annual report shall include the progress in meeting the city’s or county’s progress in meeting its share of regional housing need, as described in subclause (I), for the sixth and previous revisions of the housing element.",
+    "(ii) The housing element portion of the annual report, as required by this paragraph, shall be prepared through the use of standards, forms, and definitions adopted by the Department of Housing and Community Development. The department may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2. Before and after adoption of the forms, the housing element portion of the annual report shall include a section that describes the actions taken by the local government towards completion of the programs and status of the local government’s compliance with the deadlines in its housing element. The report shall be considered at an annual public meeting before the legislative body where members of the public shall be allowed to provide oral testimony and written comments.",
+    "(iii) The report may include the number of units that have been completed pursuant to subdivision (c) of Section 65583.1. For purposes of this paragraph, committed assistance may be executed throughout the planning period, and the program under paragraph (1) of subdivision (c) of Section 65583.1 shall not be required. The report shall document how the units meet the standards set forth in that subdivision.",
+    "(iv) The planning agency shall include the number of units in a student housing development for lower income students for which the developer of the student housing development was granted a density bonus pursuant to subparagraph (F) of paragraph (1) of subdivision (b) of Section 65915.",
+    "(C) The number of housing development applications received in the prior year, including whether each housing development application is subject to a ministerial or discretionary approval process.",
+    "(D) The number of units included in all development applications in the prior year.",
+    "(E) (i) The number of units approved and disapproved in the prior year, which shall include all of the following subcategories:",
+    "(I) The number of units located within an opportunity area.",
+    "(II) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for acutely low income households within each opportunity area.",
+    "(III) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for extremely low income households within each opportunity area.",
+    "(IV) The number of units approved and disapproved for very low income households within each opportunity area.",
+    "(V) The number of units approved and disapproved for lower income households within each opportunity area.",
+    "(VI) The number of units approved and disapproved for moderate-income households within each opportunity area.",
+    "(VII) The number of units approved and disapproved for above moderate-income households within each opportunity area.",
+    "(ii) For purposes of this subparagraph, “opportunity area” means a highest, high, moderate, or low resource area pursuant to the most recent “CTCAC/HCD Opportunity Map” published by the California Tax Credit Allocation Committee and the Department of Housing and Community Development.",
+    "(F) The degree to which its approved general plan complies with the guidelines developed and adopted pursuant to Section 65040.2 and the date of the last revision to the general plan.",
+    "(G) A listing of sites rezoned to accommodate that portion of the city’s or county’s share of the regional housing need for each income level that could not be accommodated on sites identified in the inventory required by paragraph (1) of subdivision (c) of Section 65583 and Section 65584.09. The listing of sites shall also include any additional sites that may have been required to be identified by Section 65863.",
+    "(H) (i) The number of units of housing demolished and new units of housing, including both rental housing and for-sale housing and any units that the County of Napa or the City of Napa may report pursuant to an agreement entered into pursuant to Section 65584.08, that have been issued a completed entitlement, a building permit, or a certificate of occupancy, thus far in the housing element cycle, and the income category, by area median income category, that each unit of housing satisfies. That production report shall do the following:",
+    "(I) For each income category described in this subparagraph, distinguish between the number of rental housing units and the number of for-sale units that satisfy each income category.",
+    "(II) For each entitlement, building permit, or certificate of occupancy, include a unique site identifier that must include the assessor’s parcel number, but may also include street address, or other identifiers.",
+    "(ii) For the County of Napa and the City of Napa, the production report may report units identified in the agreement entered into pursuant to Section 65584.08.",
+    "(I) The number of applications submitted pursuant to subdivision (a) of Section 65913.4, the location and the total number of developments approved pursuant to subdivision (c) of Section 65913.4, the total number of building permits issued pursuant to subdivision (c) of Section 65913.4, the total number of units including both rental housing and for-sale housing by area median income category constructed using the process provided for in subdivision (c) of Section 65913.4.",
+    "(J) If the city or county has received funding pursuant to the Local Government Planning Support Grants Program (Chapter 3.1 (commencing with Section 50515) of Part 2 of Division 31 of the Health and Safety Code), the information required pursuant to subdivision (a) of Section 50515.04 of the Health and Safety Code.",
+    "(K) The progress of the city or county in adopting or amending its general plan or local open-space element in compliance with its obligations to consult with California Native American tribes, and to identify and protect, preserve, and mitigate impacts to places, features, and objects described in Sections 5097.9 and 5097.993 of the Public Resources Code, pursuant to Chapter 905 of the Statutes of 2004.",
+    "(L) The following information with respect to density bonuses granted in accordance with Section 65915:",
+    "(i) The number of density bonus applications received by the city or county.",
+    "(ii) The number of density bonus applications approved by the city or county.",
+    "(iii) Data from all projects approved to receive a density bonus from the city or county, including, but not limited to, the percentage of density bonus received, the percentage of affordable units in the project, the number of other incentives or concessions granted to the project, and any waiver or reduction of parking standards for the project.",
+    "(M) The following information with respect to each application submitted pursuant to Chapter 4.1 (commencing with Section 65912.100):",
+    "(i) The location of the project.",
+    "(ii) The status of the project, including whether it has been entitled, whether a building permit has been issued, and whether or not it has been completed.",
+    "(iii) The number of units in the project.",
+    "(iv) The number of units in the project that are rental housing.",
+    "(v) The number of units in the project that are for-sale housing.",
+    "(vi) The household income category of the units, as determined pursuant to subdivision (f) of Section 65584.",
+    "(N) A list of all historic designations listed on the National Register of Historic Places, the California Register of Historic Resources, or a local register of historic places by the city or county in the past year, and the status of any housing development projects proposed for the new historic designations, including all of the following:",
+    "(i) Whether the housing development project has been entitled.",
+    "(ii) Whether a building permit has been issued for the housing development project.",
+    "(iii) The number of units in the housing development project.",
+    "(b) (1) (A) The department may request corrections to the housing element portion of an annual report submitted pursuant to paragraph (2) of subdivision (a) within 90 days of receipt. A planning agency shall make the requested corrections within 30 days after which the department may reject the report if the report is not in substantial compliance with the requirements of that paragraph.",
+    "(B) If the department rejects the housing element portion of an annual report as authorized by subparagraph (A), the department shall provide the reasons the report is inconsistent with paragraph (2) of subdivision (a) to the planning agency in writing.",
+    "(2) If a court finds, upon a motion to that effect, that a city, county, or city and county failed to submit, within 60 days of the deadline established in this section, the housing element portion of the report required pursuant to subparagraph (B) of paragraph (2) of subdivision (a) that substantially complies with the requirements of this section, the court shall issue an order or judgment compelling compliance with this section within 60 days. If the city, county, or city and county fails to comply with the court’s order within 60 days, the plaintiff or petitioner may move for sanctions, and the court may, upon that motion, grant appropriate sanctions. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If the court determines that its order or judgment is not carried out within 60 days, the court may issue further orders as provided by law to ensure that the purposes and policies of this section are fulfilled. This subdivision applies to proceedings initiated on or after the first day of October following the adoption of forms and definitions by the Department of Housing and Community Development pursuant to paragraph (2) of subdivision (a), but no sooner than six months following that adoption.",
+    "(c) The Department of Housing and Community Development shall post a report submitted pursuant to this section on its internet website within a reasonable time of receiving the report.",
+    "(d) Except for the housing element portion as provided in subparagraph (B) of paragraph (2) of subdivision (a), an annual report submitted pursuant to this section shall be prepared through the use of standards, forms, and definitions adopted by the Office of Land Use and Climate Innovation. The office may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2."
+   ]
+  },
+  {
+   "action": "SEC. 39. Section 25661.5 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§25661.5. Of the moneys appropriated for the clean energy programs, the Climate Innovation Program established pursuant to Section 25625.2, the Carbon Removal Innovation Program established pursuant to Section 25688, and the Long-Duration Energy Storage Program established pursuant to Section 25641, the commission may use up to a total of twenty-five million dollars ($25,000,000) for projects consistent with subdivision (f) of Section 63048.93 of the Government Code. The commission, in its sole discretion, shall determine how to allocate those moneys for those programs. The commission may transfer moneys, if necessary, from the source fund of the appropriation to the Climate Catalyst Revolving Fund created pursuant to Section 63048.95 of the Government Code."
+   ]
+  },
+  {
+   "action": "SEC. 40. Section 71340 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§71340. (a) The Office of Land Use and Climate Innovation, through the Integrated Climate Adaptation and Resiliency Program established pursuant to Part 4.5 (commencing with Section 71350), shall develop the California Climate Change Assessment, in coordination with the Natural Resources Agency, the State Energy Resources Conservation and Development Commission, and the Strategic Growth Council, and in consultation with partner public agencies designated by the Office of Land Use and Climate Innovation. The Office of Land Use and Climate Innovation may also contract with outside entities, including public universities, research institutions, organizations that serve vulnerable communities, and other technical experts to produce the assessment.",
+    "(b) The Office of Land Use and Climate Innovation shall complete the assessment no less frequently than every five years, and may release components of the assessment on a rolling basis as they become available.",
+    "(c) The Office of Land Use and Climate Innovation shall consider research from independent, scientifically peer-reviewed panels, financial reports, and other relevant and reasonably accessible data.",
+    "(d) For purposes of this part, “vulnerable communities” has the same meaning as the definition of “vulnerable communities” adopted by the Integrated Climate Adaptation and Resiliency Program Technical Advisory Council in the most up-to-date “Defining Vulnerable Communities in the Context of Climate Adaptation” resource guide published by the Office of Land Use and Climate Innovation."
+   ]
+  },
+  {
+   "action": "SEC. 41. Section 18997.51 of the Welfare and Institutions Code is amended to read:",
+   "paras": [
+    "§18997.51. For purposes of this chapter, the following definitions shall apply:",
+    "(a) “Account,” “trust account,” or “HOPE trust account,” means the California Hope, Opportunity, Perseverance, and Empowerment (HOPE) for Children Trust Account in the name of an eligible child or eligible youth.",
+    "(b) “Board” means the California Hope, Opportunity, Perseverance, and Empowerment (HOPE) for Children Trust Account Program Board established pursuant to Section 18997.52.",
+    "(c) “Department” means the State Department of Social Services.",
+    "(d) “Eligible child” means either a resident of California who is under 18 years of age, is not emancipated from their parent, Indian custodian, or legal guardian, and meets one of the following qualifications, or a resident of California who is 18 years of age or older and who, prior to attaining 18 years of age, was not emancipated from their parent, Indian custodian, or legal guardian and met the qualification in paragraph (1):",
+    "(1) (A) They reside in California and their parent, Indian custodian, or legal guardian died during the federally declared COVID-19 public health emergency, and the cause of death for the parent, Indian custodian, or legal guardian is listed as COVID-19 on their death certificate or they died as a medically recognized consequence of having long-term COVID-19, and the minor’s family household income, considering the income prior to the death of the parent, Indian custodian, or legal guardian, is at or below the income that would make the child eligible for Medi-Cal benefits under Chapter 7 (commencing with Section 14000) of Part 3. For purposes of this paragraph, “family household income” is limited to the incomes of parents, Indian custodians, or legal guardians, and “federal poverty level” means the poverty guidelines updated periodically in the Federal Register by the United States Department of Health and Human Services under the authority of Section 9902(2) of Title 42 of the United States Code.",
+    "(B) The Treasurer shall verify the cause of death of the parent, Indian custodian, or legal guardian once they receive either of the following:",
+    "(i) A death certificate that lists the cause of death as COVID-19.",
+    "(ii) A death certificate that lists the cause of death as a medically recognized consequence of having long-term COVID-19 and documentation that the person was diagnosed or was in the process of being diagnosed with long-term COVID-19.",
+    "(C) The Treasurer shall verify the minor’s family household income prior to the death of the parent, Indian custodian, or legal guardian once they receive either of the following:",
+    "(i) Government-issued documents that establish the identity of the child and that the person whose death certificate was provided pursuant to subparagraph (B) was their parent, Indian custodian, or legal guardian with whom the child resided.",
+    "(ii) A statement signed by a person who is eligible to do so under penalty of perjury that establishes the identity of the child and that the person whose death certificate was provided pursuant to subparagraph (B) was the child’s parent, Indian custodian, or legal guardian with whom the child resided. The Treasurer’s office, in consultation with the board, shall establish a process to challenge a statement submitted pursuant to this clause.",
+    "(2) (A) A foster child who resides in California, or is a California resident who is placed out of state by a juvenile or tribal court, and meets both of the following:",
+    "(i) The child has been adjudged a dependent child of the juvenile court on the grounds that the child is a person described by Section 300, or the child has been adjudged a ward of the juvenile court on the grounds that the child is a person described by Section 601 or 602, or the child is a dependent child of the court of an Indian tribe, consortium of tribes, or tribal organization who is the subject of a petition filed in the tribal court pursuant to the tribal court’s jurisdiction in accordance with the tribe’s law and the tribe has notified the department or the HOPE Trust Account Program about the child’s status as a dependent child under the tribal court. The department shall not require an Indian tribe, consortium of tribes, tribal organization, or tribal court representative to notify the department of any child who is a dependent of the tribal court.",
+    "(ii) The child meets one of the following:",
+    "(I) The child is subject to a foster care order, has been in foster care for at least 18 months, and reunification services have been terminated by an order of a juvenile or tribal court.",
+    "(II) The child is subject to a foster care order after 16 years of age, and reunification services have been terminated by an order of a juvenile or tribal court.",
+    "(B) Notwithstanding clause (ii) of subparagraph (A), if the child reunifies with their parent, Indian custodian, or legal guardian, is adopted, enters into a tribal customary adoption, or is placed into a legal guardianship, at any point in time subsequent to meeting the qualification specified in clause (i) of subparagraph (A), the child shall remain an eligible child and program enrollee and shall be able to access their HOPE trust account, but shall no longer be eligible for annual contributions effective 12 months following the date of reunification, adoption, or legal guardianship, or until the child reaches 18 years of age, whichever is sooner.",
+    "(e) “Eligible youth” means a program enrollee for whom a HOPE trust account was established and who is now eligible to withdraw or transfer funds from their HOPE trust account.",
+    "(f) “Fund” means the California Hope, Opportunity, Perseverance, and Empowerment (HOPE) for Children Trust Account Fund created pursuant to Section 18997.53.",
+    "(g) “HOPE Trust Account Program” or “program” means the California Hope, Opportunity, Perseverance, and Empowerment (HOPE) for Children Trust Account Program established pursuant to this chapter.",
+    "(h) “Program enrollee” means an eligible child who has been enrolled in the program and an eligible youth who enrolled as an eligible child was in the program and has not terminated their participation."
+   ]
+  },
+  {
+   "action": "SEC. 42. The Legislature finds and declares that Sections 1 to 4, inclusive, of this act further the purposes and intent of the California Privacy Rights Act of 2020.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 43. The Legislature finds and declares that Section 17 of this act, which amends Section 7929.011 of the Government Code, imposes a limitation on the public’s right of access to the meetings of public bodies or the writings of public officials and agencies within the meaning of Section 3 of Article I of the California Constitution. Pursuant to that constitutional provision, the Legislature makes the following findings to demonstrate the interest protected by this limitation and the need for protecting that interest: This bill balances the interests of the Infrastructure and Economic Development Bank in keeping certain business enterprise information confidential with the interest of the public in accessing information concerning the conduct of the people’s business.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 44. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 45. This act is a bill providing for appropriations related to the Budget Bill within the meaning of subdivision (e) of Section 12 of Article IV of the California Constitution, has been identified as related to the budget in the Budget Bill, and shall take effect immediately.",
+   "paras": []
+  }
+ ],
+ "chapter": null,
+ "digest": [
+  "(1) The California Consumer Privacy Act of 2018 (CCPA) grants to a consumer various rights with respect to personal information, as defined, that is collected by a business, as defined, including the right to request that a business delete personal information about the consumer that the business has collected from the consumer. The California Privacy Rights Act of 2020, an initiative measure approved by the voters as Proposition 24 at the November 3, 2020, statewide general election, amended, added to, and reenacted the CCPA. The CCPA establishes the California Privacy Protection Agency with full administrative power, authority, and jurisdiction to implement and enforce the CCPA.",
+  "The CCPA creates the Consumer Privacy Fund in the State Treasury and makes moneys in the fund available upon appropriation by the Legislature first to offset any costs incurred by the state courts in connection with actions brought to enforce the CCPA, the costs incurred by the Attorney General in carrying out the Attorney General’s duties under the CCPA, and then for the purposes of establishing an investment fund in the State Treasury, with any earnings or interest from the fund to be deposited into the General Fund, and making grants to promote and protect consumer privacy, educate children in the area of online privacy, and fund cooperative programs with international law enforcement organizations to combat fraudulent activities with respect to consumer data breaches, as prescribed.",
+  "This bill would revise and restructure the Consumer Privacy Fund by creating the Consumer Privacy Subfund, the Attorney General Consumer Privacy Enforcement Subfund, and the Consumer Privacy Grant Subfund within the fund. The bill would require moneys in the fund and each subfund to be used for prescribed purposes, and make moneys in the fund and each subfund available upon appropriation by the Legislature. The bill would require 95% of any administrative fine recovered in an action brought by the agency for a violation of the CPPA, and of the proceeds of any settlement of those actions, to be deposited into the Consumer Privacy Subfund to be used exclusively by the agency in carrying out its duties under the CCPA, and 95% of any civil penalty recovered in an action brought by the Attorney General for a violation of the CCPA to be deposited into the Attorney General Consumer Privacy Enforcement Subfund to be used exclusively by the Attorney General in carrying out its duties under the CCPA. The bill would require 5% of any administrative fine recovered in an action brought by the agency for a violation of the CCPA, and of the proceeds of any settlement of those actions, to be deposited into the Consumer Privacy Grant Subfund, and 5% of any civil penalty recovered in an action brought by the Attorney General for a violation of the CCPA to be deposited into that subfund.",
+  "The bill would require funds deposited into the Consumer Privacy Grant Subfund to be used exclusively by the agency to administer and distribute grants to promote and protect consumer privacy, educate children in the area of online privacy, and fund cooperative programs with international law enforcement organizations to combat fraudulent activities with respect to consumer data breaches. The bill would require the agency, subject to that provision, to make grants from the subfund by distributing 13 of the amount allocated for grant funding to specified grant recipients, including nonprofit organizations to promote and protect consumer privacy. The bill would require the agency to begin administering the grant program when the amount of funds within the subfund exceeds $300,000.",
+  "The bill would require specified percentages of any remaining funds in the Consumer Privacy Fund that were not appropriated as part of the 2025 Budget Act to be transferred on a one-time basis in the 2025–26 fiscal year to each subfund, including that 45% is transferred to the Consumer Privacy Subfund, 45% is transferred to the Attorney General Consumer Privacy Enforcement Subfund, and 10% is transferred to the Consumer Privacy Grant Subfund.",
+  "This bill would declare that the above provisions further the purposes and intent of the California Privacy Rights Act of 2020.",
+  "(2) Existing law establishes the Department of Financial Protection and Innovation and gives the department the responsibility for administering various laws. Existing law establishes the Financial Protection Fund to support the department in the administration of these laws, and requires that all expenses and salaries of the department be paid out of the fund, upon appropriation by the Legislature for these purposes. Existing law provides that the chief officer of the department is the Commissioner of Financial Protection and Innovation. Existing law requires various entities to pay various fees to the commissioner for various services or licenses provided by the commissioner and the department.",
+  "This bill would change some of those fees, as specified. The bill would also make other technical changes.",
+  "(3) When a state or local agency is required or requested by law to submit a report to the Legislature, existing law requires submission of the report as a printed copy to the Secretary of the Senate, an electronic copy to the Chief Clerk of the Assembly, and an electronic or printed copy to the Legislative Counsel.",
+  "This bill would instead require a state or local agency report to the Legislature to be submitted as electronic copies to the Secretary of the Senate, the Chief Clerk of the Assembly, and the Legislative Counsel.",
+  "(4) Existing law requires a state agency to review all proprietary state lands under its jurisdiction, as specified, to determine what land is in excess of its needs, and to report on these lands to the Department of General Services. Existing law prescribes a process for the disposition of surplus state property.",
+  "This bill would require the Secretary of the Department of Corrections and Rehabilitation, upon approval from the Department of Finance, to notify the Department of General Services and the Joint Legislative Budget Committee of any state real property under its jurisdiction that has been determined to be excess to its needs. The bill would authorize the Department of General Services, upon authorization by the Legislature, to sell, lease, exchange, or otherwise dispose of excess state real property under the jurisdiction of the Department of Corrections and Rehabilitation, as specified. Notwithstanding those provisions, the bill would authorize the Department of General Services to execute leases for those properties, as provided. The bill would require that revenues received pursuant to the bill’s provisions, except those deposited into the Deficit Recovery Bond Retirement Sinking Fund Subaccount and the Special Fund for Economic Uncertainties, and those used to reimburse costs and expenses incurred by the Department of General Services, be deposited into the Property Acquisition Law Money Account and be available for transfer into the Architectural Revolving Fund for expenditure by the Department of General Services to improve the likelihood of successful redevelopment of the property, as provided. Because the bill would require revenues to be transferred into continuously appropriated accounts and funds, it would make an appropriation.",
+  "(5) Existing law generally requires a state agency to obtain written consent of the Attorney General before employing in-house counsel, as defined, to represent a state agency or employee in any judicial or administrative adjudicative proceeding, or contracting with outside counsel, as defined. Existing law exempts specified circumstances from these requirements, including the employment by certain state officers and agencies or when specifically waived pursuant to other provisions. Existing law specifies that provisions relating to legal representation of state agencies do not prohibit a state agency from obtaining legal services from the Attorney General for any purpose.",
+  "This bill would also exempt the employment of outside counsel for specified purposes relating to civil discovery from the above-described requirement to obtain written consent of the Attorney General. The bill would revise and recast the latter provision to instead specify these provisions do not prohibit a state agency from requesting legal representation or legal services from the Attorney General for any purpose.",
+  "Existing law prohibits a state agency from employing any in-house counsel to act on behalf of the state agency or its employees in any judicial or administrative adjudicative proceeding in which, among other things, the agency is interested, or from contracting with outside counsel or any purpose, unless the agency has first obtained the written consent of the Attorney General, as described above. Existing law exempts from this prohibition, among other state officers and agencies, the Regents of the University of California.",
+  "This bill would also include the office of the Governor among the state officers and agencies that are exempt from the prohibition on employing in-house counsel without obtaining written consent of the Attorney General as described above, and would also exempt from that prohibition the representation of a state agency related to civil discovery in any action brought by the Attorney General in their independent capacity on behalf of the people of the State of California or the State of California, as specified. The bill would specify that nothing in the latter exemption prohibits a state agency from requesting representation from the Attorney General in any other proceeding, and specify that the purpose of the prohibition is to promote fiscal efficiency and economy.",
+  "Existing law states the intent of the Legislature that the overall efficiency and economy in state government is to be enhanced by the employment of the Attorney General as counsel for the representation of state agencies and employees in judicial and administrative adjudicative proceedings.",
+  "This bill would specify that it is the overall fiscal efficiency and economy in state government that is to be enhanced as described above, and make additional findings and declarations related to its provisions. The bill would specify, among other things, that the Attorney General has no possession, custody, or control over any state agency’s documents or electronically stored information for purposes of criminal or civil discovery or any other purpose.",
+  "(6) Existing federal law, the Indian Gaming Regulatory Act, provides for the negotiation and execution of tribal-state gaming compacts for the purpose of authorizing certain types of gaming on Indian lands within a state. The California Constitution authorizes the Governor to negotiate and conclude compacts, subject to ratification by the Legislature.",
+  "Existing law ratifies a number of tribal-state gaming compacts between the State of California and specified Indian tribes. Existing law creates in the State Treasury the Indian Gaming Special Distribution Fund for the receipt and deposit of moneys received by the state from Indian tribes pursuant to the terms of gaming compacts entered into with the state. Existing law authorizes moneys in the Indian Gaming Special Distribution Fund to be appropriated for certain purposes, including, among others, for programs designed to address gambling addiction, support of state and local governmental agencies impacted by tribal government gaming, and compensation for regulatory costs incurred in connection with implementing and administering tribal-state gaming compacts. Existing law establishes an order of priority for funding in the Indian Gaming Special Distribution Fund.",
+  "This bill would delete the authorization for moneys in the fund to be appropriated for support of state and local governmental agencies impacted by tribal government gaming. The bill would authorize moneys in the fund to be appropriated for compensation for regulatory costs incurred in connection with implementing and administering class III gaming secretarial procedures. The bill would delete the order of priority for funding.",
+  "(7) Existing law creates the California Small Business Technical Assistance Program within the California Office of Small Business Advocate, under the direct authority of the Small Business Advocate. Existing law requires the office to administer the program to provide grants to expand the capacity of small business development technical assistance centers in California, as specified. Existing law also requires the office, subject to appropriation of necessary funds by the Legislature, to establish a supplemental grant program designated as the California Dream Fund Program to provide microgrants disbursed through California Small Business Technical Assistance Program grantees to seed entrepreneurship and small business creation. Existing law sets forth the criteria that an applicant must meet to be eligible to participate in these programs.",
+  "This bill would, if an applicant’s federal contract was canceled, frozen, or rescinded, except as specified, in the 2024–25 fiscal year, for grants made in fiscal years 2025–26 to 2027–28, inclusive, establish, until June 30, 2029, specified exceptions and modifications to the eligibility criteria. The bill would require the office to review and confirm that the applicant continues to meet state performance standards and provides high-quality, equitable technical assistance services, and to report its findings and actions to the Legislature.",
+  "(8) The Bergeson-Peace Infrastructure and Economic Development Bank Act establishes the Infrastructure and Economic Development Bank (I-Bank) in the Governor’s Office of Business and Economic Development, that is governed by a board of directors. Existing law, the Climate Catalyst Revolving Loan Fund Act of 2020, authorizes the I-Bank, under the Climate Catalyst Revolving Loan Fund Program, to provide financial assistance to any eligible sponsor or participating party for eligible climate catalyst projects, either directly to the sponsor or participating party or to a lending or financial institution, as specified. Existing law establishes the Climate Catalyst Revolving Loan Fund within the State Treasury, which is continuously appropriated for purposes of the program, except as specified. Existing law requires the I-Bank to adopt a climate catalyst financing plan, as defined, in consultation with specified state agencies. Existing law identifies areas of climate catalyst projects and consulting agencies for each area.",
+  "This bill would revise and recast the above-described climate catalyst financing plan provisions to instead require the I-Bank to adopt a climate catalyst plan for each category of climate catalyst projects identified, in consultation with the corresponding consulting agencies. The bill would rename the act, program, and fund, as specified, and would make conforming changes throughout.",
+  "Existing law requires the I-Bank by January 1 of each year, to submit to prescribed recipients a report containing information on the I-Bank’s activities relating to the infrastructure bank fund and programs for the preceding fiscal year.",
+  "This bill would additionally require the I-Bank to submit the above-described report to the legislative budget subcommittees related to the climate. The bill would also require the I-Bank to provide written notification to the Joint Legislative Budget Committee when federal funds are fully recycled into state dollars before committing to any additional financing projects.",
+  "Existing law requires the I-Bank, in each fiscal year following the adoption of the initial climate catalyst financing plan, to contact each consulting agency to discuss potential revisions to the plan and requires the I-Bank to consider adopting a revised plan reflecting any material revisions.",
+  "This bill would instead authorize the I-Bank to consider adopting a revised climate catalyst financing plan if consultation with the consulting agencies results in proposed revisions. The bill would require any revisions to, or repeals of, a climate catalyst financing plan to take effect 30 days after the I-Bank provides written notice to the Joint Legislative Budget Committee, or not sooner than whatever lesser time after that notification the chairperson of the joint committee, or the chairperson’s designee, may determine. The bill would remove the State Energy Resources Conservation and Development Commission, the State Air Resources Board, the Department of Conservation, and the Department of Resources, Recycling, and Recovery as consulting agencies for climate catalyst projects relating to the federal Greenhouse Gas Reduction Fund.",
+  "Existing law requires the I-Bank, by January 1 of each year, to prepare and submit a report regarding Climate Catalyst Revolving Loan Fund Program activity, including specified financing information.",
+  "This bill would additionally require that the above-described report include the total amount of federal moneys applied to the climate catalyst project.",
+  "Existing law authorizes the I-Bank to provide financial assistance only for climate catalyst projects that the I-Bank approved before July 1, 2025.",
+  "This bill would extend the July 1, 2025, date to December 31, 2031, thereby extending the financial assistance authorization. By extending the operation of a continuously appropriated fund, this bill would make an appropriation.",
+  "Existing law exempts from public disclosure specified financial information and records provided to the I-Bank on and after August 1, 2022, and before July 1, 2025.",
+  "This bill would extend the July 1, 2025, date to January 1, 2032.",
+  "Existing constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.",
+  "This bill would make legislative findings to that effect.",
+  "(9) The Planning and Zoning Law requires each county and city to adopt a comprehensive, long-term general plan that includes, among other mandatory elements, a housing element. Existing law requires the city or county’s planning agency, after the legislative body has adopted a general plan, to submit an annual report to the legislative body, the Office of Land Use and Climate Innovation, and the Department of Housing and Community Development. Existing law requires the housing element portion of the annual report to be prepared through the use of standards, forms, and definitions adopted by the Department of Housing and Community Development and exempts those standards, forms, and definitions from the rulemaking requirements of the Administrative Procedure Act.",
+  "This bill would similarly require the annual report, except for the housing element portion as described above, to be prepared through the use of standards, forms, and definitions adopted by the Office of Land Use and Climate Innovation and would also exempt these standards, forms, and definitions from the rulemaking requirements of the Administrative Procedure Act. By imposing new duties on a city or county’s planning agency, this bill would impose a state-mandated local program.",
+  "Chapter 41 of the Statutes of 2024 renamed the Governor’s Office of Planning and Research the Office of Land Use and Climate Innovation and requires all references to the Governor’s Office of Planning and Research to be deemed references to the Office of Land Use and Climate Innovation.",
+  "This bill would correct an outdated reference to the Office of Planning and Research.",
+  "(10) Existing law establishes the Integrated Climate Adaptation and Resiliency Program, administered by the Office of Land Use and Climate Innovation, and requires the office to develop the California Climate Change Assessment to provide, among other products, reports that examine how climate change will affect the welfare of vulnerable communities and decision-support tools for organizations that serve vulnerable communities. For these and related purposes, existing law defines “vulnerable communities” as having the meaning of “vulnerable communities” that was adopted by the Integrated Climate Adaption and Resiliency Program Technical Advisory Council at the council’s April 2, 2018, meeting and recorded in the “Defining Vulnerable Communities in the Context of Climate Adaptation” resource guide published by the office in July 2018.",
+  "This bill would provide that, for these and related purposes, “vulnerable communities” has the meaning of “vulnerable communities” adopted by the council in the most up-to-date “Defining Vulnerable Communities in the Context of Climate Adaptation” resource guide published by the office.",
+  "(11) Existing law, the California Hope, Opportunity, Perseverance, and Empowerment (HOPE) for Children Trust Account Act, establishes a program to provide a trust fund account to an eligible child. For purposes of that act, an “eligible child” is defined to include minor residents of California who are specified dependents or wards under the jurisdiction of the juvenile court in foster care with reunification services terminated by court order, or who have a parent, Indian custodian, or legal guardian who died due to COVID-19 during the federally declared COVID-19 public health emergency and meet a specified family household income limit. Existing law establishes the HOPE for Children Trust Account Fund in the State Treasury, and continuously appropriates moneys in the fund to the board and Treasurer for implementation of the program.",
+  "This bill would expand the definition of “eligible child” to include residents of California who are 18 years of age or older who, prior to attaining 18 years of age, had a parent, Indian custodian, or legal guardian who died due to COVID-19 during the federally declared COVID-19 public health emergency and met the specified family household income limit, thereby expanding eligibility for a HOPE trust account. By expanding eligibility for HOPE trust accounts, which are funded through a continuously appropriated fund, this bill would make an appropriation.",
+  "(12) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason.",
+  "(13) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
+ ],
+ "hash": "f3b7c67f960ead4f",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2025-01-23"
+  },
+  {
+   "action": "From printer. May be acted upon on or after February 23.",
+   "chamber": "S",
+   "date": "2025-01-24"
+  },
+  {
+   "action": "Referred to Com. on B. & F. R.",
+   "chamber": "S",
+   "date": "2025-02-05"
+  },
+  {
+   "action": "Withdrawn from committee. (Ayes 27. Noes 10. Page 384.)",
+   "chamber": "S",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "chamber": "S",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 28. Noes 10. Page 442.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Referred to Com. on BUDGET.",
+   "chamber": "A",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on BUDGET.",
+   "chamber": "A",
+   "date": "2025-06-24"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Assembly",
+  "date": "2025-06-24",
+  "id": "20250SB13798AMD",
+  "num": "98"
+ },
+ "location": "CX29",
+ "sections": [
+  {
+   "action": "Section 65400 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) After the legislative body has adopted all or part of a general plan, the planning agency shall do both of the following:",
+    "(1) Investigate and make recommendations to the legislative body regarding reasonable and practical means for implementing the general plan or element of the general plan so that it will serve as an effective guide for orderly growth and development, preservation and conservation of open-space land and natural resources, and the efficient expenditure of public funds relating to the subjects addressed in the general plan.",
+    "(2) Provide by April 1 of each year an annual report to the legislative body, the Office of Land Use and Climate Innovation, and the Department of Housing and Community Development that includes all of the following:",
+    "(A) The status of the plan and progress in its implementation.",
+    "(B) (i) (I) The progress in meeting its share of regional housing needs determined pursuant to Section 65584, including the need for extremely low income households, as determined pursuant to Section 65583, and local efforts to remove governmental constraints to the maintenance, improvement, and development of housing pursuant to paragraph (3) of subdivision (c) of Section 65583.",
+    "(II) The annual report shall include the progress in meeting the city’s or county’s progress in meeting its share of regional housing need, as described in subclause (I), for the sixth and previous revisions of the housing element.",
+    "(ii) The housing element portion of the annual report, as required by this paragraph, shall be prepared through the use of standards, forms, and definitions adopted by the Department of Housing and Community Development. The department may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2. Before and after adoption of the forms, the housing element portion of the annual report shall include a section that describes the actions taken by the local government towards completion of the programs and status of the local government’s compliance with the deadlines in its housing element. The report shall be considered at an annual public meeting before the legislative body where members of the public shall be allowed to provide oral testimony and written comments.",
+    "(iii) The report may include the number of units that have been completed pursuant to subdivision (c) of Section 65583.1. For purposes of this paragraph, committed assistance may be executed throughout the planning period, and the program under paragraph (1) of subdivision (c) of Section 65583.1 shall not be required. The report shall document how the units meet the standards set forth in that subdivision.",
+    "(iv) The planning agency shall include the number of units in a student housing development for lower income students for which the developer of the student housing development was granted a density bonus pursuant to subparagraph (F) of paragraph (1) of subdivision (b) of Section 65915.",
+    "(C) The number of housing development applications received in the prior year, including whether each housing development application is subject to a ministerial or discretionary approval process.",
+    "(D) The number of units included in all development applications in the prior year.",
+    "(E) (i) The number of units approved and disapproved in the prior year, which shall include all of the following subcategories:",
+    "(I) The number of units located within an opportunity area.",
+    "(II) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for acutely low income households within each opportunity area.",
+    "(III) For the seventh and each subsequent revision of the housing element, the number of units approved and disapproved for extremely low income households within each opportunity area.",
+    "(IV) The number of units approved and disapproved for very low income households within each opportunity area.",
+    "(V) The number of units approved and disapproved for lower income households within each opportunity area.",
+    "(VI) The number of units approved and disapproved for moderate-income households within each opportunity area.",
+    "(VII) The number of units approved and disapproved for above moderate-income households within each opportunity area.",
+    "(ii) For purposes of this subparagraph, “opportunity area” means a highest, high, moderate, or low resource area pursuant to the most recent “CTCAC/HCD Opportunity Map” published by the California Tax Credit Allocation Committee and the Department of Housing and Community Development.",
+    "(F) The degree to which its approved general plan complies with the guidelines developed and adopted pursuant to Section 65040.2 and the date of the last revision to the general plan.",
+    "(G) A listing of sites rezoned to accommodate that portion of the city’s or county’s share of the regional housing need for each income level that could not be accommodated on sites identified in the inventory required by paragraph (1) of subdivision (c) of Section 65583 and Section 65584.09. The listing of sites shall also include any additional sites that may have been required to be identified by Section 65863.",
+    "(H) (i) The number of units of housing demolished and new units of housing, including both rental housing and for-sale housing and any units that the County of Napa or the City of Napa may report pursuant to an agreement entered into pursuant to Section 65584.08, that have been issued a completed entitlement, a building permit, or a certificate of occupancy, thus far in the housing element cycle, and the income category, by area median income category, that each unit of housing satisfies. That production report shall do the following:",
+    "(I) For each income category described in this subparagraph, distinguish between the number of rental housing units and the number of for-sale units that satisfy each income category.",
+    "(II) For each entitlement, building permit, or certificate of occupancy, include a unique site identifier that must include the assessor’s parcel number, but may also include street address, or other identifiers.",
+    "(ii) For the County of Napa and the City of Napa, the production report may report units identified in the agreement entered into pursuant to Section 65584.08.",
+    "(I) The number of applications submitted pursuant to subdivision (a) of Section 65913.4, the location and the total number of developments approved pursuant to subdivision (c) of Section 65913.4, the total number of building permits issued pursuant to subdivision (c) of Section 65913.4, the total number of units including both rental housing and for-sale housing by area median income category constructed using the process provided for in subdivision (c) of Section 65913.4.",
+    "(J) If the city or county has received funding pursuant to the Local Government Planning Support Grants Program (Chapter 3.1 (commencing with Section 50515) of Part 2 of Division 31 of the Health and Safety Code), the information required pursuant to subdivision (a) of Section 50515.04 of the Health and Safety Code.",
+    "(K) The progress of the city or county in adopting or amending its general plan or local open-space element in compliance with its obligations to consult with California Native American tribes, and to identify and protect, preserve, and mitigate impacts to places, features, and objects described in Sections 5097.9 and 5097.993 of the Public Resources Code, pursuant to Chapter 905 of the Statutes of 2004.",
+    "(L) The following information with respect to density bonuses granted in accordance with Section 65915:",
+    "(i) The number of density bonus applications received by the city or county.",
+    "(ii) The number of density bonus applications approved by the city or county.",
+    "(iii) Data from all projects approved to receive a density bonus from the city or county, including, but not limited to, the percentage of density bonus received, the percentage of affordable units in the project, the number of other incentives or concessions granted to the project, and any waiver or reduction of parking standards for the project.",
+    "(M) The following information with respect to each application submitted pursuant to Chapter 4.1 (commencing with Section 65912.100):",
+    "(i) The location of the project.",
+    "(ii) The status of the project, including whether it has been entitled, whether a building permit has been issued, and whether or not it has been completed.",
+    "(iii) The number of units in the project.",
+    "(iv) The number of units in the project that are rental housing.",
+    "(v) The number of units in the project that are for-sale housing.",
+    "(vi) The household income category of the units, as determined pursuant to subdivision (f) of Section 65584.",
+    "(N) A list of all historic designations listed on the National Register of Historic Places, the California Register of Historic Resources, or a local register of historic places by the city or county in the past year, and the status of any housing development projects proposed for the new historic designations, including all of the following:",
+    "(i) Whether the housing development project has been entitled.",
+    "(ii) Whether a building permit has been issued for the housing development project.",
+    "(iii) The number of units in the housing development project.",
+    "(b) (1) (A) The department may request corrections to the housing element portion of an annual report submitted pursuant to paragraph (2) of subdivision (a) within 90 days of receipt. A planning agency shall make the requested corrections within 30 days after which the department may reject the report if the report is not in substantial compliance with the requirements of that paragraph.",
+    "(B) If the department rejects the housing element portion of an annual report as authorized by subparagraph (A), the department shall provide the reasons the report is inconsistent with paragraph (2) of subdivision (a) to the planning agency in writing.",
+    "(2) If a court finds, upon a motion to that effect, that a city, county, or city and county failed to submit, within 60 days of the deadline established in this section, the housing element portion of the report required pursuant to subparagraph (B) of paragraph (2) of subdivision (a) that substantially complies with the requirements of this section, the court shall issue an order or judgment compelling compliance with this section within 60 days. If the city, county, or city and county fails to comply with the court’s order within 60 days, the plaintiff or petitioner may move for sanctions, and the court may, upon that motion, grant appropriate sanctions. The court shall retain jurisdiction to ensure that its order or judgment is carried out. If the court determines that its order or judgment is not carried out within 60 days, the court may issue further orders as provided by law to ensure that the purposes and policies of this section are fulfilled. This subdivision applies to proceedings initiated on or after the first day of October following the adoption of forms and definitions by the Department of Housing and Community Development pursuant to paragraph (2) of subdivision (a), but no sooner than six months following that adoption.",
+    "(c) The Department of Housing and Community Development shall post a report submitted pursuant to this section on its internet website within a reasonable time of receiving the report.",
+    "(d) Except for the housing element portion as provided in subparagraph (B) of paragraph (2) of subdivision (a), an annual report submitted pursuant to this section shall be prepared through the use of standards, forms, and definitions adopted by the Office of Land Use and Climate Innovation. The office may review, adopt, amend, and repeal the standards, forms, or definitions to implement this article. Any standards, forms, or definitions adopted to implement this article shall not be subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2."
+   ],
+   "sec": "65400",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "State government.",
+ "title": "An act to amend Sections 1798.155, 1798.160, 1798.199.55, and 1798.199.90 of the Civil Code, to amend Sections 25608 and 31500 of the Corporations Code, to amend Sections 408, 501, 1674, 2038, 4839, 14353.5, 16006, 16505, 17207, and 50401 of the Financial Code, to amend Sections 7929.011, 9795, 10242.5, 11040, 11041, 11042, 12012.85, 12100.63, 63035, 63048.91, 63048.92, 63048.93, 63048.94, 63048.95, 63048.96, 63048.97, 63048.99, 63048.100, and 65400 of, to amend the heading of Article 6.7 (commencing with Section 63048.91) of Chapter 2 of Division 1 of Title 6.7 of, and to add Sections 11011.4 and 11043 to, the Government Code, to amend Sections 25661.5 and 71340 of the Public Resources Code, and to amend Section 18997.51 of the Welfare and Institutions Code, relating to state government, and making an appropriation therefor, to take effect immediately, bill related to the budget.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-23",
+   "id": "20250SB13799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-24",
+   "id": "20250SB13798AMD",
+   "num": "98"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2025-03-20",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB137 B. & F.R. (Wiener)",
+   "no": 10,
+   "nv": 2,
+   "result": "pass",
+   "seq": "1178",
+   "yes": 28
+  }
+ ]
+}

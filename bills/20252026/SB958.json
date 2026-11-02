@@ -1,0 +1,362 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Weber Pierson",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB958",
+ "bill_id": "202520260SB958",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 21080.82 is added to the Public Resources Code, to read:",
+   "paras": [
+    "§21080.82. For purposes of this division, the environmental impacts of a project that are associated with increased building height alone, including, but not limited to, air circulation, noise and light refraction or reflection, shadow, or the potential to attract wildlife, shall not be considered significant impacts on the environment if the project meets all of the following conditions:",
+    "(a) The use and density of the project is otherwise analyzed in a certified environmental impact report.",
+    "(b) The project is on a previously graded infill site.",
+    "(c) There are no sensitive biological resources physically present on the site.",
+    "(d) The project is not an industrial use project.",
+    "(e) The project is consistent with local airport land use plans."
+   ]
+  },
+  {
+   "action": "SEC. 2. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "788",
+  "year": "2026"
+ },
+ "digest": [
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would, for purposes of CEQA, prohibit the environmental impacts that are associated with increased building height alone from being considered significant impacts on the environment, if a project meets specified conditions, as provided. Because a lead agency would be required to determine if a project meets the specified conditions, the bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "c502265aef119b0b",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2026-02-02"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 5.",
+   "chamber": "S",
+   "date": "2026-02-03"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-03-24"
+  },
+  {
+   "action": "Re-referred to Coms. on E.Q. and L. GOV.",
+   "chamber": "S",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "chamber": "S",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "Set for hearing April 22 in L. GOV. pending receipt.",
+   "chamber": "S",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 7. Noes 0. Page 3899.) (April 15). Re-referred to Com. on L. GOV.",
+   "chamber": "S",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "chamber": "S",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 4013.) (April 22). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Set for hearing May 4.",
+   "chamber": "S",
+   "date": "2026-04-24"
+  },
+  {
+   "action": "May 4 hearing postponed by committee.",
+   "chamber": "S",
+   "date": "2026-04-30"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "chamber": "S",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "chamber": "S",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 37. Noes 0. Page 4443.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "Referred to Com. on NAT. RES.",
+   "chamber": "A",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on NAT. RES.",
+   "chamber": "A",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "June 22 set for first hearing canceled at the request of author.",
+   "chamber": "A",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 0.) (June 29). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2026-06-30"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 15. Noes 0.) (August 5).",
+   "chamber": "A",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "chamber": "A",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-10"
+  },
+  {
+   "action": "Read third time and amended.",
+   "chamber": "A",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 55. Noes 5. Page 6526.) Ordered to the Senate.",
+   "chamber": "A",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "chamber": "S",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+   "chamber": "S",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "chamber": "",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 788, Statutes of 2026.",
+   "chamber": "",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250SB95892CHP",
+  "num": "92"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 21080.82 is added to the Public Resources Code, to read:",
+   "code": "PRC",
+   "paras": [
+    "For purposes of this division, the environmental impacts of a project that are associated with increased building height alone, including, but not limited to, air circulation, noise and light refraction or reflection, shadow, or the potential to attract wildlife, shall not be considered significant impacts on the environment if the project meets all of the following conditions:",
+    "(a) The use and density of the project is otherwise analyzed in a certified environmental impact report.",
+    "(b) The project is on a previously graded infill site.",
+    "(c) There are no sensitive biological resources physically present on the site.",
+    "(d) The project is not an industrial use project.",
+    "(e) The project is consistent with local airport land use plans."
+   ],
+   "sec": "21080.82",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: environmental impacts: building height.",
+ "title": "An act to add Section 21080.82 to the Public Resources Code, relating to environmental quality.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-02",
+   "id": "20250SB95899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-24",
+   "id": "20250SB95898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-16",
+   "id": "20250SB95897AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-15",
+   "id": "20250SB95896AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-06",
+   "id": "20250SB95895AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-19",
+   "id": "20250SB95894AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-01",
+   "id": "20250SB95893ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250SB95892CHP",
+   "num": "92"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2026-04-15",
+   "location": "Sen Environmental Quality",
+   "motion": "Do pass, but first be re-referred to the Committee on [Local Government]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-04-22",
+   "location": "Sen Local Government",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-26",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB958 Weber Pierson",
+   "no": 0,
+   "nv": 3,
+   "result": "pass",
+   "seq": "4419",
+   "yes": 37
+  },
+  {
+   "chamber": "A",
+   "date": "2026-06-29",
+   "location": "Asm Natural Resources",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 3,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-05",
+   "location": "Asm Appropriations",
+   "motion": "Do pass as amended.",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 15
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-25",
+   "location": "Assembly Floor",
+   "motion": "SB 958 Weber Pierson Senate Third Reading By Ward",
+   "no": 5,
+   "nv": 18,
+   "result": "pass",
+   "seq": "1121",
+   "yes": 55
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-30",
+   "location": "Senate Floor",
+   "motion": "Unfinished Business SB958 Weber Pierson Concurrence",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1103",
+   "yes": 40
+  }
+ ]
+}

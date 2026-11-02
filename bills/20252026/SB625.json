@@ -1,0 +1,512 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wahab",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Richardson",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Archuleta",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Caballero",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Cervantes",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Cortese",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Pérez",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Reyes",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "SENATE",
+   "name": "Umberg",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Laird",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB625",
+ "bill_id": "202520260SB625",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 4752 is added to the Civil Code, to read:",
+   "paras": [
+    "§4752. (a) Any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument, and any provision of a governing document shall be void and unenforceable to the extent that it prohibits, or includes conditions that have the effect of prohibiting, a substantially similar reconstruction of a residential structure that was destroyed or damaged in a disaster.",
+    "(b) A court shall award reasonable attorney’s fees to the owner of a separate interest in a common interest development who prevails in an action to enforce this section.",
+    "(c) For purposes of this section, the following definitions apply:",
+    "(1) “Disaster” means any of the following:",
+    "(A) A state of disaster or emergency declared by the federal government.",
+    "(B) A state of emergency proclaimed by the Governor pursuant to Section 8625 of the Government Code.",
+    "(C) A local emergency proclaimed by a local governing body or official pursuant to Section 8630 of the Government Code.",
+    "(2) “Objective design standard” means a standard that involves no personal or subjective judgment and is uniformly verifiable by reference to an external and uniform benchmark or criterion available and knowable by both the applicant and the association before submittal.",
+    "(3) “Substantially similar reconstruction of a residential structure” means a proposal that rebuilds a residential structure on a separate interest located in a common interest development that complies with all of the following:",
+    "(A) (i) The local building code.",
+    "(ii) For purposes of this subparagraph, a proposal shall be considered to be in compliance with the local building code if the building permit is deemed approved by the local agency with appropriate jurisdiction.",
+    "(B) The interior livable square footage of the rebuilt residential structure will not exceed 110 percent of the square footage that existed when the structure was damaged or destroyed.",
+    "(C) The exterior footprint of the rebuilt residential structure will meet either of the following:",
+    "(i) The rebuilt residential structure will be constructed in the same location and to the same exterior dimensions as the structure that was damaged or destroyed.",
+    "(ii) The setbacks for the rebuilt residential structure will be at least four feet from the side and rear lot lines.",
+    "(D) The height of the rebuilt residential structure will not exceed 110 percent of the height that existed when the residential structure was damaged or destroyed, or 100 percent of the height allowed by the governing documents of the association in effect at the time the proposal was submitted, whichever is greater.",
+    "(E) Any objective design standard in effect at the time the original residential structure was destroyed or damaged in a disaster, provided that the standard does not unreasonably increase the cost to construct, effectively prohibit the construction of, or extinguish the ability to otherwise rebuild, a substantially similar residential structure."
+   ]
+  },
+  {
+   "action": "SEC. 2. Section 4766 is added to the Civil Code, to read:",
+   "paras": [
+    "§4766. (a) Any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument, and any provision of a governing document that subjects a substantially similar reconstruction of a residential structure that was destroyed or damaged in a disaster to review by a body shall be processed and approved in accordance with this section.",
+    "(b) (1) The body shall determine whether an application is complete or incomplete and provide written notice of this determination to the applicant no later than 30 calendar days after the body receives the application.",
+    "(2) If the body determines that an application is incomplete, the body shall simultaneously provide the applicant with a list of incomplete items and a description of how the application can be made complete.",
+    "(A) After receiving a notice that the application is incomplete, an applicant may cure and address the items that are deemed incomplete by the body by resubmitting the application.",
+    "(B) In the review of an application resubmitted pursuant to subparagraph (A), the body shall not require the applicant to include an item that was not identified as necessary in covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument, and any provision of a governing document in effect at the time the application was originally submitted.",
+    "(C) (i) If an applicant resubmits an application pursuant to subparagraph (A), the body shall determine whether the additional application has remedied all incomplete items listed in the determination issued pursuant to this paragraph.",
+    "(ii) The review and determination of the resubmitted application shall be subject to the timelines and requirements specified in this subdivision.",
+    "(3) If the body does not make a timely determination as required by this subdivision, the application or resubmitted application shall be deemed to be complete for the purposes of this section.",
+    "(c) Once an application is deemed complete, the body shall conduct any review of the proposed modification to the separate interest, including a substantially similar reconstruction of a residential structure, and do either of the following within 45 calendar days:",
+    "(1) If the body determines that the complete application is not compliant with the body’s lawfully adopted standards in effect at the time the application was first submitted, the body shall return in writing a full set of comments to the applicant with a comprehensive request for revisions.",
+    "(2) If the body determines that the complete application is compliant with the body’s lawfully adopted standards in effect at the time the application was first submitted, the body shall approve the application and notify the applicant accordingly.",
+    "(d) (1) If a body finds that a complete application is noncompliant, the body shall provide the applicant with a list of items that are noncompliant and a description of how the application can be remedied by the applicant within the time limits specified in subdivision (b).",
+    "(2) The body shall provide the list and description authorized by paragraph (1) when it transmits its determination to the applicant as required by subdivision (b).",
+    "(3) If a body denies an application based on a determination that the application is noncompliant, the applicant may attempt to remedy the application.",
+    "(4) If an applicant submits an application pursuant to paragraph (3), the additional application is subject to the timelines of a new application as specified in subdivision (b).",
+    "(e) (1) If an application is determined to be incomplete pursuant to subdivision (b) or determined to be noncompliant pursuant to subdivision (d), the body shall provide a process for the applicant to appeal that decision pursuant to Section 4765.",
+    "(2) The body shall provide a final written determination on the appeal no later than 60 calendar days after receipt of the applicant’s written appeal.",
+    "(f) (1) Once a body approves an application pursuant to this section, the body shall not subject the applicant to any appeals or additional hearings.",
+    "(2) The prohibition described in paragraph (1) does not apply to the applicant’s noncompliance with the approved application.",
+    "(g) A court shall award reasonable attorney’s fees to the applicant who prevails in an action to enforce this section.",
+    "(h) For purposes of this section, the following definitions apply:",
+    "(1) “Body” means an association, architectural review committee, or similar body.",
+    "(2) “Disaster” has the same meaning as in Section 4752.",
+    "(3) “Substantially similar reconstruction of a residential structure” has the same meaning as in Section 4752."
+   ]
+  },
+  {
+   "action": "SEC. 3. Chapter 4.2.2 (commencing with Section 65914.200) is added to Division 1 of Title 7 of the Government Code, to read:",
+   "paras": [
+    "§65914.200. (a) For purposes of this chapter, “disaster” means a declared disaster or state of emergency, including, but not limited to, any of the following:",
+    "(1) A state of disaster or emergency declared by the federal government.",
+    "(2) A state of emergency proclaimed by the Governor pursuant to Section 8625.",
+    "(3) A local emergency proclaimed by a local governing body or official pursuant to Section 8630.",
+    "(b) The Legislature finds and declares that this chapter addresses a matter of statewide concern rather than a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this chapter applies to all cities, including charter cities.",
+    "§65914.201. (a) A housing development proponent may submit an application for a housing development that is subject to the streamlined, ministerial approval process provided in subdivision (b) and shall not be subject to a conditional use permit or any other discretionary approval if the housing development satisfies all of the following objective standards:",
+    "(1) The housing development is located on a parcel on which a residential structure was destroyed or damaged in a disaster.",
+    "(2) (A) (i) The housing development, excluding any additional density or any other concessions, incentives, or waivers of development standards for which the housing development is eligible pursuant to the Density Bonus Law in Section 65915, is consistent with objective zoning standards, objective subdivision standards, and objective design review standards in effect at the time that the housing development is submitted to the local government pursuant to this section.",
+    "(ii) Notwithstanding clause (i), a local agency shall waive any objective zoning standards, objective subdivision standards, and objective design review standards to the extent that they would preclude construction of a proposed housing development that does not exceed 110 percent of the square footage of the residential space that existed on the parcel prior to the disaster.",
+    "(B) For purposes of this paragraph, “objective zoning standards,” “objective subdivision standards,” and “objective design review standards” mean standards that involve no personal or subjective judgment by a public official and are uniformly verifiable by reference to an external and uniform benchmark or criterion available and knowable by both the housing development applicant or proponent and the public official before submittal. These standards may be embodied in alternative objective land use specifications adopted by a city or county, and may include, but are not limited to, housing overlay zones, specific plans, inclusionary zoning ordinances, and density bonus ordinances, subject to the following:",
+    "(i) A housing development shall be deemed consistent with the objective zoning standards related to housing density, as applicable, if the density proposed is compliant with the maximum density allowed within that land use designation, notwithstanding any specified maximum unit allocation that may result in fewer units of housing being permitted.",
+    "(ii) In the event that objective zoning, general plan, subdivision, or design review standards are mutually inconsistent, a housing development shall be deemed consistent with the objective zoning and subdivision standards pursuant to this subdivision if the housing development is consistent with the standards set forth in the general plan.",
+    "(iii) It is the intent of the Legislature that the objective zoning standards, objective subdivision standards, and objective design review standards described in this paragraph be adopted or amended in compliance with the requirements of Chapter 905 of the Statutes of 2004.",
+    "(3) The housing development proponent owned the site on the date of the disaster.",
+    "(4) The housing development proponent complies with the labor standards described in paragraphs (8) and (9) of subdivision (a) of Section 65913.4.",
+    "(5) The housing development is not on an existing parcel of land or site that is governed under the Mobilehome Residency Law (Chapter 2.5 (commencing with Section 798) of Title 2 of Part 2 of Division 2 of the Civil Code), the Recreational Vehicle Park Occupancy Law (Chapter 2.6 (commencing with Section 799.20) of Title 2 of Part 2 of Division 2 of the Civil Code), the Mobilehome Parks Act (Part 2.1 (commencing with Section 18200) of Division 13 of the Health and Safety Code), or the Special Occupancy Parks Act (Part 2.3 (commencing with Section 18860) of Division 13 of the Health and Safety Code).",
+    "(6) The housing development is not located within a historic district or property included on the State Historic Resources Inventory, as defined in Section 5020.1 of the Public Resources Code, or within a site that is designated or listed as a city or county landmark or historic property or district pursuant to a city or county ordinance.",
+    "(b) (1) Notwithstanding any local law, if a local government’s planning director or equivalent position determines that a housing development submitted pursuant to this section is consistent with the objective planning standards specified in subdivision (a) and pursuant to paragraph (3) of this subdivision, the local government shall approve the housing development within 90 days of the submittal of the housing development. Upon a determination that a housing development submitted pursuant to this section is in conflict with any of the objective planning standards specified in subdivision (a), the local government staff or relevant local planning and permitting department that made the determination shall provide the housing development proponent written documentation of which standard or standards the housing development conflicts with, and an explanation for the reason or reasons the housing development conflicts with that standard or standards, as follows:",
+    "(A) Within 60 days of submittal of the housing development to the local government pursuant to this section.",
+    "(B) Within 30 days of submittal of any housing development proposal that was resubmitted to address written feedback provided by the local government pursuant to this paragraph.",
+    "(2) If the local government’s planning director or equivalent position fails to provide the required documentation pursuant to paragraph (1), the housing development shall be deemed to satisfy the objective planning standards specified in subdivision (a).",
+    "(3) For purposes of this section, a housing development is consistent with the objective planning standards specified in subdivision (a) if there is substantial evidence that would allow a reasonable person to conclude that the housing development is consistent with the objective planning standards.",
+    "(4) Upon submittal of an application for streamlined, ministerial approval pursuant to this section to the local government, all departments of the local government that are required to issue an approval of the housing development prior to the granting of an entitlement shall comply with the requirements of this section within the time periods specified in paragraph (1).",
+    "(c) If a local government approves an application pursuant to this section, the local government shall not in any way inhibit, chill, or preclude the ministerial approval provided by this section or its effect.",
+    "§65914.202. Notwithstanding any other law, any ordinance adopted by local governments that is located within an area impacted by a disaster that precludes the placement and use of a manufactured home, mobilehome, or recreational vehicle on a private lot outside of a mobilehome park or special occupancy park for use during the reconstruction or repair of any home damaged or destroyed in the disaster shall be unenforceable on a residential parcel that had a structure damaged or destroyed by the disaster for a period of three years following the disaster declaration.",
+    "§65914.203. This chapter offers an optional streamlined, ministerial approval process. This chapter does not affect the availability, applicability, or use of any other exemption from Division 13 (commencing with Section 21000) of the Public Resources Code."
+   ]
+  },
+  {
+   "action": "SEC. 4. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act or because costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIIIB of the California Constitution.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "548",
+  "year": "2025"
+ },
+ "digest": [
+  "(1) Existing law, the Davis-Stirling Common Interest Development Act, governs the management and operation of common interest developments. Existing law makes any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that either effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use, as specified, void and unenforceable. If the governing documents require association approval before a member may make a physical change to the member’s separate interest or to the common area, existing law requires an association to satisfy specified requirements, including to provide a fair, reasonable, and expeditious procedure for making its decision in reviewing and approving or disapproving a proposed physical change, as described above.",
+  "This bill would make any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument, and any provision of a governing document, void and unenforceable to the extent that it prohibits, or includes conditions that have the effect of prohibiting, a substantially similar reconstruction of a residential structure, as specified, that was destroyed or damaged in a disaster, as defined. The bill would require a court to award reasonable attorney’s fees to the owner of a separate interest in a common interest development who prevails in an action to enforce the above-described provisions.",
+  "This bill would require any covenant, restriction, or condition contained in any deed, contract, security instrument, or other instrument, and any provision of a governing document that subjects a substantially similar reconstruction of a residential structure that was destroyed or damaged in a disaster to review by a body to be processed and approved, as specified. The bill would defined various terms for these purposes. The bill would require the body to, among other things, determine whether an application is complete or incomplete and to provide written notice of this determination to the applicant no later than 30 calendar days after the body receives the application. Once an application is deemed complete, the bill would require the body to conduct any review of the proposed modification to the separate interest within 45 calendar days, as specified. If a body finds that a complete application is noncompliant, the bill would require the body to provide the applicant with a list of items that are noncompliant and a description of how the application can be remedied by the applicant, as described. If an application is determined to be incomplete or noncompliant, the bill would require the body to provide a process for the applicant to appeal that decision, as specified. The bill would require a court to award reasonable attorney’s fees to the applicant who prevails in an action to enforce the above-described provisions.",
+  "(2) Existing law, the Planning and Zoning Law, authorizes a development proponent to submit an application for a development that is subject to a specified streamlined, ministerial approval process if the development satisfies certain objective planning standards and certain procedures are followed, including that the proponent of the development project requires in contracts with construction contractors that specified standards will be met in project construction, as specified. Existing law requires the proponent of the development project to make a specified certification that certain labor standards will be met and requires the prime contractor to provide an affidavit under penalty of perjury, as specified.",
+  "This bill would authorize a housing development proponent to submit an application for a housing development that is subject to a specified streamlined, ministerial approval process if the housing development satisfies certain objective standards, including that the housing development is located on a parcel on which a residential structure was destroyed or damaged in a disaster. The bill would require a local government to approve the development within 90 days of the submittal of the development if the local government’s planning director or equivalent position determines that the development is consistent with specified objective planning standards. If the development is determined to be in conflict with those standards, the bill would require the local government staff or relevant local planning and permitting department that made the determination to provide the development proponent written documentation of which standard or standards the development conflicts with, and an explanation for the reason or reasons the development conflicts with that standard or standards, as specified. By mandating a higher level of service on local agencies, this bill would impose a state-mandated local program. The bill would provide that an ordinance that precludes specified placements and uses of manufactured homes, mobilehomes, or recreational vehicles for use during the reconstruction or repair of any home damaged or destroyed in a disaster is unenforceable for a period of 3 years following the disaster declaration. The bill would require the housing development proponent to comply with certain labor standards, including that the housing development proponent will comply with the above-described labor standards, including the requirements that the development proponent make the specified certification and that the prime contractor provide an affidavit under penalty of perjury.",
+  "By imposing certification and penalty of perjury requirements, this bill would expand the crime of perjury, thereby imposing a state-mandated local program.",
+  "(3) Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment, or to adopt a negative declaration if it determines that the project would not have that effect, as provided. CEQA does not apply to the approval of ministerial projects.",
+  "This bill would provide that its streamlined, ministerial approval process for a housing development, as described above, offers an optional streamlined, ministerial approval process and does not affect the availability, applicability, or use of any other exemption from CEQA. To the extent that the streamlined, ministerial review process established by the bill would apply to the approval of a housing development that would otherwise be discretionary, the bill would expand the exemption for the ministerial approval of projects under CEQA.",
+  "(4) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(5) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "hash": "1d106750337f0d30",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "chamber": "S",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "Re-referred to Coms. on HOUSING and JUD.",
+   "chamber": "S",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "chamber": "S",
+   "date": "2025-04-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on HOUSING.",
+   "chamber": "S",
+   "date": "2025-04-07"
+  },
+  {
+   "action": "Set for hearing April 29 in JUD. pending receipt.",
+   "chamber": "S",
+   "date": "2025-04-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 11. Noes 0. Page 832.) (April 22). Re-referred to Com. on JUD.",
+   "chamber": "S",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0. Page 942.) (April 29). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "Set for hearing May 12.",
+   "chamber": "S",
+   "date": "2025-05-02"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "chamber": "S",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2025-05-13"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 1454.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2025-06-03"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and JUD.",
+   "chamber": "A",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "chamber": "A",
+   "date": "2025-06-23"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 12. Noes 0.) (July 2). Re-referred to Com. on JUD.",
+   "chamber": "A",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (July 15).",
+   "chamber": "A",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (August 20).",
+   "chamber": "A",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2025-08-21"
+  },
+  {
+   "action": "Read third time and amended.",
+   "chamber": "A",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2025-09-02"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 78. Noes 0. Page 2985.) Ordered to the Senate.",
+   "chamber": "A",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "chamber": "S",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 2743.) Ordered to engrossing and enrolling.",
+   "chamber": "S",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "chamber": "",
+   "date": "2025-09-17"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 548, Statutes of 2025.",
+   "chamber": "",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250SB62592CHP",
+  "num": "92"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Chapter 4.2.2 (commencing with Section 65914.200) is added to Division 1 of Title 7 of the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this chapter, “disaster” means a declared disaster or state of emergency, including, but not limited to, any of the following:",
+    "(1) A state of disaster or emergency declared by the federal government.",
+    "(2) A state of emergency proclaimed by the Governor pursuant to Section 8625.",
+    "(3) A local emergency proclaimed by a local governing body or official pursuant to Section 8630.",
+    "(b) The Legislature finds and declares that this chapter addresses a matter of statewide concern rather than a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this chapter applies to all cities, including charter cities."
+   ],
+   "sec": "65914.200",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Housing developments: disasters: reconstruction of destroyed or damaged structures.",
+ "title": "An act to add Sections 4752 and 4766 to the Civil Code, and to add Chapter 4.2.2 (commencing with Section 65914.200) to Division 1 of Title 7 of the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250SB62599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-26",
+   "id": "20250SB62598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-07",
+   "id": "20250SB62597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-23",
+   "id": "20250SB62596AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-17",
+   "id": "20250SB62595AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-09-02",
+   "id": "20250SB62594AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250SB62593ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250SB62592CHP",
+   "num": "92"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2025-04-22",
+   "location": "Sen Housing",
+   "motion": "Do pass, but first be re-referred to the Committee on [Judiciary]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "S",
+   "date": "2025-04-29",
+   "location": "Sen Judiciary",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 13
+  },
+  {
+   "chamber": "S",
+   "date": "2025-06-03",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB625 Wahab et al.",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1062",
+   "yes": 39
+  },
+  {
+   "chamber": "A",
+   "date": "2025-07-02",
+   "location": "Asm Housing and Community Development",
+   "motion": "Do pass and be re-referred to the Committee on [Judiciary]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 12
+  },
+  {
+   "chamber": "A",
+   "date": "2025-07-15",
+   "location": "Asm Judiciary",
+   "motion": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 12
+  },
+  {
+   "chamber": "A",
+   "date": "2025-08-20",
+   "location": "Asm Appropriations",
+   "motion": "Do pass.",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 15
+  },
+  {
+   "chamber": "A",
+   "date": "2025-09-08",
+   "location": "Assembly Floor",
+   "motion": "SB 625 Wahab Senate Third Reading By Irwin",
+   "no": 0,
+   "nv": 2,
+   "result": "pass",
+   "seq": "1022",
+   "yes": 78
+  },
+  {
+   "chamber": "S",
+   "date": "2025-09-09",
+   "location": "Senate Floor",
+   "motion": "Unfinished Business SB625 Wahab et al. Concurrence",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1227",
+   "yes": 40
+  }
+ ]
+}

@@ -1,0 +1,450 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Wiener",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Wahab",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB908",
+ "bill_id": "202520260SB908",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 4754 is added to the Civil Code, to read:",
+   "paras": [
+    "§4754. (a) Notwithstanding any other law, any covenant, restriction, or condition contained in any deed, contract, security instrument, other instrument affecting the transfer or sale of any interest in a common interest development, or provision of a governing document, as defined in Section 4150, that effectively prohibits or restricts the owner of a separate interest from completing a residential window replacement project or impose any requirements on California Energy Code-compliant windows, as defined in subdivision (f), regarding an owner’s separate interest windows, an owner’s exclusive use common area windows as defined in subdivision (b) of Section 4145, or windows designated in the governing documents as common area windows, but are designed to exclusively serve a single owner’s separate interest, is void and unenforceable.",
+    "(b) (1) Subdivision (a) shall not apply to either of the following:",
+    "(A) Provisions that impose reasonable installation restrictions on a residential window replacement project that do not significantly increase the cost of a residential window replacement project or significantly decrease the energy efficiency of a residential window replacement project.",
+    "(B) Provisions that impose reasonable aesthetic restrictions on a residential window replacement project that do not when combined with reasonable restrictions authorized pursuant to subparagraph (A), significantly increase the cost of a residential window replacement project or significantly decrease the energy efficiency of a residential window replacement project. This paragraph shall apply only if both of the following conditions are satisfied:",
+    "(i) The reasonable aesthetic restrictions apply only to a residential window replacement project in a multifamily residential building of more than 20 units that does not include townhomes.",
+    "(ii) The reasonable aesthetic restrictions apply only to a residential window replacement project that modifies the exterior visual appearance of a window.",
+    "(2) Restrictions authorized by this subdivision shall not require the use of a material that would result in the window not being a California Energy Code-compliant window.",
+    "(c) Notwithstanding any other law, if an association’s governing documents do not place reasonable restrictions on a residential window replacement project, the association shall not subject the project to design review or any other form of approval. This subdivision does not constitute a change in, but is declaratory of, existing law.",
+    "(d) (1) If approval is required for a residential window replacement project as permitted by this section, an application for approval shall be processed and approved by the association in the same manner as an application for approval of an architectural modification to the property pursuant to the governing documents and Section 4765. If a residential window replacement project subject to this subdivision is compliant with the reasonable restrictions permitted by this section, the association shall approve the application for the residential window replacement project.",
+    "(2) The approval or disapproval of an application shall be in writing and shall not be willfully avoided or delayed. If an application is not approved or disapproved in writing within 45 days from the date of receipt of the application, the application shall be deemed approved unless that delay is the result of a request for additional information that was required by the application for approval and not provided by the owner of the separate interest.",
+    "(3) If an association disapproves an application pursuant to this subdivision and a modified application is submitted, the association shall review the modified application subject to the requirements of this section.",
+    "(e) (1) This subdivision shall apply to an owner’s residential window replacement project that proposes the replacement of windows that are any of the following:",
+    "(A) Exclusive use common area pursuant to subdivision (b) of Section 4145.",
+    "(B) Designated in the governing documents as common area for the exclusive use of that owner.",
+    "(C) Designated in the governing documents as part of that owner’s separate interest and such windows are installed within a common area building structure.",
+    "(D) Designated in the governing documents as common area windows but are designed to exclusively serve that owner’s separate interest.",
+    "(2) An association shall require a residential window replacement project described in paragraph (1) to comply with all of the following:",
+    "(A) The owner shall obtain approval from the association for the residential window replacement project pursuant to the limitations of this section. An association shall approve a project subject to this subparagraph if the owner agrees in writing to do all of the following:",
+    "(i) Comply with the association’s governing documents regarding any applicable aesthetic or installation standards that do not significantly increase the cost of, or significantly decrease the energy efficiency of, a residential window replacement project and any association inspection rights.",
+    "(ii) Engage a licensed contractor for the installation of the residential window replacement project.",
+    "(iii) Obtain any required local or state permits and provide proof to the association after the association approves the owner’s application.",
+    "(iv) Pay for the costs associated with the installation of the residential window replacement project.",
+    "(B) The owner and each successive owner shall be responsible for all of the following:",
+    "(i) The continued maintenance, repair, or replacement of any component related to the residential window replacement project.",
+    "(ii) Costs for damage resulting from the installation of the residential window replacement project or costs for maintenance, repair, and removal of the window replacement project.",
+    "(iii) Disclosing to prospective buyers the existence of the residential window replacement project and related responsibilities of the owner pursuant to this section.",
+    "(3) An association may require a residential window replacement project described in paragraph (1) to comply with the following",
+    "(A) Require notice to be recorded against the title of the owner’s separate interest regarding the existence of the residential window replacement project and related responsibilities pursuant to the governing documents and this section. The association shall be responsible for preparing and recording notice and any recorded recision, including the costs thereof, as applicable.",
+    "(B) Require the installer of a residential window replacement project to indemnify and reimburse the association for loss or damage caused by the installation of the residential window replacement project.",
+    "(f) For purposes of this section:",
+    "(1) “California Energy Code-compliant windows” means windows that meet or exceed the mandatory requirements for fenestration products and exterior doors, as described in Section 110.6 of the California Energy Code (Part 6 of Title 24 of the California Code of Regulations) or a subsequent code section adopted by the California Building Standards Commission in the most recent triennial building code cycle.",
+    "(2) “Residential window replacement project” has the same meaning as defined in Section 65850.73 of the Government Code.",
+    "(3) “Significantly decrease the energy efficiency” means a decrease the energy efficiency of the residential window replacement project by an amount exceeding 10 percent as originally specified and proposed.",
+    "(4) “Significantly increase the cost” means an increase in an amount exceeding 10 percent of the cost of the residential window replacement project as originally specified and proposed."
+   ]
+  },
+  {
+   "action": "SEC. 2. Section 65850.73 is added to the Government Code, to read:",
+   "paras": [
+    "§65850.73. (a) The Legislature finds and declares that retrofitting windows in existing residential buildings with windows that meet current California Energy Code standards is critical to reducing energy consumption and achieving the state’s climate goals, which is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this section applies to all cities, including charter cities.",
+    "(b) For the purposes of this section, the following definitions apply:",
+    "(1) “Housing development project” means a housing development project as defined in paragraph (2) of subdivision (h) of Section 65589.5.",
+    "(2) “Residential window replacement project” means a project that meets all of the following requirements:",
+    "(A) The project proposes only to replace existing windows in a single-family or multifamily residential building with windows of the same size and in the same location.",
+    "(B) The project does not involve any physical alterations to the existing building beyond those necessary to install those windows.",
+    "(C) The proposed window installation complies with all applicable provisions of the California Building Standards Code (Title 24 of the California Code of Regulations), including, but not limited to the California Residential Code, California Building Code, California Fire Code, California Wildland-Urban Interface Code, and the California Energy Code.",
+    "(3) “State Historic Resources Inventory” has the same meaning as defined in Section 5020.1 of the Public Resources Code.",
+    "(4) “Local register of historical resources” has the same meaning as defined in subdivision (k) of Section 5020.1 of the Public Resources Code.",
+    "(c) A city, county, or city and county shall administratively approve an application for a residential window replacement project.",
+    "(d) A city, county, or city and county shall not require discretionary review or a hearing for a residential window replacement project.",
+    "(e) A city, county, or city and county shall not deny an application for a residential window replacement project unless it makes written findings, based upon substantial evidence in the record, that the residential window replacement project would have a specific, adverse impact upon public health or safety and there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact.",
+    "(f) Any conditions imposed on a residential window replacement project shall be limited to objective conditions that are necessary to mitigate a specific, adverse impact upon public health or safety identified pursuant to subdivision (e).",
+    "(g) A local government that is both a city and county shall not impose any conditions on a window proposed in a housing development project other than objective conditions that are necessary to mitigate a specific adverse impact upon public health or safety, provided that the window complies with all applicable provisions of the California Building Standards Code (Title 24 of the California Code of Regulations), including, but not limited to, the California Residential Code, California Building Code, California Fire Code, California Wildland-Urban Interface Code, and the California Energy Code. A local government that is both a city and county shall make written findings, based upon substantial evidence in the record, that the proposed window would have a specific, adverse impact upon public health or safety.",
+    "(h) This section shall not apply to either of the following:",
+    "(1) A residential building that is individually designated on the California Register of Historical Resources, provided that the residential building was designated prior to the date an application for a residential window replacement project is submitted.",
+    "(2) (A) Except as provided in subparagraph (B), a residential building that is individually designated on a local register of historical resources or designated as a contributor to a multicomponent resource designated on a local register of historical resources, provided that the residential building was designated prior to the date an application for a residential window replacement project is submitted.",
+    "(B) This paragraph shall not apply to a residential building designated on a local register of historical resources based primarily on its age."
+   ]
+  },
+  {
+   "action": "SEC. 3. The provisions of this act are severable. If any provision of this act or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 4. The Legislature finds and declares that a special statute is necessary and that a general statute cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique development regulations within certain areas of the state that are both a city and county.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 5. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "787",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law, the Davis-Stirling Common Interest Development Act, governs the management and operation of common interest developments. Existing law places various limits and prohibitions on the governing documents, as defined, relative to an owner’s separate interest within those developments.",
+  "This bill would declare void and unenforceable any covenant, restriction, or condition contained in any deed, contract, security instrument, other instrument affecting the transfer or sale of any interest in a common interest development, or provision of a governing document that effectively prohibits or restricts the owner of a separate interest from completing a residential window replacement project or impose any requirements on California Energy Code-compliant windows, as specified. The bill’s provisions would not apply to certain provisions that impose reasonable installation restrictions on a residential window replacement project that do not significantly increase the cost of a residential window replacement project or significantly decrease the energy efficiency of a residential window replacement project, except as specified.",
+  "This bill would prohibit an association from subjecting a residential window replacement project to design review or any other form of approval if the association’s governing documents do not place reasonable restrictions on a residential window replacement project.",
+  "This bill, for specified residential window replacement projects that propose the replacement of windows, would require an association to impose certain conditions on the project, including a requirement that the owner obtain approval from the association. The bill would require an association to approve a project if the owner agrees to certain requirements in writing, including that the owner comply with the association’s governing documents, engage a licensed contractor for the installation, obtain any required local or state permits required for the project, and pay for the costs associated with the installation.",
+  "(2) The Planning and Zoning Law authorizes the legislative body of any county or city to adopt ordinances that regulate the use of buildings, structures, and land as between industry, business, residences, open space, and other purposes.",
+  "This bill would require a city, county, or city and county to administratively approve an application for a residential window replacement project. The bill would prohibit a city, county, or city and county from requiring discretionary review or a hearing for a residential window replacement project. The bill would also prohibit a city, county, or city and county from denying an application for a residential window replacement project and a local government that is both a city and county from imposing any conditions on certain windows proposed in a housing development project, except as specified. The bill would limit the application of these provisions under certain circumstances, including if a residential building is individually designated on the California Register of Historical Resources prior to the date the application for a residential window replacement project is submitted.",
+  "By adding to the duties of local governments, this bill would impose a state-mandated local program.",
+  "(3) The bill would make its provisions severable.",
+  "(4) The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "(5) This bill would make legislative findings and declarations as to the necessity of a special statute for the City and County of San Francisco.",
+  "(6) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "a793f1b104db8eb9",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2026-01-22"
+  },
+  {
+   "action": "From printer. May be acted upon on or after February 22.",
+   "chamber": "S",
+   "date": "2026-01-23"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-02-11"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "Re-referred to Coms. on L. GOV. and HOUSING.",
+   "chamber": "S",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "chamber": "S",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "chamber": "S",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "Set for hearing April 21 in HOUSING pending receipt.",
+   "chamber": "S",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 5. Noes 1. Page 3903.) (April 15). Re-referred to Com. on HOUSING.",
+   "chamber": "S",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 1. Page 3975.) (April 21).",
+   "chamber": "S",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "chamber": "S",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "chamber": "S",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 32. Noes 7. Page 4338.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2026-05-20"
+  },
+  {
+   "action": "Referred to Coms. on H. & C.D. and L. GOV.",
+   "chamber": "A",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on H. & C.D.",
+   "chamber": "A",
+   "date": "2026-06-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on L. GOV. (Ayes 11. Noes 0.) (June 24). Re-referred to Com. on L. GOV.",
+   "chamber": "A",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 1.) (August 5).",
+   "chamber": "A",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Read third time and amended.",
+   "chamber": "A",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 74. Noes 0. Page 6520.) Ordered to the Senate.",
+   "chamber": "A",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "chamber": "S",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 38. Noes 1. Page 5917.) Ordered to engrossing and enrolling.",
+   "chamber": "S",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 6 p.m.",
+   "chamber": "",
+   "date": "2026-08-31"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 787, Statutes of 2026.",
+   "chamber": "",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250SB90892CHP",
+  "num": "92"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 65850.73 is added to the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The Legislature finds and declares that retrofitting windows in existing residential buildings with windows that meet current California Energy Code standards is critical to reducing energy consumption and achieving the state’s climate goals, which is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this section applies to all cities, including charter cities.",
+    "(b) For the purposes of this section, the following definitions apply:",
+    "(1) “Housing development project” means a housing development project as defined in paragraph (2) of subdivision (h) of Section 65589.5.",
+    "(2) “Residential window replacement project” means a project that meets all of the following requirements:",
+    "(A) The project proposes only to replace existing windows in a single-family or multifamily residential building with windows of the same size and in the same location.",
+    "(B) The project does not involve any physical alterations to the existing building beyond those necessary to install those windows.",
+    "(C) The proposed window installation complies with all applicable provisions of the California Building Standards Code (Title 24 of the California Code of Regulations), including, but not limited to the California Residential Code, California Building Code, California Fire Code, California Wildland-Urban Interface Code, and the California Energy Code.",
+    "(3) “State Historic Resources Inventory” has the same meaning as defined in Section 5020.1 of the Public Resources Code.",
+    "(4) “Local register of historical resources” has the same meaning as defined in subdivision (k) of Section 5020.1 of the Public Resources Code.",
+    "(c) A city, county, or city and county shall administratively approve an application for a residential window replacement project.",
+    "(d) A city, county, or city and county shall not require discretionary review or a hearing for a residential window replacement project.",
+    "(e) A city, county, or city and county shall not deny an application for a residential window replacement project unless it makes written findings, based upon substantial evidence in the record, that the residential window replacement project would have a specific, adverse impact upon public health or safety and there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact.",
+    "(f) Any conditions imposed on a residential window replacement project shall be limited to objective conditions that are necessary to mitigate a specific, adverse impact upon public health or safety identified pursuant to subdivision (e).",
+    "(g) A local government that is both a city and county shall not impose any conditions on a window proposed in a housing development project other than objective conditions that are necessary to mitigate a specific adverse impact upon public health or safety, provided that the window complies with all applicable provisions of the California Building Standards Code (Title 24 of the California Code of Regulations), including, but not limited to, the California Residential Code, California Building Code, California Fire Code, California Wildland-Urban Interface Code, and the California Energy Code. A local government that is both a city and county shall make written findings, based upon substantial evidence in the record, that the proposed window would have a specific, adverse impact upon public health or safety.",
+    "(h) This section shall not apply to either of the following:",
+    "(1) A residential building that is individually designated on the California Register of Historical Resources, provided that the residential building was designated prior to the date an application for a residential window replacement project is submitted.",
+    "(2) (A) Except as provided in subparagraph (B), a residential building that is individually designated on a local register of historical resources or designated as a contributor to a multicomponent resource designated on a local register of historical resources, provided that the residential building was designated prior to the date an application for a residential window replacement project is submitted.",
+    "(B) This paragraph shall not apply to a residential building designated on a local register of historical resources based primarily on its age."
+   ],
+   "sec": "65850.73",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Residential windows: retrofitting: residential window replacement projects: California Building Code compliance.",
+ "title": "An act to add Section 4754 to the Civil Code, and to add Section 65850.73 to the Government Code, relating to windows.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-01-22",
+   "id": "20250SB90899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-23",
+   "id": "20250SB90898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-08",
+   "id": "20250SB90897AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-23",
+   "id": "20250SB90896AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-15",
+   "id": "20250SB90895AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-20",
+   "id": "20250SB90894AMD",
+   "num": "94"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-28",
+   "id": "20250SB90893ENR",
+   "num": "93"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250SB90892CHP",
+   "num": "92"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2026-04-15",
+   "location": "Sen Local Government",
+   "motion": "Do pass, but first be re-referred to the Committee on [Housing]",
+   "no": 1,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 5
+  },
+  {
+   "chamber": "S",
+   "date": "2026-04-21",
+   "location": "Sen Housing",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+   "no": 1,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 9
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-19",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB908 Wiener et al.",
+   "no": 7,
+   "nv": 1,
+   "result": "pass",
+   "seq": "4297",
+   "yes": 32
+  },
+  {
+   "chamber": "A",
+   "date": "2026-06-24",
+   "location": "Asm Housing and Community Development",
+   "motion": "Do pass and be re-referred to the Committee on [Local Government]",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "A",
+   "date": "2026-07-01",
+   "location": "Asm Local Government",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-05",
+   "location": "Asm Appropriations",
+   "motion": "Do pass.",
+   "no": 1,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 14
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-25",
+   "location": "Assembly Floor",
+   "motion": "SB 908 Wiener Senate Third Reading By Patterson",
+   "no": 0,
+   "nv": 5,
+   "result": "pass",
+   "seq": "1112",
+   "yes": 74
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-26",
+   "location": "Senate Floor",
+   "motion": "Unfinished Business SB908 Wiener et al. Concurrence",
+   "no": 1,
+   "nv": 1,
+   "result": "pass",
+   "seq": "5712",
+   "yes": 38
+  }
+ ]
+}

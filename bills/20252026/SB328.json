@@ -1,0 +1,750 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ávila Farías",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Blanca Rubio",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wallis",
+   "party": "R",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB328",
+ "bill_id": "202520260SB328",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 54221 of the Government Code is amended to read:",
+   "paras": [
+    "§54221. As used in this article, the following definitions shall apply:",
+    "(a) (1) “Local agency” means every city, whether organized under general law or by charter, county, city and county, district, including school, sewer, water, utility, and local and regional park districts of any kind or class, joint powers authority, successor agency to a former redevelopment agency, housing authority, or other political subdivision of this state and any instrumentality thereof that is empowered to acquire and hold real property.",
+    "(2) The Legislature finds and declares that the term “district” as used in this article includes all districts within the state, including, but not limited to, all special districts, sewer, water, utility, and local and regional park districts, and any other political subdivision of this state that is a district, and therefore the changes in paragraph (1) made by the act adding this paragraph that specify that the provisions of this article apply to all districts, including school, sewer, water, utility, and local and regional park districts of any kind or class, are declaratory of, and not a change in, existing law.",
+    "(b) (1) “Surplus land” means land owned in fee simple by any local agency for which the local agency’s governing body takes formal action in a regular public meeting declaring that the land is surplus and is not necessary for the agency’s use. Land shall be declared either “surplus land” or “exempt surplus land,” as supported by written findings, before a local agency may take any action to dispose of it consistent with an agency’s policies or procedures. A local agency, on an annual basis, may declare multiple parcels as “surplus land” or “exempt surplus land.”",
+    "(2) “Surplus land” includes land held in the Community Redevelopment Property Trust Fund pursuant to Section 34191.4 of the Health and Safety Code and land that has been designated in the long-range property management plan approved by the Department of Finance pursuant to Section 34191.5 of the Health and Safety Code, either for sale or for future development, but does not include any specific disposal of land to an identified entity described in the plan.",
+    "(3) Nothing in this article prevents a local agency from obtaining fair market value for the disposition of surplus land consistent with Section 54226.",
+    "(4) Notwithstanding paragraph (1), a local agency is not required to make a declaration at a public meeting for land that is “exempt surplus land” pursuant to subparagraph (A), (B), (E), (K), (L), or (Q) of paragraph (1) of subdivision (f) if the local agency identifies the land in a notice that is published and available for public comment, including notice to the entities identified in subdivision (a) of Section 54222, at least 30 days before the exemption takes effect.",
+    "(c) (1) Except as provided in paragraph (2), “agency’s use” shall include, but not be limited to, land that is being used, or is planned to be used pursuant to a written plan adopted by the local agency’s governing board, for agency work or operations, including, but not limited to, utility sites, property owned by a port that is used to support logistics uses, watershed property, land being used for conservation purposes, land for demonstration, exhibition, or educational purposes related to greenhouse gas emissions, sites for broadband equipment or wireless facilities, and buffer sites near sensitive governmental uses, including, but not limited to, waste disposal sites, and wastewater treatment plants. “Agency’s use” by a local agency that is a district shall also include land disposed for uses described in subparagraph (B) of paragraph (2).",
+    "(2) (A) “Agency’s use” shall not include commercial or industrial uses or activities, including nongovernmental retail, entertainment, or office development. Property disposed of for the sole purpose of investment or generation of revenue shall not be considered necessary for the agency’s use.",
+    "(B) In the case of a local agency that is a district, excepting those whose primary mission or purpose is to supply the public with a transportation system, “agency’s use” may include commercial or industrial uses or activities, including nongovernmental retail, entertainment, or office development or be for the sole purpose of investment or generation of revenue if the agency’s governing body takes action in a public meeting declaring that the use of the site will do one of the following:",
+    "(i) Directly further the express purpose of agency work or operations.",
+    "(ii) Be expressly authorized by a statute governing the local agency, provided the district complies with Section 54233.5 if applicable.",
+    "(d) (1) “Dispose” means either of the following:",
+    "(A) The sale of the surplus land.",
+    "(B) The entering of a lease for surplus land, which is for a term longer than 15 years, inclusive of any extension or renewal options included in the terms of the initial lease, entered into on or after January 1, 2024.",
+    "(2) “Dispose” shall not mean either of the following:",
+    "(A) The entering of a lease for surplus land, which is for a term of 15 years or less, inclusive of any extension or renewal options included in the terms of the initial lease.",
+    "(B) The entering of a lease for surplus land on which no development or demolition will occur, regardless of the term of the lease.",
+    "(e) “Open-space purposes” means the use of land for public recreation, enjoyment of scenic beauty, or conservation or use of natural resources.",
+    "(f) (1) Except as provided in paragraph (2), “exempt surplus land” means any of the following:",
+    "(A) Surplus land that is transferred pursuant to Section 25539.4 or 37364.",
+    "(B) Surplus land that is less than one-half acre in area and is not contiguous to land owned by a state or local agency that is used for open-space or low- and moderate-income housing purposes.",
+    "(C) Surplus land that a local agency is exchanging for another property necessary for the agency’s use. “Property” may include easements necessary for the agency’s use.",
+    "(D) Surplus land that a local agency is transferring to another local, state, or federal agency, or to a third-party intermediary for future dedication for the receiving agency’s use, or to a federally recognized California Indian tribe. If the surplus land is transferred to a third-party intermediary, the receiving agency’s use must be contained in a legally binding agreement at the time of transfer to the third-party intermediary.",
+    "(E) Surplus land that is a former street, right-of-way, or easement, and is conveyed to an owner of an adjacent property.",
+    "(F) (i) Surplus land that is to be developed for a housing development, which may have ancillary commercial ground floor uses, that restricts 100 percent of the residential units to persons and families of low or moderate income, with at least 75 percent of the residential units restricted to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent, as defined in Section 50052.5 or 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability, and in no event shall the maximum affordable sales price or rent level be higher than 20 percent below the median market rents or sales prices for the neighborhood in which the site is located.",
+    "(ii) The requirements of clause (i) shall be contained in a covenant or restriction recorded against the surplus land at the time of sale that shall run with the land and be enforceable against any owner who violates the covenant or restriction and each successor in interest who continues the violation.",
+    "(G) (i) Surplus land that is subject to a local agency’s open, competitive solicitation or that is put to open, competitive bid by a local agency, provided that all entities identified in subdivision (a) of Section 54222 will be invited to participate in the process, for a housing or a mixed-use development that is more than one acre and less than 10 acres in area, consisting of either a single parcel, or two or more adjacent or nonadjacent parcels combined, that includes not less than 300 residential units, and that restricts at least 25 percent of the residential units to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(ii) The requirements of clause (i) shall be contained in a covenant or restriction recorded against the surplus land at the time of sale that shall run with the land and be enforceable against any owner who violates the covenant or restriction and each successor in interest who continues the violation.",
+    "(H) (i) Surplus land totaling 10 or more acres, consisting of either a single parcel, or two or more adjacent or nonadjacent parcels combined for disposition to one or more persons or entities pursuant to a plan or ordinance adopted by the legislative body of the local agency, or a state statute. That surplus land shall be subject to a local agency’s open, competitive solicitation process or put out to open, competitive bid by a local agency, provided that all entities identified in subdivision (a) of Section 54222 will be invited to participate in the process for a housing or mixed-use development.",
+    "(ii) The aggregate development shall include the greater of the following:",
+    "(I) Not less than 300 residential units.",
+    "(II) A number of residential units equal to 10 times the number of acres of the surplus land or 10,000 residential units, whichever is less.",
+    "(iii) At least 25 percent of the residential units shall be restricted to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent pursuant to Sections 50052.5 and 50053 of the Health and Safety Code, for a minimum of 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(iv) If nonresidential development is included in the development pursuant to this subparagraph, at least 25 percent of the total planned units affordable to lower income households shall be made available for lease or sale and permitted for use and occupancy before or at the same time with every 25 percent of nonresidential development made available for lease or sale and permitted for use and occupancy.",
+    "(v) A violation of this subparagraph is subject to the penalties described in Section 54230.5. Those penalties are in addition to any remedy a court may order for violation of this subparagraph. A local agency shall only dispose of land pursuant to this subparagraph through a disposition and development agreement that includes an indemnification clause that provides that if an action occurs after disposition violates this subparagraph, the person or entity that acquired the property shall be liable for the penalties.",
+    "(vi) The requirements of clauses (i) to (v), inclusive, shall be contained in a covenant or restriction recorded against the surplus land at the time of sale that shall run with the land and be enforceable against any owner who violates the covenant or restriction and each successor in interest who continues the violation.",
+    "(I) A mixed-use development, which may include more than one publicly owned parcel, that meets all of the following conditions:",
+    "(i) The development restricts at least 25 percent of the residential units to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(ii) At least 50 percent of the square footage of the new construction associated with the development is designated for residential use.",
+    "(iii) The development is not located in an urbanized area, as defined in Section 21094.5 of the Public Resources Code.",
+    "(J) (i) Surplus land that is subject to a valid legal restriction that is not imposed by the local agency and that makes housing prohibited, unless there is a feasible method to satisfactorily mitigate or avoid the prohibition on the site. A declaration of exemption pursuant to this subparagraph shall be supported by documentary evidence establishing the valid legal restriction. For the purposes of this section, “documentary evidence” includes, but is not limited to, a contract, agreement, deed restriction, statute, regulation, or other writing that documents the valid legal restriction.",
+    "(ii) Valid legal restrictions include, but are not limited to, all of the following:",
+    "(I) Existing constraints under ownership rights or contractual rights or obligations that prevent the use of the property for housing, if the rights or obligations were agreed to prior to September 30, 2019.",
+    "(II) Conservation or other easements or encumbrances that prevent housing development.",
+    "(III) Existing leases, or other contractual obligations or restrictions, if the terms were agreed to prior to September 30, 2019.",
+    "(IV) Restrictions imposed by the source of funding that a local agency used to purchase a property, provided that both of the following requirements are met:",
+    "(ia) The restrictions limit the use of those funds to purposes other than housing.",
+    "(ib) The proposed disposal of surplus land meets a use consistent with that purpose.",
+    "(iii) Valid legal restrictions that would make housing prohibited do not include either of the following:",
+    "(I) An existing nonresidential land use designation on the surplus land.",
+    "(II) Covenants, restrictions, or other conditions on the property rendered void and unenforceable by any other law, including, but not limited to, Section 714.6 of the Civil Code.",
+    "(iv) Feasible methods to mitigate or avoid a valid legal restriction on the site do not include a requirement that the local agency acquire additional property rights or property interests belonging to third parties.",
+    "(K) Surplus land that was granted by the state in trust to a local agency or that was acquired by the local agency for trust purposes by purchase or exchange, and for which disposal of the land is authorized or required subject to conditions established by statute.",
+    "(L) Land that is subject to either of the following, unless compliance with this article is expressly required:",
+    "(i) Section 17515, 81192, 81397, 81399, 81420, or 81422 of the Education Code.",
+    "(ii) Part 14 (commencing with Section 53570) of Division 31 of the Health and Safety Code.",
+    "(M) Surplus land that is a former military base that was conveyed by the federal government to a local agency, and is subject to Article 8 (commencing with Section 33492.125) of Chapter 4.5 of Part 1 of Division 24 of the Health and Safety Code, provided that all of the following conditions are met:",
+    "(i) The former military base has an aggregate area greater than five acres, is expected to include a mix of residential and nonresidential uses, and is expected to include no fewer than 1,400 residential units upon completion of development or redevelopment of the former military base.",
+    "(ii) The affordability requirements for residential units shall be governed by a settlement agreement entered into prior to September 1, 2020. Furthermore, at least 25 percent of the initial 1,400 residential units developed shall be restricted to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(iii) Before disposition of the surplus land, the agency adopts written findings that the land is exempt surplus land pursuant to this subparagraph.",
+    "(iv) Before disposition of the surplus land, the recipient has negotiated a project labor agreement consistent with the local agency’s project stabilization agreement resolution, as adopted on February 2, 2021, and any succeeding ordinance, resolution, or policy, regardless of the length of the agreement between the local agency and the recipient.",
+    "(v) The agency includes in the annual report required by paragraph (2) of subdivision (a) of Section 65400 the status of development of residential units on the former military base, including the total number of residential units that have been permitted and what percentage of those residential units are restricted for persons and families of low or moderate income, or lower income households, as defined in Section 50079.5 of the Health and Safety Code.",
+    "A violation of this subparagraph is subject to the penalties described in Section 54230.5. Those penalties are in addition to any remedy a court may order for violation of this subparagraph or the settlement agreement.",
+    "(N) Real property that is used by a district for an agency’s use expressly authorized in subdivision (c).",
+    "(O) Land that has been transferred before June 30, 2019, by the state to a local agency pursuant to Section 32667 of the Streets and Highways Code and has a minimum planned residential density of at least 100 dwelling units per acre, and includes 100 or more residential units that are restricted to persons and families of low or moderate income, with an affordable sales price or an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability. For purposes of this subparagraph, not more than 20 percent of the affordable units may be restricted to persons and families of moderate income and at least 80 percent of the affordable units must be restricted to lower income households as defined in Section 50079.5 of the Health and Safety Code.",
+    "(P) (i) Land that meets the following conditions:",
+    "(I) Land that is subject to a sectional planning area document that meets both of the following:",
+    "(ia) The sectional planning area was adopted prior to January 1, 2019.",
+    "(ib) The sectional planning area document is consistent with county and city general plans applicable to the land.",
+    "(II) The land identified in the adopted sectional planning area document was dedicated prior to January 1, 2019.",
+    "(III) On January 1, 2019, the parcels on the land met at least one of the following conditions:",
+    "(ia) The land was subject to an irrevocable offer of dedication of fee interest requiring the land to be used for a specified purpose.",
+    "(ib) The land was acquired through a land exchange subject to a land offer agreement that grants the land’s original owner the right to repurchase the land acquired by the local agency pursuant to the agreement if the land will not be developed in a manner consistent with the agreement.",
+    "(ic) The land was subject to a grant deed specifying that the property shall be used for educational uses and limiting other types of uses allowed on the property.",
+    "(IV) At least 25 percent of the units are dedicated to lower income households, as defined in Section 50079.5 of the Health and Safety Code, at an affordable rent, as defined by Section 50053 of the Health and Safety Code, or an affordable housing cost, as defined by Section 50052.5 of the Health and Safety Code, and subject to a recorded deed restriction for a period of 55 years for rental units and 45 years for owner-occupied units, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(V) The land is developed at an average density of at least 10 units per acre, calculated with respect to the entire sectional planning area.",
+    "(VI) No more than 25 percent of the nonresidential square footage identified in the sectional planning area document receives its first certificate of occupancy before at least 25 percent of the residential square footage identified in the sectional planning area document has received its first certificate of occupancy.",
+    "(VII) No more than 50 percent of the nonresidential square footage identified in the sectional planning area document receives its first certificate of occupancy before at least 50 percent of the residential square footage identified in the sectional planning area document has received its first certificate of occupancy.",
+    "(VIII) No more than 75 percent of the nonresidential square footage identified in the sectional planning area document shall receive its first certificate of occupancy before at least 75 percent of the residential square footage identified in the sectional planning area document has received its first certificate of occupancy.",
+    "(ii) The local agency includes in the annual report required by paragraph (2) of subdivision (a) of Section 65400 the status of development, including the total square footage of the residential and nonresidential development, the number of residential units that have been permitted, and what percentage of those residential units are restricted for persons and families of low or moderate income, or lower income households, as defined in Section 50079.5 of the Health and Safety Code.",
+    "(iii) The Department of Housing and Community Development may request additional information from the agency regarding land disposed of pursuant to this subparagraph.",
+    "(iv) At least 30 days prior to disposing of land declared “exempt surplus land,” a local agency shall provide the Department of Housing and Community Development a written notification of its declaration and findings in a form prescribed by the Department of Housing and Community Development. Within 30 days of receipt of the written notification and findings, the department shall notify the local agency if the department has determined that the local agency is in violation of this article. A local agency that fails to submit the written notification and findings shall be liable for a civil penalty pursuant to this subparagraph. A local agency shall not be liable for the civil penalty if the Department of Housing and Community Development does not notify the agency that the agency is in violation of this article within 30 days of receiving the written notification and findings. Once the department determines that the declarations and findings comply with subclauses (I) to (IV), inclusive, of clause (i), the local agency may proceed with disposal of land pursuant to this subparagraph. This clause is declaratory of, and not a change in, existing law.",
+    "(v) If the local agency disposes of land in violation of this subparagraph, the local agency shall be liable for a civil penalty calculated as follows:",
+    "(I) For a first violation, 30 percent of the greater of the final sale price or the fair market value of the land at the time of disposition.",
+    "(II) For a second or subsequent violation, 50 percent of the greater of the final sale price or the fair market value of the land at the time of disposition.",
+    "(III) For purposes of this subparagraph, fair market value shall be determined by an independent appraisal of the land.",
+    "(IV) An action to enforce this subparagraph may be brought by any of the following:",
+    "(ia) An entity identified in subdivisions (a) to (e), inclusive, of Section 54222.",
+    "(ib) A person who would have been eligible to apply for residency in affordable housing had the agency not violated this section.",
+    "(ic) A housing organization, as that term is defined in Section 65589.5.",
+    "(id) A beneficially interested person or entity.",
+    "(ie) The Department of Housing and Community Development.",
+    "(V) A penalty assessed pursuant to this subparagraph shall, except as otherwise provided, be deposited into a local housing trust fund. The local agency may elect to instead deposit the penalty moneys into the Building Homes and Jobs Trust Fund or the Housing Rehabilitation Loan Fund. Penalties shall not be paid out of funds already dedicated to affordable housing, including, but not limited to, Low and Moderate Income Housing Asset Funds, funds dedicated to housing for very low, low-, and moderate-income households, and federal HOME Investment Partnerships Program and Community Development Block Grant Program funds. The local agency shall commit and expend the penalty moneys deposited into the local housing trust fund within five years of deposit for the sole purpose of financing newly constructed housing units that are affordable to extremely low, very low, or low-income households.",
+    "(VI) Five years after deposit of the penalty moneys into the local housing trust fund, if the funds have not been expended, the funds shall revert to the state and be deposited in the Building Homes and Jobs Trust Fund or the Housing Rehabilitation Loan Fund for the sole purpose of financing newly constructed housing units located in the same jurisdiction as the surplus land and that are affordable to extremely low, very low, or low-income households. Expenditure of any penalty moneys deposited into the Building Homes and Jobs Trust Fund or the Housing Rehabilitation Loan Fund pursuant to this subdivision shall be subject to appropriation by the Legislature.",
+    "(vi) For purposes of this subparagraph, the following definitions apply:",
+    "(I) “Sectional planning area” means an area composed of identifiable planning units, within which common services and facilities, a strong internal unity, and an integrated pattern of land use, circulation, and townscape planning are readily achievable.",
+    "(II) “Sectional planning area document” means a document or plan that sets forth, at minimum, a site utilization plan of the sectional planning area and development standards for each land use area and designation.",
+    "(vii) This subparagraph shall become inoperative on January 1, 2034.",
+    "(Q) Land that is owned by a California public-use airport on which residential uses are prohibited pursuant to Federal Aviation Administration Order 5190.6B, Airport Compliance Program, Chapter 20 -- Compatible Land Use and Airspace Protection.",
+    "(R) Land that is transferred to a community land trust, and all of the following conditions are met:",
+    "(i) The property is being or will be developed or rehabilitated as any of the following:",
+    "(I) An owner-occupied single-family dwelling.",
+    "(II) An owner-occupied unit in a multifamily dwelling.",
+    "(III) A member-occupied unit in a limited equity housing cooperative.",
+    "(IV) A rental housing development.",
+    "(ii) Improvements on the property are or will be available for use and ownership or for rent by qualified persons, as defined in paragraph (6) of subdivision (c) of Section 214.18 of the Revenue and Taxation Code.",
+    "(iii) (I) A deed restriction or other instrument, requiring a contract or contracts serving as an enforceable restriction on the sale or resale value of owner-occupied units or on the affordability of rental units is recorded on or before the lien date following the acquisition of the property by the community land trust.",
+    "(II) For the purpose of this clause, the following definitions apply:",
+    "(ia) “A contract or contracts serving as an enforceable restriction on the sale or resale value of owner-occupied units” means a contract described in paragraph (11) of subdivision (a) of Section 402.1 of the Revenue and Taxation Code.",
+    "(ib) “A contract or contracts serving as an enforceable restriction on the affordability of rental units” means an enforceable and verifiable agreement with a public agency, a recorded deed restriction, or other legal document described in subparagraph (A) of paragraph (2) of subdivision (g) of Section 214 of the Revenue and Taxation Code.",
+    "(iv) A copy of the deed restriction or other instrument shall be provided to the assessor.",
+    "(S) (i) For local agencies whose primary mission or purpose is to supply the public with a transportation system, surplus land that is developed for commercial or industrial uses or activities, including nongovernmental retail, entertainment, or office development or for the sole purpose of investment or generation of revenue, if the agency meets all of the following conditions:",
+    "(I) The agency has an adopted land use plan or policy that designates at least 50 percent of the gross acreage covered by the adopted land use plan or policy for residential purposes. The adopted land use plan or policy shall also require the development of at least 300 residential units, or at least 10 residential units per gross acre, averaged across all land covered by the land use plan or policy, whichever is greater.",
+    "(II) The agency has an adopted land use plan or policy that requires at least 25 percent of all residential units to be developed on the parcels covered by the adopted land use plan or policy made available to lower income households, as defined in Section 50079 of the Health and Safety Code, at an affordable sales price or rented at an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing and 45 years for ownership housing, unless a local ordinance or the terms of a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability. These terms shall be included in the land use plan or policy and dictate that they will be contained in a covenant or restriction recorded against the surplus land at the time of disposition that shall run with the land and be enforceable against any owner or lessee who violates the covenant or restriction and each successor in interest who continues the violation.",
+    "(III) Land disposed of for residential purposes shall issue a competitive request for proposals subject to the local agency’s open, competitive solicitation process or put out to open, competitive bid by the local agency, provided that all entities identified in subdivision (a) of Section 54222 are invited to participate.",
+    "(IV) Prior to entering into an agreement to dispose of a parcel for nonresidential development on land designated for the purposes authorized pursuant to this subparagraph in an agency’s adopted land use plan or policy, the agency, since January 1, 2020, must have entered into an agreement to dispose of a minimum of 25 percent of the land designated for affordable housing pursuant to subclause (II).",
+    "(ii) The agency may exempt at one time all parcels covered by the adopted land use plan or policy pursuant to this subparagraph.",
+    "(T) (i) Surplus land that is a former military base that was conveyed by the federal government to a local agency or local reuse authority, and that is all or any portion of the Concord Naval Weapons Station, provided that all of the following requirements are met:",
+    "(I) The former military base has an aggregate area greater than five acres, is expected to include a mix of residential and nonresidential uses, and is expected to include no fewer than 10,000 residential units upon completion of development or redevelopment of the former military base.",
+    "(II) Before disposition of the land, the local agency or local reuse authority has entered into a disposition and development agreement that stipulates that at least 25 percent of the aggregate residential units permitted to be developed will be restricted to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable housing cost or affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for a minimum of 55 years for rental housing and 45 years for owner-occupied housing.",
+    "(III) At least 30 days prior to disposing the land, the local agency or local reuse authority shall provide the Department of Housing and Community Development with a written notification of its findings that the land is exempt surplus land pursuant to this subparagraph and a copy of the disposition and development agreement to be executed.",
+    "(IV) Before disposition of the land, the recipient has negotiated a project labor agreement consistent with the term sheet for the disposition and development agreement approved by the local agency or local reuse authority on May 26, 2026, and any succeeding ordinance, resolution, or policy, regardless of the length of the project labor agreement.",
+    "(ii) Land subject to this subparagraph shall be deemed to be disposed at the time the local agency or local reuse authority approves the disposition and development agreement and not at the time of each subsequent conveyance or phased conveyance of the land undertaken pursuant to that agreement.",
+    "(iii) An action challenging the disposition of land pursuant to this subparagraph shall be brought within 180 days after the local agency or local reuse authority notifies the Department of Housing and Community Development of the local agency’s or local reuse authority’s approval of the disposition and development agreement.",
+    "(iv) The disposition of land pursuant to this subparagraph shall not be subject to challenge upon any subsequent conveyance, phased conveyance, lease, financing transaction, or implementing action undertaken pursuant to the disposition and development agreement, except to enforce the affordability requirements in subclause (II) of clause (i). For purposes of this clause, the affordability requirements described in subclause (II) of clause (i) shall apply to the project as a whole. An individual phase shall not be required to independently satisfy those requirements, provided that the project remains subject to, and ultimately satisfies, those requirements.",
+    "(v) The requirements of subclause (II) of clause (i) shall be contained in a covenant or restriction recorded against the land identified to be restricted to lower income households at the time that such land is conveyed that shall run with the land and be enforceable against any owner who violates the covenant or restriction and each successor in interest who continues the violation.",
+    "(vi) The local agency shall include in the annual report required by paragraph (2) of subdivision (a) of Section 65400 the status of development of residential units on the former military base, including the total number of residential units that have been permitted and what percentage of those residential units are restricted for persons and families of low or moderate income, or lower income households, as defined in Section 50079.5 of the Health and Safety Code.",
+    "(vii) A violation of clause (i), including, but not limited to, the affordability requirements described in subclause (II) of clause (i), is subject to the penalties described in Section 54230.5. Those penalties are in addition to any remedy a court may order for a violation of clause (i) or the disposition and development agreement. An action alleging a violation of clause (i) based an approval or other action or inaction of the local agency, local reuse authority, or recipient occurring after disposition shall not be subject to the 180-day limitation period in clause (iii).",
+    "(viii) The local agency or local reuse authority shall not amend, in a manner that would modify the affordability requirements of the subclause (II) of clause (i), a disposition and development agreement that formed the basis for the application of this subparagraph to a disposition of land by a local agency or local reuse authority.",
+    "(2) Notwithstanding paragraph (1), a written notice of the availability of surplus land for open-space purposes shall be sent to the entities described in subdivision (b) of Section 54222 before disposing of the surplus land, provided the land does not meet the criteria in subparagraph (H) of paragraph (1), if the land is any of the following:",
+    "(A) Within a coastal zone.",
+    "(B) Adjacent to a historical unit of the State Parks System.",
+    "(C) Listed on, or determined by the State Office of Historic Preservation to be eligible for, the National Register of Historic Places.",
+    "(D) Within the Lake Tahoe region as defined in Section 66905.5.",
+    "(g) “Persons and families of low or moderate income” has the same meaning as provided in Section 50093 of the Health and Safety Code."
+   ]
+  },
+  {
+   "action": "SEC. 2. Chapter 6.8 (commencing with Section 21189.60) is added to Division 13 of the Public Resources Code, to read:",
+   "paras": [
+    "§21189.60. For purposes of this chapter, the following definitions apply:",
+    "(a) “Addendum” means the Final Environmental Impact Report Addendum and Initial Study of Environmental Significance for the Concord Reuse Project Area Plan approved by the city in January 2012.",
+    "(b) “City” means the City of Concord.",
+    "(c) “CNWS” means the Concord Naval Weapons Station.",
+    "(d) “Concord Community Reuse Project” means the Concord Community Reuse Project, approved by the city on February 23, 2010, that established the planning process for civilian use of the former CNWS.",
+    "(e) “CRP area plan” means the area plan for the Concord Community Reuse Project reviewed in the addendum and adopted and incorporated into the city’s 2030 general plan in 2012, that covers the inland portion of the former CNWS, the North Concord/Martinez Bay Area Rapid Transit Station, and the Diablo Creek Golf Course.",
+    "(f) “CRP area plan diagram” means figure 3-3 of the CRP area plan.",
+    "(g) “CRP area plan maximum planning area-wide total” means the total aggregate development in the plan area of approximately 12,272 housing units and 6,115,718 square feet of commercial floor space as set forth in the CRP area plan.",
+    "(h) “CRP FEIR” means the Final Environmental Impact Report for the Concord Community Reuse Project Plan (SCH No. 2007052094) certified by the city in February 2010.",
+    "(i) “Land use types” means the land uses listed in CRP area plan Table 3-4, District Standards, in the rows titled “Mix of Uses”, without regard to the labels “Required Use” and “Mix of Appropriate Uses.”",
+    "(j) “Plan area” means the approximately 5,000-acre inland portion of the CNWS included within the boundaries of the CRP area plan.",
+    "§21189.61. (a) The CRP FEIR and addendum shall be conclusively presumed to satisfy the requirements of this division for any project within the plan area that meets the following requirements:",
+    "(1) The project has land use types that are consistent with CRP area plan land use types and locations for those land use types that are consistent with the CRP area plan land use diagram.",
+    "(2) The project does not cause the aggregate development in the plan area to exceed the CRP area plan maximum planning area-wide total.",
+    "(b) A project that contains land use types that are consistent with the CRP area plan land use types in locations that are not consistent with the CRP area plan diagram shall be subject to review pursuant to this division, provided that:",
+    "(1) The conclusive presumption of subdivision (a) shall continue to apply to components of the project and environmental impacts that are unaffected by the changed location of land use types.",
+    "(2) Any review shall be limited to review of the location of land use types that are not consistent with the CRP area plan diagram.",
+    "(3) If review is undertaken pursuant to Section 21166, notwithstanding subdivisions (b) and (c) of Section 21166, any required review shall not be required to include analysis of changed circumstances or new information.",
+    "§21189.62. (a) In any action or proceeding challenging the application of subdivision (a) or (b) of Section 21189.61 to any project within the plan area or any required environmental review for any project within the plan area, the following shall apply:",
+    "(1) The project applicant shall pay any additional costs incurred by the courts in hearing and deciding any case subject to this section, including payment of the costs for the appointment of a special master if deemed appropriate by the court, in a form and manner provided in the California Rules of Court adopted by the Judicial Council.",
+    "(2) The project applicant shall pay the costs of preparing the record of proceedings for the project concurrent with the review and consideration of the project pursuant to this division, in a form and manner specified by the lead agency for the project.",
+    "(3) Within five calendar days after the filing of the notice required by subdivision (a) or (b) of Section 21152, the lead agency shall certify the record of proceedings for the approval or determination and shall provide an electronic copy of the record of proceedings to a party that has submitted a written request for a copy. The lead agency may charge and collect a reasonable fee for the electronic copy from a party requesting a copy of the record of proceedings, which shall not exceed the reasonable costs of producing the copy.",
+    "(4) Within 10 calendar days after being served with a complaint or a petition for a writ of mandate, the lead agency shall lodge a copy of the certified record of proceedings with the superior court.",
+    "(5) Any dispute over the content of the record of proceedings shall be resolved by the superior court. Unless the superior court directs otherwise, a party disputing the content of the record of proceedings shall file a motion to augment the record of proceedings at the time it files its initial brief.",
+    "(6) The contents of the record of proceedings shall be as set forth in subdivision (e) of Section 21167.6.",
+    "(b) On or before July 1, 2027, the Judicial Council shall adopt rules of court that require any action or proceeding brought to attack, review, set aside, void, or annul the approval of any project within the plan area or any environmental impact review for any project within the plan area pursuant to subdivision (a) or (b) of Section 21189.61, including any potential appeals to the court of appeal or the California Supreme Court to be resolved to the extent feasible within 270 calendar days of the filing of the certified record of proceedings with the court.",
+    "§21189.63. The provisions of this chapter are severable. If any provision of this chapter or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+   ]
+  },
+  {
+   "action": "SEC. 3. The Legislature finds and declares that a special statute is necessary and that a general statute cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique circumstances concerning the City of Concord.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 4. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 5. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the California Constitution and shall go into immediate effect. The facts constituting the necessity are: In order for critical developments in the City of Concord to move forward, it is necessary for this act to take effect immediately.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "785",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law requires a local agency to declare land either “surplus land” or “exempt surplus land,” as supported by written findings, before the local agency may take any action to dispose of it consistent with an agency’s policies or procedures and defines terms for these purposes. Existing law generally requires a local agency, before disposing or negotiating to dispose of surplus land, to provide a written notice of the availability of the surplus land to specified entities and housing sponsors. Existing law provides that an agency is not required to follow the requirements for the disposal of surplus land for “exempt surplus land.” Existing law defines “exempt surplus land” to include certain types of land, including, surplus land totaling 10 or more acres, consisting of either a single parcel, or 2 or more adjacent or nonadjacent parcels combined for disposition to one or more buyers pursuant to a plan or ordinance adopted by the legislative body of the local agency, or a state statute and certain surplus land that is a former military base, known as the Alameda Naval Air Station, if specified conditions are met.",
+  "Existing law, the Planning and Zoning Law, requires each county and each city to adopt a comprehensive, long-term general plan for the physical development of the county or city, and specified land outside its boundaries, that includes, among other specified mandatory elements, a housing element. That law requires the planning agency of a city or county to provide by April 1 of each year an annual report to, among other entities, the Office of Land Use and Climate Innovation.",
+  "This bill would revise the definition of “exempt surplus land” to remove the reference to buyers and instead mean 2 or more adjacent or nonadjacent parcels combined for disposition to one or more persons or entities, as specified. The bill would also exempt surplus land that is a former military base that was conveyed by the federal government to a local agency or a local reuse authority, and that is all or any portion of the Concord Naval Weapons Station, if certain requirements are met, including that the former military base has an aggregate area greater than 5 acres and that before disposition of the land, the local agency or local reuse authority has entered into a disposition and development agreement that stipulates that at least 25% of the aggregate residential units permitted to be developed will be restricted to lower income households with an affordable housing cost or affordable rent for a minimum of 55 years for rental housing and 45 years for owner-occupied housing, as specified. The bill would regulate actions challenging the disposition and would prescribe penalties for violations of these provisions. The bill would also regulate the actions of the local agency or local reuse authority, including, among other things, requiring the local agency or local reuse authority to include in the annual report the status of development of residential units on the former military base, as specified.",
+  "(2) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would provide that specified environmental review documents satisfy the requirements of CEQA for any project within the portion of the Concord Naval Weapons Station included within the boundaries of the area plan for the Concord Community Reuse Project, as provided, that has land use types that are consistent with the area plan land use types and locations for those land use types that are consistent with the area plan diagram and the project does not cause the aggregate development in the area plan to exceed the area plan maximum planning areawide total, as specified. The bill would further provide that a project that contains land use types that are consistent with the area plan land use types in locations that are not consistent with the area plan diagram would be subject to review pursuant to CEQA, and would be limited to review of the location of land use types that are not consistent with the area plan diagram, as provided.",
+  "In any action or proceeding challenging a project described above, the bill would require a project applicant to pay any additional costs incurred by the courts in hearing cases relating to the challenge of the project and would require a lead agency to lodge a copy of the certified record of proceedings with the superior court within 10 calendar days after being served with a complaint or a petition for a writ of mandate. Because the bill imposes new duties on local agencies, the bill would impose a state-mandated local program. The bill would require the Judicial Council, on or before July 1, 2027, to adopt rules of court that require any action or proceeding brought to attack, review, set aside, void, or annul the approval of any project within the plan area or any environmental impact review for any project within the plan area, including any potential appeals to the court of appeal or the California Supreme Court, to be resolved to the extent feasible within 270 calendar days of the filing of the certified record of proceedings with the court.",
+  "The bill would make these provisions severable.",
+  "(3) This bill would make legislative findings and declarations as to the necessity of a special statute for the City of Concord.",
+  "(4) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason.",
+  "(5) This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "d1dffb73fcef1de6",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2025-02-11"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 14.",
+   "chamber": "S",
+   "date": "2025-02-12"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Re-referred to Coms. on E.Q. and REV. & TAX.",
+   "chamber": "S",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "Set for hearing April 2.",
+   "chamber": "S",
+   "date": "2025-03-27"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on REV. & TAX. (Ayes 8. Noes 0. Page 634.) (April 2).",
+   "chamber": "S",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on REV. & TAX.",
+   "chamber": "S",
+   "date": "2025-04-07"
+  },
+  {
+   "action": "Set for hearing April 23.",
+   "chamber": "S",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on REV. & TAX.",
+   "chamber": "S",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 0. Page 872.) (April 23).",
+   "chamber": "S",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2025-04-29"
+  },
+  {
+   "action": "Set for hearing May 12.",
+   "chamber": "S",
+   "date": "2025-05-02"
+  },
+  {
+   "action": "May 12 hearing: Placed on APPR. suspense file.",
+   "chamber": "S",
+   "date": "2025-05-12"
+  },
+  {
+   "action": "Set for hearing May 23.",
+   "chamber": "S",
+   "date": "2025-05-16"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 5. Noes 0. Page 1196.) (May 23).",
+   "chamber": "S",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "chamber": "S",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 38. Noes 0. Page 1337.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2025-05-29"
+  },
+  {
+   "action": "Referred to Coms. on E.S & T.M. and REV. & TAX.",
+   "chamber": "A",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on E.S & T.M.",
+   "chamber": "A",
+   "date": "2025-06-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on REV. & TAX. (Ayes 7. Noes 0.) (July 1). Re-referred to Com. on REV. & TAX.",
+   "chamber": "A",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "July 14 set for first hearing. Placed on REV. & TAX. suspense file.",
+   "chamber": "A",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (July 14). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2025-07-15"
+  },
+  {
+   "action": "August 20 set for first hearing. Placed on APPR. suspense file.",
+   "chamber": "A",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "August 29 hearing postponed by committee.",
+   "chamber": "A",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
+   "chamber": "A",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "From committee: Do pass as amended. (Ayes 11. Noes 0.) (August 13).",
+   "chamber": "A",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time and amended. Ordered to second reading.",
+   "chamber": "A",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-17"
+  },
+  {
+   "action": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
+   "chamber": "A",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time and amended.",
+   "chamber": "A",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV. pursuant to Assembly Rule 77.2.",
+   "chamber": "A",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Joint Rule 62(a) suspended.",
+   "chamber": "A",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "Action rescinded whereby bill re-referred to Com. on L. GOV. on August 24.",
+   "chamber": "A",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Re-referred to Coms. on L. GOV. and NAT. RES. pursuant to Assembly Rule 77.2.",
+   "chamber": "A",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Joint Rule 62(a) suspended.",
+   "chamber": "A",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Assembly Rule 56 suspended.",
+   "chamber": "A",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "chamber": "A",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on NAT. RES. (Ayes 8. Noes 0.) (August 27). Re-referred to Com. on NAT. RES.",
+   "chamber": "A",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (August 27).",
+   "chamber": "A",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-28"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 74. Noes 0. Page 6859.) Ordered to the Senate.",
+   "chamber": "A",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "chamber": "S",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Urgency clause adopted.",
+   "chamber": "S",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+   "chamber": "S",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "chamber": "",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 785, Statutes of 2026.",
+   "chamber": "",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250SB32888CHP",
+  "num": "88"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Chapter 6.8 (commencing with Section 21189.60) is added to Division 13 of the Public Resources Code, to read:",
+   "code": "PRC",
+   "paras": [
+    "For purposes of this chapter, the following definitions apply:",
+    "(a) “Addendum” means the Final Environmental Impact Report Addendum and Initial Study of Environmental Significance for the Concord Reuse Project Area Plan approved by the city in January 2012.",
+    "(b) “City” means the City of Concord.",
+    "(c) “CNWS” means the Concord Naval Weapons Station.",
+    "(d) “Concord Community Reuse Project” means the Concord Community Reuse Project, approved by the city on February 23, 2010, that established the planning process for civilian use of the former CNWS.",
+    "(e) “CRP area plan” means the area plan for the Concord Community Reuse Project reviewed in the addendum and adopted and incorporated into the city’s 2030 general plan in 2012, that covers the inland portion of the former CNWS, the North Concord/Martinez Bay Area Rapid Transit Station, and the Diablo Creek Golf Course.",
+    "(f) “CRP area plan diagram” means figure 3-3 of the CRP area plan.",
+    "(g) “CRP area plan maximum planning area-wide total” means the total aggregate development in the plan area of approximately 12,272 housing units and 6,115,718 square feet of commercial floor space as set forth in the CRP area plan.",
+    "(h) “CRP FEIR” means the Final Environmental Impact Report for the Concord Community Reuse Project Plan (SCH No. 2007052094) certified by the city in February 2010.",
+    "(i) “Land use types” means the land uses listed in CRP area plan Table 3-4, District Standards, in the rows titled “Mix of Uses”, without regard to the labels “Required Use” and “Mix of Appropriate Uses.”",
+    "(j) “Plan area” means the approximately 5,000-acre inland portion of the CNWS included within the boundaries of the CRP area plan."
+   ],
+   "sec": "21189.60",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "California Environmental Quality Act: exempt surplus land.",
+ "title": "An act to amend Section 54221 of the Government Code, and to add Chapter 6.8 (commencing with Section 21189.60) to Division 13 of the Public Resources Code, relating to land use, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-11",
+   "id": "20250SB32899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-17",
+   "id": "20250SB32898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-07",
+   "id": "20250SB32897AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-21",
+   "id": "20250SB32896AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-29",
+   "id": "20250SB32895AMD",
+   "num": "95"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-05-23",
+   "id": "20250SB32894AMD",
+   "num": "94"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-25",
+   "id": "20250SB32893AMD",
+   "num": "93"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-13",
+   "id": "20250SB32892AMD",
+   "num": "92"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-21",
+   "id": "20250SB32891AMD",
+   "num": "91"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-26",
+   "id": "20250SB32890AMD",
+   "num": "90"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-01",
+   "id": "20250SB32889ENR",
+   "num": "89"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250SB32888CHP",
+   "num": "88"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2025-04-02",
+   "location": "Sen Environmental Quality",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Revenue and Taxation]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 8
+  },
+  {
+   "chamber": "S",
+   "date": "2025-04-23",
+   "location": "Sen Revenue and Taxation",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 5
+  },
+  {
+   "chamber": "S",
+   "date": "2025-05-12",
+   "location": "Sen Appropriations",
+   "motion": "Placed on suspense file",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2025-05-23",
+   "location": "Sen Appropriations",
+   "motion": "Do pass as amended",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 5
+  },
+  {
+   "chamber": "S",
+   "date": "2025-05-29",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB328 Grayson",
+   "no": 0,
+   "nv": 2,
+   "result": "pass",
+   "seq": "1726",
+   "yes": 38
+  },
+  {
+   "chamber": "A",
+   "date": "2025-07-01",
+   "location": "Asm Environmental Safety and Toxic Materials",
+   "motion": "Do pass and be re-referred to the Committee on [Revenue and Taxation]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "A",
+   "date": "2025-07-14",
+   "location": "Asm Revenue and Taxation",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-13",
+   "location": "Asm Appropriations",
+   "motion": "Do pass as amended.",
+   "no": 0,
+   "nv": 4,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-27",
+   "location": "Asm Local Government",
+   "motion": "Do pass and be re-referred to the Committee on [Natural Resources]",
+   "no": 0,
+   "nv": 2,
+   "result": "pass",
+   "seq": "1",
+   "yes": 8
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-27",
+   "location": "Asm Natural Resources",
+   "motion": "Do pass.",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 14
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-30",
+   "location": "Assembly Floor",
+   "motion": "SB 328 Grayson Third Reading Urgency By Ávila Farías",
+   "no": 0,
+   "nv": 5,
+   "result": "pass",
+   "seq": "1025",
+   "yes": 74
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-30",
+   "location": "Senate Floor",
+   "motion": "Unfinished Business SB328 Grayson et al. Urgency Clause Concurrence",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1107",
+   "yes": 40
+  }
+ ]
+}

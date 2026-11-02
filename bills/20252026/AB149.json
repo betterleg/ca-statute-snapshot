@@ -1,0 +1,667 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Committee on Budget",
+   "primary": true,
+   "type": "Committee"
+  }
+ ],
+ "bill": "AB149",
+ "bill_id": "202520260AB149",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. It is the intent of the Legislature to enact subsequent legislation to provide structural balance to the Harbors and Watercraft Revolving Fund, established pursuant to Section 85 of the Harbors and Navigation Code. This may include an adjustment to the invasive mussel prevention fee to fully fund the Department of Fish and Wildlife and Department of Parks and Recreation’s costs to address invasive mussel species.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Section 2301 of the Fish and Game Code is amended to read:",
+   "paras": [
+    "§2301. (a) (1) Except as authorized by the department, a person shall not possess, import, ship, or transport in the state, or place, plant, or cause to be placed or planted in any water within the state, invasive mussels.",
+    "(2) The director or the director’s designee may do all of the following:",
+    "(A) Conduct inspections of conveyances, which include vehicles, boats and other watercraft, containers, and trailers, that may carry or contain adult or larval invasive mussels. Included as part of this authority to conduct inspections is the authority to temporarily stop conveyances that may carry or contain adult or larval invasive mussels on any roadway or waterway in order to conduct inspections.",
+    "(B) Order that areas in a conveyance that contain water be drained, dried, or decontaminated pursuant to procedures approved by the department.",
+    "(C) Impound or quarantine conveyances in locations designated by the department for the period of time necessary to ensure that invasive mussels can no longer live on or in the conveyance.",
+    "(D) (i) Conduct inspections of waters of the state and facilities located within waters of the state that may contain invasive mussels. If invasive mussels are detected or may be present, the director or the director’s designee may order the affected waters or facilities closed to conveyances or otherwise restrict access to the affected waters or facilities, and shall order that conveyances removed from, or introduced to, the affected waters or facilities be inspected, quarantined, or disinfected in a manner and for a duration necessary to detect and prevent the spread of invasive mussels within the state.",
+    "(ii) For the purpose of implementing clause (i), the director or the director’s designee shall order the closure or quarantine of, or restrict access to, these waters, areas, or facilities in a manner and duration necessary to detect and prevent the spread of invasive mussels within the state. A closure, quarantine, or restriction shall not be authorized by the director or the director’s designee without the concurrence of the Secretary of the Natural Resources Agency. If a closure lasts longer than seven days, the department shall update the operator of the affected facility every 10 days on efforts to address the invasive mussel infestation. The department shall provide these updates in writing and also post these updates on the department’s internet website in an easily accessible manner.",
+    "(iii) The department shall develop procedures to ensure proper notification of affected local and federal agencies, and, as appropriate, the Department of Water Resources, the Department of Parks and Recreation, and the State Lands Commission in the event of a decision to close, quarantine, or restrict a facility pursuant to this paragraph. These procedures shall include the reasons for the closure, quarantine, or restriction, and methods for providing updated information to those affected. These procedures shall also include protocols for the posting of the notifications on the department’s internet website required by clause (ii).",
+    "(iv) When deciding the scope, duration, level, and type of restrictions, and specific location of a closure or quarantine, the director shall consult with the agency, entity, owner, or operator with jurisdiction, control, or management responsibility over the marina, boat launch facility, or other facility, in order to focus the closure or quarantine to specific areas and facilities so as to avoid or minimize disruption of economic or recreational activity in the vicinity.",
+    "(b) (1) Upon a determination by the director that it would further the purposes of this section, other parties or state agencies, including, but not limited to, the Department of Parks and Recreation, the Department of Water Resources, the Department of Food and Agriculture, and the State Lands Commission, may exercise the authority, or portions of that authority, granted to the department in subdivision (a).",
+    "(2) A determination made pursuant to paragraph (1) shall be in writing and shall remain in effect until withdrawn, in writing, by the director.",
+    "(c) (1) Except as provided in paragraph (2), Division 13 (commencing with Section 21000) of the Public Resources Code does not apply to the implementation of this section.",
+    "(2) An action undertaken pursuant to subparagraph (B) of paragraph (2) of subdivision (a) involving the use of chemicals other than salt or hot water to decontaminate a conveyance or a facility is subject to Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(d) (1) A public or private agency that operates a water supply system shall cooperate with the department to implement measures to avoid infestation by invasive mussels and to control or eradicate any infestation that may occur in a water supply system. If invasive mussels are detected, the operator of the water supply system, in cooperation with the department, shall prepare and implement a plan to control or eradicate invasive mussels within the system, and eliminate or minimize any potential downstream transport of an invasive mussel. The approved plan shall contain the following minimum elements:",
+    "(A) Methods for delineation of infestation, including both adult mussels and veligers.",
+    "(B) Methods for control or eradication of adult mussels and decontamination of water containing larval mussels.",
+    "(C) A systematic monitoring program to determine any changes in conditions.",
+    "(D) The requirement that the operator of the water supply system permit inspections by the department as well as cooperate with the department to update or revise control or eradication measures in the approved plan to address scientific advances in the methods of controlling or eradicating mussels and veligers.",
+    "(2) If the operator of water delivery and storage facilities for public water supply purposes has prepared, initiated, and is in compliance with all the elements of an approved plan to control or eradicate invasive mussels in accordance with paragraph (1), the requirements of subdivision (a) do not apply to the operation of those water delivery and storage facilities, and the operator is not subject to any civil or criminal liability for the introduction of invasive mussel species as a result of those operations. The department may require the operator of a facility to update its plan, and if the plan is not updated or revised as described in this subdivision, subdivision (a) shall apply to the operation of the water delivery and storage facilities covered by the plan until the operator updates or revises the plan and initiates and complies with all of the elements of the updated or revised plan.",
+    "(3) On or before December 31, 2026, the department shall review all approved plans pursuant to this subdivision and require all plans that do not specifically address all invasive mussel species known to be present in bodies of water in the state as of January 1, 2026, to be updated or revised appropriately to include all invasive mussel species, on or before September 30, 2027.",
+    "(4) Every invasive mussel species shall be addressed in a plan pursuant to this subdivision no later than 180 days from the date that the species is listed in a regulation as described in Section 2303. The department shall approve plans or provide written comments and suggestions on plan deficiencies within 180 days from the date of plan submission.",
+    "(e) Any entity that discovers invasive mussels within this state shall immediately report the discovery to the department.",
+    "(f) (1) In addition to any other penalty provided by law, any person who violates this section, violates any verbal or written order or regulation adopted pursuant to this section, or who resists, delays, obstructs, or interferes with the implementation of this section, is subject to a penalty, in an amount not to exceed one thousand dollars ($1,000), that is imposed administratively by the department.",
+    "(2) A penalty shall not be imposed pursuant to paragraph (1) unless the department has adopted regulations specifying the amount of the penalty and the procedure for imposing and appealing the penalty.",
+    "(g) The department may adopt regulations to carry out this section.",
+    "(h) Pursuant to Section 818.4 of the Government Code, the department and any other state agency exercising authority under this section shall not be liable with regard to any determination or authorization made pursuant to this section.",
+    "(i) This section shall remain in effect only until January 1, 2030, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2030, deletes or extends that date."
+   ]
+  },
+  {
+   "action": "SEC. 3. Section 2302 of the Fish and Game Code is amended to read:",
+   "paras": [
+    "§2302. (a) Any person, or federal, state, or local agency, district, or authority that owns or manages a reservoir, as defined in Section 6004.5 of the Water Code, where recreational, boating, or fishing activities are permitted, except a privately owned reservoir that is not open to the public, shall do both of the following:",
+    "(1) Assess the vulnerability of the reservoir for the introduction of invasive mussel species.",
+    "(2) Develop and implement a program designed to prevent the introduction of invasive mussel species.",
+    "(b) The program shall include, at a minimum, all of the following:",
+    "(1) Public education.",
+    "(2) Monitoring.",
+    "(3) Management of those recreational, boating, or fishing activities that are permitted.",
+    "(c) Any person, or federal, state, or local agency, district, or authority, that owns or manages a reservoir, as defined in Section 6004.5 of the Water Code, where recreational, boating, or fishing activities of any kind are not permitted, except a privately owned reservoir that is not open to the public, shall, based on its available resources and staffing, include visual monitoring for the presence of mussels as part of its routine field activities.",
+    "(d) Any entity that owns or manages a reservoir, as defined in Section 6004.5 of the Water Code, except a privately owned reservoir that is not open to the public for recreational, boating, or fishing activities, may refuse the planting of fish in that reservoir by the department unless the department can demonstrate that the fish planting does not present a risk of introducing invasive mussels.",
+    "(e) Except as specifically set forth in this section, this section applies both to reservoirs that are owned or managed by governmental entities and reservoirs that are owned or managed by private persons or entities.",
+    "(f) Violation of this section is not subject to the sanctions set forth in Section 12000. In lieu of any other penalty provided by law, a person who violates this section shall, instead, be subject to a civil penalty, in an amount not to exceed one thousand dollars ($1,000) per violation, that is imposed administratively by the department. To the extent that sufficient funds and personnel are available to do so, the department may adopt regulations establishing procedures to implement this subdivision and enforce this section.",
+    "(g) This section shall not apply to a reservoir in which invasive mussels have been detected."
+   ]
+  },
+  {
+   "action": "SEC. 4. Section 2303 is added to the Fish and Game Code, immediately following Section 2302, to read:",
+   "paras": [
+    "§2303. For purposes of this chapter, “invasive mussel” means any nonnative detrimental mussel species that is capable of spreading in freshwater and is listed in a regulation adopted by the commission pursuant to Section 2118."
+   ]
+  },
+  {
+   "action": "SEC. 5. Section 515 is added to the Food and Agricultural Code, immediately following Section 514, to read:",
+   "paras": [
+    "§515. (a) The department, in consultation with the Black, Indigenous, and People of Color (BIPOC) Producer Advisory Committee and the Small-Scale Producer Advisory Committee, shall establish the Regional Farmer Equipment and Cooperative Resources Assistance Pilot Program to provide financial and technical assistance to support regional farm equipment sharing and enhance cooperative benefits for socially disadvantaged farmers and ranchers and limited resource farmers and ranchers, with preference provided under the program in accordance with subdivision (d) of Section 93540 of the Public Resources Code.",
+    "(b) Activities that are eligible for funding through the program shall include, but are not limited to, all of the following:",
+    "(1) Developing and expanding equipment sharing programs for the purchase and repair of tools, equipment, and infrastructure, and that pay all or a portion of associated administrative costs, to do both of the following:",
+    "(A) Support environmentally sustainable farming practices, including, but not limited to, practices that promote soil health, water conservation, wildlife and their habitat, and wildfire resilience.",
+    "(B) Enhance regional food and fiber systems for socially disadvantaged farmers and ranchers and limited resource farmers and ranchers.",
+    "(2) Providing technical assistance and support, including, but not limited to, any of the following:",
+    "(A) Training on the use and maintenance of tools, equipment, and infrastructure.",
+    "(B) Outreach to ensure direct and meaningful benefits to socially disadvantaged farmers or ranchers and limited resource farmers or ranchers.",
+    "(C) Small farm tool demonstrations.",
+    "(3) (A) Providing a direct grant to an entity that will assist in cooperative development for farmers.",
+    "(B) The entity described in subparagraph (A) shall have relevant cooperative development expertise and shall benefit socially disadvantaged farmers or ranchers and limited resource farmers or ranchers. For purposes of this subdivision, “relevant cooperative development expertise” means the entity shall have a demonstrated record of experience in the planning, formation, and support of agricultural or rural cooperatives.",
+    "(c) Entities eligible for financial assistance under the program shall include, but not be limited to, resource conservation districts, the University of California Cooperative Extension, tribes as defined in Section 90100 of the Public Resources Code, farmer cooperatives, and nonprofit organizations.",
+    "(d) An application for financial assistance pursuant to paragraph (1) of subdivision (b) shall include, but not be limited to, all of the following information:",
+    "(1) A description of how the applicant will operate an equipment sharing program.",
+    "(2) A list and description of the tools, equipment, and infrastructure the applicant will purchase.",
+    "(3) A description of the equipment sharing program, including safeguards for the long-term benefits of any tools, equipment, or infrastructure purchased, expected benefits of the equipment sharing program, and the types of farmers or ranchers the applicant aims to serve, including specific outreach that will be provided to socially disadvantaged farmers or ranchers and limited resource farmers or ranchers.",
+    "(4) A description of how the equipment sharing program will be maintained after the period of the financial assistance expires.",
+    "(e) The Farm Equity Advisor at the department shall ensure that the program meets the objectives of this article.",
+    "(f) (1) For purposes of this section, all of the following definitions apply:",
+    "(A) “Limited resource farmer or rancher” has the same definition as in Section 760.107 of Title 7 of the Code of Federal Regulations, as that section read on June 17, 2025.",
+    "(B) “Program” means the Regional Farmer Equipment and Cooperative Resources Assistance Pilot Program.",
+    "(2) For purposes of this section, “financial assistance” does not include a loan.",
+    "(g) Subdivisions (a) to (f), inclusive, shall become operative upon the Legislature making an appropriation for purposes of the program.",
+    "(h) This section shall remain in effect only until January 1, 2030, and as of that date is repealed."
+   ]
+  },
+  {
+   "action": "SEC. 6. The heading of Article 1.3 (commencing with Section 675) of Chapter 5 of Division 3 of the Harbors and Navigation Code is amended to read:",
+   "paras": [
+    "1.3. Invasive Mussel Infestation Prevention Fee"
+   ]
+  },
+  {
+   "action": "SEC. 7. Section 675 of the Harbors and Navigation Code is amended to read:",
+   "paras": [
+    "§675. (a) (1) In addition to the fees imposed pursuant to paragraphs (1) and (2) of subdivision (b) of Section 9853 or Section 9860 of the Vehicle Code, there shall be a separate invasive mussel infestation prevention fee in an amount to be determined by the department as follows:",
+    "(A) If the invasive mussel infestation prevention fee is due between January 1 and December 31 of any even-numbered year, the fee shall not be more than ten dollars ($10).",
+    "(B) If the invasive mussel infestation prevention fee is due between January 1 and December 31 of any odd-numbered year, the fee shall not be more than twenty dollars ($20).",
+    "(2) (A) Notwithstanding paragraph (1), for invasive mussel prevention fees that are due for the 2026 calendar year, and every subsequent year thereafter, the following shall apply:",
+    "(i) If the invasive mussel infestation prevention fee is due between January 1 and December 31 of any even-numbered year, the fee shall not be less than fifteen dollars ($15) and not more than twenty-one dollars ($21).",
+    "(ii) If the invasive mussel infestation prevention fee is due between January 1 and December 31 of any odd-numbered year, the fee shall not be less than thirty dollars ($30) and not more than forty-two dollars ($42).",
+    "(B) The amounts in clauses (i) and (ii) shall be adjusted for inflation every odd-numbered year using the California Consumer Price Index to the nearest whole dollar value.",
+    "(b) In determining the amount of the fee imposed pursuant to subdivision (a), the department shall establish, and consult with, a technical advisory group consisting of interested persons, including, but not limited to, recreational boating and reservoir operation representatives. The members of the advisory group shall be appointed by the director.",
+    "(c) The department shall adopt emergency regulations to prescribe procedures for the collection and use of the invasive mussel infestation prevention fee for the purposes of this article. The emergency regulations shall include rules for administering the grants awarded pursuant to Section 676.",
+    "(d) All revenues collected from the fee established pursuant to this section shall be deposited into the Harbors and Watercraft Revolving Fund, and, upon appropriation by the Legislature, shall be expended solely for the purposes set forth in Section 676.",
+    "(e) The fee established pursuant to this section shall not apply to vessels that are used exclusively in marine waters.",
+    "(1) Upon payment of the fee established pursuant to this section, the Department of Motor Vehicles shall issue an invasive mussel infestation prevention sticker.",
+    "(2) Failure to pay the fee established pursuant to this section does not prohibit the Department of Motor Vehicles from issuing registration of a vessel.",
+    "(3) (A) A vessel operator may be issued a citation for operating a recreational vessel in nonmarine waters without a valid state-issued invasive mussel infestation prevention sticker.",
+    "(B) Notwithstanding subparagraph (A), a vessel that is exempt pursuant to Section 5211 of Title 14 of the California Code of Regulations shall not be cited pursuant to subparagraph (A)."
+   ]
+  },
+  {
+   "action": "SEC. 8. Section 676 of the Harbors and Navigation Code is amended to read:",
+   "paras": [
+    "§676. (a) All moneys deposited in the Harbors and Watercraft Revolving Fund pursuant to Section 675 shall be available, upon appropriation by the Legislature, for the following purposes:",
+    "(1) For reasonable costs incurred by the department associated with determining the prevention fee and adoption of regulations pursuant to Section 675, and with administering the grants pursuant to subdivision (b).",
+    "(2) (A) For reasonable costs, not to exceed 15 percent of the remaining revenues deposited into the fund, of the Department of Fish and Wildlife for implementation of subparagraph (A) or (C) of paragraph (2) of, or paragraph (1) of, subdivision (a) of Section 2301 or Section 2302 of the Fish and Game Code in those areas of the state where an invasive mussel infestation prevention plan has not been implemented.",
+    "(B) The amount specified in subparagraph (A) is in addition to moneys available pursuant to subdivision (d) of Section 85.2.",
+    "(3) An amount not less than 85 percent of the remaining revenues deposited into the fund shall be made available for grants to entities subject to subdivision (a) of Section 2302 of the Fish and Game Code for the reasonable regulatory costs incident to the implementation of an invasive mussel infestation prevention plan implemented either before or after January 1, 2013, that is consistent with the requirements of Section 2302 of the Fish and Game Code.",
+    "(b) For the purposes of awarding grants pursuant to paragraph (3) of subdivision (a), the department shall do all of the following:",
+    "(1) Give priority to invasive mussel infestation prevention plans that are consistent with Section 2302 of the Fish and Game Code and that also include visual and manual inspection standards and other infestation prevention procedures consistent with either the Department of Fish and Wildlife’s Invasive Mussel Guidebook for Recreational Water Managers and Users, dated September 2010, or the Natural Resource Agency’s Aquatic Invasive Species Management Plan, dated January 2008, or subsequently adopted guidebooks and management plans.",
+    "(2) Take into consideration the benefits of regional-scale invasive mussel infestation prevention plans.",
+    "(3) Take into consideration the unique economic, ecological, and recreational impacts to rural and urban reservoirs from invasive mussel infestation.",
+    "(c) For purposes of this article, reasonable regulatory costs include costs associated with the investigation and inspection of a conveyance for the presence of invasive mussels before contact with a reservoir, as defined in Section 6004.5 of the Water Code. None of the revenues collected pursuant to subdivision (a) of Section 675 shall be used for any purpose other than those explicitly authorized by this section.",
+    "(d) For the purposes of this section, conveyances include boats and other watercraft, and associated vehicles, containers, and trailers that may carry or contain adult or larval invasive mussels.",
+    "(e) As a condition of receiving grant funding pursuant to this section, an entity shall report to the department data, as deemed appropriate by the department, regarding invasive mussel prevention and inspection programs implemented with the funding."
+   ]
+  },
+  {
+   "action": "SEC. 9. Section 676.1 of the Harbors and Navigation Code is amended to read:",
+   "paras": [
+    "§676.1. Any person or entity that manages any aspect of the water in a reservoir, as defined in Section 6004.5 of the Water Code, where recreational, boating, or fishing activities are permitted, shall be eligible to receive a grant under paragraph (3) of subdivision (a) of Section 676 for the reasonable regulatory costs incident to the implementation of an invasive mussel infestation prevention plan as described in Section 676."
+   ]
+  },
+  {
+   "action": "SEC. 10. Section 677.5 is added to the Harbors and Navigation Code, immediately following Section 677, to read:",
+   "paras": [
+    "§677.5. For purposes of this article, “invasive mussel” has the same meaning as Section 2303 of the Fish and Game Code."
+   ]
+  },
+  {
+   "action": "SEC. 11. Section 4114.1 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§4114.1. (a) Subject to an appropriation of funds for this purpose, the department shall begin to employ sufficient permanent firefighting personnel to increase the base period staffing levels.",
+    "(b) The department shall maintain the ability to hire seasonal, temporary firefighters as needed to allow for surge hiring capacity for confronting emergency fire conditions or other personnel shortages as determined by the director."
+   ]
+  },
+  {
+   "action": "SEC. 12. Section 21080 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§21080. (a) Except as otherwise provided in this division, this division shall apply to discretionary projects proposed to be carried out or approved by public agencies, including, but not limited to, the enactment and amendment of zoning ordinances, the issuance of zoning variances, the issuance of conditional use permits, and the approval of tentative subdivision maps unless the project is exempt from this division.",
+    "(b) This division does not apply to any of the following activities:",
+    "(1) Ministerial projects proposed to be carried out or approved by public agencies.",
+    "(2) Emergency repairs to public service facilities necessary to maintain service.",
+    "(3) Projects undertaken, carried out, or approved by a public agency to maintain, repair, restore, demolish, or replace property or facilities damaged or destroyed as a result of a disaster in a disaster-stricken area in which a state of emergency has been proclaimed by the Governor pursuant to Chapter 7 (commencing with Section 8550) of Division 1 of Title 2 of the Government Code.",
+    "(4) Specific actions necessary to prevent or mitigate an emergency.",
+    "(5) Projects that a public agency rejects or disapproves.",
+    "(6) Actions undertaken by a public agency relating to any thermal powerplant site or facility, including the expenditure, obligation, or encumbrance of funds by a public agency for planning, engineering, or design purposes, or for the conditional sale or purchase of equipment, fuel, water (except groundwater), steam, or power for a thermal powerplant, if the powerplant site and related facility will be the subject of an environmental impact report, negative declaration, or other document, prepared pursuant to a regulatory program certified pursuant to Section 21080.5, which will be prepared by the State Energy Resources Conservation and Development Commission, by the Public Utilities Commission, or by the city or county in which the powerplant and related facility would be located if the environmental impact report, negative declaration, or document includes the environmental impact, if any, of the action described in this paragraph.",
+    "(7) (A) Activities or approvals for the bidding, hosting or staging of, and funding of, an Olympic Games and a Paralympic Games under the authority of the International Olympic Committee or the International Paralympic Committee, except for the construction of facilities necessary for the Olympic Games or Paralympic Games.",
+    "(B) Notwithstanding subparagraph (A), the division does not apply to the construction of temporary facilities for the 2028 Olympic Games and Paralympic Games. For purposes of this subparagraph, “temporary facility” means a facility that will be completely removed and the area restored to a clean and safe condition within six months after the end of the 2028 Olympic Games and Paralympic Games.",
+    "(C) Any confirmed changes to the locations of the competition venues of the 2028 Olympic Games and Paralympic Games venue plan, pursuant to the host city contract and games agreement with the City of Los Angeles, shall be noticed publicly on the organizing committee’s official internet website and shall be noticed in a newspaper or other medium of general circulation in the local jurisdiction notifying the public of the change in location of the venue.",
+    "(D) This paragraph does not limit any other applicable statute or regulation governing impacts from temporary facilities to, among others, sensitive wildlife habitats, including, but not limited to, riparian lands, wetlands, bays, estuaries, marshes, and habitats for endangered, rare, and threatened species.",
+    "(8) The establishment, modification, structuring, restructuring, or approval of rates, tolls, fares, or other charges by public agencies that the public agency finds are for the purpose of: (A) meeting operating expenses, including employee wage rates and fringe benefits; (B) purchasing or leasing supplies, equipment, or materials; (C) meeting financial reserve needs and requirements; (D) obtaining funds for capital projects necessary to maintain service within existing service areas; or (E) obtaining funds necessary to maintain those intracity transfers as are authorized by city charter. The public agency shall incorporate written findings in the record of any proceeding in which an exemption under this paragraph is claimed setting forth with specificity the basis for the claim of exemption.",
+    "(9) All classes of projects designated pursuant to Section 21084.",
+    "(10) A project for the institution or increase of passenger or commuter services on rail or highway rights-of-way already in use, including modernization of existing stations and parking facilities. For purposes of this paragraph, “highway” has the same meaning as defined in Section 360 of the Vehicle Code.",
+    "(11) A project for the institution or increase of passenger or commuter service on high-occupancy vehicle lanes already in use, including the modernization of existing stations and parking facilities.",
+    "(12) Facility extensions not to exceed four miles in length that are required for the transfer of passengers from or to exclusive public mass transit guideway or busway public transit services.",
+    "(13) A project for the development of a regional transportation improvement program, the state transportation improvement program, or a congestion management program prepared pursuant to Section 65089 of the Government Code.",
+    "(14) A project or portion of a project located in another state that will be subject to environmental impact review pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) or similar state laws of that state. Any emissions or discharges that would have a significant effect on the environment in this state are subject to this division.",
+    "(15) Projects undertaken by a local agency to implement a rule or regulation imposed by a state agency, board, or commission under a certified regulatory program pursuant to Section 21080.5. Any site-specific effect of the project that was not analyzed as a significant effect on the environment in the plan or other written documentation required by Section 21080.5 is subject to this division.",
+    "(16) Approval by the Department of Pesticide Regulation of a pesticide emergency exemption pursuant to Section 136p of Title 7 of the United States Code.",
+    "(c) If a lead agency determines that a proposed project, not otherwise exempt from this division, would not have a significant effect on the environment, the lead agency shall adopt a negative declaration to that effect. The negative declaration shall be prepared for the proposed project in either of the following circumstances:",
+    "(1) There is no substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment.",
+    "(2) An initial study identifies potentially significant effects on the environment, but: (A) revisions in the project plans or proposals made by, or agreed to by, the applicant before the proposed negative declaration and initial study are released for public review would avoid the effects or mitigate the effects to a point where clearly no significant effect on the environment would occur; and (B) there is no substantial evidence, in light of the whole record before the lead agency, that the project, as revised, may have a significant effect on the environment.",
+    "(d) If there is substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment, an environmental impact report shall be prepared.",
+    "(e) (1) For purposes of this section and this division, substantial evidence includes fact, a reasonable assumption predicated upon fact, or expert opinion supported by fact.",
+    "(2) Substantial evidence is not argument, speculation, unsubstantiated opinion or narrative, evidence that is clearly inaccurate or erroneous, or evidence of social or economic impacts that do not contribute to, or are not caused by, physical impacts on the environment.",
+    "(f) As a result of the public review process for a mitigated negative declaration, including administrative decisions and public hearings, the lead agency may conclude that certain mitigation measures identified pursuant to paragraph (2) of subdivision (c) are infeasible or otherwise undesirable. In those circumstances, the lead agency, before approving the project, may delete those mitigation measures and substitute for them other mitigation measures that the lead agency finds, after holding a public hearing on the matter, are equivalent or more effective in mitigating significant effects on the environment to a less than significant level and that do not cause any potentially significant effect on the environment. If those new mitigation measures are made conditions of project approval or are otherwise made part of the project approval, the deletion of the former measures and the substitution of the new mitigation measures shall not constitute an action or circumstance requiring recirculation of the mitigated negative declaration.",
+    "(g) This section does not preclude a project applicant or any other person from challenging, in an administrative or judicial proceeding, the legality of a condition of project approval imposed by the lead agency. If, however, any condition of project approval set aside by either an administrative body or court was necessary to avoid or lessen the likelihood of the occurrence of a significant effect on the environment, the lead agency’s approval of the negative declaration and project shall be invalid and a new environmental review process shall be conducted before the project can be reapproved, unless the lead agency substitutes a new condition that the lead agency finds, after holding a public hearing on the matter, is equivalent to, or more effective in, lessening or avoiding significant effects on the environment and that does not cause any potentially significant effect on the environment."
+   ]
+  },
+  {
+   "action": "SEC. 12.5. Section 21080 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§21080. (a) Except as otherwise provided in this division, this division shall apply to discretionary projects proposed to be carried out or approved by public agencies, including, but not limited to, the enactment and amendment of zoning ordinances, the issuance of zoning variances, the issuance of conditional use permits, and the approval of tentative subdivision maps unless the project is exempt from this division.",
+    "(b) This division does not apply to any of the following activities:",
+    "(1) Ministerial projects proposed to be carried out or approved by public agencies.",
+    "(2) Emergency repairs to public service facilities necessary to maintain service.",
+    "(3) Projects undertaken, carried out, or approved by a public agency to maintain, repair, restore, demolish, or replace property or facilities damaged or destroyed as a result of a disaster in a disaster-stricken area in which a state of emergency has been proclaimed by the Governor pursuant to Chapter 7 (commencing with Section 8550) of Division 1 of Title 2 of the Government Code.",
+    "(4) Specific actions necessary to prevent or mitigate an emergency.",
+    "(5) Projects that a public agency rejects or disapproves.",
+    "(6) Actions undertaken by a public agency relating to any thermal powerplant site or facility, including the expenditure, obligation, or encumbrance of funds by a public agency for planning, engineering, or design purposes, or for the conditional sale or purchase of equipment, fuel, water (except groundwater), steam, or power for a thermal powerplant, if the powerplant site and related facility will be the subject of an environmental impact report, negative declaration, or other document, prepared pursuant to a regulatory program certified pursuant to Section 21080.5, which will be prepared by the State Energy Resources Conservation and Development Commission, by the Public Utilities Commission, or by the city or county in which the powerplant and related facility would be located if the environmental impact report, negative declaration, or document includes the environmental impact, if any, of the action described in this paragraph.",
+    "(7) (A) Activities or approvals necessary for the bidding, hosting or staging of, and funding of, an Olympic Games and a Paralympic Games under the authority of the International Olympic Committee or the International Paralympic Committee, except for the construction of facilities necessary for the Olympic Games or Paralympic Games.",
+    "(B) Notwithstanding subparagraph (A), the division does not apply to the construction of temporary facilities for the 2028 Olympic Games and Paralympic Games. For purposes of this subparagraph, “temporary facility” means a facility that will be completely removed and the area restored to a clean and safe condition within six months after the end of the 2028 Olympic Games and Paralympic Games.",
+    "(C) Any confirmed changes to the locations of the competition venues of the 2028 Olympic Games and Paralympic Games venue plan, pursuant to the host city contract and games agreement with the City of Los Angeles, shall be noticed publicly on the organizing committee’s official internet website and shall be noticed in a newspaper or other medium of general circulation in the local jurisdiction notifying the public of the change in location of the venue.",
+    "(D) This paragraph does not limit any other applicable statute or regulation governing impacts from temporary facilities to, among others, sensitive wildlife habitats, including, but not limited to, riparian lands, wetlands, bays, estuaries, marshes, and habitats for endangered, rare, and threatened species.",
+    "(8) The establishment, modification, structuring, restructuring, or approval of rates, tolls, fares, or other charges by public agencies that the public agency finds are for the purpose of: (A) meeting operating expenses, including employee wage rates and fringe benefits; (B) purchasing or leasing supplies, equipment, or materials; (C) meeting financial reserve needs and requirements; (D) obtaining funds for capital projects necessary to maintain service within existing service areas; or (E) obtaining funds necessary to maintain those intracity transfers as are authorized by city charter. The public agency shall incorporate written findings in the record of any proceeding in which an exemption under this paragraph is claimed setting forth with specificity the basis for the claim of exemption.",
+    "(9) All classes of projects designated pursuant to Section 21084.",
+    "(10) A project for the institution or increase of passenger or commuter services on rail or highway rights-of-way already in use, including modernization of existing stations and parking facilities. For purposes of this paragraph, “highway” has the same meaning as defined in Section 360 of the Vehicle Code.",
+    "(11) A project for the institution or increase of passenger or commuter service on high-occupancy vehicle lanes already in use, including the modernization of existing stations and parking facilities.",
+    "(12) Facility extensions not to exceed four miles in length that are required for the transfer of passengers from or to exclusive public mass transit guideway or busway public transit services.",
+    "(13) A project for the development of a regional transportation improvement program, the state transportation improvement program, or a congestion management program prepared pursuant to Section 65089 of the Government Code.",
+    "(14) A project or portion of a project located in another state that will be subject to environmental impact review pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) or similar state laws of that state. Any emissions or discharges that would have a significant effect on the environment in this state are subject to this division.",
+    "(15) Projects undertaken by a local agency to implement a rule or regulation imposed by a state agency, board, or commission under a certified regulatory program pursuant to Section 21080.5. Any site-specific effect of the project that was not analyzed as a significant effect on the environment in the plan or other written documentation required by Section 21080.5 is subject to this division.",
+    "(16) Approval by the Department of Pesticide Regulation of a pesticide emergency exemption pursuant to Section 136p of Title 7 of the United States Code.",
+    "(17) The entry into or recordation of a solar-use easement pursuant to Chapter 6.9 (commencing with Section 51190) of Part 1 of Division 1 of Title 5 of the Government Code.",
+    "(c) If a lead agency determines that a proposed project, not otherwise exempt from this division, would not have a significant effect on the environment, the lead agency shall adopt a negative declaration to that effect. The negative declaration shall be prepared for the proposed project in either of the following circumstances:",
+    "(1) There is no substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment.",
+    "(2) An initial study identifies potentially significant effects on the environment, but: (A) revisions in the project plans or proposals made by, or agreed to by, the applicant before the proposed negative declaration and initial study are released for public review would avoid the effects or mitigate the effects to a point where clearly no significant effect on the environment would occur; and (B) there is no substantial evidence, in light of the whole record before the lead agency, that the project, as revised, may have a significant effect on the environment.",
+    "(d) If there is substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment, an environmental impact report shall be prepared.",
+    "(e) (1) For purposes of this section and this division, substantial evidence includes fact, a reasonable assumption predicated upon fact, or expert opinion supported by fact.",
+    "(2) Substantial evidence is not argument, speculation, unsubstantiated opinion or narrative, evidence that is clearly inaccurate or erroneous, or evidence of social or economic impacts that do not contribute to, or are not caused by, physical impacts on the environment.",
+    "(f) As a result of the public review process for a mitigated negative declaration, including administrative decisions and public hearings, the lead agency may conclude that certain mitigation measures identified pursuant to paragraph (2) of subdivision (c) are infeasible or otherwise undesirable. In those circumstances, the lead agency, before approving the project, may delete those mitigation measures and substitute for them other mitigation measures that the lead agency finds, after holding a public hearing on the matter, are equivalent or more effective in mitigating significant effects on the environment to a less than significant level and that do not cause any potentially significant effect on the environment. If those new mitigation measures are made conditions of project approval or are otherwise made part of the project approval, the deletion of the former measures and the substitution of the new mitigation measures shall not constitute an action or circumstance requiring recirculation of the mitigated negative declaration.",
+    "(g) This section does not preclude a project applicant or any other person from challenging, in an administrative or judicial proceeding, the legality of a condition of project approval imposed by the lead agency. If, however, any condition of project approval set aside by either an administrative body or court was necessary to avoid or lessen the likelihood of the occurrence of a significant effect on the environment, the lead agency’s approval of the negative declaration and project shall be invalid and a new environmental review process shall be conducted before the project can be reapproved, unless the lead agency substitutes a new condition that the lead agency finds, after holding a public hearing on the matter, is equivalent to, or more effective in, lessening or avoiding significant effects on the environment and that does not cause any potentially significant effect on the environment."
+   ]
+  },
+  {
+   "action": "SEC. 13. Section 30612.5 is added to the Public Resources Code, to read:",
+   "paras": [
+    "§30612.5. (a) The Legislature finds and declares all of the following:",
+    "(1) The California coast is a unique and exceptional resource of international renown.",
+    "(2) The 2028 Olympic Games and Paralympic Games will provide an unparalleled opportunity to showcase the natural beauty of California, including its coast, to visitors and viewers from around the globe. The games will also provide a significant economic benefit to California’s coastal communities.",
+    "(3) Subdivision (i) of Section 30610 exempts from the requirements for a coastal development permit under this chapter any proposed development that the executive director finds to be a temporary event that does not have any significant adverse impact upon coastal resources. At the direction of the Legislature, the commission adopted guidelines to specify eligibility criteria for this exemption.",
+    "(4) The 2028 Olympic Games and Paralympic Games will include temporary development that is anticipated to exceed the eligibility criteria for exemption as a temporary event.",
+    "(5) Given the exceptional nature of the 2028 Olympic Games and Paralympic Games, it is necessary for the temporary development associated with the games to be deemed eligible for the exemption as temporary events.",
+    "(b) (1) Notwithstanding subdivision (i) of Section 30610 and the guidelines adopted pursuant to that subdivision, all temporary development associated with holding the 2028 Olympic Games and Paralympic Games shall be considered temporary events that are exempt from the requirement for a local coastal development permit under this chapter.",
+    "(2) Paragraph (1) applies to all development, as that term is defined in Section 30106, that exists temporarily and is undertaken under the authority of the International Olympic Committee, the International Paralympic Committee, or the Los Angeles Organizing Committee for the 2028 Olympic and Paralympic Games as part of hosting, staging, and carrying out the 2028 Olympic Games and Paralympic Games, including, but not limited to, the temporary construction of physical structures, temporary restriction of access to public areas, and temporary modifications to vehicular parking. The exemption shall apply until the temporary development is removed, but in no case later than December 31, 2028.",
+    "(3) As part of showcasing the natural beauty of California and the overall environmental sustainability of the 2028 Olympic Games and Paralympic Games, temporary development described in paragraphs (1) and (2) shall, to the extent feasible, avoid and minimize significant impacts to coastal resources, including dune habitat areas, coastal wetlands, and public coastal access.",
+    "(4) Paragraph (1) does not apply to development that is undertaken under an authority other than that of the International Olympic Committee, the International Paralympic Committee, or the Los Angeles Organizing Committee for the 2028 Olympic and Paralympic Games.",
+    "(5) Paragraph (1) does not apply to development that is intended to last after December 31, 2028, including, but not limited to, public infrastructure upgrades that may be constructed in anticipation of the 2028 Olympic Games and Paralympic Games but will continue to serve the public after the completion of the games.",
+    "(c) The commission, through its executive director, and the Los Angeles Organizing Committee for the 2028 Olympic and Paralympic Games, shall coordinate on the planning and identification of all temporary events to be implemented consistent with this section.",
+    "(d) This section shall remain in effect only until January 1, 2029, and as of that date is repealed."
+   ]
+  },
+  {
+   "action": "SEC. 14. Section 90135 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§90135. (a) The Secretary of the Natural Resources Agency shall publish a list of all program and project expenditures pursuant to this division not less than annually, in written form, and shall post an electronic form of the list on the agency’s internet website in a downloadable spreadsheet format. The spreadsheet shall include all of the following information:",
+    "(1) Information about the location and footprint of each funded project.",
+    "(2) The project’s objectives.",
+    "(3) The status of the project.",
+    "(4) Anticipated outcomes.",
+    "(5) The public benefits to be derived from the project, including whether the project has meaningful and direct benefits to vulnerable populations, disadvantaged communities, or severely disadvantaged communities.",
+    "(6) The total cost of the project, if known.",
+    "(7) The amount of bond funding provided.",
+    "(8) Any matching moneys provided for the project by the grant recipient or other partners.",
+    "(9) The applicable chapter of this division pursuant to which the recipient received moneys.",
+    "(b) The Department of Finance shall provide for an independent audit of expenditures pursuant to this division. If an audit, required by law, of any entity that receives funding authorized by this division is conducted pursuant to state law and reveals any impropriety, the California State Auditor or the Controller may conduct or arrange for a full audit of any or all of the activities funded pursuant to this division. Any audit of a federal Department of Energy or National Aeronautics and Space Administration research and development center pursuant to this section shall be conducted in accordance with the Federal Laboratory Contracting Act (Chapter 7 (commencing with Section 12500) of Part 2 of Division 2 of the Public Contract Code).",
+    "(c) A state agency issuing any grant with funding authorized by this division shall require adequate reporting of the expenditures of the funding from the grant.",
+    "(d) The costs associated with the publications, audits, statewide bond tracking, cash management, and related oversight activities provided for in this section shall be funded from the proceeds of bonds authorized by this division. These costs shall be shared proportionally by each program funded by this division. Actual costs incurred to administer nongrant programs authorized by this division shall be paid from the proceeds of bonds authorized by this division.",
+    "(e) (1) A regulation for the purpose of developing and adopting program guidelines and selection criteria needed to effectuate or implement the programs included in Chapter 2 (commencing with Section 91000) to Chapter 9 (commencing with Section 94500), inclusive, of this division may be adopted as an emergency regulation in accordance with Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code, and for purposes of that chapter, including Section 11349.6 of the Government Code, the adoption of regulations is an emergency and shall be considered by the Office of Administrative Law as necessary for the immediate preservation of the public peace, health, safety, and general welfare, and a state agency is hereby exempted from the requirement that it describe facts showing the need for immediate action.",
+    "(2) Notwithstanding Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code, an emergency regulation adopted pursuant to this subdivision shall be filed with, but not be repealed by, the Office of Administrative Law, and shall remain in effect until repealed or amended by the adopting state agency."
+   ]
+  },
+  {
+   "action": "SEC. 15. Section 92020 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§92020. Of the funds made available by Section 92000, one hundred thirty-five million dollars ($135,000,000) shall be available, upon appropriation by the Legislature, to the Ocean Protection Council for grants to increase resilience from the impacts of climate change. Preference shall be given to projects that conserve, protect, and restore marine wildlife and healthy ocean and coastal ecosystems, including, but not limited to, estuarine habitat, kelp forests, eelgrass meadows, and native oyster beds, or that maintain the state’s system of marine protected areas, and support sustainable fisheries. Funding may be used to purchase and install ocean current mapping infrastructure and new maritime research infrastructure to reduce emissions. The funds made available pursuant to this section may be used to establish a program with acre-based targets to advance habitat recovery projects that will contribute to protecting and restoring kelp forests, eelgrass meadows, and native oyster beds."
+   ]
+  },
+  {
+   "action": "SEC. 16. Section 93520 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§93520. Of the funds made available by Section 93500, twenty million dollars ($20,000,000) shall, upon appropriation by the Legislature, be available to the Department of Food and Agriculture for purposes of funding invasive species projects and activities recommended by the Invasive Species Council of California. Preference shall be given to projects that restore and protect biodiversity and ecosystem health. Consideration shall be given to geographic equity."
+   ]
+  },
+  {
+   "action": "SEC. 17. Section 9853 of the Vehicle Code is amended to read:",
+   "paras": [
+    "§9853. (a) The owner of each vessel requiring numbering by this state shall file an initial application for a number with the department or with an agent authorized by the department on forms approved by the department. The forms shall be prepared in cooperation with the Division of Boating and Waterways. The application shall contain the true name and address of the owner, the true name and address of the legal owner, if any, and the hull identification number of the vessel as may be required by the department. The application shall be signed by the owner of the vessel and shall be accompanied by a fee of nine dollars ($9), in addition to the fees required under subdivision (b).",
+    "(b) (1) Whenever the fee for original registration of a vessel becomes due between January 1 and December 31 of any even-numbered year, the application shall be accompanied by a fee of ten dollars ($10), in addition to any other fees that are then due and payable.",
+    "(2) Whenever the fee for original registration of a vessel becomes due, or is filed with the department, between January 1 and December 31 of any odd-numbered year, the application shall be accompanied by a fee of twenty dollars ($20) in addition to any other fees that are then due and payable.",
+    "(c) (1) The department shall collect, from resident and nonresident vessel owners, separate from the original registration fee, an invasive mussel infestation prevention fee in an amount established by the Division of Boating and Waterways pursuant to Section 675 of the Harbors and Navigation Code.",
+    "(2) Upon payment of the fee described in paragraph (1), the department shall issue a vessel an invasive mussel infestation prevention sticker to the vessel owner.",
+    "(3) Failure to pay the invasive mussel infestation prevention fee described in paragraph (1) does not prohibit the department from issuing registration of a vessel.",
+    "(4) (A) A vessel operator may be issued a citation for operating a recreational vessel in nonmarine waters without a valid state-issued invasive mussel infestation prevention sticker.",
+    "(B) Notwithstanding subparagraph (A), a vessel that is exempt pursuant to Section 5211 of Title 14 of the California Code of Regulations shall not be cited pursuant to subparagraph (A).",
+    "(d) The department shall provide documentation of its administrative costs pursuant to this section to the Division of Boating and Waterways."
+   ]
+  },
+  {
+   "action": "SEC. 18. Section 9860 of the Vehicle Code is amended to read:",
+   "paras": [
+    "§9860. (a) Certificates of number shall be renewed before midnight of the expiration date by presentation of the certificate of number last issued for the vessel or by presentation of a potential registration card issued by the department.",
+    "(b) The fee for renewal shall be twenty dollars ($20) for each two-year period, and shall accompany the request for renewal.",
+    "(c) If the certificate of number and potential registration card are unavailable, the fee specified in Section 9867 shall not be paid.",
+    "(d) (1) The department shall collect, from resident and nonresident vessel owners, separate from the fee for renewal, an invasive mussel infestation prevention fee in an amount established by the Department of Boating and Waterways pursuant to Section 675 of the Harbors and Navigation Code.",
+    "(2) Failure to pay the fee described in this subdivision does not prohibit the department from issuing renewal registration of the vessel.",
+    "(3) (A) A vessel operator may be issued a citation for operating the vessel in nonmarine waters without a valid state-issued invasive mussel infestation prevention sticker.",
+    "(B) Notwithstanding subparagraph (A), a vessel that is exempt pursuant to Section 5211 of Title 14 of the California Code of Regulations shall not be cited pursuant to subparagraph (A).",
+    "(e) The department shall provide documentation of its administrative costs pursuant to this section to the Department of Boating and Waterways."
+   ]
+  },
+  {
+   "action": "SEC. 19. Section 9863 of the Vehicle Code is amended to read:",
+   "paras": [
+    "§9863. (a) Except as required under subdivisions (b) and (c), and except moneys collected under Section 9875, fees received pursuant to this chapter shall be deposited in the Harbors and Watercraft Revolving Fund and, notwithstanding Section 13340 of the Government Code, are continuously appropriated, without regard to fiscal years, for the administration of this chapter by the department. Funds in the Harbors and Watercraft Revolving Fund derived pursuant to this chapter in excess of the amount determined by the Director of Finance, from time to time, to be necessary for expenditure for the administration of this chapter, notwithstanding Section 13340 of the Government Code, are continuously appropriated to the Department of Boating and Waterways, without regard to fiscal years, for expenditure in accordance with Section 663.7 of the Harbors and Navigation Code.",
+    "(b) Funds derived from imposition of the biennial registration fee under paragraph (2) of subdivision (b) of Section 9853, or under subdivision (b) of Section 9860, shall be distributed as follows:",
+    "(1) One-half shall be continuously appropriated pursuant to subdivision (a).",
+    "(2) One-half shall be allocated, upon appropriation, to the Department of Boating and Waterways for expenditure in support of programs under the department’s jurisdiction.",
+    "(c) Funds derived from the imposition of the invasive mussel prevention fee under subdivision (c) of Section 9853, or under subdivision (d) of Section 9860, shall be distributed as specified in Section 676 of the Harbors and Navigation Code."
+   ]
+  },
+  {
+   "action": "SEC. 20. The sum of twenty million dollars ($20,000,000) is hereby appropriated, pursuant to Section 93010 of the Public Resources Code, for the 2025–26 fiscal year from the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Fund, established pursuant to Section 90500 of the Public Resources Code, to the Wildlife Conservation Board and shall be granted to the Department of Fish and Wildlife to address invasive mussel infestations, including the golden mussel.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 21. The Legislature finds and declares that a special statute is necessary and that a general statute cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique circumstances related to the staging of the 2028 Olympic Games and Paralympic Games.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 22. Section 12.5 of this bill incorporates amendments to Section 21080 of the Public Resources Code proposed by both this bill and Assembly Bill 1156. That section of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2026, but this bill becomes operative first, (2) each bill amends Section 21080 of the Public Resources Code, and (3) this bill is enacted after Assembly Bill 1156, in which case Section 21080 of the Public Resources Code, as amended by Section 12 of this bill, shall remain operative only until the operative date of Assembly Bill 1156, at which time Section 12.5 of this bill shall become operative.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 23. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act or because costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIIIB of the California Constitution. However, if the Commission on State Mandates determines that this act contains other costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 24. This act is a bill providing for appropriations related to the Budget Bill within the meaning of subdivision (e) of Section 12 of Article IV of the California Constitution, has been identified as related to the budget in the Budget Bill, and shall take effect immediately.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "106",
+  "year": "2025"
+ },
+ "digest": [
+  "(1) Existing law, until January 1, 2030, generally prohibits a person from possessing, importing, shipping, or transporting in the state, or from placing, planting, or causing to be placed or planted in any water within the state, dreissenid mussels, and authorizes the Director of Fish and Wildlife or the director’s designee to engage in various enforcement activities with regard to dreissenid mussels. Existing law requires any person, or federal, state, or local agency, district, or authority that owns or manages a reservoir, as defined, where recreational, boating, or fishing activities are permitted, except as specified, to develop and implement a program designed to prevent the introduction of nonnative dreissenid mussel species, as provided. Under existing law, except as otherwise provided, any violation of the Fish and Game Code, or of any rule, regulation, or order made or adopted under the code, is a crime.",
+  "This bill would expand the scope of the above-described provisions relating to dreissenid mussels to instead apply to invasive mussels, defined to mean any nonnative detrimental mussel species, as provided. By expanding the scope of a crime, the bill would impose a state-mandated local program.",
+  "Existing law requires a public or private agency that operates a water supply system to cooperate with the Department of Fish and Wildlife to implement measures to avoid infestation by dreissenid mussels and to control or eradicate any infestation that may occur in a water supply system, and, if dreissenid mussels are detected, to prepare and implement a plan, as specified, to control or eradicate dreissenid mussels within the system. Existing law requires any person or entity that manages any aspect of the water in a reservoir, as defined, where recreational, boating, or fishing activities are permitted, to be eligible to receive a grant for the reasonable regulatory costs incident to the implementation of a dreissenid mussel infestation prevention plan.",
+  "This bill would instead apply the above-described provisions to invasive mussels, as defined. The bill would require the department to, on or before December 31, 2026, review all approved plans and require all plans that do not specifically address all invasive mussel species known to be present in bodies of water in the state as of January 1, 2026, to be updated or revised, as provided. The bill would require every invasive mussel species to be addressed in a plan within a specified timeframe. By expanding the scope of a crime, the bill would impose a state-mandated local program. The bill would require the department to either approve the plan or provide written comments and suggestions on plan review deficiencies, as provided.",
+  "Existing law requires the owner of a vessel, as described, to register the vessel in accordance with prescribed requirements governing the registration and transfer of vessels. Existing law requires vessel registration to be renewed every 2-year period, as specified. Existing law establishes a registration fee and a renewal fee for vessels, and imposes an additional fee, known as the quagga and zebra mussel infestation prevention fee, in specified amounts, as determined by the Division of Boating and Waterways in the Department of Parks and Recreation, on a vessel required to pay the registration fee or renewal fee. Existing state regulations require the quagga and zebra mussel infestation prevention fee to be payable in specific instances of vessel registration or renewal. Existing law requires that all revenues collected from the quagga and zebra mussel prevention fee be deposited into the Harbors and Watercraft Revolving Fund created in the State Treasury, and, upon appropriation by the Legislature, expended for specified purposes.",
+  "This bill would instead apply the above-described provisions to invasive mussels, as defined, including renaming the quagga and zebra mussel infestation prevention fee as the invasive mussel infestation prevention fee. The bill would, for invasive mussel infestation prevention fees due in the 2026 calendar year, and each year thereafter, increase the fee in specified amounts, and would require the amounts to be adjusted for inflation, as provided.",
+  "Existing law authorizes a vessel operator to be issued a citation for operating a recreational vessel in nonmarine waters without a valid state-issued quagga and zebra mussel infestation prevention sticker.",
+  "This bill would instead rename the quagga and zebra mussel infestation prevention sticker the invasive mussel infestation prevention sticker and would require the department to issue the sticker upon payment of the invasive mussel infestation prevention fee.",
+  "(2) Existing law, the Farmer Equity Act of 2017, requires the Department of Food and Agriculture to ensure the inclusion of socially disadvantaged farmers and ranchers, as defined, in the development, adoption, implementation, and enforcement of food and agriculture laws, regulations, and policies and programs, as specified.",
+  "This bill would require the department, in consultation with certain entities, to establish the Regional Farmer Equipment and Cooperative Resources Assistance Pilot Program as part of the Farmer Equity Act of 2017 to provide financial and technical assistance to support regional farm equipment sharing and enhance cooperative benefits for socially disadvantaged farmers and ranchers, with preference to be provided under the program in accordance with specified requirements. The bill would specify the entities eligible for financial assistance under the program and would require that applications for financial assistance to develop and expand equipment sharing programs include certain information. The bill would make the operation of the program contingent upon the Legislature making an appropriation for purposes of the program. The bill would repeal these provisions on January 1, 2030.",
+  "(3) Existing law establishes in the Natural Resources Agency the Department of Forestry and Fire Protection (CAL-FIRE) under the control of an executive officer known as the Director of Forestry and Fire Protection. Existing law requires CAL-FIRE, in accordance with a plan approved by the State Board of Forestry and Fire Protection, to, among other things, provide fire prevention and firefighting implements, organize crews and patrols, and employ people to effect the plan. Existing law requires CAL-FIRE, subject to an appropriation of funds, to begin to employ sufficient permanent firefighting personnel to increase the base period hand crew staffing levels.",
+  "This bill would instead require CAL-FIRE, subject to an appropriation of funds, to begin to employ sufficient permanent firefighting personnel to increase the base period staffing levels, without the limitation to hand crew staffing levels.",
+  "(4) The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that the lead agency proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "CEQA exempts from its requirements activities or approvals necessary to the bidding for, hosting or staging of, and funding or carrying out of an Olympic Games under the authority of the International Olympic Committee, except for the construction of facilities necessary for the Olympic Games.",
+  "This bill would revise the above-described exemption to exempt from CEQA activities or approvals for the bidding, hosting or staging of, and funding of an Olympic Games or a Paralympic Games under the authority of the International Olympic Committee or the International Paralympic Committee. The bill would also exempt from CEQA the construction of temporary facilities, as defined, for the 2028 Olympic Games and Paralympic Games. The bill would require public notice of any confirmed changes to the location of competition venues of the 2028 Olympic and Paralympic Games, as specified.",
+  "Because a lead agency would be required to determine whether a project qualifies for this exemption, this bill would impose a state-mandated local program.",
+  "Existing law, the California Coastal Act of 1976, among other things, requires anyone wishing to perform or undertake any development in the coastal zone, except as specified, in addition to obtaining any other permit required by law from any local government or from any state, regional, or local agency, to obtain a coastal development permit from the California Coastal Commission or a local government, as provided. The act provides that a coastal development permit is not required for specified types of development in specified areas, including, among other things, any proposed development that the executive director of the commission finds to be a temporary event that does not have any significant adverse impact on coastal resources, as provided.",
+  "This bill would specify that all temporary development undertaken under the authority of the International Olympic Committee, the International Paralympic Committee, or the Los Angeles Organizing Committee for the 2028 Olympic and Paralympic Games as part of hosting, staging, and carrying out the 2028 Olympic Games and Paralympic Games are considered temporary events and are exempt from the requirement to obtain a coastal development permit. The bill would require those temporary developments to avoid and minimize significant impacts to coastal resources to the extent feasible. The bill would specify that the exemption does not apply to development intended to last after December 31, 2028. The bill would be repealed by its own terms on January 1, 2029.",
+  "To the extent this bill would create additional duties for a local government, this bill would impose a state-mandated local program.",
+  "(5) The Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Bond Act of 2024 (act), approved by the voters as Proposition 4 at the November 5, 2024, statewide general election, authorized the issuance of bonds in the amount of $10,000,000,000 pursuant to the State General Obligation Bond Law to finance projects for safe drinking water, drought, flood, and water resilience, wildfire and forest resilience, coastal resilience, extreme heat mitigation, biodiversity and nature-based climate solutions, climate-smart, sustainable, and resilient farms, ranches, and working lands, park creation and outdoor access, and clean air programs.",
+  "Existing law, the Administrative Procedure Act, sets forth the requirements for the adoption, publication, review, and implementation of regulations by state agencies.",
+  "This bill would authorize certain regulations needed to effectuate or implement the programs of the act to be adopted as emergency regulations in accordance with the Administrative Procedure Act, as provided. The bill would require those emergency regulations to be filed with the Office of Administrative Law and would require the emergency regulation to remain in effect until repealed or amended by the adopting state agency.",
+  "The act makes $135,000,000 available, upon appropriation by the Legislature, for deposit into the California Ocean Protection Trust Fund for grants to increase resilience from the impacts of climate change, as specified.",
+  "This bill would instead make those funds available, upon appropriation by the Legislature, to the Ocean Protection Council for those purposes.",
+  "The act requires $20,000,000, upon appropriation by the Legislature, to be deposited into the Invasive Species Account for purposes of funding invasive species projects and activities recommended by the Invasive Species Council of California, as specified.",
+  "This bill would instead make those funds available, upon appropriation by the Legislature, to the Department of Food and Agriculture for those purposes.",
+  "The act makes $870,000,000 available, upon appropriation by the Legislature, to the Wildlife Conservation Board for grant programs to protect and enhance fish and wildlife resources and habitat and achieve the state’s biodiversity, public access, and conservation goals, as provided.",
+  "This bill would appropriate the sum of $20,000,000, pursuant to the above provision, from the Safe Drinking Water, Wildfire Prevention, Drought Preparedness, and Clean Air Fund to the Wildlife Conservation Board to be granted to the Department of Fish and Wildlife for the 2025–26 fiscal year to address invasive mussel infestations, including the golden mussel.",
+  "(6) This bill would make legislative findings and declarations as to the necessity of a special statute for the 2028 Olympic Games and Paralympic Games.",
+  "(7) This bill would incorporate additional changes to Section 21080 of the Public Resources Code proposed by AB 1156 to be operative only if this bill and AB 1156 are enacted and this bill is enacted last.",
+  "(8) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that with regard to certain mandates no reimbursement is required by this act for a specified reason.",
+  "With regard to any other mandates, this bill would provide that, if the Commission on State Mandates determines that the bill contains costs so mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above.",
+  "(9) This bill would declare that it is to take effect immediately as a bill providing for appropriations related to the Budget Bill."
+ ],
+ "hash": "4f8e497de072e9b9",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "chamber": "A",
+   "date": "2025-01-08"
+  },
+  {
+   "action": "From printer. May be heard in committee February 8.",
+   "chamber": "A",
+   "date": "2025-01-09"
+  },
+  {
+   "action": "Referred to Com. on BUDGET.",
+   "chamber": "A",
+   "date": "2025-02-03"
+  },
+  {
+   "action": "Withdrawn from committee.",
+   "chamber": "A",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Ordered to second reading.",
+   "chamber": "A",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "(Ayes 53. Noes 17. Page 643.)",
+   "chamber": "A",
+   "date": "2025-03-17"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2025-03-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 53. Noes 17. Page 737.)",
+   "chamber": "A",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "chamber": "S",
+   "date": "2025-03-20"
+  },
+  {
+   "action": "Referred to Com. on B. & F. R.",
+   "chamber": "S",
+   "date": "2025-04-02"
+  },
+  {
+   "action": "Senate Rule 29.3(b) suspended. (Ayes 28. Noes 8. Page 2568.)",
+   "chamber": "S",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
+   "chamber": "S",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Senate Rule 29.3(b) suspended. (Ayes 28. Noes 8. Page 2568.)",
+   "chamber": "S",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
+   "chamber": "S",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 13. Noes 0.) (September 10).",
+   "chamber": "S",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2025-09-11"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 0. Page 2949.).",
+   "chamber": "S",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "chamber": "A",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Assembly Rule 63 suspended. (Ayes 55. Noes 20. Page 3360.)",
+   "chamber": "A",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 61. Noes 13. Page 3362.).",
+   "chamber": "A",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3:45 p.m.",
+   "chamber": "",
+   "date": "2025-09-12"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2025-09-17"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 106, Statutes of 2025.",
+   "chamber": "",
+   "date": "2025-09-17"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-09-17",
+  "id": "20250AB14995CHP",
+  "num": "95"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 21080 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Except as otherwise provided in this division, this division shall apply to discretionary projects proposed to be carried out or approved by public agencies, including, but not limited to, the enactment and amendment of zoning ordinances, the issuance of zoning variances, the issuance of conditional use permits, and the approval of tentative subdivision maps unless the project is exempt from this division.",
+    "(b) This division does not apply to any of the following activities:",
+    "(1) Ministerial projects proposed to be carried out or approved by public agencies.",
+    "(2) Emergency repairs to public service facilities necessary to maintain service.",
+    "(3) Projects undertaken, carried out, or approved by a public agency to maintain, repair, restore, demolish, or replace property or facilities damaged or destroyed as a result of a disaster in a disaster-stricken area in which a state of emergency has been proclaimed by the Governor pursuant to Chapter 7 (commencing with Section 8550) of Division 1 of Title 2 of the Government Code.",
+    "(4) Specific actions necessary to prevent or mitigate an emergency.",
+    "(5) Projects that a public agency rejects or disapproves.",
+    "(6) Actions undertaken by a public agency relating to any thermal powerplant site or facility, including the expenditure, obligation, or encumbrance of funds by a public agency for planning, engineering, or design purposes, or for the conditional sale or purchase of equipment, fuel, water (except groundwater), steam, or power for a thermal powerplant, if the powerplant site and related facility will be the subject of an environmental impact report, negative declaration, or other document, prepared pursuant to a regulatory program certified pursuant to Section 21080.5, which will be prepared by the State Energy Resources Conservation and Development Commission, by the Public Utilities Commission, or by the city or county in which the powerplant and related facility would be located if the environmental impact report, negative declaration, or document includes the environmental impact, if any, of the action described in this paragraph.",
+    "(7) (A) Activities or approvals for the bidding, hosting or staging of, and funding of, an Olympic Games and a Paralympic Games under the authority of the International Olympic Committee or the International Paralympic Committee, except for the construction of facilities necessary for the Olympic Games or Paralympic Games.",
+    "(B) Notwithstanding subparagraph (A), the division does not apply to the construction of temporary facilities for the 2028 Olympic Games and Paralympic Games. For purposes of this subparagraph, “temporary facility” means a facility that will be completely removed and the area restored to a clean and safe condition within six months after the end of the 2028 Olympic Games and Paralympic Games.",
+    "(C) Any confirmed changes to the locations of the competition venues of the 2028 Olympic Games and Paralympic Games venue plan, pursuant to the host city contract and games agreement with the City of Los Angeles, shall be noticed publicly on the organizing committee’s official internet website and shall be noticed in a newspaper or other medium of general circulation in the local jurisdiction notifying the public of the change in location of the venue.",
+    "(D) This paragraph does not limit any other applicable statute or regulation governing impacts from temporary facilities to, among others, sensitive wildlife habitats, including, but not limited to, riparian lands, wetlands, bays, estuaries, marshes, and habitats for endangered, rare, and threatened species.",
+    "(8) The establishment, modification, structuring, restructuring, or approval of rates, tolls, fares, or other charges by public agencies that the public agency finds are for the purpose of: (A) meeting operating expenses, including employee wage rates and fringe benefits; (B) purchasing or leasing supplies, equipment, or materials; (C) meeting financial reserve needs and requirements; (D) obtaining funds for capital projects necessary to maintain service within existing service areas; or (E) obtaining funds necessary to maintain those intracity transfers as are authorized by city charter. The public agency shall incorporate written findings in the record of any proceeding in which an exemption under this paragraph is claimed setting forth with specificity the basis for the claim of exemption.",
+    "(9) All classes of projects designated pursuant to Section 21084.",
+    "(10) A project for the institution or increase of passenger or commuter services on rail or highway rights-of-way already in use, including modernization of existing stations and parking facilities. For purposes of this paragraph, “highway” has the same meaning as defined in Section 360 of the Vehicle Code.",
+    "(11) A project for the institution or increase of passenger or commuter service on high-occupancy vehicle lanes already in use, including the modernization of existing stations and parking facilities.",
+    "(12) Facility extensions not to exceed four miles in length that are required for the transfer of passengers from or to exclusive public mass transit guideway or busway public transit services.",
+    "(13) A project for the development of a regional transportation improvement program, the state transportation improvement program, or a congestion management program prepared pursuant to Section 65089 of the Government Code.",
+    "(14) A project or portion of a project located in another state that will be subject to environmental impact review pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) or similar state laws of that state. Any emissions or discharges that would have a significant effect on the environment in this state are subject to this division.",
+    "(15) Projects undertaken by a local agency to implement a rule or regulation imposed by a state agency, board, or commission under a certified regulatory program pursuant to Section 21080.5. Any site-specific effect of the project that was not analyzed as a significant effect on the environment in the plan or other written documentation required by Section 21080.5 is subject to this division.",
+    "(16) Approval by the Department of Pesticide Regulation of a pesticide emergency exemption pursuant to Section 136p of Title 7 of the United States Code.",
+    "(c) If a lead agency determines that a proposed project, not otherwise exempt from this division, would not have a significant effect on the environment, the lead agency shall adopt a negative declaration to that effect. The negative declaration shall be prepared for the proposed project in either of the following circumstances:",
+    "(1) There is no substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment.",
+    "(2) An initial study identifies potentially significant effects on the environment, but: (A) revisions in the project plans or proposals made by, or agreed to by, the applicant before the proposed negative declaration and initial study are released for public review would avoid the effects or mitigate the effects to a point where clearly no significant effect on the environment would occur; and (B) there is no substantial evidence, in light of the whole record before the lead agency, that the project, as revised, may have a significant effect on the environment.",
+    "(d) If there is substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment, an environmental impact report shall be prepared.",
+    "(e) (1) For purposes of this section and this division, substantial evidence includes fact, a reasonable assumption predicated upon fact, or expert opinion supported by fact.",
+    "(2) Substantial evidence is not argument, speculation, unsubstantiated opinion or narrative, evidence that is clearly inaccurate or erroneous, or evidence of social or economic impacts that do not contribute to, or are not caused by, physical impacts on the environment.",
+    "(f) As a result of the public review process for a mitigated negative declaration, including administrative decisions and public hearings, the lead agency may conclude that certain mitigation measures identified pursuant to paragraph (2) of subdivision (c) are infeasible or otherwise undesirable. In those circumstances, the lead agency, before approving the project, may delete those mitigation measures and substitute for them other mitigation measures that the lead agency finds, after holding a public hearing on the matter, are equivalent or more effective in mitigating significant effects on the environment to a less than significant level and that do not cause any potentially significant effect on the environment. If those new mitigation measures are made conditions of project approval or are otherwise made part of the project approval, the deletion of the former measures and the substitution of the new mitigation measures shall not constitute an action or circumstance requiring recirculation of the mitigated negative declaration.",
+    "(g) This section does not preclude a project applicant or any other person from challenging, in an administrative or judicial proceeding, the legality of a condition of project approval imposed by the lead agency. If, however, any condition of project approval set aside by either an administrative body or court was necessary to avoid or lessen the likelihood of the occurrence of a significant effect on the environment, the lead agency’s approval of the negative declaration and project shall be invalid and a new environmental review process shall be conducted before the project can be reapproved, unless the lead agency substitutes a new condition that the lead agency finds, after holding a public hearing on the matter, is equivalent to, or more effective in, lessening or avoiding significant effects on the environment and that does not cause any potentially significant effect on the environment."
+   ],
+   "sec": "21080",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 21080 of the Public Resources Code is amended to read:",
+   "code": "PRC",
+   "paras": [
+    "(a) Except as otherwise provided in this division, this division shall apply to discretionary projects proposed to be carried out or approved by public agencies, including, but not limited to, the enactment and amendment of zoning ordinances, the issuance of zoning variances, the issuance of conditional use permits, and the approval of tentative subdivision maps unless the project is exempt from this division.",
+    "(b) This division does not apply to any of the following activities:",
+    "(1) Ministerial projects proposed to be carried out or approved by public agencies.",
+    "(2) Emergency repairs to public service facilities necessary to maintain service.",
+    "(3) Projects undertaken, carried out, or approved by a public agency to maintain, repair, restore, demolish, or replace property or facilities damaged or destroyed as a result of a disaster in a disaster-stricken area in which a state of emergency has been proclaimed by the Governor pursuant to Chapter 7 (commencing with Section 8550) of Division 1 of Title 2 of the Government Code.",
+    "(4) Specific actions necessary to prevent or mitigate an emergency.",
+    "(5) Projects that a public agency rejects or disapproves.",
+    "(6) Actions undertaken by a public agency relating to any thermal powerplant site or facility, including the expenditure, obligation, or encumbrance of funds by a public agency for planning, engineering, or design purposes, or for the conditional sale or purchase of equipment, fuel, water (except groundwater), steam, or power for a thermal powerplant, if the powerplant site and related facility will be the subject of an environmental impact report, negative declaration, or other document, prepared pursuant to a regulatory program certified pursuant to Section 21080.5, which will be prepared by the State Energy Resources Conservation and Development Commission, by the Public Utilities Commission, or by the city or county in which the powerplant and related facility would be located if the environmental impact report, negative declaration, or document includes the environmental impact, if any, of the action described in this paragraph.",
+    "(7) (A) Activities or approvals necessary for the bidding, hosting or staging of, and funding of, an Olympic Games and a Paralympic Games under the authority of the International Olympic Committee or the International Paralympic Committee, except for the construction of facilities necessary for the Olympic Games or Paralympic Games.",
+    "(B) Notwithstanding subparagraph (A), the division does not apply to the construction of temporary facilities for the 2028 Olympic Games and Paralympic Games. For purposes of this subparagraph, “temporary facility” means a facility that will be completely removed and the area restored to a clean and safe condition within six months after the end of the 2028 Olympic Games and Paralympic Games.",
+    "(C) Any confirmed changes to the locations of the competition venues of the 2028 Olympic Games and Paralympic Games venue plan, pursuant to the host city contract and games agreement with the City of Los Angeles, shall be noticed publicly on the organizing committee’s official internet website and shall be noticed in a newspaper or other medium of general circulation in the local jurisdiction notifying the public of the change in location of the venue.",
+    "(D) This paragraph does not limit any other applicable statute or regulation governing impacts from temporary facilities to, among others, sensitive wildlife habitats, including, but not limited to, riparian lands, wetlands, bays, estuaries, marshes, and habitats for endangered, rare, and threatened species.",
+    "(8) The establishment, modification, structuring, restructuring, or approval of rates, tolls, fares, or other charges by public agencies that the public agency finds are for the purpose of: (A) meeting operating expenses, including employee wage rates and fringe benefits; (B) purchasing or leasing supplies, equipment, or materials; (C) meeting financial reserve needs and requirements; (D) obtaining funds for capital projects necessary to maintain service within existing service areas; or (E) obtaining funds necessary to maintain those intracity transfers as are authorized by city charter. The public agency shall incorporate written findings in the record of any proceeding in which an exemption under this paragraph is claimed setting forth with specificity the basis for the claim of exemption.",
+    "(9) All classes of projects designated pursuant to Section 21084.",
+    "(10) A project for the institution or increase of passenger or commuter services on rail or highway rights-of-way already in use, including modernization of existing stations and parking facilities. For purposes of this paragraph, “highway” has the same meaning as defined in Section 360 of the Vehicle Code.",
+    "(11) A project for the institution or increase of passenger or commuter service on high-occupancy vehicle lanes already in use, including the modernization of existing stations and parking facilities.",
+    "(12) Facility extensions not to exceed four miles in length that are required for the transfer of passengers from or to exclusive public mass transit guideway or busway public transit services.",
+    "(13) A project for the development of a regional transportation improvement program, the state transportation improvement program, or a congestion management program prepared pursuant to Section 65089 of the Government Code.",
+    "(14) A project or portion of a project located in another state that will be subject to environmental impact review pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) or similar state laws of that state. Any emissions or discharges that would have a significant effect on the environment in this state are subject to this division.",
+    "(15) Projects undertaken by a local agency to implement a rule or regulation imposed by a state agency, board, or commission under a certified regulatory program pursuant to Section 21080.5. Any site-specific effect of the project that was not analyzed as a significant effect on the environment in the plan or other written documentation required by Section 21080.5 is subject to this division.",
+    "(16) Approval by the Department of Pesticide Regulation of a pesticide emergency exemption pursuant to Section 136p of Title 7 of the United States Code.",
+    "(17) The entry into or recordation of a solar-use easement pursuant to Chapter 6.9 (commencing with Section 51190) of Part 1 of Division 1 of Title 5 of the Government Code.",
+    "(c) If a lead agency determines that a proposed project, not otherwise exempt from this division, would not have a significant effect on the environment, the lead agency shall adopt a negative declaration to that effect. The negative declaration shall be prepared for the proposed project in either of the following circumstances:",
+    "(1) There is no substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment.",
+    "(2) An initial study identifies potentially significant effects on the environment, but: (A) revisions in the project plans or proposals made by, or agreed to by, the applicant before the proposed negative declaration and initial study are released for public review would avoid the effects or mitigate the effects to a point where clearly no significant effect on the environment would occur; and (B) there is no substantial evidence, in light of the whole record before the lead agency, that the project, as revised, may have a significant effect on the environment.",
+    "(d) If there is substantial evidence, in light of the whole record before the lead agency, that the project may have a significant effect on the environment, an environmental impact report shall be prepared.",
+    "(e) (1) For purposes of this section and this division, substantial evidence includes fact, a reasonable assumption predicated upon fact, or expert opinion supported by fact.",
+    "(2) Substantial evidence is not argument, speculation, unsubstantiated opinion or narrative, evidence that is clearly inaccurate or erroneous, or evidence of social or economic impacts that do not contribute to, or are not caused by, physical impacts on the environment.",
+    "(f) As a result of the public review process for a mitigated negative declaration, including administrative decisions and public hearings, the lead agency may conclude that certain mitigation measures identified pursuant to paragraph (2) of subdivision (c) are infeasible or otherwise undesirable. In those circumstances, the lead agency, before approving the project, may delete those mitigation measures and substitute for them other mitigation measures that the lead agency finds, after holding a public hearing on the matter, are equivalent or more effective in mitigating significant effects on the environment to a less than significant level and that do not cause any potentially significant effect on the environment. If those new mitigation measures are made conditions of project approval or are otherwise made part of the project approval, the deletion of the former measures and the substitution of the new mitigation measures shall not constitute an action or circumstance requiring recirculation of the mitigated negative declaration.",
+    "(g) This section does not preclude a project applicant or any other person from challenging, in an administrative or judicial proceeding, the legality of a condition of project approval imposed by the lead agency. If, however, any condition of project approval set aside by either an administrative body or court was necessary to avoid or lessen the likelihood of the occurrence of a significant effect on the environment, the lead agency’s approval of the negative declaration and project shall be invalid and a new environmental review process shall be conducted before the project can be reapproved, unless the lead agency substitutes a new condition that the lead agency finds, after holding a public hearing on the matter, is equivalent to, or more effective in, lessening or avoiding significant effects on the environment and that does not cause any potentially significant effect on the environment."
+   ],
+   "sec": "21080",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Public resources trailer bill.",
+ "title": "An act to amend Sections 2301 and 2302 of, and to add Section 2303 to, the Fish and Game Code, to add and repeal Section 515 of the Food and Agricultural Code, to amend Sections 675, 676, and 676.1 of, to amend the heading of Article 1.3 (commencing with Section 675) of Chapter 5 of Division 3 of, and to add Section 677.5 to, the Harbors and Navigation Code, to amend Sections 4114.1, 21080, 90135, 92020, and 93520 of, and to add and repeal Section 30612.5 of, the Public Resources Code, and to amend Sections 9853, 9860, and 9863 of the Vehicle Code, relating to public resources, and making an appropriation therefor, to take effect immediately, bill related to the budget.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-01-08",
+   "id": "20250AB14999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-08",
+   "id": "20250AB14998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-09",
+   "id": "20250AB14997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250AB14996ENR",
+   "num": "96"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-09-17",
+   "id": "20250AB14995CHP",
+   "num": "95"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "A",
+   "date": "2025-03-20",
+   "location": "Assembly Floor",
+   "motion": "AB 149 Gabriel Assembly Third Reading",
+   "no": 17,
+   "nv": 10,
+   "result": "pass",
+   "seq": "1070",
+   "yes": 53
+  },
+  {
+   "chamber": "S",
+   "date": "2025-09-10",
+   "location": "Sen Budget and Fiscal Review",
+   "motion": "Do pass",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 13
+  },
+  {
+   "chamber": "A",
+   "date": "2025-09-12",
+   "location": "Assembly Floor",
+   "motion": "AB 149 BUDGET Concurrence in Senate Amendments By GABRIEL",
+   "no": 13,
+   "nv": 6,
+   "result": "pass",
+   "seq": "1007",
+   "yes": 61
+  },
+  {
+   "chamber": "S",
+   "date": "2025-09-12",
+   "location": "Senate Floor",
+   "motion": "Assembly 3rd Reading AB149 BUDGET (Gabriel) By Wiener",
+   "no": 0,
+   "nv": 10,
+   "result": "pass",
+   "seq": "1012",
+   "yes": 30
+  }
+ ]
+}

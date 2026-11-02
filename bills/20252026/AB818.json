@@ -1,0 +1,393 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ávila Farías",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "AB818",
+ "bill_id": "202520260AB818",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 65946.1 is added to the Government Code, to read:",
+   "paras": [
+    "§65946.1. (a) For purposes of this section:",
+    "(1) “Affected property” means a residential real property that satisfies either of the following conditions:",
+    "(A) The property was destroyed by a disaster that resulted in a declared local emergency.",
+    "(B) The property was rendered a substandard building as a result of a disaster that resulted in a declared local emergency.",
+    "(2) “Disaster” has the same meaning as defined in Section 8680.3.",
+    "(3) Notwithstanding Section 65930, “local agency” means any city, county, or city and county.",
+    "(4) “Local emergency” has the same meaning as defined in Section 8680.9.",
+    "(5) “Substandard building” has the same meaning as defined in Section 17920 of the Health and Safety Code.",
+    "(6) “Utility provider” means an entity that provides a utility service connection and that is subject to the requirements of Chapter 5 (commencing with Section 66000).",
+    "(b) If a local agency approves a permit necessary to rebuild or repair an affected property, a utility provider shall provide a written notice describing the next steps in the approval process for a connection request for the project within 30 days of receipt of the connection request, unless connection is infeasible due to the disaster.",
+    "(c) Notwithstanding any other law, after a parcel has been deemed safe for development by the state, a local agency, or the state and a local agency after a disaster that resulted in a declared local emergency, a local agency shall approve or deny a complete application, within 10 business days of receipt of the application, for a building permit or an equivalent permit for any of the following structures intended to be used by a person until the rebuilding or repairing of an affected property is complete:",
+    "(1) A state-approved or federally approved modular home.",
+    "(2) A state-approved or federally approved prefabricated home.",
+    "(3) A detached structure that would meet the applicable requirements to be an accessory dwelling unit for the affected property.",
+    "(d) (1) A local agency shall provide information to the public about the provisions of this section through public information resources, including, but not limited to, on the local agency’s internet website.",
+    "(2) A local agency shall include all of the following on its internet website:",
+    "(A) A checklist of the conditions that would result in a residential property being deemed a substandard building.",
+    "(B) A notice that a person may obtain a confidential third-party code inspection from a licensed contractor to determine the unit’s existing condition or potential scope of building improvements before submitting an application for a permit to rebuild or repair an affected property.",
+    "(C) For a city, county, or city and county with a population greater than 30,000 residents based on the most recent United States Census Bureau data, a dashboard that tracks permitting timelines and agency performance.",
+    "(3) A local agency shall comply with this subdivision by March 31, 2028, and shall update the information required to be provided by this subdivision every four years thereafter."
+   ]
+  },
+  {
+   "action": "SEC. 2. The Legislature finds and declares that Section 1 of this act adding Section 65946.1 to the Government Code addresses a matter of statewide concern rather than a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, Section 1 of this act applies to all cities, including charter cities.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 3. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "534",
+  "year": "2025"
+ },
+ "digest": [
+  "Existing law, the Permit Streamlining Act, requires a public agency to determine whether an application for a development project is complete within specified time periods, as specified. The act requires a public agency that is the lead agency for a development project to approve or disapprove that project within specified time periods. Existing law, the California Emergency Services Act, among other things, authorizes the governing body of a city, county, or city and county to proclaim a local emergency under certain circumstances, as specified, and grants political subdivisions various powers and authorities in periods of local emergency.",
+  "This bill would require a city, county, or city and county to approve or deny a complete application, within 10 business days of receipt of the application, for a building permit or an equivalent permit for any of the specified structures intended to be used by a person until the rebuilding or repair of an affected property is complete. By imposing new duties on local agencies, this bill would impose a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "f63233a89622ebab",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "chamber": "A",
+   "date": "2025-02-19"
+  },
+  {
+   "action": "From printer. May be heard in committee March 22.",
+   "chamber": "A",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and H. & C.D.",
+   "chamber": "A",
+   "date": "2025-03-10"
+  },
+  {
+   "action": "Assembly Rule 56 suspended. (Page 1163.)",
+   "chamber": "A",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "(Pending re-refer to Com. on H. & C. D.)",
+   "chamber": "A",
+   "date": "2025-04-21"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on H. & C.D. (Ayes 10. Noes 0.) (April 23).",
+   "chamber": "A",
+   "date": "2025-04-23"
+  },
+  {
+   "action": "Read second time and amended.",
+   "chamber": "A",
+   "date": "2025-04-24"
+  },
+  {
+   "action": "Re-referred to Com. on H. & C.D.",
+   "chamber": "A",
+   "date": "2025-04-28"
+  },
+  {
+   "action": "Coauthors revised.",
+   "chamber": "A",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 10. Noes 0.) (April 30). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2025-04-30"
+  },
+  {
+   "action": "From committee: Do pass. To Consent Calendar. (Ayes 15. Noes 0.) (May 14).",
+   "chamber": "A",
+   "date": "2025-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to Consent Calendar.",
+   "chamber": "A",
+   "date": "2025-05-15"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 71. Noes 0. Page 1662.)",
+   "chamber": "A",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "chamber": "S",
+   "date": "2025-05-23"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and HOUSING.",
+   "chamber": "S",
+   "date": "2025-06-04"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L. GOV.",
+   "chamber": "S",
+   "date": "2025-06-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on HOUSING. (Ayes 7. Noes 0.) (July 2). Re-referred to Com. on HOUSING.",
+   "chamber": "S",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (July 15).",
+   "chamber": "S",
+   "date": "2025-07-16"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "chamber": "S",
+   "date": "2025-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2025-08-20"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "chamber": "S",
+   "date": "2025-09-04"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2025-09-08"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2672.).",
+   "chamber": "S",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "chamber": "A",
+   "date": "2025-09-09"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 3228.).",
+   "chamber": "A",
+   "date": "2025-09-10"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 3 p.m.",
+   "chamber": "",
+   "date": "2025-09-22"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2025-10-10"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 534, Statutes of 2025.",
+   "chamber": "",
+   "date": "2025-10-10"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-10",
+  "id": "20250AB81893CHP",
+  "num": "93"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 65946.1 is added to the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section:",
+    "(1) “Affected property” means a residential real property that satisfies either of the following conditions:",
+    "(A) The property was destroyed by a disaster that resulted in a declared local emergency.",
+    "(B) The property was rendered a substandard building as a result of a disaster that resulted in a declared local emergency.",
+    "(2) “Disaster” has the same meaning as defined in Section 8680.3.",
+    "(3) Notwithstanding Section 65930, “local agency” means any city, county, or city and county.",
+    "(4) “Local emergency” has the same meaning as defined in Section 8680.9.",
+    "(5) “Substandard building” has the same meaning as defined in Section 17920 of the Health and Safety Code.",
+    "(6) “Utility provider” means an entity that provides a utility service connection and that is subject to the requirements of Chapter 5 (commencing with Section 66000).",
+    "(b) If a local agency approves a permit necessary to rebuild or repair an affected property, a utility provider shall provide a written notice describing the next steps in the approval process for a connection request for the project within 30 days of receipt of the connection request, unless connection is infeasible due to the disaster.",
+    "(c) Notwithstanding any other law, after a parcel has been deemed safe for development by the state, a local agency, or the state and a local agency after a disaster that resulted in a declared local emergency, a local agency shall approve or deny a complete application, within 10 business days of receipt of the application, for a building permit or an equivalent permit for any of the following structures intended to be used by a person until the rebuilding or repairing of an affected property is complete:",
+    "(1) A state-approved or federally approved modular home.",
+    "(2) A state-approved or federally approved prefabricated home.",
+    "(3) A detached structure that would meet the applicable requirements to be an accessory dwelling unit for the affected property.",
+    "(d) (1) A local agency shall provide information to the public about the provisions of this section through public information resources, including, but not limited to, on the local agency’s internet website.",
+    "(2) A local agency shall include all of the following on its internet website:",
+    "(A) A checklist of the conditions that would result in a residential property being deemed a substandard building.",
+    "(B) A notice that a person may obtain a confidential third-party code inspection from a licensed contractor to determine the unit’s existing condition or potential scope of building improvements before submitting an application for a permit to rebuild or repair an affected property.",
+    "(C) For a city, county, or city and county with a population greater than 30,000 residents based on the most recent United States Census Bureau data, a dashboard that tracks permitting timelines and agency performance.",
+    "(3) A local agency shall comply with this subdivision by March 31, 2028, and shall update the information required to be provided by this subdivision every four years thereafter."
+   ],
+   "sec": "65946.1",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Permit Streamlining Act: local emergencies.",
+ "title": "An act to add Section 65946.1 to the Government Code, relating to housing.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-19",
+   "id": "20250AB81899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-04-24",
+   "id": "20250AB81898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-06-25",
+   "id": "20250AB81897AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-07-17",
+   "id": "20250AB81896AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-09-04",
+   "id": "20250AB81895AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-12",
+   "id": "20250AB81894ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-10",
+   "id": "20250AB81893CHP",
+   "num": "93"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "A",
+   "date": "2025-04-23",
+   "location": "Asm Local Government",
+   "motion": "Do pass as amended and be re-referred to the Committee on [Housing and Community Development]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "A",
+   "date": "2025-04-30",
+   "location": "Asm Housing and Community Development",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+   "no": 0,
+   "nv": 2,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "A",
+   "date": "2025-05-14",
+   "location": "Asm Appropriations",
+   "motion": "Do pass. To Consent Calendar.",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 15
+  },
+  {
+   "chamber": "A",
+   "date": "2025-05-23",
+   "location": "Assembly Floor",
+   "motion": "AB 818 Ávila Farías Consent Calendar Second Day Regular Session",
+   "no": 0,
+   "nv": 8,
+   "result": "pass",
+   "seq": "1039",
+   "yes": 71
+  },
+  {
+   "chamber": "S",
+   "date": "2025-07-02",
+   "location": "Sen Local Government",
+   "motion": "Do pass, but first be re-referred to the Committee on [Housing]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2025-07-15",
+   "location": "Sen Housing",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "S",
+   "date": "2025-09-09",
+   "location": "Senate Floor",
+   "motion": "Assembly 3rd Reading AB818 Ávila Farías et al. By Cabaldon",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1081",
+   "yes": 40
+  },
+  {
+   "chamber": "A",
+   "date": "2025-09-10",
+   "location": "Assembly Floor",
+   "motion": "AB 818 Ávila Farías Concurrence in Senate Amendments",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1083",
+   "yes": 79
+  }
+ ]
+}

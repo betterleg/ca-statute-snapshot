@@ -1,0 +1,277 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB1145",
+ "bill_id": "202520260SB1145",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. The Legislature finds and declares all of the following: (a) The Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100-526) and the Defense Base Closure and Realignment Act of 1990 (Public Law 101-510) establish a comprehensive federal framework governing the closure, realignment, and disposal of military installations and related real property. (b) The federal base closure and realignment disposition process is designed to mitigate the economic impacts of base closures by promoting timely economic redevelopment, private investment, job creation, and replacement of lost military employment at former military installations, including through economic development conveyances and related federally authorized disposition mechanisms. (c) The federal base closure and realignment disposition process requires legally binding negotiations with homeless assistance providers, including the preparation, submission, and implementation of a homeless assistance submission approved by the United States Department of Housing and Urban Development, as a condition of the federal disposition of former military base property. (d) The application of the Surplus Land Act (Article 8 (commencing with Section 54220) of Chapter 5 of Part 1 of Division 2 of Title 5 of the Government Code) to real property acquired by a local agency pursuant to the federal base closure and realignment disposition process would require compliance with a duplicative and potentially conflicting state law disposition framework after completion of federally mandated negotiations, approvals, and reuse planning, and would interfere with, and poses an obstacle to, the objectives of the United States Congress in disposing of federal military base property, including objectives related to homeless assistance, economic development, and job creation. (e) Established in 1942, the Concord Naval Weapons Station is a former military base that was placed on the Base Realignment and Closure list in 2005. (f) The United States Navy declared approximately 4,972 acres of property at the Concord Naval Weapons Station to be surplus to the needs of the federal government, in accordance with the Defense Base Closure and Realignment Act of 1990. (g) The United States Navy intends to convey through an economic development conveyance approximately 2,350 acres of the Concord Naval Weapons Station to the City of Concord as the designated local redevelopment authority for redevelopment for the purpose of short- and long-term job generation. (h) The environmental impacts of the proposed reuse of the former Concord Naval Weapons Station have been analyzed through an environmental impact statement prepared by the United States Navy pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) and an environmental impact report certified by the City of Concord pursuant to the California Environmental Quality Act (commencing with Section 21000 of the Public Resources Code). (i) In 2010, after a multiyear process with substantial public input, the City of Concord adopted a three-phase reuse plan for the Concord Naval Weapons Station, and after that the City of Concord adopted the Concord Reuse Project Area Plan to incorporate the reuse plan policies and goals into the city’s general plan and adopted an addendum to the previously certified environmental impact report. (j) The Concord Reuse Project Area Plan anticipates no fewer than 10,000 housing units with 25 percent of units affordable to lower income households, up to 6,100,000 square feet of commercial building space, community facilities such as school sites, neighborhood parks, and sports facilities, as well as approximately 2,500 acres of open space. (k) As California continues to grapple with a shortage of new housing, the state has an interest in facilitating the building of new homes, not just for the housing, but for the jobs and economic development that such projects bring to a region. (l) It is the intent of the Legislature to enact measures to facilitate the creation of housing and community development that the Concord Reuse Project Area Plan envisions, that will be an economic driver, not just for the City of Concord, but for the greater East Bay region of California.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Section 54222.3.3 is added to the Government Code, to read:",
+   "paras": [
+    "§54222.3.3. (a) This article shall not apply to the disposal of all or any portion of land that was or will be conveyed by the federal government to a local reuse authority in accordance with the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100-526), the Defense Base Closure and Realignment Act of 1990 (Public Law 101-510), or any successor federal law governing military base closure and realignment if both of the following conditions are met:",
+    "(1) Before disposition of the land by the local reuse authority, the local reuse authority shall enter into a disposition and development agreement, purchase and sale agreement, or similar agreement with the recipient providing that at least 25 percent of the aggregate residential units developed on the land conveyed will be restricted to lower income households with an affordable housing cost, as defined in Section 50052.5 of the Health and Safety Code, for a minimum of 45 years or affordable rent, as defined in Section 50053 of the Health and Safety Code, for a minimum of 55 years.",
+    "(2) Before disposition of the land by the local agency reuse authority, the recipient of the land shall be subject to a project labor agreement, as defined in Section 2500 of the Public Contract Code.",
+    "(b) Beginning on January 1, 2032, and every five years thereafter, the local agency shall report to the Department of Housing and Community Development and the relevant policy committees of the Legislature both of the following:",
+    "(1) Whether the agreement required pursuant to paragraph (1) requires that at least 25 percent of the aggregate residential units developed on the land conveyed be restricted to lower income households as required in paragraph (1) of subdivision (a).",
+    "(2) Wether the recipient of the land is subject to a project labor agreement as required by paragraph (2) of subdivision (a).",
+    "(c) If the local reuse authority is a city or county, the local agency shall include in its annual report, required pursuant to paragraph (2) of subdivision (a) of Section 65400, the status of development of residential units on the former military base, including the total number of residential units that have been permitted and what percentage of those residential units are restricted for persons and families of low- or moderate-income or lower income households.",
+    "(d) The local reuse authority shall notify the Department of Housing and Community Development and the relevant policy committees of the Legislature within 30 days of amending, in a manner that would modify the affordability requirements of paragraph (1) of subdivision (a), a disposition and development agreement, purchase and sale agreement, or similar agreement regarding the disposition of all or any portion of the land by the local reuse authority that formed the basis for the application of this section to a disposition of land by a local reuse authority.",
+    "(e) An action challenging the applicability of this section to any land shall be brought within 90 days after the local reuse authority’s approval of a disposition and development agreement, purchase and sale agreement, or similar agreement regarding the disposition of all or any portion of the land by the local reuse authority and not at the time of each subsequent conveyance or phased conveyance of the land."
+   ]
+  },
+  {
+   "action": "SEC. 3. Chapter 6.8 (commencing with Section 21189.60) is added to Division 13 of the Public Resources Code, to read:",
+   "paras": [
+    "§21189.60. For purposes of this chapter, the following definitions apply:",
+    "(a) “City” means the City of Concord.",
+    "(b) “CNWS” means the Concord Naval Weapons Station.",
+    "(c) “Concord Community Reuse Project” means the Concord Community Reuse Project, approved by the city on February 23, 2010, that established the planning process for civilian use of the former CNWS.",
+    "(d) “CRP area plan” means the area plan for the Concord Community Reuse Project adopted and incorporated into the city’s 2030 general plan in 2012, that covers the inland portion of the former CNWS, the North Concord/Martinez Bay Area Rapid Transit Station, and the Diablo Creek Golf Course.",
+    "(e) “Plan area” means the approximately 5,000-acre inland portion of the CNWS included within the boundaries of the CRP area plan.",
+    "§21189.61. (a) The Final Environmental Impact Report for the Concord Community Reuse Project Plan and Addendum shall be conclusively presumed to satisfy the requirements of this division for any project within the plan area that is consistent with the CRP area plan land use map and has the same land use types and locations for those land use types, as adopted in the CRP area plan reviewed in the Final Environmental Impact Report for the Concord Community Reuse Project Plan and Addendum.",
+    "(b) Any additional land use types or location of land use types that are not the same as those adopted in the CRP area plan reviewed in the Final Environmental Impact Report for the Concord Community Reuse Project Plan and Addendum shall be a project subject to subsequent review pursuant to this division, provided that, notwithstanding subdivisions (b) and (c) of Section 21166, any required subsequent review shall tier off existing environmental review in the city’s general plan and shall not be required to conduct redundant analysis to what was adopted in the CRP area plan reviewed in the Final Environmental Impact Report for the Concord Community Reuse Project Plan and Addendum.",
+    "§21189.62. The provisions of this chapter are severable. If any provision of this chapter or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+   ]
+  },
+  {
+   "action": "SEC. 4. The Legislature finds and declares that a special statute is necessary and that a general statute cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique circumstances, described in Section 1 of this act, in the City of Concord.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 5. If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": null,
+ "digest": [
+  "Existing law requires a local agency to declare land either “surplus land” or “exempt surplus land,” as supported by written findings, before the local agency may take any action to dispose of it consistent with an agency’s policies or procedures and defines terms for these purposes. Existing law generally requires a local agency, before disposing or negotiating to dispose of surplus land, to provide a written notice of the availability of the surplus land to specified entities and housing sponsors. Under existing law, land declared by an agency of the state or any local agency as “exempt surplus land” is not subject to these requirements.",
+  "The Planning and Zoning Law requires cities and counties to prepare, adopt, and amend general plans and elements of those general plans, as specified. After the legislative body has adopted all or part of a general plan, the law requires the planning agency to provide by April 1 of each year an annual report to specified entities that includes certain information, including the status of the plan and progress of its implementation.",
+  "This bill would exempt land that was or will be conveyed by the federal government to a local reuse authority in accordance with a military base closure and realignment, as specified, from these requirements if certain conditions are met. The bill would require a local reuse authority, if it is a city or county, to include specified information relating to the development of residential units on conveyed land as part of their annual report relating to their general plan. Because the bill would impose new duties on a local agency, this bill would impose a state-mandated local program. The bill would also limit the time to bring an action to challenge the application of this exemption to within 90 days after the local reuse authority’s approval of a disposition and development agreement, purchase and sale agreement, or similar agreement regarding the disposition of all or any portion of the land by the local reuse authority and not at the time of each subsequent conveyance or phased conveyance of the land.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "This bill would provide that specified environmental review documents satisfy the requirements of CEQA for any project within the portion of the Concord Naval Weapons Station included within the boundaries of the area plan for the Concord Community Reuse Project, as provided, that is consistent with the area plan land use map and has the same land use types and locations for those land use types as adopted in the area plan reviewed in those specified environmental review documents. The bill would further provide that any additional land use types or location of land use types that are not the same as those adopted in the area plan reviewed in the specified environmental documents would be a project subject to subsequent review pursuant to CEQA, and would not be required to conduct redundant analysis to what was adopted in the CRP area plan reviewed in the specified environmental documents, as provided. To the extent the bill imposes new duties on local agencies, the bill would impose a state-mandated local program. The bill would make its provisions severable.",
+  "This bill would make legislative findings and declarations as to the necessity of a special statute for the City of Concord.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "a57d4953ff983f96",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2026-02-18"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 21.",
+   "chamber": "S",
+   "date": "2026-02-19"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-02-26"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-03-23"
+  },
+  {
+   "action": "Re-referred to Coms. on L. GOV. and E.Q.",
+   "chamber": "S",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "chamber": "S",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "chamber": "S",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.Q. (Ayes 7. Noes 0. Page 3904.) (April 15). Re-referred to Com. on E.Q.",
+   "chamber": "S",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "chamber": "S",
+   "date": "2026-04-17"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 4009.) (April 22).",
+   "chamber": "S",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-04-28"
+  },
+  {
+   "action": "Set for hearing May 11.",
+   "chamber": "S",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "May 11 hearing: Placed on APPR. suspense file.",
+   "chamber": "S",
+   "date": "2026-05-11"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "chamber": "S",
+   "date": "2026-05-12"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0. Page 4266.) (May 14).",
+   "chamber": "S",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 39. Noes 0. Page 4361.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2026-05-19"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2026-05-20"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and NAT. RES.",
+   "chamber": "A",
+   "date": "2026-05-26"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-04-28",
+  "id": "20250SB114596AMD",
+  "num": "96"
+ },
+ "location": "CX15",
+ "sections": [
+  {
+   "action": "Chapter 6.8 (commencing with Section 21189.60) is added to Division 13 of the Public Resources Code, to read:",
+   "code": "PRC",
+   "paras": [
+    "For purposes of this chapter, the following definitions apply:",
+    "(a) “City” means the City of Concord.",
+    "(b) “CNWS” means the Concord Naval Weapons Station.",
+    "(c) “Concord Community Reuse Project” means the Concord Community Reuse Project, approved by the city on February 23, 2010, that established the planning process for civilian use of the former CNWS.",
+    "(d) “CRP area plan” means the area plan for the Concord Community Reuse Project adopted and incorporated into the city’s 2030 general plan in 2012, that covers the inland portion of the former CNWS, the North Concord/Martinez Bay Area Rapid Transit Station, and the Diablo Creek Golf Course.",
+    "(e) “Plan area” means the approximately 5,000-acre inland portion of the CNWS included within the boundaries of the CRP area plan."
+   ],
+   "sec": "21189.60",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "California Environmental Quality Act: surplus land disposal requirements: exemption.",
+ "title": "An act to add Section 54222.3.3 to the Government Code, and to add Chapter 6.8 (commencing with Section 21189.60) to Division 13 of the Public Resources Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-18",
+   "id": "20250SB114599INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-23",
+   "id": "20250SB114598AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-08",
+   "id": "20250SB114597AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-28",
+   "id": "20250SB114596AMD",
+   "num": "96"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2026-04-15",
+   "location": "Sen Local Government",
+   "motion": "Do pass, but first be re-referred to the Committee on [Environmental Quality]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-04-22",
+   "location": "Sen Environmental Quality",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-11",
+   "location": "Sen Appropriations",
+   "motion": "Placed on suspense file",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-14",
+   "location": "Sen Appropriations",
+   "motion": "Do pass",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-19",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB1145 Grayson",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "4356",
+   "yes": 39
+  }
+ ]
+}

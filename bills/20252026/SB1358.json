@@ -1,0 +1,264 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Rubio",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB1358",
+ "bill_id": "202520260SB1358",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. The Legislature finds and declares the following: (a) The State of California is home to complex and diverse populations and it is essential that all residents have meaningful access to state programs, services, and activities regardless of native language, race, color, gender, national origin, ethnicity, religion, sexual orientation, disability, or immigrant status. (b) An overwhelming majority of the state’s advertising and marketing funds have been concentrated among a small number of vendors, with insufficient transparency regarding whether funds effectively reach ethnic and community outlets. (c) Therefore, it is the intent of the Legislature to expand the reach into underserved communities by ensuring and enhancing the allocation of advertising funds to ethnic and community media outlets. To achieve this, it is the intent of the Legislature that state agencies adopt serious goals, have read access to a database of ethnic and community media partners, and have the necessary tools to utilize their services quickly and efficiently.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Section 65054 of the Government Code is amended to read:",
+   "paras": [
+    "§65054. For the purposes of this article, the following definitions apply:",
+    "(a) (1) “Ethnic media” means any organization that produces news or culturally relevant media that serves ethnic, racial, or cultural communities residing in California, including priority populations, racial and linguistic minorities, immigrant communities, indigenous groups, and other historically underserved and underrepresented groups.",
+    "(2) For purposes of paragraph (1), “priority populations” for purposes of this article, mean members of underserved, disadvantaged, and hard-to-reach communities, including, but not limited to, people who are any of the following:",
+    "(A) Asian American.",
+    "(B) Black or African American.",
+    "(C) Immigrants or refugees.",
+    "(D) Native American or members of Tribal communities.",
+    "(E) Latinx.",
+    "(F) LGBTQ+.",
+    "(G) Limited English proficiency (LEP).",
+    "(H) Middle Eastern or North African.",
+    "(I) Native Hawaiian or Pacific Islander.",
+    "(J) People with disabilities.",
+    "(K) Religious minorities.",
+    "(L) Low-income communities.",
+    "(b) “Ethnic media outlet” means an entity that provides a substantial amount of ethnic media content through broadcast, print, or digital means, including television, radio, or online outlets on a daily, weekly, or other regular interval, and that has continuously produced that content for at least one year.",
+    "(c) “Community media outlet” means a nonprofit organization, small business, or microbusiness, as defined in paragraphs (1) and (2) of subdivision (d) of Section 14837, in which at least one-half of the content is originally produced community news and cultural content of specific interest to a community, city, neighborhood, or region in the state through broadcast, print, or digital means, including television, radio, or online outlets on a daily, weekly, or other regular interval, and that has continuously produced that content for at least one year.",
+    "(d) “Office” means the Office of Community Partnerships and Strategic Communications.",
+    "(e) “State agency” means each entity identified in Section 11000, and includes the California State University."
+   ]
+  },
+  {
+   "action": "SEC. 3. Section 65054.3 of the Government Code is repealed.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 4. Section 65054.3 is added to the Government Code, to read:",
+   "paras": [
+    "§65054.3. (a) The office shall establish and maintain a database of ethnic and community media outlets. The office shall publish guidelines setting forth a process for outlets to apply to be listed and certified within this database pursuant to the criteria set forth in Section 65054.",
+    "(b) In support of database development, the office may engage nonprofit news outlets and organizations to assist in strengthening the sector and ensuring diverse and wide representation across the state.",
+    "(c) The office may hold one or more annual trainings for public information and communications officers and other state employees responsible for purchasing advertising to ensure a common understanding of the diverse media ecosystem and best practices for equitable outreach."
+   ]
+  },
+  {
+   "action": "SEC. 5. Chapter 2.6 (commencing with Section 11100) is added to Part 2 of Division 2 of the Public Contract Code, to read:",
+   "paras": [
+    "§11100. For purposes of this chapter, the following definitions shall apply:",
+    "(a) “Department” means the Department of General Services.",
+    "(b) “Ethnic and Community Media Database” or “database” means the database established pursuant to Section 65054.3 of the Government Code.",
+    "(c) “Ethnic and community media outlet” means an ethnic media outlet or a community media outlet as those terms are defined in Section 65054 of the Government Code.",
+    "(d) “Office” means the Office of Community Partnerships and Strategic Communications.",
+    "(e) “Priority populations” has the same meaning as that term is defined in Section 65054 of the Government Code.",
+    "(f) “State agency” means each entity identified in Section 11000 of the Government Code, and includes the California State University.",
+    "§11101. It is the declared policy of the Legislature that the state should assess and evaluate the effectiveness of its contracts to determine how it can best utilize its media and marketing and communication efforts to reach ethnic, racial, or cultural communities residing in California, including priority populations, racial and linguistic minorities, immigrant communities, indigenous groups, and other historically underserved and underrepresented groups.",
+    "§11102. (a) Notwithstanding the advertising, bidding, and protest provisions of Chapter 6 (commencing with Section 14825) of Part 5.5 of Division 3 of Title 2 of the Government Code, Chapter 2 (commencing with Section 10290), and Chapter 3 (commencing with Section 12100), a state agency may award a contract for the acquisition of advertising or marketing services that has an estimated an estimated value of greater than five thousand dollars ($5,000), but less than three hundred fifty thousand dollars ($350,000), to an ethnic or community media outlet, as long as the agency obtains price quotations from two or more ethnic or community media outlets.",
+    "(b) Commencing January 1, 2028, and annually thereafter, the department may conduct a review of the maximum estimated contract value specified in this section and adjust that value to reflect changes in the California Consumer Price Index.",
+    "§11103. A state agency issuing a request for proposal for marketing or advertising services that requires outreach to priority populations, as defined in Section 65054 of the Government Code, shall provide an awarded vendor with a copy of the Ethnic and Community Media Database and require the vendor to make every effort to prioritize outlets included in the database in their media buying plan.",
+    "§11104. (a) A state agency shall direct at least 40 percent of its annual advertising spending to ethnic and community media outlets.",
+    "(b) For each state agency required to have a small business liaison pursuant to Section 11148.5 of the Government Code, the small business liaison shall assist the agency in complying with this section by utilizing the Ethnic and Community Media Database and shall work with local community groups and organizations to identify additional ethnic and community media outlets for inclusion in the database.",
+    "§11105. (a) On or before July 1, 2027, and annually thereafter, the office shall submit to the Governor and the Legislature and publish on its internet website, a report that identifies all of the following:",
+    "(1) Each state agency that paid for placement of marketing or outreach advertising material pursuant to a contract.",
+    "(2) The amounts paid by each state agency to each media platform pursuant to a contract, including pursuant to a subcontract if the information is available, to place marketing or outreach advertising material.",
+    "(3) The recipients of the amounts paid by each state agency to media platforms, including to any subcontractors if the information is available, with which the agency contracted or subcontracted to place marketing or outreach advertising materials.",
+    "(4) The information required in paragraphs (1) to (3), inclusive, shall be further disaggregated to report information on contracts, including on subcontracts if the information is available, for both of the following:",
+    "(A) The placement of marketing or outreach advertising material targeting specific ethnic communities, including, but not limited to, priority populations.",
+    "(B) The placement of marketing or outreach advertising material by ethnic and community media outlets.",
+    "(5) Recommendations for best practices based on successful state agencies.",
+    "(b) (1) A report to be submitted pursuant to this section shall be submitted in compliance with Section 9795 of the Government Code.",
+    "(2) Pursuant to Section 10231.5 of the Government Code, this section is repealed on January 1, 2031.",
+    "§11106. This chapter is not intended to amend any of the provisions of Chapter 1 (commencing with Section 6000) of Division 7 of Title 1 of the Government Code."
+   ]
+  }
+ ],
+ "chapter": null,
+ "digest": [
+  "Existing law establishes the Office of Community Partnerships and Strategic Communications and requires the office to assist in marketing, advertising, and outreach to priority populations, as defined. Existing law requires state agencies that expend funds on marketing, advertising, or outreach to develop a plan for increasing expenditures directed to ethnic media outlets and community media outlets, as those terms are defined. Existing law also requires state agencies to annually report their progress in implementing those plans. Existing law repeals these requirements on January 1, 2029.",
+  "This bill would delete the January 1, 2029, repeal date, thereby extending operation of these requirements indefinitely. The bill would additionally require the office to establish and maintain a database of the above-described outlets and would authorize the office to hold trainings for state employees responsible for purchasing advertising, as specified.",
+  "Former law, Chapter 341 of the Statutes of 2020, until July 1, 2023, among other things, required the Department of General Services to publish an annual report on or before July 1 of each year relating to payments for placement of marketing or outreach advertising material by each state agency.",
+  "This bill would reenact and recast this report requirement to instead require the office to publish an annual report relating to those payments, which the bill would require to include disaggregated information for priority populations and ethnic and community media outlets, as specified. The bill would additionally require state agencies to direct at least 40% of their annual advertising spending to ethnic and community media outlets and to require vendors selected for marketing or advertising services that require outreach to priority populations to prioritize outlets included in the above-described database. The bill would authorize state agencies to award a contract for advertising or marketing services with an estimated value greater than $5,000 and less than $350,000 to an ethnic or community media outlet, as specified."
+ ],
+ "hash": "ca7c84f036173c5b",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "chamber": "S",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "chamber": "S",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-04-06"
+  },
+  {
+   "action": "Re-referred to Com. on G.O.",
+   "chamber": "S",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 14.",
+   "chamber": "S",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 15. Noes 0. Page 3866.) (April 14). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "Set for hearing April 27.",
+   "chamber": "S",
+   "date": "2026-04-17"
+  },
+  {
+   "action": "April 27 hearing: Placed on APPR. suspense file.",
+   "chamber": "S",
+   "date": "2026-04-27"
+  },
+  {
+   "action": "Set for hearing May 14.",
+   "chamber": "S",
+   "date": "2026-05-08"
+  },
+  {
+   "action": "May 14 hearing: Held in committee and under submission.",
+   "chamber": "S",
+   "date": "2026-05-14"
+  }
+ ],
+ "house": "Senate",
+ "latest_version": {
+  "action": "Amended Senate",
+  "date": "2026-04-06",
+  "id": "20250SB135897AMD",
+  "num": "97"
+ },
+ "location": "CS61",
+ "sections": [
+  {
+   "action": "Section 65054 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "For the purposes of this article, the following definitions apply:",
+    "(a) (1) “Ethnic media” means any organization that produces news or culturally relevant media that serves ethnic, racial, or cultural communities residing in California, including priority populations, racial and linguistic minorities, immigrant communities, indigenous groups, and other historically underserved and underrepresented groups.",
+    "(2) For purposes of paragraph (1), “priority populations” for purposes of this article, mean members of underserved, disadvantaged, and hard-to-reach communities, including, but not limited to, people who are any of the following:",
+    "(A) Asian American.",
+    "(B) Black or African American.",
+    "(C) Immigrants or refugees.",
+    "(D) Native American or members of Tribal communities.",
+    "(E) Latinx.",
+    "(F) LGBTQ+.",
+    "(G) Limited English proficiency (LEP).",
+    "(H) Middle Eastern or North African.",
+    "(I) Native Hawaiian or Pacific Islander.",
+    "(J) People with disabilities.",
+    "(K) Religious minorities.",
+    "(L) Low-income communities.",
+    "(b) “Ethnic media outlet” means an entity that provides a substantial amount of ethnic media content through broadcast, print, or digital means, including television, radio, or online outlets on a daily, weekly, or other regular interval, and that has continuously produced that content for at least one year.",
+    "(c) “Community media outlet” means a nonprofit organization, small business, or microbusiness, as defined in paragraphs (1) and (2) of subdivision (d) of Section 14837, in which at least one-half of the content is originally produced community news and cultural content of specific interest to a community, city, neighborhood, or region in the state through broadcast, print, or digital means, including television, radio, or online outlets on a daily, weekly, or other regular interval, and that has continuously produced that content for at least one year.",
+    "(d) “Office” means the Office of Community Partnerships and Strategic Communications.",
+    "(e) “State agency” means each entity identified in Section 11000, and includes the California State University."
+   ],
+   "sec": "65054",
+   "verb": "amended"
+  },
+  {
+   "action": "Section 65054.3 of the Government Code is repealed.",
+   "code": "GOV",
+   "paras": [],
+   "sec": "65054.3",
+   "verb": "repealed"
+  },
+  {
+   "action": "Section 65054.3 is added to the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) The office shall establish and maintain a database of ethnic and community media outlets. The office shall publish guidelines setting forth a process for outlets to apply to be listed and certified within this database pursuant to the criteria set forth in Section 65054.",
+    "(b) In support of database development, the office may engage nonprofit news outlets and organizations to assist in strengthening the sector and ensuring diverse and wide representation across the state.",
+    "(c) The office may hold one or more annual trainings for public information and communications officers and other state employees responsible for purchasing advertising to ensure a common understanding of the diverse media ecosystem and best practices for equitable outreach."
+   ],
+   "sec": "65054.3",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "News outlets: state expenditures on ethnic and community media outlets.",
+ "title": "An act to amend Section 65054 of, and to repeal and add Section 65054.3 of, the Government Code, and to add Chapter 2.6 (commencing with Section 11100) to Part 2 of Division 2 of the Public Contract Code, relating to news outlets.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB135899INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB135898AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-06",
+   "id": "20250SB135897AMD",
+   "num": "97"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2026-04-14",
+   "location": "Sen Governmental Organization",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 15
+  },
+  {
+   "chamber": "S",
+   "date": "2026-04-27",
+   "location": "Sen Appropriations",
+   "motion": "Placed on suspense file",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  }
+ ]
+}

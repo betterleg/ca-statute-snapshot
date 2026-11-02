@@ -1,0 +1,456 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alanis",
+   "party": "R",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Mark González",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Solache",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wallis",
+   "party": "R",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wicks",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "AB1693",
+ "bill_id": "202520260AB1693",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. Section 5586.5 of the Business and Professions Code is amended to read:",
+   "paras": [
+    "§5586.5. The fact that the holder of a license who serves as a qualified professional certifier, as defined in Section 66345.1 or 66350.1 of the Government Code, makes any false statement in a certification submission pursuant to Chapter 14 (commencing with Section 66345) or Chapter 15 (commencing with Section 66350) of Division 1 of Title 7 of the Government Code constitutes grounds for disciplinary action."
+   ]
+  },
+  {
+   "action": "SEC. 2. Section 6775 of the Business and Professions Code is amended to read:",
+   "paras": [
+    "§6775. The board may, upon its own initiative or upon the receipt of a complaint, investigate the actions of any professional engineer licensed under this chapter and make findings thereon.",
+    "By a majority vote, the board may publicly reprove, suspend for a period not to exceed two years, or revoke the certificate of any professional engineer licensed under this chapter on any of the following grounds:",
+    "(a) Any conviction of a crime substantially related to the qualifications, functions, and duties of a licensed professional engineer, in which case the certified record of conviction shall be conclusive evidence thereof.",
+    "(b) Any deceit, misrepresentation, or fraud in their practice.",
+    "(c) Any negligence or incompetence in their practice.",
+    "(d) A breach or violation of a contract to provide professional engineering services.",
+    "(e) Any fraud, deceit, or misrepresentation in obtaining their certificate as a professional engineer.",
+    "(f) Aiding or abetting any person in the violation of any provision of this chapter or any regulation adopted by the board pursuant to this chapter.",
+    "(g) For a licensee who serves as a qualified professional certifier, as defined in Section 66345.1 or 66350.1 of the Government Code, making any false statement in a certification submission pursuant to Chapter 14 (commencing with Section 66345) or Chapter 15 (commencing with Section 66350) of Division 1 of Title 7 of the Government Code.",
+    "(h) A violation in the course of the practice of professional engineering of a rule or regulation of unprofessional conduct adopted by the board.",
+    "(i) A violation of any provision of this chapter or any other law relating to or involving the practice of professional engineering."
+   ]
+  },
+  {
+   "action": "SEC. 3. Chapter 15 (commencing with Section 66350) is added to Division 1 of Title 7 of the Government Code, to read:",
+   "paras": [
+    "§66350. The Legislature finds and declares all of the following:",
+    "(a) Retailers, particularly independent and family-owned retailers, are essential to California’s economic growth, support jobs for workers, and serve as real-world, in-person gathering points in communities.",
+    "(b) Family-owned retailers serve as business, cultural, and economic anchors in their communities, preserving and sharing diverse offerings while also creating spaces for community gatherings and connections.",
+    "(c) The retail industry is one of California’s largest small business employers, providing jobs, career advancement opportunities, and pathways to business ownership for new and immigrant entrepreneurs and historically underserved communities.",
+    "(d) California’s retail sector is a vital component of the state’s economy and tourism industry, generating substantial economic activity in communities throughout the state.",
+    "(e) The retail industry directly employs over 3,000,000 Californians across over 500,000 retail establishments, bolstering economies of local communities throughout the state.",
+    "(f) Delays in building plan review processes can create significant economic hardship for employers in the retail sector.",
+    "(g) Qualified licensed architects and engineers can supplement municipal plan review capacity while maintaining public safety standards.",
+    "(h) The Legislature, by enactment of Chapter 470 of the Statutes of 2025, created an expedited review process for restaurants to open with less delay. An expedited review process for retail establishments will similarly promote economic development while ensuring compliance with all applicable health and safety requirements.",
+    "§66350.1. For purposes of this chapter, all of the following definitions apply:",
+    "(a) “Qualified professional certifier” means an architect licensed pursuant to Chapter 3 (commencing with Section 5500) of Division 3 of the Business and Professions Code, or a professional engineer licensed pursuant to Chapter 7 (commencing with Section 6700) of Division 3 of the Business and Professions Code, who meets both of the following conditions:",
+    "(1) Has at least five years of experience in commercial building design or plan review.",
+    "(2) Maintains professional liability insurance in an amount not less than two million dollars ($2,000,000) per occurrence.",
+    "(b) “Retailer” means any person that is engaged in the business of making retail sales directly to the general public. “Retailer” does not include a retail food establishment that prepares, serves, and vends food directly to the consumer, or a fast food restaurant, as that term is defined in Section 1474 of the Labor Code.",
+    "(c) “Tenant improvement” means a change to the interior of an existing building.",
+    "§66350.2. (a) (1) Unless otherwise provided in Chapter 14 (commencing with Section 66345), a local building department shall allow, upon request from an applicant for a permit for a tenant improvement relating to a retailer, a qualified professional certifier to certify, at the applicant’s expense, compliance with all applicable building, health, and safety codes, including, but not limited to, building standards approved by the California Building Standards Commission and local building standards, for the tenant improvement.",
+    "(2) A tenant improvement relating to a retailer certified pursuant to this chapter shall comply with all applicable building, health, and safety codes, including, but not limited to, building standards approved by the California Building Standards Commission and local building standards, in effect at the time the application for a permit is submitted.",
+    "(b) (1) (A) A qualified professional certifier shall prepare an affidavit, under penalty of perjury, attesting that the tenant improvement plans and specifications comply with all applicable building, health, and safety codes, including, but not limited to, building standards approved by the California Building Standards Commission and local building standards.",
+    "(B) A qualified professional certifier or the applicant shall prepare an affidavit, under penalty of perjury, attesting that the retailer for which the tenant improvement is constructed meets the requirements of subdivision (b) of Section 66350.1.",
+    "(2) The local building department shall approve or deny the application within 20 business days of receiving a complete application, including the affidavits specified in paragraph (1).",
+    "(3) If a complete application is denied within the 20-business-day period described in paragraph (2), the applicant may resubmit corrected plans addressing the deficiencies identified in the initial denial. The local building department’s review of each subsequent resubmission shall be limited to correcting the deficiencies identified in the initial denial. The local building department shall approve or deny each subsequent resubmission within 10 business days of receipt.",
+    "(c) (1) Each local building department shall conduct a random audit of no less than 20 percent of all tenant improvements submitted per week for certification under this chapter.",
+    "(2) Audits shall be initiated within five business days following permit issuance and shall include a review of the submitted plans for compliance with all applicable building, health, and safety codes, including, but not limited to, building standards approved by the California Building Standards Commission and local building standards.",
+    "(3) If an audit reveals material noncompliance, the local building department shall provide a plan check correction notice within 10 business days of the audit’s initiation.",
+    "(d) Certification under this chapter does not exempt a tenant improvement from other mandatory construction inspections, including, but not limited to, fire, health, and structural inspections conducted during or after construction.",
+    "(e) Any false statement in a certification submission made under this chapter shall be grounds for disciplinary action by the California Architects Board, pursuant to Section 5586.5 of the Business and Professions Code, or the Board for Professional Engineers, Land Surveyors, and Geologists, pursuant to Section 6775 of the Business and Professions Code, as applicable.",
+    "(f) A city or county may adopt, by ordinance, additional qualifications or requirements for a qualified professional certifier, including, but not limited to, any of the following:",
+    "(1) A requirement to register with the city or county prior to certifying plans pursuant to this chapter.",
+    "(2) Training requirements that must be completed prior to certifying plans pursuant to this chapter.",
+    "(3) Payment of fees not to exceed the reasonable cost of implementing this chapter.",
+    "(4) Penalties that may include decertification as a qualified professional certifier in that jurisdiction or reasonable administrative fines for either of the following:",
+    "(A) Willful noncompliance with the requirements of this chapter.",
+    "(B) Two or more instances in which the qualified professional certifier attested to certifying noncompliant plans pursuant to this chapter.",
+    "(g) A city or county may adopt requirements that do either of the following, provided that the requirements do not prohibit or effectively prohibit the use of a qualified professional certifier pursuant to this section:",
+    "(1) Limit the size of an eligible structure to no less than 10,000 square feet.",
+    "(2) Specify the types of businesses or occupancies that are eligible.",
+    "§66350.3. This chapter does not prohibit a local building department from charging permit fees for applications utilizing a qualified professional certifier.",
+    "§66350.4. (a) Qualified professional certifiers shall be liable for any damages arising from negligent plan review pursuant to this chapter.",
+    "(b) The applicant shall indemnify the local agency from any property damage or personal injury arising from construction permitted pursuant to this chapter.",
+    "(c) Notwithstanding Section 815.6, a public entity or public employee is not liable for an injury caused by their discretionary or ministerial acts or omissions relating to the issuance or denial of any permit pursuant to this chapter.",
+    "§66350.5. Nothing in this chapter shall be construed to authorize the displacement of public employees. Local agencies shall not reduce, eliminate, or fail to fill budgeted civil service positions within the building department as a result of the use of a qualified professional certifier pursuant to this section.",
+    "§66350.6. If there is an excessive delay, as defined in paragraph (2) of subdivision (f) of Section 19837 of the Health and Safety Code, the use of a qualified professional certifier by a local agency shall be temporary and not exceed the time required to complete the review of a tenant improvement application."
+   ]
+  },
+  {
+   "action": "SEC. 4. The Legislature finds and declares that retailers’ role in the state’s economy and tourism industry is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, Section 3 of this act adding Chapter 15 (commencing with Section 66350) to Division 1 of Title 7 of the Government Code applies to all cities, including charter cities.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 5. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act or because costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIIIB of the California Constitution.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "827",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law, the California Building Standards Law, establishes the California Building Standards Commission within the Department of General Services. Existing law requires the commission to approve and adopt building standards and to codify those standards in the California Building Standards Code. Existing law authorizes local governments to enact ordinances or regulations that make building standards amendments to the California Building Standards Code, as specified. Existing law establishes a streamlined approval process for a local permit for a tenant improvement related to a restaurant, as defined.",
+  "This bill would establish a similar streamlined approval process for a local permit for a tenant improvement relating to a retailer, as defined. In this regard, the bill would require a local building department, upon the request and at the expense of the permit applicant, to allow a qualified professional certifier, defined as a licensed architect or engineer who meets certain requirements, to certify that the plans and specifications of the tenant improvement comply with all applicable building, health, and safety codes, as specified, unless otherwise provided by specified provisions. The bill would require a qualified professional certifier, or the applicant, as applicable, to prepare certain affidavits related to the tenant improvement under penalty of perjury. The bill would require the local building department to approve or deny the permit application within 20 business days of receiving a complete application. The bill would also authorize the applicant to resubmit corrected plans addressing the deficiencies identified in the initial denial, would limit the local building department’s review of each subsequent resubmission to the deficiencies identified in the initial denial, and would require the local building department to approve or deny each subsequent resubmission within 10 business days of receipt. The bill would require each local building department to conduct audits of tenant improvements submitted for certification, as specified. The bill would authorize a city or county to adopt additional qualifications or requirements for qualified professional certifiers, including penalties or reasonable administrative fines for certain actions. The bill would make qualified professional certifiers liable for any damages arising from negligent plan review. The bill would also require the applicant to indemnify the local agency from any property damage or personal injury arising from construction permitted under the above-described provisions. The bill would further require the use of a qualified professional certifier to be temporary in cases in which there is an excessive delay, as defined.",
+  "Existing law establishes the California Architects Board and the Board for Professional Engineers, Land Surveyors, and Geologists to administer the licensure and regulation of architects and engineers, respectively. Existing law specifies grounds for disciplinary action by the boards.",
+  "This bill would deem making a false statement in a certification described above to be grounds for disciplinary action against a licensee who serves as a qualified professional certifier.",
+  "Existing law, the Government Claims Act, establishes the liability and immunity of a public entity for its acts or omissions that cause harm to persons. Where a public entity is under a mandatory duty imposed by an enactment that is designed to protect against the risk of a particular kind of injury, the act makes the public entity liable for an injury of that kind proximately caused by its failure to discharge the duty unless the public entity establishes that it exercised reasonable diligence to discharge the duty.",
+  "This bill, notwithstanding the above-described liability of a public entity for failure to discharge certain mandatory duties, would provide that a public entity or public employee is not liable for an injury caused by their discretionary or ministerial acts or omissions relating to the issuance or denial of a permit pursuant to the bill’s provisions.",
+  "Existing law, the California Environmental Quality Act (CEQA), requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA does not apply to the approval of ministerial projects.",
+  "To the extent that the streamlined, ministerial review processes established by the bill would apply to final, discretionary approval of a tenant improvement, the bill would exempt those projects from CEQA.",
+  "This bill would also make related findings and declarations.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "By adding to the duties of local officials with respect to the review and approval of tenant improvements for retailers, and by expanding the scope of various crimes related to these provisions, this bill would impose a state-mandated local program.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for specified reasons."
+ ],
+ "hash": "1ec4406af22d1959",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "chamber": "A",
+   "date": "2026-02-03"
+  },
+  {
+   "action": "From printer. May be heard in committee March 6.",
+   "chamber": "A",
+   "date": "2026-02-04"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV., NAT. RES. and JUD.",
+   "chamber": "A",
+   "date": "2026-03-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on B. & P. (Ayes 10. Noes 0.) (April 15). Re-referred to Com. on B. & P.",
+   "chamber": "A",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 18. Noes 0.) (April 21). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2026-04-21"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 6).",
+   "chamber": "A",
+   "date": "2026-05-06"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-05-07"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 77. Noes 0. Page 5044.)",
+   "chamber": "A",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "chamber": "S",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV., B. P. & E.D. and JUD.",
+   "chamber": "S",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on B. P. & E.D. (Ayes 6. Noes 0.) (June 17). Re-referred to Com. on B. P. & E.D.",
+   "chamber": "S",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 10. Noes 0.) (June 22). Re-referred to Com. on JUD.",
+   "chamber": "S",
+   "date": "2026-06-22"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
+   "chamber": "S",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (June 30). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "chamber": "S",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-08-04"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "chamber": "S",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "chamber": "S",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 39. Noes 0.).",
+   "chamber": "S",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "chamber": "A",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 6634.).",
+   "chamber": "A",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "chamber": "",
+   "date": "2026-09-03"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2026-09-30"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 827, Statutes of 2026.",
+   "chamber": "",
+   "date": "2026-09-30"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-30",
+  "id": "20250AB169394CHP",
+  "num": "94"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Chapter 15 (commencing with Section 66350) is added to Division 1 of Title 7 of the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "The Legislature finds and declares all of the following:",
+    "(a) Retailers, particularly independent and family-owned retailers, are essential to California’s economic growth, support jobs for workers, and serve as real-world, in-person gathering points in communities.",
+    "(b) Family-owned retailers serve as business, cultural, and economic anchors in their communities, preserving and sharing diverse offerings while also creating spaces for community gatherings and connections.",
+    "(c) The retail industry is one of California’s largest small business employers, providing jobs, career advancement opportunities, and pathways to business ownership for new and immigrant entrepreneurs and historically underserved communities.",
+    "(d) California’s retail sector is a vital component of the state’s economy and tourism industry, generating substantial economic activity in communities throughout the state.",
+    "(e) The retail industry directly employs over 3,000,000 Californians across over 500,000 retail establishments, bolstering economies of local communities throughout the state.",
+    "(f) Delays in building plan review processes can create significant economic hardship for employers in the retail sector.",
+    "(g) Qualified licensed architects and engineers can supplement municipal plan review capacity while maintaining public safety standards.",
+    "(h) The Legislature, by enactment of Chapter 470 of the Statutes of 2025, created an expedited review process for restaurants to open with less delay. An expedited review process for retail establishments will similarly promote economic development while ensuring compliance with all applicable health and safety requirements."
+   ],
+   "sec": "66350",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Accelerated retailer building plan approval: tenant improvements.",
+ "title": "An act to amend Sections 5586.5 and 6775 of the Business and Professions Code, and to add Chapter 15 (commencing with Section 66350) to Division 1 of Title 7 of the Government Code, relating to retailers.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-03",
+   "id": "20250AB169399INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-25",
+   "id": "20250AB169398AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-19",
+   "id": "20250AB169397AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-21",
+   "id": "20250AB169396AMD",
+   "num": "96"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-30",
+   "id": "20250AB169395ENR",
+   "num": "95"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-30",
+   "id": "20250AB169394CHP",
+   "num": "94"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "A",
+   "date": "2026-04-15",
+   "location": "Asm Local Government",
+   "motion": "Do pass and be re-referred to the Committee on [Business and Professions]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "A",
+   "date": "2026-04-21",
+   "location": "Asm Business and Professions",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1",
+   "yes": 18
+  },
+  {
+   "chamber": "A",
+   "date": "2026-05-06",
+   "location": "Asm Appropriations",
+   "motion": "Do pass.",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1",
+   "yes": 14
+  },
+  {
+   "chamber": "A",
+   "date": "2026-05-14",
+   "location": "Assembly Floor",
+   "motion": "AB 1693 Zbur Assembly Third Reading",
+   "no": 0,
+   "nv": 3,
+   "result": "pass",
+   "seq": "1014",
+   "yes": 77
+  },
+  {
+   "chamber": "S",
+   "date": "2026-06-17",
+   "location": "Sen Local Government",
+   "motion": "Do pass, but first be re-referred to the Committee on [Business, Professions and Economic Development]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 6
+  },
+  {
+   "chamber": "S",
+   "date": "2026-06-22",
+   "location": "Sen Business, Professions and Economic Development",
+   "motion": "Do pass, but first be re-referred to the Committee on [Judiciary]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "S",
+   "date": "2026-06-30",
+   "location": "Sen Judiciary",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 12
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-26",
+   "location": "Senate Floor",
+   "motion": "Assembly 3rd Reading AB1693 Zbur et al. By Grayson",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1051",
+   "yes": 39
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-26",
+   "location": "Assembly Floor",
+   "motion": "AB 1693 Zbur Concurrence in Senate Amendments",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1124",
+   "yes": 79
+  }
+ ]
+}

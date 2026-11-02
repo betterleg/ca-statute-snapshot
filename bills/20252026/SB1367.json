@@ -1,0 +1,372 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Cervantes",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Solache",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB1367",
+ "bill_id": "202520260SB1367",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. The Legislature finds and declares all of the following: (a) The Constitution of the State of California reserves to the state broad police powers in order to protect the public health, safety, and welfare of all of the people of California. The regulation of land use, planning, and development is among the state’s most fundamental and longstanding exercises of those powers. (b) Pursuant to the Planning and Zoning Law (Title 7 (commencing with Section 65000) of the Government Code), the Legislature has established a comprehensive statewide framework governing the orderly development of land, the compatibility of adjacent land uses, and the protection of public infrastructure and community resources. (c) Land uses that involve the custodial confinement of persons present unique planning and land use considerations because of their operational characteristics, intensity of use, and demands on local transportation networks, public utilities, emergency response services, water and waste infrastructure, and compatibility with surrounding land uses. (d) This act is intended to solely regulate land use and development through the exercise of the state’s police power and does not regulate criminal law, civil or administrative enforcement, or the detention authority of any governmental entity. (e) Nothing in this act shall be construed to regulate or interfere with the authority of the United States or any other governmental entity to enforce applicable law or to determine whether an individual can be detained or not. This act only governs land use approvals, zoning classifications, and development standards applicable to property within the State of California. (f) The statewide regulation of detention facilities as a land use classification serves legitimate planning objectives of statewide concern, independent of the government occupant or the legal status of any person detained within those facilities.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Section 65850.05 is added to the Government Code, to read:",
+   "paras": [
+    "§65850.05. (a) For purposes of this section, “detention facility” means any structure, whether temporary or permanent, operated by a private entity on behalf of a governmental entity for the temporary holding of persons charged with a criminal offense or detained for civil or administrative purposes.",
+    "(b) Notwithstanding any other law, a city or county shall not approve either of the following:",
+    "(1) A new land use in a manner that authorizes construction of a detention facility.",
+    "(2) A change of use that permits use of an existing building as a detention facility."
+   ]
+  },
+  {
+   "action": "SEC. 3. The provisions of this act are severable. If any provision of this act or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 4. The Legislature finds and declares that protecting California residents from the negative impacts of private detention centers is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, Section 2 of this act adding Section 65850.05 to the Government Code applies to all cities, including charter cities.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 5. No reimbursement is required by this act pursuant to Section 6 of Article XIIIB of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "758",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law authorizes the legislative body of any county or city to adopt ordinances that, among other things, regulate the use of buildings, structures, and land as between industry, business, residences, open space, including agriculture, recreation, enjoyment of scenic beauty, use of natural resources, and other purposes.",
+  "This bill would prohibit a city or county from approving new land uses in a manner that authorize construction of a detention facility or changes of use that permit use of an existing building as a detention facility, as defined for purposes of these provisions. By adding to the duties of local officials, this bill would impose a state-mandated local program.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that no reimbursement is required by this act for a specified reason."
+ ],
+ "hash": "4b92967ae58d2c69",
+ "history": [
+  {
+   "action": "Introduced. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2026-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "chamber": "S",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Read first time.",
+   "chamber": "S",
+   "date": "2026-02-23"
+  },
+  {
+   "action": "Referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-03-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+   "chamber": "S",
+   "date": "2026-03-25"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV.",
+   "chamber": "S",
+   "date": "2026-04-08"
+  },
+  {
+   "action": "Set for hearing April 22.",
+   "chamber": "S",
+   "date": "2026-04-09"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "chamber": "S",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 2. Page 4015.) (April 22). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "Set for hearing May 4.",
+   "chamber": "S",
+   "date": "2026-04-24"
+  },
+  {
+   "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+   "chamber": "S",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-05-05"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 29. Noes 8. Page 4441.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2026-05-26"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "chamber": "A",
+   "date": "2026-06-01"
+  },
+  {
+   "action": "June 17 set for first hearing canceled at the request of author.",
+   "chamber": "A",
+   "date": "2026-06-17"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 2.) (July 1). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Coauthors revised.",
+   "chamber": "A",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 11. Noes 4.) (August 5).",
+   "chamber": "A",
+   "date": "2026-08-05"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-06"
+  },
+  {
+   "action": "Assembly Rule 69(b)(1) suspended. (Ayes 55. Noes 17. Page 6296.)",
+   "chamber": "A",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Read third time and amended.",
+   "chamber": "A",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-21"
+  },
+  {
+   "action": "Re-referred to Com. on L. GOV. pursuant to Assembly Rule 77.2.",
+   "chamber": "A",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Joint Rule 62(a) suspended.",
+   "chamber": "A",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "chamber": "A",
+   "date": "2026-08-25"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 8. Noes 2.) (August 27).",
+   "chamber": "A",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 60. Noes 19. Page 6859.) Ordered to the Senate.",
+   "chamber": "A",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "chamber": "S",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 29. Noes 10.) Ordered to engrossing and enrolling.",
+   "chamber": "S",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 4 p.m.",
+   "chamber": "",
+   "date": "2026-09-08"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 758, Statutes of 2026.",
+   "chamber": "",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250SB136793CHP",
+  "num": "93"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 65850.05 is added to the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section, “detention facility” means any structure, whether temporary or permanent, operated by a private entity on behalf of a governmental entity for the temporary holding of persons charged with a criminal offense or detained for civil or administrative purposes.",
+    "(b) Notwithstanding any other law, a city or county shall not approve either of the following:",
+    "(1) A new land use in a manner that authorizes construction of a detention facility.",
+    "(2) A change of use that permits use of an existing building as a detention facility."
+   ],
+   "sec": "65850.05",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Planning and zoning: detention facilities.",
+ "title": "An act to add Section 65850.05 to the Government Code, relating to land use.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-20",
+   "id": "20250SB136799INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-03-25",
+   "id": "20250SB136798AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-04-16",
+   "id": "20250SB136797AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-21",
+   "id": "20250SB136796AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-25",
+   "id": "20250SB136795AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-02",
+   "id": "20250SB136794ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250SB136793CHP",
+   "num": "93"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2026-04-22",
+   "location": "Sen Local Government",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+   "no": 2,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 5
+  },
+  {
+   "chamber": "S",
+   "date": "2026-05-26",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB1367 Cervantes",
+   "no": 8,
+   "nv": 3,
+   "result": "pass",
+   "seq": "4412",
+   "yes": 29
+  },
+  {
+   "chamber": "A",
+   "date": "2026-07-01",
+   "location": "Asm Local Government",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations]",
+   "no": 2,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 8
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-05",
+   "location": "Asm Appropriations",
+   "motion": "Do pass.",
+   "no": 4,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 11
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-30",
+   "location": "Assembly Floor",
+   "motion": "SB 1367 Cervantes Senate Third Reading By Kalra",
+   "no": 19,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1024",
+   "yes": 60
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-30",
+   "location": "Senate Floor",
+   "motion": "Unfinished Business SB1367 Cervantes et al. Concurrence",
+   "no": 10,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1114",
+   "yes": 30
+  }
+ ]
+}

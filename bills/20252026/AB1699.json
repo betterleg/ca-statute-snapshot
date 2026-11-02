@@ -1,0 +1,605 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Rogers",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "PRINCIPAL_COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Hadwick",
+   "party": "R",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Alanis",
+   "party": "R",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Bennett",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Caloza",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Connolly",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Petrie-Norris",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Wallis",
+   "party": "R",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Arreguín",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "SENATE",
+   "name": "Grayson",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "AB1699",
+ "bill_id": "202520260AB1699",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. This act shall be known, and may be cited, as the Good Fire Act.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. The Legislature finds and declares all of the following: (a) California has taken extraordinary actions to protect residents from catastrophic wildfires in recent years because effective, ecologically appropriate management of public and private lands across our state is critical to limiting dangerous wildfire conditions that threaten life and property and ensuring healthy, resilient ecosystems. (b) California’s landscapes evolved with both natural ignitions and indigenous use of fire, and past policies that attempted to eradicate wildfires from these landscapes resulted in unintended adverse consequences, including overly dense forests and conditions that exacerbate risks of ignitions becoming large, dangerous fires. (c) Beneficial fire includes practices known as “cultural fire,” “cultural burning,” “prescribed fire,” “prescribed burning,” “good fire,” and “managed fire,” which are practices that enable many types of landscapes to benefit from fire to protect communities and safeguard natural and cultural resources. (d) Beneficial fire has a proven track record of restoring the health of California’s fire-adapted landscapes and limiting the intensity and severity of subsequent wildfires, thereby reducing the risk of large, catastrophic wildfires. (e) California’s use of beneficial fire has expanded in recent years, and beneficial fire treatments doubled between 2021 and 2024 thanks to tribal, state, federal, local, and nonprofit partners. To reach state goals for both initial treatment and maintenance, however, significantly more beneficial fire is needed. (f) In light of the conditions and risk of catastrophic fires, it is critical that the state take more action to further expedite and expand beneficial fire projects, where appropriate, to enable practitioners to more effectively implement safe and effective beneficial fire projects.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 3. Section 4477 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§4477. (a) The State Fire Marshal, with the involvement of the Statewide Training and Education Advisory Committee, shall develop a curriculum for, or amend into an existing curriculum, a certification program for burn bosses, who, pursuant to Section 4476, possess authority to engage in a prescribed burning operation and to enter into the necessary contracts related to a prescribed burning operation. The curriculum shall provide for the initial certification as well as the continuing education of burn bosses. As part of the continuing education of burn bosses, the State Fire Marshal shall require recertification no sooner than every three years. The department shall consider methods to increase the pool of available instructors for the certification program, including the use of nondepartment instructors. It is the intent of the Legislature that this curriculum become a regular part of the training of firefighters conducted by the Department of Forestry and Fire Protection and all other appropriate accredited training providers.",
+    "(b) In addition to the curriculum and certification program developed pursuant to subdivision (a), the department shall, in consultation with the Statewide Training and Education Advisory Committee, develop a mechanism to allow individuals certified by the department as a prescribed fire incident commander or equivalent, individuals qualified for the National Wildfire Coordinating Group position title of “Prescribed Fire Burn Boss Type 1” or “Prescribed Fire Burn Boss Type 2” or equivalent, or individuals certified as prescribed fire managers or similar positions by other states pursuant to a certification program that is substantially similar to the program described in subdivision (a) to be designated as a state-certified burn boss pursuant to subdivision (a). Once certified, an individual may use the recertification process provided in subdivision (a) to maintain currency as a state-certified burn boss.",
+    "(c) In addition to the curriculum and certification program developed pursuant to subdivision (a), the department shall develop a training program for prescribed fire users to certify professionals in any agency or organization as burn bosses. The department shall certify these individuals to a common standard. It is the intent of the Legislature that the department use its discretion to ensure that burn bosses are thoroughly qualified to engage in prescribed burning operations prior to issuing certifications.",
+    "(d) On or before July 1, 2023, the State Fire Marshal, with the involvement of the Statewide Training and Education Advisory Committee, in consultation with the California Conservation Corps, the Regional Forest and Fire Capacity program, a statewide intertribal organization or indigenous stewardship network, and the Sierra Nevada Conservancy, shall develop a proposal to establish a prescribed fire training center. In developing the proposal, the State Fire Marshal shall do all of the following:",
+    "(1) Collaborate with the University of California Cooperative Extension, fire safe councils, relevant California State Universities, California Native American tribes, tribal organizations, cultural fire practitioners, resource conservation districts, and other relevant stakeholders on the development of the proposal.",
+    "(2) Identify potential funding sources for the proposal, including, but not limited to, federal funds, and consider the proposal’s eligibility for those funding sources.",
+    "(3) Identify potential locations for a prescribed fire training center.",
+    "(4) Identify opportunities for satellite learning landscapes to support the work of the prescribed fire training center.",
+    "(5) Ensure that cultural fire practitioners are engaged in the development and ongoing leadership of the prescribed fire training center.",
+    "(e) On or before January 1, 2023, the State Fire Marshal shall post and update on its internet website the number of burn bosses with an active burn boss certification.",
+    "(f) Adherence to the best practices outlined in the curriculum and certification process established pursuant to this section shall constitute prima facie evidence of due diligence.",
+    "(g) The changes made to this section by Assembly Bill 1699 of the 2025–26 Regular Session do not alter, expand, or limit the applicable standard of care related to prescribed fires and cultural burning under California law."
+   ]
+  },
+  {
+   "action": "SEC. 4. Section 4493 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§4493. (a) (1) Upon receipt of an application, the department shall inspect the land in company with the applicant to determine whether a permit shall be granted, shall prescribe the manner in which the site for the prescribed burning shall be prepared, and shall require any precautions to be taken by the applicant as may be considered reasonable to prevent damage to the property of others by reason of the burning. The precautions shall, if deemed necessary, include the advance preparation of firebreaks and the firefighting equipment and personnel desirable to conduct the prescribed burning.",
+    "(2) Notwithstanding paragraph (1), the department may waive the inspection requirement or modify the standard precautions described in paragraph (1) for an application submitted by any of the following individuals:",
+    "(A) A person certified pursuant to Section 4477 to conduct prescribed burning operations and to enter into contracts related to prescribed burning operations.",
+    "(B) A person qualified for the National Wildfire Coordinating Group position title of “Prescribed Fire Burn Boss Type 1” or “Prescribed Fire Burn Boss Type 2.”",
+    "(C) A cultural fire practitioner, as defined in Section 3333.8 of the Civil Code.",
+    "(D) Other parties as determined by the director.",
+    "(b) In issuing the permit, the department shall consider the availability of nondepartmental contingency resources when determining whether to require department contingency resources as part of the required precautions.",
+    "(c) The department shall, to the extent feasible, employ burn suspensions at the unit level, and not at the state or regional level, to not unreasonably restrict prescribed burning operations that are within prescription.",
+    "(d) The changes made to this section by Assembly Bill 1699 of the 2025–26 Regular Session do not alter, expand, or limit the applicable standard of care related to prescribed fires and cultural burning under California law."
+   ]
+  },
+  {
+   "action": "SEC. 5. Section 4497.3 is added to the Public Resources Code, immediately following Section 4497.2, to read:",
+   "paras": [
+    "§4497.3. A state agency, department, board, or commission that has awarded grant funds for a project that includes the preparation for, or implementation of, a beneficial fire project shall include as an allowable expense of the grant the payment of overtime or double rates of pay to employees or contractors who prepare for or implement the beneficial fire project when such expenses are necessary for the implementation of the beneficial fire project."
+   ]
+  },
+  {
+   "action": "SEC. 6. Section 4500 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§4500. (a) For purposes of this article, the following terms have the following meanings:",
+    "(1) “Burn boss” means either of the following:",
+    "(A) A person certified pursuant to Section 4477 to conduct prescribed burning operations and to enter into contracts related to prescribed burning operations.",
+    "(B) A person who possesses current qualification for the National Wildfire Coordinating Group position title of “Prescribed Fire Burn Boss Type 1” or “Prescribed Fire Burn Boss Type 2.”",
+    "(2) “Cultural burn” has the same meaning as set forth in Section 3333.8 of the Civil Code.",
+    "(3) “Cultural fire practitioner” has the same meaning as set forth in Section 3333.8 of the Civil Code.",
+    "(4) “Fund” means the Prescribed Fire Claims Fund established pursuant to subdivision (c).",
+    "(5) “Program” means the Prescribed Fire Liability Pilot Program established pursuant to subdivision (b).",
+    "(b) The Prescribed Fire Liability Pilot Program is hereby established, to be administered by the department, to increase the pace and scale of the use of prescribed fire and cultural burning and to reduce barriers for conducting prescribed fires and cultural burning.",
+    "(c) (1) (A) The Prescribed Fire Claims Fund is hereby created in the State Treasury to support coverage for losses from prescribed fires and cultural burning on any lands within the state led by individuals and entities other than the department or the federal government. The moneys in the fund shall be under the control of the department, and the department, or the third-party administrator with whom the department contracts pursuant to subdivision (d), is authorized to direct payments for claims from the fund, consistent with this section and the guidelines adopted by the department pursuant to subdivision (e).",
+    "(B) Upon order of the Department of Finance, the amount in Item 3540-102-0001 of the Budget Act of 2021 (Chapter 240 of the Statutes of 2021) shall be transferred into the fund.",
+    "(C) Notwithstanding Section 13340 of the Government Code or any other law, all moneys deposited or transferred into the fund, including pursuant to subparagraph (B), shall be continuously appropriated, without regard to fiscal years, to the department for purposes of this section.",
+    "(2) (A) Except as provided in subparagraph (B), notwithstanding any other law, the Controller may use moneys in the fund for cashflow loans to the General Fund as provided in Sections 16310 and 16381 of the Government Code. Interest shall be paid on all moneys loaned to the General Fund and shall be computed at a rate determined by the Pooled Money Investment Board to be the current earning rate of the fund.",
+    "(B) This paragraph does not authorize any transfer that would interfere with the department’s ability to carry out the purposes of this section.",
+    "(d) (1) The department may contract with any entity, including another state agency, to serve as a third-party administrator to administer or to assist in administering the fund, including, but not limited to, managing and operating the fund, adjusting claims made to the fund, and paying claims from the fund. Subject to prior written approval by the Insurance Commissioner pursuant to Section 1063.19 of the Insurance Code, the California Insurance Guarantee Association may serve as a third-party administrator of the fund. Participation by the California Insurance Guarantee Association shall be governed by the Insurance Commissioner’s authority over its Plan of Operation, pursuant to Article 14.2 (commencing with Section 1063) of Chapter 1 of Part 2 of Division 1 of the Insurance Code.",
+    "(2) A third-party administrator with whom the department contracts pursuant to this subdivision, including the California Insurance Guarantee Association, is prohibited from settling or adjusting any claims to the fund while seeking to subrogate against the fund.",
+    "(3) (A) Notwithstanding any other law, advertising, competitive bidding, and protest requirements, and the requirement for Department of General Services approval, do not apply to a contract of no more than three years entered into by the department in the 2022–23 fiscal year with a third-party administrator pursuant to this subdivision. However, subsequent contracts shall be awarded in accordance with applicable state laws and policies.",
+    "(B) In the event that a third-party administrator with whom the department contracts with pursuant to this subdivision, including the California Insurance Guarantee Association, is prohibited by law from settling or adjusting any claims to the fund as a result of seeking to subrogate against the fund, the department may award a contract to a new third-party administrator for the limited purpose of settling and adjusting those claims only and that contract shall not be subject to existing advertising, competitive bidding, and protest requirements, or the requirement for Department of General Services approval.",
+    "(e) The department shall collaborate with other relevant state agencies, cultural fire practitioners, and burn bosses to establish guidelines governing the program and the administration of the fund, including the payment of claims from the fund. The guidelines shall include, at a minimum, all of the following requirements:",
+    "(1) An eligible claim shall relate to either of the following:",
+    "(A) A prescribed fire conducted or supervised by a burn boss.",
+    "(B) A cultural burn conducted or supervised by a cultural fire practitioner.",
+    "(2) A claim shall not be paid from the fund unless, at a minimum, all of the following conditions are met:",
+    "(A) (i) The department or a burn boss has reviewed and approved a burn plan before the prescribed fire or cultural burning.",
+    "(ii) A burn plan shall be submitted to the claims fund portal before ignition.",
+    "(B) A burn permit, if required, and all other permits required to conduct the prescribed fire or cultural burn were obtained.",
+    "(C) The department determines that the prescribed fire or cultural burn complied with, as applicable, the terms and conditions of all burn plans, burn permits, and other permits required to conduct the prescribed fire or cultural burn.",
+    "(3) The maximum amount the fund shall pay for losses arising from any one prescribed fire or cultural burn event is two million dollars ($2,000,000). For purposes of this paragraph, “losses arising from any one prescribed fire or cultural burn event” means all activities conducted pursuant to any one burn plan and, if required, burn permit.",
+    "(4) Methods for prioritizing broadcast burns and burns by nonpublic individuals or entities or California Native American tribes in the event the fund is oversubscribed.",
+    "(f) The department shall post the guidelines established pursuant to subdivision (e) on its internet website.",
+    "(g) Notwithstanding any other law, the state’s liability for all claims for covered losses established pursuant to this section and the guidelines developed by the department pursuant to subdivision (e) shall be limited as described in this section and to the amount in the fund.",
+    "(h) The Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code) does not apply to the guidelines developed by the department pursuant to subdivision (e) and used by the department or a third-party administrator with whom the department contracts pursuant to subdivision (d) to implement the program and to administer the fund.",
+    "(i) A person engaging with a Native American tribe, tribal organization, or cultural fire practitioner pursuant to this article shall respect tribal sovereignty, customs, and culture.",
+    "(j) The changes made to this section by Assembly Bill 1699 of the 2025–26 Regular Session do not alter, expand, or limit the applicable standard of care related to prescribed fires and cultural burning under California law."
+   ]
+  },
+  {
+   "action": "SEC. 7. Section 4503 of the Public Resources Code is repealed.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 8. Section 4503 is added to the Public Resources Code, to read:",
+   "paras": [
+    "§4503. No later than one year after a claim is paid from the fund, the department shall submit a report to the Legislature, in compliance with Section 9795 of the Government Code, regarding the claim process and propose statutory changes that may improve the efficiency, transparency, effectiveness, or overall function of the fund."
+   ]
+  },
+  {
+   "action": "SEC. 9. Section 4799.05 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§4799.05. (a) (1) The director may provide grants to, or enter into contracts or other cooperative agreements with, entities, including, but not limited to, private or nongovernmental entities, Native American tribes, or local, state, and federal public agencies, for the implementation and administration of projects and programs to improve forest health and reduce greenhouse gas emissions.",
+    "(2) (A) The director may authorize advance payments to a nonprofit organization, a local agency, a special district, a private forest landowner, or a Native American tribe from a grant awarded pursuant to this section. No single advance payment shall exceed 25 percent of the total grant award.",
+    "(B) (i) The grantee shall expend the funds from the advance payment within six months of receipt, unless the department waives this requirement.",
+    "(ii) The grantee shall file an accountability report with the department six months from the date of receiving the funds and every six months thereafter.",
+    "(C) (i) The department shall provide a report to the Legislature on or before January 1, 2023, on the outcome of the department’s use of advance payments.",
+    "(ii) A report submitted pursuant to this subparagraph shall be submitted in compliance with Section 9795 of the Government Code.",
+    "(iii) The requirement for submitting a report imposed under clause (i) is inoperative on January 1, 2027, pursuant to Section 10231.5 of the Government Code.",
+    "(b) Any project or program described in this section that is funded with moneys from the Greenhouse Gas Reduction Fund, created pursuant to Section 16428.8 of the Government Code, shall comply with all statutory and program requirements applicable to the use of moneys from the fund.",
+    "(c) Moneys appropriated to the department for landscape-scale projects shall be allocated as follows:",
+    "(1) To subsidize the removal of small diameter material, especially surface fuels and ladder fuels, as well as dead trees, in order to help develop markets for beneficial uses of the material, including, but not limited to, animal bedding, biochar, cross-laminated timber, mulch, oriented strand board, pulp, post, shredding, and veneer products.",
+    "(2) For multiple benefit projects, such as tree thinning, carbon sequestration, forest resilience, and improved ecological outcome projects, including, but not limited to, restoring watershed health and function and supporting biodiversity and wildlife adaptation to climate change. The department shall give grant funding priority to landowners who practice uneven aged forest management with a resilient forest of diverse age, size, and species class within the boundaries of the project and whose activities are conducted pursuant to an approved timber harvest plan, nonindustrial timber harvest plan, or working forest management plan. An application for a grant for a project under this paragraph shall include a description of how the proposed project will increase average stem diameter and provide other site-specific improvement to forest complexity, as demonstrated by the expansion of the variety of tree age classes and species persisting for a period of at least 50 years. The department shall also give funding priority to landowners who agree to long-term forest management goals prescribed by the department.",
+    "(3) For activities on national forest lands to increase tree stand heterogeneity, create forest openings of less than one acre, and increase average tree stand diameter of residual trees. Any grants provided under this paragraph shall be approved by the department, in collaboration with appropriate state agencies, including the State Air Resources Board.",
+    "(d) (1) Division 13 (commencing with Section 21000) does not apply to prescribed fire, reforestation, habitat restoration, thinning, or fuel reduction projects, or to related activities included in the project description, undertaken, in whole or in part, on federal lands to reduce the risk of high-severity wildfire that have been reviewed under the federal National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) if either of the following is satisfied:",
+    "(A) The primary role of a state or local agency is providing funding or staffing for those projects.",
+    "(B) A state or local agency is undertaking those projects pursuant to the federal Good Neighbor Authority (Public Law 113-79) or a stewardship agreement with the federal government entered into pursuant to Public Law 113-79.",
+    "(2) Division 13 (commencing with Section 21000) does not apply to the issuance of a permit or other project approval by a state or local agency for projects described in paragraph (1).",
+    "(3) This section does not alter, affect, or in any way diminish the authority of a state or local agency to impose mitigation measures or conditions on projects described in paragraph (1) pursuant to other laws or regulations.",
+    "(4) (A) If the lead agency, as defined in Section 21067, determines that a project is not subject to Division 13 (commencing with Section 21000) pursuant to this subdivision and it determines to approve or carry out the project, the lead agency shall file a notice of exemption with the Office of Land Use and Climate Innovation and with the county clerk in the county in which the project will be located in the manner specified in subdivisions (b) and (c) of Section 21108 or subdivisions (b) and (c) of Section 21152. The lead agency shall also post the notice of exemption on its internet website together with a description of where the documents analyzing the environmental impacts of the project under the federal National Environmental Policy Act of 1969 are available for public review.",
+    "(B) If the lead agency is not the department, the lead agency shall also provide the notice of exemption together with the information set forth in subdivision (d) of Section 4137 to the department. The department shall compile the information submitted to it pursuant to this subparagraph and post the information on the department’s internet website.",
+    "(5) On or before February 1, 2027, if the Secretary of the Natural Resources Agency determines that substantial changes have been made since January 1, 2023, to the federal National Environmental Policy Act of 1969 or other federal laws that affect the management of federal forest lands in California, the secretary shall report those changes to the Legislature in accordance with Section 9795 of the Government Code.",
+    "(6) This subdivision shall become inoperative on January 1, 2028.",
+    "(e) Division 13 (commencing with Section 21000) does not apply to any discretionary approval necessary to carry out or implement projects funded by the Nature-Based Solutions Tribal Program or the tribal cultural burn and tribal wildfire funding authorized by Schedule (2) of Item 3540-101-0001 of Section 2.00 of the Budget Act of 2021, as added by Section 46 of Chapter 240 of the Statutes of 2021. This subdivision only applies to projects carried out on lands subject to the jurisdictional control or the ownership of a California Native American tribe, as defined in Section 21073."
+   ]
+  },
+  {
+   "action": "SEC. 9.5. Section 4799.05 of the Public Resources Code is amended to read:",
+   "paras": [
+    "§4799.05. (a) (1) The director may provide grants to, or enter into contracts or other cooperative agreements with, entities, including, but not limited to, private or nongovernmental entities, Native American tribes, or local, state, and federal public agencies, for the implementation and administration of projects and programs to improve forest or ecosystem health and reduce greenhouse gas emissions.",
+    "(2) (A) The director may authorize advance payments to a nonprofit organization, a local agency, a special district, a private forest landowner, or a Native American tribe from a grant awarded pursuant to this section. No single advance payment shall exceed 25 percent of the total grant award.",
+    "(B) (i) The grantee shall expend the funds from the advance payment within six months of receipt, unless the department waives this requirement.",
+    "(ii) The grantee shall file an accountability report with the department six months from the date of receiving the funds and every six months thereafter.",
+    "(C) (i) The department shall provide a report to the Legislature on or before January 1, 2023, on the outcome of the department’s use of advance payments.",
+    "(ii) A report submitted pursuant to this subparagraph shall be submitted in compliance with Section 9795 of the Government Code.",
+    "(iii) The requirement for submitting a report imposed under clause (i) is inoperative on January 1, 2027, pursuant to Section 10231.5 of the Government Code.",
+    "(b) Any project or program described in this section that is funded with moneys from the Greenhouse Gas Reduction Fund, created pursuant to Section 16428.8 of the Government Code, shall comply with all statutory and program requirements applicable to the use of moneys from the fund.",
+    "(c) Moneys appropriated to the department for landscape-scale projects shall be allocated as follows:",
+    "(1) To subsidize the removal of small diameter material, especially surface fuels and ladder fuels, as well as dead trees, in order to help develop markets for beneficial uses of the material, including, but not limited to, animal bedding, biochar, cross-laminated timber, mulch, oriented strand board, pulp, post, shredding, and veneer products.",
+    "(2) For multiple benefit projects, such as tree thinning, carbon sequestration, forest resilience, and improved ecological outcome projects, including, but not limited to, restoring watershed health and function and supporting biodiversity and wildlife adaptation to climate change. The department shall give grant funding priority to landowners who practice uneven aged forest management with a resilient forest of diverse age, size, and species class within the boundaries of the project and whose activities are conducted pursuant to an approved timber harvest plan, nonindustrial timber harvest plan, or working forest management plan. An application for a grant for a project under this paragraph shall include a description of how the proposed project will increase average stem diameter and provide other site-specific improvement to forest complexity, as demonstrated by the expansion of the variety of tree age classes and species persisting for a period of at least 50 years. The department shall also give funding priority to landowners who agree to long-term forest management goals prescribed by the department.",
+    "(3) For activities on national forest lands to increase tree stand heterogeneity, create forest openings of less than one acre, and increase average tree stand diameter of residual trees. Any grants provided under this paragraph shall be approved by the department, in collaboration with appropriate state agencies, including the State Air Resources Board.",
+    "(4) For activities that improve ecosystem health on chaparral, shrubland, grassland, and coastal sage scrub lands, including, but not limited to, replacement of ignition-prone nonnative fuels or flashy fuels with less flammable vegetation.",
+    "(5) For regional landscape grants that the director may directly award to regional entities to implement regional priority strategies developed pursuant to Section 4208.1.",
+    "(d) (1) Division 13 (commencing with Section 21000) does not apply to prescribed fire, reforestation, habitat restoration, thinning, or fuel reduction projects, or to related activities included in the project description, undertaken, in whole or in part, on federal lands to reduce the risk of high-severity wildfire that have been reviewed under the federal National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) if either of the following is satisfied:",
+    "(A) The primary role of a state or local agency is providing funding or staffing for those projects.",
+    "(B) A state or local agency is undertaking those projects pursuant to the federal Good Neighbor Authority (Public Law 113-79) or a stewardship agreement with the federal government entered into pursuant to Public Law 113-79.",
+    "(2) Division 13 (commencing with Section 21000) does not apply to the issuance of a permit or other project approval by a state or local agency for projects described in paragraph (1).",
+    "(3) This section does not alter, affect, or in any way diminish the authority of a state or local agency to impose mitigation measures or conditions on projects described in paragraph (1) pursuant to other laws or regulations.",
+    "(4) (A) If the lead agency, as defined in Section 21067, determines that a project is not subject to Division 13 (commencing with Section 21000) pursuant to this subdivision and it determines to approve or carry out the project, the lead agency shall file a notice of exemption with the Office of Land Use and Climate Innovation and with the county clerk in the county in which the project will be located in the manner specified in subdivisions (b) and (c) of Section 21108 or subdivisions (b) and (c) of Section 21152. The lead agency shall also post the notice of exemption on its internet website together with a description of where the documents analyzing the environmental impacts of the project under the federal National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) are available for public review.",
+    "(B) If the lead agency is not the department, the lead agency shall also provide the notice of exemption together with the information set forth in subdivision (d) of Section 4137 to the department. The department shall compile the information submitted to it pursuant to this subparagraph and post the information on the department’s internet website.",
+    "(5) On or before February 1, 2027, if the Secretary of the Natural Resources Agency determines that substantial changes have been made since January 1, 2023, to the federal National Environmental Policy Act of 1969 (42 U.S.C. Sec. 4321 et seq.) or other federal laws that affect the management of federal forest lands in California, the secretary shall report those changes to the Legislature in accordance with Section 9795 of the Government Code.",
+    "(6) This subdivision shall become inoperative on January 1, 2028.",
+    "(e) Division 13 (commencing with Section 21000) does not apply to any discretionary approval necessary to carry out or implement projects funded by the Nature-Based Solutions Tribal Program or the tribal cultural burn and tribal wildfire funding authorized by Schedule (2) of Item 3540-101-0001 of Section 2.00 of the Budget Act of 2021, as added by Section 46 of Chapter 240 of the Statutes of 2021. This subdivision only applies to projects carried out on lands subject to the jurisdictional control or the ownership of a California Native American tribe, as defined in Section 21073.",
+    "(f) For purposes of this section, the following definitions apply:",
+    "(1) “Ecosystem” includes forest, chaparral, shrubland, grasslands, and coastal sage ecosystems and natural communities.",
+    "(2) “Flashy fuels” means shrubs, grasses, and foliage, including, but not limited to, pine needles and leaves, that dry or cure rapidly, ignite easily, and spread fire quickly.",
+    "(3) “Nonnative fuels” means nonnative or invasive plant species, including grasses, shrubs, and other annual plants, and nonnative or invasive woody plant species.",
+    "(4) “Regional entity” has the same meaning as defined in Section 4208."
+   ]
+  },
+  {
+   "action": "SEC. 10. Section 21080.49.1 is added to the Public Resources Code, immediately following Section 21080.49, to read:",
+   "paras": [
+    "§21080.49.1. This division does not apply to actions taken by the Department of Forestry and Fire Protection to assist in the implementation of prescribed fire or cultural burning projects that do not otherwise require compliance with this division."
+   ]
+  },
+  {
+   "action": "SEC. 11. Section 9.5 of this bill incorporates amendments to Section 4799.05 of the Public Resources Code proposed by both this bill and Assembly Bill 2513. That section of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2027, but this bill becomes operative first, (2) each bill amends Section 4799.05 of the Public Resources Code, and (3) this bill is enacted after Assembly Bill 2513, in which case Section 4799.05 of the Public Resources Code, as amended by Section 9 of this bill, shall remain operative only until the operative date of Assembly Bill 2513, at which time Section 9.5 of this bill shall become operative.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 12. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the California Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to allow critical land management efforts to continue unabated it is necessary for this act to go into immediate effect.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "761",
+  "year": "2026"
+ },
+ "digest": [
+  "Existing law establishes, until January 1, 2028, the Prescribed Fire Liability Pilot Program, to be administered by the Department of Forestry and Fire Protection, to increase the pace and scale of the use of prescribed fire and cultural burning and to reduce barriers for conducting prescribed fires and cultural burning. Existing law creates the Prescribed Fire Claims Fund in the State Treasury to support coverage for losses from prescribed fires and cultural burning by nonpublic entities, such as cultural fire practitioners, private landowners, and nongovernmental entities. Under existing law, moneys in the fund are under the control of the department, and the department or a contracted third-party administrator is authorized to direct payments for claims from the fund, consistent with specified guidelines adopted by the department. These guidelines include, among other things, (1) a requirement that an eligible claim relate to either a prescribed fire conducted or supervised by a burn boss, as defined, or a cultural burn conducted or supervised by a cultural fire practitioner, and (2) a requirement that a claim shall not be paid from the fund unless the department reviewed and approved a burn plan before the prescribed fire or cultural burning. Existing law requires, upon order of the Department of Finance, the $20,000,000 appropriated to the Department of Forestry and Fire Protection by the Legislature in the Budget Act of 2021 be transferred into the fund, and provides that all moneys deposited or transferred into the fund be continuously appropriated to the department for these purposes.",
+  "By Executive Order N-35-25, Governor Gavin Newsom suspended the limitation on public and governmental agencies enrolling in the Prescribed Fire Liability Pilot Program to the extent that the limitation would prohibit resource conservation districts and volunteer fire departments or districts from such enrollment.",
+  "This bill would establish the Good Fire Act, which would indefinitely extend the Prescribed Fire Liability Program. The bill would explicitly state that the Prescribed Fire Claims Fund shall support coverage for losses from prescribed fires and cultural burning on any lands within the state. The bill would also expand program eligibility by changing the entities who may receive coverage for losses from prescribed fires and cultural burning from nonpublic entities to individuals and entities other than the department or the federal government, as provided. By extending the term of a continuous appropriation and authorizing the expenditure of continuously appropriated funds for new purposes, the bill would make an appropriation.",
+  "This bill would eliminate the requirement for department approval for a plan reviewed and approved by a burn boss, and would require a burn plan to be submitted to the claims fund portal before ignition. The bill would also require the guidelines to include methods for prioritizing broadcast burns and burns by non-public individuals or entities or California Native American tribes in the event the fund is oversubscribed. Within one year of a claim being paid from the fund, the bill would require the department to submit a report to the Legislature regarding the claim process and propose statutory changes related to the fund, as provided.",
+  "Existing law requires the State Fire Marshal, with the involvement of the Statewide Training and Education Advisory Committee, to develop a curriculum for, or amend into an existing curriculum, a certification program for burn bosses who possess authority to engage in a prescribed burning operation and to enter into the necessary contracts related to a prescribed burning operation. Existing law requires this curriculum to provide for the initial certification as well as the continuing education of burn bosses. Under existing law, specified civil liability protections and eligibility for claims from the Prescribed Fire Claims Fund extend to prescribed burns that, among other things, are reviewed and approved by a burn boss certified pursuant to these provisions, as provided.",
+  "This bill would require, as part of the continuing education of burn bosses, the State Fire Marshal to require recertification no sooner than every 3 years. The bill would also require the department to consider methods to increase the pool of available instructors for the certification program, including the use of non-department instructors. The bill would require the department, in consultation with the Statewide Training and Education Advisory Committee, to develop a mechanism to allow specified individuals to be designated as a burn boss. The bill would authorize these individuals certified pursuant to this process to use the above-described recertification process to maintain currency.",
+  "Existing law authorizes an entity that owns or controls brush-covered land, forest lands, woodland, grassland, shrubland, or a combination of those types of land within a state responsibility area to apply to the Department of Forestry and Fire Protection for permission to use prescribed burning for certain public purposes. Existing law requires the department, upon receipt of an application, to inspect the land in company with the applicant to determine whether a permit shall be granted, as provided.",
+  "By Executive Order N-35-25, Governor Gavin Newsom suspended the above-described requirement that the department conduct a site visit or inspection before issuing a state burn permit for projects undertaken by burn bosses or cultural fire practitioners.",
+  "This bill would authorize the department to waive the inspection requirement or modify the standard precautions for an application submitted by specified individuals.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA also requires a lead agency to prepare a mitigated negative declaration for a project that may have a significant effect on the environment if revisions in the project would avoid or mitigate that effect and there is no substantial evidence that the project, as revised, would have a significant effect on the environment.",
+  "Existing law exempts from CEQA specified wildfire risk reduction projects, including, among other projects, projects consisting of a prescribed fire or fuel reduction to reduce wildfire risk by reestablishing the fire return interval appropriate to the ecosystem for biodiversity or other benefits, excluding projects located on coastal sage scrub habitat or any other sensitive habitat.",
+  "By Executive Order N-35-25, Governor Gavin Newsom suspended the requirements of CEQA as applied to the Department of Forestry and Fire Protection to the extent necessary for the department to assist local agencies and beneficial fire practitioners to complete beneficial fire projects that limit dangerous wildfire conditions to the greatest extent feasible.",
+  "This bill would exempt from CEQA those actions taken by the department to assist in the implementation of prescribed fire or cultural burning projects that do not otherwise require compliance with CEQA.",
+  "Existing law establishes various grant programs for purposes of wildfire prevention.",
+  "This bill would require a state agency, department, board, or commission that has awarded grant funds for a project that includes the preparation for, or implementation of, a beneficial fire project to include as an allowable expense of the grant the payment of overtime or double rates of pay to employees or contractors who prepare for or implement the beneficial fire project when such expenses are necessary for the implementation of the beneficial fire project.",
+  "Existing law authorizes the Director of Forestry and Fire Protection to provide grants to, or enter contracts or other cooperative agreements with, specified entities for the implementation and administration of projects and programs to improve forest health and reduce greenhouse gas emissions. Existing law authorizes the director to authorize advance payments and requires grantees who receive advance payments to file an accountability report with the department 4 months from the date of receiving the funds and every 4 months thereafter.",
+  "This bill would instead require grantees who receive advance payments to file an accountability report within 6 months from the date of receiving the funds and every 6 months thereafter.",
+  "This bill would incorporate additional changes to Section 4799.05 of the Public Resources Code proposed by AB 2513 to be operative only if this bill and AB 2513 are enacted and this bill is enacted last.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "65001fc99083187b",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "chamber": "A",
+   "date": "2026-02-03"
+  },
+  {
+   "action": "From printer. May be heard in committee March 6.",
+   "chamber": "A",
+   "date": "2026-02-04"
+  },
+  {
+   "action": "Referred to Coms. on NAT. RES. and E.M.",
+   "chamber": "A",
+   "date": "2026-03-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.M with recommendation: To Consent Calendar. (Ayes 14. Noes 0.) (March 23). Re-referred to Com. on E.M.",
+   "chamber": "A",
+   "date": "2026-03-24"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 5. Noes 0.) (April 13). Re-referred to Com. on APPR.",
+   "chamber": "A",
+   "date": "2026-04-14"
+  },
+  {
+   "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+   "chamber": "A",
+   "date": "2026-04-22"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+   "chamber": "A",
+   "date": "2026-05-14"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time and amended. Ordered to third reading. (Page 5141.)",
+   "chamber": "A",
+   "date": "2026-05-18"
+  },
+  {
+   "action": "Read third time. Passed. Ordered to the Senate. (Ayes 76. Noes 0. Page 5256.)",
+   "chamber": "A",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+   "chamber": "S",
+   "date": "2026-05-22"
+  },
+  {
+   "action": "Referred to Coms. on N.R. & W. and E.M.",
+   "chamber": "S",
+   "date": "2026-06-03"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on N.R. & W.",
+   "chamber": "S",
+   "date": "2026-06-16"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on E.M. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (June 23). Re-referred to Com. on E.M.",
+   "chamber": "S",
+   "date": "2026-06-24"
+  },
+  {
+   "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E.M.",
+   "chamber": "S",
+   "date": "2026-06-25"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 8. Noes 0.) (June 30). Re-referred to Com. on APPR.",
+   "chamber": "S",
+   "date": "2026-07-01"
+  },
+  {
+   "action": "In committee: Referred to APPR. suspense file.",
+   "chamber": "S",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 7. Noes 0.) (August 13).",
+   "chamber": "S",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Read third time and amended. Ordered to second reading.",
+   "chamber": "S",
+   "date": "2026-08-20"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "chamber": "S",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "In Assembly. Concurrence in Senate amendments pending.",
+   "chamber": "A",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 78. Noes 0. Page 6913.).",
+   "chamber": "A",
+   "date": "2026-08-30"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 1 p.m.",
+   "chamber": "",
+   "date": "2026-09-09"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2026-09-29"
+  },
+  {
+   "action": "Chaptered by Secretary of State - Chapter 761, Statutes of 2026.",
+   "chamber": "",
+   "date": "2026-09-29"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-29",
+  "id": "20250AB169993CHP",
+  "num": "93"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 21080.49.1 is added to the Public Resources Code, immediately following Section 21080.49, to read:",
+   "code": "PRC",
+   "paras": [
+    "This division does not apply to actions taken by the Department of Forestry and Fire Protection to assist in the implementation of prescribed fire or cultural burning projects that do not otherwise require compliance with this division."
+   ],
+   "sec": "21080.49.1",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Good Fire Act: Prescribed Fire Liability Pilot Program: burn bosses: California Environmental Quality Act.",
+ "title": "An act to amend Sections 4477, 4493, 4500, and 4799.05 of, to add Sections 4497.3 and 21080.49.1 to, and to repeal and add Section 4503 of, the Public Resources Code, relating to wildfire, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-03",
+   "id": "20250AB169999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-05-18",
+   "id": "20250AB169998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-16",
+   "id": "20250AB169997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-06-25",
+   "id": "20250AB169996AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2026-08-20",
+   "id": "20250AB169995AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-09-03",
+   "id": "20250AB169994ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-29",
+   "id": "20250AB169993CHP",
+   "num": "93"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "A",
+   "date": "2026-03-23",
+   "location": "Asm Natural Resources",
+   "motion": "Do pass and be re-referred to the Committee on [Emergency Management] with recommendation: To Consent Calendar",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 14
+  },
+  {
+   "chamber": "A",
+   "date": "2026-04-13",
+   "location": "Asm Emergency Management",
+   "motion": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 5
+  },
+  {
+   "chamber": "A",
+   "date": "2026-05-14",
+   "location": "Asm Appropriations",
+   "motion": "Do pass.",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 15
+  },
+  {
+   "chamber": "A",
+   "date": "2026-05-22",
+   "location": "Assembly Floor",
+   "motion": "AB 1699 Rogers Assembly Third Reading",
+   "no": 0,
+   "nv": 4,
+   "result": "pass",
+   "seq": "1013",
+   "yes": 76
+  },
+  {
+   "chamber": "S",
+   "date": "2026-06-23",
+   "location": "Sen Natural Resources and Water",
+   "motion": "Do pass, but first be re-referred to the Committee on [Emergency Management] with the recommendation: To Consent Calendar",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-06-30",
+   "location": "Sen Emergency Management",
+   "motion": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 8
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-03",
+   "location": "Sen Appropriations",
+   "motion": "Placed on suspense file",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-13",
+   "location": "Sen Appropriations",
+   "motion": "Do pass",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-30",
+   "location": "Senate Floor",
+   "motion": "Assembly 3rd Reading AB1699 Rogers et al. By Grayson Urgency Clause",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1084",
+   "yes": 40
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-30",
+   "location": "Assembly Floor",
+   "motion": "AB 1699 Rogers Concurrence - Urgency Added",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1091",
+   "yes": 78
+  }
+ ]
+}

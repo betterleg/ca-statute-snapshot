@@ -1,0 +1,173 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Ahrens",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "AB1674",
+ "bill_id": "202520260AB1674",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. This act shall be known, and may be cited, as the Food Affordability Act.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Chapter 15 (commencing with Section 49030) is added to Division 17 of the Food and Agricultural Code, to read:",
+   "paras": [
+    "§49030. Unless the context otherwise requires, the definitions in this article govern the construction of this chapter.",
+    "§49031. “Food desert” means a census tract or component layer that meets the definitions of both low-access area and low-income area.",
+    "§49032. “Large grocery store” means a retail store in this state of 15,000 or more square feet that is a retail seller of groceries, as described in Code 445110 of the North American Industry Classification System (NAICS) published by the United States Office of Management and Budget, 2022 edition.",
+    "§49033. “Low-access area” means a census tract or component layer in which there are significant barriers to accessing a large grocery store, which may include, but not be limited to, a census tract or component layer with at least 33 percent of the population that lives more than one-half mile, for nonrural areas, or more than 10 miles, for rural areas, from a large grocery store.",
+    "§49034. “Low-income area” means a census tract or component layer with a poverty rate of 20 percent or higher, or a census tract or component layer with a median family income less than 80 percent of median family income for the state or metropolitan area.",
+    "§49035. “New housing development project” means new construction of apartments, townhomes, condominiums, or mobilehomes.",
+    "§49036. “Program” means the Food Desert Elimination Grant Program created pursuant to Section 49040.",
+    "§49037. “Site capacity” means infrastructure necessary to support a large grocery store, including, but not limited to, all of the following:",
+    "(a) Loading bays or docks accommodating pallet jacks and delivery trucks.",
+    "(b) Parking ratios of at least four spaces per 1,000 square feet of grocery retail space.",
+    "(c) Structural provisions for refrigeration, high-volume utilities, and perishable good logistics.",
+    "§49038. “Small-scale grocery store” means a retail store in this state of under 15,000 square feet that is a retail seller of groceries, as described in Code 445110 of the North American Industry Classification System (NAICS) published by the United States Office of Management and Budget, 2022 edition.",
+    "§49039. The department may adopt guidelines to implement this chapter.",
+    "§49040. (a) The Food Desert Elimination Grant Program is hereby created under the administration of the department for the purpose of expanding access to healthy foods in food deserts in the state, and areas at risk of becoming food deserts, by providing grants to developers and grocery store operators.",
+    "(b) (1) The Food Desert Elimination Fund is hereby created in the State Treasury and moneys in the fund may be expended by the department, upon appropriation by the Legislature, for the purpose of the program.",
+    "(2) The department may collect nonstate, federal, and private moneys for the purpose of the program, and those moneys shall be deposited into the California Equitable Food Access Account, which is hereby created within the Food Desert Elimination Fund. Notwithstanding Section 13340 of the Government Code, moneys in the account shall be continuously appropriated without regard to fiscal years to the department for the purpose of the program.",
+    "§49041. (a) The department may award a grant to a developer or grocery store operator seeking to locate a grocery store in a food desert, or to a grocery store located in a food desert, for one or more of the following purposes:",
+    "(1) A market and site feasibility study.",
+    "(2) Salaries and benefits to grocery store employees.",
+    "(3) Rents or downpayments to acquire a facility located in a food desert.",
+    "(4) Capital improvements, planning, renovations, land acquisition, demolition, and durable and nondurable equipment purchases.",
+    "(5) Other costs determined eligible by the department, including costs specified in federal funding program requirements.",
+    "(b) (1) The department may also award a grant to a grocery store operator of an existing large grocery store that provides essential food access to a low-access and low-income area for the purposes described in paragraph (2).",
+    "(2) Grant funding pursuant to paragraph (1) may be used to support the retention, stabilization, or continued operation of the large grocery store in its existing location, including, but not limited to, lease assistance, rent support, facility improvements, equipment upgrades, or other transitional operational costs deemed eligible by the department.",
+    "(3) In determining eligibility for a grant pursuant to paragraph (1), the department may consider whether the displacement of the existing large grocery store would increase barriers to food access for the surrounding community or contribute to the creation of a food desert.",
+    "§49042. The department may award a grant described in subdivision (a) of Section 49041 to a small-scale grocery store.",
+    "§49043. When awarding grants pursuant to this chapter, the department shall prioritize developers and grocery store operators seeking to locate a grocery store in a food desert, as described in subdivision (a) of Section 49041, as part of a new housing development project subject to the requirements of Section 65913.17 of the Government Code.",
+    "§49044. The department may use up to 10 percent of total program funding for technical assistance.",
+    "§49045. A developer or grocery store operator that receives a grant pursuant to Section 49041 and opens a grocery store in a food desert shall return any unused grant moneys to the department if the grocery store closes within two years of the date of opening.",
+    "§49046. On or before January 1, 2028, the department shall report the number of grants awarded under the program and the location of grant recipients to the relevant policy committees of the Legislature, in compliance with Section 9795 of the Government Code.",
+    "§49050. This chapter shall remain in effect only until January 1, 2031, and as of that date is repealed."
+   ]
+  },
+  {
+   "action": "SEC. 3. Section 65913.17 is added to the Government Code, to read:",
+   "paras": [
+    "§65913.17. (a) For purposes of this section, the following definitions apply:",
+    "(1) “Food desert” has the same meaning as defined in Section 49031 of the Food and Agricultural Code.",
+    "(2) “Large grocery store” has the same meaning as defined in Section 49032 of the Food and Agricultural Code.",
+    "(3) “Low-access area” has the same meaning as defined in Section 49033 of the Food and Agricultural Code.",
+    "(4) “Low-income area” has the same meaning as defined in Section 49034 of the Food and Agricultural Code.",
+    "(5) “New housing development project” has the same meaning as defined in Section 49035 of the Food and Agricultural Code.",
+    "(6) “Site capacity” has the same meaning as defined in Section 49037 of the Food and Agricultural Code.",
+    "(b) (1) Notwithstanding any other law, for a new housing development project proposed for approval by a local government in a food desert, or an area at risk of becoming a food desert, the local government shall require the applicant to demonstrate that the new housing development project does not reduce site capacity for a large grocery store, or, if site capacity is reduced, to provide equivalent mitigation pursuant to paragraph (2).",
+    "(2) Mitigation shall include, at a minimum, dedication of equivalent space and infrastructure for future grocery use, or funding contributions to the Food Desert Elimination Fund, pursuant to Section 49040 of the Food and Agricultural Code, that are sufficient for a replacement store within one-half mile, as determined by the Department of Food and Agriculture.",
+    "(c) Local governments shall report annually to the Department of Food and Agriculture on new housing development projects subject to this section, including capacity assessments and mitigation.",
+    "(d) This section shall remain in effect only until January 1, 2031, and as of that date is repealed."
+   ]
+  },
+  {
+   "action": "SEC. 4. The Legislature finds and declares that ensuring access to food for people living in food deserts, low-income and low-access areas, is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, Section 3 of this act adding Section 65913.17 to the Government Code applies to all cities, including charter cities.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 5. If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.",
+   "paras": []
+  }
+ ],
+ "chapter": null,
+ "digest": [
+  "Existing law creates the Office of Farm to Fork within the Department of Food and Agriculture, and requires the office, to the extent that resources are available, to work with various entities, as prescribed, to increase the amount of agricultural products available to underserved communities and schools in the state. Existing law requires the office, among other things, to identify distribution barriers that affect limited food access and work to overcome those barriers through various actions and to coordinate with school districts and representatives to increase the nutritional profile of foods provided in schools.",
+  "This bill, the Food Affordability Act, would create the Food Desert Elimination Grant Program under the administration of the department to expand access to healthy foods in food deserts, as defined, and areas at risk of becoming food deserts, by providing grants to developers and grocery store operators, as specified. The bill would create the Food Desert Elimination Fund and would authorize the department, upon appropriation by the Legislature, to expend moneys in the fund for the purpose of the program. The bill would authorize the department to collect nonstate, federal, and private moneys for the purpose of the program, require those moneys to be deposited into the California Equitable Food Access Account within the Food Desert Elimination Fund, which the bill would create, and continuously appropriate those moneys to the department for the purpose of the program. The bill would authorize the department to award grants for specified purposes to developers or grocery store operators seeking to locate grocery stores in food deserts or to existing grocery stores located in food deserts. The bill would require a developer or grocery store operator that received a grant to locate a grocery store in a food desert and opened a grocery store accordingly, to return any unused grant moneys to the department if the grocery store closes within 2 years of the date of opening. The bill would also authorize the department to award grants to grocery store operators of existing large grocery stores that provide essential food access to food deserts to support the retention, stabilization, or continued operation of the large grocery store, as specified. The bill would require the department, on or before January 1, 2028, to report the number of grants awarded under the program and the location of grant recipients to the relevant policy committees of the Legislature. The bill would authorize the department to adopt guidelines to implement these provisions.",
+  "The bill would also require a local government to require, for new housing development projects, as defined, proposed for approval by a local government in a food desert, or an area at risk of becoming a food desert, the applicant to demonstrate that the new housing development project does not reduce site capacity for a large grocery store, or, if site capacity is reduced, to provide equivalent mitigation, as provided. The bill would require local governments to report annually to the department on new housing development projects that meet these requirements, as specified. The bill would require the department to prioritize developers and grocery store operators seeking to locate a grocery store in a food desert as part of a new housing development project when awarding grants pursuant to these provisions. By placing new requirements on local governments relating to new housing development projects in food deserts or areas at risk of becoming food deserts, this bill would impose a state-mandated local program.",
+  "The bill would repeal its provisions on January 1, 2031.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.",
+  "This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+ ],
+ "hash": "12fde3928ccd1cd7",
+ "history": [
+  {
+   "action": "Read first time. To print.",
+   "chamber": "A",
+   "date": "2026-02-02"
+  },
+  {
+   "action": "From printer. May be heard in committee March 5.",
+   "chamber": "A",
+   "date": "2026-02-03"
+  },
+  {
+   "action": "Referred to Coms. on AGRI. and H. & C.D.",
+   "chamber": "A",
+   "date": "2026-03-02"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on H. & C.D. (Ayes 5. Noes 0.) (March 25). Re-referred to Com. on H. & C.D.",
+   "chamber": "A",
+   "date": "2026-03-26"
+  },
+  {
+   "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+   "chamber": "A",
+   "date": "2026-04-07"
+  }
+ ],
+ "house": "Assembly",
+ "latest_version": {
+  "action": "Introduced",
+  "date": "2026-02-02",
+  "id": "20250AB167499INT",
+  "num": "99"
+ },
+ "location": "CX10",
+ "sections": [
+  {
+   "action": "Section 65913.17 is added to the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) For purposes of this section, the following definitions apply:",
+    "(1) “Food desert” has the same meaning as defined in Section 49031 of the Food and Agricultural Code.",
+    "(2) “Large grocery store” has the same meaning as defined in Section 49032 of the Food and Agricultural Code.",
+    "(3) “Low-access area” has the same meaning as defined in Section 49033 of the Food and Agricultural Code.",
+    "(4) “Low-income area” has the same meaning as defined in Section 49034 of the Food and Agricultural Code.",
+    "(5) “New housing development project” has the same meaning as defined in Section 49035 of the Food and Agricultural Code.",
+    "(6) “Site capacity” has the same meaning as defined in Section 49037 of the Food and Agricultural Code.",
+    "(b) (1) Notwithstanding any other law, for a new housing development project proposed for approval by a local government in a food desert, or an area at risk of becoming a food desert, the local government shall require the applicant to demonstrate that the new housing development project does not reduce site capacity for a large grocery store, or, if site capacity is reduced, to provide equivalent mitigation pursuant to paragraph (2).",
+    "(2) Mitigation shall include, at a minimum, dedication of equivalent space and infrastructure for future grocery use, or funding contributions to the Food Desert Elimination Fund, pursuant to Section 49040 of the Food and Agricultural Code, that are sufficient for a replacement store within one-half mile, as determined by the Department of Food and Agriculture.",
+    "(c) Local governments shall report annually to the Department of Food and Agriculture on new housing development projects subject to this section, including capacity assessments and mitigation.",
+    "(d) This section shall remain in effect only until January 1, 2031, and as of that date is repealed."
+   ],
+   "sec": "65913.17",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "In Committee Process",
+ "subject": "Food Affordability Act.",
+ "title": "An act to add and repeal Chapter 15 (commencing with Section 49030) of Division 17 of the Food and Agricultural Code, and to add and repeal Section 65913.17 of the Government Code, relating to food, and making an appropriation therefor.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-02-02",
+   "id": "20250AB167499INT",
+   "num": "99"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "A",
+   "date": "2026-03-25",
+   "location": "Asm Agriculture",
+   "motion": "Do pass and be re-referred to the Committee on [Housing and Community Development]",
+   "no": 0,
+   "nv": 3,
+   "result": "pass",
+   "seq": "1",
+   "yes": 5
+  }
+ ]
+}

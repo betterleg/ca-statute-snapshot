@@ -1,0 +1,374 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Richardson",
+   "party": "D",
+   "primary": true,
+   "type": "Legislator"
+  },
+  {
+   "contribution": "COAUTHOR",
+   "house": "ASSEMBLY",
+   "name": "Zbur",
+   "party": "D",
+   "primary": false,
+   "type": "Legislator"
+  }
+ ],
+ "bill": "SB611",
+ "bill_id": "202520260SB611",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. The Legislature finds and declares the following: (a) The California Environmental Quality Act (Division 13 (commencing with Section 21000) of the Public Resources Code) requires that the environmental impacts, if any, of updated community plans be identified and, where feasible, mitigated. The act also guarantees the public an opportunity to review and comment on the environmental impacts of a project and to participate meaningfully in the development of mitigation measures for potentially significant environmental impacts. (b) In many parts of the state, the city or county general plans cover so much geographic territory that local jurisdictions also adopt community plans that cover parts of that geographic territory. These community plans allow for tailored and responsive land use planning at the neighborhood level. (c) While most jurisdictions update the land use element of their general plan as part of their general plan update, those with multiple community plan areas update these documents individually, requiring community plans to be reviewed through separate reviews pursuant to the act. In some jurisdictions with multiple community plans, these plans have not been updated in recent years to reflect changing local priorities as well as efforts to improve air quality, reduce climate pollution, increase transit ridership, reduce vehicle miles traveled, and provide more affordable housing. (d) One significant obstacle to updating these plans is the uncertainty that results if the environmental review document prepared pursuant to the act for the community plan update is challenged in a court. During the litigation process, it is unclear whether the community plan or the update will be in effect, causing developers and planners great uncertainty and potentially delaying all development in that community plan area and affecting the ability to obtain the needed housing intended by the community plan update.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Article 8.2 (commencing with Section 65458) is added to Chapter 3 of Division 1 of Title 7 of the Government Code, to read:",
+   "paras": [
+    "§65458. For purposes of this article:",
+    "(a) “Community plan” means a plan that meets all of the following requirements:",
+    "(1) The plan was adopted by a local jurisdiction for a defined geographic area within its jurisdictional boundaries.",
+    "(2) The plan serves as the land use element, pursuant to subdivision (a) of Section 65302, for the area covered by the plan.",
+    "(3) The plan has not been updated for more than 10 years from the date the plan was adopted or last updated, whichever is later.",
+    "(4) The plan includes two or more transit priority areas, as defined in Section 21099 of the Public Resources Code.",
+    "(5) The local jurisdiction that adopts the plan has adopted or amended, on or after January 1, 2015, a circulation or mobility element as a part of the general plan.",
+    "(6) The local jurisdiction that adopts the plan has a housing element that includes housing capacity to sufficiently accommodate regional housing needs projects as set forth in Section 65584.01.",
+    "(7) The local jurisdiction that adopts the plan has adopted a vehicle miles traveled threshold of significance for the area covered by the plan in compliance with Section 15064.3 of Title 14 of the California Code of Regulations.",
+    "(8) The area covered by the plan update is located within an urbanized area, as defined by Section 21071 of the Public Resources Code.",
+    "(9) The local jurisdiction that adopts the plan has also adopted any required ordinances or regulations related to either of the following:",
+    "(A) The designation of very high fire hazard severity zones pursuant to Section 51179.",
+    "(B) Flood plain management in accordance with the National Flood Insurance Program, pursuant to Part 60 (commencing with Section 60.1) of Subchapter B of Chapter I of Title 44 of the Code of Federal Regulations.",
+    "(b) “Development project” has the same meaning as defined in Section 65928.",
+    "(c) “Local jurisdiction” means a city, county, or city and county.",
+    "(d) “Update” means a comprehensive amendment to a community plan that is intended to bring the community plan up to date with the most current land use policies and that includes amendments to both the plain text and plan land use map, as well as the adoption or amendment of any zoning ordinances necessary to bring zoning into consistency with the community plan.",
+    "§65458.1. (a) Notwithstanding Section 21168.9 of the Public Resources Code, in any order that results from an action or proceeding to attack, review, set aside, void, or annul the acts or decisions of the local jurisdiction, in adopting an update to a community plan on the grounds of noncompliance with Division 13 (commencing with Section 21000) of the Public Resources Code, the court shall not, on the basis of that noncompliance, invalidate, review, void, or set aside the approval of any development project for which either of the following applies:",
+    "(1) The development project is approved before the court issues a stay in connection with the action or proceeding or an order or writ requiring the challenged environmental impact report or community plan update to be rescinded or set aside.",
+    "(2) The application for the development project is deemed complete, pursuant to Section 65943, before the court issues a stay, order, or writ described in subdivision (a).",
+    "(b) This section applies to an update to a community plan that is adopted on or after January 1, 2025.",
+    "§65458.2. This article does not do either of the following:",
+    "(a) Affect or alter the obligation for the approval of a development project that is consistent with an approved community plan to comply with Division 13 (commencing with Section 21000) of the Public Resources Code.",
+    "(b) Except as expressly provided in Section 65458.1, preclude or limit an action to attack, review, set aside, void, or annul the approval of a development project that is consistent with an approved community plan pursuant to Section 21167 of the Public Resources Code.",
+    "§65458.3. This article applies to a development project for which an application has been filed with, and accepted as complete by, the local jurisdiction on or before January 1, 2036.",
+    "§65458.4. The Legislature finds and declares that the expedited approval of development projects to address the state’s ongoing housing and homelessness crisis and to provide economic opportunities is a matter of statewide concern and is not a municipal affair as that term is used in Section 5 of Article XI of the California Constitution. Therefore, this article applies to all cities, including charter cities."
+   ]
+  },
+  {
+   "action": "SEC. 3. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the California Constitution and shall go into immediate effect. The facts constituting the necessity are: The state’s ongoing housing and homeless crisis requires the approval of development projects as soon as possible.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "228",
+  "year": "2025"
+ },
+ "digest": [
+  "The Planning and Zoning Law requires each county and city to adopt a comprehensive, long-term general plan for its physical development and the development of any land outside its boundaries that, in the planning agency’s judgment, bears relation to its planning, as provided. After the legislative body has adopted a general plan, that law also authorizes, or if so directed by the legislative body, requires, the planning agency to prepare specific plans for the systematic implementation of the general plan for all or part of the area covered by the general plan, as provided.",
+  "The California Environmental Quality Act (CEQA) requires a lead agency, as defined, to prepare, or cause to be prepared, and certify the completion of, an environmental impact report on a project that it proposes to carry out or approve that may have a significant effect on the environment or to adopt a negative declaration if it finds that the project will not have that effect. CEQA limits the review of a project under its provisions if the parcel is zoned or designated in a community plan to accommodate a particular density of development, an environmental impact report was certified for that zoning or planning action, and the project is consistent with the zoning or community plan, as specified. CEQA requires a court, if it finds that any determination, finding, or decision of a public agency has been made without compliance with CEQA, to enter an order that includes one or more specified mandates, including a mandate to void the determination, finding, or decision of the public agency.",
+  "Previous law, until January 1, 2025, notwithstanding the above-described requirement for a court to enter an order under CEQA, prohibited a court in an action or proceeding to attack, review, set aside, void, or annul the acts or decisions of the local agency, including a charter city, in adopting an update to a community plan on the grounds of noncompliance with CEQA from, on the basis of that noncompliance, invalidating, reviewing, voiding, or setting aside the approval of a development project that meets certain requirements. Previous law specified that those provisions did not affect or alter the obligation for the approval of a development project that was consistent with an approved community plan update to comply with CEQA or, except as expressly provided, preclude or limit an action to attack, review, set aside, void, or annul the approval of a development project that was consistent with an approved community plan pursuant to specified law. Previous law provided that the repeal of those provisions does not affect any right or immunity granted by those provisions to a development project that meets specified requirements before January 1, 2025.",
+  "This bill would reenact those provisions, with certain changes. The bill would specify that its provisions would apply to an update to a community plan adopted on or after January 1, 2025, and would apply to a development project for which an application has been filed with, and accepted as complete by, the local jurisdiction on or before January 1, 2036.",
+  "The bill would include findings that changes proposed by this bill address a matter of statewide concern rather than a municipal affair and, therefore, apply to all cities, including charter cities.",
+  "This bill would declare that it is to take effect immediately as an urgency statute."
+ ],
+ "hash": "6b628dd8e55f6ca5",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2025-02-20"
+  },
+  {
+   "action": "From printer. May be acted upon on or after March 23.",
+   "chamber": "S",
+   "date": "2025-02-21"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and JUD.",
+   "chamber": "S",
+   "date": "2025-03-05"
+  },
+  {
+   "action": "Set for hearing April 2.",
+   "chamber": "S",
+   "date": "2025-03-24"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "chamber": "S",
+   "date": "2025-03-26"
+  },
+  {
+   "action": "From committee: Do pass as amended and re-refer to Com. on JUD. (Ayes 7. Noes 0. Page 637.) (April 2).",
+   "chamber": "S",
+   "date": "2025-04-03"
+  },
+  {
+   "action": "Read second time and amended. Re-referred to Com. on JUD.",
+   "chamber": "S",
+   "date": "2025-04-07"
+  },
+  {
+   "action": "Set for hearing May 6.",
+   "chamber": "S",
+   "date": "2025-04-08"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 0. Page 1027.) (May 6).",
+   "chamber": "S",
+   "date": "2025-05-07"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "S",
+   "date": "2025-05-08"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 39. Noes 0. Page 1241.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2025-05-27"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2025-05-28"
+  },
+  {
+   "action": "Referred to Coms. on L. GOV. and JUD.",
+   "chamber": "A",
+   "date": "2025-06-05"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "chamber": "A",
+   "date": "2025-06-09"
+  },
+  {
+   "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 10. Noes 0.) (June 18). Re-referred to Com. on JUD.",
+   "chamber": "A",
+   "date": "2025-06-18"
+  },
+  {
+   "action": "Coauthors revised.",
+   "chamber": "A",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "From committee: Do pass. (Ayes 12. Noes 0.) (July 1).",
+   "chamber": "A",
+   "date": "2025-07-02"
+  },
+  {
+   "action": "Read second time. Ordered to third reading.",
+   "chamber": "A",
+   "date": "2025-07-03"
+  },
+  {
+   "action": "Read third time and amended.",
+   "chamber": "A",
+   "date": "2025-07-14"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2025-07-14"
+  },
+  {
+   "action": "Read third time. Urgency clause adopted. Passed. (Ayes 74. Noes 0. Page 2592.) Ordered to the Senate.",
+   "chamber": "A",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "chamber": "S",
+   "date": "2025-07-17"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "chamber": "S",
+   "date": "2025-08-27"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 37. Noes 0. Page 2287.) Ordered to engrossing and enrolling.",
+   "chamber": "S",
+   "date": "2025-08-29"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "chamber": "",
+   "date": "2025-09-05"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2025-10-01"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 228, Statutes of 2025.",
+   "chamber": "",
+   "date": "2025-10-01"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2025-10-01",
+  "id": "20250SB61193CHP",
+  "num": "93"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Article 8.2 (commencing with Section 65458) is added to Chapter 3 of Division 1 of Title 7 of the Government Code, to read:",
+   "code": "GOV",
+   "paras": [
+    "For purposes of this article:",
+    "(a) “Community plan” means a plan that meets all of the following requirements:",
+    "(1) The plan was adopted by a local jurisdiction for a defined geographic area within its jurisdictional boundaries.",
+    "(2) The plan serves as the land use element, pursuant to subdivision (a) of Section 65302, for the area covered by the plan.",
+    "(3) The plan has not been updated for more than 10 years from the date the plan was adopted or last updated, whichever is later.",
+    "(4) The plan includes two or more transit priority areas, as defined in Section 21099 of the Public Resources Code.",
+    "(5) The local jurisdiction that adopts the plan has adopted or amended, on or after January 1, 2015, a circulation or mobility element as a part of the general plan.",
+    "(6) The local jurisdiction that adopts the plan has a housing element that includes housing capacity to sufficiently accommodate regional housing needs projects as set forth in Section 65584.01.",
+    "(7) The local jurisdiction that adopts the plan has adopted a vehicle miles traveled threshold of significance for the area covered by the plan in compliance with Section 15064.3 of Title 14 of the California Code of Regulations.",
+    "(8) The area covered by the plan update is located within an urbanized area, as defined by Section 21071 of the Public Resources Code.",
+    "(9) The local jurisdiction that adopts the plan has also adopted any required ordinances or regulations related to either of the following:",
+    "(A) The designation of very high fire hazard severity zones pursuant to Section 51179.",
+    "(B) Flood plain management in accordance with the National Flood Insurance Program, pursuant to Part 60 (commencing with Section 60.1) of Subchapter B of Chapter I of Title 44 of the Code of Federal Regulations.",
+    "(b) “Development project” has the same meaning as defined in Section 65928.",
+    "(c) “Local jurisdiction” means a city, county, or city and county.",
+    "(d) “Update” means a comprehensive amendment to a community plan that is intended to bring the community plan up to date with the most current land use policies and that includes amendments to both the plain text and plan land use map, as well as the adoption or amendment of any zoning ordinances necessary to bring zoning into consistency with the community plan."
+   ],
+   "sec": "65458",
+   "verb": "added"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Planning and zoning: community plans: review under the California Environmental Quality Act.",
+ "title": "An act to add Article 8.2 (commencing with Section 65458) to Chapter 3 of Division 1 of Title 7 of the Government Code, relating to land use, and declaring the urgency thereof, to take effect immediately.",
+ "urgency": "Yes",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2025-02-20",
+   "id": "20250SB61199INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-03-26",
+   "id": "20250SB61198AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Senate",
+   "date": "2025-04-07",
+   "id": "20250SB61197AMD",
+   "num": "97"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-06-09",
+   "id": "20250SB61196AMD",
+   "num": "96"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2025-07-14",
+   "id": "20250SB61195AMD",
+   "num": "95"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2025-09-02",
+   "id": "20250SB61194ENR",
+   "num": "94"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2025-10-01",
+   "id": "20250SB61193CHP",
+   "num": "93"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2025-04-02",
+   "location": "Sen Local Government",
+   "motion": "Do pass as amended, but first amend, and re-refer to the Committee on [Judiciary]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2025-05-06",
+   "location": "Sen Judiciary",
+   "motion": "Do pass",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 12
+  },
+  {
+   "chamber": "S",
+   "date": "2025-05-27",
+   "location": "Senate Floor",
+   "motion": "Senate 3rd Reading SB611 Richardson Urgency Clause",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1539",
+   "yes": 39
+  },
+  {
+   "chamber": "A",
+   "date": "2025-06-18",
+   "location": "Asm Local Government",
+   "motion": "Do pass and be re-referred to the Committee on [Judiciary]",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 10
+  },
+  {
+   "chamber": "A",
+   "date": "2025-07-01",
+   "location": "Asm Judiciary",
+   "motion": "Do pass.",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 12
+  },
+  {
+   "chamber": "A",
+   "date": "2025-07-17",
+   "location": "Assembly Floor",
+   "motion": "SB 611 Richardson Third Reading Urgency By Zbur",
+   "no": 0,
+   "nv": 5,
+   "result": "pass",
+   "seq": "1008",
+   "yes": 74
+  },
+  {
+   "chamber": "S",
+   "date": "2025-08-29",
+   "location": "Senate Floor",
+   "motion": "Special Consent SB611 Richardson et al. Urgency Clause",
+   "no": 0,
+   "nv": 3,
+   "result": "pass",
+   "seq": "2461",
+   "yes": 37
+  }
+ ]
+}

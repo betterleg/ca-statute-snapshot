@@ -1,0 +1,646 @@
+{
+ "authors": [
+  {
+   "contribution": "LEAD_AUTHOR",
+   "house": "SENATE",
+   "name": "Committee on Local Government",
+   "primary": true,
+   "type": "Committee"
+  }
+ ],
+ "bill": "SB1439",
+ "bill_id": "202520260SB1439",
+ "bill_sections": [
+  {
+   "action": "SECTION 1. (a) This act shall be known, and may be cited, as the Local Government Omnibus Act of 2026. (b) The Legislature finds and declares that Californians want their governments to be run efficiently and economically and that public officials should avoid waste and duplication whenever possible. The Legislature further finds and declares that it desires to control its own costs by reducing the number of separate bills. Therefore, it is the intent of the Legislature in enacting this act to combine several minor, noncontroversial statutory changes relating to the common theme, purpose, and subject of local government into a single measure.",
+   "paras": []
+  },
+  {
+   "action": "SEC. 2. Section 6508 of the Government Code is amended to read:",
+   "paras": [
+    "§6508. (a) The agency shall possess the common power specified in the agreement and may exercise it in the manner or according to the method provided in the agreement. If the agency is not one or more of the parties to the agreement but is a public entity, commission or board constituted pursuant to the agreement and such agency is authorized, in its own name, to do any or all of the following: to make and enter contracts, or to employ agents and employees, or to acquire, construct, manage, maintain or operate any building, works or improvements, or to acquire, hold or dispose of property or to incur debts, liabilities or obligations, said agency shall have the power to sue and be sued in its own name. Any authorization pursuant to the agreement for the acquisition by the agency of property for the purposes of a project for the generation or transmission of electrical energy shall not include the condemnation of property owned or otherwise subject to use or control by any public utility within the state.",
+    "(b) The governing body of any agency having the power to sue or be sued in its own name, created by an agreement entered into after the amendment to this section at the 1969 Regular Session of the Legislature, between parties composed exclusively of parties which are cities, counties, or public districts of this state, irrespective of whether all such parties fall within the same category, may as provided in such agreement, and in any ratio provided in the agreement, be composed exclusively of officials elected to one or more of the governing bodies of the parties to such agreement. Any existing agreement composed of parties which are cities, counties or public districts which creates a governing board of any agency having the power to sue or be sued may, at the option of the parties to the agreement, be amended to provide that the governing body of the created agency shall be composed exclusively of officials elected to one or more of the governing boards of the parties to such agreement in any ratio agreed to by the parties to the agreement. The governing body so created shall be empowered to delegate its functions to an advisory body or administrative entity for the purposes of program development, policy formulation, or program implementation, provided, however, that any annual budget of the agency to which the delegation is made must be approved by the governing body of the Joint Powers Agency.",
+    "(c) In the event that such agency enters into further contracts, leases or other transactions with one or more of the parties to such agreement, an official elected to the governing body of such party may also act in the capacity of a member of the governing body of such agency.",
+    "(d) (1) For purposes of this section:",
+    "(A) “Advisory body or administrative entity” includes, but is not limited to, committees, management boards, and any public agency or nonprofit corporation that the governing body of the agency selects.",
+    "(B) “Policy formulation” includes, but is not limited to, policy development and direction.",
+    "(C) “Program development” includes, but is not limited to, project and program planning and development.",
+    "(D) “Program implementation” includes, but is not limited to, project and program accounting, budgeting, contracting, design, construction, management, operations, and maintenance.",
+    "(2) Nothing in this subdivision shall be construed to derogate from any powers or authority of the governing body or to assign such powers or authority to an advisory body without an express delegation by the governing body.",
+    "(3) This subdivision does not constitute a change in, but is declaratory of, existing law."
+   ]
+  },
+  {
+   "action": "SEC. 3. Section 17560 of the Government Code is amended to read:",
+   "paras": [
+    "§17560. Reimbursement for state-mandated costs may be claimed as follows:",
+    "(a) A local agency or school district may, by February 15 following the fiscal year in which costs are incurred, file an annual reimbursement claim that details the costs actually incurred for that fiscal year.",
+    "(b) In the event revised claiming instructions are issued by the Controller pursuant to subdivision (c) of Section 17558 between October 19 and February 15, a local agency or school district filing an annual reimbursement claim shall have 120 days following the issuance date of the revised claiming instructions to file a claim."
+   ]
+  },
+  {
+   "action": "SEC. 4. Section 24011 of the Government Code is amended to read:",
+   "paras": [
+    "§24011. Notwithstanding the provisions of Section 24009:",
+    "(a) The Boards of Supervisors of Amador County, Contra Costa County, Glenn County, Imperial County, Lake County, Lassen County, Madera County, Mendocino County, Merced County, Mono County, Monterey County, Napa County, Siskiyou County, Solano County, Sonoma County, Trinity County, Tuolumne County, and Ventura County may, by ordinance, provide that the public administrator shall be appointed by the board.",
+    "(b) The Boards of Supervisors of Lake County, Madera County, Mendocino County, Merced County, Napa County, Siskiyou County, Trinity County, and Tuolumne County may appoint the same person to the offices of public administrator, veteran service officer, and public guardian. The Boards of Supervisors of Amador County, Contra Costa County, Glenn County, Imperial County, Kings County, Lassen County, Mono County, Monterey County, Siskiyou County, Solano County, Sonoma County, and Ventura County, may, by ordinance, appoint the same person to the offices of public administrator and public guardian.",
+    "(c) The Boards of Supervisors of Amador County, Contra Costa County, Glenn County, Lake County, Lassen County, Madera County, Mendocino County, Merced County, Mono County, Napa County, Trinity County, and Tuolumne County may separate the consolidated offices of district attorney and public administrator at any time in order to make the appointments permitted by this section. Upon approval by the board of supervisors, the officer elected to these offices at any time may resign, or decline to qualify for, the office of public administrator without resigning from, or declining to qualify for, the office of district attorney.",
+    "(d) The Board of Supervisors of Ventura County may separate the consolidated office of public administrator from the office of treasurer, in order to make the appointment authorized by this section. Upon approval by the board of supervisors, the officer elected to these offices at any time may resign, or decline to qualify for, the office of public administrator without resigning from, or declining to qualify for, the office of treasurer."
+   ]
+  },
+  {
+   "action": "SEC. 5. Section 26802 of the Government Code is amended to read:",
+   "paras": [
+    "§26802. Except as provided by law, the county clerk shall register as voters any electors who apply for registration and shall perform any other duties required of them by the Elections Code. In those counties in which a registrar of voters office has been established, the registrar of voters shall discharge all duties vested by law in the county clerk that relate to and are a part of election procedure."
+   ]
+  },
+  {
+   "action": "SEC. 6. Section 26803 of the Government Code is amended to read:",
+   "paras": [
+    "§26803. The county clerk shall take charge of and safely keep, or dispose of pursuant to law, all books, papers, and records which are filed or deposited in the county clerk’s office pursuant to law."
+   ]
+  },
+  {
+   "action": "SEC. 7. Section 26803.5 of the Government Code is amended to read:",
+   "paras": [
+    "§26803.5. Each regulation filed with a county clerk pursuant to Section 11343.5 shall be retained in an active file, available for public inspection, until receipt by the county clerk of the next California Regulatory Notice Register or supplement to the California Administrative Code in which such regulation, order of repeal or notice thereof, is published.",
+    "The county clerk shall at all times keep a complete current set of the California Administrative Code, and the California Regulatory Notice Register available for public inspection.",
+    "If the county clerk of any county in this state is satisfied that the code and register will be maintained in accordance with the requirements of this section, the county clerk may delegate the authority to receive filings on the county clerk’s behalf and to maintain the code and register on the county clerk’s behalf to a paid county law librarian or to the librarian in charge of the county library."
+   ]
+  },
+  {
+   "action": "SEC. 8. Section 26809 of the Government Code is amended to read:",
+   "paras": [
+    "§26809. Unless another provision of law requires a longer retention period, the county clerk may destroy or otherwise dispose of any paper or document filed with or submitted to them more than one year previously, if the county clerk determines that there is no need for its retention. In determining whether there is a need for retaining a paper or document, consideration shall be given to such factors as future public need, the effect of statutes of limitation, and historical significance."
+   ]
+  },
+  {
+   "action": "SEC. 9. Section 26831 of the Government Code is amended to read:",
+   "paras": [
+    "§26831. The county clerk may charge a reasonable fee to cover the cost of preparing copies of any record, proceeding, or paper on file in the county clerk’s office."
+   ]
+  },
+  {
+   "action": "SEC. 10. Section 26837 of the Government Code is amended to read:",
+   "paras": [
+    "§26837. For comparing with the original on file in the office of the county clerk, the copy of any paper, record, or proceeding prepared by another and presented for the county clerk’s certificate, the fee is fifty cents ($0.50) a page, in addition to the fee for the certificate."
+   ]
+  },
+  {
+   "action": "SEC. 11. Section 26840.1 of the Government Code is amended to read:",
+   "paras": [
+    "§26840.1. (a) The fee for filing a marriage certificate pursuant to Part 4 (commencing with Section 500) of Division 3 of the Family Code is fourteen dollars ($14), to be collected at the time an authorization for the performance of the marriage is issued or a blank authorization form is obtained from the county clerk pursuant to Part 4 (commencing with Section 500) of Division 3 of the Family Code. Four dollars ($4) of the fee shall be paid to the State Registrar of Vital Statistics. One dollar ($1) of the fee shall be paid to the county treasurer and shall be used to defray any local costs incurred pursuant to Part 4 (commencing with Section 500) of Division 3 of the Family Code.",
+    "(b) Notwithstanding subdivision (a), in addition to the amount authorized by subdivision (a) the county clerk may impose an additional amount, not to exceed three dollars ($3), if the county clerk determines that the additional amount is necessary to defray local costs."
+   ]
+  },
+  {
+   "action": "SEC. 12. Section 27297.7 of the Government Code is amended to read:",
+   "paras": [
+    "§27297.7. (a) On or before January 1, 2027, each county within the state shall establish a recorder notification program, in accordance with this section, and the board of supervisors of each county shall adopt an authorizing resolution for these purposes.",
+    "(b) (1) Following adoption of an authorizing resolution by the board of supervisors, the county recorder shall, within 30 days of recordation of a deed, quitclaim deed, mortgage, or deed of trust, notify by mail the current assessee at the most recent address for mailing tax bills that was established prior to the recording of the document.",
+    "(2) The recorder may require, as a condition of recording, that a deed, quitclaim deed, mortgage, or deed of trust indicate the assessor’s identification number or numbers that fully contain all, or a portion of, the real property described in the legal description. If the description contains more than one assessor’s parcel, all assessor’s parcels shall be indicated. If assessor’s identification numbers are required, they shall be listed on the first page of the document. The recorder may rely on the assessor’s identification numbers as indicated on the document. The form of the entry shall be substantially as follows:",
+    "Assessor’s Identification Number __-__-__.",
+    "(3) In addition to the mailed notice required by paragraph (1), the county recorder may establish an electronic notification program that notifies parties upon recording of a deed, quitclaim deed, mortgage, or deed of trust.",
+    "(c) This section shall not apply to the recordation of any document where the federal government, or state, county, city, or any subdivision of the state is the grantee.",
+    "(d) The failure of the county recorder to provide the notice as permitted by this section shall not result in any liability against the recorder or the county. In the event that the notice is returned to the recorder by the postal service as undeliverable, the recorder is not required to retain the returned notice.",
+    "(e) Where the county recorder contracts with any party or parties for the performance of the processing or the mailing of the notice, or both, as authorized by this section, the contract shall be awarded by competitive bid. The county recorder shall solicit written bids for the contract in a newspaper of general circulation in the county, and all bids received shall be publicly opened and the contract awarded to the lowest responsible bidder. If the county recorder or their designee deems the acceptance of the lowest responsible bid is not in the best interest of the county, all bids may be rejected.",
+    "(f) In addition to any other recording fee, the board of supervisors may authorize the county recorder to collect a fee from the party filing a deed, quitclaim deed, mortgage, or deed of trust for the cost of implementing the program pursuant to this section. The fee shall not exceed the reasonable costs of services of the county to provide a recorder notification program and to comply with this section. This fee shall not be charged until at least 120 days following the establishment of the fee and public notification of the fee and the effective date.",
+    "(g) This section shall not apply to a county that operates a notification program pursuant to Section 27297.6."
+   ]
+  },
+  {
+   "action": "SEC. 13. Section 27361.4 of the Government Code is amended to read:",
+   "paras": [
+    "§27361.4. (a) The board of supervisors of any county may provide for an additional fee of one dollar ($1) for filing every instrument, paper, or notice for record, in order to defray the cost of implementing and funding a county recorder archive program as determined by the county recorder and converting the county recorder’s document storage system for permanent retention. Upon completion of the conversion and payment of the costs therefor, this additional fee shall no longer be imposed.",
+    "(b) The board of supervisors of any county may provide for an additional fee, other than the fees authorized in subdivisions (a) and (c), of one dollar ($1) for filing every instrument, paper, or notice for record provided that the resolution providing for the additional fee establishes the days of operation of the county recorder’s offices as every business day except for legal holidays and those holidays designated as judicial holidays pursuant to Section 135 of the Code of Civil Procedure.",
+    "(c) The board of supervisors of any county may provide for an additional fee, other than the fees authorized in subdivisions (a) and (b), of one dollar ($1) for filing every instrument, paper, or notice for record provided that the resolution providing for the additional fee requires that the instrument, paper, or notice be indexed within two business days after the date of recordation.",
+    "(d) Except as provided in subdivision (g) of Section 6103.8, the fees authorized by this section shall not be charged to those entities exempted from the payment of recording fees under Section 6103 or 27383.",
+    "(e) Fees collected pursuant to this section shall only be used for the purposes of this section."
+   ]
+  },
+  {
+   "action": "SEC. 14. Section 40602 of the Government Code is amended to read:",
+   "paras": [
+    "§40602. (a) The mayor shall sign:",
+    "(1) All warrants drawn on the city treasurer.",
+    "(2) All written contracts and conveyances made or entered into by the city.",
+    "(3) All instruments requiring the city seal.",
+    "(b) The legislative body may provide by ordinance that the instruments described in subdivision (a) be signed by an officer other than the mayor.",
+    "(c) Notwithstanding subdivision (a), the legislative body may authorize, by resolution, an officer other than the mayor to sign the instruments described in subdivision (a), provided the instrument is in connection with or for the purposes of participating in a state-administered or state-approved funding or regulatory program."
+   ]
+  },
+  {
+   "action": "SEC. 15. Section 53651 of the Government Code is amended to read:",
+   "paras": [
+    "§53651. Eligible securities are any of the following:",
+    "(a) United States Treasury notes, bonds, bills or certificates of indebtedness, or obligations for which the faith and credit of the United States are pledged for the payment of principal and interest, including the guaranteed portions of small business administration loans, so long as the loans are obligations for which the faith and credit of the United States are pledged for the payment of principal and interest.",
+    "(b) Notes or bonds or any obligations of a local public agency (as defined in the United States Housing Act of 1949) or any obligations of a public housing agency (as defined in the United States Housing Act of 1937) for which the faith and credit of the United States are pledged for the payment of principal and interest.",
+    "(c) Bonds of this state or of any local agency or district of the State of California having the power, without limit as to rate or amount, to levy taxes or assessments to pay the principal and interest of the bonds upon all property within its boundaries subject to taxation or assessment by the local agency or district, and in addition, limited obligation bonds pursuant to Article 4 (commencing with Section 50665) of Chapter 3 of Division 1, senior obligation bonds pursuant to Article 5 (commencing with Section 53387) of Chapter 2.7, and revenue bonds and other obligations payable solely out of the revenues from a revenue-producing property owned, controlled, or operated by the state, local agency, or district or by a department, board, agency, or authority thereof.",
+    "(d) Bonds of any public housing agency (as defined in the United States Housing Act of 1937, as amended) as are secured by a pledge of annual contributions under an annual contribution contract between the public housing agency and the Public Housing Administration if both of the following conditions are met:",
+    "(1) The contract contains the covenant by the Public Housing Administration that is authorized by subsection (b) of Section 22 of the United States Housing Act of 1937, as amended.",
+    "(2) The maximum sum and the maximum period specified in the contract pursuant to subsection 22(b) are not less than the annual amount and the period for payment that are requisite to provide for the payment when due of all installments of principal and interest on the obligations.",
+    "(e) Registered warrants of this state.",
+    "(f) (1) Bonds, consolidated bonds, collateral trust debentures, consolidated debentures, or other obligations issued by either of the following:",
+    "(A) The United States Postal Service.",
+    "(B) Federal land banks or federal intermediate credit banks established under the Federal Farm Loan Act, as amended.",
+    "(2) Debentures and consolidated debentures issued by the Central Bank for Cooperatives and banks for cooperatives established under the Farm Credit Act of 1933, as amended.",
+    "(3) Consolidated obligations of the federal home loan banks established under the Federal Home Loan Bank Act.",
+    "(4) Bonds, debentures, and other obligations of the Federal National Mortgage Association or of the Government National Mortgage Association established under the National Housing Act, as amended.",
+    "(5) Bonds of any federal home loan bank established under the National Housing Act, as amended.",
+    "(6) Bonds, debentures and other obligations of the Federal Home Loan Mortgage Corporation established under the Emergency Home Finance Act of 1970.",
+    "(7) Obligations of the Tennessee Valley Authority.",
+    "(g) Notes, tax anticipation warrants, or other evidence of indebtedness issued pursuant to Article 7 (commencing with Section 53820), Article 7.5 (commencing with Section 53840), or Article 7.6 (commencing with Section 53850) of this chapter.",
+    "(h) State of California notes.",
+    "(i) Bonds, notes, certificates of indebtedness, warrants, or other obligations issued by either of the following:",
+    "(1) Any state of the United States (except this state), or the Commonwealth of Puerto Rico, or any local agency thereof having the power to levy taxes, without limit as to rate or amount, to pay the principal and interest of such obligations, provided the obligations issued are rated in one of the three highest grades by a nationally recognized investment service organization that has been engaged regularly in rating state and municipal issues for a period of not less than five years.",
+    "(2) Any state of the United States (except this state), or the Commonwealth of Puerto Rico, or a department, board, agency, or authority thereof except bonds which provide for or are issued pursuant to a law which may contemplate a subsequent legislative appropriation as an assurance of the continued operation and solvency of the department, board, agency, or authority but which does not constitute a valid and binding obligation for which the full faith and credit of such state or the Commonwealth of Puerto Rico are pledged, which are payable solely out of the revenues from a revenue-producing source owned, controlled, or operated thereby; provided the obligations issued are rated in one of the two highest grades by a nationally recognized investment service organization that has been engaged regularly in rating state and municipal issues for a period of not less than five years.",
+    "(j) Obligations issued, assumed, or guaranteed by the International Bank for Reconstruction and Development, Inter-American Development Bank, the Government Development Bank of Puerto Rico, the Asian Development Bank, the International Finance Corporation, or the African Development Bank.",
+    "(k) Participation certificates of the Export-Import Bank of the United States.",
+    "(l) Bonds and notes of the California Housing Finance Agency issued pursuant to Chapter 7 (commencing with Section 51350) of Part 3 of Division 31 of the Health and Safety Code.",
+    "(m) Promissory notes secured by first mortgages and first trust deeds that comply with Section 53651.2.",
+    "(n) Any bonds, notes, warrants, or other evidences of indebtedness of a nonprofit corporation issued to finance the construction of a school building or school buildings pursuant to a lease or agreement with a school district entered into in compliance with the provisions of Section 39315 or 81345 of the Education Code, and also any bonds, notes, warrants, or other evidences of indebtedness issued to refinance those bonds, notes, warrants, or other evidences of indebtedness as specified in Section 39317 of the Education Code.",
+    "(o) Any municipal securities, as defined by Section 3(a)(29) of the Securities Exchange Act of 1934, (15 U.S.C. Sec. 78, as amended), which are issued by this state or any local agency thereof.",
+    "(p) (1) With the consent of the treasurer, letters of credit issued by the Federal Home Loan Bank of San Francisco which comply with Section 53651.6.",
+    "(2) For local agencies described in paragraph (3) of subdivision (h) of Section 53603, and with assets under management of at least one hundred million dollars ($100,000,000), an eligible bank that has been selected by the treasurer for the safekeeping of moneys belonging to, or in the custody of, the local agency, and that has its headquarters located outside of the state, may submit letters of credit that are drawn on its federal home loan bank as security, subject to the terms set forth in Section 53651.6."
+   ]
+  },
+  {
+   "action": "SEC. 16. Section 54221 of the Government Code is amended to read:",
+   "paras": [
+    "§54221. As used in this article, the following definitions shall apply:",
+    "(a) (1) “Local agency” means every city, whether organized under general law or by charter, county, city and county, district, including school, sewer, water, utility, and local and regional park districts of any kind or class, joint powers authority, successor agency to a former redevelopment agency, housing authority, or other political subdivision of this state and any instrumentality thereof that is empowered to acquire and hold real property.",
+    "(2) The Legislature finds and declares that the term “district” as used in this article includes all districts within the state, including, but not limited to, all special districts, sewer, water, utility, and local and regional park districts, and any other political subdivision of this state that is a district, and therefore the changes in paragraph (1) made by the act adding this paragraph that specify that the provisions of this article apply to all districts, including school, sewer, water, utility, and local and regional park districts of any kind or class, are declaratory of, and not a change in, existing law.",
+    "(b) (1) “Surplus land” means land owned in fee simple by any local agency for which the local agency’s governing body takes formal action in a regular public meeting declaring that the land is surplus and is not necessary for the agency’s use. Land shall be declared either “surplus land” or “exempt surplus land,” as supported by written findings, before a local agency may take any action to dispose of it consistent with an agency’s policies or procedures. A local agency, on an annual basis, may declare multiple parcels as “surplus land” or “exempt surplus land.”",
+    "(2) “Surplus land” includes land held in the Community Redevelopment Property Trust Fund pursuant to Section 34191.4 of the Health and Safety Code and land that has been designated in the long-range property management plan approved by the Department of Finance pursuant to Section 34191.5 of the Health and Safety Code, either for sale or for future development, but does not include any specific disposal of land to an identified entity described in the plan.",
+    "(3) Nothing in this article prevents a local agency from obtaining fair market value for the disposition of surplus land consistent with Section 54226.",
+    "(4) Notwithstanding paragraph (1), a local agency is not required to make a declaration at a public meeting for land that is “exempt surplus land” pursuant to subparagraph (A), (B), (E), (K), (L), or (Q) of paragraph (1) of subdivision (f) if the local agency identifies the land in a notice that is published and available for public comment, including notice to the entities identified in subdivision (a) of Section 54222, at least 30 days before the exemption takes effect.",
+    "(c) (1) Except as provided in paragraph (2), “agency’s use” shall include, but not be limited to, land that is being used, or is planned to be used pursuant to a written plan adopted by the local agency’s governing board, for agency work or operations, including, but not limited to, utility sites, property owned by a port that is used to support logistics uses, watershed property, land being used for conservation purposes, land for demonstration, exhibition, or educational purposes related to greenhouse gas emissions, sites for broadband equipment or wireless facilities, and buffer sites near sensitive governmental uses, including, but not limited to, waste disposal sites, and wastewater treatment plants. “Agency’s use” by a local agency that is a district shall also include land disposed for uses described in subparagraph (B) of paragraph (2).",
+    "(2) (A) “Agency’s use” shall not include commercial or industrial uses or activities, including nongovernmental retail, entertainment, or office development. Property disposed of for the sole purpose of investment or generation of revenue shall not be considered necessary for the agency’s use.",
+    "(B) In the case of a local agency that is a district, excepting those whose primary mission or purpose is to supply the public with a transportation system, “agency’s use” may include commercial or industrial uses or activities, including nongovernmental retail, entertainment, or office development or be for the sole purpose of investment or generation of revenue if the agency’s governing body takes action in a public meeting declaring that the use of the site will do one of the following:",
+    "(i) Directly further the express purpose of agency work or operations.",
+    "(ii) Be expressly authorized by a statute governing the local agency, provided the district complies with Section 54233.5 if applicable.",
+    "(d) (1) “Dispose” means either of the following:",
+    "(A) The sale of the surplus land.",
+    "(B) The entering of a lease for surplus land, which is for a term longer than 15 years, inclusive of any extension or renewal options included in the terms of the initial lease, entered into on or after January 1, 2024.",
+    "(2) “Dispose” shall not mean either of the following:",
+    "(A) The entering of a lease for surplus land, which is for a term of 15 years or less, inclusive of any extension or renewal options included in the terms of the initial lease.",
+    "(B) The entering of a lease for surplus land on which no development or demolition will occur, regardless of the term of the lease.",
+    "(e) “Open-space purposes” means the use of land for public recreation, enjoyment of scenic beauty, or conservation or use of natural resources.",
+    "(f) (1) Except as provided in paragraph (2), “exempt surplus land” means any of the following:",
+    "(A) Surplus land that is transferred pursuant to Section 25539.4 or 37364.",
+    "(B) Surplus land that is less than one-half acre in area and is not contiguous to land owned by a state or local agency that is used for open-space or low- and moderate-income housing purposes.",
+    "(C) Surplus land that a local agency is exchanging for another property necessary for the agency’s use. “Property” may include easements necessary for the agency’s use.",
+    "(D) Surplus land that a local agency is transferring to another local, state, or federal agency, or to a third-party intermediary for future dedication for the receiving agency’s use, or to a federally recognized California Indian tribe. If the surplus land is transferred to a third-party intermediary, the receiving agency’s use must be contained in a legally binding agreement at the time of transfer to the third-party intermediary.",
+    "(E) Surplus land that is a former street, right-of-way, or easement, and is conveyed to an owner of an adjacent property.",
+    "(F) (i) Surplus land that is to be developed for a housing development, which may have ancillary commercial ground floor uses, that restricts 100 percent of the residential units to persons and families of low or moderate income, with at least 75 percent of the residential units restricted to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent, as defined in Section 50052.5 or 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability, and in no event shall the maximum affordable sales price or rent level be higher than 20 percent below the median market rents or sales prices for the neighborhood in which the site is located.",
+    "(ii) The requirements of clause (i) shall be contained in a covenant or restriction recorded against the surplus land at the time of sale that shall run with the land and be enforceable against any owner who violates the covenant or restriction and each successor in interest who continues the violation.",
+    "(G) (i) Surplus land that is subject to a local agency’s open, competitive solicitation or that is put to open, competitive bid by a local agency, provided that all entities identified in subdivision (a) of Section 54222 will be invited to participate in the process, for a housing or a mixed-use development that is more than one acre and less than 10 acres in area, consisting of either a single parcel, or two or more adjacent or nonadjacent parcels combined, that includes not less than 300 residential units, and that restricts at least 25 percent of the residential units to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(ii) The requirements of clause (i) shall be contained in a covenant or restriction recorded against the surplus land at the time of sale that shall run with the land and be enforceable against any owner who violates the covenant or restriction and each successor in interest who continues the violation.",
+    "(H) (i) Surplus land totaling 10 or more acres, consisting of either a single parcel, or two or more adjacent or nonadjacent parcels combined for disposition to one or more persons or entities pursuant to a plan or ordinance adopted by the legislative body of the local agency, or a state statute. That surplus land shall be subject to a local agency’s open, competitive solicitation process or put out to open, competitive bid by a local agency, provided that all entities identified in subdivision (a) of Section 54222 will be invited to participate in the process for a housing or mixed-use development.",
+    "(ii) The aggregate development shall include the greater of the following:",
+    "(I) Not less than 300 residential units.",
+    "(II) A number of residential units equal to 10 times the number of acres of the surplus land or 10,000 residential units, whichever is less.",
+    "(iii) At least 25 percent of the residential units shall be restricted to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent pursuant to Sections 50052.5 and 50053 of the Health and Safety Code, for a minimum of 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(iv) If nonresidential development is included in the development pursuant to this subparagraph, at least 25 percent of the total planned units affordable to lower income households shall be made available for lease or sale and permitted for use and occupancy before or at the same time with every 25 percent of nonresidential development made available for lease or sale and permitted for use and occupancy.",
+    "(v) A violation of this subparagraph is subject to the penalties described in Section 54230.5. Those penalties are in addition to any remedy a court may order for violation of this subparagraph. A local agency shall only dispose of land pursuant to this subparagraph through a disposition and development agreement that includes an indemnification clause that provides that if an action occurs after disposition violates this subparagraph, the person or entity that acquired the property shall be liable for the penalties.",
+    "(vi) The requirements of clauses (i) to (v), inclusive, shall be contained in a covenant or restriction recorded against the surplus land at the time of sale that shall run with the land and be enforceable against any owner who violates the covenant or restriction and each successor in interest who continues the violation.",
+    "(I) A mixed-use development, which may include more than one publicly owned parcel, that meets all of the following conditions:",
+    "(i) The development restricts at least 25 percent of the residential units to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(ii) At least 50 percent of the square footage of the new construction associated with the development is designated for residential use.",
+    "(iii) The development is not located in an urbanized area, as defined in Section 21094.5 of the Public Resources Code.",
+    "(J) (i) Surplus land that is subject to a valid legal restriction that is not imposed by the local agency and that makes housing prohibited, unless there is a feasible method to satisfactorily mitigate or avoid the prohibition on the site. A declaration of exemption pursuant to this subparagraph shall be supported by documentary evidence establishing the valid legal restriction. For the purposes of this section, “documentary evidence” includes, but is not limited to, a contract, agreement, deed restriction, statute, regulation, or other writing that documents the valid legal restriction.",
+    "(ii) Valid legal restrictions include, but are not limited to, all of the following:",
+    "(I) Existing constraints under ownership rights or contractual rights or obligations that prevent the use of the property for housing, if the rights or obligations were agreed to prior to September 30, 2019.",
+    "(II) Conservation or other easements or encumbrances that prevent housing development.",
+    "(III) Existing leases, or other contractual obligations or restrictions, if the terms were agreed to prior to September 30, 2019.",
+    "(IV) Restrictions imposed by the source of funding that a local agency used to purchase a property, provided that both of the following requirements are met:",
+    "(ia) The restrictions limit the use of those funds to purposes other than housing.",
+    "(ib) The proposed disposal of surplus land meets a use consistent with that purpose.",
+    "(iii) Valid legal restrictions that would make housing prohibited do not include either of the following:",
+    "(I) An existing nonresidential land use designation on the surplus land.",
+    "(II) Covenants, restrictions, or other conditions on the property rendered void and unenforceable by any other law, including, but not limited to, Section 714.6 of the Civil Code.",
+    "(iv) Feasible methods to mitigate or avoid a valid legal restriction on the site do not include a requirement that the local agency acquire additional property rights or property interests belonging to third parties.",
+    "(K) Surplus land that was granted by the state in trust to a local agency or that was acquired by the local agency for trust purposes by purchase or exchange, and for which disposal of the land is authorized or required subject to conditions established by statute.",
+    "(L) Land that is subject to either of the following, unless compliance with this article is expressly required:",
+    "(i) Section 17515, 81192, 81397, 81399, 81420, or 81422 of the Education Code.",
+    "(ii) Part 14 (commencing with Section 53570) of Division 31 of the Health and Safety Code.",
+    "(M) Surplus land that is a former military base that was conveyed by the federal government to a local agency, and is subject to Article 8 (commencing with Section 33492.125) of Chapter 4.5 of Part 1 of Division 24 of the Health and Safety Code, provided that all of the following conditions are met:",
+    "(i) The former military base has an aggregate area greater than five acres, is expected to include a mix of residential and nonresidential uses, and is expected to include no fewer than 1,400 residential units upon completion of development or redevelopment of the former military base.",
+    "(ii) The affordability requirements for residential units shall be governed by a settlement agreement entered into prior to September 1, 2020. Furthermore, at least 25 percent of the initial 1,400 residential units developed shall be restricted to lower income households, as defined in Section 50079.5 of the Health and Safety Code, with an affordable sales price or an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(iii) Before disposition of the surplus land, the agency adopts written findings that the land is exempt surplus land pursuant to this subparagraph.",
+    "(iv) Before disposition of the surplus land, the recipient has negotiated a project labor agreement consistent with the local agency’s project stabilization agreement resolution, as adopted on February 2, 2021, and any succeeding ordinance, resolution, or policy, regardless of the length of the agreement between the local agency and the recipient.",
+    "(v) The agency includes in the annual report required by paragraph (2) of subdivision (a) of Section 65400 the status of development of residential units on the former military base, including the total number of residential units that have been permitted and what percentage of those residential units are restricted for persons and families of low or moderate income, or lower income households, as defined in Section 50079.5 of the Health and Safety Code.",
+    "A violation of this subparagraph is subject to the penalties described in Section 54230.5. Those penalties are in addition to any remedy a court may order for violation of this subparagraph or the settlement agreement.",
+    "(N) Real property that is used by a district for an agency’s use expressly authorized in subdivision (c).",
+    "(O) Land that has been transferred before June 30, 2019, by the state to a local agency pursuant to Section 32667 of the Streets and Highways Code and has a minimum planned residential density of at least 100 dwelling units per acre, and includes 100 or more residential units that are restricted to persons and families of low or moderate income, with an affordable sales price or an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing, 45 years for ownership housing, and 50 years for rental or ownership housing located on tribal trust lands, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability. For purposes of this subparagraph, not more than 20 percent of the affordable units may be restricted to persons and families of moderate income and at least 80 percent of the affordable units must be restricted to lower income households as defined in Section 50079.5 of the Health and Safety Code.",
+    "(P) (i) Land that meets the following conditions:",
+    "(I) Land that is subject to a sectional planning area document that meets both of the following:",
+    "(ia) The sectional planning area was adopted prior to January 1, 2019.",
+    "(ib) The sectional planning area document is consistent with county and city general plans applicable to the land.",
+    "(II) The land identified in the adopted sectional planning area document was dedicated prior to January 1, 2019.",
+    "(III) On January 1, 2019, the parcels on the land met at least one of the following conditions:",
+    "(ia) The land was subject to an irrevocable offer of dedication of fee interest requiring the land to be used for a specified purpose.",
+    "(ib) The land was acquired through a land exchange subject to a land offer agreement that grants the land’s original owner the right to repurchase the land acquired by the local agency pursuant to the agreement if the land will not be developed in a manner consistent with the agreement.",
+    "(ic) The land was subject to a grant deed specifying that the property shall be used for educational uses and limiting other types of uses allowed on the property.",
+    "(IV) At least 25 percent of the units are dedicated to lower income households, as defined in Section 50079.5 of the Health and Safety Code, at an affordable rent, as defined by Section 50053 of the Health and Safety Code, or an affordable housing cost, as defined by Section 50052.5 of the Health and Safety Code, and subject to a recorded deed restriction for a period of 55 years for rental units and 45 years for owner-occupied units, unless a local ordinance or a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability.",
+    "(V) The land is developed at an average density of at least 10 units per acre, calculated with respect to the entire sectional planning area.",
+    "(VI) No more than 25 percent of the nonresidential square footage identified in the sectional planning area document receives its first certificate of occupancy before at least 25 percent of the residential square footage identified in the sectional planning area document has received its first certificate of occupancy.",
+    "(VII) No more than 50 percent of the nonresidential square footage identified in the sectional planning area document receives its first certificate of occupancy before at least 50 percent of the residential square footage identified in the sectional planning area document has received its first certificate of occupancy.",
+    "(VIII) No more than 75 percent of the nonresidential square footage identified in the sectional planning area document shall receive its first certificate of occupancy before at least 75 percent of the residential square footage identified in the sectional planning area document has received its first certificate of occupancy.",
+    "(ii) The local agency includes in the annual report required by paragraph (2) of subdivision (a) of Section 65400 the status of development, including the total square footage of the residential and nonresidential development, the number of residential units that have been permitted, and what percentage of those residential units are restricted for persons and families of low or moderate income, or lower income households, as defined in Section 50079.5 of the Health and Safety Code.",
+    "(iii) The Department of Housing and Community Development may request additional information from the agency regarding land disposed of pursuant to this subparagraph.",
+    "(iv) At least 30 days prior to disposing of land declared “exempt surplus land,” a local agency shall provide the Department of Housing and Community Development a written notification of its declaration and findings in a form prescribed by the Department of Housing and Community Development. Within 30 days of receipt of the written notification and findings, the department shall notify the local agency if the department has determined that the local agency is in violation of this article. A local agency that fails to submit the written notification and findings shall be liable for a civil penalty pursuant to this subparagraph. A local agency shall not be liable for the civil penalty if the Department of Housing and Community Development does not notify the agency that the agency is in violation of this article within 30 days of receiving the written notification and findings. Once the department determines that the declarations and findings comply with subclauses (I) to (IV), inclusive, of clause (i), the local agency may proceed with disposal of land pursuant to this subparagraph. This clause is declaratory of, and not a change in, existing law.",
+    "(v) If the local agency disposes of land in violation of this subparagraph, the local agency shall be liable for a civil penalty calculated as follows:",
+    "(I) For a first violation, 30 percent of the greater of the final sale price or the fair market value of the land at the time of disposition.",
+    "(II) For a second or subsequent violation, 50 percent of the greater of the final sale price or the fair market value of the land at the time of disposition.",
+    "(III) For purposes of this subparagraph, fair market value shall be determined by an independent appraisal of the land.",
+    "(IV) An action to enforce this subparagraph may be brought by any of the following:",
+    "(ia) An entity identified in subdivisions (a) to (e), inclusive, of Section 54222.",
+    "(ib) A person who would have been eligible to apply for residency in affordable housing had the agency not violated this section.",
+    "(ic) A housing organization, as that term is defined in Section 65589.5.",
+    "(id) A beneficially interested person or entity.",
+    "(ie) The Department of Housing and Community Development.",
+    "(V) A penalty assessed pursuant to this subparagraph shall, except as otherwise provided, be deposited into a local housing trust fund. The local agency may elect to instead deposit the penalty moneys into the Building Homes and Jobs Trust Fund or the Housing Rehabilitation Loan Fund. Penalties shall not be paid out of funds already dedicated to affordable housing, including, but not limited to, Low and Moderate Income Housing Asset Funds, funds dedicated to housing for very low, low-, and moderate-income households, and federal HOME Investment Partnerships Program and Community Development Block Grant Program funds. The local agency shall commit and expend the penalty moneys deposited into the local housing trust fund within five years of deposit for the sole purpose of financing newly constructed housing units that are affordable to extremely low, very low, or low-income households.",
+    "(VI) Five years after deposit of the penalty moneys into the local housing trust fund, if the funds have not been expended, the funds shall revert to the state and be deposited in the Building Homes and Jobs Trust Fund or the Housing Rehabilitation Loan Fund for the sole purpose of financing newly constructed housing units located in the same jurisdiction as the surplus land and that are affordable to extremely low, very low, or low-income households. Expenditure of any penalty moneys deposited into the Building Homes and Jobs Trust Fund or the Housing Rehabilitation Loan Fund pursuant to this subdivision shall be subject to appropriation by the Legislature.",
+    "(vi) For purposes of this subparagraph, the following definitions apply:",
+    "(I) “Sectional planning area” means an area composed of identifiable planning units, within which common services and facilities, a strong internal unity, and an integrated pattern of land use, circulation, and townscape planning are readily achievable.",
+    "(II) “Sectional planning area document” means a document or plan that sets forth, at minimum, a site utilization plan of the sectional planning area and development standards for each land use area and designation.",
+    "(vii) This subparagraph shall become inoperative on January 1, 2034.",
+    "(Q) Land that is owned by a California public-use airport on which residential uses are prohibited pursuant to Federal Aviation Administration Order 5190.6B, Airport Compliance Program, Chapter 20 -- Compatible Land Use and Airspace Protection.",
+    "(R) Land that is transferred to a community land trust, and all of the following conditions are met:",
+    "(i) The property is being or will be developed or rehabilitated as any of the following:",
+    "(I) An owner-occupied single-family dwelling.",
+    "(II) An owner-occupied unit in a multifamily dwelling.",
+    "(III) A member-occupied unit in a limited equity housing cooperative.",
+    "(IV) A rental housing development.",
+    "(ii) Improvements on the property are or will be available for use and ownership or for rent by qualified persons, as defined in paragraph (6) of subdivision (c) of Section 214.18 of the Revenue and Taxation Code.",
+    "(iii) (I) A deed restriction or other instrument, requiring a contract or contracts serving as an enforceable restriction on the sale or resale value of owner-occupied units or on the affordability of rental units is recorded on or before the lien date following the acquisition of the property by the community land trust.",
+    "(II) For the purpose of this clause, the following definitions apply:",
+    "(ia) “A contract or contracts serving as an enforceable restriction on the sale or resale value of owner-occupied units” means a contract described in paragraph (11) of subdivision (a) of Section 402.1 of the Revenue and Taxation Code.",
+    "(ib) “A contract or contracts serving as an enforceable restriction on the affordability of rental units” means an enforceable and verifiable agreement with a public agency, a recorded deed restriction, or other legal document described in subparagraph (A) of paragraph (2) of subdivision (g) of Section 214 of the Revenue and Taxation Code.",
+    "(iv) A copy of the deed restriction or other instrument shall be provided to the assessor.",
+    "(S) (i) For local agencies whose primary mission or purpose is to supply the public with a transportation system, surplus land that is developed for commercial or industrial uses or activities, including nongovernmental retail, entertainment, or office development or for the sole purpose of investment or generation of revenue, if the agency meets all of the following conditions:",
+    "(I) The agency has an adopted land use plan or policy that designates at least 50 percent of the gross acreage covered by the adopted land use plan or policy for residential purposes. The adopted land use plan or policy shall also require the development of at least 300 residential units, or at least 10 residential units per gross acre, averaged across all land covered by the land use plan or policy, whichever is greater.",
+    "(II) The agency has an adopted land use plan or policy that requires at least 25 percent of all residential units to be developed on the parcels covered by the adopted land use plan or policy made available to lower income households, as defined in Section 50079 of the Health and Safety Code, at an affordable sales price or rented at an affordable rent, as defined in Sections 50052.5 and 50053 of the Health and Safety Code, for 55 years for rental housing and 45 years for ownership housing, unless a local ordinance or the terms of a federal, state, or local grant, tax credit, or other project financing requires a longer period of affordability. These terms shall be included in the land use plan or policy and dictate that they will be contained in a covenant or restriction recorded against the surplus land at the time of disposition that shall run with the land and be enforceable against any owner or lessee who violates the covenant or restriction and each successor in interest who continues the violation.",
+    "(III) Land disposed of for residential purposes shall issue a competitive request for proposals subject to the local agency’s open, competitive solicitation process or put out to open, competitive bid by the local agency, provided that all entities identified in subdivision (a) of Section 54222 are invited to participate.",
+    "(IV) Prior to entering into an agreement to dispose of a parcel for nonresidential development on land designated for the purposes authorized pursuant to this subparagraph in an agency’s adopted land use plan or policy, the agency, since January 1, 2020, must have entered into an agreement to dispose of a minimum of 25 percent of the land designated for affordable housing pursuant to subclause (II).",
+    "(ii) The agency may exempt at one time all parcels covered by the adopted land use plan or policy pursuant to this subparagraph.",
+    "(2) Notwithstanding paragraph (1), a written notice of the availability of surplus land for open-space purposes shall be sent to the entities described in subdivision (b) of Section 54222 before disposing of the surplus land, provided the land does not meet the criteria in subparagraph (H) of paragraph (1), if the land is any of the following:",
+    "(A) Within a coastal zone.",
+    "(B) Adjacent to a historical unit of the State Parks System.",
+    "(C) Listed on, or determined by the State Office of Historic Preservation to be eligible for, the National Register of Historic Places.",
+    "(D) Within the Lake Tahoe region as defined in Section 66905.5.",
+    "(g) “Persons and families of low or moderate income” has the same meaning as provided in Section 50093 of the Health and Safety Code."
+   ]
+  },
+  {
+   "action": "SEC. 17. Section 54953.8.6 of the Government Code is amended to read:",
+   "paras": [
+    "§54953.8.6. (a) An eligible subsidiary body may conduct a teleconference meeting pursuant to Section 54953.8, provided that it complies with the requirements of that section and all of the following additional requirements:",
+    "(1) The eligible subsidiary body shall designate one physical meeting location within the boundaries of the legislative body that created the eligible subsidiary body where members of the subsidiary body who are not participating remotely shall be present and members of the public may physically attend, observe, hear, and participate in the meeting. At least one staff member of the eligible subsidiary body or the legislative body that created the eligible subsidiary body shall be present at the physical meeting location during the meeting. The eligible subsidiary body shall post the agenda at the physical meeting location, but need not post the agenda at a remote location.",
+    "(2) (A) A member of the eligible subsidiary body shall visibly appear on camera during the open portion of a meeting that is publicly accessible via the internet or other online platform, except if the member has a physical or mental condition not subject to subdivision (c) of Section 54953 that results in a need to participate off camera.",
+    "(B) The visual appearance of a member of the eligible subsidiary body on camera may cease only when the appearance would be technologically infeasible, including, but not limited to, when the member experiences a lack of reliable broadband or internet connectivity that would be remedied by joining without video.",
+    "(C) If a member of the eligible subsidiary body does not appear on camera due to challenges with internet connectivity, the member shall announce the reason for their nonappearance prior to turning off their camera.",
+    "(3) An elected official serving as a member of an eligible subsidiary body in their official capacity shall not participate in a meeting of the eligible subsidiary body by teleconferencing pursuant to this section unless the use of teleconferencing complies with the requirements of paragraph (3) of subdivision (b) of Section 54953.",
+    "(4) (A) In order to use teleconferencing pursuant to this section, the legislative body that established the eligible subsidiary body by charter, ordinance, resolution, or other formal action shall make the following findings by majority vote before the eligible subsidiary body uses teleconferencing pursuant to this section for the first time, and every six months thereafter:",
+    "(i) The legislative body has considered the circumstances of the eligible subsidiary body.",
+    "(ii) Teleconference meetings of the eligible subsidiary body would enhance public access to meetings of the eligible subsidiary body, and the public has been made aware of the type of remote participation, including audio-visual or telephonic, that will be made available at a regularly scheduled meeting and has been provided the opportunity to comment at an in-person meeting of the legislative body authorizing the subsidiary body to meet entirely remotely.",
+    "(iii) Teleconference meetings of the eligible subsidiary body would promote the attraction, retention, and diversity of eligible subsidiary body members.",
+    "(B) (i) An eligible subsidiary body authorized to use teleconferencing pursuant to this section may request to present any recommendations it develops to the legislative body that created it.",
+    "(ii) Upon receiving a request described in clause (i), the legislative body that created the subsidiary body shall hold a discussion at a regular meeting held within 60 days after the legislative body receives the request, or if the legislative body does not have another regular meeting scheduled within 60 days after the legislative body receives the request, at the next regular meeting after the request is received.",
+    "(iii) The discussion required by clause (ii) shall not be placed on a consent calendar, but may be combined with the legislative body’s subsequent consideration of the findings described in subparagraph (A) for the following six months.",
+    "(iv) The legislative body shall not take any action on any recommendations included in the report of a subsidiary body until the next regular meeting of the legislative body following the discussion described in clause (ii).",
+    "(C) After the legislative body makes the findings described in subparagraph (A), the eligible subsidiary body shall approve the use of teleconferencing by majority vote before using teleconference pursuant to this section.",
+    "(D) The legislative body that created the eligible subsidiary body may elect to prohibit the eligible subsidiary body from using teleconferencing pursuant to this section at any time.",
+    "(b) (1) For purposes of this section, “eligible subsidiary body” means a legislative body that meets all of the following:",
+    "(A) Is described in subdivision (b) of Section 54952.",
+    "(B) Serves exclusively in an advisory capacity.",
+    "(C) Is not authorized to take final action on legislation, regulations, contracts, licenses, permits, or any other entitlements, grants, or allocations of funds.",
+    "(D) Does not have primary subject matter jurisdiction, as defined by the charter, an ordinance, a resolution, or any formal action of the legislative body that created the subsidiary body, that focuses on elections, budgets, police oversight, privacy, removing from, or restricting access to, materials available in public libraries, or taxes or related spending proposals.",
+    "(2) An eligible subsidiary body may include members who are elected officials, members who are not elected officials, or any combination thereof.",
+    "(c) This section shall remain in effect only until January 1, 2030, and as of that date is repealed."
+   ]
+  },
+  {
+   "action": "SEC. 18. Section 54953.8.7 of the Government Code is amended to read:",
+   "paras": [
+    "§54953.8.7. (a) An eligible multijurisdictional body may conduct a teleconference meeting pursuant to Section 54953.8, provided that it complies with the requirements of that section and all of the following additional requirements:",
+    "(1) The eligible multijurisdictional body has adopted a resolution that authorizes the eligible multijurisdictional body to use teleconferencing pursuant to this section at a regular meeting in open session.",
+    "(2) At least a quorum of the members of the eligible multijurisdictional body shall participate from one or more physical locations that are open to the public and within the boundaries of the territory over which the local agency exercises jurisdiction.",
+    "(3) A member of the eligible multijurisdictional body who receives compensation for their service on the eligible multijurisdictional body shall participate from a physical location that is open to the public. For purposes of this paragraph, “compensation” does not include reimbursement for actual and necessary expenses.",
+    "(4) A member of the eligible multijurisdictional body may participate from a remote location provided that:",
+    "(A) The eligible multijurisdictional body identifies each member of the eligible multijurisdictional body who plans to participate remotely in the agenda.",
+    "(B) The member shall participate through both audio and visual technology.",
+    "(5) A member of the eligible multijurisdictional body shall not participate in a meeting remotely pursuant to this section, unless the location from which the member participates is more than 20 miles each way from any physical location of the meeting described in paragraph (2).",
+    "(6) The provisions of this section shall not serve as a means for any member of a legislative body to participate in meetings of the legislative body solely by teleconference from a remote location for more than the following number of meetings, as applicable:",
+    "(A) Two meetings per year, if the legislative body regularly meets once per month or less.",
+    "(B) Five meetings per year, if the legislative body regularly meets twice per month.",
+    "(C) Seven meetings per year, if the legislative body regularly meets three or more times per month.",
+    "(D) For the purpose of counting meetings attended by teleconference under this paragraph, a “meeting” shall be defined as any number of meetings of the legislative body of a local agency that begin on the same calendar day.",
+    "(b) For the purposes of this section, both of the following definitions apply:",
+    "(1) “Eligible multijurisdictional body” means a multijurisdictional board, commission, or advisory body of a multijurisdictional, intercounty, or intracounty agency, the membership of which board, commission, or advisory body is appointed, and the board, commission, or advisory body is otherwise subject to this chapter.",
+    "(2) “Multijurisdictional” means either of the following:",
+    "(A) A legislative body that includes representatives from more than one county, city, city and county, or special district.",
+    "(B) A legislative body of a joint powers entity formed pursuant to an agreement entered into in accordance with Article 1 (commencing with Section 6500) of Chapter 5 of Division 7 of Title 1.",
+    "(c) This section shall remain in effect only until January 1, 2030, and as of that date is repealed."
+   ]
+  },
+  {
+   "action": "SEC. 19. Section 66474.02 of the Government Code is amended to read:",
+   "paras": [
+    "§66474.02. (a) Before approving a tentative map, or a parcel map for which a tentative map was not required, for an area located in a state responsibility area or a very high fire hazard severity zone, as both are defined in Section 51177, a legislative body of a county shall, except as provided in subdivision (c), make the following findings:",
+    "(1) A finding supported by substantial evidence in the record that the subdivision is consistent with regulations adopted by the State Board of Forestry and Fire Protection pursuant to Sections 4290 and 4291 of the Public Resources Code or consistent with local ordinances certified by the State Board of Forestry and Fire Protection as meeting or exceeding the state regulations.",
+    "(2) A finding supported by substantial evidence in the record that structural fire protection and suppression services will be available for the subdivision through any of the following entities:",
+    "(A) A county, city, special district, political subdivision of the state, or another entity organized solely to provide fire protection services that is monitored and funded by a county or other public entity.",
+    "(B) The Department of Forestry and Fire Protection by contract entered into pursuant to Section 4133, 4142, or 4144 of the Public Resources Code.",
+    "(b) Upon approving a tentative map, or a parcel map for which a tentative map was not required, for an area located in a state responsibility area or a very high fire hazard severity zone, as both are defined in Section 51177, a legislative body of a county shall transmit a copy of the findings required in subdivision (a) and accompanying maps to the State Board of Forestry and Fire Protection.",
+    "(c) (1) Subdivision (a) does not apply to the approval of a tentative map, or a parcel map for which a tentative map was not required, that would subdivide land identified in the open space element of the general plan for the managed production of resources, including, but not limited to, forest land, rangeland, agricultural land, and areas of economic importance for the production of food or fiber, if the subdivision is consistent with the open space purpose and if, for the subdivision of land that would result in parcels that are 40 acres or smaller in size, those parcels are subject to a binding and recorded restriction prohibiting the development of a habitable, industrial, or commercial building or structure. All other structures shall comply with defensible space requirements described in Section 51182 of this code or Sections 4290 and 4291 of the Public Resources Code.",
+    "(2) Any later approval to remove a binding restriction placed as a condition of a tentative map, or a parcel map for which a tentative map was not required, that would allow the development of a building or structure for a parcel that has previously been exempted from the requirements of subdivision (a) pursuant to paragraph (1) of this subdivision shall be subject to the requirements of subdivision (a).",
+    "(d) This section does not supersede regulations established by the State Board of Forestry and Fire Protection or local ordinances that provide equivalent or more stringent minimum requirements than those contained within this section."
+   ]
+  },
+  {
+   "action": "SEC. 20. Section 32499.8 of the Health and Safety Code is amended to read:",
+   "paras": [
+    "§32499.8. (a) The district shall make annual reports to the Imperial County Local Agency Formation Commission (LAFCO), by December 31, 2024, and December 31, 2025, regarding health care service provision within the boundaries of the district, using the indices outlined in paragraphs (1) to (6), inclusive, of subdivision (a) of Section 56430 of the Government Code.",
+    "(b) By December 31, 2027, and by December 31 every five years thereafter, the Imperial County LAFCO shall conduct a municipal service review regarding health care service provision within the boundaries of the district pursuant to Section 56430 of the Government Code."
+   ]
+  },
+  {
+   "action": "SEC. 21. The Legislature finds and declares that a special statute is necessary and that a general statute cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique circumstances faced by the County of Merced with respect to the organization of the county offices.",
+   "paras": []
+  }
+ ],
+ "chapter": {
+  "num": "716",
+  "year": "2026"
+ },
+ "digest": [
+  "(1) Existing law, the Joint Exercise of Powers Act, authorizes 2 or more public agencies, by agreement, to form a joint powers authority to exercise any power common to the contracting parties, as specified. Existing law requires a joint powers agreement to state the purpose of the agreement or the power to be exercised, and to provide for the method by which the purpose will be accomplished or the manner in which the power will be exercised. The act grants the agency the common power specified in the agreement and authorizes the agency to exercise that power in the manner provided in the agreement. Existing law authorizes a governing body that satisfies certain conditions to delegate its functions to an advisory body.",
+  "This bill would define the terms “advisory body,” “policy formation,” “program development,” and “program implementation” for purposes of that provision. The bill would state that these definitions do not constitute a change in, but are declaratory of, existing law.",
+  "(2) The California Constitution requires the state to provide a subvention of funds to reimburse the local government for the costs of a new program or a higher level of service, with specified exceptions, when the Legislature or a state agency mandates a new program or higher level of service on any local government, including school districts. Existing law, in the event that revised claiming instructions are issued by the Controller between November 15 and February 15, provides a local agency or school district filing an annual reimbursement claim with 120 days following the issuance date of the revised instructions to file a claim.",
+  "This bill would instead apply that provision if the revised claiming instructions are issued by the Controller between October 19 and February 15.",
+  "(3) Existing law requires specified county officers, including the public administrator, to be elected by the people. Existing law authorizes the boards of supervisors of specified counties to provide, by ordinance, that the public administrator be appointed by the board. Existing law also authorizes the boards of supervisors of specified counties, by ordinance, to appoint the same person to the offices of public administrator and public guardian, and to, at any time, separate the consolidated offices of the district attorney and public administrator, as specified.",
+  "This bill would apply those provisions to the County of Merced.",
+  "(4) Existing law establishes the office of the county clerk, and requires a county clerk, among other things, to take charge of and safely keep all books, papers, and records that are filed or deposited in the county clerk’s office pursuant to law.",
+  "This bill would make technical changes to various provisions relating to the county clerk to use gender-neutral language and update a cross-reference.",
+  "(5) Existing law establishes the office of county recorder and specifically requires the county recorder within 30 days of recordation of a deed, quitclaim deed, mortgage, or deed of trust, to notify by mail the party or parties executing the document, as specified. Existing law requires this notification to be sent to the address for mailing tax bills that was established prior to the recording of the document.",
+  "This bill would instead require a county recorder to mail the required notice to the current assessee at the most recent address for mailing tax bills that was established prior to the recording of the document.",
+  "(6) Existing law authorizes the county board of supervisors to provide for an additional fee of $1 for each instrument, paper, or notice of record to order to defray the cost of converting the county recorder’s document storage system to micrographics.",
+  "This bill would instead authorize that fee to defray the costs of implementing and funding a county recorder archive program and converting the county recorder’s document storage system for permanent retention.",
+  "(7) Existing law generally prescribes the duties and powers of mayors, including requiring a mayor to sign certain instruments. Existing law authorizes a legislative body to provide by ordinance that those instruments be signed by an officer other than the mayor.",
+  "This bill would authorize a legislative body to authorize, by resolution, an officer other than the mayor to sign those instruments, provided the instruments are in connection with or for the purposes of participating in a state-administered or state-approved funding or regulatory program.",
+  "(8) Existing law makes the treasurer of a local agency responsible for the safekeeping of money and authorizes them to enter into a contract with a depository, as specified. Existing law requires the depository and the depository agent to secure the deposits in eligible securities. Existing law defines eligible securities for this purpose to include, among other things, letters of credit issued by the Federal Home Loan Bank of San Francisco, as specified.",
+  "This bill, would make various nonsubstantive changes to those provisions and, for a county, city and county, or local agency that pools money in deposits or investments with other agencies and with assets under management of at least $100,000,000, would additionally authorize an eligible bank headquartered outside of the state to submit letters of credit drawn on its federal home loan bank, as specified.",
+  "(9) Existing law requires a local agency to declare land either “surplus land” or “exempt surplus land,” as supported by written findings, before the local agency may take any action to dispose of it consistent with an agency’s policies or procedures. Existing law generally requires a local agency, before disposing of or negotiating to dispose of surplus land, to provide a written notice of the availability of the surplus land to specified entities and housing sponsors. Under existing law, land declared as “exempt surplus land” is not subject to these requirements. Existing law defines “exempt surplus land” to mean, among other things, surplus land totaling 10 or more acres, consisting of either a single parcel, or 2 or more adjacent or nonadjacent parcels combined for disposition to one or more buyers pursuant to a plan or ordinance adopted by the legislative body of the local agency, or a state statute.",
+  "This bill would revise this definition of “exempt surplus land” to remove the reference to buyers and instead mean 2 or more adjacent or nonadjacent parcels combined for disposition to one or more persons or entities, as specified.",
+  "(10) Existing law, the Ralph M. Brown Act, requires, with specified exceptions, that all meetings of a legislative body, as defined, of a local agency be open and public and that all persons be permitted to attend and participate. The act authorizes an eligible subsidiary body to conduct a teleconference meeting, provided that it complies with specified requirements, including that the legislative body that established the eligible subsidiary body makes specified findings. Existing law authorizes a subsidiary body authorized to use teleconferencing to present any recommendation it develops to the legislative body that created it, and requires the legislative body to hold a discussion at a regular meeting upon receiving a request. Existing law authorizes that discussion to be combined with the legislative body’s subsequent consideration of the teleconferencing findings for the following 12 months.",
+  "This bill would instead authorize that discussion to be combined with the legislative body’s subsequent consideration of the teleconferencing findings for the following 6 months.",
+  "The act also authorizes an eligible multijurisdictional body to conduct a teleconference meeting, provided that it complies with specified requirements. Existing law defines “eligible multijurisdictional body” to mean a multijurisdictional board, commission, or advisory body of a multijurisdictional, cross-county agency.",
+  "This bill would redefine “eligible multijurisdictional body” to mean a multijurisdictional board, commission, or advisory body of a multijurisdictional, intercounty, or intracounty agency.",
+  "(11) Existing law requires a legislative body of a county, before approving a tentative map, to make specified findings, except as provided.",
+  "This bill would fix an erroneous cross-reference within that provision.",
+  "(12) Existing law requires the Imperial County Local Agency Formation Commission (LAFCO), by December 31, 2026, and by December 31 every 5 years thereafter, to conduct a municipal service review regarding health care service provision within the boundaries of the district, as specified.",
+  "This bill would instead require the Imperial County LAFCO to conduct that review by December 31, 2027, and by December 31 every 5 years thereafter.",
+  "(13) This bill would make legislative findings and declarations as to the necessity of a special statute for the County of Merced."
+ ],
+ "hash": "9625ca4b1f113a1b",
+ "history": [
+  {
+   "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+   "chamber": "S",
+   "date": "2026-03-11"
+  },
+  {
+   "action": "From printer. May be acted upon on or after April 11.",
+   "chamber": "S",
+   "date": "2026-03-12"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "chamber": "S",
+   "date": "2026-03-18"
+  },
+  {
+   "action": "Set for hearing April 15.",
+   "chamber": "S",
+   "date": "2026-04-02"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 7. Noes 0. Page 3905.) (April 15).",
+   "chamber": "S",
+   "date": "2026-04-15"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "chamber": "S",
+   "date": "2026-04-16"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 37. Noes 0. Page 4033.) Ordered to the Assembly.",
+   "chamber": "S",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "In Assembly. Read first time. Held at Desk.",
+   "chamber": "A",
+   "date": "2026-04-23"
+  },
+  {
+   "action": "Referred to Com. on L. GOV.",
+   "chamber": "A",
+   "date": "2026-05-04"
+  },
+  {
+   "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+   "chamber": "A",
+   "date": "2026-06-18"
+  },
+  {
+   "action": "From committee: Do pass. Ordered to consent calendar. (Ayes 9. Noes 0.) (July 1).",
+   "chamber": "A",
+   "date": "2026-07-02"
+  },
+  {
+   "action": "Read second time. Ordered to consent calendar.",
+   "chamber": "A",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "From consent calendar on motion of Assembly Member Carrillo.",
+   "chamber": "A",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-03"
+  },
+  {
+   "action": "Read third time and amended.",
+   "chamber": "A",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Ordered to third reading.",
+   "chamber": "A",
+   "date": "2026-08-19"
+  },
+  {
+   "action": "Read third time. Passed. (Ayes 78. Noes 0. Page 6373.) Ordered to the Senate.",
+   "chamber": "A",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "In Senate. Concurrence in Assembly amendments pending.",
+   "chamber": "S",
+   "date": "2026-08-24"
+  },
+  {
+   "action": "Ordered to special consent calendar.",
+   "chamber": "S",
+   "date": "2026-08-26"
+  },
+  {
+   "action": "Assembly amendments concurred in. (Ayes 40. Noes 0. Page 5988.) Ordered to engrossing and enrolling.",
+   "chamber": "S",
+   "date": "2026-08-27"
+  },
+  {
+   "action": "Enrolled and presented to the Governor at 2 p.m.",
+   "chamber": "",
+   "date": "2026-09-04"
+  },
+  {
+   "action": "Approved by the Governor.",
+   "chamber": "",
+   "date": "2026-09-27"
+  },
+  {
+   "action": "Chaptered by Secretary of State. Chapter 716, Statutes of 2026.",
+   "chamber": "",
+   "date": "2026-09-27"
+  }
+ ],
+ "house": "Secretary of State",
+ "latest_version": {
+  "action": "Chaptered",
+  "date": "2026-09-20",
+  "id": "20250SB143995CHP",
+  "num": "95"
+ },
+ "location": "",
+ "sections": [
+  {
+   "action": "Section 66474.02 of the Government Code is amended to read:",
+   "code": "GOV",
+   "paras": [
+    "(a) Before approving a tentative map, or a parcel map for which a tentative map was not required, for an area located in a state responsibility area or a very high fire hazard severity zone, as both are defined in Section 51177, a legislative body of a county shall, except as provided in subdivision (c), make the following findings:",
+    "(1) A finding supported by substantial evidence in the record that the subdivision is consistent with regulations adopted by the State Board of Forestry and Fire Protection pursuant to Sections 4290 and 4291 of the Public Resources Code or consistent with local ordinances certified by the State Board of Forestry and Fire Protection as meeting or exceeding the state regulations.",
+    "(2) A finding supported by substantial evidence in the record that structural fire protection and suppression services will be available for the subdivision through any of the following entities:",
+    "(A) A county, city, special district, political subdivision of the state, or another entity organized solely to provide fire protection services that is monitored and funded by a county or other public entity.",
+    "(B) The Department of Forestry and Fire Protection by contract entered into pursuant to Section 4133, 4142, or 4144 of the Public Resources Code.",
+    "(b) Upon approving a tentative map, or a parcel map for which a tentative map was not required, for an area located in a state responsibility area or a very high fire hazard severity zone, as both are defined in Section 51177, a legislative body of a county shall transmit a copy of the findings required in subdivision (a) and accompanying maps to the State Board of Forestry and Fire Protection.",
+    "(c) (1) Subdivision (a) does not apply to the approval of a tentative map, or a parcel map for which a tentative map was not required, that would subdivide land identified in the open space element of the general plan for the managed production of resources, including, but not limited to, forest land, rangeland, agricultural land, and areas of economic importance for the production of food or fiber, if the subdivision is consistent with the open space purpose and if, for the subdivision of land that would result in parcels that are 40 acres or smaller in size, those parcels are subject to a binding and recorded restriction prohibiting the development of a habitable, industrial, or commercial building or structure. All other structures shall comply with defensible space requirements described in Section 51182 of this code or Sections 4290 and 4291 of the Public Resources Code.",
+    "(2) Any later approval to remove a binding restriction placed as a condition of a tentative map, or a parcel map for which a tentative map was not required, that would allow the development of a building or structure for a parcel that has previously been exempted from the requirements of subdivision (a) pursuant to paragraph (1) of this subdivision shall be subject to the requirements of subdivision (a).",
+    "(d) This section does not supersede regulations established by the State Board of Forestry and Fire Protection or local ordinances that provide equivalent or more stringent minimum requirements than those contained within this section."
+   ],
+   "sec": "66474.02",
+   "verb": "amended"
+  }
+ ],
+ "session": "20252026",
+ "status": "Chaptered",
+ "subject": "Local government: omnibus bill.",
+ "title": "An act to amend Sections 6508, 17560, 24011, 26802, 26803, 26803.5, 26809, 26831, 26837, 26840.1, 27297.7, 27361.4, 40602, 53651, 54221, 54953.8.6, 54953.8.7, and 66474.02 of the Government Code, and to amend Section 32499.8 of the Health and Safety Code, relating to local government.",
+ "urgency": "No",
+ "versions": [
+  {
+   "action": "Introduced",
+   "date": "2026-03-11",
+   "id": "20250SB143999INT",
+   "num": "99"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-06-18",
+   "id": "20250SB143998AMD",
+   "num": "98"
+  },
+  {
+   "action": "Amended Assembly",
+   "date": "2026-08-19",
+   "id": "20250SB143997AMD",
+   "num": "97"
+  },
+  {
+   "action": "Enrolled",
+   "date": "2026-08-31",
+   "id": "20250SB143996ENR",
+   "num": "96"
+  },
+  {
+   "action": "Chaptered",
+   "date": "2026-09-20",
+   "id": "20250SB143995CHP",
+   "num": "95"
+  }
+ ],
+ "votes": [
+  {
+   "chamber": "S",
+   "date": "2026-04-15",
+   "location": "Sen Local Government",
+   "motion": "Do pass and be ordered to the Consent Calendar",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1",
+   "yes": 7
+  },
+  {
+   "chamber": "S",
+   "date": "2026-04-23",
+   "location": "Senate Floor",
+   "motion": "Consent Calendar 2nd SB1439 L. GOV. (Durazo)",
+   "no": 0,
+   "nv": 3,
+   "result": "pass",
+   "seq": "4041",
+   "yes": 37
+  },
+  {
+   "chamber": "A",
+   "date": "2026-07-01",
+   "location": "Asm Local Government",
+   "motion": "Do pass. To Consent Calendar.",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1",
+   "yes": 9
+  },
+  {
+   "chamber": "A",
+   "date": "2026-08-24",
+   "location": "Assembly Floor",
+   "motion": "SB 1439 Local Government Senate Third Reading By CARRILLO",
+   "no": 0,
+   "nv": 1,
+   "result": "pass",
+   "seq": "1007",
+   "yes": 78
+  },
+  {
+   "chamber": "S",
+   "date": "2026-08-27",
+   "location": "Senate Floor",
+   "motion": "Special Consent SB1439 L. GOV. (Durazo)",
+   "no": 0,
+   "nv": 0,
+   "result": "pass",
+   "seq": "1250",
+   "yes": 40
+  }
+ ]
+}
