@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated": "2026-11-02T22:19:42+00:00",
+ "generated": "2026-11-09T23:07:15+00:00",
  "codes": {
   "GOV": {
    "sections": 1073,
@@ -62,7 +62,7 @@
  "note": "Convenience copy of California Code text from the Legislature's pubinfo download. The official text is on leginfo.legislature.ca.gov.",
  "source": {
   "file": "pubinfo_2025.zip",
-  "last_modified": "Mon, 02 Nov 2026 05:26:09 GMT",
+  "last_modified": "Mon, 09 Nov 2026 05:26:05 GMT",
   "url": "https://downloads.leginfo.legislature.ca.gov/pubinfo_2025.zip"
  }
 }
