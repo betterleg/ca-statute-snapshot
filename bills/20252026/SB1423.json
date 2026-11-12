@@ -62,7 +62,7 @@
   "This bill would require the office, on or before July 1, 2028, to compile, standardize, maintain, and make publicly available through a consolidated online platform a core set of statewide standardized spatial planning datasets, as defined. The bill would require the datasets to include specified categories of information, including hazardous data, natural resource sensitivity data, and agricultural value data, as provided. The bill would also require the office, on or before January 1, 2029, to develop and provide guidance for agencies to inform how to use and integrate the datasets in regional planning processes and products. The bill would require the office to update those datasets as new or revised data becomes available from the originating state or federal agencies.",
   "This bill would permit state, regional, and local governments to consider use of the standardized spatial planning datasets published by the office in the development and production of land use and infrastructure plans, as specified. The bill would require the office to provide technical assistance, upon request, for use of the data from these provisions. The bill would specify that it does not create new regulatory requirements, regulate land use or zoning, establish land use designations, or preempt the local land use authority of cities and counties."
  ],
- "hash": "244beeeed7affd1d",
+ "hash": "e89803da2ef1df7c",
  "history": [
   {
    "action": "Introduced. To Com. on RLS. for assignment. To print.",
@@ -185,17 +185,17 @@
    "date": "2026-08-05"
   },
   {
-   "action": "Assembly Rule 63 suspended.",
-   "chamber": "A",
-   "date": "2026-08-13"
-  },
-  {
    "action": "From committee: Do pass as amended. (Ayes 11. Noes 3.) (August 13).",
    "chamber": "A",
    "date": "2026-08-13"
   },
   {
    "action": "Read second time and amended. Ordered to second reading.",
+   "chamber": "A",
+   "date": "2026-08-13"
+  },
+  {
+   "action": "Assembly Rule 63 suspended.",
    "chamber": "A",
    "date": "2026-08-13"
   },
@@ -230,7 +230,7 @@
    "date": "2026-08-28"
   },
   {
-   "action": "Assembly amendments concurred in. (Ayes 28. Noes 10.) Ordered to engrossing and enrolling.",
+   "action": "Assembly amendments concurred in. (Ayes 29. Noes 10. Page 6149.) Ordered to engrossing and enrolling.",
    "chamber": "S",
    "date": "2026-08-30"
   },
